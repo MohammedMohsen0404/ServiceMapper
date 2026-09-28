@@ -1,4 +1,4 @@
-canonical_id,service_normalized,occurrences,original_category,corrected_category,code
+﻿canonical_id,service_normalized,occurrences,original_category,corrected_category,code
 1,catecholamins 24 hours urine,1,lab_test,lab_test,LOINC:2058-6
 2,peritoneal fluid (physical & chemical only,2,lab_test,lab_test,LOINC:103656-5
 3,pyrilinks d (for bone resorption)( bone building test- for bone break down,1,lab_test,lab_test,LOINC:13881-8
