@@ -1,7 +1,6 @@
 # Generated/derived data — regenerable from service_classified.csv via the pipeline scripts
 mapping_descriptions.csv
 service_classified.csv.bak
-service_mapped_final.csv
 issue_log.csv
 batches/
 results/
