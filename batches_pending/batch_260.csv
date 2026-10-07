@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+456901,plastic normal -/+ 1.00 1.00-bupa,1,eyewear
+456902,plastic normal -/+ 1.00 1.25,2,eyewear
+456904,plastic normal -/+ 1.00 1.25-bupa,1,eyewear
+456905,plastic normal -/+ 1.00 1.50,4,eyewear
+456908,plastic normal -/+ 1.00 1.50-bupa,1,eyewear
+456909,plastic normal -/+ 1.00 1.75,1,eyewear
+456910,plastic normal -/+ 1.00 1.75-bupa,1,eyewear
+456911,plastic normal -/+ 1.00 2.00,3,eyewear
+456913,plastic normal -/+ 1.00 2.00-bupa,1,eyewear
+456914,plastic normal -/+ 1.00 2.25,2,eyewear
+456916,plastic normal -/+ 1.00 2.25-bupa,1,eyewear
+456917,plastic normal -/+ 1.00 2.50-bupa,1,eyewear
+456918,plastic normal -/+ 1.00 2.75-bupa,1,eyewear
+456919,plastic normal -/+ 1.00 3.00-bupa,1,eyewear
+456920,plastic normal -/+ 1.00 3.25-bupa,1,eyewear
+456921,plastic normal -/+ 1.00 3.50,1,eyewear
+456922,plastic normal -/+ 1.00 3.50-bupa,1,eyewear
+456923,plastic normal -/+ 1.00 3.75-bupa,1,eyewear
+456924,plastic normal -/+ 1.00 4.00-bupa,1,eyewear
+456925,"plastic normal -/+ 1.00 , 0.50",1,eyewear
+456926,"plastic normal -/+ 1.00 , 0.75",1,eyewear
+456927,"plastic normal -/+ 1.00 , 2.25",1,eyewear
+456928,"plastic normal -/+ 1.00 , 3.00",1,eyewear
+456938,plastic normal -/+ 1.00 sph-bupa,1,eyewear
+456939,plastic normal -/+ 1.25,1,eyewear
+456940,plastic normal -/+ 1.25 0.25,4,eyewear
+456943,plastic normal -/+ 1.25 0.25-bupa,1,eyewear
+456944,plastic normal -/+ 1.25 0.50,4,eyewear
+456947,plastic normal -/+ 1.25 0.50-bupa,1,eyewear
+456948,plastic normal -/+ 1.25 0.75,3,eyewear
+456949,plastic normal -/+ 1.25 0.75 bupa,1,eyewear
+456951,plastic normal -/+ 1.25 0.75-bupa,1,eyewear
+456952,plastic normal -/+ 1.25 1.00,4,eyewear
+456955,plastic normal -/+ 1.25 1.00-bupa,1,eyewear
+456956,plastic normal -/+ 1.25 1.25,3,eyewear
+456958,plastic normal -/+ 1.25 1.25-bupa,1,eyewear
+456959,plastic normal -/+ 1.25 1.50,3,eyewear
+456961,plastic normal -/+ 1.25 1.50-bupa,1,eyewear
+456962,plastic normal -/+ 1.25 1.75,2,eyewear
+456963,plastic normal -/+ 1.25 1.75-bupa,1,eyewear
+456964,plastic normal -/+ 1.25 2.00,2,eyewear
+456965,plastic normal -/+ 1.25 2.00-bupa,1,eyewear
+456966,plastic normal -/+ 1.25 2.25-bupa,1,eyewear
+456967,plastic normal -/+ 1.25 2.50-bupa,1,eyewear
+456968,plastic normal -/+ 1.25 2.75-bupa,1,eyewear
+456969,plastic normal -/+ 1.25 3.00-bupa,1,eyewear
+456970,plastic normal -/+ 1.25 3.50-bupa,1,eyewear
+456971,plastic normal -/+ 1.25 4.00,2,eyewear
+456972,plastic normal -/+ 1.25 4.00-bupa,1,eyewear
+456973,"plastic normal -/+ 1.25 , 0.50",1,eyewear
+456974,"plastic normal -/+ 1.25 , 0.75",1,eyewear
+456975,"plastic normal -/+ 1.25 , 1.00",1,eyewear
+456976,"plastic normal -/+ 1.25 , 2.25",1,eyewear
+456977,"plastic normal -/+ 1.25 , 3.00",1,eyewear
+456986,plastic normal -/+ 1.25 3.25,1,eyewear
+456988,plastic normal -/+ 1.25 sph,3,eyewear
+456991,plastic normal -/+ 1.25 sph-bupa,1,eyewear
+456992,plastic normal -/+ 1.50 0.25,4,eyewear
+456995,plastic normal -/+ 1.50 0.25-bupa,1,eyewear
+456996,plastic normal -/+ 1.50 0.50,4,eyewear
+456999,plastic normal -/+ 1.50 0.50-bupa,1,eyewear
+457000,plastic normal -/+ 1.50 0.75,4,eyewear
+457003,plastic normal -/+ 1.50 0.75-bupa,1,eyewear
+457004,plastic normal -/+ 1.50 1.00,2,eyewear
+457006,plastic normal -/+ 1.50 1.00-bupa,1,eyewear
+457007,plastic normal -/+ 1.50 1.25,4,eyewear
+457010,plastic normal -/+ 1.50 1.25-bupa,1,eyewear
+457011,plastic normal -/+ 1.50 1.50,2,eyewear
+457013,plastic normal -/+ 1.50 1.50-bupa,1,eyewear
+457014,plastic normal -/+ 1.50 1.75,4,eyewear
+457017,plastic normal -/+ 1.50 1.75-bupa,1,eyewear
+457020,plastic normal -/+ 1.50 2.00-bupa,1,eyewear
+457021,plastic normal -/+ 1.50 2.25,1,eyewear
+457022,plastic normal -/+ 1.50 2.25-bupa,1,eyewear
+457023,plastic normal -/+ 1.50 2.50,1,eyewear
+457024,plastic normal -/+ 1.50 2.50-bupa,1,eyewear
+457025,plastic normal -/+ 1.50 2.75-bupa,1,eyewear
+457026,plastic normal -/+ 1.50 3.00,2,eyewear
+457028,plastic normal -/+ 1.50 3.00-bupa,1,eyewear
+457029,plastic normal -/+ 1.50 3.25-bupa,1,eyewear
+457030,plastic normal -/+ 1.50 4.00-bupa,1,eyewear
+457031,"plastic normal -/+ 1.50 , 0.50",1,eyewear
+457032,"plastic normal -/+ 1.50 , 1.50",1,eyewear
+457038,plastic normal -/+ 1.50 4.00,1,eyewear
+457039,plastic normal -/+ 1.50 sph,3,eyewear
+457042,plastic normal -/+ 1.50 sph-bupa,1,eyewear
+457043,plastic normal -/+ 1.75 0.25,2,eyewear
+457045,plastic normal -/+ 1.75 0.25-bupa,1,eyewear
+457046,plastic normal -/+ 1.75 0.50,4,eyewear
+457049,plastic normal -/+ 1.75 0.50-bupa,1,eyewear
+457050,plastic normal -/+ 1.75 0.75,4,eyewear
+457053,plastic normal -/+ 1.75 0.75-bupa,1,eyewear
+457054,plastic normal -/+ 1.75 1.00,4,eyewear
+457057,plastic normal -/+ 1.75 1.00-bupa,1,eyewear
+457058,plastic normal -/+ 1.75 1.25,3,eyewear
+457060,plastic normal -/+ 1.75 1.25-bupa,1,eyewear
+457061,plastic normal -/+ 1.75 1.50,1,eyewear
+457062,plastic normal -/+ 1.75 1.50-bupa,1,eyewear
+457063,plastic normal -/+ 1.75 1.75,1,eyewear
+457064,plastic normal -/+ 1.75 1.75-bupa,1,eyewear
+457065,plastic normal -/+ 1.75 2.00,2,eyewear
+457067,plastic normal -/+ 1.75 2.00-bupa,1,eyewear
+457068,plastic normal -/+ 1.75 2.25-bupa,1,eyewear
+457069,plastic normal -/+ 1.75 2.50-bupa,1,eyewear
+457070,plastic normal -/+ 1.75 2.75,1,eyewear
+457071,plastic normal -/+ 1.75 2.75-bupa,1,eyewear
+457072,plastic normal -/+ 1.75 3.00,1,eyewear
+457073,plastic normal -/+ 1.75 3.00-bupa,1,eyewear
+457074,"plastic normal -/+ 1.75 , 0.50",1,eyewear
+457075,"plastic normal -/+ 1.75 , 0.75",1,eyewear
+457076,"plastic normal -/+ 1.75 , 1.50",1,eyewear
+457081,plastic normal -/+ 1.75 sph,3,eyewear
+457084,plastic normal -/+ 1.75 sph-bupa,1,eyewear
+457085,plastic normal -/+ 2.00 0.25,4,eyewear
+457088,plastic normal -/+ 2.00 0.25-bupa,1,eyewear
+457089,plastic normal -/+ 2.00 0.50,4,eyewear
+457092,plastic normal -/+ 2.00 0.50-bupa,1,eyewear
+457093,plastic normal -/+ 2.00 0.75,4,eyewear
+457096,plastic normal -/+ 2.00 0.75-bupa,1,eyewear
+457097,plastic normal -/+ 2.00 1.00,3,eyewear
+457099,plastic normal -/+ 2.00 1.00-bupa,1,eyewear
+457100,plastic normal -/+ 2.00 1.25,3,eyewear
+457102,plastic normal -/+ 2.00 1.25-bupa,1,eyewear
+457103,plastic normal -/+ 2.00 1.50,4,eyewear
+457106,plastic normal -/+ 2.00 1.50-bupa,1,eyewear
+457107,plastic normal -/+ 2.00 1.75,2,eyewear
+457108,plastic normal -/+ 2.00 1.75-bupa,1,eyewear
+457109,plastic normal -/+ 2.00 2.00,3,eyewear
+457111,plastic normal -/+ 2.00 2.00-bupa,1,eyewear
+457112,plastic normal -/+ 2.00 2.25,1,eyewear
+457113,plastic normal -/+ 2.00 2.25-bupa,1,eyewear
+457114,plastic normal -/+ 2.00 2.50-bupa,1,eyewear
+457115,plastic normal -/+ 2.00 3.00-bupa,1,eyewear
+457116,plastic normal -/+ 2.00 3.50,1,eyewear
+457117,plastic normal -/+ 2.00 3.75-bupa,1,eyewear
+457118,"plastic normal -/+ 2.00 , 0.25",1,eyewear
+457119,"plastic normal -/+ 2.00 , 0.75",1,eyewear
+457128,plastic normal -/+ 2.00 3.75,1,eyewear
+457129,plastic normal -/+ 2.00 4.00,1,eyewear
+457130,plastic normal -/+ 2.00 sph,3,eyewear
+457133,plastic normal -/+ 2.00 sph-bupa,1,eyewear
+457134,plastic normal -/+ 2.25 0.25,1,eyewear
+457135,plastic normal -/+ 2.25 0.25-bupa,1,eyewear
+457136,plastic normal -/+ 2.25 0.50,3,eyewear
+457139,plastic normal -/+ 2.25 0.50-bupa,1,eyewear
+457140,plastic normal -/+ 2.25 0.75,2,eyewear
+457141,plastic normal -/+ 2.25 0.75-bupa,1,eyewear
+457145,plastic normal -/+ 2.25 1.00-bupa,1,eyewear
+457146,plastic normal -/+ 2.25 1.25,2,eyewear
+457148,plastic normal -/+ 2.25 1.25-bupa,1,eyewear
+457149,plastic normal -/+ 2.25 1.50,3,eyewear
+457151,plastic normal -/+ 2.25 1.50-bupa,1,eyewear
+457152,plastic normal -/+ 2.25 1.75,1,eyewear
+457153,plastic normal -/+ 2.25 1.75-bupa,1,eyewear
+457154,plastic normal -/+ 2.25 2.00-bupa,1,eyewear
+457155,plastic normal -/+ 2.25 2.25-bupa,1,eyewear
+457156,plastic normal -/+ 2.25 2.50-bupa,1,eyewear
+457157,plastic normal -/+ 2.25 4.00-bupa,1,eyewear
+457158,"plastic normal -/+ 2.25 , 0.25",1,eyewear
+457159,"plastic normal -/+ 2.25 , 2.00",1,eyewear
+457163,plastic normal -/+ 2.25 4.00,1,eyewear
+457164,plastic normal -/+ 2.25 sph,3,eyewear
+457167,plastic normal -/+ 2.25 sph-bupa,1,eyewear
+457168,plastic normal -/+ 2.50 0.25,3,eyewear
+457171,plastic normal -/+ 2.50 0.25-bupa,1,eyewear
+457172,plastic normal -/+ 2.50 0.50,4,eyewear
+457175,plastic normal -/+ 2.50 0.50-bupa,1,eyewear
+457176,plastic normal -/+ 2.50 0.75,3,eyewear
+457178,plastic normal -/+ 2.50 0.75-bupa,1,eyewear
+457179,plastic normal -/+ 2.50 1.00,3,eyewear
+457182,plastic normal -/+ 2.50 1.00-bupa,1,eyewear
+457183,plastic normal -/+ 2.50 1.25,1,eyewear
+457184,plastic normal -/+ 2.50 1.25-bupa,1,eyewear
+457185,plastic normal -/+ 2.50 1.50,3,eyewear
+457187,plastic normal -/+ 2.50 1.50-bupa,1,eyewear
+457188,plastic normal -/+ 2.50 1.75-bupa,1,eyewear
+457189,plastic normal -/+ 2.50 2.00,2,eyewear
+457191,plastic normal -/+ 2.50 2.00-bupa,1,eyewear
+457192,plastic normal -/+ 2.50 2.25-bupa,1,eyewear
+457193,plastic normal -/+ 2.50 2.50-bupa,1,eyewear
+457194,plastic normal -/+ 2.50 2.75-bupa,1,eyewear
+457195,plastic normal -/+ 2.50 3.00,1,eyewear
+457196,plastic normal -/+ 2.50 3.75-bupa,1,eyewear
+457200,plastic normal -/+ 2.50 1.75,1,eyewear
+457201,plastic normal -/+ 2.50 2.50,1,eyewear
+457202,plastic normal -/+ 2.50 sph,3,eyewear
+457205,plastic normal -/+ 2.50 sph-bupa,1,eyewear
+457206,plastic normal -/+ 2.75 0.25,2,eyewear
+457208,plastic normal -/+ 2.75 0.25-bupa,1,eyewear
+457209,plastic normal -/+ 2.75 0.50,2,eyewear
+457211,plastic normal -/+ 2.75 0.50-bupa,1,eyewear
+457212,plastic normal -/+ 2.75 0.75,1,eyewear
+457213,plastic normal -/+ 2.75 0.75-bupa,1,eyewear
+457214,plastic normal -/+ 2.75 1.00,3,eyewear
+457216,plastic normal -/+ 2.75 1.00-bupa,1,eyewear
+457217,plastic normal -/+ 2.75 1.25,2,eyewear
+457218,plastic normal -/+ 2.75 1.25-bupa,1,eyewear
+457219,plastic normal -/+ 2.75 1.50,1,eyewear
+457220,plastic normal -/+ 2.75 1.50-bupa,1,eyewear
+457221,plastic normal -/+ 2.75 2.00,2,eyewear
+457222,plastic normal -/+ 2.75 2.00-bupa,1,eyewear
+457223,plastic normal -/+ 2.75 2.25-bupa,1,eyewear
+457224,plastic normal -/+ 2.75 3.00-bupa,1,eyewear
+457225,"plastic normal -/+ 2.75 , 0.75",1,eyewear
+457229,plastic normal -/+ 2.75 sph,3,eyewear
+457232,plastic normal -/+ 2.75 sph-bupa,1,eyewear
+457233,plastic normal -/+ 3.00 0.25,1,eyewear
+457234,plastic normal -/+ 3.00 0.25-bupa,1,eyewear
+457235,plastic normal -/+ 3.00 0.50,3,eyewear
+457237,plastic normal -/+ 3.00 0.50-bupa,1,eyewear
+457238,plastic normal -/+ 3.00 0.75,2,eyewear
+457239,plastic normal -/+ 3.00 0.75-bupa,1,eyewear
+457240,plastic normal -/+ 3.00 1.00,1,eyewear
+457241,plastic normal -/+ 3.00 1.00-bupa,1,eyewear
+457242,plastic normal -/+ 3.00 1.25,1,eyewear
+457243,plastic normal -/+ 3.00 1.25-bupa,1,eyewear
+457244,plastic normal -/+ 3.00 1.50-bupa,1,eyewear
+457245,plastic normal -/+ 3.00 1.75,2,eyewear
+457247,plastic normal -/+ 3.00 1.75-bupa,1,eyewear
+457248,plastic normal -/+ 3.00 2.00-bupa,1,eyewear
+457249,plastic normal -/+ 3.00 2.25-bupa,1,eyewear
+457250,plastic normal -/+ 3.00 2.50,1,eyewear
+457251,plastic normal -/+ 3.00 2.50-bupa,1,eyewear
+457252,plastic normal -/+ 3.00 2.75,1,eyewear
+457253,plastic normal -/+ 3.00 3.00-bupa,1,eyewear
+457254,plastic normal -/+ 3.00 4.00-bupa,1,eyewear
+457255,"plastic normal -/+ 3.00 , 0.75",1,eyewear
+457256,"plastic normal -/+ 3.00 , 2.25",1,eyewear
+457259,plastic normal -/+ 3.00 1.50,1,eyewear
+457260,plastic normal -/+ 3.00 3.50,1,eyewear
+457261,plastic normal -/+ 3.00 sph,3,eyewear
+457264,plastic normal -/+ 3.00 sph-bupa,1,eyewear
+457265,plastic normal -/+ 3.25 0.25,2,eyewear
+457267,plastic normal -/+ 3.25 0.25-bupa,1,eyewear
+457268,plastic normal -/+ 3.25 0.50,2,eyewear
+457269,plastic normal -/+ 3.25 0.50-bupa,1,eyewear
+457270,plastic normal -/+ 3.25 0.75,3,eyewear
+457272,plastic normal -/+ 3.25 0.75-bupa,1,eyewear
+457273,plastic normal -/+ 3.25 1.00,1,eyewear
+457274,plastic normal -/+ 3.25 1.00-bupa,1,eyewear
+457275,plastic normal -/+ 3.25 1.25-bupa,1,eyewear
+457276,plastic normal -/+ 3.25 1.50-bupa,1,eyewear
+457277,plastic normal -/+ 3.25 1.75,1,eyewear
+457278,plastic normal -/+ 3.25 1.75-bupa,1,eyewear
+457279,plastic normal -/+ 3.25 2.00,1,eyewear
+457282,plastic normal -/+ 3.25 1.50,1,eyewear
+457283,plastic normal -/+ 3.25 sph,2,eyewear
+457285,plastic normal -/+ 3.25 sph-bupa,1,eyewear
+457286,plastic normal -/+ 3.50 0.25,1,eyewear
+457287,plastic normal -/+ 3.50 0.25-bupa,1,eyewear
+457288,plastic normal -/+ 3.50 0.50,1,eyewear
+457289,plastic normal -/+ 3.50 0.50-bupa,1,eyewear
+457291,plastic normal -/+ 3.50 0.75-bupa,1,eyewear
+457292,plastic normal -/+ 3.50 1.50,1,eyewear
+457293,plastic normal -/+ 3.50 1.50-bupa,1,eyewear
+457294,plastic normal -/+ 3.50 1.75-bupa,1,eyewear
+457295,plastic normal -/+ 3.50 2.00-bupa,1,eyewear
+457296,plastic normal -/+ 3.50 2.25,1,eyewear
+457297,plastic normal -/+ 3.50 2.25-bupa,1,eyewear
+457298,plastic normal -/+ 3.50 2.75-bupa,1,eyewear
+457299,plastic normal -/+ 3.50 3.50-bupa,1,eyewear
+457300,plastic normal -/+ 3.50 1.75,1,eyewear
+457301,plastic normal -/+ 3.50 sph,3,eyewear
+457304,plastic normal -/+ 3.50 sph-bupa,1,eyewear
+457305,plastic normal -/+ 3.75 0.25,1,eyewear
+457306,plastic normal -/+ 3.75 0.25-bupa,1,eyewear
+457307,plastic normal -/+ 3.75 0.50,1,eyewear
+457308,plastic normal -/+ 3.75 0.50-bupa,1,eyewear
+457309,plastic normal -/+ 3.75 0.75,1,eyewear
+457310,plastic normal -/+ 3.75 0.75-bupa,1,eyewear
+457311,plastic normal -/+ 3.75 1.00,1,eyewear
+457312,plastic normal -/+ 3.75 1.00-bupa,1,eyewear
+457313,plastic normal -/+ 3.75 1.25-bupa,1,eyewear
+457314,plastic normal -/+ 3.75 1.50,2,eyewear
+457316,plastic normal -/+ 3.75 1.50-bupa,1,eyewear
+457317,plastic normal -/+ 3.75 1.75-bupa,1,eyewear
+457318,plastic normal -/+ 3.75 3.25-bupa,1,eyewear
+457319,plastic normal -/+ 3.75 4.00-bupa,1,eyewear
+457320,plastic normal -/+ 3.75 sph,2,eyewear
+457322,plastic normal -/+ 3.75 sph-bupa,1,eyewear
+457323,plastic normal -/+ 4.00 0.25,2,eyewear
+457324,plastic normal -/+ 4.00 0.25-bupa,1,eyewear
+457325,plastic normal -/+ 4.00 0.50,2,eyewear
+457327,plastic normal -/+ 4.00 0.50-bupa,1,eyewear
+457328,plastic normal -/+ 4.00 0.75-bupa,1,eyewear
+457329,plastic normal -/+ 4.00 1.00-bupa,1,eyewear
+457330,plastic normal -/+ 4.00 1.25-bupa,1,eyewear
+457331,plastic normal -/+ 4.00 1.50-bupa,1,eyewear
+457332,plastic normal -/+ 4.00 1.75,1,eyewear
+457333,plastic normal -/+ 4.00 2.00-bupa,1,eyewear
+457334,plastic normal -/+ 4.00 2.25-bupa,1,eyewear
+457335,plastic normal -/+ 4.00 4.00-bupa,1,eyewear
+457337,plastic normal -/+ 4.00 1.00,1,eyewear
+457338,plastic normal -/+ 4.00 1.50,1,eyewear
+457339,plastic normal -/+ 4.00 sph,3,eyewear
+457342,plastic normal -/+ 4.00 sph-bupa,1,eyewear
+457343,plastic normal -/+ 4.25 0.25-bupa,1,eyewear
+457344,plastic normal -/+ 4.25 0.50-bupa,1,eyewear
+457345,plastic normal -/+ 4.25 0.75,1,eyewear
+457346,plastic normal -/+ 4.25 0.75-bupa,1,eyewear
+457347,plastic normal -/+ 4.25 1.00,1,eyewear
+457348,plastic normal -/+ 4.25 1.00-bupa,1,eyewear
+457349,plastic normal -/+ 4.25 1.25-bupa,1,eyewear
+457350,plastic normal -/+ 4.25 1.75-bupa,1,eyewear
+457351,plastic normal -/+ 4.25 2.00,2,eyewear
+457352,plastic normal -/+ 4.25 2.00-bupa,1,eyewear
+457353,plastic normal -/+ 4.25 3.00,1,eyewear
+457354,plastic normal -/+ 4.25 3.00-bupa,1,eyewear
+457355,"plastic normal -/+ 4.25 , 2.00",1,eyewear
+457357,plastic normal -/+ 4.25 2.25,1,eyewear
+457358,plastic normal -/+ 4.25 sph,1,eyewear
+457359,plastic normal -/+ 4.25 sph-bupa,1,eyewear
+457360,plastic normal -/+ 4.50 0.25,1,eyewear
+457361,plastic normal -/+ 4.50 0.25-bupa,1,eyewear
+457362,plastic normal -/+ 4.50 0.50-bupa,1,eyewear
+457363,plastic normal -/+ 4.50 0.75-bupa,1,eyewear
+457364,plastic normal -/+ 4.50 1.00-bupa,1,eyewear
+457365,plastic normal -/+ 4.50 1.25-bupa,1,eyewear
+457366,plastic normal -/+ 4.50 1.50,1,eyewear
+457367,plastic normal -/+ 4.50 1.75,1,eyewear
+457368,plastic normal -/+ 4.50 1.75-bupa,1,eyewear
+457369,plastic normal -/+ 4.50 2.25,1,eyewear
+457370,plastic normal -/+ 4.50 2.50,1,eyewear
+457371,plastic normal -/+ 4.50 2.50-bupa,1,eyewear
+457372,plastic normal -/+ 4.50 3.00,1,eyewear
+457373,plastic normal -/+ 4.50 2.00,1,eyewear
+457374,plastic normal -/+ 4.50 sph,2,eyewear
+457376,plastic normal -/+ 4.50 sph-bupa,1,eyewear
+457377,plastic normal -/+ 4.75 0.25-bupa,1,eyewear
+457378,plastic normal -/+ 4.75 0.50,1,eyewear
+457379,plastic normal -/+ 4.75 0.50-bupa,1,eyewear
+457380,plastic normal -/+ 4.75 0.75-bupa,1,eyewear
+457381,plastic normal -/+ 4.75 1.25,1,eyewear
+457382,plastic normal -/+ 4.75 1.25-bupa,1,eyewear
+457383,plastic normal -/+ 4.75 1.50-bupa,1,eyewear
+457384,plastic normal -/+ 4.75 1.75-bupa,1,eyewear
+457385,"plastic normal -/+ 4.75 , 1.25",1,eyewear
+457386,plastic normal -/+ 4.75 sph-bupa,1,eyewear
+457387,plastic normal -/+ 401.00 0.50-bupa,1,eyewear
+457388,plastic normal -/+ 5.00 0.25,1,eyewear
+457389,plastic normal -/+ 5.00 0.50,1,eyewear
+457390,plastic normal -/+ 5.00 0.50-bupa,1,eyewear
+457391,plastic normal -/+ 5.00 0.75,1,eyewear
+457392,plastic normal -/+ 5.00 0.75-bupa,1,eyewear
+457393,plastic normal -/+ 5.00 1.00,1,eyewear
+457394,plastic normal -/+ 5.00 1.00-bupa,1,eyewear
+457395,plastic normal -/+ 5.00 1.25-bupa,1,eyewear
+457396,plastic normal -/+ 5.00 1.50-bupa,1,eyewear
+457397,plastic normal -/+ 5.00 2.25,1,eyewear
+457398,plastic normal -/+ 5.00 2.50,1,eyewear
+457399,plastic normal -/+ 5.00 3.50,1,eyewear
+457400,plastic normal -/+ 5.00 sph,1,eyewear
+457401,plastic normal -/+ 5.25 0.25,1,eyewear
+457402,plastic normal -/+ 5.25 1.00-bupa,1,eyewear
+457403,plastic normal -/+ 5.25 1.50-bupa,1,eyewear
+457404,"plastic normal -/+ 5.25 , 1.75",1,eyewear
+457405,plastic normal -/+ 5.25 sph-bupa,1,eyewear
+457406,plastic normal -/+ 5.50 0.25-bupa,1,eyewear
+457407,plastic normal -/+ 5.50 0.50-bupa,1,eyewear
+457408,plastic normal -/+ 5.50 0.75-bupa,1,eyewear
+457409,plastic normal -/+ 5.50 1.00-bupa,1,eyewear
+457410,plastic normal -/+ 5.50 1.50,1,eyewear
+457411,plastic normal -/+ 5.50 1.50-bupa,1,eyewear
+457412,plastic normal -/+ 5.50 2.75-bupa,1,eyewear
+457413,plastic normal -/+ 5.50 sph-bupa,1,eyewear
+457414,plastic normal -/+ 6.00 0.50-bupa,1,eyewear
+457415,plastic normal -/+ 6.00 0.75-bupa,1,eyewear
+457416,plastic normal -/+ 6.00 1.00-bupa,1,eyewear
+457417,plastic normal -/+ 6.00 2.00,1,eyewear
+457418,plastic normal -/+ 6.00 2.00-bupa,1,eyewear
+457419,"plastic normal -/+ 6.00 , 1.75",1,eyewear
+457420,plastic normal -/+ 8.00 sph,1,eyewear
+457421,plastic normal / + 0.25 2.50 bupa,1,eyewear
+457422,plastic normal / + 0.50 0.50 bupa,1,eyewear
+457423,plastic normal / + 0.50 1.50 bupa,1,eyewear
+457424,plastic normal / + 000 1.50 cyl bupa,1,eyewear
+457425,plastic normal / + 1.00 0.50 bupa,1,eyewear
+457426,plastic normal / + 1.25 0.50 bupa,1,eyewear
+457427,plastic normal / + 1.25 1.750 bupa,1,eyewear
+457428,plastic normal / + 1.50 0.50 bupa,1,eyewear
+457429,plastic normal / + 1.50 2.00 bupa,1,eyewear
+457430,plastic normal / + 1.75 0.50 bupa,1,eyewear
+457431,plastic normal / + 1.75 1.00 bupa,1,eyewear
+457432,plastic normal / + 2.00 0.50 bupa,1,eyewear
+457433,plastic normal / + 2.25 0.50 bupa,1,eyewear
+457434,plastic normal / + 2.50 0.50 bupa,1,eyewear
+457435,plastic normal / + 2.50 1.00 bupa,1,eyewear
+457436,plastic normal / + 2.75 0.50 bupa,1,eyewear
+457437,plastic normal / + 3.00 1.00 bupa,1,eyewear
+457438,plastic normal / + 4.50 2.00 bupa,1,eyewear
+457439,plastic normal / + 5.00 2.00 bupa,1,eyewear
+457440,plastic normal /+ 0.00 1.75 cyl bupa,1,eyewear
+457441,plastic normal /+ 0.25 0.25 bupa,1,eyewear
+457442,plastic normal /+ 0.25 0.25 cyl bupa,1,eyewear
+457443,plastic normal /+ 0.25 0.50 bupa,1,eyewear
+457444,plastic normal /+ 0.25 0.75 bupa,1,eyewear
+457445,plastic normal /+ 0.25 1.00 bupa,1,eyewear
+457446,plastic normal /+ 0.25 1.25 bupa,1,eyewear
+457447,plastic normal /+ 0.25 1.50 bupa,1,eyewear
+457448,plastic normal /+ 0.25 125 bupa,1,eyewear
+457449,plastic normal /+ 0.25 2.50 bupa,1,eyewear
+457450,plastic normal /+ 0.50 0.25 bupa,1,eyewear
+457451,plastic normal /+ 0.50 0.50 bupa,1,eyewear
+457452,plastic normal /+ 0.50 0.75 bupa,1,eyewear
+457453,plastic normal /+ 0.50 1.00 bupa,1,eyewear
+457454,plastic normal /+ 0.50 1.25 bupa,1,eyewear
+457455,plastic normal /+ 0.50 1.50 bupa,1,eyewear
+457456,plastic normal /+ 0.50 1.75 bupa,1,eyewear
+457457,plastic normal /+ 0.50 125 bupa,1,eyewear
+457458,plastic normal /+ 0.50 2.00 bupa,1,eyewear
+457459,plastic normal /+ 0.50 3.75 bupa,1,eyewear
+457460,plastic normal /+ 0.50 sph bupa,1,eyewear
+457461,plastic normal /+ 0.75 0.25 bupa,1,eyewear
+457462,plastic normal /+ 0.75 0.50 bupa,1,eyewear
+457463,plastic normal /+ 0.75 0.75 bupa,1,eyewear
+457464,plastic normal /+ 0.75 1.00 bupa,1,eyewear
+457465,plastic normal /+ 0.75 1.25 bupa,1,eyewear
+457466,plastic normal /+ 0.75 1.50 bupa,1,eyewear
+457467,plastic normal /+ 0.75 2.25 bupa,1,eyewear
+457468,plastic normal /+ 0.75 sph bupa,1,eyewear
+457469,plastic normal /+ 000 0.25 bupa,1,eyewear
+457470,plastic normal /+ 000 0.50 bupa,1,eyewear
+457471,plastic normal /+ 000 0.50 cyl bupa,1,eyewear
+457472,plastic normal /+ 000 0.75 cyl bupa,1,eyewear
+457473,plastic normal /+ 000 2.00 cyl bupa,1,eyewear
+457474,plastic normal /+ 000 2.25 cyl bupa,1,eyewear
+457475,plastic normal /+ 000 2.50 cyl bupa,1,eyewear
+457476,plastic normal /+ 000 3.00 cyl bupa,1,eyewear
+457477,plastic normal /+ 000 4.00 bupa,1,eyewear
+457478,plastic normal /+ 1.00 0.25 bupa,1,eyewear
+457479,plastic normal /+ 1.00 0.50 bupa,1,eyewear
+457480,plastic normal /+ 1.00 0.75 bupa,1,eyewear
+457481,plastic normal /+ 1.00 050 bupa,1,eyewear
+457482,plastic normal /+ 1.00 1.00 bupa,1,eyewear
+457483,plastic normal /+ 1.00 1.50 bupa,1,eyewear
+457484,plastic normal /+ 1.00 1.75 bupa,1,eyewear
+457485,plastic normal /+ 1.00 2.00 bupa,1,eyewear
+457486,plastic normal /+ 1.00 sph bupa,1,eyewear
+457487,plastic normal /+ 1.25 0.25 bupa,1,eyewear
+457488,plastic normal /+ 1.25 0.50 bupa,1,eyewear
+457489,plastic normal /+ 1.25 0.75 bupa,1,eyewear
+457490,plastic normal /+ 1.25 1.00 bupa,1,eyewear
+457491,plastic normal /+ 1.25 2.00 bupa,1,eyewear
+457492,plastic normal /+ 1.25 3.25 bupa,1,eyewear
+457493,plastic normal /+ 1.25 sph bupa,1,eyewear
+457494,plastic normal /+ 1.50 0.25 bupa,1,eyewear
+457495,plastic normal /+ 1.50 0.50 bupa,1,eyewear
+457496,plastic normal /+ 1.50 0.75 bupa,1,eyewear
+457497,plastic normal /+ 1.50 1.50 bupa,1,eyewear
+457498,plastic normal /+ 1.50 2.00 bupa,1,eyewear
+457499,plastic normal /+ 1.50 2.50 bupa,1,eyewear
+457500,plastic normal /+ 1.50 sph bupa,1,eyewear
+457501,plastic normal /+ 1.75 0.25 bupa,1,eyewear
+457502,plastic normal /+ 1.75 0.50 bupa,1,eyewear
+457503,plastic normal /+ 1.75 0.75 bupa,1,eyewear
+457504,plastic normal /+ 1.75 1.00 bupa,1,eyewear
+457505,plastic normal /+ 1.75 2.00 bupa,1,eyewear
+457506,plastic normal /+ 1.75 sph bupa,1,eyewear
+457507,plastic normal /+ 2.00 0.50 bupa,1,eyewear
+457508,plastic normal /+ 2.00 2.00 bupa,1,eyewear
+457509,plastic normal /+ 2.00 2.50 bupa,1,eyewear
+457510,plastic normal /+ 2.00 2.75 bupa,1,eyewear
+457511,plastic normal /+ 2.00 4.00 bupa,1,eyewear
+457512,plastic normal /+ 2.00 sph bupa,1,eyewear
+457513,plastic normal /+ 2.25 0.25 bupa,1,eyewear
+457514,plastic normal /+ 2.25 0.50 bupa,1,eyewear
+457515,plastic normal /+ 2.25 0.75 bupa,1,eyewear
+457516,plastic normal /+ 2.25 1.50 bupa,1,eyewear
+457517,plastic normal /+ 2.25 1.75 bupa,1,eyewear
+457518,plastic normal /+ 2.25 2.25 bupa,1,eyewear
+457519,plastic normal /+ 2.25 4.00 bupa,1,eyewear
+457520,plastic normal /+ 2.50 0.25 bupa,1,eyewear
+457521,plastic normal /+ 2.50 0.50 bupa,1,eyewear
+457522,plastic normal /+ 2.50 0.75 bupa,1,eyewear
+457523,plastic normal /+ 2.50 1.00 bupa,1,eyewear
+457524,plastic normal /+ 2.50 1.25 bupa,1,eyewear
+457525,plastic normal /+ 2.50 sph bupa,1,eyewear
+457526,plastic normal /+ 2.75 0.25 bupa,1,eyewear
+457527,plastic normal /+ 2.75 0.50 bupa,1,eyewear
+457528,plastic normal /+ 2.75 1.00 bupa,1,eyewear
+457529,plastic normal /+ 2.75 2.50 bupa,1,eyewear
+457530,plastic normal /+ 2.75 4.00 bupa,1,eyewear
+457531,plastic normal /+ 2.75 sph bupa,1,eyewear
+457532,plastic normal /+ 3.00 0.25 bupa,1,eyewear
+457533,plastic normal /+ 3.00 0.50 bupa,1,eyewear
+457534,plastic normal /+ 3.00 0.75 bupa,1,eyewear
+457535,plastic normal /+ 3.00 sph bupa,1,eyewear
+457536,plastic normal /+ 3.25 0.50 bupa,1,eyewear
+457537,plastic normal /+ 3.25 0.75 bupa,1,eyewear
+457538,plastic normal /+ 3.25 sph bupa,1,eyewear
+457539,plastic normal /+ 3.50 0.25 bupa,1,eyewear
+457540,plastic normal /+ 3.50 0.50 bupa,1,eyewear
+457541,plastic normal /+ 3.50 0.75 bupa,1,eyewear
+457542,plastic normal /+ 3.50 1.50 bupa,1,eyewear
+457543,plastic normal /+ 3.50 sph bupa,1,eyewear
+457544,plastic normal /+ 3.75 0.50 bupa,1,eyewear
+457545,plastic normal /+ 3.75 0.75 bupa,1,eyewear
+457546,plastic normal /+ 3.75 sph bupa,1,eyewear
+457547,plastic normal /+ 4.00 0.50 bupa,1,eyewear
+457548,plastic normal /+ 4.00 0.75 bupa,1,eyewear

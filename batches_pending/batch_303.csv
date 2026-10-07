@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+503951,root canal filling 2 roots,2,dental
+503952,root canal filling 2root,1,dental
+503953,root canal filling 3 roots,1,dental
+503954,root canal filling 3-4 roots,1,dental
+503955,root canal filling 3root,1,dental
+503956,root canal filling additional each,1,dental
+503957,root canal filling anterior,4,dental
+503958,root canal filling anterior - dental,1,dental
+503959,root canal filling for ant. tooth. 1 root canal,1,dental
+503960,root canal filling for post,1,dental
+503961,root canal filling for post. tooth. 2 or more root canals,2,dental
+503962,root canal filling multi roots,1,dental
+503963,root canal filling multy rooted (bu)[20.16,1,dental
+503964,root canal filling of anterior teeth,1,dental
+503965,root canal filling of anterior teeth w/ dead pulp (1st payment) of sr,1,dental
+503966,root canal filling of anterior teeth w/ vital pulp (ist payment) of sr,1,dental
+503967,root canal filling of anterior teeth w/vital pulp (full payment,1,dental
+503968,root canal filling of posterior no.: 4 5 6 w/ dead pulp (1st payment,1,dental
+503969,root canal filling of posterior no.: 4 5 6 w/ vital pulp( ist payment,1,dental
+503970,root canal filling of posterior no.: 7 8 teeth (2nd payment) of sr900,1,dental
+503971,root canal filling of posterior no.= 4 5 6 w/ dead pulp (2nd payment,1,dental
+503972,root canal filling of posterior no.= 4 5 6 w/ dead pulp (3rd payment,1,dental
+503973,root canal filling of posterior no.= 4 5 6 w/ vital pulp( 2nd payment,1,dental
+503974,root canal filling of posterior no.= 4 5 6 w/ vital pulp( ist payment,1,dental
+503975,root canal filling of posterior no.= 7 8 teeth (2nd payment) of sr900,1,dental
+503976,root canal filling of posterior no.= 7 8 teeth (ist payment) of sr900,1,dental
+503977,root canal filling of posterior teeth,1,dental
+503978,root canal filling of posterior teeth (molar,1,dental
+503979,root canal filling one canal,1,dental
+503980,root canal filling posterior,2,dental
+503981,root canal filling posterior - dental,1,dental
+503983,root canal filling/ 2root,1,dental
+503984,root canal filling/ 2root + xray,1,imaging
+503985,root canal filling/ 2root(10004,1,dental
+503986,root canal filling/ 3root,1,dental
+503987,root canal filling/ 3root + xray,1,imaging
+503988,root canal filling/ 3root(10005,1,dental
+503989,root canal filling/1root,1,dental
+503990,root canal filling/1root(10003,1,dental
+503991,root canal filling/1root+ xray,1,imaging
+503992,root canal filling1root,1,dental
+503993,root canal for anterior tooth,1,dental
+503994,root canal for anterior tooth ???? ?????,1,dental
+503995,root canal for children,2,dental
+503996,root canal for children (pulpotomy,1,dental
+503997,root canal for for infected tooth,3,dental
+503999,root canal for more than 2 roots(ele.co,1,dental
+504000,root canal for plsterior tooth,1,dental
+504001,root canal for plsterior tooth ???? ?????,1,dental
+504002,root canal for posterior teeth,3,dental
+504003,root canal for pre molar,1,dental
+504004,root canal for pre molar ???? ?????,1,dental
+504005,root canal for premolars molars,1,dental
+504006,root canal for premolars & molars,1,dental
+504007,root canal for two root,1,dental
+504008,root canal in one session 50 mins (one canal,1,dental
+504009,root canal incisor,1,dental
+504010,root canal infection treatment (anterior,1,dental
+504011,root canal infection treatment (posterior,1,dental
+504012,root canal infection treatment (posterior) # 024-3343,1,dental
+504013,root canal molar,3,dental
+504014,root canal molar tooth,3,dental
+504015,root canal molar rct,1,dental
+504017,root canal mono-rtd (1 st visit,1,dental
+504018,root canal multi tooth with filling,1,dental
+504019,root canal multi-rtd (1st visit,1,dental
+504020,root canal multi-rtd (2nd visit,1,dental
+504021,root canal multi-rtd (3rd visit,2,dental
+504022,root canal multipul root,1,dental
+504023,root canal obturation each additi,2,dental
+504028,root canal obturation - 1 canal,1,dental
+504029,root canal obturation - each additional cana,1,dental
+504032,root canal obturation -one canal,2,dental
+504033,root canal obturation 1 canal,8,dental
+504034,root canal obturation ? each additional canal,2,dental
+504035,root canal obturation ? each additional canal (ncci,1,dental
+504036,root canal obturation ? one canal,2,dental
+504037,root canal obturation ? one canal (ncci,1,dental
+504038,root canal obturation ?? each additional canal,1,dental
+504039,root canal obturation ?? one canal,1,dental
+504040,root canal obturation each add canal,4,dental
+504043,root canal obturation one canall,1,dental
+504048,"root canal obturation, 1 canal",2,dental
+504049,"root canal obturation, each additional canal",2,dental
+504050,root canal obturation- one canal,1,dental
+504051,root canal obturation-additional canal,1,dental
+504052,root canal obturation-each addional canal,1,dental
+504053,root canal obturation-each additional canal,6,dental
+504054,root canal obturation-one canal,5,dental
+504055,root canal obturationeach additional canal,1,dental
+504056,root canal obturationone canal,1,dental
+504057,root canal oburation -one canal,1,dental
+504058,root canal of anterior w / filling,4,dental
+504059,root canal of anterior w/ filling-355,1,dental
+504060,root canal of posteriors w / filling,4,dental
+504061,root canal one with filling,1,dental
+504062,root canal post teeth w o filling,1,dental
+504063,root canal post. teeth w o flng,1,dental
+504064,root canal post. teeth w- filling,1,dental
+504065,root canal post. teeth w/ filling,1,dental
+504066,root canal post. teeth w/o filing,2,dental
+504067,root canal post. teeth w/o filling,1,dental
+504068,root canal posteeth w/o fimng,1,dental
+504069,root canal posterior,3,dental
+504070,root canal posterior filling,3,dental
+504071,root canal posteriors,1,dental
+504072,root canal pre-molar,1,dental
+504073,root canal premolar,1,dental
+504074,root canal premolar tooth,3,dental
+504075,root canal premolars,1,dental
+504076,root canal re or treatment three or more roots with filling,2,dental
+504077,root canal re-tre(3 canals)with filling (df035,1,dental
+504078,root canal re-treatment (1 canal,1,dental
+504079,root canal re-treatment > posterior re-treatment per tooth,1,dental
+504080,root canal re-treatment for anterior tooth,1,dental
+504081,root canal re-treatment for complicated molar tooth,1,dental
+504082,root canal re-treatment for premolar tooth,1,dental
+504083,root canal re-treatment for simple molar tooth,1,dental
+504084,"root canal re-treatment, two canal",1,dental
+504085,root canal removal (inciduous tooth,1,dental
+504086,root canal retention scrow,1,dental
+504087,root canal retreatment (plus rct code,1,dental
+504088,root canal retreatment - (1) single cana,1,dental
+504089,root canal retreatment - (2) two canal,1,dental
+504090,root canal retreatment - (3) three canal,1,dental
+504091,root canal retreatment / one,1,dental
+504092,root canal retreatment / three,1,dental
+504093,root canal retreatment / two,1,dental
+504094,root canal retreatment 1 canal,1,dental
+504095,root canal retreatment 2 canal,1,dental
+504096,root canal retreatment 3 canals,1,dental
+504097,root canal surgery,1,dental
+504098,root canal therapy,2,dental
+504099,root canal therapy (ant,2,dental
+504100,root canal therapy (pedo,1,dental
+504101,root canal therapy (post,4,dental
+504102,root canal therapy 03 sitting procedure incisors andpremolars,1,dental
+504103,root canal therapy 03-0sitting procedure molars,1,dental
+504104,root canal therapy 03-sitting procedure incisors and premolars,1,dental
+504105,root canal therapy 03-sitting procedure molars,1,dental
+504106,root canal therapy 2 canals,1,dental
+504107,root canal therapy 2nd visit,1,dental
+504108,root canal therapy 3 canals,1,dental
+504109,root canal therapy composite filling,1,dental
+504110,root canal therapy first visit,1,dental
+504111,root canal therapy for posterior teeth,3,dental
+504112,root canal therapy rct (1canal,1,dental
+504113,root canal therapy rct (2canal,1,dental
+504114,root canal therapy rct (3canal,1,dental
+504115,root canal therapy retreatment anterior w filling,1,dental
+504116,root canal therapy retreatment bicuspid w filling,1,dental
+504117,root canal therapy retreatment molar w filling,1,dental
+504118,root canal therapy retreatment - anterior 1rct,1,dental
+504119,root canal therapy retreatment - molar 3rct,1,dental
+504120,root canal therapy retreatment anterior,1,dental
+504121,root canal therapy retreatment bicuspid,1,dental
+504122,root canal therapy retreatment molar,1,dental
+504123,root canal therapy with amalgam filling (5 visit,1,dental
+504124,root canal therapy(infected tooth,1,dental
+504125,root canal therapy03 sitting procedure molars,1,dental
+504126,root canal tooth (multi,1,dental
+504127,root canal tooth (multi) without filling,1,dental
+504128,root canal tooth (one,1,dental
+504129,root canal tooth (one) without filling,1,dental
+504130,root canal tooth (two,1,dental
+504131,root canal tooth (two) without filling,1,dental
+504132,root canal tooth multi,2,dental
+504133,root canal tooth one,2,dental
+504134,root canal tooth per tooth,1,dental
+504135,root canal tooth two,2,dental
+504136,root canal tooth with filling,1,dental
+504137,"root canal tooth with filling (one, two, multi roots",1,dental
+504138,root canal tooth with filling - any surface,2,dental
+504139,root canal tooth with filling 1,1,dental
+504140,root canal tooth with filling 4 canal + xray,1,imaging
+504141,root canal tooth with filling anterior,1,dental
+504142,root canal tooth with filling posterior,1,dental
+504143,"root canal tooth with filling with abscess(one,two,multi root",1,dental
+504144,"root canal tooth with filling(one,two,multi root",2,dental
+504145,root canal tooth with filling(rct,1,dental
+504146,root canal tratment,1,dental
+504147,root canal tratment (pedo,1,dental
+504148,root canal tratment anterio,1,dental
+504149,root canal tre infected tooth with filling,1,dental
+504150,root canal tre infected tooth with filling (df032,1,dental
+504151,root canal tre infected tooth without filling (df031,1,dental
+504152,root canal treaatment ( ped,5,dental
+504153,root canal treament r.c.t.2c,1,dental
+504154,root canal treat,1,dental
+504155,root canal treat multi-roots bupa,1,dental
+504156,root canal treat singl root bupa,1,dental
+504157,root canal treat two roots bupa,1,dental
+504158,root canal treat. for ant. th with filling,1,dental
+504159,"root canal treat.,fill & x-ray ( 1 canal",1,imaging
+504160,"root canal treat.,fill & x-ray ( 2 canal",1,imaging
+504161,"root canal treat.,fill & x-ray ( 3 canal",1,imaging
+504162,root canal treat./incisor,2,dental
+504163,root canal treat./molars,2,dental
+504164,root canal treat.inc.final filling,1,dental
+504165,root canal treatement,3,dental
+504166,root canal treatement and filling - two root canal,1,dental
+504167,root canal treatmen for molar,1,dental
+504169,root canal treatment (three canals,2,dental
+504170,root canal treatment anterior,9,dental
+504171,root canal treatment filling w 1 canal,1,dental
+504172,root canal treatment filling w 2 canals,1,dental
+504173,root canal treatment filling w 3 canals,1,dental
+504174,root canal treatment for anterior teeth,3,dental
+504175,root canal treatment for infected tooth (mono-rooted) with final filling,2,dental
+504177,root canal treatment for infected tooth (mono-rooted)with final filling,1,dental
+504178,root canal treatment for infected tooth (multi-rooted) with final filling,2,dental
+504179,root canal treatment for infected tooth (multi-rooted)with final filling,2,dental
+504181,root canal treatment molar,12,dental
+504182,root canal treatment premolar,11,dental
+504183,root canal treatment with filling second canal,1,dental
+504184,root canal treatment ( infaction tooth,1,dental
+504185,root canal treatment ( more root,5,dental
+504186,root canal treatment ( multi canals,1,dental
+504187,root canal treatment ( one root,5,dental
+504188,root canal treatment ( rct,2,dental
+504189,root canal treatment ( two canals,2,dental
+504190,root canal treatment (2 canals,2,dental
+504191,root canal treatment (3 canals,3,dental
+504192,root canal treatment (3 or more )??,1,dental
+504193,root canal treatment (3 or more )ِ,1,dental
+504194,root canal treatment (3 or more,1,dental
+504195,root canal treatment (3 or more)??,1,dental
+504196,root canal treatment (3 or more)ِ,1,dental
+504197,root canal treatment (4 canals,1,dental
+504198,root canal treatment (4,1,dental
+504199,root canal treatment (adult) - ansterior,1,dental
+504200,root canal treatment (adult) posterior,1,dental
+504201,root canal treatment (anterior tooth with abcess,1,dental
+504202,root canal treatment (anterior,4,dental
+504203,root canal treatment (anterior) 3,1,dental
+504205,root canal treatment (as well as x-ray films and filling of tooth,1,imaging
+504206,root canal treatment (diseased tooth,1,dental
+504207,root canal treatment (molar,1,dental
+504208,root canal treatment (mono-rooted) with final fill,1,dental
+504209,root canal treatment (mono-rooted) with final filling,1,dental
+504210,root canal treatment (mono-rooted)with final filling,1,dental
+504211,root canal treatment (multi-rooted) with final fi,1,dental
+504212,root canal treatment (multi-rooted) with final filling,3,dental
+504214,root canal treatment (multi-rooted)with final filling,1,dental
+504215,root canal treatment (one canal,3,dental
+504216,root canal treatment (one nerve,1,dental
+504217,root canal treatment (one nerve) without filling,1,dental
+504218,root canal treatment (one or two root,1,dental
+504219,root canal treatment (one root canal) including filling,1,dental
+504220,root canal treatment (one root canal)- including filling,1,dental
+504221,root canal treatment (one root,2,dental
+504222,root canal treatment (one root) حشو عصب,1,dental
+504223,root canal treatment (onecanal,1,dental
+504224,root canal treatment (partially approved,1,dental
+504225,root canal treatment (posterior,3,dental
+504226,root canal treatment (premolar with abcess,1,dental
+504227,root canal treatment (premolar,2,dental
+504229,root canal treatment (re-treatment,1,dental
+504230,root canal treatment (single canal,1,dental
+504232,root canal treatment (three nerves,1,dental
+504233,root canal treatment (three nerves) without filling,1,dental
+504234,root canal treatment (three or four root,1,dental
+504235,root canal treatment (three root canal) including filling,1,dental
+504236,root canal treatment (three root canal) - including filling,1,dental
+504237,root canal treatment (tow canals,1,dental
+504238,root canal treatment (two nerves,1,dental
+504239,root canal treatment (two nerves) without filling,1,dental
+504240,root canal treatment (two root canal) including filling,1,dental
+504241,root canal treatment (two root canal) - including filling,1,dental
+504242,root canal treatment + filling,2,dental
+504243,root canal treatment + filling at home,1,dental
+504244,"root canal treatment , one canal-1",1,dental
+504245,"root canal treatment , one canal-2",1,dental
+504246,"root canal treatment , three canals-1",1,dental
+504247,"root canal treatment , three canals-2",1,dental
+504248,"root canal treatment , two canals-2",1,dental
+504249,root canal treatment - 2 canals,2,dental
+504250,root canal treatment - 2 roots,1,dental
+504251,root canal treatment - anterior,1,dental
+504252,root canal treatment - anterior tooth - 1 canal simple,1,dental
+504253,root canal treatment - dental,2,dental
+504254,root canal treatment - first v,1,dental
+504255,root canal treatment - last vis,1,dental
+504256,root canal treatment - molar tooth - 3 canals simple,1,dental
+504257,root canal treatment - multi root,1,dental
+504258,root canal treatment - multi roots - level 1,1,lab_test
+504259,root canal treatment - one root,2,dental
+504260,root canal treatment - one root canal,1,dental
+504261,root canal treatment - posterior,1,dental
+504262,root canal treatment - posterior molar,1,dental
+504263,root canal treatment - posterior premolar,1,dental
+504264,root canal treatment - premolar tooth -2 canals simple,1,dental
+504265,root canal treatment - three root canal,1,dental
+504266,root canal treatment - علاج العصب بدون حشو,1,dental
+504267,root canal treatment -1-root-t,1,dental
+504268,root canal treatment -2-root-t,1,dental
+504269,root canal treatment -3 canals,2,dental
+504270,root canal treatment -one canal,2,dental
+504271,root canal treatment -one root rct anterior,2,dental
+504272,root canal treatment -one root rct anterior infected,2,dental
+504273,root canal treatment -r.c.t,1,dental
+504274,root canal treatment -three roots rct molar,2,dental
+504275,root canal treatment -three roots rct molar infected,2,dental
+504276,root canal treatment -two roots rct premolar,1,dental
+504277,root canal treatment -two roots rct premolar infected,2,dental
+504278,root canal treatment / four roots with filling,1,dental
+504279,root canal treatment / multi root inc. filling,3,dental
+504280,root canal treatment / one root inc filling,1,dental
+504281,root canal treatment / one root inc. filling,3,dental
+504282,root canal treatment / two root inc filling,1,dental
+504283,root canal treatment / two root inc. filling,3,dental
+504284,root canal treatment / three canals,1,dental
+504285,root canal treatment / four canals,1,dental
+504286,root canal treatment / pulpotomy pedo,1,dental
+504287,root canal treatment / single canal,1,dental
+504288,root canal treatment / three root inc filling,1,dental
+504289,root canal treatment / two canals,1,dental
+504290,root canal treatment /multi root inc. filling,1,dental
+504291,root canal treatment /one root inc. filling,1,dental
+504292,root canal treatment /two root inc. filling,1,dental
+504295,root canal treatment 1 canal obturation,1,dental
+504296,root canal treatment 1 canal prepration,1,dental
+504297,root canal treatment 1 root,3,dental
+504298,root canal treatment 1 root w / filling,1,dental
+504299,root canal treatment 1rc,1,dental
+504300,root canal treatment 1rc w/out filling,2,dental
+504303,root canal treatment 2 rc # 14,1,dental
+504304,root canal treatment 2 rc # 36,1,dental
+504305,root canal treatment 2 rc # 46,1,dental
+504306,root canal treatment 2 root,2,dental
+504307,root canal treatment 2 root w / filling,1,dental
+504308,root canal treatment 2 roots,3,dental
+504309,root canal treatment 2rc,1,dental
+504310,root canal treatment 2rc w/out filling,2,dental
+504311,root canal treatment 3 roots,4,dental
+504312,root canal treatment 3 canal,3,dental
+504313,root canal treatment 3 canal complex,1,dental
+504314,root canal treatment 3 canal-complex,2,dental
+504316,root canal treatment 3 canal-simple,2,dental
+504318,root canal treatment 3 or more,2,dental
+504319,root canal treatment 3rc,1,dental
+504320,root canal treatment 3rc or,1,dental
+504321,root canal treatment 3rc or more,1,dental
+504322,root canal treatment > 2 with filling,1,dental
+504323,root canal treatment amigo restrain,2,dental
+504324,root canal treatment and filling,1,dental
+504325,root canal treatment and filling - one root canal,1,dental
+504326,root canal treatment and filling - three root canal,1,dental
+504327,root canal treatment and filling - two root canal,1,dental
+504330,root canal treatment and filling one root canal,1,dental
+504331,root canal treatment and filling three root canals,1,dental
+504332,root canal treatment and filling two root canals,1,dental
+504334,root canal treatment anterior (vital,1,dental
+504335,root canal treatment anterior - necrotic,1,dental
+504336,root canal treatment anterior teeth,3,dental
+504337,root canal treatment anterior tooth,3,dental
+504338,root canal treatment anterior tooth including radiograph excluding final restoration,1,imaging
+504339,root canal treatment bicuspid tooth,1,dental
+504340,root canal treatment bicuspid tooth including radiograph excluding final restoration,1,imaging
+504341,root canal treatment excluding final filling,1,dental
+504342,root canal treatment follow-up procedure,1,dental
+504343,root canal treatment for ant. teeth with filling,1,dental
+504345,root canal treatment for anteriors,1,dental
+504346,root canal treatment for incisors or canines,3,dental
+504347,root canal treatment for infected premolar 2 roots,1,dental
+504348,root canal treatment for infected tooth with final filling (mono-rooted,1,dental
+504349,root canal treatment for milk tooth,2,dental
+504350,root canal treatment for molar,2,dental
+504351,root canal treatment for molar tooth,1,dental
+504352,root canal treatment for molars,3,dental
+504353,root canal treatment for molars + premolars,3,dental
+504354,root canal treatment for molars or premolars,2,dental
+504355,root canal treatment for more for more than 2 canal,1,dental
+504356,root canal treatment for more than 2 can,1,dental
+504357,root canal treatment for more than two canal,1,dental
+504358,root canal treatment for more than two canals,4,dental
+504359,root canal treatment for one canal,5,dental
+504360,root canal treatment for one root,2,dental
+504361,root canal treatment for posterior teeth,2,dental
+504362,root canal treatment for premolar,2,dental
+504363,root canal treatment for premolar 2 roots,1,dental
+504364,root canal treatment for premolar tooth,1,dental
+504365,root canal treatment for premolars,4,dental
+504366,root canal treatment for simple molar tooth,1,dental
+504367,root canal treatment for single root,2,dental
+504368,root canal treatment for three root,1,dental
+504369,root canal treatment for three roots (w,1,dental
+504370,root canal treatment for tooth with multi,1,dental
+504371,root canal treatment for tooth with multi roots,1,dental
+504372,root canal treatment for two canal,1,dental
+504373,root canal treatment for two canals,5,dental
+504374,root canal treatment for two roots,1,dental
+504375,root canal treatment i canal,1,dental
+504376,root canal treatment i canal rotary,1,dental
+504377,root canal treatment ii,1,dental
+504378,root canal treatment iii,1,dental
+504379,root canal treatment in decidious teeth,1,dental
+504380,root canal treatment inc. filling,2,dental
+504381,root canal treatment inc.filling,1,dental
+504382,root canal treatment including filling,1,dental
+504383,root canal treatment including filling - 024-3345,1,dental
+504384,root canal treatment including filling 1-2 multiroots (with abscess) including filling,1,dental
+504385,root canal treatment including filling and xray,1,imaging
+504386,root canal treatment infected fmdntr0006,1,dental
+504387,root canal treatment infected tooth 1 canal,1,dental
+504388,root canal treatment infected tooth 1 root,2,dental
+504389,root canal treatment infected tooth 1rc,1,dental
+504390,root canal treatment infected tooth 2 canal,1,dental
+504391,root canal treatment infected tooth 2 roots,1,dental
+504392,root canal treatment infected tooth 2rc,1,dental
+504393,root canal treatment infected tooth 3 canal,1,dental
+504394,root canal treatment infected tooth 3 roots or more,1,dental
+504395,root canal treatment infected tooth 3 roots or more # 26,1,dental
+504396,root canal treatment infected tooth 3 roots or more # 36,1,dental
+504397,root canal treatment infected tooth 3 roots or more # 46,1,dental
+504398,root canal treatment infected tooth 3 roots or more # 54,1,dental
+504399,root canal treatment infected tooth 3 roots or more # 55,1,dental
+504400,root canal treatment infected tooth 3rc or more,1,dental
+504401,root canal treatment interior,2,dental
+504403,root canal treatment molar (vital,1,dental
+504404,root canal treatment molar - necrotic,1,dental
+504405,root canal treatment more than 2 canals,1,dental
+504406,root canal treatment mult,1,dental
+504407,root canal treatment multi root inc. filling,1,dental
+504408,root canal treatment multi root/ single w filling,1,dental
+504409,root canal treatment multiroot,1,dental
+504410,root canal treatment of anterior tooth,2,dental
+504411,root canal treatment of bicuspid tooth,2,dental
+504412,root canal treatment of bicuspid tooth gp,1,dental
+504413,root canal treatment of decidous tooth with filling /root,1,dental
+504414,root canal treatment of incisors,1,dental
+504415,root canal treatment of infected tooth - multi roots - level 1,1,lab_test
+504416,root canal treatment of infected tooth - multi roots - level 2,1,lab_test
+504417,root canal treatment of infected tooth - single root,1,dental
+504418,root canal treatment of molar tooth,2,dental
+504419,root canal treatment of molars,1,dental
+504420,root canal treatment of necrotic pulp with filling /root,1,dental
+504421,root canal treatment of one-rooted teeth,1,dental
+504422,root canal treatment of three-rooted teeth,1,dental
+504423,root canal treatment of tooth,2,dental
+504424,root canal treatment of tow-rooted teeth,1,dental
+504425,root canal treatment one canal,1,dental
+504426,root canal treatment one rc,1,dental
+504427,root canal treatment one root canal,1,dental
+504428,root canal treatment posterior,3,dental
+504429,root canal treatment posterior tooth,1,dental
+504430,root canal treatment posterior tooth including radiograph excluding final restoration,1,imaging
+504431,root canal treatment posterior with filling,2,dental
+504433,root canal treatment premolar (vital,1,dental
+504434,root canal treatment r c t 3c,1,dental
+504435,root canal treatment r.c.t 1c,1,dental
+504436,root canal treatment r.c.t.3c,1,dental
+504437,root canal treatment single,1,dental
+504438,root canal treatment single root,3,dental
+504439,root canal treatment single rooted,2,dental
+504440,root canal treatment three or moor rooted,1,dental
+504441,root canal treatment three or more roots,5,dental
+504443,root canal treatment three rc,1,dental
+504444,root canal treatment three root canals,1,dental
+504445,root canal treatment tow canals with final filling,2,dental
+504446,root canal treatment two rc,1,dental
+504447,root canal treatment two rooted,3,dental
+504448,root canal treatment w/ filling,1,dental
+504449,root canal treatment w/f(3,1,dental
+504450,root canal treatment with filling - first root rct infected,1,dental
+504451,root canal treatment with filling,5,dental
+504452,root canal treatment with filling - 1 root rct anterior infected,1,dental
+504453,root canal treatment with filling - 3 roots rct molar infected,1,dental
+504454,root canal treatment with filling - first rct,1,dental
+504455,root canal treatment with filling - second root rct,1,dental
+504456,root canal treatment with filling - third root rct,1,dental
+504457,root canal treatment with filling -first rct,1,dental
+504458,root canal treatment with filling -first root rct,1,dental
+504459,root canal treatment with filling -first root rct infected,2,dental
+504460,root canal treatment with filling -fourth root rct infected,2,dental
+504462,root canal treatment with filling -fourth root rct,2,dental
+504464,root canal treatment with filling -one root rct an,1,dental
+504465,root canal treatment with filling -one root rct anterior,3,dental
+504466,root canal treatment with filling -one root rct anterior inf,1,dental
+504467,root canal treatment with filling -one root rct anterior infected,4,dental
+504471,root canal treatment with filling -second root rct,2,dental
+504472,root canal treatment with filling -second root rct infected,1,dental
+504473,root canal treatment with filling -third root rct,2,dental
+504474,root canal treatment with filling -third root rct infected,1,dental
+504476,root canal treatment with filling -three roots rct molar inf,1,dental
+504477,root canal treatment with filling -three roots rct molar infected,4,dental
+504482,root canal treatment with filling -two roots rct p,1,dental
+504484,root canal treatment with filling -two roots rct premolar in,1,dental
+504489,root canal treatment with filling first root,1,dental
+504490,root canal treatment with filling second root,1,dental
+504491,root canal treatment with filling third/fourth root,1,dental
+504492,root canal treatment with filling thitrd/fourth root,1,dental
+504493,root canal treatment with filling three rct molar,1,dental
+504494,root canal treatment with filling three roots rct molar infected,1,dental
+504495,root canal treatment with open apex for anterior,2,dental
+504496,root canal treatment without filling,1,dental
+504497,root canal treatment&filling one r.c,1,dental
+504498,root canal treatment&filling three r.c,2,dental
+504500,root canal treatment&filling two r.c,2,dental
+504502,root canal treatment(1root)temporary filling,1,dental

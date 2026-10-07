@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+585593,trans vaginal folliculometry,1,other
+585596,trans vaginal tape insertion (tvt,1,supplies
+585597,trans vaginal u.s,1,imaging
+585599,trans vaginal ultrasound ( for obstetric & gyn. cases,1,imaging
+585601,trans abdominal u.s,1,imaging
+585603,trans urethral resection of bladder tumor bipolar,1,procedure
+585604,trans urethral removal of bladder tumor,1,procedure
+585606,trans - rectal doppler,1,imaging
+585607,trans-atrial septal puncture,1,procedure
+585608,trans-pubic and perineal urethroplasty,1,procedure
+585609,trans-rectal sonar,1,imaging
+585610,trans-uretheral resection of prostate (turp,1,procedure
+585611,trans-vaginal sonar - insurance,1,imaging
+585613,"trans-facet-screw internal spinal fixation system, sterile",1,supplies
+585614,trans-oral minimal invasive incisionless fundoplication,1,other
+585617,trans-vaginal (pelvis) / transvaginal ultrasound,1,imaging
+585619,trans.vag. u/s,1,imaging
+585620,transvaginal ultrasound/ ob&gyne,1,imaging
+585622,transabdominal cervical cerclage,1,imaging
+585623,transafer for service / medicine unavailable,1,other
+585624,transafer%20for%20service%20%2f%20medicine%20unavailable%09,1,imaging
+585625,transcanial u/s,1,imaging
+585627,transcatheter heart valve bioprosthesis implantation catheter,1,supplies
+585628,"transcatheter placement of an intracoronary stent(s), percutaneous, with or without other therapeutic intervention, any method: double vessel, two stents(ptca-double vessels with stents des)-pkg",1,supplies
+585629,"transcatheter placement of an intracoronary stent(s), percutaneous, with or without other therapeutic intervention, any method: each additional vessel",1,supplies
+585630,"transcatheter placement of an intracoronary stent(s), percutaneous, with or without other therapeutic intervention, any method: triple vessel, three stents (ptca-triple vessel with stents des",1,supplies
+585631,"transcatheter placement of an intracoronary stent, percutaneous, with or without other therapeutic intervention, any method single vessel",1,supplies
+585632,"transcatheter placement of an intracoronary stent, percutaneous, with or without other therapeutic intervention, any method: single vessel",1,supplies
+585633,"transcatheter placement of an intravascular stent(s), (non-coronary vessel), percutaneous; initial vessel",1,supplies
+585636,transcutaneous bilirubinometer test,1,lab_test
+585637,transcutaneous elec. nerve,1,other
+585640,transcutaneous elec. nerve stimulation tens,1,physiotherapy
+585642,transcutaneous bilicheck,1,other
+585643,transcutaneous bilirubin,1,lab_test
+585644,transcutaneous bilirubin total,2,lab_test
+585645,transcutaneous bilirubin; total,1,lab_test
+585646,transcutaneous blood gas monitoring system,1,lab_test
+585647,transcutaneous electrical stimulation probe,1,supplies
+585648,transdermal medicated patch,1,supplies
+585649,"transducer cover , for sterile , sz 14x147cm,civco , 610-575",1,supplies
+585650,"transducer, single line set",1,other
+585651,transend guidewire hydrophilic coating 0.018 x165 cm,1,supplies
+585652,transepithelial prk [wave light stream] both eyes,1,other
+585654,"transesophageal echo ""tee",1,imaging
+585655,"transesophageal echo ""tee"" -3d",1,imaging
+585657,transesophageal electrocardiogram,1,other
+585658,transfemoral seal-in liner size 38 i-753236,1,other
+585659,transfemoral prosthesis (low activity) adults - (ms,1,supplies
+585660,transfer from g.p. to cons,1,procedure
+585661,transfer from general practitioner to specialist,1,procedure
+585662,"transfer of tendon or ligament, not elsewhere classified, unilateral",1,procedure
+585663,transfer to an external pharmacy,1,procedure
+585665,"transferase, alanine amino *(alt) (sgpt",1,lab_test
+585666,"transferase, aspartate amino* (ast) (sgot",1,lab_test
+585670,transference or transplanting gingival or other soft tissue from a donor area in the patient s mouth to an area around a tooth implant or extraction socket to remedy a gingival deficiency,1,dental
+585671,transferitin,1,other
+585673,transferrin 73050-36-10,1,lab_test
+585675,transferrin (sfv,1,lab_test
+585676,transferrin - ?????,1,lab_test
+585677,transferrin - serum,1,lab_test
+585678,transferrin level - serum,2,lab_test
+585682,transferrin saturation ratio (sfv,1,lab_test
+585683,transferrin saturation test,1,lab_test
+585684,"transferrin saturation, serum",1,lab_test
+585686,"transferrin soluble receptor, serum",1,lab_test
+585689,transferrinserum,1,other
+585690,transfirrine,1,other
+585693,transfusion reaction,1,other
+585694,transfusion reaction workup - lab only,1,other
+585696,transfusion reaction investigation,1,other
+585698,transfussion of i.v.fluid 500 cc,1,lab_test
+585699,transglutaminase anti-body ig-g,1,other
+585700,transglutaminase iga,2,lab_test
+585701,transglutaminase igg,2,lab_test
+585706,transiet evoked otoacoustic emission (teoae,1,other
+585708,"transluminal balloon angioplasty, percutaneous; venous",1,supplies
+585709,"transmetatarsal amputation, unilateral",1,procedure
+585710,"transobturator needle, single-use",1,supplies
+585711,transparent adhesive tape 2.5cm,1,supplies
+585712,"transparent dressing water proof without pad, 10x12cm",1,supplies
+585713,transparent dressing with pad 25x9,1,supplies
+585714,transparent iv dressing 7x9cm,1,supplies
+585715,transparent surgical dressing pu 10x12 c,1,supplies
+585716,transparent surgical dressing pu 10x12 cm,1,supplies
+585717,"transpedicular fixation 1 or 2 vertebral segments; cervical , lumbar or thoracic",1,imaging
+585718,"transpedicular fixation more than 2 vertebral segments; cervical , lumbar or thoracic",1,imaging
+585719,transpeducalar fixation lumbar and fusion,1,procedure
+585720,transphenoidal resection of pituitary adenoma,1,procedure
+585721,transplant hepatology post follow-up,1,consultation
+585722,transplant preparation of hematopoetic progentor cells;cryopreservation and storage,1,other
+585723,transpore ( 3m brand ) 2.5 cm,1,supplies
+585724,transpore 5 cm,1,other
+585725,transport incubator,1,other
+585726,transport electric ventilator,1,supplies
+585727,"transport wheelchair, collapsible",1,supplies
+585728,transportation - zone 4,1,other
+585729,transportation service once per episode of care,1,other
+585730,transportation more than 20 km up to 50 km,1,other
+585731,"transportation more than 20 km up to 50 km ,83500-00-20",1,other
+585732,transportation of a patient with the need for specialist care or specialty equipment,1,consultation
+585733,transportation service,1,other
+585734,transportation- yunba,1,other
+585735,transradial prosthesis with passive articulated hand and custom gloves 25.0022,1,supplies
+585736,transrectal biopsy of prostat,1,procedure
+585737,transrectal prostate u.s,1,imaging
+585740,transthoracic echocardiography for congenital cardiac anomalies;complete,1,imaging
+585741,"transthoracic echocardiogram (tte) 2d ,does not include m-mode, doppler, color flow or tissue dopple",1,imaging
+585742,"transthoracic echocardiogram (tte) 2d ,does not include m-mode, doppler, color flow or tissue doppler",1,imaging
+585743,transthoracic echocardiogram (tte) 2d with doppler and m-mode only,1,imaging
+585744,"transthoracic echocardiogram (tte) 2d with doppler, m-mode, tissue doppler and color flow doppler",1,imaging
+585745,transthoracic echocardiogram (tte) 3d with doppler only,1,imaging
+585746,"transthoracic echocardiogram (tte) 3d with doppler, m-mode, tissue doppler and color flow doppler",1,imaging
+585747,transthoracic echocardiogram (tte) limited study,1,consultation
+585748,transthoracic echocardiography w/spectral and color doppler,1,imaging
+585749,transtibial acl without saw blade,1,supplies
+585750,transtibial prosthesis ( high activity ) adults - (ms,1,supplies
+585751,transtibial prosthesis (low activity) adults - (ms,1,supplies
+585752,transtibial prosthesis (indoor activity) adults - (ms,1,supplies
+585755,transtympanic steroid medication,1,other
+585758,"transurethral prostatectomy for reproductive system disorder, minor complexity",1,inpatient
+585759,transurethral resection (tur) of bladder,1,procedure
+585760,transurethral resection (tur) of prostate,1,procedure
+585762,transurethral resection of the prostate turp,1,procedure
+585763,"transurethral electrosurgical resection of prostate, including control of postoperative bleeding, complete (vasectomy, meatotomy, cystourethroscop",1,lab_test
+585764,transurethral resection of bladder neck (separate procedure,1,procedure
+585765,transurethrallitholapaxy,1,other
+585767,transvaginal (endorectal,1,other
+585768,transvaginal aspiration of ovarian cyst,1,procedure
+585769,transvaginal folliculometry (3 sessions,1,physiotherapy
+585771,transvaginal sonogram u/s,1,imaging
+585772,transvaginal u-s,1,other
+585774,transvaginal u.s-transvaginal u.s,1,imaging
+585776,transvaginal u/s (gyn,1,imaging
+585781,transvaginal us and pelvic +repot,1,imaging
+585791,transvaginal ultrasound ???? ????? ????? ?? ???? ??????,1,imaging
+585793,transvaginal oocyte retrieval,1,other
+585796,transvaginal%20ultrasound,1,other
+585797,transverse # patellae orif,1,procedure
+585799,transwab sterile (aerobes anaerobes,1,supplies
+585800,trap ease -quad chamber polyp trap # str,1,other
+585801,trap ease -quad chamber polyp trap # str-298,1,other
+585802,"trap, mucus, specimen",1,other
+585803,"trap, mucus, with suction and scope connecting tubes",1,supplies
+585807,trasport cannula ref 810700900,1,supplies
+585814,tratment or retreatment of infected 1ry teeth,1,dental
+585816,"trauma surgery - pinning, plating or wiring; radius",1,procedure
+585817,"trauma surgery - pinning, plating or wiring; radius and/or ulna",1,procedure
+585818,trauma surgery - pinning/plating clavicle,1,procedure
+585819,"trauma to skin, subcutaneous tissue and breast, minor complexity",1,inpatient
+585820,traumatic subdural haemorrhage,1,other
+585835,traxer flow dual port (sour9107st12,1,other
+585838,"tray, lumbar puncture adult",1,procedure
+585839,"tray, lumbar puncture pedia",1,procedure
+585840,"tray, lumbar puncture, adult",1,procedure
+585841,"tray, lumbar puncture, pediatric",1,procedure
+585842,"tray, tracheostomy care, standard",1,procedure
+585854,treadmill excersise ( stress test,1,lab_test
+585855,treadmill exercise,1,other
+585856,treadmill exercise ecg testing,1,lab_test
+585861,treat . of alveolitis,1,other
+585862,treat closed distal radius fracture,1,other
+585863,treating doctor,1,consultation
+585865,treating doctor fees,1,consultation
+585866,treatment / observation more than one hour,1,supplies
+585867,treatment / observation room fees(morethan 1 hour,1,consultation
+585868,treatment / obeservation room fees(more one hour,1,supplies
+585869,treatment bartholin's gland abscess,1,procedure
+585870,treatment by ultrasound ware ( one setting,1,imaging
+585874,treatment of hypersensitivity,1,other
+585875,treatment of hypersensitivity lessthan 3theeth,1,other
+585876,treatment of inflamed gum,2,dental
+585877,treatment of retina tear/ hole,1,other
+585878,treatment of retinal lesion (laser focal therapy,1,physiotherapy
+585879,treatment of pre-malignant nerve,1,other
+585880,treatment plan,1,other
+585881,treatment session - applied behavioural analysis (face to face,1,physiotherapy
+585882,treatment session - applied behavioural analysis (home based) +transportation,1,physiotherapy
+585883,treatment session - occupational therapy (face to face,1,physiotherapy
+585884,treatment session - occupational therapy (home based) +transportation,1,physiotherapy
+585885,treatment session - speech language pathology (face to face,1,physiotherapy
+585886,treatment session - speech language pathology (home based) +transportation,1,physiotherapy
+585887,treatment acute periodontal infection,7,dental
+585888,treatment acute periodontal infection deep scaling,1,dental
+585895,treatment devices; complex,1,other
+585898,treatment for root canal obstruction(broken instrument,1,dental
+585899,treatment of bartholin's gland abscess,1,procedure
+585902,treatment of bartholins gland abscess,1,procedure
+585903,treatment of bartholins gland cyst,1,other
+585904,treatment of deep spine infection includes incision and drainage - excluding supplies,1,procedure
+585905,treatment of dry socet,1,other
+585906,treatment of dry socket ???? ?????? ????? ??? ?????,1,supplies
+585908,treatment of granuloma pyogenicum,1,other
+585909,treatment of infected tooth + f/p filling,1,dental
+585910,treatment of orf,1,other
+585911,treatment of perichoronitis ???? ????? ??? ????? ???? ??,1,other
+585912,treatment of pre malignant nerve,1,other
+585913,treatment of vertical bone defect without tissue generation material's (one area,1,imaging
+585914,treatment of a nerve for a front with the filling,1,dental
+585915,treatment of a rotten posterior nerve,1,other
+585916,treatment of accute gingivitis,1,other
+585917,treatment of acute period infection - per appointment,1,consultation
+585919,treatment of acute periodontal infection per app,2,dental
+585923,treatment of acute periodontal infection 10309,1,dental
+585925,treatment of acute periodontal infection per,1,dental
+585930,treatment of acute periodontal infection(s,1,dental
+585931,treatment of acute periodontal infection-per appointment,1,consultation
+585932,"treatment of anal fistula (fistulectomy/fistulotomy); complex or multiple, with or without placement of seton- by laser-pkg",1,procedure
+585933,treatment of anal fistula (fistulectomy/fistulotomy); subcutaneous - by laser-pkg,1,procedure
+585934,treatment of anterior septic nerve,1,other
+585935,treatment of burn(s) (package,1,other
+585936,"treatment of closed elbow dislocation, without anesthesia",1,procedure
+585937,treatment of complications (post-surgical) - unusual circumstances by report,1,procedure
+585938,treatment of dental abscess,1,dental
+585940,"treatment of incomplete / missed abortion, any trimester, completed surgically",1,other
+585941,treatment of infected wound,1,other
+585942,"treatment of large cyst, surgical",1,procedure
+585943,treatment of perforated root canal by mta,1,dental
+585944,treatment of periapical abcess or necrotic pulp,1,dental
+585945,treatment of periodontal ligament,1,dental
+585946,treatment of smal wound & plaster,1,supplies
+585947,treatment of small wound & plaster,1,supplies
+585948,treatment of vertical bone defect using guided tissue generation materials,1,imaging
+585950,treatment under general anethesia / sedation,1,procedure
+585951,treatment under oral sedation -nitrous oxide - one hour,1,supplies
+585952,treatment under oral sedation (nitrous oxide,1,procedure
+585953,treatment under oral sedation (nitrous oxide) one hour,1,supplies
+585954,treatment under oral sedation - nitrous oxide,1,procedure
+585955,treatment under oral sedation - nitrous oxide - 2 hour,1,procedure
+585956,treatment under oral sedation - nitrous oxide - o,1,procedure
+585957,treatment under oral sedation - nitrous oxide - one hour,1,supplies
+585958,treatment under oral sedation(nitrous oxide) one hour,1,supplies
+585978,trendelenburg positioning pad,1,supplies
+585979,"trendlenberg operation, stripping of lsv and multiple ligation of perforates (unilateral",1,procedure
+585980,trendy,2,other
+585994,trental400mg20tab,2,other
+586003,treponema abs (fta,1,lab_test
+586005,treponema igg immunoblot,1,lab_test
+586006,treponema igg immunoblotting - ?????,1,lab_test
+586007,"treponema pallidum (igm, igg",1,lab_test
+586008,treponema pallidum (tpha) (qualitative,1,lab_test
+586009,treponema pallidum (tpha) (titer,1,lab_test
+586010,treponema pallidum ab,1,lab_test
+586011,"treponema pallidum ab (fta-abs), igg by ifa with reflex to tp-pa",1,imaging
+586012,treponema pallidum hemagglutination (tpha,1,lab_test
+586013,treponema pallidum hemagglutination antibody (tpha,1,lab_test
+586015,treponema haemagglutination(tpha,1,lab_test
+586017,treponema pallidum (syphilis) total antibody - eclia method,1,lab_test
+586018,treponema pallidum (syphilis) total antibody - eclia method with reflex to rapid plasma reagin (rpr) (non-treponemal flocculation test,1,lab_test
+586019,"treponema pallidum (tpha), serum",1,lab_test
+586020,treponema pallidum hemagglutination assay (tpha) titer,1,lab_test
+586022,treponemal antibody,1,lab_test
+586023,treponima p. h. titre668,1,other
+586024,treponin i test,1,lab_test
+586041,tresiba flextouch 100 u/ml 5's,1,other
+586046,tresiba flextouch 5x3ml,1,other
+586052,tresibaflextouch-100/ml,2,other
+586054,"trevisio intravascular ds, abbott #9-atvxxf45/80",1,other
+586085,tri malleolar fracture ankle,1,other
+586089,tri-b/ methylcobal,1,other
+586097,tri-glyceride--???? ?????? 12.36,1,other
+586098,tri-iodothyronine (t3) level (free +/- bound,1,lab_test
+586106,triamcinolone im,1,other
+586107,triangular fibrocartilage complex (tfcc) of the wrist repair,1,procedure
+586108,trias 1c30=l27-3-p/4,1,other
+586109,triathlon primary baseplate size 2 ref 5520-b-200,1,other
+586110,"triathlon x3 tibial bearing insert ps size 5/9 , 5532-g-509 / p0700408745 ,stryker , 5532-g-509",1,other
+586111,triathlon posterior stabilized femroal size 2 ref. 5515-f-202,1,other
+586113,triaxon 1 gram,1,lab_test
+586218,triaxone1gi.m,1,other
+586225,trichiasis repair epilatation,1,procedure
+586226,trichiasis for one eye,1,supplies
+586233,trigeminal neuralgia blocks,1,other
+586234,trigeminal neurelagia surgery,1,procedure
+586235,trigeminal gangliotomy by radiofrequency,1,procedure
+586236,triger finger release,1,procedure
+586238,trigger finger release- ga,1,procedure
+586240,trigger thumb surgical release under b.b.a.1 day admission,1,procedure
+586242,trigger point,1,other
+586244,trigger point injections,1,other
+586245,trigger points injections one point,1,supplies
+586246,triggere point one side,1,supplies
+586247,trigiycerides,1,other
+586249,triglcerides,1,other
+586250,triglycerides (5017,1,lab_test
+586251,"triglyceide ,73050-36-20",1,other
+586252,triglyceirdes (tg) in serum,1,lab_test
+586257,triglyceride (fasting,1,lab_test
+586259,triglyceride ???? ???? ????????,1,lab_test
+586260,triglyceride t.g,1,lab_test
+586261,triglyceride-1174,1,lab_test
+586262,triglyceride-triglyceride,1,lab_test
+586263,triglycerides.serum,1,lab_test
+586266,triglycerides (546,1,lab_test
+586267,triglycerides (blood,2,lab_test
+586268,triglycerides (chemistry,1,lab_test
+586269,triglycerides (non fasting,1,lab_test
+586270,triglycerides (serum,1,lab_test
+586271,triglycerides (t.g,1,lab_test
+586272,triglycerides (tg ) in serum,1,lab_test
+586274,triglycerides (tg) serum,1,lab_test
+586276,triglycerides (tg) in serum (sfv,1,lab_test
+586277,triglycerides (tg) in serum 290,1,lab_test
+586284,triglycerides / ???? ?????? ????????,1,lab_test
+586285,triglycerides / triglycerides level,1,lab_test
+586286,triglycerides 598,1,lab_test
+586287,triglycerides ??? ???? ?????? ?????,1,lab_test
+586288,triglycerides ??? ???? ?????? ????????,1,lab_test
+586289,triglycerides ?????????? ???????????? ????????????????,1,lab_test
+586290,triglycerides ???????????? ?????? ????????,1,lab_test
+586291,triglycerides bupa,1,lab_test
+586295,triglycerides medgulf,1,lab_test
+586297,triglycerides tcs,1,lab_test
+586298,triglycerides تحليل الدهون الثلاثية,1,lab_test
+586299,triglycerides(09007,1,lab_test
+586307,"triglycerides, serum",1,lab_test
+586310,triglycerides[8.15,1,lab_test
+586313,triglycides,1,other
+586314,triglycrid,1,other
+586316,triglycride in serum,1,lab_test
+586318,triglyecrides,2,other
+586320,"triha, 10cc",1,other
+586322,triiodo thyronine (t3,1,lab_test
+586327,trijan,1,other
+586331,trikafta elexacaftor/tezacaftor/ivacaftor;ivacafto,1,other
+586353,trilogy 1.53 unbrakable pnx,1,other
+586354,trilogy 1.53 unbrakable pnx - ibtrip-8/4,1,other
+586355,trilucath 3 lumen 12f 16cm hemodialysis,1,procedure
+586356,trilucath 3 lumen 7f 20cm,1,other
+586357,trilucath 3 lumen 7f 16cm,1,other
+586359,trimbow,1,other
+586364,trimbow 87/5/9 micrograms,1,other
+586368,trimbow-87/5/9-micrograms,1,other
+586369,"trimester rheumatology follow up(esr,cbc,sgot,sgpt,ggt, creat,crp,urine,tp,rf,ana,pt electrophoresis",1,lab_test
+586376,trio airwear1.59 sph(+4.00 to -6.00) cyl( 0.0 to -2.00,1,eyewear
+586378,trio bifocal tflat d281.50 trans vii uc sph(+6.00 to -6.00) cyl( -0.0 to -4.00)ad+1.00/+3.00,1,eyewear
+586379,trio progrss espace1.50 dfbtransvii sph(+6.00 to -10.00) cyl( -0.0 to -6.00)ad+0.75/+3.50,1,eyewear
+586380,trio progrss espace1.61 dfb uc sph(+6.00 to -10.00) cyl( -0.0 to -6.00)ad+0.75/+3.50,1,eyewear
+586382,trio wipes system 50 pre-clean wipes,1,supplies
+586394,triolite fluocin/tretinoin/hydroquin 0.01/0.05/4 %,1,other
+586396,trioltan,1,other
+586401,"trioltan 40,12.5,10",1,other
+586408,trioltan blister (28) (911211290 )40/10/12.5,1,supplies
+586409,trioltan blister (28) (911211291 )40/5/12.5,1,supplies
+586410,triopan,1,other
+586421,triphasic c.t liver,1,imaging
+586422,tripioni blood presure monitor - granzia,1,lab_test
+586426,triple crepe bandage1208,1,other
+586427,triple fusion for foot deformity,1,procedure
+586428,triple fusion of any joint with bone graft p/d,1,imaging
+586429,"triple marker test (afp,bhcg,e3",1,lab_test
+586430,triple marker test,1,lab_test
+586431,triple phototherapy,1,procedure
+586432,triple arthrodesis foot with mat,1,procedure
+586433,triple fat,1,other
+586434,triple-lumen haemodialysis catheter,1,supplies
+586435,"triplex b 30tabs pyridoxine,thiamine,cyanocobalamin",1,other
+586441,triplex b 30's,1,other
+586454,tripod cane - (ms,1,other
+586455,tripple phototherapy per day,1,procedure
+586458,tritanrix hb - hib,1,lab_test
+586459,"triton footshell - l - normal, beige 2c6=l28/4n",1,other
+586464,"trium eye, eye lubricant",1,other
+586474,trivex 1.53 ( pnx,1,other
+586475,trivira,1,other
+586487,trixone,2,other
+586491,trnsufusin chage,1,other
+586492,trocar 10 mm (versaport) 601216,1,other
+586493,trocar 12 mm-601279,1,other
+586494,trocar 5 mm(versaport)-601217,1,other
+586495,trocar 5mm,1,other
+586496,trocar catheter 23cm - fr12,1,supplies
+586497,trocar catheter 25cm - fr16,1,supplies
+586498,trocar catheter 40cm - fr32,1,supplies
+586499,trocar dicating tip 10 11mm,1,other
+586500,"trocar set, c-thru disposable cannula, 6.5mm x 70mm",1,supplies
+586501,"trocar,xcel bladeless,5mm dia,b5lt",1,other
+586502,troch. fracture,1,other
+586503,trochanteric nail,1,supplies
+586504,trochanteric # femur revision dhs,1,procedure
+586510,trop-t,1,other
+586515,tropinema pallidum,1,other
+586519,tropinine (high-sensitivity troponin i) (tnih,1,lab_test
+586523,troponin (i,1,lab_test
+586525,troponin (qualitative) - ?????,1,lab_test
+586526,troponin (quantitative) - ?????,1,lab_test
+586527,troponin (quantitative) - مختبر,1,lab_test
+586528,troponin - ( i,1,lab_test
+586529,troponin - a37,1,lab_test
+586531,troponin - i (qualitative,1,lab_test
+586534,troponin - tat (8 duty hrs) stat(1 hr,1,lab_test
+586535,troponin -1,1,lab_test
+586536,troponin -t,1,lab_test
+586539,troponin 1 / ??? ????????,1,lab_test
+586540,troponin 1 / truponint,1,lab_test
+586544,troponin i (637,1,lab_test
+586551,troponin i (sfv,1,lab_test
+586553,troponin i - ?????,1,lab_test
+586554,troponin i - high sensitive (architect plus,1,lab_test
+586555,troponin i / quantitative troponin (protein) analysis,1,lab_test
+586556,troponin i / troponin t test,1,lab_test
+586557,troponin i / i-stat,1,lab_test
+586558,troponin i ??????? ??,1,lab_test
+586559,troponin i ???????? ??,1,lab_test
+586561,"troponin i quantitative, serum",1,lab_test
+586562,troponin i sensitive,1,lab_test
+586563,troponin i stat,1,lab_test
+586564,troponin i(09048,1,lab_test
+586565,troponin i(ctn-i,1,lab_test
+586566,troponin i(mhl lab,1,lab_test
+586567,troponin i(qualitative,1,lab_test
+586568,"troponin i, serum",1,lab_test
+586569,troponin i.cardiac [mass/volume] in serum or plasma,1,lab_test
+586572,troponin l,1,lab_test
+586573,troponin qalitative,1,lab_test
+586575,troponin qulitative,1,lab_test
+586577,troponin t & i,1,lab_test
+586579,troponin t (sfv,1,lab_test
+586580,troponin t test,1,lab_test
+586585,troponin%20i%09,1,lab_test
+586586,troponin%20i%20(637,1,lab_test
+586587,troponin%20i%20(high%20sensitivity,1,lab_test
+586588,troponin%3b%20quant,1,lab_test
+586590,troponin-i (quantitative,1,lab_test
+586591,troponin-i - insurance,1,lab_test
+586592,troponin-i 1927,1,lab_test
+586593,troponin-i high sensitive,1,lab_test
+586595,troponin-t (qualitative) ???????? ?? ??????,1,lab_test
+586596,troponin-t high sensitivity,1,lab_test
+586597,troponin-test protein,1,lab_test
+586599,troponin-l,1,lab_test
+586602,troponin; qual,2,lab_test
+586603,troponin; quant,1,lab_test
+586604,troponint,2,other
+586606,troponine 73050-36-70,1,other
+586607,troponine - i screening,1,lab_test
+586608,troponine -poc,1,eyewear
+586609,troponine -poc (sfv,1,eyewear
+586610,troponine 1,1,other
+586611,troponine(i/t,1,other
+586612,troponins assay,1,lab_test
+586613,troponion1,1,other
+586616,trouser (f)white/large,1,other
+586618,troy 1236 fr c:3 s.crys/brn,1,eyewear
+586619,troy 3050 hv fr c:4 s.gld/blk,1,eyewear
+586620,troy 3061 wx fr c:2 s.gun,1,eyewear
+586621,troy 3062 wx fr c:2 s.gun,1,eyewear
+586622,troy 3076 wx fr c:2 s.sil,1,eyewear
+586623,troy 3082 sl fr c:5 (clip,1,eyewear
+586624,troy 4137 fr c:3 m.brn,1,eyewear
+586625,tru-m,1,other
+586627,true cut biopsy us,1,procedure
+586630,true cut biopsy deep organs liver renal,1,procedure
+586633,truespan meniscal repair system 24 deg,1,procedure
+586634,truespan meniscal repair system zero deg,1,procedure
+586637,"trulene blue 3-0, 3 8 rev.cutting 19mm 8f75cx19 (w8392",1,other
+586638,"trulene blue 3-0, 3 8 rev.cutting 26mm 8f75cx26 (w8025t",1,other
+586657,trumo guidewire 150cm,1,supplies
+586659,trus & biopsy,1,procedure
+586663,trussardi,1,other
+586665,truvelog,1,other
+586669,tryglycerides -tg,1,other
+586670,trypan blue,1,other
+586671,"trypsinogen, serum",1,lab_test
+586673,tryptase (s-i)-send out,1,other
+586674,tryptase my clinic 88,1,consultation
+586675,tryptase level,1,lab_test
+586676,"tryptase, serum",1,lab_test
+586682,tsh - ????? ?? (tsh,1,lab_test
+586685,tsh screen,1,lab_test
+586691,tubal ligation - (unilateral) or (bilateral,1,procedure
+586693,tubalinsertionintheear,1,other
+586694,"tube , endotracheal rae size (4.5)mm cuffed ,medtra , gt014-100-4.5",1,supplies
+586695,"tube adapter, long, titan 2r38",1,supplies
+586696,"tube adapter, short, titan 2r37",1,supplies
+586697,tube clamp adapter 4r66,1,supplies
+586698,"tube clamp adapter, titan 4r52",1,supplies
+586699,tube feeding ngt/peg and consumables,1,supplies
+586700,tube feeding procedure,1,supplies
+586701,tube removal post probing & syringing under g.a,1,supplies
+586702,tube set # d11437,1,supplies
+586703,"tube set, hysteroscopic",1,supplies
+586704,tube surgery + mmc + pericardium patch unilateral,1,supplies
+586705,tube surgery + pericardium patch + mmc,1,supplies
+586706,"tube ventsatr oxylog 3000f,2000p box of 5 + flow sensor + expiration valve drager # 5703041",2,supplies
+586707,"tube ventsatr oxylog 3000f,2000p 5x + flow sensor + expiration valve drager # 5703041",1,supplies
+586709,"tube thoracostomy with or without water seal (eg, for abscess, hemothorax, empyema) (separate procedure",1,supplies
+586710,"tube, cpap, neonatal",1,supplies
+586713,"tube, feeding gastrostomy size, 14 fr",1,eyewear
+586714,"tube, feeding gastrostomy size, 16 fr",1,eyewear
+586715,"tube, feeding nasogastric pediatric size, 12 fr",1,eyewear
+586716,"tube, feeding nasogastric pediatric size, 8 fr",1,eyewear
+586717,"tube, ryles fr 12",1,eyewear
+586718,"tube, ryles fr 14",1,eyewear
+586719,"tube, ryles fr 16",1,eyewear
+586720,"tube, ryles fr 18",1,eyewear
+586721,"tube, suction connecting 180cm x 7mm",1,supplies
+586722,"tube, tracheostomy, 6.0 mm, 9.2mm od",1,supplies
+586723,"tube, tracheostomy, 8.0 mm, 11.9 od",1,supplies
+586724,"tube, tracheostomy, cuffed, extra long, size 7, tracoe, 451-07",1,supplies
+586725,"tube, tracheostomy, cuffed, extra long, w/spiral reinforcement, tracoe, 451-08",1,supplies

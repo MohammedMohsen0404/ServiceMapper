@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+580684,two surfaces ceramic filling,1,dental
+580686,two vessel pci,1,other
+580687,two views for joint,2,imaging
+580688,two way irrigation set(tur-y) 3053 poly,1,procedure
+580689,two way irrigation set (t.u.r,1,procedure
+580690,two way irrigation set cat# 3053,1,procedure
+580691,two weeks 10 fractions-calculation,1,other
+580692,two weeks 10 fractions-follow up,1,consultation
+580693,two or multi root canal tooth with filling,1,dental
+580694,twynsta,3,other
+580711,twynsta 80 10,1,other
+580716,twynsta 80 5,1,other
+580726,twynsta 80/10,2,other
+580764,twynsta 80/5,3,other
+580810,twynsta 8010,1,other
+580812,twynsta 805,1,other
+580831,txg,1,other
+580853,tygicycline,1,other
+580855,tykodas,1,other
+581164,tylor scale for anxiety,1,lab_test
+581165,tymarometry + audiomerry,2,other
+581166,tymbanometry,1,other
+581169,tymer 0.3%,1,other
+581196,tymer 0.3% eye drop0.3%,1,other
+581197,tymer 0.3% eye drop1eye drops0.3%,1,other
+581207,tymer e.dros,1,other
+581208,tymer e/d,1,other
+581210,tymer edrop,1,other
+581225,tymer eye drps,1,other
+581230,tymp measure the function and movement of the eardrum and middle ear,1,lab_test
+581231,tympangram,1,other
+581232,"tympanic probe cover,braun,termoscan pc200",1,supplies
+581233,tympano,1,other
+581234,tympano meter middle ear,1,supplies
+581235,tympano meter-middle ear,1,supplies
+581236,tympano metry,4,other
+581237,tympano metry - ???????? ???????? ????????????,1,other
+581238,tympano metry - قياس توتر الطبلة,1,other
+581241,tympanogram & audiogram,1,diagnostic
+581242,tympanogram & audiogram 18003,1,diagnostic
+581243,tympanogram (1 ear,2,diagnostic
+581244,tympanogram 1 ear,1,diagnostic
+581245,tympanogram 18001,1,diagnostic
+581246,tympanogram for 1 ear,1,diagnostic
+581247,tympanogram20(bilateral,1,other
+581248,tympanograme,1,other
+581249,tympanomastoidectomy with facial recess approach - 1 day pkg,1,procedure
+581250,tympanometer,1,other
+581251,tympanometer/audiogram,1,imaging
+581252,tympanometery,3,other
+581253,tympanometric examination,2,consultation
+581255,tympanometry acuastic reflexes,1,diagnostic
+581256,tympanometry reflex thresh,1,diagnostic
+581257,tympanometry %,1,diagnostic
+581258,tympanometry & acoustic reflex,1,diagnostic
+581259,tympanometry & eustachian tube function,1,lab_test
+581260,tympanometry (as sole procedure,2,diagnostic
+581261,tympanometry (impedance testing,1,lab_test
+581262,tympanometry (impendance test,1,lab_test
+581263,tympanometry + acoustic reflexes,1,diagnostic
+581264,tympanometry + acuastic reflexes,1,diagnostic
+581265,tympanometry - complete,2,diagnostic
+581267,tympanometry - ent,1,diagnostic
+581268,tympanometry - pediatrics,1,diagnostic
+581270,tympanometry / follow up,1,diagnostic
+581271,tympanometry acoustic reflex,1,diagnostic
+581272,tympanometry and stapedial reflex,1,diagnostic
+581273,tympanometry audiometry impedence (micro tymp2,1,diagnostic
+581274,tympanometry ent,1,diagnostic
+581275,tympanometry eustachian tube function,1,lab_test
+581276,tympanometry for adults,1,diagnostic
+581277,tympanometry for children,1,diagnostic
+581278,tympanometry impedance,1,diagnostic
+581279,tympanometry screening,1,lab_test
+581280,"tympanometry usg high freq probe tone, bilateral",2,imaging
+581281,"tympanometry usg high freq probe tone, unilateral",2,imaging
+581282,tympanometry using high frequency probe tone,2,diagnostic
+581283,tympanometry using standard probe tone,1,diagnostic
+581287,"tympanometry using standard probe tone, bilateral",2,diagnostic
+581289,tympanometry(460112,1,diagnostic
+581290,tympanometry(unilateral,1,diagnostic
+581291,"tympanometry, impedance",1,diagnostic
+581292,"tympanometry, impedance-3-10-10019",1,diagnostic
+581293,tympanometry-913,1,diagnostic
+581295,tympanometry/ impedance,1,diagnostic
+581296,tympanometry/ impedence,1,diagnostic
+581297,tympanometry/tympanogram,1,diagnostic
+581298,tympanomgram,1,other
+581300,tympanoplasty mastoidectomy,2,procedure
+581301,tympanoplasty and mastoidectomy,1,procedure
+581302,tympanoplasty ( grade 1,1,procedure
+581303,tympanoplasty (one side,1,supplies
+581304,tympanoplasty + mastoidectomy,2,procedure
+581305,tympanoplasty - 1 day pkg,1,procedure
+581306,tympanoplasty - 1st stage,1,procedure
+581307,tympanoplasty - type i (myringoplasty,1,procedure
+581308,tympanoplasty - type ii,1,procedure
+581309,tympanoplasty - type iii,1,procedure
+581310,tympanoplasty - type v,1,procedure
+581311,tympanoplasty ii,2,procedure
+581312,tympanoplasty iii,1,procedure
+581314,tympanoplasty or myringoplasty,1,procedure
+581315,"tympanoplasty w/ mastoidectomy(w/canalplasty,atticotomy,middle ear surgery/ tympanic repair),radical/comlete, w/o ossicular reconstruction",1,procedure
+581316,"tympanoplasty w/ mastoidectomy(w/canalplasty,atticotomy,middle ear surgery/ tympanic repair),radical/complete, w/ ossicular reconstruction",1,procedure
+581317,"tympanoplasty w/ mastoidectomy(w/canalplasty,atticotomy,middle ear surgery/ tympanic repair);radical/comlete, w/o ossicular reconstruction",1,procedure
+581318,tympanoplasty w/o artificial graft price,1,procedure
+581319,"tympanoplasty w/o mastoidectomy initial/revision(w/canalplasty,atticotomy/middle ear surgery), w/ ossicular reconstruction & prosthesis",1,supplies
+581320,tympanoplasty with artificial graft price,2,procedure
+581321,tympanoplasty with insertion of middle ear prosthesis..(prosthesis not included,1,supplies
+581322,tympanoplasty(pkg,1,procedure
+581323,tympanoplasty- (p.d,1,procedure
+581325,tympanoplasty/mastoidectomy,1,procedure
+581326,tympanotomy,1,procedure
+581327,tympanotomy/tympanoplasty type1-day pkg,1,procedure
+581328,tymphanometry,3,other
+581330,tymponomefery,2,other
+581331,tympponometry,1,other
+581332,tynor c 06 child.s.m.l pouch arm sling,1,supplies
+581334,tynor d 09 xl.xxl functional knee support,1,supplies
+581335,tynor d 11 s.m.l knee immobiliser,1,lab_test
+581336,tynor e 44 s.m.l.xl wrist splint with thumb,1,supplies
+581337,tynor finger splint matal,1,supplies
+581338,typanogram test,1,lab_test
+581339,typanometric study,1,consultation
+581340,typanometry,1,other
+581341,type & hold for transfusion,1,other
+581349,type and antibody screen,1,lab_test
+581350,type and hold (abo/rh typing & antibody screening,1,lab_test
+581351,type and screen,1,other
+581352,type and screen (blood group &rh + indirect coombs,1,lab_test
+581353,type screening,1,lab_test
+581354,typherix,1,other
+581356,typhi o.h. para ah. bh,2,lab_test
+581357,typhi-o.h. para ah.bh,2,lab_test
+581360,typhm v1(polysaccharides of salmonella,1,other
+581361,typhm vi capsular polysacchride sd. syringe,1,supplies
+581362,typhm vi capsular polysacchride sd.syrin,1,other
+581365,typhoid,3,other
+581366,typhoid fever test,1,lab_test
+581367,typhoid v,1,other
+581368,typhoid vacc,1,other
+581371,typhus fever,2,other
+581390,tyroid antibody,1,lab_test
+581406,tzank / koh smear,1,lab_test
+581407,tzank t,1,other
+581412,tabadul pre-employment,1,consultation
+581414,tabia & fibula,1,other
+581415,tabia & fibula 1,1,other
+581416,tabia & fibula 2,1,other
+581449,tabiflexcoolgel,1,other
+581479,tabocine100mg10cap,2,other
+581481,tabocine10cap100mg,2,other
+581506,tabunexnasalspray0.05%120met,1,other
+581578,tabuvan160mg30tabs lasa,1,other
+581579,tabuvan80mg30tabs lasa,1,other
+581621,tag heure,1,eyewear
+581622,tag skinremoval (1 upto 3,1,eyewear
+581623,tagamet ampule,1,other
+581624,tagamet im/iv,1,supplies
+581629,taha abbas almohammed,1,other
+581631,tai chi service (8 sessions,1,physiotherapy
+581634,taj hair,1,other
+581635,take a simple tooth for children,1,dental
+581636,take off a garage for a thicker,1,other
+581661,takepron15mg14cap,1,other
+581662,takepron30mg14cap,1,other
+581667,taking and interpreting a radiograph made with the,1,imaging
+581668,taking and interpreting a radiograph made with the film insi,1,imaging
+581673,taking and interpreting a radiograph made with the film with,1,imaging
+581674,taking and interpreting a radiograph of the temporomandibular joint,1,imaging
+581676,taking and interpreting an extraoral radiograph pr,2,imaging
+581677,taking and interpreting an extraoral radiograph presenting,1,imaging
+581678,taking and interpreting an extraoral radiograph presenting a,1,imaging
+581679,taking and interpreting an extraoral radiograph presenting a panoramic,1,imaging
+581680,taking and interpreting an extraoral radiograph presenting a panoramic view,1,imaging
+581682,taking and interpreting an extraoral radiograph presenting a panoramic view of part or all,2,imaging
+581683,taking and interpreting an extraoral radiograph presenting a panoramic view of part or all of,1,imaging
+581684,taking and interpreting an extraoral radiograph presenting a panoramic view of part or all of the m,2,imaging
+581686,taking and interpreting an extraoral radiograph presenting a panoramic view of part or all of the mand,1,imaging
+581687,taking and interpreting an extraoral radiograph presenting a panoramic view of part or all of the mandible and or maxilla and or adjacent structures,1,imaging
+581693,taking and interpreting an occlusal maxillary or mandibular intraoral radiograph,1,imaging
+581694,taking and interpreting an occlusal maxillary or mandibular intraoral radiograph this radiograph shows a more extensive view of teeth and maxillary or mandibular bone,1,imaging
+581696,"taking and interpreting an occlusal, maxillary or mandibular intraoral radiograp",1,other
+581697,"taking and interpreting an occlusal, maxillary or mandibular intraoral radiograph",1,imaging
+581698,"taking and interpreting an occlusal, maxillary or mandibular intraoral radiograph. this radiograph s",2,imaging
+581699,"taking and interpreting an occlusal, maxillary or mandibular intraoral radiograph. this radiograph shows a more extensive view of teeth and maxillary or mandibular bone",1,imaging
+581700,taking%20and%20interpreting%20an%20occlusal%20maxillary%20or%20mandibular%20intraoral%20radiograph.%20this%20radiograph%20shows%20a%20more%20extensive%20view%20of%20teeth%20and%20maxillary%20or%20mandibular%20bone,1,other
+581701,takingandinterpretinganextraoralradiographpresentingapanoramicviewofpa,1,other
+581702,takingandinterpretinganextraoralradiographpresentingapanoramicviewofpartorallofthemandibleand/ormaxi,1,other
+581703,takingandinterpretinganocclusalmaxillaryormandibularintraoralradiograph.thisradiographshowsamoreexte,1,other
+581704,takingandinterpretingaradiographmadewiththefilminsidethemouth,1,other
+581705,talal abdulrahman alkindy,1,other
+581707,talley xl thigh garment - (ref.99-01-20-108,1,other
+581711,talus/ calcaneum/ cuboid comminuted # o r i f & bg/ ga,1,lab_test
+581718,tamkeen iqama chekup,1,other
+581719,tamkeen pre- employment,1,consultation
+581723,tandem autosoft 30 infusion set 13 mm 110 cm grey -box of 10,1,supplies
+581724,tandem autosoft 30 infusion set 13 mm 60 cm grey - box of 10,1,supplies
+581725,tandem autosoft 90 infusion set 6 mm 60 cm blue - box of 10,1,supplies
+581726,tandem autosoft 90 infusion set 6 mm 60 cm pink - box of 10,1,supplies
+581727,tandem autosoft 90 infusion set 9 mm 110 cm grey - box of 10,1,supplies
+581728,tandem autosoft 90 infusion set 9 mm 60 cm blue - box of 10,1,supplies
+581729,tandem autosoft 90 infusion set 9 mm 60 cm pink - box of 10,1,supplies
+581730,"tandem autosoft 90, 6mm cannula,110cm tubing,grey box10",1,supplies
+581731,"tandem autosoft 90, 6mm cannula,60cm tubing,grey box10",1,supplies
+581732,"tandem autosoft 90, 9mm cannula,60 cm tubing,grey box10",1,supplies
+581738,tandem metabolic screen (newborn,1,other
+581739,tandem trusteel infusion set 6 mm 60 cm clear - box of 10,1,supplies
+581740,tandem trusteel infusion set 6 mm 80 cm clear - box of 10,1,supplies
+581741,tandem trusteel infusion set 8 mm 80 cm clear - box of 10,1,supplies
+581744,tania sohail,1,other
+581746,tao q10 (10,1,other
+581747,tao q10 (13,1,other
+581748,tao q10 (312,1,other
+581749,tao q10 ite,1,other
+581750,tao q15 (10/13/312,1,other
+581751,tao q15 (13,1,other
+581752,tao q15 (312,1,other
+581753,tao q15 (cic,1,other
+581760,"tape measurment,disposable",1,supplies
+581761,"tape measure, reusable",1,supplies
+581762,"tape measure, single-use",1,supplies
+581763,"tape, plaster retention roll 5cm x 10m",1,supplies
+581764,taper 12/14,1,other
+581765,"taper 12/14, 28mm",1,other
+581766,"taper hip prosthesis femoral stem 12/14 neck taper plasma sprayed press fit cementless size.6 zimmer, # 00-7711-006-20",1,lab_test
+581767,"taper, standard offset size 4, zimmer, #00-7711-004-10",1,other
+581768,taping general - single joint/area,1,other
+581770,taqieddin khail qat,1,other
+581771,taqnia pre-employments checkup,1,consultation
+581773,tarek abulaynin,1,other
+581775,target 360 soft 5mmx20cm,1,other
+581776,target 360 ultra 5mmx10cm,1,other
+581777,target xl helical 5mmx15cm,1,other
+581778,target mutation of hba1/2 gene alpha/beta-thalassemia sanger sequencing only,1,lab_test
+581779,targeted prenatal testing,1,lab_test
+581789,tarsal tunnel release,1,procedure
+581795,tattoo ink,1,other
+581796,"tattoo ink, dermal",1,other
+581814,tavanic500mg5tab,1,other
+581820,tavi: trans catheter aortic valve implantation (trans femoral)excluding valve,1,supplies
+581821,tavigyl im/iv,1,supplies
+581822,tawalet chair w/wheel-fs696 (h0032,1,supplies
+581823,tawuniya's adm. pd - days 1&2 / day???? ?.?. ??????? ????????? - ????? 1?2 - ??? ???,1,other
+581824,tawuniya's adm. pd - days 1&2 / day,1,other
+581825,tawuniya's adm. pd - days 1&2 / day (excluding psychiatry,1,other
+581826,tawuniya's adm. pd - days 3&4 / day,1,other
+581827,tawuniya's adm. pd - days 3&4 / day (excluding psychiatry,1,other
+581828,tawuniya's adm. pd - days 3&4/ day,1,other
+581829,tawuniya's adm. pd - days 5 & more / day,1,other
+581830,tawuniya's adm. pd - days 5 & more / day (excluding psychiatry,1,other
+581838,taylor test,1,lab_test
+581855,tb (afb) film (urine) (3 samples,1,lab_test
+581864,tenodesis of long tendon of biceps,2,procedure
+581865,"tenoplasty, with muscle transfer, with or without free graft, elbow to shoulder, single (seddon-brookes type procedure",1,procedure
+581866,"tenotomy, shoulder area; multiple tendons through same incision",1,procedure
+581868,tea,1,other
+581870,tear film imaging and analysis (bilateral,1,procedure
+581871,"tear film imaging and analysis, unilateral",2,procedure
+581873,"tear film lmaging and analysis, (bilateral",1,procedure
+581874,"tear film lmaging and analysis, unilateral",1,procedure
+581875,tear naturale preservative free ophtalmic minims,1,other
+581876,tear duct study uni,1,consultation
+581877,"tear duct study, unilateral",1,consultation
+581892,teats,1,supplies
+581893,tebercle becilli - pcr,1,lab_test
+581895,"tecfen medical punctal plug 0.8,vff-5002",1,other
+581902,techno pharm wheelchair jl809,1,supplies
+581903,ted frm 9111 c3,1,eyewear
+581904,ted.baker 2229 fr c:004 blk (bree,1,eyewear
+581905,ted.baker 2289 fr c:246 rose gld (lia,1,eyewear
+581906,ted.baker 2330 fr c:770 r.gold/pur pink (verity,1,eyewear
+581909,ted.baker 4269 fr c:003 blk/brn (marsh,1,eyewear
+581910,ted.baker 4286 fr c:905 gry (raiden,1,eyewear
+581911,ted.baker 4299 fr c:001 blk (aksel,1,eyewear
+581912,ted.baker 4311 fr c:001 black (goldie,1,eyewear
+581913,ted.baker 4342 fr c:002 black (laurie,1,eyewear
+581914,ted.baker 8189 fr c:001 blk (evan,1,eyewear
+581915,ted.baker 8228 fr c:001 blk (blaine,1,eyewear
+581916,ted.baker 8240 fr c:102 brn (hansen,1,eyewear
+581917,ted.baker 8246 fr c:968 smoke gry (ollie,1,eyewear
+581918,ted.baker 8259 fr c:122 brown horn grad (henri,1,eyewear
+581919,ted.baker 8270 fr c:001 black,1,eyewear
+581920,ted.baker 8270 fr c:175 brown horn/grad,1,eyewear
+581921,ted.baker 8270 fr c:906 grey,1,eyewear
+581922,ted.baker 8281 fr c:001 gloss black (chevy,1,eyewear
+581923,ted.baker 8281 fr c:122 brown horn (chevy,1,eyewear
+581924,ted.baker 8281 fr c:590 olive green (chevy,1,eyewear
+581925,ted.baker 9184 fr c:952 grey (rayna,1,eyewear
+581926,ted.baker 9199 fr c:008 blk/brn (lenna,1,eyewear
+581927,ted.baker 9207 fr c:608 navy (lora,1,eyewear
+581928,ted.baker 9208 fr c:068 crys blk (mona,1,eyewear
+581929,ted.baker 9215 fr c:139 tortoise (priya,1,eyewear
+581930,ted.baker 9220 fr c:202 pink (winn,1,eyewear
+581931,ted.baker 9220 fr c:405 champ (winn,1,eyewear
+581932,ted.baker 9226 fr c:109 gloss tort (breda,1,eyewear
+581933,ted.baker 9232 fr c:903 gunmetal grey (leorna,1,eyewear
+581934,ted.baker 9237 fr c:236 crys/rose (karina,1,eyewear
+581935,ted.baker 9237 fr c:561 d.green (karina,1,eyewear
+581936,ted.baker 9238 fr c:122 camel (tamara,1,eyewear
+581937,ted.baker 9239 fr c:269 milky.pink (elodie,1,eyewear
+581938,ted.baker 9239 fr c:678 navy (elodie,1,eyewear
+581939,ted.baker 9241 fr c:130 nude (harlow,1,eyewear
+581944,ted.baker 961b fr c:207 l.pink (cora,1,eyewear
+581945,ted.baker 963b fr c:211 pink (lola,1,eyewear
+581946,ted.baker 964b fr c:001 blk (duke,1,eyewear
+581947,ted.baker 965b fr c:152 brn (river,1,eyewear
+581948,ted.baker 971b fr c:986 gry (kerr,1,eyewear
+581949,ted.baker 976b fr c:001 blk (lita,1,eyewear
+581950,ted.baker 976b fr c:608 navy (lita,1,eyewear
+581951,ted.baker 979b fr c:001 black (kline,1,eyewear
+581952,ted.baker 984b fr c:716 purple (mora,1,eyewear
+581953,ted.baker 986b fr c:970 grey (miley,1,eyewear
+581955,tedalix,1,other
+581964,teeth cleaning and whitening,1,dental
+581965,teeth diagnosis,1,dental
+581967,teeth extraction - 4002,1,dental
+581970,teeth polishing367,1,dental
+581971,teeth scaling & polishing,1,dental
+581972,teeth scaling-7002,1,dental
+581974,teeth cleaning and polishing,2,dental
+581975,teeth cleaning with polishing,1,dental
+581977,teeth whitening (in clinic,1,dental
+581978,teeth whitening kit,1,dental
+581983,"tegaderm chg 3m, 10cmx12cm",1,supplies
+581984,tegaderm chg 8.5cm x 11.5cm,1,other
+581985,tegaderm film dressing 10x12 (3m,1,supplies
+581986,tegaderm film dressing 6cm x 7cm (3m,1,supplies
+581987,"tegaderm film transparent 10 x 25cm, 3m, #1627",1,supplies
+581988,"tegaderm transperant film 10 x 12 cm 1""s #3m-1626w",1,supplies
+581989,"tegaderm transperant film 6 x 7 cm 1""s #3m-1623w",1,supplies
+582063,"tektona hv bone cement, spineart #tek-bc hv 00-s",1,imaging
+582064,"tektona one level box small beveled3, spineart #tek-sl b4 00-s",1,lab_test
+582065,telfast120mg15tabs,1,other
+582066,telfast180mg15tabs lasa,1,other
+582067,telfast180mg15tabs,1,other
+582068,telal saleh bushr,1,other
+582069,tele consultation with consultant,1,consultation
+582070,tele consultation with specialist,1,consultation
+582071,tele-consultation with gp (video conference,1,consultation
+582072,tele-consultation with specialist (video conference,1,consultation
+582073,tele-consultation with consultant - video (tele-consultation with consultant - video,1,consultation
+582074,tele-consultation with specialist - video (tele-consultation with specialist - video,1,consultation
+582075,telemedicine virtual cons - consultant,1,consultation
+582076,telemedicine virtual cons - gp,1,consultation
+582077,telemedicine virtual cons - specialist,1,consultation
+582078,teleconsultation / video conference,1,other
+582079,telemedicine allied health,2,consultation
+582080,telemedicine endocrinology specialist,1,consultation
+582081,telemedicine family medicine consultant,1,consultation
+582082,telemedicine family medicine specialist,1,consultation
+582083,telemedicine internal medicine specialist,1,consultation
+582084,telemedicine obstetrics and gynecology specialist,1,consultation
+582085,telemedicine pediatrics consultant,1,consultation
+582086,telemedicine pediatrics specialist,1,consultation
+582087,telemedicine for refill prescription,1,other
+582088,telemedicine general practitioner,3,consultation
+582089,telemedicine specialist,2,consultation
+582090,telemedicine - consultant subtle specialty,1,consultation
+582092,telemedicine ? specialist,1,consultation
+582094,telemedicine assessment for diagnosis treatment and counselling of a new or established patient by consultant,2,consultation
+582095,telemedicine assessment for diagnosis treatment and counselling of a new or established patient by emergency,1,consultation
+582096,telemedicine assessment for diagnosis treatment and counselling of a new or established patient by specialist,2,consultation
+582098,telemedicine assessment for diagnosis treatment and counselling of a new or established patient by general practitioner,1,consultation
+582100,telemedicine consultant,2,consultation
+582101,telemedicine consultant consultation,1,consultation
+582102,telemedicine consultation,1,consultation
+582103,telemedicine consultation by consultant,1,consultation
+582104,telemedicine consultation by general practitioner,1,consultation
+582105,telemedicine consultation by specialist,1,consultation
+582106,telemedicine gp,1,consultation
+582108,telemedicine psychiatry,1,other
+582109,telemedicine psychotherapy,1,consultation
+582111,telemedicine specialist -1,1,consultation
+582116,telemedicine - specialist -1,1,consultation
+582117,telemedicine - specialist -2,1,consultation
+582119,telemedicine - psychotherapy,1,consultation
+582120,telemedicine%20%3f%20specialist%20-1,1,other
+582121,telemedicine%20%3f%20consultant,1,other
+582122,"telemetric eeg monitoring, minor complexisty",1,diagnostic
+582124,telemetry monitoring / day,1,consultation
+582125,"telephone assessment, 11 to 20 min",1,consultation
+582126,"telephone assessment, 5 to 10 min",1,consultation
+582127,telephone visit - orthopedic surgery,1,procedure
+582128,telephone assessment - 10 min,1,consultation
+582129,telephone assessment - 20 min,1,consultation
+582130,telephone assessment - 30 min,1,consultation
+582167,telfast120mg15tab,2,other
+582170,telfast180mg15tab,2,other
+582179,temorary resto,1,other
+582181,temp . crown,1,dental
+582183,temp filling 3- surface,1,dental
+582184,temp scan cover,1,imaging
+582186,temperal bone,1,imaging
+582187,temperary crown,1,dental
+582188,temperary filling,1,dental
+582190,tempero mandibular joint 4 films,1,other
+582191,tempmandibular -1view,1,other
+582192,tempmandibular -2views,1,imaging
+582193,tempo - mandibular joint,1,other
+582194,tempo catheter 5f vertebral,1,supplies
+582195,tempo cool fever newborn 4pcs 0489,1,other
+582197,tempo mandibular jt. both sides,1,other
+582198,temporal bones/iam w/o contrast,1,imaging
+582199,temporal filling w/analgesic pak,1,dental
+582200,temporarv crown,1,dental
+582202,temporary crown acrylicm,1,dental
+582204,temporary external pacing/day,1,other
+582207,temporary filling + root cover / dressing of ca(o,1,lab_test
+582209,temporary filling 1-surf,1,dental
+582210,temporary filling ???? ?????? ?????,1,dental
+582213,temporary filling-7032,1,dental
+582214,temporary filling371,1,other
+582216,temporary pacemaker ( day case,1,supplies
+582220,temporary pacemaker insersion,1,supplies
+582221,temporary pacemaker removal,1,supplies
+582222,temporary punctal plug,1,other
+582223,temporary restoratio,1,other
+582225,temporary sedative restoration,1,dental
+582227,temporary tooth filling,2,dental
+582228,temporary cardiac pacing balloon catheter,1,supplies
+582229,temporary cardiac pacing catheter,1,supplies
+582231,temporary crown tooth-colored,1,dental
+582234,temporary filling for one surface,1,dental
+582238,temporary pacemaker use per-day,1,supplies
+582239,temporary pacing wire insertion,1,supplies
+582241,temporary restoration of cavity,1,dental
+582242,temporary splint,1,supplies
+582246,temporo mandular joint,1,other
+582249,temporomandibular joint (tmj,1,other
+582250,temporomandibular joint -2v,1,imaging
+582251,temporomandibular joint 3 v,1,other
+582252,temporomandibular joint x-ray2views,1,other
+582253,temporory filling,1,dental
+582254,tena bed 60*90 cm 30 pcs,1,supplies
+582255,tena flex plus diapers large 30 pcs,1,supplies
+582256,tena flex plus diapers xlarge 30 pcs,1,supplies
+582257,tena flex plus extra large -diapers,1,supplies
+582258,tena lady pants blanc discreet plus large 16 pcs,1,eyewear
+582259,tena lady pants medium size,1,supplies
+582260,tena men protective underwear premium large level 4 10 pcs,1,lab_test
+582261,tena pants normal (medium) - unisex,1,supplies
+582262,tena pants normal (xl) pants,1,supplies
+582263,tena pants size - large,1,supplies
+582264,tena pants unisex large 10 pcs,1,supplies
+582265,tena pants unisex medium 10 pcs,1,supplies
+582266,tena pants unisex xl 15 pcs,1,supplies
+582267,tena silhouette lady pants discreet plus medium 18 pcs,1,eyewear
+582268,tena silhouette lady pants discreet plus xl 14 pcs,1,eyewear
+582269,tena slip bariatric xxl,1,other
+582270,"tena slip bariatric, xxl, 2x32pcs, 1""s",1,other
+582271,"tena slip maxi ,xl,24pcs,1""s",1,other
+582272,tena slip maxi diapers large 24 pcs,1,supplies
+582273,tena slip maxi diapers xlarge 24 pcs,1,supplies
+582274,tena slip maxi large diaper,1,supplies
+582275,tena slip plus diapers large 30 pcs,1,supplies
+582276,tena slip plus diapers medium 30 pcs,1,supplies
+582277,tena slip plus small -diaper,1,supplies
+582278,tena slip super diapers xxl 32 pcs,1,supplies
+582279,tena slip super medium -diaper,1,supplies
+582280,tena under pad 30 pcs,1,supplies
+582281,tena pants normal -l-10 pcs,1,supplies
+582282,tena pants normal -xl-10 pcs,1,supplies
+582283,tena silhouette lady pants discreet -xl-14 pcs,1,eyewear
+582284,tena underpad (fluff pulp) 60*90 (20's) (773620,1,dental
+582285,tendo achilles lengthening(unilateral,1,procedure
+582286,tendolysis,1,procedure
+582287,"tendon anchors (8), sterile, smith and nephew, 72205201",1,supplies
+582291,tendon lengthening (dorsum or sole of the foot,1,procedure
+582292,tendon lengthening - excluding supplies,1,procedure
+582293,tendon lengthening - one (except tendon achilles,1,supplies
+582294,tendon lengthening reinsertion,1,procedure
+582296,tendon release (multiple,1,procedure
+582298,tendon release (two,4,procedure
+582302,tendon release for hand or foot glb ayh,1,procedure
+582303,tendon release of fingers/wrist p/d,1,procedure
+582304,tendon release of finger or wrist,1,procedure
+582306,tendon release of finger/wrist l.a,1,procedure
+582310,tendon repair - each,1,procedure
+582311,tendon repair below three tcs ayh,1,procedure
+582312,tendon repair for rupture tendo achillies next care ayh,1,procedure
+582313,tendon repair more than three bupa ayh,1,procedure
+582314,tendon repair of hand & feet p/d,1,procedure
+582317,tendon repair of cut injury,1,procedure
+582319,tendon shealth splitting,1,other
+582321,tendon suture under l.a,2,supplies
+582322,tendon transfer foot,1,procedure
+582324,"tendon transfer or transplant, each",1,procedure
+582325,tendon ultrasound,1,imaging
+582326,tendon approximator,1,other
+582328,tendon lengthening,1,procedure
+582329,"tendon lengthening, upper arm or elbow, each tendon",1,procedure
+582330,tendon lengthing,1,other
+582331,"tendon reconstruction, later repair",1,procedure
+582333,tendon release for hand or foot bupa ayh,1,procedure
+582336,tendon release of fingers wrist under ga,1,procedure
+582339,tendon release of trigger finger,1,procedure
+582342,"tendon repair "" two"" under ga",1,procedure
+582343,tendon repair for rupture and achillies or repair of torn knee and ankle ligament,1,procedure
+582347,tendon sheath incision for trigger finger,1,supplies

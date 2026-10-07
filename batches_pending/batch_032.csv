@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+201210,episiotomy,2,procedure
+201211,episiotomy (including sutures,1,supplies
+201212,episiotomy - caping,1,procedure
+201213,episiotomy - local anaesthesia,1,procedure
+201214,episiotomy ? local anaesthesia,1,procedure
+201215,episiotomy dressing,1,supplies
+201216,episiotomy during delivery,1,procedure
+201217,episiotomy l.a,1,procedure
+201218,episiotomy or vaginal repair,1,procedure
+201219,"episiotomy or vaginal repair, by other than attending physician, under",1,procedure
+201220,episiotomy primary repair (repair routine episioto,1,procedure
+201221,episiotomy repair,1,procedure
+201222,episiotomy repair under g.a,1,procedure
+201223,episiotomy revision- 1day pkg,1,procedure
+201224,episiotomy stitch removal,1,procedure
+201225,episiotomy under local anaesthesia,1,procedure
+201226,episiotomy-local anaesthesia,1,procedure
+201227,episiotomy/ventouse/forceps,1,procedure
+201228,"epispadias, staged repair, first stage",1,procedure
+201229,epistaxis cautary under g.a,1,procedure
+201230,epistaxis cautherization,1,other
+201231,epistaxis chemical cautery,2,procedure
+201232,epistaxis control under g.a,1,lab_test
+201235,epistaxis pack,2,supplies
+201236,epistaxis surgery under ga,1,procedure
+201237,epistaxis surgery under ga bupa,1,procedure
+201238,"epistaxis, majc",1,inpatient
+201239,"epistaxis, minc",1,inpatient
+201240,epistaxix - unilateral packing,2,procedure
+201242,epistigmin 0.25% vail,1,other
+201359,epithelial cleaning,2,procedure
+201360,epithelial membrane antigen (ema,1,lab_test
+201361,epithelioma excision,1,procedure
+201387,epizolone depot vail,1,other
+201396,eplastic bandage appl (small,1,supplies
+201397,eplation,1,other
+201398,eplation one eye,1,supplies
+201399,eplcectomy,1,procedure
+201400,epley maneuver,4,diagnostic
+201402,epley manover,1,other
+201403,epley manuever for bppv,1,other
+201404,epleys maneuver - per session,1,physiotherapy
+201405,eply manuver,1,other
+201406,eplys maneuver (canalith repositioning,1,diagnostic
+201407,epnephrine 24hr urine,1,lab_test
+201419,epo (erythropoietin,1,other
+201421,epocillin,2,other
+201423,epore cone metaphyseal tibial sz#42171102,1,other
+201424,eposoft evening primrose oil,1,other
+201425,eprex 10000 u -ml prefilled syring,1,other
+201426,eprex 4000 i.unit 1amp,1,other
+201444,eprosartan+h(teveten plus) 600 12.5,1,other
+201447,epstein b.v. by immunob.iga/igg/igm,1,lab_test
+201448,epstein bar virus (ebv) antibodies igg,1,lab_test
+201449,epstein bar virus ab (ebv,1,lab_test
+201450,epstein barr,1,other
+201451,"epstein barr vir.by immuno igg, and igm spec. s -(send-out tests",1,lab_test
+201452,"epstein barr vir.by immuno.iga, igg, and igm spec. s -(send-out tests",1,lab_test
+201453,epstein barr virus ( ebv ) igg,1,lab_test
+201454,epstein barr virus (ebv) (ebna) igg,1,lab_test
+201455,epstein barr virus (ebv) (vca) igm,1,lab_test
+201456,epstein barr virus (ebv) abs structure(ebna&vca,1,lab_test
+201457,epstein barr virus (ebv) dna quant by pcr,2,lab_test
+201459,epstein barr virus (ebv) ebna igg,1,lab_test
+201460,epstein barr virus (ebv) igg,1,lab_test
+201461,epstein barr virus (ebv) igm,1,lab_test
+201462,epstein barr virus (ebv) vca igg,3,lab_test
+201463,epstein barr virus (ebv) vca igm,3,lab_test
+201466,epstein barr virus (ebv-igg,1,lab_test
+201467,epstein barr virus (ebv-igm,1,lab_test
+201468,epstein barr virus (pcr,2,lab_test
+201469,epstein barr virus (pcr) (ebv pcr,1,lab_test
+201470,epstein barr virus (pcr)( so,1,lab_test
+201471,epstein barr virus (pcr)(526138,1,lab_test
+201473,epstein barr virus /e.b.v,1,lab_test
+201474,epstein barr virus abs,3,lab_test
+201475,epstein barr virus abs igm,2,lab_test
+201476,epstein barr virus abs (ebv) igg/igm,1,lab_test
+201477,epstein barr virus abs (igg + @,1,lab_test
+201479,epstein barr virus abs igg,1,lab_test
+201481,epstein barr virus abs igg & igm,1,lab_test
+201482,epstein barr virus abs s -(send-out tests,1,lab_test
+201483,epstein barr virus abs structure,1,lab_test
+201485,epstein barr virus abs. d,1,lab_test
+201486,epstein barr virus abs.(526126,1,lab_test
+201487,epstein barr virus antibody (igm,1,lab_test
+201488,epstein barr virus antibody igg (ebv,1,lab_test
+201489,epstein barr virus antibody igm (ebv,1,lab_test
+201490,epstein barr virus ebv igm,1,lab_test
+201491,epstein barr virus igg,3,lab_test
+201492,epstein barr virus igg (j) specific abs,1,lab_test
+201493,epstein barr virus igg(ebv,1,lab_test
+201494,epstein barr virus igm,3,lab_test
+201495,epstein barr virus igm(ebv,1,lab_test
+201497,epstein barr virus igg abs (ebv,1,lab_test
+201499,epstein barr virus nuclear ag,1,lab_test
+201500,epstein barr virus pcr,1,lab_test
+201501,epstein barr virus profile,1,lab_test
+201502,epstein barr virus profile -5-6-120291,1,lab_test
+201503,epstein barr virus(ebv) vca igg,2,lab_test
+201504,epstein barr virus(ebv) vca igm,2,lab_test
+201505,epstein- barr virus (ebv) abs,1,lab_test
+201506,epstein-barr nuclear ag,2,lab_test
+201507,"epstein-barr virus (ebv) antibody, igm",1,lab_test
+201508,epstein-barr virus (ebv) pcr,2,lab_test
+201509,epstein.barr igm,1,lab_test
+201510,epstein?barr virus (eb ); igg,1,lab_test
+201511,epstein?barr virus (eb ); igm,1,lab_test
+201512,epsteinbarr virus igm abs (ebv,1,lab_test
+201513,epstine barr virus (pcr,1,lab_test
+201517,epulis excision,1,procedure
+201522,equilibrium test,1,lab_test
+201523,equiped strengthing exercise,1,other
+201524,equipment used in or,1,other
+201525,equispon gelatin sponge 80x50x10mm,1,supplies
+201526,equistream 14.5fr st cath 6903190,1,supplies
+201527,equistream 14.5fr st cath 6903230,1,supplies
+201528,equistream 14.5fr std cath 6903420,1,supplies
+201529,er,1,other
+201530,er (gp) physician consultation,1,consultation
+201531,er (specialist,1,consultation
+201532,er - consultation,1,consultation
+201533,er - ecg,1,diagnostic
+201534,er - glucocheck,1,other
+201537,er - iv fluid set + insertion,1,supplies
+201538,er - iv and dressing consultation,1,supplies
+201539,er - large abscess drainage l/a,1,procedure
+201540,er - misc. dental treatment /10 min,1,dental
+201541,er - nebulizer / session,1,physiotherapy
+201542,er - oxygen ( 1h,1,supplies
+201543,er - oxygen per hour,1,supplies
+201544,er - stitch removal,1,procedure
+201545,er - suturing superficial wound,1,procedure
+201546,er - wound dressing - large,1,supplies
+201547,er - wound dressing - small,1,supplies
+201548,er / pr / dna / ki-67 / her2 - w/interpretation,1,lab_test
+201550,er accomodation and observation p.h,1,consultation
+201566,er ayman attia zayed,1,other
+201572,er charges w o consumeables,1,lab_test
+201573,er charges with consumeables,1,other
+201576,er consult,1,consultation
+201577,er consultation,3,consultation
+201578,er consultation - ??? ???? ??? ???????,2,consultation
+201579,er consultation fee,1,consultation
+201581,er consultation fees ( ipd - opd,1,consultation
+201583,er consultation ??? ?????,1,consultation
+201584,er creatinine,1,lab_test
+201592,er difference - consultant,1,consultation
+201595,er doctor,1,consultation
+201596,er doctor 100sr,1,consultation
+201599,er fee,1,consultation
+201603,er g.p cons. fee,1,consultation
+201604,er gp consultation,1,consultation
+201605,er gp consultattion,1,consultation
+201606,er gp consulttaion,1,consultation
+201613,er iv insertion,1,supplies
+201626,er monther suleiman alnajjar,1,other
+201632,er nursing charge,1,consultation
+201633,er observ. 1/hour,1,other
+201634,er observation,4,consultation
+201635,er observation per day,1,consultation
+201636,er observation per hour (er,1,consultation
+201637,er observation per hour (er) (duplicate,1,consultation
+201638,er observation per/hour,1,consultation
+201647,er observation - nursing supervision,1,consultation
+201648,er observation fee,1,consultation
+201649,er observation package up to 4 hours,1,consultation
+201650,er observation room fee (1-6 hr,1,consultation
+201651,er observation per hour,2,consultation
+201655,er patient observation/1hour,1,consultation
+201656,er pediatric specialist fee,1,consultation
+201657,er physician consultion,1,other
+201658,er physician fee,2,consultation
+201662,er profile (i) cbc + urine analysis,1,lab_test
+201663,er profile (ii): alkphos. + t.bil.+sghot+sgpt+ggt+lipase+amalse+rbs,1,lab_test
+201664,er profile (iii): troponin + ck+ ckmb,2,lab_test
+201665,er profile (iv): pt+ptt,1,lab_test
+201666,er profile i (cbc & urine analysis,1,lab_test
+201668,er physician,1,other
+201669,er recovery room fee,1,consultation
+201676,er room,1,consultation
+201677,er room fee (observation room,1,consultation
+201678,er room 2- 6 hrs,1,consultation
+201679,er room 2- 6 hours,1,consultation
+201680,er room 2-6 hours,1,consultation
+201681,er room 2-6 hrs,1,consultation
+201682,er room 6- 12 hours,1,consultation
+201683,er room 6-12 hours,1,consultation
+201684,er room 6-12 hrs,1,consultation
+201685,er s.c,1,lab_test
+201692,er specialist consultation,1,consultation
+201693,er specialist fee,1,consultation
+201694,er stay (per hour,3,other
+201695,er service visit,1,consultation
+201697,er troponin i,1,lab_test
+201700,er vip consultation fees,1,consultation
+201701,er virtual visit - 30 min,1,consultation
+201702,er virtual visit - 50 min,1,consultation
+201705,er visit consultation,1,consultation
+201710,er observation 4-6 hours,1,consultation
+201711,er observation less than 3 hours,1,consultation
+201712,er pulp exirpation,1,dental
+201713,er pulp exterpation,1,dental
+201714,er- nebulization with medication,1,procedure
+201715,er-008 r b s,1,lab_test
+201718,er-097 dextrose5%,1,other
+201725,er-b.m.s,1,lab_test
+201730,er-dressing (large,1,supplies
+201732,er-insertion of urinary catheter,1,supplies
+201733,er-iv fluid with ordinary set,1,supplies
+201737,er-observation,1,consultation
+201738,er-oxygen,1,supplies
+201739,er-oxygen therapy (oxygen inhilation,1,physiotherapy
+201742,er-prempiran,1,other
+201743,er-respiratory medication administered by nebulizer,1,supplies
+201746,er-standard 12 leads ecg,1,diagnostic
+201747,er-t.s.b.(tepid sponging bath,1,lab_test
+201748,er-tri - b,1,other
+201750,er. fee for observation & services,1,consultation
+201751,er.observation,1,consultation
+201752,er/pr/dna/ki-67/her2-reflex to her2 by fish,1,lab_test
+201753,er/pr/her2-reflex to her2 by fish,1,lab_test
+201755,"er/recovery observation room , less than one hour",1,supplies
+201756,"er/recovery observation room , more than one hour,per hour",1,supplies
+201757,er006muhammad elsayed abdelazeem muhammad elgammal,1,other
+201759,er127,1,other
+201774,eradocin,3,other
+201780,eradocin 500,2,other
+201840,eradocin500 mg 5tap,1,other
+201841,eradocin750 mg 5tap,1,other
+201882,erbe nessy omega plate 4m long 20193-083,1,supplies
+201890,ercp,1,procedure
+201891,ercp diagnostic,5,procedure
+201892,ercp therapeutic,5,procedure
+201894,ercp w/ sphincterotomy - biliary stent placement. (implant not included)d/cdays,1,supplies
+201895,ercp with placement of stent,1,supplies
+201896,ercp with sphincterotomy with or without removal of stone,1,procedure
+201897,ercp with use of retrieval ballon,1,procedure
+201898,ercp & sphincterotomy and mecha,1,procedure
+201899,ercp & sphincterotomy and stent insertion 2nd class,1,supplies
+201900,ercp (diagnostic,1,procedure
+201901,ercp (endoscopic retrograde cholangiopancreatography )- diagnostic,1,procedure
+201902,ercp (therapeutic,1,procedure
+201903,ercp + biliary balloon dilataion,1,supplies
+201904,ercp + biliary stenting,1,procedure
+201905,ercp + papilitomy + stone ext,1,procedure
+201906,ercp + papillotomy and removal of stone bile duct,1,procedure
+201907,ercp + procedure + 1 plastic stent,1,eyewear
+201908,ercp + removal of biliary stent,1,supplies
+201909,ercp + sphincterotomy,1,procedure
+201910,ercp + sphincterotomy + duct clearance,1,procedure
+201911,ercp + sphincterotomy + removal of stone + dormie basket,1,procedure
+201912,ercp + sphincterotomy + removal of stone+dormie basket,1,procedure
+201913,ercp + sphincterotomy + stent insertion,1,supplies
+201914,ercp + sphincterotomy - day case,1,procedure
+201915,ercp + spincterotomy + stent w. or w/out sedation-pkg,1,supplies
+201916,ercp + spincterotomy w. or w/out sedation-pkg,1,procedure
+201917,ercp - diagnostic,2,procedure
+201918,ercp - diagnostic - day case,1,procedure
+201920,ercp - endoscopic retrograde cholangiopancreatography; with use of retrieval ballon,1,procedure
+201921,ercp - therapeutic,1,procedure
+201922,ercp - with placement of stent (excluding stent price,1,supplies
+201923,ercp - with sphincterotomy with or without removal of stone,1,procedure
+201924,ercp - with use of retrieval ballon,1,procedure
+201925,ercp / spyglass bx,1,procedure
+201926,ercp / spyglass with laser lithotripsy,1,procedure
+201927,ercp / therapeutic,1,procedure
+201928,ercp and cbd self expandable metallic stent placement - 1 day pkg,1,supplies
+201929,ercp c51.10,1,procedure
+201930,ercp cbd stent,2,supplies
+201933,ercp diagnostic under anesthesia,1,procedure
+201934,ercp diagnostic under ga (pk,1,procedure
+201936,ercp diagnostic/admission,1,procedure
+201937,ercp diagonstic,1,procedure
+201938,ercp diagnosis,1,procedure
+201940,ercp diagnostic - endoscopic retrograde cholangiopancreatography,1,procedure
+201941,ercp es stone removal +stent,1,supplies
+201942,ercp fluoroscopy with contrast charges,1,procedure
+201943,ercp guide wire,1,supplies
+201944,ercp p/d,1,procedure
+201945,ercp sphincterotomy,2,procedure
+201946,ercp stent,1,supplies
+201947,ercp stent removal,1,supplies
+201949,ercp surg,1,procedure
+201950,ercp therap/ stent removal,1,supplies
+201951,ercp therap/stent removal under ga,1,supplies
+201953,ercp therapeutic (stent removal/adjustment/balloon dilation) with material cost 5000 sr,1,supplies
+201954,ercp therapeutic + cbd stent under ga (pk,1,supplies
+201955,ercp therapeutic + stent,1,supplies
+201956,ercp therapeutic 1,1,procedure
+201957,ercp therapeutic lithotripsy with stent ( excluding stent price,1,supplies
+201958,ercp therapeutic lithotripsy without stent,1,supplies
+201959,ercp therapeutic under anesthesia,1,procedure
+201960,ercp therapeutic under ga (pk,1,procedure
+201961,ercp therapuetic,1,procedure
+201962,ercp theraputic ercp,1,procedure
+201963,ercp treatment,1,procedure
+201965,ercp therapeutic - endoscopic retrograde cholangiopancreatography,3,procedure
+201968,ercp w stent,1,supplies
+201969,ercp w/ balloon dilation,1,supplies
+201970,ercp w/ biopsy,1,procedure
+201971,ercp w/ sphincterotomy - biliary stent placement. (implant not included,1,supplies
+201972,ercp w/ sphincterotomy - large balloon papillary dilatation & stone extraction w/ sphincterotomy,1,dental
+201973,ercp w/bill stent (proc. only,1,supplies
+201974,ercp wihth cbd stone removal & plastic stent insertion,1,eyewear
+201975,ercp with cbc brush cystology,1,lab_test
+201976,ercp with cbd plastic stent,1,eyewear
+201978,ercp with procedure,1,procedure
+201979,ercp with procedure (with stent,1,supplies
+201980,ercp with procedure (without stent price,1,supplies
+201981,ercp with procedure (without stent,2,supplies
+201983,ercp with procedure - therapeutic (without stent,1,supplies
+201984,ercp with procedure under ga,1,procedure
+201985,ercp with procedure under ga (500908,1,procedure
+201986,ercp with procedure under ga bupa,1,procedure
+201987,ercp with procedure under ga tcs,1,procedure
+201988,ercp with procedure under gabupa,1,procedure
+201989,ercp with procedure under gataw,1,procedure
+201990,ercp with procedure w/o stent price,1,supplies
+201991,ercp with procedure&stent,1,supplies
+201992,ercp with sphenictroplasty - day case,1,procedure
+201993,ercp with sphincterotomy and mechanical lithotripsy - 1 day pkg,1,procedure
+201994,ercp without procedure,1,procedure
+201995,ercp without procedure ( diagnostic,2,procedure
+201997,ercp without procedure - diagnostic,1,procedure
+201998,ercp without procedure under ga taw,1,procedure
+201999,ercp without procedure undefined,1,procedure
+202002,ercp with cbd balloon sweep,1,supplies
+202003,ercp with cbd stent insertion (metallic) w/o stent price,1,supplies
+202004,ercp with cbd stent insertion (plastic) w/o stent price,1,eyewear
+202005,ercp with cbd stent removal,1,supplies
+202006,ercp with cbd stricture dilatation,1,procedure
+202007,ercp with stent p/d,2,supplies
+202008,ercp(endoscopic retrograde cholangiopancreatography)- diagnostic,1,procedure
+202009,ercp+cbd brush cytology - one day,1,lab_test
+202010,ercp+double biliary metal stent insertion,1,supplies
+202011,ercp+es+stone removal,1,procedure
+202012,ercp+metalic stent w. or w/out-pkg,1,supplies
+202013,ercp+nasobiliary cholangiogram tube,1,supplies
+202014,ercp+sphinct+lithotripsy+stone extract,1,procedure
+202015,ercp+sphinct.+stent insertion,1,supplies
+202016,ercp+sphinct.+stone extrac.+stent ins,1,supplies
+202017,ercp+sphinct.+stone extraction,1,dental
+202018,ercp+sphincterotom+cbd bruch cyt.+need.asp.biopsy+stent insertion+stricture dialatation (wo/stent price,1,supplies
+202019,ercp+sphincterotomy+cbd bruch cyt.+need.asp.biopsy - day case,1,procedure
+202020,ercp+sphincterotomy+cbd bruch cyt.+need.asp.biopsy+stent insertion (wo/stent price) - day case,1,supplies
+202021,ercp+sphincterotomy+mech.lithotrepsy.+stone extraction - day case,1,dental
+202022,ercp+sphincterotomy+stent insertion (wo/stent price) - day case,1,supplies
+202023,ercp+sphincterotomy+stone extraction - day case,1,dental
+202024,ercp+sphincterotomy+stone extraction and stent,1,dental
+202025,ercp+sphincterotomy+stone extraction+stent insertion. (wo/stent price) - day case,1,dental
+202026,ercp+sphincterotomy+stricture dialatation+stent insertion . (wo/stent price) - day case,1,supplies
+202027,"ercp, mechanical lithotripsy for stone w/ or w/o sphincterotomy",1,procedure
+202028,"ercp, therapeutic",1,procedure
+202029,"ercp, w/ sphincterotomy - balloon dilatation & stone extraction",1,dental
+202030,"ercp, w/ sphincterotomy - biliary stent placement. (implant not included",2,supplies
+202031,"ercp, w/ sphincterotomy - naso-biliary drainage",1,procedure
+202032,"ercp, w/ sphincterotomy - stone extraction",1,dental
+202033,ercp- w/o procedure ( (endoscopic retrograde cholangio-pancreatography,1,procedure
+202034,ercp- with sphincterectomy without stent,1,supplies
+202035,ercp-w& sphincterotomy w& or w&o removal - 1 day pkg,1,procedure
+202036,ercp-with mechanical lithotripsy - 1 day pkg,1,procedure
+202037,ercp-with nasobiliary drainage tube - 1 day pkg,1,supplies
+202038,ercp-with placement of stent - 1 day pkg,1,supplies
+202039,ercp-with sphincterectomy with stent (stent not included,1,supplies
+202040,ercp-with use of retrieval ballon - 1 day pkg,1,procedure
+202041,ercp-therapeutic,1,procedure
+202042,ercp/removal stent,1,supplies
+202043,ercp/stone extraction,1,dental
+202044,ercp2bes2bstoneremoval,1,other
+202045,erect abdomen,2,other
+202070,erg,1,other
+202071,erg + ver,1,other
+202072,erg + ver + eog,1,other
+202074,"ergonomic ring cusion 18""-medium",1,other
+202075,"ergonomic ring cusion 20"" - large",1,other
+202087,erm peeling,1,other
+202092,erobservationroomfee(1-6hr,1,other
+202093,erpoc d&c c69.02,1,other
+202095,ers0003,1,other
+202102,erucella test,1,lab_test
+202103,erupted therd molar extraction,1,dental
+202104,erupted therd molar extraction ???? ?????,1,dental
+202106,eryth. sedimentatin rate,1,other
+202107,erythocytic sedimentation rate (esr,1,lab_test
+202108,"erythritol, glycerol, sodium carboxy methyl cellulose 7lf, sodium hyaluronate",1,lab_test
+202109,erythro poitein hormone,1,lab_test
+202112,erythrocyte osmotic fragility test,1,lab_test
+202113,"erythrocyte sed, rate esr",1,lab_test
+202114,erythrocyte sed. rate-esr,1,lab_test
+202115,erythrocyte sedem rate,2,lab_test
+202116,erythrocyte sedementation rate (esr,1,lab_test
+202117,erythrocyte sedimendation rate,1,lab_test
+202118,erythrocyte sedimentation rate ( esr,4,lab_test
+202119,erythrocyte sedimentation rate (esr,11,lab_test
+202121,erythrocyte sedimentation rate # 032-20524,1,lab_test
+202122,erythrocyte sedimentation rate # 033-20524,1,lab_test
+202123,erythrocyte sedimentation rate (e.s.r,3,lab_test
+202126,erythrocyte sedimentation rate (esr) blood,1,lab_test
+202127,erythrocyte sedimentation rate (esr)(502016,1,lab_test
+202128,erythrocyte sedimentation rate - 032-20524,1,lab_test
+202129,erythrocyte sedimentation rate - esr,2,lab_test
+202130,erythrocyte sedimentation rate -esr,1,lab_test
+202132,erythrocyte sedimentation rate :-erythrocyte sedimentation rate,1,lab_test
+202133,erythrocyte sedimentation rate esr,4,lab_test
+202134,erythrocyte sedimentation rate(esr,3,lab_test
+202136,erythrocyte sedimentation rate-e s r,1,lab_test
+202137,erythrocyte sedimentationrate (esr,1,lab_test
+202138,erythrocyte sedimentationrate (esr) (l06,1,lab_test
+202139,erythrocyte sedimentationrate -esr,1,lab_test
+202140,erythrocyte sedimention rate (esr,1,lab_test
+202141,erythrocyte%20sedimentation%20rate,1,lab_test
+202142,erythrocytes sedimentation rate (esr,4,lab_test
+202143,erythrocytic sedimentation (esr,1,lab_test
+202144,erythrodar,1,other
+202150,erythrodar 400,1,other
+202174,erythrodar 400tab,1,other
+202178,erythrodar forte 400,1,other
+202206,erythropocietin,1,other
+202207,erythropocietin frozen serum,1,lab_test
+202208,erythropoietin,2,other
+202209,erythropoietin (e.p.o) - s.o,1,lab_test
+202210,erythropoietin (epo,2,other
+202214,erythropoietin (serum,1,lab_test
+202215,erythropoietin - epo,2,other
+202216,erythropoietin abs( so,1,lab_test
+202217,erythropoietin horm,1,other
+202218,erythropoietin level,2,lab_test
+202219,erythropoietin s -(send-out tests,1,lab_test
+202220,erythropoietin( so,1,other
+202221,erythropoitein,1,other
+202222,erythropoitin (epo,1,other
+202223,erythroproetin (epo,1,other
+202224,erythroutic sedimentation rate,3,other
+202228,es 1.5 prevencia 0.00 -1.50,1,other
+202229,es 1.56 sapphire uv +0600 -000,1,other
+202230,es 1.56 sapphire uv +0600 -025,1,other
+202231,es 1.59 aw crizal forteuv 1.00 -0.50,1,eyewear
+202232,es 1.59 aw crizal forteuv 4.00 0.00,1,eyewear
+202233,es 1.59 aw sapphire uv +0600 -025,1,other
+202234,es 1.59 aw sapphire uv 3.50 -1.00,1,other
+202235,es 1.67 crizal alize+ -2.00 -1.50,1,eyewear
+202236,"es, pr, 1.5 , ellipse",1,other
+202237,"es, pr, 1.5 , liberty",1,other
+202238,"es, pr, 1.5 uc, comfort",1,other
+202239,"es, pr, 1.5 uc, ellipse",1,other
+202240,"es, pr, 1.5 uc, espace",1,other
+202241,"es, pr, 1.5 uc, liberty",1,other
+202242,"es, pr, 1.5 uc, tr, ellipse",1,other
+202243,"es, pr, 1.5 uc,tr, comfort",1,other
+202244,"es, pr, 1.5, comfort",1,other
+202245,"es, pr, 1.67 , mc, comfort",1,eyewear
+202246,"es, pr, 1.67, mc, ellipse",1,eyewear
+202247,"es, pr, 1.67, mc, physio",1,eyewear
+202248,"es, pr, pc1.59, mc, comfort",1,eyewear
+202249,"es, pr, pc1.59, mc, ellipse",1,eyewear
+202250,"es, pr, pc1.59, mc, tr, comfort",1,eyewear
+202251,"es, pr, pc1.59, mc, tr, ellipse",1,eyewear
+202252,"es, sv, 1.5, ca2",1,eyewear
+202253,"es, sv, 1.5, mc",1,eyewear
+202254,"es, sv, 1.5,tr, mc",1,eyewear
+202255,"es, sv, 1.59, ca2, s+4/-6, c-2",1,eyewear
+202256,"es, sv, 1.59, ca2, tr",1,eyewear
+202257,"es, sv, 1.59, mc sph -1.25 cyl 0",1,eyewear
+202258,"es, sv, 1.59, mc sph -2.25 cyl 0",1,eyewear
+202259,"es, sv, 1.59, mc sph -2.5 cyl 1",1,eyewear
+202260,"es, sv, 1.59, mc sph -2.75 cyl 1",1,eyewear
+202261,"es, sv, 1.59, mc sph -5 cyl 0.5",1,eyewear
+202262,"es, sv, 1.59, mc sph -5 cyl 1",1,eyewear
+202263,"es, sv, 1.59, mc sph -5.75 cyl 0.5",1,eyewear
+202264,"es, sv, 1.59, mc sph -5.75 cyl 0.75",1,eyewear
+202265,"es, sv, 1.59, mc sph -6 cyl 0",1,eyewear
+202266,"es, sv, 1.59, mc sph -6 cyl 0.75",1,eyewear
+202267,"es, sv, 1.59, mc sph 1.25 cyl 0.25",1,eyewear
+202268,"es, sv, 1.59, mc sph 1.5 cyl 1.5",1,eyewear
+202269,"es, sv, 1.59, mc sph 2 cyl 1.25",1,eyewear
+202270,"es, sv, 1.59, mc, tr, s+4/-6 c-2",1,eyewear
+202271,"es, sv, 1.6-, mc",1,eyewear
+202272,"es, sv, 1.61, mc, s+6/-8, c-2",1,eyewear
+202273,"es, sv, 1.67, mc, s-3/-10, c-3",1,eyewear
+202274,"es, sv, 1.67-, mc",1,eyewear
+202275,"es, sv, 1.74, mc, s-3/-12, c-2",1,eyewear
+202276,"es, sv, 1.74-, mc",1,eyewear
+202277,es.w.l. ( 1st session,1,physiotherapy
+202279,es05 - pl 1.53 crizal airwear st,1,eyewear
+202280,es06 - pl 1.59 crizal airwear st,1,eyewear
+202282,es18 - pl 1.53 crizal trivex rx,1,eyewear
+202283,es20-pl1.59crizalairwearrx,1,eyewear
+202284,esam salem o batayyah,1,other
+202285,esbl screening for c/s - tat,1,lab_test
+202289,escada escadav844 54 300,1,eyewear
+202290,escada escadav844 54 k01,1,eyewear
+202291,escada ves835m/0579/54/f,1,eyewear
+202292,escada-ves819/oa40/55/f,1,eyewear
+202293,escada-ves821m/oa85/f,1,eyewear
+202294,escada/ve515/07mq/f,1,eyewear
+202295,escada/ves055/5406yd/f,1,eyewear
+202296,escada/ves055/5406yn/f,1,eyewear
+202297,escada/ves055/6ym/52/f,1,eyewear
+202298,escada/ves077r/54l507/f,1,eyewear

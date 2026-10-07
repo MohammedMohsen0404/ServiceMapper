@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+444527,parsplana vitrectomy + cataract extraction by phaco + iol,1,dental
+444529,parsplana vitrectomy + erm,1,procedure
+444530,parsplana vitrectomy + scleral buckle,1,procedure
+444531,parsplana vitrectomy +silicon oil,1,supplies
+444532,parsplana vitrectomy - 2 days pkg,1,procedure
+444533,parsplana vitrectomy retinal detachment,1,procedure
+444534,parsplana vitrectomy+ retinal detachment,1,procedure
+444535,parsplana vitrectomy+erm,1,procedure
+444536,parsplana vitrictomy + i.o.l,1,lab_test
+444537,part acrylc dentures 1-3t/cash,1,other
+444538,part. acrylic den. 3+ t.(each,1,other
+444539,parthyroid hormone,1,lab_test
+444540,partia inferior turbinectomy-uni or bi,1,procedure
+444541,partial or sub-total thyroidectomy without histopath,3,lab_test
+444542,partial thromboplastin time ptt,3,lab_test
+444543,partial thromboplastin time(ptt,3,lab_test
+444545,partial acrylic 1st tooth,1,dental
+444546,partial acrylic denture 1-3 teeth,1,dental
+444547,partial acrylic denture 4-8 teeth,1,dental
+444548,partial acrylic denture for 3 teeth or less,1,dental
+444549,partial acrylic denture more than 8 te,1,dental
+444550,partial acrylic dentures 1-3t,1,other
+444551,partial amputation of finger or toe,1,procedure
+444552,partial arthroplasty hip including implant,2,supplies
+444553,partial arthroplasty of hip,1,procedure
+444555,partial banding per arch,2,dental
+444556,partial banding - per arch,1,dental
+444557,partial banding for inter-maxillary elastics (vertical and/or cross el,1,lab_test
+444558,partial bony impaction,2,other
+444559,partial bony impaction / mesioangular,1,other
+444560,partial bony impaction/ mesioangle,2,other
+444561,partial coherence interferometry : laser doppler interferometry,1,imaging
+444562,"partial coherence interferometry, bilateral",2,other
+444563,"partial coherence interferometry, unilateral",1,other
+444564,partial cystectomy,4,procedure
+444567,partial dent. acrylic 3 teeth,1,dental
+444568,partial denture (1-3 tooth,1,dental
+444569,partial denture 1-3 teeth,1,dental
+444570,partial denture 4-7 teeth,1,dental
+444571,partial denture 8-12 teeth,1,dental
+444572,partial denture chrome cobalt,1,dental
+444573,partial denture first tooth,1,dental
+444574,partial denture first unit,1,dental
+444575,partial denture maxillary inc clasps (1-3 teeth,1,dental
+444576,partial denture one tooth,1,dental
+444577,partial eruption of wisdom tooth,1,dental
+444578,partial excision of bladder,1,procedure
+444579,partial excision of nail nec,1,supplies
+444580,partial excision of parotid gland,1,procedure
+444581,partial excision of scrotum,1,procedure
+444582,partial excision of the bladder (2nd operation 50%,1,procedure
+444583,partial excision of tongue,1,procedure
+444584,"partial excision, bone, clavicle",1,imaging
+444585,"partial excision, bone, femur, proximal tibia/fibula",1,imaging
+444586,"partial excision, bone, talus/calcaneous",1,imaging
+444589,partial fistulotomy + sigmoidoscopy + seton insertion,1,procedure
+444590,partial gastrectomy,3,procedure
+444591,partial gastrectomy & gastro-jejunostomy,1,procedure
+444592,partial gastrectomy w/ anastomosis to duodenum (gastroenterostomy) - 7 day pkg,1,procedure
+444593,partial gastrectomy w/ anastomosis to duodenum (gastroenterostomy) - 7 days pkg,1,procedure
+444594,partial gastrectomy w/ anastomosis to duodenum(gas->c43.6,1,procedure
+444595,partial gastrectomy w/ anastomosis to esophagus(ga->c43.5,1,procedure
+444596,partial gingivectomy,2,procedure
+444597,partial glossectomy tongue mass,1,procedure
+444598,partial glossectomy with bilateral neck dissection-5days pkg,1,procedure
+444599,partial glossectomy-1 day pkg,1,procedure
+444600,partial hepatectomy,2,procedure
+444601,partial hepatectomy->c50.22,1,procedure
+444602,partial hip thomson hip prothesis,1,other
+444603,partial hip replacement,1,other
+444604,partial hip replacement ( without ) prosthesis,1,supplies
+444605,partial hip replacement (implants not included,1,supplies
+444606,partial impact tooth extraction,2,dental
+444607,partial impaction tooth,1,dental
+444608,partial inf turbinectomy,1,procedure
+444609,partial inf. turbinectomy (uni. or bilateral,5,procedure
+444610,partial inf. turbinectomy (uni.or bilate,1,procedure
+444611,partial inf. turbinectomy bilateral,1,procedure
+444612,partial inf. turbinectomy unilateral - 931015,1,procedure
+444613,partial inf. turbinectomy [uni,1,procedure
+444614,partial inf. turbinectoy ( uni or bilateral,1,other
+444615,partial inf.turbinectomy (unilat- left,1,procedure
+444616,partial inf.turbinectomy (unilat-1,1,procedure
+444617,partial inf.turbinectomy (unilat-right,1,procedure
+444618,partial inf.turbinectomy (unilateral,2,procedure
+444619,partial inferior turbinectomy,2,procedure
+444620,partial inferior turbinectomy bilateral - pkg d/c,2,procedure
+444621,partial inferior turbinectomy (bil or uni,1,procedure
+444622,partial inferior turbinectomy (bilateral,2,procedure
+444623,partial inferior turbinectomy (ljnilateral,1,procedure
+444624,partial inferior turbinectomy (uni. or bilateral,2,procedure
+444625,partial inferior turbinectomy (uni/bil,1,procedure
+444626,partial inferior turbinectomy (unilateral or bilat,1,procedure
+444627,partial inferior turbinectomy (unilateral,2,procedure
+444628,partial inferior turbinectomy (unilateral/bilateral,1,procedure
+444631,partial inferior turbinectomy unilateral - pkg d/c,1,procedure
+444632,partial info turbinectomy (uni. or bilateral,2,procedure
+444633,partial knee replacement ( without ) prosthesis - unilateral,1,supplies
+444634,partial knee replacement (hemiarthroplasty) with prosthsis. - 7 days pkg,1,procedure
+444635,partial laryngectomy,1,procedure
+444636,partial lateral meniscectomy,1,procedure
+444637,partial liver resection,1,procedure
+444638,partial mandibular denture - resin base,2,dental
+444639,partial mandibular denture ? cast metal framework,1,dental
+444640,partial mandibular denture cast metal framework,3,dental
+444641,partial mandibular denture resin base,4,dental
+444642,partial mandibule ctomy with a-o plate,1,supplies
+444643,partial mastectomy,3,procedure
+444644,partial mastectomy + clearance of axillary iymphnodes - pkg 3 days,1,procedure
+444645,partial mastectomy with histopathology (lumpectomy,1,lab_test
+444646,partial mastectomy with l.n. histopathology included,1,lab_test
+444647,partial mastectomy with l.n.-(histopathology not included,1,lab_test
+444648,partial mastectomy with l.n.-histopathology included,2,lab_test
+444650,partial mastectomy with lymph node(500154,1,procedure
+444651,partial maxillary denture - resin base,4,dental
+444652,partial maxillary denture ? resin base,2,dental
+444653,partial maxillary denture cast metal framework,3,dental
+444656,partial medial meniscectomy,1,procedure
+444657,partial menisectomy,1,procedure
+444658,partial nail extraction,2,dental
+444659,partial nail surgical extraction,1,dental
+444660,partial nephrectomy,3,procedure
+444661,partial nephrectomy + vascular clamping + calyceal repair,1,procedure
+444662,partial nephrectomy + vascular clamping + calyceal repair + dj stent insertion,2,supplies
+444664,partial nephrectomy via robotic (destruction of renal lesion/mass/tumor) up to 2 days package,1,procedure
+444666,partial omentectomy for gangrenous tor,1,procedure
+444667,partial omentectomy(pkg,1,procedure
+444668,partial or simple mastectomy w/ lymph nodes resection w/out histopath,1,lab_test
+444669,partial or simple mastectomy w/ lymph nodes resection w/out histopath - package,1,lab_test
+444670,partial or sub-total thyroidectomy w/o histopath,1,lab_test
+444673,partial or sub-total thyroidectomy(500169,1,procedure
+444674,partial pancreatectomy->c52.5,1,procedure
+444675,partial parotidectomy,1,procedure
+444677,partial proximal gastrectomy w oesophagogastric anastomosis,1,procedure
+444678,partial pulpectomy with filling,2,dental
+444679,partial pulpotomy (excludinf filling,1,dental
+444680,partial rectal prolapse,1,other
+444681,partial rectal prolapse repair,1,procedure
+444682,partial removal of nail+stiches,1,supplies
+444683,partial removal of one nail (ingrowing) la,1,supplies
+444684,"partial resection of ingrown toenail, unilateral",2,procedure
+444685,"partial resection of ingrown toenail,bilateral",1,procedure
+444686,"partial resection of ingrown toenail,unilateral",2,procedure
+444687,partial resection of intestine,1,procedure
+444688,partial resection of mandible includes of sorrounding soft tissues (hemi-mandibulectomy/segmental resection of mandible) up to 5days package,1,procedure
+444689,partial resection of the uvula-1day pkg,1,procedure
+444690,partial sialadenectomy (submandibular,1,procedure
+444691,partial sub-total thyroidectomy wo histo,1,procedure
+444692,partial substernal thyroidectomy - 3 days pkg,1,procedure
+444693,partial substernal thyroidectomy->c06.51partial substernal thyroidectomy->c06.51,1,procedure
+444694,partial surgical extraction,2,dental
+444695,partial thomboplastin time,1,other
+444696,partial thromb.t,1,other
+444697,partial thrombin time: ptt,1,lab_test
+444698,partial thrombo palstin time ( ptt,2,lab_test
+444699,partial thrombo plastin time,2,other
+444700,partial thrombolast time ( ptt,1,lab_test
+444701,"partial thrombolast, time ( ptt",2,lab_test
+444703,partial thromboplast.time(ptt) (b,1,lab_test
+444704,partial thromboplastin ( p.t.t,1,lab_test
+444705,partial thromboplastin (ptt,1,lab_test
+444706,partial thromboplastin tim,1,lab_test
+444709,partial thromboplastin time ( p.t.t,2,lab_test
+444710,partial thromboplastin time ( ptt,2,lab_test
+444711,partial thromboplastin time (p.t.t,1,lab_test
+444712,partial thromboplastin time (pathology test) ptt,1,lab_test
+444714,partial thromboplastin time (ptt/aptt,1,lab_test
+444715,partial thromboplastin time activated (aptt,1,lab_test
+444718,partial thromboplastin time(ptt) - p.t.t,1,lab_test
+444719,partial thromboplastine time,3,other
+444720,partial thromboplastine time (aptt,1,lab_test
+444721,partial thromboplastine time (ptt aptt,2,lab_test
+444722,partial thromboplastine time (ptt,1,lab_test
+444723,"partial thromboplastine time (ptt,aptt",1,lab_test
+444724,"partial thromboplastine time (ptt,aptt)(502050",1,lab_test
+444725,partial thromboplastine time (pttaptt,1,other
+444726,partial thromboplastine time pttaptt,2,other
+444727,partial thromboplastintime(ptt,1,lab_test
+444728,partial thrompoplastine time,1,other
+444729,"partial thyroid lobectomy, unilateral; with or without isthmusectomy",1,procedure
+444730,"partial thyroid lobectomy, unilateral;with contralateral subtotal lobe",1,procedure
+444731,partial thyroidectomy,2,procedure
+444732,partial thyroidectomy ( one side ) - 3 days pkg,1,supplies
+444733,partial thyroidectomy (sub-total,3,procedure
+444734,partial tooth extraction,2,dental
+444735,partial turbinectomy,2,procedure
+444736,partial turbinectomy (two side,1,procedure
+444737,partial turbinectomy bilateral,2,procedure
+444739,partial turbinectomy bupa,1,procedure
+444740,"partial turbinectomy under g.a., bilateral",1,procedure
+444741,partial turbinectomy uni bil,1,procedure
+444742,partial turbinectomy uni/bilateral,1,procedure
+444743,"partial turbinectomy, bilateral",2,procedure
+444744,"partial turbinectomy, unilateral",2,procedure
+444745,partial unilateral maxillectomy,1,procedure
+444746,partial uvulectomy,1,procedure
+444747,partial uvulectory uga,1,other
+444749,partial/comp removal of pulp,1,dental
+444750,partial/total coccygectomy,1,procedure
+444751,partially impacted surgical tooth,1,dental
+444752,partially impacted surgical tooth extract,1,dental
+444753,partially impactedexteraction of 3rd mollar (wisdo,1,other
+444754,partialmedialmeniscectomy,1,procedure
+444755,partialy impacted 3d. molr-extract,2,procedure
+444756,partialy impacted 3d. molr-extract. - 22209,1,procedure
+444757,partialy impacted 3d. molr-extract. - 23113,1,procedure
+444758,partialy impacted 3d. molr-extract.-20211,1,procedure
+444759,partialy impacted 3rd molr extrac,1,other
+444760,partial pancreatectomy - general surgery,1,procedure
+444761,particulate resp & surgical n95 mask vflex # 1860s,1,supplies
+444762,partsure time to delivery test ttd test - per pcs,1,lab_test
+444763,parvo virus (pcr) (csf,1,lab_test
+444764,parvo virus abs b-19 igg & igm,1,lab_test
+444765,parvo virus abs b-19 igg and igm,1,lab_test
+444766,parvo virus abs b19 igg igm,1,lab_test
+444767,parvo virus b 19 abs igg & igm,1,lab_test
+444768,parvo virus b 19 abs igg & igm (eia,1,lab_test
+444769,parvo virus b 19 igm,1,lab_test
+444770,parvo virus b19,2,other
+444771,parvo virus b19 ab (igg+igm) - s.o,1,lab_test
+444772,parvo virus b19 abs igg,1,lab_test
+444773,parvo virus b19 abs igg & igm,3,lab_test
+444774,parvo virus b19 abs igm,1,lab_test
+444776,parvo virus b19 abs. igg and igm,1,lab_test
+444777,"parvo virus b19 antibody igg, igm",1,lab_test
+444778,parvo virus b19abs igg and igm,1,lab_test
+444779,parvo virus igg,1,lab_test
+444780,parvo virus igm,3,lab_test
+444787,parvorirus b19,1,other
+444788,parvorirus b19 igg,1,lab_test
+444789,parvorirus b19 igm,1,lab_test
+444790,parvovirus,2,other
+444791,parvovirus - b19,1,other
+444792,parvovirus abs b-19 igg & igm( so,1,lab_test
+444793,parvovirus abs b-19 igg & igm,1,lab_test
+444794,parvovirus abs.(igg & igm,1,lab_test
+444795,parvovirus b-19 dna,1,lab_test
+444796,parvovirus b19,1,other
+444797,parvovirus b19 igg igm,1,lab_test
+444798,parvovirus b19 pcr,1,lab_test
+444799,"parvovirus b19-dna, pcr - send out",1,lab_test
+444800,parvovirus b19-pcr (blood) - s.o,1,lab_test
+444801,parvovirus immunoblot igg,2,lab_test
+444802,parvovirus immunoblot igm,2,lab_test
+444805,parvovirus pcr( so,1,lab_test
+444818,pas-d stain,1,other
+444819,pas-m (silver stain/jones-stain,1,other
+444820,"pascal precision implant system, p10/p5",1,supplies
+444821,pasrplana victrectomy,1,procedure
+444822,passer curved quick 45arthrex#ar-6068-45l,1,other
+444823,passer curved quick 45arthrex#ar-6068-45r,1,other
+444824,"passing sutures, acl, tightrope, rt, double loaded, arthrex, ar-1588rt-j",1,supplies
+444825,passive appliance fixed,4,supplies
+444826,passive appliance - fixed,1,supplies
+444828,passive immunisation with rh(d) ig,2,other
+444829,passive markers spheres for navigatewd neurosurgery usa,1,other
+444830,passive removable appliance per arch,3,dental
+444831,"passive, active exercises",1,other
+444832,past prandial glucous,3,lab_test
+444835,"paste , dbm , 1cc,allosource , 90238001",1,other
+444836,paste conductive for eeg jar 8oz non-sterile disposable,1,diagnostic
+444837,paste conductive ten20 sleep therapy,1,physiotherapy
+444839,"paste, w/ cannula, velox, innotere, 111vxe",1,supplies
+444840,paster removal,1,procedure
+444841,pasteurella pestis abs,1,lab_test
+444842,pastic varilux,1,eyewear
+444923,patch,1,supplies
+444925,"patch , pericardial , sz 5x10 with encap, , c0510",1,supplies
+444927,"patch dura substitute 2x2"" durepair medtronic # 61100",1,supplies
+444928,patch dura substitute 3x3 durepair medtronic # 61105,1,supplies
+444929,"patch dura substitute 3x3"" durepair medtronic # 61105",1,supplies
+444930,patch durepair matrix size 10 x 12.5 cm medtronic # 61110,1,supplies
+444931,"patch durepair matrix size 10 x 12.5 cm, medtronic # 61110",1,supplies
+444932,patch f/ ensite precision navx st. jude# n0020-p,1,supplies
+444933,"patch hernia ventralex st large circle with strap 3.2"" (8.0cm) bard 5950009",1,supplies
+444934,patch test,1,lab_test
+444935,patch ventral composite parietex covidien pc08vp,1,dental
+444936,"patch, dura,guard, dural repair, 6x8cm, synovis, dg,0608sn",1,supplies
+444937,"patch, dura-guard, dural repair, 6x8cm, synovis, dg-0608sn",1,supplies
+444938,"patch, dural regeneration, matrix, 1in x 3in, 2.5cmx7.5cm, duragen plus, dp-5013-i",1,supplies
+444939,"patch, dural regeneration, matrix, 2in x 2in, 5cmx5cm, duragen plus, dp-5022-i",1,supplies
+444940,"patch, dural regeneration, matrix, 3in x 3in, 7.5cmx7.5cm, duragen plus, dp-5033-i",1,supplies
+444941,"patch, dural regeneration, matrix, 4in x 5in, 10cmx12.5cm, duragen plus, dp-1045-i",1,supplies
+444942,"patch, dural repair, 2x9cm, dura-guard, synovis, dg-0209sn",1,supplies
+444945,patek.j jp fram,1,eyewear
+444946,patela 3 views,1,imaging
+444947,patela 3 views left side,1,imaging
+444948,patela 3 views right side,1,imaging
+444949,patela one side,1,supplies
+444950,patela one side 2 views,1,supplies
+444951,patella,3,other
+444952,patella # transverse orif/ga,1,procedure
+444953,patella (1 view,1,imaging
+444954,patella (2v,1,imaging
+444955,patella (two views,1,imaging
+444956,"patella , one view",1,supplies
+444957,"patella , two views",1,imaging
+444958,patella - 1 view,1,imaging
+444959,patella - 1view,1,other
+444960,patella - 2 views,1,imaging
+444961,patella - 2v,4,imaging
+444963,patella - 2v x-ray patella 2 views,1,imaging
+444964,patella 2 views,3,imaging
+444965,patella 2view,1,other
+444966,patella 2views (skyline & lateral,1,imaging
+444967,patella 3v,1,imaging
+444968,patella ap / lat,1,imaging
+444969,patella ap / lat./oblique,1,imaging
+444970,patella ap lat skyline-axial,1,imaging
+444971,patella ap lat skyline-axial (3v,1,imaging
+444972,patella axial,1,other
+444973,patella fracture operative reduction,1,procedure
+444974,patella knee support l 45697en,1,supplies
+444975,patella one view,2,supplies
+444977,patella pa & lat,1,imaging
+444978,patella resurfacing (status of total knee prosthesis) - 5days pkg,1,supplies
+444979,patella sky line view,1,imaging
+444980,patella skyline view,2,imaging
+444981,patella strap (mafsal,1,supplies
+444982,patella tang. (1v,1,imaging
+444983,patella tang. (iv,1,supplies
+444984,patella two views,2,imaging
+444986,"patella, internal fixation of fracture",1,procedure
+444987,patellar advancement (unilateral) - package,1,other
+444988,patellar shaving & release,1,procedure
+444989,patellar stabilization (recurrent dislocation)- 3 day pkg,1,procedure
+444990,patellar stabilization(recurrent dislocation)- package,1,procedure
+444991,patellar stabilization(recurrent dislocation)->c81.44,1,procedure
+444992,patellar tendon repair,2,procedure
+444993,patellar-tendon transfer (subluxation or dislocation)-1d,1,procedure
+444994,patello femoral realigment (soft tissue) - 2days pkg,1,other
+444995,patello femoral realigment (soft tissue)-2days pkg,1,other
+444996,patelloplasty,1,procedure
+444997,patency of gastrostomy/gastrojejunostomy test,1,lab_test
+444998,patent foramen ovale percutanuse closure(pfo closure,1,procedure
+445000,pathogenic stool bacteria incl.+ susceptibility testing,1,lab_test
+445001,pathological finger amputation,1,procedure
+445002,"pathological fractures, majc",1,inpatient
+445003,"pathological fractures, minc",1,inpatient
+445004,pathological studies,1,consultation
+445005,"pathologist examination, dissection, and preparation of tissue during surgery",1,procedure
+445006,pathology cons. second opinion (a001536) - s.o,1,consultation
+445007,pathology cons. second opinion (a001536)(send out,1,consultation
+445008,pathology consultation and report (second opinion,1,consultation
+445009,"pathology consultation during surgery; w/ frozen section(s), single specimen",1,procedure
+445010,pathology consultation second opinion - md lab,1,consultation
+445011,pathology examination (big,1,consultation
+445012,pathology examination (medium,1,consultation
+445013,pathology examination (second opinion,1,consultation
+445014,pathology examination (small,1,consultation
+445015,pathology examination of specimen during surgery,1,procedure
+445016,pathology examination of tissue during surgery,2,procedure
+445017,pathology gastric biopsy,1,procedure
+445018,pathology soft tissue resection,1,procedure
+445019,pathology tests,2,lab_test
+445020,"pathology, appendix",1,other
+445021,"pathology, bone biopsy",1,imaging
+445022,"pathology, brain biopsy",1,procedure
+445023,"pathology, breast biopsy",1,procedure
+445024,"pathology, breast lumpectomy",1,procedure
+445025,"pathology, cervix biopsy",1,procedure
+445026,"pathology, colon biopsy",1,procedure
+445027,"pathology, colon resection",1,procedure
+445028,"pathology, complete kidney resection (nephrectomy",1,procedure
+445029,"pathology, gall bladder",1,other
+445030,"pathology, gallbladder",1,other
+445031,"pathology, gastric biopsy",1,procedure
+445032,"pathology, gastro-intestinal resection",1,procedure
+445033,"pathology, gastrointestinal biopsy",1,procedure
+445034,"pathology, hemorrhoids",1,other
+445035,"pathology, hernia sac",1,procedure
+445036,"pathology, immunofluorescence panel",1,lab_test
+445037,"pathology, kidney biopsy",1,procedure
+445038,"pathology, liver biopsy",1,procedure
+445039,"pathology, lung biopsy",1,procedure
+445040,"pathology, lymph node",1,other
+445041,"pathology, mastectomy",1,procedure
+445042,"pathology, muscle biopsy profile (referral",1,lab_test
+445043,"pathology, otolaryngeal biopsy",1,procedure
+445044,"pathology, placenta",1,other
+445045,"pathology, polyp",1,other
+445046,"pathology, product of conception",1,other
+445047,"pathology, prostate (trus",1,other
+445048,"pathology, skin and immunoflourescence",1,other
+445049,"pathology, skin biopsy",1,procedure
+445050,"pathology, soft tissue biopsy",1,procedure
+445051,"pathology, soft tissue resection",1,procedure
+445052,"pathology, thyroid",1,other
+445053,"pathology, tonsils & adenoids",1,other
+445054,"pathology, uriary bladder resection",1,procedure
+445055,"pathology, urinary bladder biopsy",1,procedure
+445056,"pathology, uterus d & c",1,other
+445057,"pathology, uterus hysterectomy",1,procedure
+445058,pathology. gastric biopsy,1,procedure
+445059,patient accommodation for one day in isolation room,1,eyewear
+445060,patient accommodation for one day in second class room,1,eyewear
+445061,patient accompanying,1,other
+445063,"patient activated ambulatory ecg monitoring, recording for at least 20",1,diagnostic
+445064,patient admission kit,1,consultation
+445065,patient bed,1,supplies
+445066,patient cable ventricular external pacemaker 5433v,1,supplies
+445067,patient care analgesia ( pca ) ( without medications & supplies,1,other
+445068,"patient care kit includes pillow 7"", chest pillow cover, arm cradles, hip & thigh covers for spinal surgery table",1,procedure
+445069,"patient circuit and chamber kit, airvo, pack/10, 900pt501",1,supplies
+445070,patient companion accomodation,1,other
+445071,patient controlled analgesia ( pca,1,other
+445072,patient education,1,other
+445073,"patient education, respiratory",1,other
+445074,"patient female overlap printed gown,larg",1,supplies
+445075,patient female overlap printed gown.(m,1,supplies
+445076,patient gawn,1,other
+445077,patient gown,2,supplies
+445078,patient gown - per pcs,1,supplies
+445079,patient gown sutra 2,1,supplies
+445080,patient gown sutra1,1,supplies
+445081,patient gown with pajama large,1,supplies
+445082,patient gown with pajama medium,1,supplies
+445083,patient hygine kit + slipper with out logo,1,other
+445084,"patient hygine kit w/o logo (teeth brush, teeth pase, shampoo, lotion, soap, towel & slipper",1,dental
+445085,patient kit,1,other
+445086,patient kit blue (for men,1,other
+445087,patient kit with hospital logo,1,consultation
+445088,patient meal,1,other
+445089,patient monitoring,2,consultation
+445090,patient observation 1/h er,2,consultation
+445091,patient own medications,1,other
+445092,patient portal charges,1,other
+445093,patient preparation,1,other
+445094,patient preparation - critical case,1,other
+445095,patient preperation,1,other
+445096,patient recorded spirometry,1,diagnostic
+445097,patient screening,2,lab_test
+445098,"patient""s preparation- cardiac cath",1,supplies
+445099,patients gown,1,supplies
+445100,patients gown - 148-93396,1,supplies
+445101,patientthob - 2,1,other
+445106,pattela 1 view,1,imaging
+445107,pattela - 1 view,2,imaging
+445108,pattella 1 view,1,imaging
+445109,pattern focal & grid macular laser (1 eye,3,procedure
+445110,pattern focal &grid macular laser 1eye,1,procedure
+445112,pattern panretinal photo-coagulation (both eye,2,other
+445113,pattern panretinal photo-coagulation (one eye,2,supplies
+445114,pattern panretinal photo-coagulation(both eyes,1,other
+445115,pattern panretinal photo-coagulation(left eye,1,other
+445116,pattern panretinal photo-coagulation(right eye,1,other
+445117,pattern scan laser pan retinal photo (1eye,2,imaging
+445118,pattern scan laser pan retinal photo (1eye/multiple settings,1,imaging
+445119,pattern scan laser pan retinal photo (prp)(1eye/multiple settings,1,imaging
+445120,pattern scan laser pan retinal photo 1eye,1,imaging
+445121,pattern scan laser pan retinal photo (1 eye,1,imaging
+445122,pattern(scan) laser both eye (p r p,1,imaging
+445123,"patties surg. 1""""x3",1,other
+445124,"patties surgical 0.5*x1* # 801402, codman/ integra",1,procedure
+445125,"patties surgical 1 x 3 #0801408,codman , surgical items , or",1,procedure
+445126,"patties surgical 1 x 3 #0801408,codman/ integra",1,procedure
+445127,"patties surgical 1/2 x 2 # 801406, codman",1,procedure
+445128,"patties surgical 1/2*x1/2* # 801400, codman",1,procedure
+445129,"patties surgical 1/2*x1/2* #801400, codman",1,procedure
+445130,patties surgical 1/2x1.1/2 codman #80-1404/60-08,2,procedure
+445131,patties surgical 1/2x1/2 codman #80-1400/60-06,2,procedure
+445132,patties surgical 1/2x2 codman #80-1406/60-29,1,procedure
+445135,"patties surgical 1/4 x 1/4, # 801399, codman",1,procedure
+445136,patties surgical 1x3 fabco/codman #35503610/80-1408/60-13,1,procedure
+445137,patties surgical size 1/2x1 codman #80-1402/60-07,1,procedure
+445138,"patyology, testicular resection",1,procedure
+445139,pau1752/c1/f,1,eyewear
+445140,pau1752/c2/f,1,eyewear
+445141,pau1752/c3/f,1,eyewear
+445142,pau1754/c1/f,1,eyewear
+445143,pau1754/c3/f,1,eyewear
+445144,pau1754/c4/f,1,eyewear
+445145,pau1754/c5/f,1,eyewear
+445146,pau1755/c1/55/f,1,eyewear
+445147,pau1757/c1/f,1,eyewear
+445148,pau1757/c2/f,1,eyewear
+445149,pau1757/c4/f,1,eyewear
+445150,pau1757/c5/f,1,eyewear
+445151,pau1763/c5/f,1,eyewear
+445152,pau1767/c3/f,1,eyewear
+445153,pau1769/c1/f,2,eyewear
+445154,pau1769/c2/f,1,eyewear
+445155,pau1769/c3/f,2,eyewear
+445156,pau1769/c4/f,1,eyewear
+445157,pau1769/c5/f,1,eyewear
+445158,pau1771/c1/54/f,1,eyewear
+445159,pau1771/c2/54/f,1,eyewear
+445160,pau1771/c3/54/f,1,eyewear
+445161,pau1771/c5/54/f,1,eyewear
+445162,paul bunnel microsomal abs,1,lab_test
+445163,paul bunnel test,1,lab_test
+445164,paul bunnel/monospot,1,eyewear
+445171,paul calbetti/pau1630/c1/f,1,eyewear
+445172,paul calbetti/pau1630/c2/f,1,eyewear
+445173,paul calbetti/pau1630/c3/f,1,eyewear
+445174,paul calbetti/pau1630/c4/f,1,eyewear
+445175,paul calbetti/pau1754/c1/f,1,eyewear
+445176,paul calbetti/pau1755/c1/f,1,eyewear
+445177,paul calbetti/pau1755/c2/f,1,eyewear
+445178,paul calbetti/pau1755/c3/f,1,eyewear

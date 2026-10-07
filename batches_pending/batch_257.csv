@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+455137,plain x-ray right ankle ap & lat,1,imaging
+455138,plain x-ray right ankle ap and lat,1,imaging
+455139,"plain x-ray right ankle ap, lat & both obliques",1,imaging
+455140,"plain x-ray right ankle ap, lat & mortis",1,imaging
+455141,plain x-ray right clavicale ap & ap with angulation,1,imaging
+455142,plain x-ray right clavicle ap,1,imaging
+455143,plain x-ray right elbow ap,1,imaging
+455144,"plain x-ray right elbow ap, lat & oblique",1,imaging
+455145,plain x-ray right elbow joint ap & lat,1,imaging
+455146,plain x-ray right fingers ap,1,imaging
+455147,plain x-ray right foot ap,1,imaging
+455148,plain x-ray right foot ap & oblique,1,imaging
+455149,plain x-ray right foot ap and obliqueand lat,1,imaging
+455150,"plain x-ray right foot ap, oblique & lat",1,imaging
+455151,plain x-ray right forearm ap,1,imaging
+455152,plain x-ray right forearm ap 7 lat,1,imaging
+455153,plain x-ray right forearm ap and lat,1,imaging
+455154,plain x-ray right forearm ap and latand oblique,1,imaging
+455155,"plain x-ray right forearm ap, lat & oblique",1,imaging
+455156,plain x-ray right hand pa,1,imaging
+455157,plain x-ray right hand pa & oblique,1,imaging
+455158,plain x-ray right hip ap,1,imaging
+455159,plain x-ray right hip ap &oblique,1,imaging
+455160,plain x-ray right hip apand lat,1,imaging
+455161,plain x-ray right humerus ap,1,imaging
+455162,plain x-ray right humerus ap & lat,1,imaging
+455163,plain x-ray right knee ap,1,imaging
+455164,plain x-ray right knee ap & lat,1,imaging
+455165,"plain x-ray right knee ap, lat & sky line",1,imaging
+455166,plain x-ray right knee apand latand sky line,1,imaging
+455167,plain x-ray right leg ap,1,imaging
+455168,plain x-ray right leg ap & lat,1,imaging
+455169,"plain x-ray right leg ap ,lat & oblique",1,imaging
+455170,plain x-ray right mastoid schuller view,1,imaging
+455171,plain x-ray right ribs ap,1,imaging
+455172,plain x-ray right ribs ap & oblique,1,imaging
+455173,plain x-ray right ribs apand oblique,1,imaging
+455174,plain x-ray right sacrum ap & oblique,1,imaging
+455175,plain x-ray right shoulder joint & scapula ap,1,imaging
+455176,plain x-ray right shoulder joint scapula ap & lat,1,imaging
+455177,plain x-ray right wrist pa,1,imaging
+455178,plain x-ray right wrist pa & lat,1,imaging
+455179,"plain x-ray right wrist pa , lat & oblique",1,imaging
+455180,"plain x-ray right wrist pa , lat & oblique & scaphoid view",1,imaging
+455181,plain x-ray right wrist pa and lat,1,imaging
+455182,plain x-ray right wrist pa and lat and oblique,1,imaging
+455183,"plain x-ray rightshoulder joint scapula ap, lat & axial",1,imaging
+455184,"plain x-ray shoulder or scapula (one position, one film",4,imaging
+455185,plain x-ray sinuses (2 view,1,imaging
+455186,plain x-ray sinuses (3 view,1,imaging
+455187,plain x-ray skull pa and lat,1,imaging
+455188,plain x-ray sternum lat,1,imaging
+455189,plain x-ray sternum lat & oblique,1,imaging
+455190,plain x-ray stress view left ankle ap&lat.fl.&ext,1,imaging
+455191,plain x-ray t.m.j both sides schullar open & close mouth,1,imaging
+455192,plain x-ray t.m.j both sides schullar open & close mouth& ap,1,imaging
+455193,plain x-ray to salivary gland,1,imaging
+455194,plain x-ray urinary tract,3,imaging
+455195,plain x-raylumbo sacral spine ap & lat,1,imaging
+455196,plain x-rayskull pa & lat,1,imaging
+455197,"plain x-rayskull pa, lat & ap",1,imaging
+455198,plain x.ray of the abdomen erect view 376,1,eyewear
+455199,plain xray,1,imaging
+455200,plain xray from 1 to 3 films,1,imaging
+455202,plain%20u.t,1,other
+455203,plain26contrastenhancedmribrain,1,other
+455204,plain26contrastenhancedmrikneejoint,1,imaging
+455205,plain26contrastenhancedmrilumbarspine,1,other
+455206,plain26contrastenhancedmriofthepelvis,1,other
+455207,plainctofurinarytract09,1,other
+455208,plainmrileg,1,other
+455209,plainmrishoulderjouint,1,other
+455210,plan abdomen ap only,1,imaging
+455211,plan i.v,1,lab_test
+455212,plan u.t. kub,1,imaging
+455213,planning for 3dcrt,1,other
+455214,planning for imrt/vmat,1,other
+455215,plano t lens (bandage therapeutic,1,eyewear
+455218,plantar,1,other
+455221,plantar wart,4,other
+455222,plantar wart removal,4,procedure
+455223,plantar wart removal 1,1,procedure
+455224,plantar wart removal 3 by electrosurgery,1,procedure
+455225,plantar wart removal 5-10 lesion,1,procedure
+455226,plantar wart removal more than 10 lesion,1,procedure
+455227,plantar wart removal more than one lesion,1,supplies
+455228,plantar wart removal one lesion,1,supplies
+455229,plantar wart removal with dressing,1,supplies
+455230,plantar wart removal-deep under l.a,1,procedure
+455231,plantar wart removal1,1,other
+455232,plantar wart u.l.a,1,lab_test
+455233,plantar warts excision (big,1,procedure
+455236,planter wart,1,other
+455237,planter wart cautery,1,procedure
+455238,planter warts excision,1,procedure
+455239,planter/palmer wart(each,1,other
+455240,planto frm 11702 c1,1,eyewear
+455241,planto k,1,other
+455242,planto reading frm +1.50,1,eyewear
+455243,plaplasric anti-scratch,1,other
+455294,"plaquette d , , plaquette d.ancrage pullup pour tunnel cortical 10mm -sbm france (pulxl01202",1,other
+455295,plaquette d.ancrage pullup pour tun,1,other
+455299,plas,1,other
+455300,"plas gi - end,nut,met dis",1,other
+455301,plas عدسات طبية,1,eyewear
+455302,plas.surg.-hand tendon w/pecon,1,other
+455303,plasatic progresive photo,1,other
+455309,plasic hi index multicoated 1.61,1,eyewear
+455317,plasil i.v,1,lab_test
+455322,plasitic versace with mc,2,eyewear
+455368,"plasma (fresh, frozen) thawed (testing & supervision",1,lab_test
+455369,"plasma (fresh, frozen), thawed",1,lab_test
+455370,plasma 250 cc,1,lab_test
+455371,plasma aldosterone concentration pac,1,lab_test
+455372,plasma amino acids,1,lab_test
+455373,plasma bleaching / arch,1,lab_test
+455374,plasma bleaching / mouth,1,lab_test
+455375,plasma catecholamine adrelin,1,lab_test
+455376,plasma catecholamines,1,lab_test
+455377,plasma complement 3 (c3,1,lab_test
+455378,plasma complement 4 (c4,1,lab_test
+455379,plasma exchange,1,lab_test
+455380,plasma exchange session,1,lab_test
+455381,plasma fresh frozen,2,lab_test
+455385,plasma metanephrines,1,lab_test
+455386,plasma nor metanephrines and plasma metanephrines,2,lab_test
+455388,plasma phercsis(therapeutic pla.exchange,1,lab_test
+455389,plasma pheresis / exchange per session,1,lab_test
+455393,plasma protein fraction,1,lab_test
+455396,plasma protein-l with human albumin,1,lab_test
+455397,plasma proteins electrophoresis,3,lab_test
+455398,plasma renin,2,lab_test
+455400,plasma renin activity,2,lab_test
+455401,plasma rich fibrien,1,lab_test
+455402,plasma surgical electrodes radio frequency max blator 90 fs-bonss # mc405c,1,lab_test
+455403,plasma teeth whitening one arch,1,lab_test
+455404,plasma trans,1,lab_test
+455405,plasma treatment,1,lab_test
+455406,"plasma, transfusion",1,lab_test
+455407,plasmafilter prismaflex tpe 2000 set sterile disposable,1,supplies
+455409,plasmapharesis,1,other
+455410,plasmapheresis,2,other
+455412,plasminogen,1,other
+455413,plasminogen - s.o,1,lab_test
+455414,plasminogen activator inhibitor (pai 1) - s.o,1,lab_test
+455416,plasminogen activator inhibitor1( so,1,other
+455417,plasmodium (malaria) pcr - s.o,1,lab_test
+455418,plasmodium falciparum antigen,1,lab_test
+455419,plastc normal cr 39,1,other
+455420,plastc normal hi index 1.61,1,eyewear
+455421,plastc normal hi index 1.67,1,eyewear
+455422,plaster - any part,1,supplies
+455423,plaster - gypsona,1,supplies
+455424,plaster 1 roll,2,supplies
+455425,plaster 1/2 roll,1,supplies
+455426,plaster 10 x 10cm urgoderm,1,supplies
+455427,plaster 100 pc,1,supplies
+455428,plaster 10cm silk (mashari,1,supplies
+455429,plaster 10cm x 15cm urgoderm,1,supplies
+455430,plaster 10m x 5cm urgoderm,1,supplies
+455431,plaster 50pce,1,supplies
+455432,plaster 5cm silk,1,supplies
+455433,plaster above elbow,1,supplies
+455434,plaster above knee,1,supplies
+455435,plaster active 100 regular 91362,1,supplies
+455436,plaster active 50 regular 91363,1,supplies
+455437,plaster appl - finger splint,1,supplies
+455438,plaster appl - finger splint (mallet splint,1,supplies
+455439,plaster appl - full leg plaster ( above knee,1,supplies
+455440,plaster appl - short leg plaster,1,supplies
+455441,plaster appl - short leg plaster (below knee,1,supplies
+455442,plaster appl - short leg plaster (below knee) - 086-12480,1,supplies
+455443,plaster appl - splint large,1,supplies
+455444,plaster appl - splint small,1,supplies
+455445,plaster appl - splints large,1,supplies
+455446,plaster appl - splints small,1,supplies
+455447,plaster appl - splints small - 11052,1,supplies
+455448,plaster appl- short arm plaster,1,supplies
+455449,plaster appl- short leg plaster,1,supplies
+455450,plaster appl- short leg plaster (below knee,1,supplies
+455451,plaster appl- splint small,1,supplies
+455452,plaster appl- splints small,1,supplies
+455453,plaster appl-full arm plaster,1,supplies
+455454,plaster appl-full leg plaster,1,supplies
+455455,plaster appl-met. finger splint,1,supplies
+455456,plaster appl-met.finger splint,1,supplies
+455457,plaster appl-short arm plaster,1,supplies
+455458,plaster appl-short leg plaster,1,supplies
+455459,plaster appl-spica 1 leg,1,supplies
+455460,plaster appl-spica both legs,1,supplies
+455461,plaster appl-splints large,1,supplies
+455462,plaster appl-splints small,1,supplies
+455463,plaster appl. full arm,1,supplies
+455464,plaster appl. metal finger spl,1,supplies
+455465,plaster appl. metal finger splint,1,supplies
+455466,plaster appl. short arm,1,supplies
+455467,plaster appl. short leg,1,supplies
+455468,plaster appl. spica both legs,1,supplies
+455469,plaster appl. splint large,1,supplies
+455470,plaster appl. splints small,1,supplies
+455471,plaster application (below or above elbow,1,supplies
+455472,plaster application (below or above knee,1,supplies
+455473,plaster application (full leg,1,supplies
+455474,plaster application (hand or foot,1,supplies
+455475,plaster application large metal finger splint,1,supplies
+455476,plaster application with splint (below or above knee,1,supplies
+455477,plaster application with splint (short bones,1,imaging
+455478,plaster bandages,1,supplies
+455479,plaster bed - gypsona,2,supplies
+455481,plaster behind ankle - جبيرة خلف الكاحل,1,supplies
+455482,plaster behind elbow - جبيرة خلف الكوع,1,supplies
+455483,plaster behind wrist - جبيرة خلف الرسغ,1,supplies
+455484,plaster below elbow,1,supplies
+455485,plaster below knee,1,supplies
+455486,plaster boot,1,supplies
+455487,plaster boxes,1,supplies
+455488,plaster cast arm,1,supplies
+455489,plaster cast back slab removal,1,supplies
+455490,plaster cast below the elbow,1,supplies
+455491,plaster cast bracing,1,supplies
+455492,plaster cast for foot - chil dyna,1,supplies
+455493,plaster cast for foot - adults (dyn,1,supplies
+455494,plaster cast for foot -adults ( gyp,1,supplies
+455495,plaster cast for hand -adults (d,1,supplies
+455496,plaster cast for hand -adults (dyna,1,supplies
+455497,plaster cast for hand -adults (gyps,1,supplies
+455498,plaster cast remova,1,supplies
+455500,plaster cast removal (ortho,1,supplies
+455501,plaster cast removal(10649,1,supplies
+455502,plaster cast removal(128070,1,supplies
+455506,"plaster cast,back slab removal",1,supplies
+455507,plaster castback slab removal,1,supplies
+455508,plaster caste removal,1,supplies
+455509,plaster cylinder,1,supplies
+455510,plaster delta lite large,1,supplies
+455511,plaster deltalite large,1,supplies
+455512,plaster deltalite small,1,supplies
+455513,plaster delta lite small,1,supplies
+455514,plaster fiberglass (2 inches,1,supplies
+455515,plaster fiberglass (3 inches,1,supplies
+455516,plaster fiberglass (4 inches,1,supplies
+455517,plaster fiberglass (5 inches,1,supplies
+455518,plaster for bone fractures and tears,1,imaging
+455519,plaster for fingers,1,supplies
+455520,plaster grip bandage,1,supplies
+455521,plaster gyps large,1,supplies
+455522,plaster jacket,1,supplies
+455523,plaster jacket - gibsona,1,supplies
+455524,plaster of paris,2,supplies
+455525,plaster of paris #15cm,2,supplies
+455527,plaster of paris #5cm,1,supplies
+455528,plaster of paris #7.5cm,1,supplies
+455529,plaster of paris (p.o.p.) cast above elbow for adult (scotch,1,supplies
+455530,plaster of paris (p.o.p.) cast above knee for child (scotch,1,supplies
+455531,plaster of paris (p.o.p.) cast below elbow for adult (scotch,1,supplies
+455532,plaster of paris (p.o.p.) cast below elbow for child (scotch,1,supplies
+455533,plaster of paris (p.o.p.) cast below knee for adult (gypsona,1,supplies
+455534,plaster of paris (p.o.p.) cast below knee for adult (scotch,1,supplies
+455535,plaster of paris (p.o.p.) cast below knee for child (scotch,1,supplies
+455536,plaster of paris (pop)-big,1,supplies
+455537,plaster of paris - closed reduction for fractures,1,supplies
+455538,plaster of paris any part of the body,1,supplies
+455540,plaster pairs cast lower limb,1,supplies
+455541,plaster pairs cast upper limb,1,supplies
+455542,plaster removal,3,supplies
+455543,plaster removal - ?????? ?????? ??????????,1,supplies
+455544,plaster removal - رفع جبس خارجى,1,supplies
+455545,plaster removal adult,2,supplies
+455546,"plaster removal, child",1,supplies
+455547,plaster removel,1,supplies
+455550,plaster roll 2 cm,1,supplies
+455551,plaster roll 2.5c,1,supplies
+455552,plaster roll 7.5&10 cm,1,supplies
+455553,plaster roll silk z.o adh. 1/2,1,supplies
+455554,plaster roll silk z.o adh.1,1,supplies
+455555,plaster roll silk z.o adh.2,1,supplies
+455556,plaster shoe l,1,supplies
+455557,plaster shoe m,1,supplies
+455558,plaster shoe s,1,supplies
+455559,plaster shoe xl,1,supplies
+455560,plaster shoe xxl,1,supplies
+455561,plaster silk 5cm x 9.6m durapore 3m,1,supplies
+455562,plaster slab,1,supplies
+455563,plaster slab (arm,1,supplies
+455564,plaster slab (leg,1,supplies
+455565,plaster spica one leg arm,1,supplies
+455566,plaster spica - (one leg/arm,1,supplies
+455567,plaster spica or jacket,2,supplies
+455568,plaster spint for hand _adults (d,1,supplies
+455569,plaster spint for hand _adults(dyna,1,supplies
+455570,plaster splint for foot -adults (dy,1,supplies
+455571,plaster splint for foot -adults (gy,1,supplies
+455572,plaster splint for foot -children,1,supplies
+455573,plaster splint for hand adults (g,1,supplies
+455574,plaster splint large,1,supplies
+455575,plaster strapping toe & finger,1,supplies
+455576,plaster strapping ( toe /finger,1,supplies
+455577,plaster strapping (toe finger,1,supplies
+455578,plaster strapping (toe/finger,1,supplies
+455579,plaster strapping (toes & fing,2,supplies
+455581,plaster strapping for finger,1,supplies
+455582,plaster strips,1,supplies
+455583,plaster strips 1.9x7.2cm,1,supplies
+455584,plaster strips big pices,1,supplies
+455585,plaster support,1,supplies
+455586,plaster supporting - تقوية جبس خارجى,1,supplies
+455587,plaster(back slab) below elbow,2,supplies
+455588,"plaster, hi medi plaster ( band aid",1,eyewear
+455589,"plaster, silk adhesive, 5y x 3in, roll urgosyval/surgicare",1,supplies
+455590,plasters above elbow pop,2,supplies
+455591,plasters above knee p.o.p,1,lab_test
+455592,plasters bed,1,supplies
+455593,plasters below elbow pop,2,supplies
+455595,plasters below knee pop,2,supplies
+455596,plasters jacket,1,other
+455597,plaster appl. - full arm plaster - er,1,supplies
+455598,plaster appl. - full leg plaster - er,1,supplies
+455599,plaster appl. - met. finger splint - er,1,supplies
+455600,"plasti bell 1.3cm # 9213, hollister - bx/125",1,procedure
+455601,plasti multicoated,1,other
+455602,plasti sieko 1.6,1,other
+455603,plastibell 1.1 cm,1,other
+455604,plastibell 1.2 cm,1,other
+455605,plastibell 1.2cm sterile circumcision device,1,supplies
+455606,plastibell circumcision,1,procedure
+455607,"plastibell circumcission device 1.4cm , mabis",1,other
+455608,"plastibell circumcission device 1.5 cm, mabis",1,other
+455609,plastibell sterile 1.1cm hollister # 9211,1,supplies
+455610,plastic,2,eyewear
+455611,plastic bifocal,3,eyewear
+455612,plastic hindex (1.61)(m.c,2,eyewear
+455613,plastic hindex (1.67)(m.c,2,eyewear
+455614,plastic hindex(1.61,1,eyewear
+455615,plastic hindex(1.67,1,eyewear
+455616,plastic hindex(1.67)(m.c,3,eyewear
+455617,plastic hindex(1.74,2,eyewear
+455618,plastic hindex(1.74)(m.c,1,eyewear
+455619,plastic hmc 55 m +4.00 -3.00,2,eyewear
+455620,plastic hmc 55 m +4.00 -4.00,2,eyewear
+455621,plastic photo 1.5 m/c gr2,1,eyewear
+455622,plastic (cr39) 12/2,2,eyewear
+455623,plastic (cr39) 14/2,2,eyewear
+455624,plastic (cr39) 2/2,2,eyewear
+455625,plastic (cr39) 4/2,2,eyewear
+455626,plastic (m.c,3,eyewear
+455627,plastic (mag,1,eyewear
+455628,"plastic , mlc , 2x2 (per piece",1,eyewear
+455629,"plastic , mlc , 2x4 (per piece",1,eyewear
+455630,"plastic , mlc , 4 (per piece",1,eyewear
+455631,"plastic , mlc , 4x2 (per piece",1,eyewear
+455632,plastic 1.49,1,eyewear
+455633,plastic 1.49 uc 50mm (6-2,1,eyewear
+455634,"plastic 1.5 , essilor crizal prevencia , sph(-8.00 to +9.00 -) , cyl(-0.25 up to -6.00",1,eyewear
+455635,"plastic 1.5 , sieko scc , sph(+9.00 to -9.00) , cyl(-0.25 up to -2.00",1,eyewear
+455636,"plastic 1.5 , sieko srb , sph(+9.00 to -9.00) , cyl(-0.25 up to -2.00",1,eyewear
+455637,"plastic 1.5 , sieko srb , sph(+9.00 to -9.00) , cyl(> -2.00",1,eyewear
+455638,plastic 1.5 bifocal 45 rx,1,eyewear
+455639,plastic 1.5 bifocal flat top rx - 6.00 : 2.00,1,eyewear
+455640,plastic 1.5 essilor crizal prevencia sph(-8.00 to +9.00 -) cyl(-0.25 up to -6.00,1,eyewear
+455641,plastic 1.5 essilor crizal sapphire sph(-8.00 to +9.00 -) cyl(-0.25 up to -6.00,1,eyewear
+455642,plastic 1.5 eyezen,1,eyewear
+455643,plastic 1.5 m/c-a,1,eyewear
+455644,plastic 1.5 nikon hcc,1,eyewear
+455645,plastic 1.5 nikon scc blue,1,eyewear
+455646,plastic 1.5 nikon scc plue,1,eyewear
+455647,plastic 1.5 nikon scc plus,1,eyewear
+455648,plastic 1.5 normal gr 1,1,eyewear
+455649,plastic 1.5 normal gr 2,1,eyewear
+455650,plastic 1.5 rodenstock,1,eyewear
+455651,plastic 1.5 seecoat blue uv,1,eyewear
+455652,plastic 1.5 seecoat plus uv,1,eyewear
+455653,plastic 1.5 sieko,1,eyewear
+455654,plastic 1.5 sieko scc sph(+9.00 to -9.00) cyl(-0.25 up to -2.00,1,eyewear
+455655,plastic 1.5 sieko srb sph(+9.00 to -9.00) cyl(-0.25 up to -2.00,1,eyewear
+455656,plastic 1.5 sieko srb sph(+9.00 to -9.00) cyl(> -2.00,1,eyewear
+455657,plastic 1.5 uc (+65)(+70,1,eyewear
+455658,plastic 1.5 uc size (+55mm,1,eyewear
+455659,plastic 1.5 v.lux,1,eyewear
+455660,plastic 1.5 v.lux cryzal a2,1,eyewear
+455661,plastic 1.5 zeiss,1,eyewear
+455662,plastic 1.5-a,1,eyewear
+455663,"plastic 1.50 , s2 prime plus , sph(-4.00 up to +4.00) , cyl(-0.25 up to -2.00",1,eyewear
+455664,"plastic 1.50 , s2 prime plus , sph(-4.00 up to +4.00) , cyl(-2.25 up to -4.00",1,eyewear
+455665,"plastic 1.50 , s2 super coat , sph(-4.00 up to +4.00) , cyl(-0.25 up to -2.00",1,eyewear
+455666,"plastic 1.50 , s2 super coat , sph(-4.00 up to +4.00) , cyl(-2.25 up to -4.00",1,eyewear
+455667,plastic 1.50 s2 prime plus sph(-4.00 up to +4.00) cyl(-0.25 up to -2.00,1,eyewear
+455668,plastic 1.50 s2 prime plus sph(-4.00 up to +4.00) cyl(-2.25 up to -4.00,1,eyewear
+455669,plastic 1.50 s2 prime plus sph(-4.00 up to +4.00) cyl(> -4.00,1,eyewear
+455670,plastic 1.50 s2 super coat sph(-4.00 up to +4.00) cyl(-0.25 up to -2.00,1,eyewear
+455671,plastic 1.50 s2 super coat sph(-4.00 up to +4.00) cyl(-2.25 up to -4.00,1,eyewear
+455672,plastic 1.50 uncoated,1,eyewear
+455673,plastic 1.56,1,eyewear
+455674,plastic 1.56 hmc,3,eyewear
+455675,plastic 1.56 sph -3.00 cyl-2.00,2,eyewear
+455676,plastic 1.56 cyl -4.00,1,eyewear
+455677,plastic 1.56 cyl -5.00,1,eyewear
+455678,plastic 1.56 cyl -6.00,1,eyewear
+455679,plastic 1.56 cyl-4.00,1,eyewear
+455681,plastic 1.56 hmc (4-3,1,eyewear
+455682,plastic 1.56 hmc (6-2,1,eyewear
+455683,plastic 1.56 hmc 50 m,1,eyewear
+455684,plastic 1.56 hmc 50 m عدسات طبية,1,eyewear
+455685,plastic 1.56 hmc sph -3.00 cyl-2.00,1,eyewear
+455686,plastic 1.56 hmc sph -4.25 cyl-0.25,1,eyewear
+455687,plastic 1.56 hmc sph -4.50 cyl-0.25,1,eyewear
+455688,plastic 1.56 hmc sph -4.50 cyl-0.50 عدسات طبية,1,eyewear
+455689,plastic 1.56 hmc sph -4.50 cyl-1.25,1,eyewear
+455690,plastic 1.56 hmc sph -4.50 cyl-2.50,1,eyewear
+455691,plastic 1.56 mc,1,eyewear
+455692,plastic 1.56 mc cyl -3.00,1,eyewear
+455693,plastic 1.56 mc cyl -4.00,1,eyewear
+455694,plastic 1.56 mc cyl -5.00,1,eyewear
+455695,plastic 1.56 pgx/pbx,1,eyewear
+455696,plastic 1.56 purex,1,eyewear
+455697,plastic 1.56 purex عدسات طبية,1,eyewear
+455698,plastic 1.56 sph -3.00 cyl -3.00,1,eyewear
+455700,plastic 1.56 sph -3.00 cyl-2.00 عدسات طبية,1,eyewear
+455701,plastic 1.56 sph -3.00 cyl-4.00,1,eyewear
+455702,plastic 1.56 sph -3.00 cyl-4.00 عدسات طبية,1,eyewear
+455703,plastic 1.56 sph -3.00 cyl-6.00,1,eyewear
+455704,plastic 1.56 tran g/b,1,eyewear
+455705,plastic 1.56 tran g/b sph +0.25 cyl-2.75,1,eyewear
+455706,plastic 1.56 tran g/b sph +0.25 cyl-3.25,1,eyewear
+455707,plastic 1.56 tran g/b sph +0.75 cyl-2.00 عدسات طبية,1,eyewear
+455708,plastic 1.56 tran g/b sph +1.75 cyl-2.25 عدسات طبية,1,eyewear
+455709,plastic 1.56 tran g/b sph +2.75 cyl-2.00,1,eyewear
+455710,plastic 1.56 tran g/b sph +3.00 cyl-1.50,1,eyewear
+455711,plastic 1.56 tran g/b sph +3.00 cyl-2.00,1,eyewear
+455712,plastic 1.56 tran g/b sph +3.50 cyl-1.75,1,eyewear
+455713,plastic 1.56 tran g/b sph +3.75 cyl-1.50,1,eyewear
+455714,plastic 1.56 tran g/b sph +4.00 cyl-2.00,1,eyewear
+455715,plastic 1.56 tran g/b sph +4.50 cyl-1.50,1,eyewear
+455716,plastic 1.56 tran g/b sph +5.25,1,eyewear
+455717,plastic 1.56 tran g/b sph +5.50 cyl-2.00,1,eyewear
+455718,plastic 1.56 tran g/b sph plano,1,eyewear
+455719,plastic 1.59 hiindex,1,eyewear
+455720,plastic 1.59 poly seecoat blue uv,1,eyewear
+455721,plastic 1.59 poly nikon hcc,1,eyewear
+455722,plastic 1.59 purx mc rx,1,eyewear
+455723,plastic 1.59 purx mc sph +1.00 cyl-0.25,1,eyewear
+455724,plastic 1.59 purx mc sph +1.00 cyl-0.25 عدسات طبية,1,eyewear
+455725,plastic 1.59 purx mc sph +1.00 cyl-0.75 عدسات طبية,1,eyewear
+455726,plastic 1.59 purx mc sph +1.25 cyl-0.50,1,eyewear
+455727,plastic 1.59 purx mc sph -1.25 cyl-1.00,1,eyewear
+455728,plastic 1.59 purx mc sph -1.25 cyl-1.00 عدسات طبية,1,eyewear
+455729,plastic 1.59 purx mc sph -1.25 cyl-1.25,1,eyewear
+455730,plastic 1.59 purx mc sph -1.50 cyl-0.75,1,eyewear
+455731,plastic 1.59 purx mc sph -2.00 cyl-0.50 عدسات طبية,1,eyewear
+455732,plastic 1.59 purx mc sph -3.00 cyl-1.00,1,eyewear
+455733,plastic 1.59 purx mc sph -3.25 cyl-1.50,1,eyewear
+455734,plastic 1.6,2,eyewear
+455735,plastic 1.6 at 6/4,1,eyewear
+455736,plastic 1.6 at 8/2,1,eyewear
+455737,plastic 1.6 at6/2 + +,1,eyewear
+455738,plastic 1.6 at6/4 + +,1,eyewear
+455739,plastic 1.6 az,1,eyewear
+455740,plastic 1.6 az high cyl,1,eyewear
+455741,plastic 1.6 eyezen,1,eyewear
+455742,plastic 1.6 hc 2/2-8/2,2,eyewear
+455743,plastic 1.6 hc 8.25-15/2,2,eyewear
+455744,plastic 1.6 hc >20/2,2,eyewear
+455745,plastic 1.6 hcc,1,eyewear
+455746,plastic 1.6 hi-index,1,eyewear
+455747,plastic 1.6 hi-index pgx/pbx,1,eyewear
+455748,plastic 1.6 high index abc,1,eyewear
+455749,plastic 1.6 high index mc,1,eyewear
+455750,plastic 1.6 max,1,eyewear
+455751,plastic 1.6 mc 2/2-8/2,2,eyewear
+455752,plastic 1.6 mc 8.25-15/2,2,eyewear
+455753,plastic 1.6 mc order,1,eyewear
+455754,plastic 1.6 mono,1,eyewear
+455755,plastic 1.6 neva max,1,eyewear
+455756,plastic 1.6 nikon hcc,1,eyewear
+455757,plastic 1.6 phot gray at 6/4,1,eyewear
+455758,plastic 1.6 see,1,eyewear
+455759,plastic 1.6 seecoat blue uv,1,eyewear
+455760,plastic 1.6 seecoat plus uv,1,eyewear
+455761,plastic 1.6 sph -15.00 cyl -2.00,1,eyewear
+455762,plastic 1.6 sph -6.00 cyl -2.00,1,eyewear
+455763,plastic 1.6 v.lux cryzal a2,1,eyewear
+455764,plastic 1.6 wht order bs 8/6,1,eyewear
+455765,plastic 1.60 sph -10.00 cyl-2.00,1,eyewear
+455766,plastic 1.60 sph -12.00 cyl -2.00,1,eyewear
+455767,plastic 1.60 sph -12.00 cyl -3.00,1,eyewear
+455768,plastic 1.60 sph -15.00 cyl -2.00,1,eyewear
+455769,plastic 1.60 sph -15.00 cyl -3.00,1,eyewear
+455770,plastic 1.60 sph -15.00 cyl -4.00,1,eyewear
+455771,plastic 1.60 sph -4.00 cyl-2.00,1,eyewear
+455772,plastic 1.60 sph -4.00 cyl-2.00 عدسات طبية,1,eyewear
+455773,plastic 1.60 sph -4.00 cyl-3.00,1,eyewear
+455774,plastic 1.60 sph -4.00 cyl-4.00,1,eyewear
+455775,plastic 1.60 sph -4.00 cyl-4.00 عدسات طبية,1,eyewear
+455776,plastic 1.60 sph -4.00 cyl-5.00,1,eyewear
+455777,plastic 1.60 sph -4.00 cyl-6.00,1,eyewear
+455778,plastic 1.60 sph -6.00 cyl -2.00,1,eyewear
+455779,plastic 1.60 sph -6.00 cyl -3.00,1,eyewear
+455780,plastic 1.60 sph -6.00 cyl -4.00,1,eyewear
+455781,plastic 1.60 sph -6.00 cyl-4.00,1,eyewear
+455782,plastic 1.60 sph -8.00 cyl-2.00,1,eyewear
+455783,plastic 1.61 a.r normal,1,eyewear

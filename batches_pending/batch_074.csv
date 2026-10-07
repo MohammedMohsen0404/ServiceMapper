@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+250038,"factor vii activity, plasma",1,lab_test
+250040,"factor viii (ahg), 1- stage",1,lab_test
+250041,factor viii (x8) clotting activity,1,lab_test
+250043,factor viii activity(von willebrand factor,1,lab_test
+250044,"factor viii activity, plasma",1,lab_test
+250047,factor viii inhibitor (q,1,lab_test
+250048,factor viii inhibitor panel (bethesda titre,1,lab_test
+250050,"factor viii level, chromogenic assay",1,lab_test
+250051,factor viii; von willebrand factor antigen,1,lab_test
+250052,"factor vr506q leiden, blood",1,lab_test
+250054,factor x (x10) clotting activity,1,lab_test
+250056,factor xi (x11) clotting activity,1,lab_test
+250058,"factor xi, plasma",1,lab_test
+250060,factor xii (x12) clotting activity,1,lab_test
+250062,"factor xii activity, plasma",1,lab_test
+250064,factor xiii (x13) activity,1,lab_test
+250065,factor xiii activity,1,lab_test
+250066,"factor xiii activity, (quantitative), plasma",1,lab_test
+250067,factor xiii quantitative,1,lab_test
+250068,"factor xiii, (screen), plasma",1,lab_test
+250070,factor ii _prothrombin_,1,lab_test
+250071,factor inhibitor test,1,lab_test
+250072,factor ll,1,lab_test
+250075,factor vll,1,lab_test
+250079,"faecal incontinence collection bag, skin-fixation",1,procedure
+250080,faecal incontinence kit,1,other
+250081,fahad aldosary,1,other
+250082,fahad eid alotaibi,1,other
+250083,fahad hamad alrowily,1,other
+250084,fahad hamdan alruwaily,1,other
+250088,falcon,2,other
+250095,fallopian tube,1,supplies
+250096,fallopian tube catheterization kit,1,supplies
+250098,falow up,2,other
+250103,familial hematology disorder follow-up,1,consultation
+250104,familial hemophagocytic lymphohistocytosis (hlh) genetic panel by ngs,1,lab_test
+250105,familial m. gene,1,lab_test
+250106,familial mediterranean fever,1,other
+250107,familial mediterranean fever (fmf,1,other
+250110,"familial mediterranean fever (fmf), sequencing",1,other
+250111,familial mediterranean fever (mefv gene) perkin elmer(period fever ngs panel,1,lab_test
+250112,familial med. fever 1st stage,1,other
+250113,family med and polyclinics procedure follow-up,1,consultation
+250114,family med urgent care virtual follow-up,1,consultation
+250116,family medicine employee wellness new follow-up,1,consultation
+250117,family medicine pediatric virtual follow-up,1,consultation
+250118,family medicine seasonal flu follow-up,1,consultation
+250119,family medicine urgent care follow-up,1,consultation
+250120,family medicne. consultant fee,1,consultation
+250121,family counseling psychotherapy session,1,physiotherapy
+250122,family medicine,1,other
+250123,family/carer-focussed psychotherapy (with patient present) 50 minutes,1,consultation
+250137,faradic,1,other
+250139,faranasal sinuses,1,other
+250158,farcolin session,2,physiotherapy
+250167,farcoline nebulizer,1,supplies
+250170,farhad khanam,1,other
+250171,farhan abdelazee,1,other
+250172,faricimab,1,other
+250196,farmactive silver,1,other
+250200,farradic stimulation,1,other
+250205,fas hemofer 28 disposable spoons,1,supplies
+250217,fascial nerve,1,other
+250218,"fasciectomy, plantar fascia; radical",1,procedure
+250219,"fasciectomy, plantar fascia; partial (separate procedure",1,procedure
+250221,"fasciotomy, lateral or medial (eg, tennis elbow or epicondylitis); with annular ligament resection",1,procedure
+250222,"fasciotomy, palmar, for dupuytren's contracture: open or closed, each digit",1,procedure
+250223,"fasciotomy, palmar, for dupuytrens contracture: open or closed, each digit",1,procedure
+250231,fashion-222,1,other
+250232,fashoin,1,other
+250239,fast fix curved needle deliver system,1,supplies
+250247,fast thread peek interference screw 9x30mm ar-4030p-09 arthrex,1,supplies
+250272,fast-flam20tabs50mg*new,1,other
+250273,fast-flam20tab50mg,1,other
+250274,fast-flam50mg 20tabs,1,other
+250280,fastflam50mg20tab,1,other
+250285,fasting blood sugarتحليل سكر صايم,1,lab_test
+250286,fasting & post praindial bl. sugar,1,other
+250288,fasting & post prandial(fbs+p.p.bs,1,lab_test
+250289,fasting & post prandial(fbs+ppbs) 2hour,1,lab_test
+250290,fasting & post prandialppbs,1,lab_test
+250292,fasting bl glucose,1,lab_test
+250293,fasting bl. sugar (f.b.s,1,lab_test
+250294,fasting bl. sugar f.b.s,1,lab_test
+250295,fasting bl.glucose,1,lab_test
+250297,fasting blood glucose ( fbs,1,lab_test
+250300,fasting blood glucose -fbg,1,lab_test
+250301,fasting blood glucose -fbs,1,lab_test
+250302,fasting blood glucose .fbs,1,lab_test
+250303,fasting blood glucose .fbs (lab,1,lab_test
+250304,fasting blood glucose(fbs,1,lab_test
+250305,fasting blood glucose* fbg,3,lab_test
+250308,fasting blood sugar ( f. b .s,1,lab_test
+250310,fasting blood sugar ( fbs ) ??? ??? ????? ????,1,lab_test
+250315,fasting blood sugar (fbs) (518,1,lab_test
+250316,fasting blood sugar (fbs)(09001,1,lab_test
+250320,fasting blood sugar - ????? ??? (????,1,lab_test
+250321,fasting blood sugar ??? ???? ?? ????,1,lab_test
+250323,fasting blood sugar fbs - insurance,1,lab_test
+250325,fasting blood sugar test,1,lab_test
+250326,fasting blood sugar test {fbs},1,lab_test
+250327,fasting blood sugar {fbs},1,lab_test
+250328,"fasting blood sugar, glucose, serum / plasma / urine / body fluid",1,lab_test
+250329,fasting blood sugar{fbs},1,lab_test
+250331,fasting blood glucose tes,1,lab_test
+250335,"fasting blood glucose test, fbs",1,lab_test
+250337,fasting blood glucose- fbg,2,lab_test
+250338,fasting plasma glucose,2,lab_test
+250347,fasting blood sugar / ????? ??? ????? ?????,1,lab_test
+250348,fasting blood sugar ??? ????,1,lab_test
+250374,fasturtec,1,other
+250376,fat screen (stool) - ?????,1,lab_test
+250377,fat transfer large,1,procedure
+250378,fat in stool (qualitative,1,lab_test
+250379,fat lipids stool,1,lab_test
+250380,fat screen (stool,1,lab_test
+250381,fat stain of feces,1,other
+250382,fatat arifnabha,1,other
+250383,fatima waleed shawkat,1,other
+250389,fatty acids-long chain; blood,1,lab_test
+250404,fawar fruit 6 sac sod bicar+citric+tartaric,1,other
+250414,fawar fruit salt,1,other
+250415,fawar fruits,1,other
+250419,fawar lemon box,1,other
+250420,fb ear,1,other
+250423,fb removal from foot/ hand la,1,procedure
+250430,fe-male pelvis,1,other
+250431,feno measurement,1,other
+250432,feno test,1,lab_test
+250439,feacal occult blood,1,lab_test
+250443,febril agglutination (salmonella tphi salmonella para typhi a b c & brucellosis) ? silde m,1,lab_test
+250444,febril agglutination test illness,1,lab_test
+250445,febril agglutination test slide m,1,lab_test
+250446,febrile agglutination test salmonella typhi salmonella,1,lab_test
+250450,febrile agglutinins (widal test,1,lab_test
+250462,fecal calprotectin protein test,1,lab_test
+250463,fecal fat screen,1,other
+250464,fecal h pylori ag ifa qual/semiquant,1,lab_test
+250465,"fecal h pylori ag, ifa, qual/semiquant",5,lab_test
+250470,fecal h pylori ag; ifa; qual/semiquant,1,lab_test
+250472,fecal immunochemical test (fit) (mhl lab,1,lab_test
+250474,fecal immunoclemical test (fit,1,lab_test
+250475,fecal immunological test (fit,1,lab_test
+250476,fecal lipids; qual. analysis,1,lab_test
+250477,fecal lipids; quant,1,lab_test
+250480,fecal occult blood test (fobt,1,lab_test
+250481,"fecal occult blood, hemoccult",1,lab_test
+250482,fecal screen - occult blood - ?????,1,lab_test
+250483,fecal screen - parasite - ?????,1,other
+250484,fecal screen ? occult blood,1,lab_test
+250485,fecal screen occult blood,1,lab_test
+250486,fecal fat testing total,1,lab_test
+250488,fecal immunochemical test (fit) (sfv,1,lab_test
+250489,fecal immunochemical test by immuno assay,1,lab_test
+250518,fee difference between g.p. to specilist,1,consultation
+250519,fee followup visit,1,consultation
+250520,fee dental cons,1,dental
+250521,feeambulance,1,other
+250522,feeding bag ( piece,1,supplies
+250524,"feeding bag,1ltr,compat ella,12277771",1,supplies
+250526,feeding machine,1,supplies
+250527,feeding pump / day,1,supplies
+250528,"feeding pump compat ella (nestle) 1""s",1,supplies
+250529,feeding set freego screwcap,1,supplies
+250530,feeding tube 6,1,supplies
+250531,feeding tube fr. 08,1,eyewear
+250532,feeding tube fr. 10,1,eyewear
+250533,feeding tube infant ch8,1,supplies
+250534,feeding tube size 10 polymed,1,supplies
+250535,feeding tube size 6 polymed,1,supplies
+250536,feeding tube size 8 polymed,1,supplies
+250537,"feeding, nasogastric tube per day",1,supplies
+250538,feellife nebilizer kit,1,other
+250539,feellife mesh nebulizer air pro ix (9,1,eyewear
+250540,feellife nebulizer air pro,1,eyewear
+250541,fees inpatient consultation by consultant,1,consultation
+250542,fees psychology session l1,1,physiotherapy
+250543,fees psychology session l2,1,physiotherapy
+250544,feet,2,other
+250545,feet x-ray,1,imaging
+250550,feiba antihemophilic factor viii (human) 500 (+,1,lab_test
+250553,felden-1,1,other
+250560,feldene i.m,1,lab_test
+250561,feldene i.m.1250,1,lab_test
+250571,female dentist consultation,1,consultation
+250572,female hinge #101700,1,other
+250573,female physiotherapy per session (any/all modalities,1,physiotherapy
+250574,female pelvic,1,other
+250575,female post 2 holes #101500,1,other
+250576,"female reproductive system infections, minor complexity",1,inpatient
+250577,"female reproductive system reconstructive procedures, minor complexity",1,inpatient
+250578,female specialist,1,consultation
+250579,female pelvis us,1,imaging
+250580,female-incontinence urethral balloon,1,supplies
+250610,femoral arterial closure device,1,procedure
+250611,"femoral catheter set, double lumen, 7fr x 10cm, straight, medcomp 1""s #t74m",1,supplies
+250612,"femoral component, different size, right/left",1,other
+250613,femoral head taper,1,other
+250614,"femoral head w/ neck, lnet, l 43 mm (neck l = 10 - 12 mm, frozen #ffhn",1,other
+250615,femoral nail 12mm,1,supplies
+250616,"femoral posterior stabilized. cemented size#2,left,ortho.j&j",1,other
+250617,femoral sheath 4f 11cm,1,supplies
+250618,femoral sheath 6fr w/guidewire,1,supplies
+250619,"femoral sheath 6frx11cm, cordis",1,supplies
+250620,femoral sheath 7f 70/80/90cm,1,supplies
+250621,femoral sheath 8f 70/80/90cm,1,supplies
+250622,femoral sheath 9fr - 11cm,1,supplies
+250623,"femoral venous cannula with insertion 25fr, medtronic, #96600-125",1,supplies
+250624,femoral arterial angiography,1,imaging
+250625,femoral artery catheter introduction/wound closure set,1,supplies
+250626,"femoral artery closure plug/patch, synthetic polymer",1,supplies
+250627,"femoral artery compression bandage, single-use",1,supplies
+250628,femoral artery medicated closure set,1,procedure
+250629,femoral artery thermal closure system,1,procedure
+250630,femoral artery/vein access catheter,1,supplies
+250631,femoral bone femur,1,imaging
+250632,femoral closure device 6-8 french,1,procedure
+250633,femoral stem centralizer,1,supplies
+250635,femoral vessel suture implantation set,1,supplies
+250636,"femoral, 5fr sheath",1,supplies
+250637,"femoral, nail, different size, right/left",1,supplies
+250638,"femoral, stem, 120mm",1,supplies
+250639,femoro popliteal by-pass graft,1,procedure
+250640,"femoro-popliteal bypass using synthetic material, above knee anastomosis, unilateral",1,other
+250642,femto-lasik one eye,1,supplies
+250643,femtolasik - flap - both eyes,1,other
+250644,femtolasik - flap - one eye,1,supplies
+250649,femur ( 2 v )-femur ( 2 v,1,imaging
+250652,femur (ap & lat,1,imaging
+250655,femur (two views) x-ray,1,imaging
+250656,femur - 1 view,1,imaging
+250657,femur - 2 views (ap lat,1,imaging
+250658,femur - thigh 1 view,1,imaging
+250659,femur - thigh 2 views,2,imaging
+250660,femur - thigh 3 views,2,imaging
+250664,femur / thigh 2-view,1,imaging
+250669,femur / thigh both 1 view,1,imaging
+250670,femur 1 film,2,other
+250671,femur 1film x-ray,1,imaging
+250675,femur 2 views ????? ????? ?????,1,imaging
+250676,femur 2 views a.p and lateral,1,imaging
+250679,femur 2 views[15.35,1,imaging
+250680,femur 2-views,1,imaging
+250682,femur 3 views-558,1,imaging
+250683,femur a p & lat-5022,1,imaging
+250687,femur aplat. (2v,1,imaging
+250688,femur apv,1,other
+250693,femur ap/lat. rad. exam,1,imaging
+250696,femur lat v,1,imaging
+250698,femur rl,1,other
+250700,femur thigh 2views,1,imaging
+250703,femur x-ray (ap,1,imaging
+250704,femur x-ray (ap) ???? ??? ????? ?????,1,imaging
+250705,femur x-ray (lat view,1,imaging
+250706,femur x-ray (lat view) ???? ??? ???? ????? ?????,1,imaging
+250708,femur xray ap+lat - l,1,imaging
+250709,femur xray ap+lat - r,1,imaging
+250711,femur bilateral,1,imaging
+250712,femur bone xray,1,imaging
+250713,"femur clasp (butterfly shape)with integr. abduction wedge plugable, with covering 26.00.0064",1,supplies
+250715,"femur nail, non-sterile",1,supplies
+250716,"femur nail, sterile",1,supplies
+250718,femur or thigh x ray 1 view,1,imaging
+250719,femur or thigh x ray 2 view,1,imaging
+250721,femur xray 1 film,1,imaging
+250722,femur xray 2 films,1,imaging
+250723,femur(r.l,1,lab_test
+250724,"femur, nail, 10 x 390 rt",1,supplies
+250725,femur- 2 views,1,imaging
+250726,femur- both,1,other
+250727,femur-2views,1,imaging
+250728,femur/2 views,1,imaging
+250729,femur/ap,1,imaging
+250730,femur/humerus ap & lateral,1,imaging
+250733,femur/thigh - 3 views - ????? ????? 3 ?????,1,imaging
+250737,femure (thigh) unilateral x ray 2 views,1,imaging
+250738,femure (thigh) unilateral x- ray 1 view,1,eyewear
+250739,femure (thigh) unilateral x- ray 2 views,1,eyewear
+250740,femure (thigh)??unilateral??x- ray 1 view,1,eyewear
+250743,fenajet,1,other
+250748,fenam fort20tabs500mg,1,other
+250758,fenamforte500mg20tab,1,other
+250759,fendi 0393 fr 807 52,1,eyewear
+250760,fendi 50021u fr 016 56,1,eyewear
+250761,fendi 50034u fr 016 52,1,eyewear
+250762,fendi 50035u fr 032 59,1,eyewear
+250768,fenestrated poly screw 6.5x40,1,supplies
+250769,"fenestrated/cannulated screw , each",1,supplies
+250770,fenido,1,other
+250792,fenistil drops20ml,1,other
+250809,fenistildrops20ml,1,other
+250810,fenistilgel30gm,1,other
+250811,feno ( fractional exhaled nitric oxide ) - test,1,lab_test
+250818,fenofibrate ethypharm,1,other
+250875,feotal us(dopler coloured) for location,1,imaging
+250885,ferasiro 180,1,other
+250887,ferasiro 360,1,other
+250891,ferguson haemorrhoidectomy,1,procedure
+250905,feritin in blood,1,lab_test
+250906,feritin in blood ?????? ?????,1,lab_test
+250957,feroglobinb12-30cap,1,other
+250958,feroglobinb1230cap,1,other
+250959,feroglobinb12syrup200ml,2,other
+250967,feromenta,1,other
+251076,ferosac5amp100mg5ml lasa,1,other
+251158,ferose100mg30tabs lasa,1,other
+251159,ferosefchewable30tab,1,other
+251160,ferosesyrup100ml,1,other
+251162,feroton (i.v,1,lab_test
+251172,feroton5x5mlampoul,1,other
+251173,ferovit 30tab,1,other
+251185,ferr t3,1,lab_test
+251190,ferretin,2,other
+251200,ferriti - serum,1,lab_test
+251202,ferritin 73050-13-10,1,lab_test
+251204,ferritin (09042,1,lab_test
+251205,ferritin (517,1,lab_test
+251206,ferritin (elisa,1,lab_test
+251207,ferritin (in serum,1,lab_test
+251209,ferritin (miscellaneous,1,lab_test
+251213,"ferritin , serum",1,lab_test
+251215,ferritin - ???? ?????? ?? ?????,1,lab_test
+251216,ferritin - ?????,1,lab_test
+251217,ferritin - ????? ????? ??????,1,lab_test
+251219,ferritin - lab,1,lab_test
+251221,ferritin / ??? ??????,1,lab_test
+251222,ferritin / ferritin,1,lab_test
+251224,ferritin in serum (lab,1,lab_test
+251225,ferritin in serum (sfv,1,lab_test
+251226,ferritin in serum(mhl lab,1,lab_test
+251230,ferritin in serum - insurance,1,lab_test
+251234,ferritin {elisa},1,lab_test
+251244,ferritin-1076,1,lab_test
+251246,ferritin2cserum,1,other
+251247,ferrittin,1,other
+251252,ferro light,1,other
+251253,ferro-28.60caps,1,other
+251287,ferrosomal,1,other
+251314,ferrritin,1,other
+251316,ferruton,1,other
+251326,fertil-pro for men +l-carnitine multivitamin (mult,1,other
+251339,fetal ctg,1,diagnostic
+251340,fetal cardiotocography for 30 minutes,1,other
+251341,fetal diagnosis and therapy new patient,1,physiotherapy
+251342,fetal doplex,2,other
+251344,fetal ecg,1,diagnostic
+251346,fetal echo/twin,1,imaging
+251348,fetal heart sound,1,other
+251351,fetal monitoring - day,1,consultation
+251352,fetal study us,1,consultation
+251353,fetal therapy coordinator follow-up,1,physiotherapy
+251357,fetal chromosomal aneuploidy,1,other
+251358,"fetal chromosomal aneuploidy , genomic sequence analysis panel,including of chromosomes 13, 18, & 21",1,lab_test
+251359,fetal chromosome aneuploidy panel,1,lab_test
+251360,fetal chromosome aneuploidy panel - (noninvasive prenatal testing nipt,1,lab_test
+251361,fetal chromosome microdeletions,1,other
+251362,"fetal congenital abnormalities, assay of two proteins",1,lab_test
+251363,fetal hemoglobin or red blood cells measurement for assessment of fetal-maternal circulation,1,lab_test
+251366,fetus,1,other
+251622,fevadol100mg10supp,1,other
+251623,fevadol100mg10supp lasa,1,other
+251624,fevadol200mg10supp,1,other
+251626,fevadol200mg10supp lasa,1,other
+251627,fevadol350mg10supp,1,other
+251628,fevadol500mg20tab,1,other
+251629,fevadol500mg20tabs lasa,1,other
+251630,fevadolextra20tab,1,other
+251631,fevadolextra20t,1,other
+251632,fevadolplus20tab,1,other
+251633,fevadolsfsyrup145ml,1,other
+251635,fever of unknown origin (fuo) follow-up,1,consultation
+251636,fever of unknown origin (fuo) new follow-up,1,consultation
+251637,fever of unknown origin minor complexity,1,inpatient
+251638,"fever of unknown origin, major complexity",1,inpatient
+251639,"fever of unknown origin, minor complexity",1,inpatient
+251640,fever unspecifiedution for injection500mlbottle1,1,other
+251641,few molluscom contagiosa,1,other
+251642,few skin tags,1,other
+251687,fexodine120mg14tab,1,other
+251688,fexodine120mg14tabs,1,other
+251689,fexodine180mg14tab,1,other
+251690,fexodine180mg,1,other
+251691,fexodine180mg14tabs,1,other
+251713,ff-up visit,1,consultation
+251717,"fiapc probe 2200 a, single-use 2.3mm / length 2.2m, erbe, #20132-221",1,supplies
+251718,"fiapc probe 3000 a, single-use 2.3mm / length 2.3m, erbe, #20132-222",1,supplies
+251719,fiber tale self punching knotless ar-3641sp,1,other
+251720,fiber - post and build up,1,other
+251721,fiber glass cast size #5 white,1,eyewear
+251722,fiber loop #0,1,other
+251723,fiber loop suture arthrex #2,1,supplies
+251727,fiber post &build up,1,other
+251728,fiber post with build up,1,other
+251729,fiber tak 2.6 suture anchor,1,supplies
+251730,"fiber wire #2, 2 strands # ar-7201-pc",1,supplies
+251731,fiber wire arthrex #2,1,supplies
+251732,"fiber wire polyblend suture #2, tapered needle",1,supplies
+251734,fiber post add to treatment,1,other
+251735,fiber tale rc blue self punching ar-3652tsp,1,other
+251736,"fibergraft bg putty 1cc depuy, synthes #56000010",1,supplies
+251737,"fibergraft bg putty 2cc depuy, synthes #56000020",1,supplies
+251741,fiberglass long arm,1,other
+251745,fiberoptic naso-pharyngo-laryngoscopy,1,procedure
+251747,fiberscopic laryngoscopy,1,procedure
+251748,"fibre glass cast, above elbow, children",1,eyewear
+251752,"fibre glass, above elbow, adult",1,eyewear
+251753,"fibre glasscast,above knee elbow, childr",1,other
+251754,fibre cast below knee (bk,1,supplies
+251755,"fibre glass cast below elbow, children",1,eyewear
+251757,fibreopt colonoscopy hepatic flexure,1,procedure
+251758,fibreoptic colonoscopy heptc flexure bx,1,procedure
+251759,"fibreoptic colonoscopy heptc flexure, bx",1,procedure
+251764,fibreoptic colonoscopy to caecum with polypectomy,1,procedure
+251766,"fibreoptic colonoscopy to caecum, with biopsy",1,procedure
+251769,"fibreoptic colonoscopy to hepatic flexure, with biopsy",1,procedure
+251770,fibreoptic dental light,1,dental
+251771,fibreoptic diagnosis of laryngeal,1,other
+251776,fibreoptic light cable,1,supplies
+251777,fibrin degradation products fdps,1,other
+251780,fibrin degradation products d dimer ultrasensitive,1,lab_test
+251781,"fibrin degradation products, d",1,other
+251782,"fibrin degradation products, d-dimer; ultrasensitive",1,lab_test
+251783,"fibrin sealant biochemical preparation/application kit, open surgery",1,procedure
+251784,fibrin(ogen) degradation (split) products (fdp) (fsp) quantitative,1,other
+251786,"fibrin/fibrinolytic degradation/split products, special plasma tube",1,lab_test
+251788,fibrinogen - ?????,1,lab_test
+251789,"fibrinogen assay, plasma - hematology/coagulation",1,lab_test
+251790,fibrinogen clottable activity,1,lab_test
+251791,fibrinogen cone,1,lab_test
+251792,fibrinogen degradation products (d-dimer,1,lab_test
+251793,fibrinogen degradation products (fdp,1,lab_test
+251795,"fibrinogen level, plasma",1,lab_test
+251797,fibrinogen time,1,lab_test
+251798,fibrinogen activity,1,lab_test
+251799,fibrinogen antigen s,1,lab_test
+251801,"fibrinogen, immunologic",1,lab_test
+251802,"fibrinogen, plasma",1,lab_test
+251804,fibrinolytic factors and inhibitors; plasminogen activator,1,other
+251807,fibro test so- bs,1,lab_test
+251809,fibroblast growth factor-23 (fgf-23) - send out,1,lab_test
+251810,fibronectin,1,other
+251811,fibroptc colonsc to hepatic flexure w pp,1,other
+251813,fibroscan clinic follow-up,1,consultation
+251820,field of vision (central) perimetry,1,eyewear
+251821,field of vision -peripheral perimetry,1,eyewear
+251822,figuer of eight,1,other
+251823,figure of 8 bandage for fracture clavicle,2,supplies
+251824,filac fistula kit,1,other
+251826,"filaria, blood smear",1,lab_test
+251827,filaria- film,1,other
+251828,filarial examination,1,consultation
+251829,file starting,1,other
+251835,fill three or more sufaces,1,other
+251836,fill three or more surfaces,1,other
+251837,filler (radiesse,1,other
+251838,filler (radiesse) 1.6cc - 1.5cc,1,other
+251841,filling -composite,1,dental
+251842,filling after rct one canal,1,dental
+251843,filling ant. tow surface,1,dental
+251844,filling class + screw,1,dental
+251845,filling class i,1,dental
+251846,filling class ii,1,dental
+251847,filling composite,1,dental
+251850,filling composite one tooth,1,dental
+251851,filling for milk tooth,1,dental
+251852,filling of primary tooth,2,dental
+251854,filling or amalgum or composite or glass ionimer,1,dental
+251855,filling post. one surface,1,dental
+251856,filling post. three surface,1,dental
+251857,filling post. tow surface,1,dental
+251859,filling three or more surfaces,1,dental
+251863,filling a deciduous tooth,1,dental
+251864,filling after rct eaxh additional canal,1,dental
+251865,filling amalgam more than one surfce,1,dental
+251866,filling four surface anterior tooth 4(03260,1,dental
+251867,filling four surface posterior tooth 3264,1,dental
+251868,filling of decidious teeth in children,1,dental
+251869,filling of one surface of a tooth with amalgam,1,dental
+251872,filling one surface anterior tooth,1,dental
+251873,filling one surface anterior tooth (rct 1,1,dental
+251874,filling one surface posterior tooth,1,dental
+251875,filling one surface posterior tooth (03261,1,dental
+251876,filling three surface anterior tooth (03251,1,dental
+251877,filling three surface anterior tooth (rct 3,1,dental
+251878,filling three surface posterior tooth (03263,1,dental
+251879,filling to compound cavity prep,2,dental
+251881,filling two surface anterior tooth,1,dental
+251882,filling two surface anterior tooth 3250,1,dental
+251883,filling two surface posterior tooth,1,dental
+251884,filling two surface posterior tooth (03262,1,dental
+251886,filling-big,1,dental
+251887,filling: composite for ant./post. - 1 surface,2,dental
+251889,filling: composite for ant./post. - 2 surface,1,dental
+251890,filling: composite for ant./post. - 3+ surface,1,dental
+251891,filling: gic,1,dental
+251892,filling: prr (preventive resin restoration,1,dental
+251894,fillingtocompoundcavityprep,1,other
+251895,film array pneumonia panel,1,lab_test
+251896,film array upper respiratory panel,1,lab_test
+251901,film for malaria parasite,1,lab_test

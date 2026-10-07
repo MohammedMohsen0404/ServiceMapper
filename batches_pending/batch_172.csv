@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+372342,mri - angio neck & head,1,imaging
+372343,mri - angiography,1,imaging
+372344,mri - angiography abdomen,1,imaging
+372345,mri - angiography head & neck,1,imaging
+372346,mri - angiography lower extremity,1,imaging
+372347,mri - angiography pelvis,1,imaging
+372348,mri - ankle (left,1,imaging
+372349,mri - ankle (left) episurf protocol,1,imaging
+372350,mri - ankle (one side) with contrast,1,imaging
+372351,mri - ankle (one side) without contrast,1,imaging
+372352,mri - ankle (right side) c,1,imaging
+372353,mri - ankle (right,1,imaging
+372354,mri - ankle (right) episurf protocol,1,imaging
+372355,mri - ankle,1,imaging
+372356,mri - ankle - (left side) c,1,imaging
+372357,mri - ankle without contrast,1,imaging
+372358,mri - ankle/knee,1,imaging
+372359,mri - any body part,1,imaging
+372360,mri - any joints with arthrogram,1,imaging
+372361,mri - any organ with contrast,1,imaging
+372362,mri - any organ without contrast,1,imaging
+372363,mri - any part of the body with contrast,1,imaging
+372364,mri - any part of the body without contrast,1,imaging
+372365,mri - any part with contrast,2,imaging
+372366,mri - any part without contrast,2,imaging
+372367,mri - arm (left,1,imaging
+372368,mri - arm (right,1,imaging
+372369,mri - arthrogram hip (left,1,imaging
+372370,mri - arthrogram hip (right,1,imaging
+372371,mri - arthrogram knee (left,1,imaging
+372372,mri - arthrogram shoulder (left,1,imaging
+372373,mri - arthrogram shoulder (right,1,imaging
+372374,mri - arthrogram wrist (left,1,imaging
+372375,mri - arthrogram wrist (right,1,imaging
+372380,mri - brachial plexus,1,imaging
+372381,mri - brain,2,imaging
+372382,mri - brain (plain,1,imaging
+372384,mri - brain + mra,1,imaging
+372385,mri - brain c+,2,imaging
+372386,mri - brain c,2,imaging
+372387,mri - brain c-/+,1,imaging
+372388,mri - brain mra,1,imaging
+372389,mri - brain mrv,1,imaging
+372390,mri - brain spectroscopy,1,imaging
+372391,mri - brain stroke protocol,1,imaging
+372392,mri - brain with and without contrast,1,imaging
+372393,mri - brain with contrast,1,imaging
+372394,mri - brain without contrast,1,imaging
+372395,mri - breast,2,imaging
+372396,mri - breasts,1,imaging
+372397,mri - breasts screening,1,imaging
+372401,mri - c-spine with contrast,1,imaging
+372402,mri - c-spine without contrast,1,imaging
+372403,mri - cardiac perfusion and viability,1,imaging
+372404,mri - cardiac perfusion study,1,imaging
+372405,mri - cardiac structure and viability,1,imaging
+372406,mri - cardiac study without contrast,1,imaging
+372407,mri - cardiovascular study with contrast,1,imaging
+372408,mri - cervical spine,2,imaging
+372410,mri - cervical spine c+,2,imaging
+372411,mri - cervical spine c,2,imaging
+372412,mri - cervical spine c-/+,1,imaging
+372413,mri - cervical spine with contrast,1,imaging
+372414,mri - cervical spine with out contrast,1,imaging
+372415,mri - cervical spine without contrast,1,imaging
+372416,mri - cervical spine w/o contrast,1,imaging
+372417,mri - cervico-thoracic spine c+,2,imaging
+372418,mri - cervico-thoracic spine c,2,imaging
+372419,mri - cervico-thoracic spine c-/+,1,imaging
+372420,mri - cervico-thoracis spine c,1,imaging
+372421,mri - chest,3,imaging
+372423,mri - chest mra,1,imaging
+372424,mri - chest with contrast t71550,1,imaging
+372425,mri - cholangiogram,1,imaging
+372426,mri - contrast charge (additional,1,imaging
+372427,mri - contrast charges (additional,1,imaging
+372428,mri - csf flow study,1,imaging
+372429,mri - cardiac,1,imaging
+372435,mri - diffusion (any organ,1,imaging
+372436,mri - dorsal spine,1,imaging
+372437,mri - elbow (left,1,imaging
+372438,mri - elbow (one side) without contrast,1,imaging
+372439,mri - elbow (right side) c,1,imaging
+372440,mri - elbow (right,1,imaging
+372441,mri - elbow,1,imaging
+372442,mri - elbow - (left side) c,1,imaging
+372443,mri - elbow w/o contrast,1,imaging
+372444,mri - external reporting,1,imaging
+372445,mri - extremity,1,imaging
+372446,mri - extrimity,1,imaging
+372447,mri - enterography,1,imaging
+372448,mri - face / neck,1,imaging
+372449,mri - face neck orbit,1,imaging
+372450,mri - face/neck/orbit w/o contrast,1,imaging
+372451,mri - femur (left side) c,1,imaging
+372452,mri - femur (left,1,imaging
+372453,mri - femur (right,1,imaging
+372454,mri - femurs - (bilateral) c,1,imaging
+372455,mri - fistulogram,1,imaging
+372456,mri - foot (left,1,imaging
+372457,mri - foot (right side) c,1,imaging
+372458,mri - foot (right,1,imaging
+372459,mri - foot - (left side) c,1,imaging
+372460,mri - forearm (left,1,imaging
+372461,mri - forearm (right side) c,1,imaging
+372462,mri - forearm (right,1,imaging
+372464,mri - gall bladder imaging,1,imaging
+372465,mri - gall bladder imaging (mrcp,1,imaging
+372466,mri - hand (left,1,imaging
+372467,mri - hand (right side) c,1,imaging
+372468,mri - hand (right,1,imaging
+372469,mri - hand - (left side) c,1,imaging
+372470,mri - head,1,imaging
+372471,mri - head with contrast,1,imaging
+372472,mri - heart (cardiac,1,imaging
+372473,mri - hip,2,imaging
+372474,mri - hip (left,1,imaging
+372475,mri - hip (right,1,imaging
+372477,mri - hip arthrogram,1,imaging
+372478,mri - hip c- (right side,1,imaging
+372479,mri - hip with contrast,1,imaging
+372480,mri - hip without contrast,1,imaging
+372481,mri - hips - (bilateral,1,imaging
+372482,mri - humerus (right side,1,imaging
+372483,mri - humerus (right,1,imaging
+372484,mri - head (neuronavigation,1,imaging
+372485,mri - i.a.m. with contrast,1,imaging
+372486,mri - internal aud. canals,2,imaging
+372488,mri - internal auditory meatus c-/+,2,imaging
+372490,mri - kidney with contrast,1,imaging
+372491,mri - knee (left,1,imaging
+372492,mri - knee (one side,1,imaging
+372493,mri - knee (right side,1,imaging
+372494,mri - knee (right,1,imaging
+372495,mri - knee,1,imaging
+372496,mri - knee - (left side,1,imaging
+372497,mri - knee ankle hip,1,imaging
+372498,mri - knee with contrast,1,imaging
+372499,mri - knee without contrast,1,imaging
+372500,mri - knee/ankle/hip,1,imaging
+372501,mri - knees - (bilateral,1,imaging
+372502,mri - l-spine with contrast,2,imaging
+372504,mri - l-spine without contrast,1,imaging
+372505,mri - leg (right,1,imaging
+372506,mri - leg - (unilateral,1,imaging
+372507,mri - legs (left,1,imaging
+372508,mri - lower extremity,1,imaging
+372509,mri - lower limbs mra,1,imaging
+372510,mri - lumbar spine,2,imaging
+372512,mri - lumbar spine w/o contrast,1,imaging
+372513,mri - lumbar spine with contrast,1,imaging
+372514,mri - lumbar spine without contrast,1,imaging
+372515,mri - lumbo-sacral spine (plain - with contrast,1,imaging
+372516,"mri - lumbo-sacral spine, without contrast",1,imaging
+372517,mri - lumbosacral spine c+,2,imaging
+372518,mri - lumbosacral spine c,2,imaging
+372519,mri - lumbosacral spine c-/+,1,imaging
+372520,mri - lumbosacral spinec,1,imaging
+372523,mri - magnetic resonance urogram (mru,1,imaging
+372524,mri - mammography,2,imaging
+372525,mri - mr enterography (mre,1,imaging
+372526,mri - mrcp,1,imaging
+372527,mri - mrcp - ???? ????,1,imaging
+372528,mri - mrcp c+ (primovist,1,imaging
+372529,mri - multiple sclerosis protocol,1,imaging
+372531,mri - nasopharynx,1,imaging
+372532,mri - neck soft tissue c-/+,2,imaging
+372533,mri - neck vessels mra,1,imaging
+372536,mri - orbit,1,imaging
+372537,mri - orbit with contrast,1,imaging
+372538,mri - orbit without contrast,1,imaging
+372539,mri - orbits,1,imaging
+372540,mri - orbits c-/+,1,imaging
+372541,mri - other joints,2,imaging
+372543,mri - outside hospital,1,imaging
+372544,mri - paranasal sinuses c+,2,imaging
+372545,mri - paranasal sinuses c,1,imaging
+372546,mri - pediatric cardiac,1,imaging
+372547,mri - pelvimetry,1,imaging
+372548,mri - pelvis,2,imaging
+372550,mri - pelvis c,2,imaging
+372552,mri - pelvis c-/+,1,imaging
+372553,mri - pelvis with contrast,1,imaging
+372554,mri - pelvis without contrast,1,imaging
+372555,mri - perianal fistula,2,imaging
+372556,mri - perianal fistula ( with contrast,1,imaging
+372557,mri - pituitary gland c-/+,2,imaging
+372558,mri - pituitary gland/sella with and without contrast,1,imaging
+372559,mri - pituitary gland/sella with contrast,1,imaging
+372560,mri - prostate,2,imaging
+372562,mri - package deal,1,imaging
+372563,mri - package deal (with or without contrast,1,imaging
+372567,mri - sedation,1,imaging
+372568,mri - sedation charges,1,imaging
+372569,mri - sella turcica,1,imaging
+372570,mri - shoulder,2,imaging
+372571,mri - shoulder (left,1,imaging
+372572,mri - shoulder (one side) with contrast,1,imaging
+372573,mri - shoulder (one side) without contrast,1,imaging
+372574,mri - shoulder (right side,1,imaging
+372575,mri - shoulder (right,1,imaging
+372577,mri - shoulder - (left side,1,imaging
+372578,mri - shoulder arthrogram,1,imaging
+372579,mri - shoulders - (bilateral,1,imaging
+372580,mri - specific region,1,imaging
+372581,mri - spine (cervical thoraciclumbar) w/o contrast,1,imaging
+372582,"mri - spine (cervical, thoracic,lumbar) w/o contrast",1,imaging
+372583,"mri - spine (cervical, thoracic,lumbar) with contrast",1,imaging
+372584,mri - spine-cervical,1,imaging
+372585,mri - spine-cervical with contrast,1,imaging
+372586,mri - spine-lumbar,1,imaging
+372587,mri - spine-lumbar with contrast,1,imaging
+372588,mri - spectroscopy,1,imaging
+372589,mri - t-spine with contrast,1,imaging
+372590,mri - t-spine without contrast,1,imaging
+372591,mri - thigh (left,1,imaging
+372592,mri - thigh (right,1,imaging
+372593,mri - thoracic spine,2,imaging
+372594,mri - thoracic spine (limited,1,imaging
+372596,mri - thoracic spine c,2,imaging
+372597,mri - thoracic spine c-/+,1,imaging
+372598,mri - thoracic spine with contrast,1,imaging
+372599,mri - thoracic spine without contrast,1,imaging
+372600,mri - thoraco-lumbar spine c+,2,imaging
+372601,mri - thoraco-lumbar spine c,2,imaging
+372602,mri - thoraco-lumbar spine c-/+,1,imaging
+372603,mri - tm joint,1,imaging
+372604,mri - trans-mandibular joint (tmj,1,imaging
+372608,mri - upper extremity,1,imaging
+372609,mri - upper extremity with contrast,1,imaging
+372610,mri - upper limbs mra (left,1,imaging
+372611,mri - urography,1,imaging
+372612,mri - whole spine,1,imaging
+372613,mri - whole spine c+,2,imaging
+372614,mri - whole spine c,2,imaging
+372615,mri - whole spine c-/+,1,imaging
+372616,mri - with contrast,2,imaging
+372617,mri - with/without contrast,1,imaging
+372618,mri - without contrast,2,imaging
+372619,mri - wrist,2,imaging
+372620,mri - wrist (left side,1,imaging
+372621,mri - wrist (left,1,imaging
+372622,mri - wrist (one side) without contrast,1,imaging
+372623,mri - wrist (right side,1,imaging
+372624,mri - wrist (right,1,imaging
+372626,mri - wrist - (unilateral,1,imaging
+372627,mri - wrist(left,1,imaging
+372628,mri - whole body scanning,1,imaging
+372632,mri - with out contrast,1,imaging
+372634,mri -ankle(right)c,1,imaging
+372635,mri -arm(left)c,1,imaging
+372636,mri -arm(right)c,1,imaging
+372637,mri -arthrogram any other joint,1,imaging
+372638,mri -ankle(left)c,1,imaging
+372639,mri -elbow(left)c,1,imaging
+372640,mri -foot(right)c,1,imaging
+372641,mri -foot(left)c,1,imaging
+372642,mri -forearm(left)c,1,imaging
+372643,mri -hand(right)c,1,imaging
+372644,mri -hip c-(right,1,imaging
+372645,mri -hand(left)c,1,imaging
+372646,mri -hip c-(left,1,imaging
+372647,mri -knee(right,1,imaging
+372648,mri -knee(left,1,imaging
+372649,mri -leg(unilateral,1,imaging
+372650,mri -pelvis c - - +,1,imaging
+372651,mri -shoulder,1,imaging
+372652,mri -shoulder elbow wrist,1,imaging
+372653,mri -shoulder(left,1,imaging
+372654,mri -shoulder(right,1,imaging
+372655,mri -thigh c,1,imaging
+372656,mri -wrist(right,1,imaging
+372657,mri ?????? ??????????,1,imaging
+372658,mri abd w/ con medium,1,imaging
+372659,mri abd w/o con medium,3,imaging
+372660,mri abdomen,4,imaging
+372661,mri abdomen without contrast,2,imaging
+372662,mri abdomen & pelvis,2,imaging
+372663,mri abdomen & pelvis (plain & contrast,1,imaging
+372664,mri abdomen & pelvis (plain,1,imaging
+372667,mri abdomen (adrenal glands protocol,3,imaging
+372669,mri abdomen (enteroclysis protocol,1,imaging
+372670,mri abdomen (enterography protocol,2,imaging
+372672,mri abdomen (kidneys protocol,2,imaging
+372674,mri abdomen (liver elastography protocol,2,imaging
+372675,mri abdomen (liver protocol,2,imaging
+372678,mri abdomen (mrcp: cholangiopancreatography protocol,3,imaging
+372680,mri abdomen (mrcp:cholangiopancreatography protocol,2,imaging
+372682,mri abdomen (pain in pregnancy protocol,2,imaging
+372683,mri abdomen (pancreas protocol,2,imaging
+372684,mri abdomen (plain,1,imaging
+372687,mri abdomen (w/ contrast,1,imaging
+372688,mri abdomen and pelvis,1,imaging
+372689,mri abdomen and pelvis w contrast,1,imaging
+372690,mri abdomen angiography (mra & mrv) with contrast,1,imaging
+372691,mri abdomen angiography (mra & mrv) without contrast,1,imaging
+372692,mri abdomen angiography (mrv) with contrast,1,imaging
+372693,mri abdomen angiography (mrv) without contrast,1,imaging
+372694,mri abdomen c-/+,1,imaging
+372695,mri abdomen dynamic study,1,imaging
+372696,mri abdomen mra/mrv+c,1,imaging
+372697,mri abdomen mrcp,1,imaging
+372698,mri abdomen mrcp/mrv+c,1,imaging
+372699,mri abdomen or pelvis or mrcp,1,imaging
+372700,mri abdomen triphasic for liver & pancrease,1,imaging
+372701,mri abdomen w/dye,1,imaging
+372702,mri abdomen w/o & w/dye,1,imaging
+372703,mri abdomen w/o dye,1,imaging
+372704,mri abdomen with contrast,3,imaging
+372706,mri abdomen with diffusion,1,imaging
+372708,mri abdomen(plain,1,imaging
+372709,mri abdomen(w/contrast,1,imaging
+372711,mri abdominal aorta,1,imaging
+372712,mri abdominal wall & chest wall,1,imaging
+372713,mri abdomino-pelvis with contrast -w/o price of contrast,1,imaging
+372714,mri adbomen,1,imaging
+372715,mri additional contrast,1,imaging
+372716,mri additional organ,1,imaging
+372717,mri additional organ(303004,1,imaging
+372718,mri additional print,1,imaging
+372719,mri adrenal glands,1,imaging
+372720,mri anal canal with contrast,1,imaging
+372721,mri anesthesia with recovery,1,imaging
+372722,mri angio abdom w orw/o dye,1,imaging
+372723,mri angio chest w or w/o dye,1,imaging
+372724,mri angio for brain (intracranial,1,imaging
+372725,mri angiography,1,imaging
+372726,mri angiography abdomen,1,imaging
+372727,mri angiography charge,1,imaging
+372728,mri angiography head neck,2,imaging
+372729,mri angiography head & neck,1,imaging
+372731,mri angiography lower extermity,1,imaging
+372732,mri angiography lower extremity,1,imaging
+372733,mri angiography pelvis,1,imaging
+372734,mri anke (1 side,1,imaging
+372735,mri anke both,1,imaging
+372736,mri ankel,1,imaging
+372737,mri ankel joint,1,imaging
+372738,mri ankle,2,imaging
+372739,mri ankle ( right,1,imaging
+372740,mri ankle (1 side,1,imaging
+372741,mri ankle (left side,1,imaging
+372742,mri ankle (left,1,imaging
+372743,mri ankle (one side,2,imaging
+372744,mri ankle (right side,1,imaging
+372745,mri ankle (right,1,imaging
+372746,mri ankle + contrast,1,imaging
+372747,mri ankle - left,1,imaging
+372748,mri ankle - right,1,imaging
+372749,mri ankle - unilateral,1,imaging
+372750,mri ankle bilateral,1,imaging
+372751,mri ankle c- (one sides,1,imaging
+372752,mri ankle c-/+ (one sides,1,imaging
+372753,mri ankle joint,3,imaging
+372754,mri ankle joint (both sides,1,imaging
+372755,mri ankle joint (one side,1,imaging
+372756,mri ankle joint w/dye,1,imaging
+372757,mri ankle joint w/o dye,1,imaging
+372759,mri ankle unilateral,1,imaging
+372760,mri ankle w/o & w/ contrast,1,imaging
+372761,mri ankle w/o contrast,1,imaging
+372762,mri ankle with contrast,1,imaging
+372763,mri ankle with contrast w/ contrast material,1,imaging
+372764,mri ankle without contrast,1,imaging
+372765,mri ankle(one side,1,imaging
+372766,mri ankle/foot,1,imaging
+372767,mri ankle/foot with contrast,1,imaging
+372768,mri ano-rectal pre & post contrast,1,imaging
+372769,mri anorectal region,1,imaging
+372770,mri any area,1,imaging
+372771,mri any area organ,1,imaging
+372772,mri any bart of the body,1,imaging
+372773,mri any body part with & without contrast,2,imaging
+372774,mri any body part with and without contrast,2,imaging
+372775,mri any joint with intra-articular contrast,2,imaging
+372777,mri any long bone,1,imaging
+372778,mri any musculo skeletal exam with contrast,1,imaging
+372779,mri any part of body - with contrast,1,imaging
+372780,mri any part of body - without contrast,1,imaging
+372781,mri any part of the body,1,imaging
+372782,mri any part of the body w/without contrast,7,imaging
+372783,mri any part of the body with or without contrast,1,imaging
+372784,mri any part or organ,1,imaging
+372785,mri any part w/o contrast,1,imaging
+372786,mri any part with contrast,2,imaging
+372787,mri any part without contrast,2,imaging
+372788,mri any region,1,imaging
+372789,mri any region with out contrast,1,imaging
+372790,mri arm,2,imaging
+372791,mri arm (1 side,1,imaging
+372792,mri arm (humerus) c- (one sides,1,imaging
+372793,mri arm (left side,1,imaging
+372794,mri arm (right side,1,imaging
+372795,mri arm ; w/o contrast material,1,imaging
+372796,mri arm w contrast,1,imaging
+372797,mri arm w/dye,1,imaging
+372798,mri arm w/o dye,1,imaging
+372799,mri arm with contrast,2,imaging
+372800,mri arm(one side,1,imaging
+372802,mri arthrogram hip (left side,1,imaging
+372803,mri arthrogram hip (right side,1,imaging
+372805,mri arthrogram knee (left side,1,imaging
+372806,mri arthrogram knee (right side,1,imaging
+372807,mri arthrogram shoulder (left side,1,imaging
+372808,mri arthrogram shoulder (right side,1,imaging
+372810,mri arthrogram wrist (left side,1,imaging
+372811,mri arthrogram wrist (right side,1,imaging
+372812,mri arthrography with contrast,2,imaging
+372815,mri abdomen w/ + w/o contrast,1,imaging
+372816,mri abdomen w/ contrast,1,imaging
+372817,mri abdomen w/o contrast,1,imaging
+372818,mri all spine,1,imaging
+372821,mri ankle - lt w & w/o contrast,1,imaging
+372822,mri ankle -rt w & w/o contrast,1,imaging
+372823,mri ankle left,1,imaging
+372824,mri ankle lt,1,imaging
+372825,mri ankle rt,1,imaging
+372827,mri ankle joint without contrast,1,imaging
+372828,mri any part of body or organ with/ without contras,1,imaging
+372829,mri any part with constrast,1,imaging
+372832,mri any parts without contrast,1,imaging
+372835,mri both ankles,1,imaging
+372836,mri both breast with contrast,1,imaging
+372837,mri both breasts,1,imaging
+372838,mri both feet,1,imaging
+372839,mri both hip joints,1,imaging
+372840,mri both knees,1,imaging
+372841,mri brachial plexus,2,imaging
+372842,mri brachial plexus c-/+,1,imaging
+372844,mri brain with contrast,5,imaging
+372845,mri brain & cpas,1,imaging
+372846,mri brain & mra,1,imaging
+372847,mri brain & mrv,1,imaging
+372848,mri brain & orbit,1,imaging
+372849,mri brain & orbits,1,imaging
+372851,mri brain (quick=dwi/adc) stroke protocol,2,imaging
+372853,mri brain (w/ contrast)ِ,1,imaging
+372854,mri brain + mra,1,imaging
+372855,mri brain + mra +mrv,1,imaging
+372856,mri brain + mrv,1,imaging
+372857,mri brain + perfusion,1,imaging
+372858,mri brain +spectroscopy +perfusion,1,imaging
+372859,mri brain and angiography (mra,1,imaging
+372860,mri brain and cervical,1,imaging
+372861,mri brain and orbits,1,imaging
+372862,mri brain and venography (mrv,1,imaging
+372863,mri brain angiography,1,imaging
+372864,mri brain angiography (mra & mrv) with contrast,1,imaging
+372865,mri brain angiography (mra & mrv) without contrast,1,imaging
+372866,mri brain angiography (mra,1,imaging
+372867,mri brain angiography (mra) with contrast,1,imaging
+372868,mri brain angiography (mra) without contrast,1,imaging
+372869,mri brain angiography (mrv,1,imaging
+372870,mri brain angiography (mrv) with contrast,1,imaging
+372871,mri brain angiography (mrv) without contrast,1,imaging
+372872,mri brain c,1,imaging
+372873,mri brain c-/+,1,imaging
+372874,mri brain cpas with contrast,1,imaging
+372875,mri brain csf flow protocol,2,imaging
+372877,mri brain demyelination protocol,1,imaging
+372878,mri brain epilepsy protocol,1,imaging
+372879,mri brain iam with contrast,1,imaging
+372880,mri brain ms protocol,1,imaging
+372881,mri brain navigation,1,imaging
+372882,mri brain perfusion (only,1,imaging
+372883,mri brain perfusion protocol,1,imaging
+372884,mri brain pituitary gland protocol,1,imaging
+372885,mri brain posterior fossa protocol,1,imaging
+372886,mri brain spectroscopy (mrs) protocol,1,imaging
+372887,mri brain stroke protocol,1,imaging
+372888,mri brain trauma protocol,1,imaging
+372889,mri brain trigeminal neuralgia protocol,1,imaging
+372890,mri brain venography,1,imaging
+372891,mri brain w contrast,1,imaging
+372892,mri brain w diffusion and perfusion (stroke study,1,imaging
+372893,mri brain w/ con medium,3,imaging
+372894,mri brain w/ contrast,1,imaging
+372895,mri brain w/dye - including brain stem,1,imaging
+372896,mri brain w/dye- including brain stem and skull base,1,imaging
+372897,mri brain w/mra & mrv,1,imaging
+372898,mri brain w/o & w/dye - including brain stem,1,imaging
+372899,mri brain w/o & w/dye- including brain stem and skull base,1,imaging
+372900,mri brain w/o & with contrast,1,imaging
+372901,mri brain w/o contrast,1,imaging
+372902,mri brain w/o dye - brain stem & skull base,1,imaging
+372903,mri brain w/o dye - including brain stem,1,imaging
+372904,mri brain with & without contrast,1,imaging
+372905,mri brain with cervical region,1,imaging
+372907,mri brain with contrast (standard protocol,2,imaging
+372910,mri brain with diffusion,1,imaging
+372911,mri brain with diffusion and perfusion,1,imaging
+372912,mri brain with mrs,1,imaging
+372913,mri brain without contrast,4,imaging
+372914,mri brain without contrast (standard protocol,3,imaging
+372917,"mri brain, mra & mrv",1,imaging
+372918,"mri brain,w o contrast,brain w c,facial bone tmj",1,imaging
+372920,mri brain; w/ contrast,1,imaging
+372921,mri brain; w/o contrast,1,imaging
+372922,mri breast,3,imaging
+372923,mri breast -1,1,imaging

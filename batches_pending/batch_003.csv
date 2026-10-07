@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+123231,cmpst fill 3 srf w/lt cre,1,other
+123232,cmpst filling surface with lt cure,1,dental
+123233,cmr,1,other
+123234,cmri for cardiomyopathy,1,other
+123235,cmv,1,other
+123237,cmv i g g,2,lab_test
+123241,cmv ( igg,2,lab_test
+123242,cmv ( igm,4,lab_test
+123245,cmv ( igg )(mhl lab,1,lab_test
+123248,cmv (cytomegalovirus) - pcr,1,lab_test
+123249,cmv (cytomegalovirus) avidity abs - s.o,1,lab_test
+123250,cmv (cytomegalovirus) igg,1,lab_test
+123251,cmv (cytomegalovirus) igg-s.o,1,lab_test
+123252,cmv (cytomegalovirus) igm,1,lab_test
+123253,cmv (cytomegalovirus) pcr quant - s.o,1,lab_test
+123254,cmv (igg,2,lab_test
+123255,"cmv (igg,igm",1,lab_test
+123256,cmv (igm,2,lab_test
+123258,"cmv (igg) , serum",1,lab_test
+123260,cmv - i.g.g,1,lab_test
+123261,cmv - igg,3,lab_test
+123262,cmv - igm,2,lab_test
+123265,cmv - pcr,1,lab_test
+123266,cmv -i.g.g,1,lab_test
+123267,cmv .igg| cmv .igg,1,lab_test
+123268,cmv abs (igg,1,lab_test
+123269,cmv abs (igm,1,lab_test
+123270,cmv abs igm,2,lab_test
+123271,cmv abs igg,1,lab_test
+123273,cmv abs(igg,1,lab_test
+123274,cmv abs(igm,1,lab_test
+123275,cmv anti body screen,1,other
+123276,cmv antibodies igm,2,lab_test
+123277,cmv antibody (cytomegalovirus,2,lab_test
+123278,cmv antibody (cytomegalovirus) (igg,1,lab_test
+123279,cmv antibody (cytomegalovirus) (igm,1,lab_test
+123280,cmv antibody (cytomegalovirus)(520010,1,lab_test
+123281,cmv antibody avidity serum,1,lab_test
+123282,cmv antibody i.g.g,1,lab_test
+123283,cmv antibody i.g.m,1,lab_test
+123284,cmv antibody igm,1,lab_test
+123285,cmv ab (igm,1,lab_test
+123286,cmv abs [igg or igm] (for each test) - tat (72 hrs s.o,1,lab_test
+123287,cmv antibodies igg,1,lab_test
+123290,cmv antigenemia test,1,lab_test
+123291,"cmv cytomegalovirus, pcr",1,lab_test
+123292,cmv dna,1,lab_test
+123293,"cmv elissa titer, igg (cytomeg d",1,lab_test
+123294,"cmv elissa titer, igm (cytomeg d",1,lab_test
+123296,cmv iag,1,other
+123298,cmv igg (s,1,lab_test
+123300,cmv igg elecsys cobas e 100 (04784596190,1,lab_test
+123301,"cmv igg, igm",1,lab_test
+123303,cmv igm (s,1,lab_test
+123305,cmv iig (s,1,other
+123307,cmv igg ( cytomegalovirus,1,lab_test
+123308,cmv igg - cytomegalo virus ab - ?????,1,lab_test
+123309,cmv igg avidity - send out,1,lab_test
+123311,cmv igm ( cytomegalovirus,2,lab_test
+123313,cmv igm - 289,1,lab_test
+123314,cmv igm - cytomegalo virus ab - ?????,1,lab_test
+123315,cmv igm - cytomegalovirus,1,lab_test
+123316,cmv igm cytomegalovirus,1,lab_test
+123317,cmv pcr,1,lab_test
+123318,cmv pcr biopsy,1,procedure
+123319,cmv pcr quant tq,2,lab_test
+123321,cmv pcr tq,1,lab_test
+123322,"cmv, igg",1,lab_test
+123323,"cmv, igm",1,lab_test
+123324,"cmv,abs-igm",1,lab_test
+123325,cmv- igm,1,lab_test
+123326,cmv-i.g.g,2,lab_test
+123327,cmv-igg,2,lab_test
+123328,cmv-igm,3,lab_test
+123329,cmv-igm-5-16-120848,1,lab_test
+123332,cmv-direct diagnosis - pcr quantitative-{bm},1,lab_test
+123333,cmx/fggn/1/f,1,other
+123334,"cmyc by fish -- morphometric analysis, in situ hybridization (quantitative or semi-quantitative",1,lab_test
+123335,cn000194,1,other
+123336,cn0008006,1,other
+123337,cn001 er .gp physician,1,consultation
+123338,cn002 gp physician,1,consultation
+123339,cn003 specialist physician,1,consultation
+123340,cn004 dental consultation,1,dental
+123341,cn005 consultant physician,1,consultation
+123342,cn02966 pediatric fee senior consultant,1,consultation
+123343,cnsultation of dentist,1,consultation
+123344,cnsultation of e.r. & g.p,1,lab_test
+123345,cnsultation of oby. gyn,1,other
+123346,cnsultation pedia,1,other
+123354,co agulation figure,1,other
+123490,co light,1,other
+123505,co pan kids syroup,1,other
+123578,co- ci sound processor package (upgrade,1,other
+123600,co-5147-f-coach,1,other
+123601,co-6143-fcoach,1,other
+123632,co-amoxiclav iv infusion,1,supplies
+123634,co-anginet,1,other
+123658,co-anginet 80/12.5 30tab,1,other
+124187,co-diovan160\25,1,other
+124191,co-diovan320\12.5,1,other
+124192,co-divon 80/12.5m.g,1,other
+124194,co-insurance percentage payment,1,insurance
+124201,co-irbetel 150/12.5,1,other
+124215,co-irbetel 150/12.5( tier1,1,insurance
+124276,co-irbetel fc 150/12.5,1,other
+124279,co-irbetel fc 300/12.5,1,other
+124280,co-irbetel fc 300/12.5( tier1,1,insurance
+124291,co-mo run-f - como baby,1,other
+124412,co-pan cough syrp,1,other
+124421,co-pan kids(ivy leaf soft extract,1,procedure
+124441,co-renitec,1,other
+124443,co-ribex,2,other
+124461,"co-ribex 300,12.5",1,other
+124491,co-ribex 150/12.5,1,other
+124495,co-ribex 300/12.5,2,other
+124498,co-ribex blister (28) (303210582,1,supplies
+124499,co-ribex blister (28) (303210583,1,supplies
+124500,co-ribex blister (28) (303210584,1,supplies
+124870,co-tabuvan160/12.5,1,other
+124875,co-tabuvan160/12.5valsartanhydrochloroti,1,other
+124876,co-tabuvan160/25,1,other
+124887,co-valista,3,other
+124956,co-vco188-f - converse,1,other
+124971,co.spisalit,1,other
+124972,co2 ( serum carbon dioxide,1,lab_test
+124974,co2,1,other
+124975,co2 /hour,1,other
+124976,co2 /hour-11-8-904,1,other
+124977,co2 detector,1,other
+124978,"co2 detector (end tidal), pedia",1,other
+124979,co2 fractional laser -per session,1,physiotherapy
+124980,co2 insafflation tubings#15mm,1,other
+124981,co2 mask,1,supplies
+124982,co2 monitor,1,other
+124983,co2 observation,1,consultation
+124984,co2 samplining line 7'(2.13m) male to male #4507-7 salter lab 2734000,1,other
+124985,co6215,1,other
+124986,coach,1,other
+124987,coach - co-5147-f,1,other
+124993,coach opt 5102 ful mtl 52 9001 slv/blue w,1,eyewear
+124994,coach opt 5102 ful mtl 52 9331 rose/gld w,1,eyewear
+124995,coach6001 5053=2/2013 (00.00,1,other
+124996,coaggulation profile,1,lab_test
+124997,coagualtion time,1,other
+124998,coagulation,1,other
+124999,coagulation - profile,1,lab_test
+125000,coagulation assessment blood test,4,lab_test
+125001,coagulation correction study,1,consultation
+125002,"coagulation disorders, majc",1,inpatient
+125003,"coagulation disorders, minc",1,inpatient
+125004,coagulation factor assay,2,lab_test
+125005,coagulation factor assay each,1,lab_test
+125006,"coagulation factor assay, each",1,lab_test
+125007,"coagulation factor assay, each a",1,lab_test
+125008,"coagulation factor assay,each",1,lab_test
+125009,coagulation factor assayeach,1,lab_test
+125010,coagulation factor ii,1,lab_test
+125011,coagulation factor ii assay,1,lab_test
+125012,coagulation factor ix,1,lab_test
+125013,coagulation factor ix (9)assay,1,lab_test
+125015,coagulation factor ix assay,1,lab_test
+125016,coagulation factor v,1,lab_test
+125017,coagulation factor v assay,1,lab_test
+125018,"coagulation factor vii activity, clotting",1,lab_test
+125019,coagulation factor vii assay,1,lab_test
+125021,coagulation factor viii,1,lab_test
+125022,coagulation factor viii (human antihaemophilic fraction,1,lab_test
+125024,coagulation factor viii activity,1,lab_test
+125025,coagulation factor viii assay (von willebrand factor,1,lab_test
+125026,coagulation factor viii(8) assay,1,lab_test
+125027,coagulation factor x assay,2,lab_test
+125029,coagulation factor xi,1,lab_test
+125030,coagulation factor xi (11)assay,1,lab_test
+125031,coagulation factor xi assay,1,lab_test
+125032,coagulation factor xii (12)assay,1,lab_test
+125033,coagulation factor xii assay,1,lab_test
+125034,coagulation factor xiii assay,1,lab_test
+125035,coagulation for telangiectasia,1,other
+125036,coagulation mixing studies,1,consultation
+125037,coagulation of the bleeding bladder,1,lab_test
+125038,coagulation profile,2,lab_test
+125039,"coagulation profile ( prothrombin time, ptt, ct&fibrinogen",1,imaging
+125040,coagulation profile # 045-20123,1,lab_test
+125041,coagulation profile ( ptpttinr,1,lab_test
+125042,coagulation profile - complete,3,lab_test
+125043,coagulation profile - complete (pt / ptt / inr,1,lab_test
+125045,coagulation profile complete,1,lab_test
+125046,coagulation profile complete (pt ptt bt ct,1,imaging
+125047,coagulation profile complete (pt ptt ct,1,imaging
+125048,"coagulation profile complete (pt, ptt, ct",1,imaging
+125049,coagulation profile complete pt ptt ct,1,imaging
+125050,coagulation profile-complete,1,lab_test
+125051,coagulation screen (pt ptt fib,1,lab_test
+125052,coagulation study,1,consultation
+125053,coagulation study - 333-40208,1,consultation
+125054,coagulation study s -(send-out tests,1,lab_test
+125055,coagulation time,3,other
+125056,coagulation time (ct,1,imaging
+125057,coagulation time c.t,1,imaging
+125058,coagulation time measurement,2,other
+125059,"coagulation time, lee and white",1,other
+125060,coagulation time; lee and white,1,other
+125061,coagulationgulation factor (x) assay,1,lab_test
+125062,coagulationgulation factor ix assay,1,lab_test
+125063,coagulationgulation factor viii assay,1,lab_test
+125064,coagulationgulation factor viii-vwf assay,1,lab_test
+125074,coaprovel,1,other
+125097,coaprovel 150/12.5,1,other
+125114,coaprovel 150x125mg 28tab,1,other
+125128,coaprovel 300/12.5,1,other
+125145,"coarctation repair, end to end, extend",1,procedure
+125146,coarse cancellous 30cc-community tisssue #1103-12,1,other
+125148,coartication balloon,1,supplies
+125150,coated ballloon with cath diff sizes (balton )-inma,1,supplies
+125156,cobal 30tab,1,other
+125269,cobal500mcgtab(b/30,1,other
+125270,cobal500ug30tab,1,other
+125271,cobalt (s)&(u,1,other
+125272,cobalt - whole blood - s.o,1,lab_test
+125273,"cobalt, serum cd68 s/o un",1,lab_test
+125274,cobbelte kids frm 6004 c69,1,eyewear
+125275,cobbelti - co5002,1,other
+125276,cobbelti - co7009,1,other
+125277,cobbelti - co7010,1,other
+125278,cobbelti - co7025,1,other
+125279,cobbelti - co3005,1,other
+125280,coblated adenoidectomy,2,procedure
+125282,coblated adenotonsillectomy,2,procedure
+125284,coblation adeno tonsillectomy,1,procedure
+125285,coblation adenoidectomy,1,procedure
+125286,coblation adenotonsillectomy,1,procedure
+125287,coblation assisted adenoidectomy - 1 day pkg,1,procedure
+125288,coblation assisted inferior turbinoplasty (unilateral) - 1 day pkg,1,procedure
+125289,coblation assisted tonsillectomy - 1 day pkg,1,procedure
+125290,coblation assisted tonsillectomy pkg deal,1,procedure
+125291,coblation assisted turbinectomy - 1 day pkg,1,procedure
+125292,coblation assisted turbinectomy pkg deal,1,procedure
+125293,coblation assisted turbinoplasty- (p.d,1,procedure
+125294,coblation assisted upper airway procedure (caup) - 1 day pkg,1,supplies
+125295,coblation charges ( additional to procedure price,1,consultation
+125296,coblation inferior turbinates reduction,1,procedure
+125297,coblation stiffening of soft palate with upp,1,other
+125298,coblation t & a,1,other
+125299,coblation tonsillectomy,1,procedure
+125300,coblation tonsillectomy-adult,1,procedure
+125301,coblation tonsillectomy/child,1,procedure
+125302,coblation turbinoplasty,1,procedure
+125303,coblation wand 90 ambient super turbovac with integrated finger switch (ifs) shaft size 3.75mm disposable/single use,1,supplies
+125304,"coblation wand, flow 90, werewolf, smith and nephew, 72290038",1,other
+125305,coblation-tonsillectomy child,1,procedure
+125306,"coblator 2, handpiece, sterile, plasma wand, reflex ultra 55, arthrocare, eic 4855-01",1,lab_test
+125307,coblator charges,1,other
+125308,"coblator plasma prop ent #pla 401,mechan",1,lab_test
+125309,"coblator, evac 70 ,bonss , ac401(a5874",1,other
+125310,"coblator, evac 70 ,kmb china , pla 401",1,other
+125312,cocaine,1,other
+125313,cocaine (urine,1,lab_test
+125314,coccy& sacral spines a.p&lateral,1,lab_test
+125315,coccy& sacral spines lateral,1,imaging
+125317,coccysacral spin 2 views,1,imaging
+125318,coccyx,2,other
+125319,coccyx 2 views,8,imaging
+125320,coccyx & sacrum (2,2,other
+125321,coccyx & sacrum 1f x-ray,1,imaging
+125322,coccyx & sacrum 2 f,1,other
+125323,coccyx & sacrum 2 view,1,imaging
+125324,coccyx & sacrum 3f,1,other
+125325,coccyx & sacrum ap&lat 2f,1,imaging
+125326,coccyx & sacrum(2,1,other
+125327,coccyx ( one view,1,supplies
+125328,coccyx ( two view,2,imaging
+125329,coccyx (1 view,1,imaging
+125330,coccyx (2 views,1,imaging
+125331,coccyx (ap+lat,2,imaging
+125334,coccyx - 2 views ap/lat,1,imaging
+125335,coccyx - 2v,1,imaging
+125336,coccyx / sacrum 2 views,2,imaging
+125337,coccyx 1v,1,imaging
+125340,coccyx 2 views-1327,1,imaging
+125342,coccyx 2v,1,imaging
+125343,coccyx 3v,1,imaging
+125344,coccyx 4v,1,other
+125345,coccyx ?2 views,1,imaging
+125346,coccyx ap & lat,1,imaging
+125347,coccyx ap & lateral,1,imaging
+125348,coccyx ap - lat,1,imaging
+125349,coccyx ap / lat,1,imaging
+125350,coccyx ap lat,1,imaging
+125351,coccyx ap&lateral,1,imaging
+125352,coccyx ap/lat,3,imaging
+125355,coccyx one position,1,supplies
+125356,coccyx two view,1,imaging
+125357,coccyx x- ray 2 views,1,eyewear
+125358,coccyx xr views 2,1,imaging
+125359,coccyx xray,1,imaging
+125360,coccyx& sacrum 2f/ ap. lat,1,imaging
+125361,coccyx&sacrum 3f,1,other
+125362,coccyx(2) view,2,imaging
+125363,coccyx(ap+lat,1,imaging
+125364,coccyx-1f,1,other
+125365,coccyx-ap & lat,1,imaging
+125366,cochlear implant,1,supplies
+125367,cochlear implant programming /unit,1,supplies
+125368,cochlear implant surgery,1,supplies
+125369,cochlear implant surgery & unilateral - 3 days pkg,1,supplies
+125370,cochlear nucleus 8 cp-1110 - per each,1,other
+125371,cochlear nucleus profile ci522 implant internal part cp900 sound processor n6 - per kit,1,lab_test
+125372,cock-up wrist splint 10* (mafsal,1,supplies
+125373,"cock-up wrist splint 10* (mafsal), conwell taiwan",1,supplies
+125378,coda,1,other
+125379,codan spike 16.5260,1,other
+125380,codan swan lock 16.5267,1,other
+125381,code blue,2,other
+125382,code blue ( cpr ) service,1,other
+125383,code blue - er,1,other
+125384,code blue / cardiopulmonary resuscitation,1,procedure
+125385,code blue activation,2,other
+125386,code blue c.p.r resuscitation procedure w/out use of defibrillator,1,procedure
+125387,code blue c.p.r resuscitation procedure with defibrillator,1,procedure
+125388,code blue call,1,other
+125389,code blue on the ward,1,other
+125390,code blue team - call only,1,other
+125394,code yellow,2,other
+125395,code yellow consultation,1,consultation
+125401,codiovan,1,other
+125403,codiovan 160 +25,1,other
+125410,codiovan 160/25,1,other
+125419,codiovan 160x125mg 28tab,1,other
+125420,codiovan 160x25mg 28tab,1,other
+125423,codiovan 320x25mg 28tab,1,other
+125425,codiovan 80/12.5,1,other
+125430,codiovan 80x125mg 28tab,1,other
+125432,codman cranio blade,1,supplies
+125433,codman csf external drainage system,1,procedure
+125434,codman disposable perforator,1,supplies
+125435,codman sur.marker std.tip,1,other
+125436,codman surgical patties,1,procedure
+125437,codman surgical patties 1 x 1 # 801403,1,procedure
+125438,codman surgical skin marker 43-1030 j&j,1,procedure
+125439,codman surgical patties 1/2 x 1/2 # 801400,1,procedure
+125440,codmatic stitches& anasth.(1,1,procedure
+125441,coeliac plexus block,1,procedure
+125443,coenzyme q10 - jamieson q10 ubiquinone-30 soft gels (r092,1,other
+125445,coenzyme q10 - s.o,1,lab_test
+125447,cofspan,1,other
+125456,cofspan syp100ml,1,other
+125470,cognitive adult follow-up,1,consultation
+125471,cognitive adult new follow-up,1,consultation
+125472,cognitive adult new patient,1,other
+125473,cognitive and/or behavioural assessment moca,1,consultation
+125474,cognitive and/or behavioural therapy [cbt,3,physiotherapy
+125475,cognitive behavior therapy,1,physiotherapy
+125476,cognitive behavioral theraphy session,1,physiotherapy
+125477,cognitive behavioral therapy,1,physiotherapy
+125478,cognitive behavioural therapy/session,1,physiotherapy
+125479,cognitive skills assessment computerized dysphasia test,1,lab_test
+125480,cognitive test by hc pro,1,lab_test
+125481,cognitive theraphy session,1,physiotherapy
+125482,cognitive therapy(4 session,2,physiotherapy
+125483,cognitive therapy(per session) development.ther.for ment.ret,2,physiotherapy
+125484,cognitive_linguistic evaluation,1,consultation
+125488,coherrent tomography (o.c.t ) one eye,2,supplies
+125489,cohesive bandage 7.5 cm *4.5 m focus first step,1,supplies
+125493,cohex mouth wash,1,procedure
+125497,coil azur pushable hydrogel 0.035 8mmx14cm #45-250814,1,other
+125498,coil detachable axium 3d (various sizes) - per each,1,other
+125499,coil detachable concerto nyelon helical (various sizes) - per each,1,other
+125500,coil detachable nexus helix super soft csr 10mm 30cm x-10-30-t10-hss,1,other
+125501,coil detachable system nv730helix medtronic,1,supplies
+125502,coil detachable target (various sizes) - per each,1,other
+125503,coil embolization (multiple vessel,1,procedure
+125504,coil embolization (multiple vessel) by interventional radiologist - 2 days pkg,1,procedure
+125505,coil embolization (single vessel,1,procedure
+125506,coil embolization (single vessel) by interventional radiologist - 2 days pkg,1,procedure
+125507,coil embolization 4cm x 3mm imwce,1,procedure
+125508,coil embolization x 1 coil (coil not included,1,procedure
+125509,coil target 360 soft 3mm x 6cm stryker # m0035473060,1,other
+125510,"coil, embolization, endovascular, 9mm x 33cm, microplex 10, 100933cssr-v",1,procedure
+125511,coiled tube for ct scan,1,imaging
+125513,col1350/c1/f,1,eyewear
+125514,col2001/c5/f,1,eyewear
+125515,col2002/c1/f,1,eyewear
+125516,col2002/c2/f,1,eyewear
+125517,col2002/c3/f,1,eyewear
+125518,col2002/c4/f,1,eyewear
+125519,col2002/c5/f,1,eyewear
+125520,col2003/c4/f,1,eyewear
+125521,col2005/c2/f,1,eyewear
+125522,col2005/c3/f,1,eyewear
+125523,col2005/c4/f,1,eyewear
+125524,col2007/c2/47,1,eyewear
+125525,col2007/c3/47,1,eyewear
+125526,col2007/c5/47,1,eyewear
+125527,col2015/c3/49,1,eyewear
+125528,col2019/c1/47,1,eyewear
+125529,col2019/c2/47,1,eyewear
+125530,col2019/c3/47,1,eyewear
+125531,col2019/c4/47,1,eyewear
+125532,col2019/c6/47,1,eyewear
+125533,col2033/c1/46,1,eyewear
+125534,col2033/c2/46,1,eyewear
+125535,col2033/c3/46,1,eyewear
+125536,col2033/c4/46,1,eyewear
+125537,col2033/c5/46,1,eyewear
+125538,col2033/c6/46,2,eyewear
+125539,col2035/c1/49,1,eyewear
+125540,col2035/c2/49,1,eyewear
+125541,col2035/c3/49,1,eyewear
+125542,col2035/c4/49,1,eyewear
+125543,col2035/c6/49,1,eyewear
+125544,colat,1,other
+125612,cold & hot pack 11x19cm eye mask with cover,1,supplies
+125613,cold - veno,1,other
+125614,cold / hot pack,1,supplies
+125615,cold / warm compress,1,supplies
+125616,cold aggl.titre,1,other
+125617,cold agglatinins,1,other
+125618,cold agglutinins,2,other
+125619,cold agglutinins - s.o,1,lab_test
+125620,cold agglutinins screening,1,lab_test
+125621,cold agglutinins titer,1,lab_test
+125622,cold agglutinins titre,2,other
+125623,cold agglutinins(504012,1,other
+125624,cold agglutins,1,other
+125625,cold auto abs agglutining,1,lab_test
+125626,cold auto abs/agglutinins,1,lab_test
+125627,cold back,1,other
+125628,cold cauthary,1,other
+125629,cold comenor,1,other
+125630,cold comp,1,other
+125631,cold comperess,2,other
+125632,cold compres tsb,1,other
+125633,cold compres tsb (17929,1,other
+125634,cold compres tsb(01002,1,other
+125635,cold compres.tsb,1,other
+125636,cold compress,5,supplies
+125637,cold compress & tepid sponging - service charge,1,supplies
+125638,cold compress (plain,2,supplies
+125639,cold compress - 66,1,supplies
+125640,cold compress - er,1,supplies
+125641,cold compress 1,1,supplies
+125642,cold compress ???? ???????,1,supplies
+125643,cold compress instant-per pcs,1,supplies
+125644,cold compress \ hot pack + er fee (tepid sponge bath,1,supplies
+125645,cold compress-service charge,1,supplies
+125646,cold compress/h,1,supplies
+125648,cold compresses,3,supplies
+125649,cold compresses (sfv,1,supplies
+125652,cold fomantation,1,other
+125653,cold foment,2,other
+125654,cold fomentation,3,other
+125655,cold fomitt - كمادات باردة,1,other
+125656,cold hot packs,2,supplies
+125658,cold ice,1,other
+125659,cold ice compress,1,supplies
+125660,cold or hot pack therapy,1,physiotherapy
+125663,cold pack + ex,1,supplies
+125664,cold pack a,1,supplies
+125665,cold pack application,1,supplies
+125667,cold packs,4,supplies
+125668,cold packs (cryotherapy,2,supplies
+125669,cold packs (ice packs,1,supplies
+125671,cold peel (large area,1,other
+125672,cold peel (small area,1,other
+125673,"cold snare 10mm, 230cm cs3-11023230 zkzk/micro-teck",1,other
+125674,cold snare 15mmx230cm disposable #vdk-cs-23-230-15c3,1,supplies
+125675,cold snare polypecotmy disposable,1,supplies
+125676,cold spong,1,other
+125677,cold sponge,2,supplies
+125685,cold sponges / sitz path,1,supplies
+125686,cold sponges /sitz bath,2,supplies
+125687,cold sponges/ sitz bath,1,supplies
+125689,cold sponging,3,other
+125690,cold therapy,1,physiotherapy
+125691,coldwarm compress,1,supplies
+125692,cole,1,other
+125693,colecalciferol,1,other
+125698,colecalciferol 10000 i.u,1,lab_test
+125712,colectomy (hemi,1,procedure
+125713,colectomy - total,1,procedure
+125714,colectomy - transverse,1,procedure
+125715,colectomy and end to end anastomosis of colon to colon nec,1,procedure
+125716,"colectomy, partial, with anastomosis-pkg",1,procedure
+125717,"colectomy, partial;abdominal and transanal approach",1,procedure
+125718,"colectomy, partial;with coloproctostomy (low pelvic anastomosis",1,procedure
+125719,"colectomy, partial;with resection, with colostomy or ileostomy and cre",1,procedure
+125720,"colectomy, total, abdominal",1,procedure
+125721,colestyramine (cholestyramine,1,other
+125726,colgate t/b compact head 360 medium(3800,1,other
+125727,colgate t/b zigzag soft(4936,1,other
+125730,coli urinal eff,3,other
+125733,coli urinal effer granu,1,other
+125737,coli urinal granl,1,other
+125747,coli-urinal,3,other
+125761,coli-urinal eff,3,other
+125763,coli-urinal eff gran,2,other
+125777,coli-urinal eff.gr,1,other
+125778,coli-urinal eff.gr. 1,1,other
+125783,coli-urinal effer granu,2,other

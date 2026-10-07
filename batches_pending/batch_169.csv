@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+367066,misc - timar sep8/cat6,1,other
+367067,misc - x-ray additional view,1,imaging
+367068,"misc body fluids , cell count w/differential count",4,lab_test
+367070,"misc metabolic disorders, intc",1,other
+367071,"misc metabolic disorders, majc",1,inpatient
+367072,"misc metabolic disorders, minc",1,inpatient
+367073,"misc pr infc/infm bne/jnt,intc",1,other
+367074,"misc pr infc/infm bne/jnt,majc",1,inpatient
+367075,"misc pr infc/infm bne/jnt,minc",1,inpatient
+367076,misc%20body%20fluids%20%2c%20cell%20count%20%20w/differential%20count,1,other
+367077,miscarriage - d&c and biopsy,1,procedure
+367078,miscelaneous abscess at face (large,1,procedure
+367079,miscelaneous abscess at face (medium,1,procedure
+367080,miscelaneous abscess at face (small,1,procedure
+367081,miscelaneous foreign body extraction at finger/toe,1,dental
+367082,miscelaneous foreign body in other places,1,other
+367083,miscelaneous lymph node excision,1,procedure
+367084,miscelaneous lymph node excision (2nd operation 50%,1,procedure
+367085,miscelaneous mucous cyst (small,1,other
+367086,miscelaneous stitch sinus,1,procedure
+367087,miscell disp for major operation,1,procedure
+367088,miscell disp for medium operation,1,procedure
+367089,miscell disp for minor operation,2,procedure
+367091,miscellaneous body fluids cell count,2,lab_test
+367092,miscellaneous drugs,1,other
+367093,miscellaneous supplies - sponges,1,supplies
+367094,miscellaneous support,1,supplies
+367095,miscelleneous disposables,1,other
+367096,miscellenous disposables,1,other
+367097,misk intimate wipes,1,supplies
+367108,misoprostol 200 μg,1,other
+367113,miss - mis339c014,1,eyewear
+367115,miss sixty,1,eyewear
+367117,miss sixty/mx0272/130/f,1,eyewear
+367118,miss sixty/mx0276/753/f,1,eyewear
+367119,miss sixty/mx0279/m56/f,1,eyewear
+367120,miss sixty/mx0328/045/f,1,eyewear
+367121,miss sixty/mx0333/045/f,1,eyewear
+367122,miss sixty/mx0338/003/f,1,eyewear
+367123,miss sixty/mx0342/048/f,1,eyewear
+367124,miss sixty/mx0376/047/f,1,eyewear
+367125,miss sixty/mx0376/068/f,1,eyewear
+367126,miss sixty/mx0378/066/f,1,eyewear
+367127,miss sixty/mx0379/001/f,1,eyewear
+367128,miss sixty/mx0390/008/f,1,eyewear
+367129,miss sixty/mx0390/016/f,1,eyewear
+367130,miss sixty/mx213/323/f,1,eyewear
+367131,miss sixty/mx229/g59/f,1,eyewear
+367132,miss sixty/mx265/130/f,1,eyewear
+367133,miss sixty/mx266/b5/f,1,eyewear
+367134,miss sixty/mx267/226/f,1,eyewear
+367135,miss sixty/mx277/757/f,1,eyewear
+367136,miss sixty/mx281/l63/f,1,eyewear
+367137,miss sixty/mx326/072/f,1,eyewear
+367138,miss sixty/mx336/081/f,1,eyewear
+367139,miss.intraurine dev.for remov,1,eyewear
+367140,miss.intraurine dev.for remov. with anesthesia,1,eyewear
+367141,missed i.u.c.d. removal under ga,1,procedure
+367142,"missed loop , using uterine",1,other
+367143,mission disposable core biopsy 18gx16cm bard #1816 msk,1,dental
+367149,missoni/mi065/03/51/f,1,other
+367150,missoni/mi065/04/51/f,1,other
+367151,missoni/mi094/01/53/f,1,other
+367152,missoni/mi094/04/53/f,1,other
+367153,missoni/mi109/01/51/f,1,other
+367154,missoni/mi171/02/53/f,1,other
+367158,mit (ordinary,1,other
+367159,mitaral ballon valvoplasty,1,procedure
+367160,mitek suture - per pcs,1,supplies
+367161,"mitochondria autoantibodies, serum",2,lab_test
+367162,mitochondrial ab,2,lab_test
+367163,mitochondrial abs,5,lab_test
+367164,mitochondrial abs & anti-smooth,2,lab_test
+367165,mitochondrial abs subtype 2,1,lab_test
+367166,mitochondrial abs+anti-smooth @,1,lab_test
+367167,mitochondrial abs-m2,1,lab_test
+367170,mitochondrial abs. d,1,lab_test
+367171,mitochondrial abs. qual. s,1,lab_test
+367172,mitochondrial abs.&anti-smooth,1,lab_test
+367173,mitochondrial antibodies,1,lab_test
+367174,mitochondrial antibodies ( ama,1,lab_test
+367175,mitochondrial antibodies-5-6-120228,1,lab_test
+367176,mitochondrial antibody,1,lab_test
+367177,mitochondrial antibody serum,1,lab_test
+367178,mitochondrial antibody(520062,1,lab_test
+367179,mitochondrial genome - s.o,1,lab_test
+367180,mitochonorial abs + anti - smooth,1,lab_test
+367181,mitochonorial abs anti - smooth,1,lab_test
+367182,mitocondrial antibody,1,lab_test
+367199,mitraclip percutaneous replacement of mitral valve (including mitraclip g4) los 2 days (ccu,1,consultation
+367200,mitral mechanical valve,2,other
+367201,mitral mechanical valve replacement excluding valve,1,other
+367202,mitral valve,1,other
+367203,mitral valve / mechanical,1,other
+367204,mitral valve repair (without prosthesis) - 14 days pkg (5 icu + 9 ward,1,supplies
+367205,mitral valve repair/ replacemnt/ ablatio,1,procedure
+367206,mitral valve replacement (mechanical,1,other
+367207,mitral valve replacement (three hours,1,other
+367208,mitral valve replacement (without prosthesis) - 14 days pkg (5 icu + 9 ward,1,supplies
+367209,mitral valve replacement or repair,2,procedure
+367210,mitral valve replacement or repair (without valve,1,procedure
+367211,mitral valve replacement without prothesis,1,other
+367212,mitral valvuloplasty ( percutaneous,1,procedure
+367213,mitral valvuloplasty (percutaneous) - 1 day pkg,1,procedure
+367214,mitral and tricuspid valve repair (with ring,1,procedure
+367215,mitrl valve replacement (one valve,1,supplies
+367216,mitrochondrial ab,1,lab_test
+367217,"mitten, medical restraint, finger&hand, padded seperator, deroyal, 082-m2023-a / m2034",2,other
+367219,mittens restarint gloves(hand holder) universal bx/1,1,supplies
+367220,miu miu,2,other
+367221,miu miu fm mod 15dv col 7bm/10,1,eyewear
+367222,miu miu m - 1miuvmu01oubb,1,other
+367223,miu miu opt 01q ful pls 52 rok/101 blk/gld w,1,eyewear
+367224,miu miu opt 50q ful mtl 50 1ab-1o1 blk/gld w,1,eyewear
+367225,miu miu opt 50s hav mtl 55 150-1o1 slv/wht w,1,eyewear
+367226,miu miu opt 51r ful mtl 52 r1j-1o1 red/gld w,1,eyewear
+367227,miu miu opt 52s ful mtl 54 aav-101 gld/blk w,1,eyewear
+367228,miu miu opt 53o ful mtl 50 uf0-1o1 gld w,1,eyewear
+367229,miu miu opt 53q ful mtl 50 1ab-1o1 gld/blk w,1,eyewear
+367230,miu miu optical,1,eyewear
+367231,miu miu optical - miuv07p 52 c3,1,eyewear
+367232,miu miu vmu01n,1,other
+367235,miu miu/noir vmu51n/tfe-101/f,1,other
+367236,miu miu/noir vmu51n/tfi-101/f,1,other
+367237,miu miu/vmu04l/dho/101/f,1,other
+367238,"miu miu50ov,53,ua41o1 = 08/2016",1,other
+367239,"miu miu50pv,54,1ab1o1 = 08/2016",1,other
+367240,"miu miu56mv,49,dg51o1 = 08/2016",1,other
+367241,miu miu_frame_mm-51qv-f,1,eyewear
+367242,"miv, r 4251",1,other
+367243,mix 4251,1,other
+367244,mix 4253,1,other
+367245,mix 4305,1,other
+367246,mix 4321,1,other
+367247,mix evac iii 0206015000 styker-usa #p0700401760,1,other
+367251,mix frme 4253,1,other
+367252,mix k 4253,1,other
+367253,mix kids 4251,1,other
+367255,mix m&d&v-10053,1,other
+367267,mixed,1,other
+367269,mixed nerve repair - 1day pkg,1,procedure
+367270,mixed solutio,1,other
+367271,mixif,3,other
+367273,mixif 100,1,other
+367348,mixif 400,2,other
+367441,mixif suspn,1,other
+367443,mixillary sinusendoscopy with/out biopsy,1,procedure
+367444,mixing studay for aptt,1,lab_test
+367445,mixing studies,2,consultation
+367446,mixing study,1,consultation
+367447,mixing study (pt,1,consultation
+367448,mixing study (ptt,1,lab_test
+367449,mixing study - aptt,1,lab_test
+367450,mixing study - pt,1,consultation
+367451,mixing study for pt,1,consultation
+367452,mixing study for ptt,1,lab_test
+367453,mixing study pt/ ptt,1,lab_test
+367456,mixing ventuline & atrivent neb 1,2,other
+367590,mixxes,1,other
+367599,"mjr biliary tract pr, intc",1,other
+367600,"mjr biliary tract pr, majc",1,inpatient
+367601,"mjr biliary tract pr, minc",1,inpatient
+367602,"mjr corn,sclerl&cnjnct pr,majc",1,inpatient
+367603,"mjr corn,sclerl&cnjnct pr,minc",1,inpatient
+367604,"mjr recnstr vasc pr-pump, intc",1,supplies
+367605,"mjr recnstr vasc pr-pump, majc",1,supplies
+367606,"mjr recnstr vasc pr-pump, minc",1,supplies
+367607,"mjr small and large bowel pr, intc",1,other
+367608,"mjr small and large bowel pr, majc",1,inpatient
+367609,"mjr small and large bowel pr, minc",1,inpatient
+367610,"mjr small&large bowel pr, intc",1,other
+367611,"mjr small&large bowel pr, majc",1,inpatient
+367612,"mjr small&large bowel pr, minc",1,inpatient
+367613,mk genux offset adapter 0 mm implantcast ger #57510000,1,supplies
+367614,"mk offset adaptor diff.size, impl.cast",1,supplies
+367615,"mk tibia spacer ll/rm diff.size, impl.cast",1,supplies
+367616,mlitfocil plastic,1,eyewear
+367617,mlitfocil plastic standard lense,1,eyewear
+367618,mll 11q23,1,other
+367619,"mlt sclrosis and cbl ataxia, majc",1,inpatient
+367620,"mlt sclrosis and cbl ataxia, minc",1,inpatient
+367621,"mlt sclrosis&cbl ataxia, majc",1,inpatient
+367622,"mlt sclrosis&cbl ataxia, minc",1,inpatient
+367623,"mlt sclrosiscbl ataxia, minc",1,inpatient
+367624,mltifocil pl 1.5 crizal,1,eyewear
+367625,mltifocil pl 1.59 crizal,1,eyewear
+367626,mltifocil pl crizal,1,eyewear
+367627,mltifocil plastic,1,eyewear
+367628,mm00457sfdaa0008,1,other
+367629,mm01045sfdaa0004,1,other
+367630,mm1205/ytr/53/f,1,other
+367631,mm1264/ubl/54/f,1,other
+367632,mm1266/sq1/54/f,1,other
+367633,mm780g pump,2,supplies
+367635,mmi0015/807/f/23,1,other
+367636,mmi0017/807/f/23,1,other
+367637,mmi0021/pef/17/f/20,1,other
+367638,mmi0032/tn/ina/f/21,1,other
+367639,mmi0138/b3v/f/23,1,other
+367640,mmi0150/000/f/23,1,other
+367641,mmi0150/j5g/f/23,1,other
+367649,mmissoni/mm00405/k79 gunmetal/f,1,other
+367650,mmissoni/mm03005/b03 blk white/f,1,other
+367651,mmissoni/mm03805/b01-blk/f,1,other
+367652,mmissoni/mm06806/r64-red pink/f,1,other
+367653,mmissoni/mm06807/m65-brwn beige/f,1,other
+367654,mmissoni/mm07406/b11-blk crystal/f,1,other
+367655,mmissoni/mm08201/b20-blk multi/f,1,other
+367656,mmissoni/mm091v07/f13-burgundy,1,other
+367658,mmode and 2 dimensional real time ultrasound of heart echocardiography includes,1,imaging
+367659,mmpi,1,other
+367660,mmpi scale,1,lab_test
+367661,mmpi sub scale,1,lab_test
+367662,mmpi sub scale (minnesota multiphsic personality inventory,1,lab_test
+367664,mmr ( measles mumps & rubella,1,lab_test
+367665,"mmr ( measles, mumps & rubella",1,lab_test
+367680,"mmr protein immunohistochemistry, (xt add-on, tempus) - s.o",1,lab_test
+367698,mmr with consultation - (pakcage deal,1,consultation
+367703,mmr(measles.mumps.rubella )vai,1,lab_test
+367708,"mmr.( measles,mumps, rubella )vaccine",1,lab_test
+367710,mmrv,1,other
+367713,"mnr small and large bowel pr, majc",1,inpatient
+367714,"mnr small and large bowel pr, minc",1,inpatient
+367715,"mnr small&large bowel pr, majc",1,inpatient
+367716,"mnr small&large bowel pr, minc",1,inpatient
+367717,"mnr smalllarge bowel pr, minc",1,inpatient
+367718,"mnstrl and oth fem repr dis, majc",1,inpatient
+367719,"mnstrl and oth fem repr dis, minc",1,inpatient
+367720,"mnstrl&oth fem repr dis, majc",1,inpatient
+367721,"mnstrl&oth fem repr dis, minc",1,inpatient
+367722,mo care alcohol swap 200 pad,1,supplies
+367723,mo care lancet accu check,1,supplies
+367724,mo-60069m-f-morel,1,other
+367725,mo-care alcohol swab 200pcs,1,lab_test
+367726,mo-care alcohool swab 100pcs,1,lab_test
+367727,mo01706/51,1,other
+367728,moahmmed . alotaibi,2,other
+367729,moahmmed alotaibi,2,other
+367730,moath samialahmad,1,other
+367850,mobic 7.5 t,1,other
+367922,mobic15mg 30tab,1,other
+367936,mobile ext .decid tooth,1,dental
+367937,mobile ext. decid tooth,1,dental
+367938,mobile u/s,1,imaging
+367941,mobilization,1,other
+367942,mobilization of joints other than spine(exam.under->c93.16,2,other
+367943,mobilization of frozen shoulder under g/ a - 1 day,1,other
+367944,mobilization of frozen shoulder under ga,1,other
+367945,mobilization of joint (examination under g.a,2,consultation
+367947,mobilization of joints other than spine,1,other
+367948,mobilization of joints other than spine c93.16,1,other
+367950,mobilization of shoulder,1,other
+367951,moc-31,1,other
+367952,mocca,1,other
+367962,modax 30softgels,1,other
+367964,moderate debridement of hand or foot under ga,1,procedure
+367965,moderate extraction,2,dental
+367966,moderate gingivitis,1,other
+367967,moderate local flap,1,other
+367968,moderate mouth rehabilitation,1,other
+367969,moderate relase of club foot-2 days pkg,1,other
+367970,moderate risk anesthesia,1,procedure
+367971,moderate scaling,3,dental
+367972,moderate scaling & polishing,1,dental
+367973,"moderate sedation/general anesthesia services, up to 30 min provided by a physician",1,procedure
+367974,moderate sized biopsy,1,procedure
+367975,moderate space infection with tenosynovitis finger,1,other
+367976,moderate surgical extraction for remaining roots,1,dental
+367977,moderate surgical procedure.20->84.9-d,1,procedure
+367978,moderate surgical service,2,procedure
+367980,modern,2,other
+367981,modern design mode200 49 c3,1,eyewear
+367985,modern design mode903 46 m.violet,1,other
+368104,modifide radical mastectomy including axillay lymph node dissection,1,procedure
+368105,modified redical mastectomy,1,procedure
+368106,modified (functional) neck dissection,1,other
+368107,modified (functional) neck dissection - dr.fee,1,consultation
+368108,modified barium swallow,2,imaging
+368109,modified barium swallow (mbs,1,imaging
+368110,modified barium swallow procedure,1,imaging
+368111,modified barium swallowing study mbbs,1,imaging
+368112,modified canalith repositioning manuever,1,other
+368113,modified endoscopic lothrop procedures (melp) - 1day pkg,1,procedure
+368114,modified laparoscopic hiatus hernia repair with mesh - 1day pkg,1,supplies
+368115,modified radical mastectomy,1,procedure
+368116,modified radical mastectomy - 5 days pkg,1,procedure
+368117,modified radical mastectomy w/ axilary clearance w/o histopath,2,lab_test
+368118,modified radical mastectomy w/ axilary clearance w/o histopath - unilateral,1,lab_test
+368120,modified radical mastectomy w/ axillary clearance w/o histopathology,1,lab_test
+368121,modified radical mastectomy with axillary clearance,1,procedure
+368122,modified radical mastoidectomy,1,procedure
+368123,modified radical mastoidectomy-1day pkg,1,procedure
+368124,modified radical mastoidectomy->c20.49,1,procedure
+368125,modified radical neck dissection,1,other
+368126,modified scarf osteotomy-1day pkg,1,procedure
+368127,modified ziehl neelsen stain,1,other
+368128,modo fram,1,eyewear
+368138,modorate wound dressing,1,supplies
+368139,modorate wound medium dressing ???? ?????,1,supplies
+368140,modrate size pathlogy sample,1,other
+368159,mofarah al harthi,1,other
+368164,mog abs (ift) (csf,1,lab_test
+368165,"mog abs (igg,ift) (s",1,lab_test
+368166,"mog facs, serum my mogfs",1,lab_test
+368167,mog igg1 ab; cba,1,lab_test
+368169,mogfs - myelin oligodendrocyte glycoprotein (mog-igg1) fluorescence-activated cell sorting (facs) as,1,other
+368177,moh double phototherapy per day,1,procedure
+368178,moh samples,1,other
+368181,moh vac (hepatits a,1,other
+368182,moh vac (pcv,1,other
+368183,moh vac (rv,1,other
+368184,moh vac (varicella,1,other
+368185,moh vac 12m ( opv / mmr / varicella / pcv,1,other
+368187,moh vac 12m (opv+mmr+varicella+pcv+mcv,1,other
+368188,moh vac 12m (opv/mmr/varicella/pcv,1,other
+368189,moh vac 12m(opv-mmr-varicella-pcv,1,other
+368190,moh vac 12m(opv/mmr/mcv4/pcv,1,other
+368191,moh vac 18m (opv / dtp / hip / hepa,1,other
+368201,moh vac 2m (ipv/dtap/hib/hb/pcv/rota,1,lab_test
+368205,moh vac 4 to 6 y ( opv / dtp / mmr / varicella,1,other
+368206,moh vac 4 to 6 y (opv+dtp+mmr+varicella,1,other
+368207,moh vac 4 to 6 y (opv/dtp/mmr/varicella,2,other
+368209,moh vac 4 to 6y (opv dtap mmr varicella,1,other
+368210,moh vac 4 to 6y(opv dtap mmr chickenpox,1,other
+368211,moh vac 4m,1,other
+368215,moh vac 4m(ipv/dtap/hib/hb/pcv/rota,1,lab_test
+368222,moh vac 9m (measles + mcv4,1,lab_test
+368223,moh vac 9m (measles -mcv4,1,lab_test
+368224,moh vac 9m (measles,1,lab_test
+368225,moh vac 9m (measles) + meningococcal conjugate quadrivalent,1,lab_test
+368226,moh vac 9m(measles/mcv4,1,lab_test
+368227,moh vac 9month + measles +mcv4,1,lab_test
+368228,moh vac12 month(opv/mmr,1,other
+368231,moh vacc.12 m-(opv/dtp/chickpox)pneum,1,other
+368234,moh vacc.24 m-hepatitis a(2,1,other
+368236,moh vacc.4-6 yrs-(opv/dtp/mmr/chickpox,1,other
+368238,moh vacc.9 m-(measles,1,lab_test
+368247,moh voc 6m(ipv/dtap/hib/hb/pcv/opv,1,lab_test
+368252,moh%20vaccine%2012%20months%09,1,other
+368253,moh%20vaccine%2018%20months%09,1,other
+368254,moh%20vaccine%202%20months%09,1,other
+368255,moh%20vaccine%204%20months%09,1,other
+368256,moh%20vaccine%206%20months%09,1,other
+368257,moh-icu services adult/pediatric incl cost provide icu services,1,consultation
+368258,moh. vacc. 12 month,1,other
+368259,moh. vacc. 18 month,1,other
+368260,moh. vacc. 24 month,1,other
+368261,moh. vacc. 4 to 6 years,1,other
+368262,moh. vacc. 9 month,1,other
+368263,moh. vacc. 4 to 6 years (opv/dtp/mmr/chickenpox,2,other
+368265,moh. vacc. 4 to 6 years (opv/dtap/mmr/chickenpox,1,other
+368266,moh. vacc.12 month (opv/mmr) + pcv + meningococcal conjugate quadrivalent mcv4,1,other
+368267,moh. vacc.12 month (opv/mmr/chickenpox) + pneumococcal conju,1,other
+368274,moh. vacc.24 month [hepatitis a (2,1,other
+368281,moh. vacc.9 month (measles,1,lab_test
+368282,moh. vacc.9 month (measles) + meningococcal conjugate quadri,1,lab_test
+368283,moh. vacc.9 month (measles) + meningococcal conjugate quadrivalent mcv4,1,lab_test
+368286,moh.vacc. 4month,1,other
+368287,moh.vacc. 6month,1,other
+368288,moh.vacc.4-7 years,1,other
+368289,moh.vacc.9 months,2,other
+368291,mohab mohammedal mahmoud,1,other
+368292,mohamad alshahat omar,1,other
+368293,mohamad hosam eldein,1,other
+368294,mohamad kotb kotb,1,other
+368295,mohamad metwally agha,1,other
+368296,mohamad shawky,1,other
+368297,mohamad yasser mohamad al kadi,1,other
+368418,mohammad abdelnaby salem atlam,1,other
+368419,mohammad aburahmah,1,other
+368420,mohammad al shahat ali omar,1,other
+368421,mohammad aljared,1,other
+368422,mohammad fathi saber,2,other
+368423,mohammad fawzy mohammad lotfy elsayed,1,other
+368424,mohammad gamaleldeen abdelaziz ghorab,1,other
+368425,mohammad khan,2,other
+368426,mohammad maisfer alshardan,2,other
+368427,mohammad maitham alroumani,1,other
+368428,mohammad mutwali,1,other
+368429,mohammad nashaat abdelmaged,1,other
+368430,mohammad omar alasiri,1,other
+368431,mohammad omar otain,1,other
+368432,mohammad saad alkhowaite,1,other
+368434,mohammad salim alkhayyat,1,other
+368436,mohammd sulaiman aldhalea,1,other
+368544,mohd saqib,1,other
+368545,mohd saqib mohd,1,other
+368546,mohd.adel m sharawy,1,other
+368547,mohmmed abdalmonemalgailani,1,other
+368548,mohmmed husainshaker,1,other
+368549,mohmmed saadalmanaseir,1,other
+368550,mohsen ali al sugair,1,other
+368552,moidfied radical mastectomy w/ axilary clearance w/o histopath - package,1,lab_test
+368553,moist pack,1,supplies
+368554,moista-e,1,other
+368555,moisture control knee support (l) futuro 45697,1,supplies
+368556,moisture control knee support (xl) futuro 45699,1,supplies
+368559,moisturizing,1,other
+368560,mol051/cs/g3i/70/f,1,other
+368561,mol520/807/f/22,1,other
+368562,mol531/807/13/f/20,1,other
+368563,mol567/3yg/f/21,1,other
+368564,mol577/g3i/f/21,1,other
+368565,mol580/ddb/f/21,1,other
+368566,mol622/807/16/f/23,1,other
+368567,molar extraction,4,dental
+368568,molar root canal t,1,dental
+368569,molar root canal treatment,1,dental
+368570,molar tooth extraction,1,dental
+368571,molar tooth extrction,2,dental
+368572,molar tooth root canal 450,1,dental
+368573,molars root canal therapy,1,dental
+368574,molcular study for alpha thalassemia gena,1,consultation
+368575,mold identification,1,other
+368576,molded inserts,1,other
+368577,mole excision,1,procedure
+368578,mole/path procedure l5,1,other
+368579,molecular cytogenetics; dna probe each,2,lab_test
+368580,molecular detection of clostridium difficile toxin a/b by real -time pcr,1,lab_test
+368581,molecular detection of clostridium difficile toxin b and binary toxin by real -time pcr,1,lab_test
+368582,molecular detection of covid-19 by pcr (fast- 3:6 hrs,1,lab_test
+368583,molecular detection of covid-19 by pcr (normal 24hrs,1,lab_test
+368584,molecular detection of covid-19 by pcr (w/out cost of swap collection,1,lab_test
+368585,molecular detection of neisseria gonorrhoeae dna by pcr,2,lab_test
+368586,molecular detection of neisseria gonorrhoeae dna by real- time pcr,1,lab_test
+368587,molecular detection of sexually transmitted diseases,1,other
+368588,molecular detection of viral respiratory tract infection,3,other
+368589,molecular diagnostics;separation & identification (factor v leiden,1,lab_test
+368590,molecular fish (bone marrow,1,imaging
+368591,molecular genetic analysis for alpha thalassemia,1,procedure
+368592,molecular genetic analysis for beta thalassemia,1,procedure
+368593,molecular genetic analysis of the smn2 gene by mlpa,1,lab_test
+368594,molecular genetic study (dna analysis,1,lab_test
+368595,"molecular pathology procedure, level 4 chromosome y (azf factor: y chromosomal deletions",1,lab_test
+368596,"molecular pathology procedure, level 4- molecular genetic analysis of cebpa",1,lab_test
+368597,"molecular pathology procedure, level 4- sequence analysis of hot spot exons (exon 12) of the jak2 gene",1,lab_test
+368598,molecular pathology procedurelevel 6,1,other
+368599,molecular pathology procedurelevel 9,2,other
+368600,molicare adult diapers large 30pcs,1,supplies
+368601,molicare adult diapers medium 30pcs,1,supplies
+368602,molicare adult diapers xlarge 14pcs,1,supplies
+368603,molicare lady pants medium 8pcs,2,supplies
+368605,molicare men pants large 7pcs,2,supplies
+368606,molicare men pants medium 8pcs,2,supplies
+368609,molicare prem elastic l,1,supplies
+368610,molicare prem elastic m,1,supplies
+368611,molicare prem elastic xl,1,supplies
+368612,molicare premium adult diapers xl 14pcs,1,supplies
+368613,molicare premium elastic 6 dropssize m p30,1,supplies
+368614,molicare premium elastic 6 dropssize s p30,1,supplies
+368615,molicare premium elastic 6 dropssize xl p14,1,supplies
+368616,molicare premium elastic size xl p14 (blue,1,supplies
+368617,molicare premium mobile pants xl 14 pcs,1,supplies
+368618,molicare premium mobile size l p14 (blue,2,other
+368619,molicare premium mobile size m p14 (blue,2,other
+368620,molicare premium mobile size s p14 (blue,1,other
+368621,molicare premium mobile size xl p14 (blue,2,other
+368622,molipants,1,other
+368623,mollelast 3cm,1,other
+368624,mollelast comforming bandage,1,supplies
+368625,mollelast conforming bondage (for all sizes) 12*44*46*68*810*10,1,other
+368626,mollusca bodies extrac.large,1,other
+368627,mollusca bodies extraction - small,1,dental
+368628,molluscum contageosum including dressings,1,other
+368629,molluscum contagiosum removal,1,procedure
+368630,molluscum currettage,1,other
+368631,molluscum removal,1,procedure
+368632,molsion frm,1,eyewear
+368633,molteno or ahmed valve implant,1,supplies
+368635,moluscum removal (1-3,1,procedure
+368637,mom chocolate plus 30 soft chewable,1,other
+368638,moma design/fantasy/c.3/0608,1,other
+368639,moma design/twins/c3/54,1,eyewear
+368672,momen ahmedel khwas,1,other
+368680,mometamed%200.1%25%20w-w%20cream,1,other
+368681,mometason furoat 0.1%,1,other
+368865,"mometasonefuroate,salicylicacid0.1,0.5%ointment30gm",1,other
+368866,mometasonefuroate0.1%/gmointment,1,other
+368867,mometasonefuroate0.1%cream30gm,1,other
+368876,momguard (nipt) - s.o,1,lab_test
+368879,momo design 056/56/18 02,1,other
+368882,momo design2001 303 (48.22,1,other
+368890,mon1975/c1/f,1,eyewear
+368891,mon1975/c3/f,1,eyewear
+368892,mon1977/c1/f,1,eyewear
+368893,mon1977/c2/f,1,eyewear
+368894,mon1977/c3/f,1,eyewear
+368895,mon1977/c4/f,1,eyewear
+368896,mon1977/c6/f,1,eyewear
+368897,mon1981/c1/f,1,eyewear
+368898,mon1981/c2/f,1,eyewear
+368899,mon1981/c4/f,1,eyewear
+368900,mon1981/c5/f,1,eyewear
+368901,mon1983/c1/f,1,eyewear
+368902,mon1983/c2/f,1,eyewear
+368903,mon1983/c3/f,1,eyewear
+368904,mon1983/c5/f,1,eyewear
+368905,mon1985/c4/f,1,eyewear
+368906,mon1985/c5/f,1,eyewear
+368907,mon1987/c4/f,1,eyewear

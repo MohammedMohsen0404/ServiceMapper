@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+594292,us shoulder joint,1,imaging
+594293,us shoulder unilateral,1,imaging
+594294,us single limb arterial,1,imaging
+594295,us single limb venous,1,imaging
+594296,us single limbs venous,1,imaging
+594297,us small parts us with doppler,1,imaging
+594298,us small parts with doppler,1,imaging
+594300,us soft tissue tendon,1,imaging
+594301,us soft tissue - specify area,1,imaging
+594302,us soft tissue of the neck,1,imaging
+594303,us soft tissues,2,imaging
+594304,us subclavian(bilateral,1,imaging
+594305,us submandibular gland,1,imaging
+594306,us superfacial soft tissue,1,imaging
+594307,us superficial soft tissue,1,imaging
+594308,us superficial structure,1,imaging
+594309,us scan breast,1,imaging
+594310,us scan of follicle study,1,imaging
+594311,us scan of pelvis ( non ? obstetric,1,imaging
+594312,us scan of pelvis ( non obstetric,1,imaging
+594313,us scan of pelvis (obstetric,1,imaging
+594314,us scan of prostate,1,imaging
+594317,us scrotum (contents,1,imaging
+594318,us scrotum doppler,1,imaging
+594319,us scrotum and contents,1,imaging
+594321,us shoulder both,1,imaging
+594322,us shoulder lt,1,imaging
+594323,us shoulder joint one side only,1,supplies
+594326,us soft tissues - head and neck,1,imaging
+594327,us soft tissues - head & neck,1,imaging
+594329,us testes,2,imaging
+594330,us testes ultrasound (scrotal,1,imaging
+594331,us testes with doppler,1,imaging
+594332,us testes(srcotum,1,imaging
+594333,us testicular scrotum us (06214984,1,imaging
+594334,us testicullar us with doppler,1,imaging
+594335,us testicullar with doppler,1,imaging
+594336,us testis,2,imaging
+594337,us thiroid,1,imaging
+594339,us thyroid (06215006,1,imaging
+594340,us thyroid / neck,1,imaging
+594341,us thyroid gland,2,imaging
+594342,us tower,1,imaging
+594343,us trans vaginal,1,imaging
+594344,us transcranial,2,imaging
+594345,us transrectal,2,imaging
+594346,us transrectal for prostate,1,imaging
+594347,us transrectal prostate,1,imaging
+594349,us transvaginal and pelvic colour doppler study,1,imaging
+594350,us transvaginal us with doppler,1,imaging
+594351,us trus + fine needle biopsy,1,supplies
+594356,us thyroid and neck vessels doppler,1,imaging
+594357,us thyroid and parathyroid,1,lab_test
+594360,us transcranial duplex scan,1,imaging
+594361,us transplant kidney,1,imaging
+594364,us ultrasound,1,imaging
+594365,us upper abdomen,2,imaging
+594366,us upper abdomen with doppler,1,imaging
+594367,us upper or lower abdomen,1,imaging
+594368,us urinary bladder,2,imaging
+594369,us urinary bladder w/p.v.residual urine,1,lab_test
+594371,us urinary tract (kub,2,imaging
+594372,us urinary tract (ut,1,imaging
+594373,us urinary tract(kidneys and urinary blder ( sonogram us,1,imaging
+594377,us vaginal,3,imaging
+594378,us vaginal ( 3d,1,imaging
+594379,us venous doppler lower extremity - bilateral,1,imaging
+594380,us venous doppler lower extremity - unilateral,1,imaging
+594381,us venous doppler scan lower extremity limited - bilateral,1,imaging
+594382,us venous doppler scan lower extremity limited - unilateral,1,imaging
+594383,us venous doppler upper or lower extremity - unilateral,1,imaging
+594384,us with doppler,1,imaging
+594385,us wrist (bilateral,1,imaging
+594386,us wrist (unilateral,1,imaging
+594387,us wrist lt,1,imaging
+594388,us wrist rt,1,imaging
+594389,us xtr non-vasc complete,1,imaging
+594390,us abdomen/pelvis,1,imaging
+594391,us an part of the bod [or an/abdomen/ vis,1,imaging
+594392,us an part of the body/organ/abdomen/ pelvis,1,imaging
+594393,us any part of the .body/organ/abdomen/pelvis,1,imaging
+594396,us any part of the body(05044,1,imaging
+594397,us any part of the body-organ-abdomen-pelvis,1,imaging
+594398,us any part of the body./organ/abdomen/pelvis,1,imaging
+594399,us any part of the body/organ/.abdomen/pelvis,1,imaging
+594401,us any part of the body/organ/abdomen,1,imaging
+594402,us any part of the body/organ/abdomen./pelvis,1,imaging
+594415,us any part of the body/organ/abdomen/pelvisate,1,imaging
+594416,us any part the body / organ/ abdomen/pelvis,1,imaging
+594417,us fo upper abdomen,1,imaging
+594418,us for swellings,1,imaging
+594420,us for one organ,1,supplies
+594422,us guidance for needle placement,1,supplies
+594426,us guided abscess drainage,1,procedure
+594428,us guided amniocentesis,1,imaging
+594429,us guided cyst aspiration,1,procedure
+594430,us guided fna,1,imaging
+594433,us guided paracentesis,1,procedure
+594434,us guided prostate biopsy,1,procedure
+594437,us guided central line insertion,1,procedure
+594438,us guided fluid drainage,1,procedure
+594442,us knee or joints,1,imaging
+594443,us muscles,1,imaging
+594445,us of abdomen or pelvis,1,imaging
+594446,us of abdomen or pelvis for other pregnancy related condition,1,imaging
+594447,us of any organ,1,imaging
+594448,us one part of the body/organ/abdom,1,supplies
+594451,us portable any joint both hand and wrist both elbow both shoulder both knee both ankle both feet,1,imaging
+594455,us urinary tract (kub pre and post void,1,imaging
+594457,us - joint,1,imaging
+594458,us%20-%20upper%20abdomen,1,imaging
+594459,us%20-%20upper%20abdomen%20,1,imaging
+594461,us%20any%20part%20of%20the%20body%2forgan%2fabdomen%2fpelvis%09,1,imaging
+594462,us%20guide%2c%20needle%20inj/aspiration/biopsy%2c%20unilateral,1,procedure
+594463,us- abdomen & pelvis ultrasound,2,imaging
+594464,us- abdomen ultrasound,2,imaging
+594465,us- abdomen ultrasound (sfv,1,imaging
+594466,us- amniocentesis (us guided,2,imaging
+594468,us- abdomen & pelvis ultrasound ( at home care,1,imaging
+594471,us- bedside abdominal ultrasound,2,imaging
+594472,us- bedside pelvic & abdominal ultrasound,2,imaging
+594473,us- breast ultrasound bilateral,1,imaging
+594474,us- breast ultrasound unilateral,1,imaging
+594475,"us- breast ultrasound, bilateral",2,imaging
+594476,"us- breast ultrasound, unilateral",2,imaging
+594477,"us- breast volume sonography, bilateral",2,imaging
+594483,us- chest to check pleural effusion,2,imaging
+594484,us- chorionic villus sampling (us guided,1,lab_test
+594486,us- doppler of carotid & vertebral arteries,2,imaging
+594487,us- doppler of carotid & vertebral arteries ra00420219,1,imaging
+594488,us- doppler of liver,2,imaging
+594489,us- doppler of renal vesseles,2,imaging
+594490,us- doppler one limb arterial,2,imaging
+594491,us- doppler one limb arterial & venous,2,imaging
+594492,us- doppler one limb venous,2,imaging
+594493,us- doppler one limb venous ra00420249,1,imaging
+594494,us- doppler two limbs arterial,2,imaging
+594495,us- doppler two limbs arterial & venous,1,imaging
+594496,us- doppler two limbs venous,2,imaging
+594497,us- doppler two limbs venous ra00420250,1,imaging
+594498,us- doppler venous mapping,2,imaging
+594499,us- doppler jugular/neck veins/mapping,1,imaging
+594500,us- doppler of aorta & abdominal vessels,1,imaging
+594502,us- doppler of dialysis a-v fistula,1,imaging
+594510,us- doppler ultrasound one side ( at home care,1,imaging
+594511,us- doppler ultrasound two sides ( at home care,1,imaging
+594513,us- echo carchography,1,imaging
+594514,us- female pelvis us (uterus & ovaries,2,imaging
+594515,us- folliculomtry (1st scan,1,imaging
+594517,us- folliculometry (1st scan,1,imaging
+594518,us- guided drainage,1,procedure
+594519,us- guided aspiration of thiroyed / carotid/lymph node,1,procedure
+594520,us- hernia abdominal wall,2,procedure
+594521,us- hips ultrasound,2,imaging
+594524,us- inguinal region (hernia,2,procedure
+594526,us- knee ultrasound,2,imaging
+594528,"us- male pelvis us (bladder, prostate & pvru",2,imaging
+594529,us- musculoskelatal,1,imaging
+594531,us- muscle - skeletal ultrasound (any region,1,imaging
+594532,us- neck ultrasound,2,imaging
+594533,us- neonatal brain (head) ultrasound,2,imaging
+594536,us- obst 1st trimester ultrasound,1,imaging
+594537,us- obst 2nd / 3rd trimester ultrasound,1,imaging
+594538,us- obst 3d/4d ultrasound,1,imaging
+594539,us- obst anomaly ultrasound scan,1,imaging
+594540,us- obst anomaly ultrasound scan (sfv,1,imaging
+594541,us- obst doppler & biophysical profile,1,imaging
+594542,us- obstetrical 1st trimester ultrasound,2,imaging
+594543,us- obstetrical routine scan,2,imaging
+594544,us- obstetric doppler & biophysical profile,1,imaging
+594545,us- obstetric doppler and biophysical profile for multi fetal pregnancy,1,imaging
+594547,us- obstetrical 3d/4d ultrasound with anatomy scan,1,imaging
+594548,us- obstetrical anatomy scan,1,imaging
+594549,us- obstetrical anatomy scan for multi fetal pregnancy,1,imaging
+594551,us- obstetrical routine scan for multi fetal pregnancy,1,imaging
+594552,us- obstetrical targeted obstetric ultrasound,1,imaging
+594553,us- penile doppler (flaccid only,2,imaging
+594554,us- perianal region,2,imaging
+594555,us- pregnancy single (portable,1,imaging
+594556,us- prostate transrectal,1,imaging
+594559,us- prostate trus ultrasound,1,imaging
+594560,us- salivary glands ultrasound,2,imaging
+594561,us- scrotal ultrasound,2,imaging
+594562,us- scrotum,1,imaging
+594563,us- shoulder ultrasound,2,imaging
+594564,us- shoulders,1,imaging
+594565,us- soft tissue (any region) ultrasound,2,imaging
+594571,us- thyroid gland ultrasound,2,imaging
+594572,us- transvaginal ultrasound,2,imaging
+594574,us- transcranial doppler ultrasound,1,imaging
+594576,us- transvaginal ultrasound (at home care,1,imaging
+594577,us- ultrasound of other site,2,imaging
+594578,us- urinary tract us (kidneys & bladder,2,imaging
+594579,us- us guided abscess drainage & catheter fixation,1,supplies
+594580,us- us guided ascites drainage with catheter fixation,1,supplies
+594581,us- us guided biopsy (true cut) (any body part,1,procedure
+594582,us- us guided fluid aspiration other region,1,procedure
+594583,us- us guided fnab (any body part,1,imaging
+594584,us- us guided pleural effusion aspiration,1,procedure
+594585,us- us guided breast wire localization,1,supplies
+594588,us-1st trimester ultrasound,1,imaging
+594589,us-2nd\ 3rd trimester ultrasound,2,imaging
+594591,us-4d by doctor,1,consultation
+594592,us-abdomen & pelvis,1,imaging
+594593,us-abdomen complete (upper and pelvis,1,imaging
+594594,us-abdomen- neonatal,1,imaging
+594595,us-abdomen-upper (livergall bladderpancreassp,1,imaging
+594596,us-arterial or veinous doppler,1,imaging
+594597,us-axilla,1,imaging
+594598,us-both breast,1,imaging
+594599,us-brain,1,imaging
+594600,us-breast (male,1,imaging
+594601,"us-breast ultrasound, bilateral",1,imaging
+594602,"us-breast ultrasound, unilateral",1,imaging
+594603,"us-buttock ultrasound, unilateral",1,imaging
+594604,us-by doc,1,imaging
+594605,us-cd abdominal vessels,1,imaging
+594606,us-cd carotid or 4 vessels,1,imaging
+594607,us-cd doppler study-cranial vessels,1,imaging
+594608,us-cd lower limbs artery & vein bilaterl,1,imaging
+594609,us-cd lower limbs artery & vein unilatrl,1,imaging
+594610,us-cd lower limbs artery bilateral,1,imaging
+594611,us-cd lower limbs artery unilateral,1,imaging
+594612,us-cd lower limbs artery vein bilaterl,1,imaging
+594613,us-cd lower limbs artery vein unilatrl,1,imaging
+594614,"us-cd lower limbs v. varicose, bil",1,procedure
+594615,"us-cd lower limbs v.& varicose, bil",1,procedure
+594616,us-cd lower limbs veins bilateral,1,imaging
+594617,us-cd lower limbs veins unilateral,1,imaging
+594618,us-cd obstetrics with doppler,1,imaging
+594619,us-cd portal circulation incl. abdmnl us,1,imaging
+594620,us-cd renal incl. artery & vein,1,imaging
+594621,us-cd renal incl. artery vein,1,imaging
+594622,us-cd upper limbs art. veins bil,1,imaging
+594623,us-cd upper limbs art. veins unil,1,imaging
+594624,us-cd upper limbs art.& veins bil,1,imaging
+594625,us-cd upper limbs art.& veins unil,1,imaging
+594626,us-cd upper limbs artery bilateral,1,imaging
+594627,us-cd upper limbs artery unilateral,1,imaging
+594628,us-cd upper limbs veins bilateral,1,imaging
+594629,us-cd upper limbs veins unilateral,1,imaging
+594630,us-chest,2,imaging
+594631,us-chest (abominal wall) hernia,1,procedure
+594633,us-doppler any part,1,imaging
+594634,us-doppler carotid 1 side,1,imaging
+594635,us-doppler carotid 2 sides,1,imaging
+594636,us-doppler varicose veins extreme 1 side,1,imaging
+594637,us-doppler. arterial mapping,1,imaging
+594638,us-doppler. extracranial & carotid & vertebral arteries,1,imaging
+594639,us-doppler. intrabdominal & iliac artery & vein,1,imaging
+594640,us-doppler. intracranial vessel,1,imaging
+594641,"us-doppler. lower limb arterial\ biopsy grafts, bilateral",2,imaging
+594643,"us-doppler. lower limb venous, bilateral",1,imaging
+594644,"us-doppler. lower limb venous, unilateral",1,imaging
+594645,"us-doppler. lower limb, art. (left",1,imaging
+594646,"us-doppler. lower limb, art. (right",1,imaging
+594647,"us-doppler. lower limb, vein. (left",1,imaging
+594648,"us-doppler. lower limb, vein. (right",1,imaging
+594649,us-doppler. portable in or,1,imaging
+594650,us-doppler. portal & hepatic veins,1,imaging
+594651,us-doppler. renal & visceral vessels,1,imaging
+594652,us-doppler. scrotal & testicular,1,imaging
+594653,us-doppler. transplant (liver,1,imaging
+594654,"us-doppler. upper limb arterial\ biopsy grafts, bilateral",1,imaging
+594655,"us-doppler. upper limb vanous, bilateral",1,imaging
+594656,"us-doppler. upper limb vanous, unilateral",1,imaging
+594657,"us-doppler. upper limb, art. (left",1,imaging
+594658,"us-doppler. upper limb, art. (right",1,imaging
+594659,"us-doppler. upper limb, vein. (left",1,imaging
+594660,"us-doppler. upper limb, vein. (right",1,imaging
+594661,us-duplex of vessels of other sites,1,imaging
+594662,us-endoscopic ultrasound,1,imaging
+594663,us-extremity,1,imaging
+594664,"us-female pelvis ultrasound (uterus, ovaries",1,imaging
+594665,us-fetal biophysical profile,1,lab_test
+594666,us-fetal echocardiography,1,imaging
+594667,us-follicumetry (tvs,1,imaging
+594668,us-genitalia (scrotum&contents,1,imaging
+594669,us-groin ultrasound,1,imaging
+594670,us-guided fine-needle aspiration,1,supplies
+594671,us-guided percutaneous nephro stomy,1,imaging
+594672,us-guided pigtail drainage tube insertion,1,supplies
+594673,us-guided sclerotherapy,1,procedure
+594674,us-guided true cut (core) biopsy,1,dental
+594679,us-guided abscess aspiration,1,procedure
+594680,us-guided abscess drainage,1,procedure
+594698,us-hip joints,1,imaging
+594699,us-infertility work up (follicles)3x,1,imaging
+594700,us-liver elastography (fibroscan) ultrasound,1,imaging
+594701,"us-male pelvis ultrasound (bladder, prostate, urethra",1,imaging
+594702,"us-msk. ankle, unilateral",1,imaging
+594703,"us-msk. foot, unilateral",1,imaging
+594704,"us-msk. hip ultrasound, bilateral",1,imaging
+594705,"us-msk. hip ultrasound, unilateral",1,imaging
+594706,"us-msk. knee ultrasound, bilateral",1,imaging
+594707,"us-msk. knee ultrasound, unilateral",1,imaging
+594708,"us-msk. leg, unilateral",1,imaging
+594709,"us-msk. thigh ultrasound, unilateral",1,imaging
+594710,us-musculoskeletal examination,1,consultation
+594711,us-neck soft tissue ultrasound,1,imaging
+594712,us-neonatal brain (head) ultrasound,1,imaging
+594713,us-neonatal spine & spinal cord ultrasound,1,imaging
+594714,us-ob/gyn clinical ultrasound,1,imaging
+594715,us-obst anomly ultrasound scan,1,imaging
+594716,us-obst doppler,1,imaging
+594717,us-obst doppler& biophysical profile,1,imaging
+594718,us-obstetric scan w color dop,1,imaging
+594719,us-obstetric scan w/ color dop,1,imaging
+594720,us-obstetric scan w/ color dop-twin,1,imaging
+594721,us-obstetrics first trimester,1,imaging
+594722,us-obstetrics second trimester,1,imaging
+594723,us-obstetrics third trimester,1,imaging
+594724,"us-ophthalmic biometry by ul w iol power calc, bilateral",1,supplies
+594725,"us-ophthalmic biometry by ul w iol power calc, unilateral",1,supplies
+594726,"us-ophthalmic biometry, bilateral",1,eyewear
+594727,"us-ophthalmic ultrasound, diagnostic, bscan, unilateral",1,imaging
+594728,"us-ophthalmic us, diagnostic, bscan & quant ascan, unilateral",1,lab_test
+594729,us-other sites,1,imaging
+594730,us-obstetric doppler and biophysical profile for multi fetal pregnancy,1,imaging
+594731,us-obstetrical anatomy scan for multi fetal pregnancy,1,imaging
+594732,us-obstetrical routine scan for multi fetal pregnancy,1,imaging
+594733,us-obstetrics(1sttrimester,1,imaging
+594734,us-obstetrics(2nd263rdtrimester,1,imaging
+594735,us-pediatric. both hip,1,imaging
+594736,us-pediatric. pelvis & perineum (ambiguous genitalia,1,imaging
+594737,us-pelvic,1,imaging
+594738,us-pelvis,2,imaging
+594740,us-penile soft tissue,1,imaging
+594741,us-portable in i.p,1,imaging
+594742,us-pregnant uterus-(fetal&maternal evaluation,1,consultation
+594744,us-pregnancy (a.n.c,1,imaging
+594745,us-renal doppler,1,imaging
+594746,us-scrotal ultrasound,1,imaging
+594747,us-scrotum,2,imaging
+594748,"us-shoulder ultrasound, bilateral",1,imaging
+594749,"us-shoulder ultrasound, unilateral",1,imaging
+594750,"us-soft tissue (hand and wrist), bilateral",1,imaging
+594751,"us-soft tissue (hand and wrist), unilateral",1,imaging
+594752,us-soft tissue (any region) ultrasound,1,imaging
+594753,"us-soft tissue (forearm and elbow), bilateral",1,imaging
+594754,"us-soft tissue (forearm and elbow), unilateral",1,imaging
+594755,us-soft tissue (one area,1,supplies
+594756,us-superficial any part,1,imaging
+594758,us-thyroid gland,1,imaging
+594759,us-thyroid-neck,1,imaging
+594760,us-trans rectal & biopsy (trus+bx,1,procedure
+594761,us-transabdominal and transvaginal,1,imaging
+594762,us-transvaginal,1,imaging
+594763,us-transvaginal ultrasound,1,imaging
+594764,us-trans-vaginal(tvus,1,imaging
+594765,us-transvaginal ultrasound with doppler,1,imaging
+594766,us-upper abdomen,1,imaging
+594767,us-urinary tract ultrasound (kidney&bladder,1,imaging
+594768,us-upper26lowerabdomen,1,imaging
+594769,us-upperorlowerlimb(softtissues,1,imaging
+594770,us-urinarytracts,1,imaging
+594771,us. breast,2,imaging
+594772,us. abdomen,3,imaging
+594773,us. abdomen & pelvis combined,1,imaging
+594774,us. abdomen ( black & white,1,imaging
+594775,us. abdomen ( black & white )ِ,1,imaging
+594776,us. abdomen and pelvis,1,imaging
+594777,us. abdomen and pelvis (viscera and abdomenal wall,2,imaging
+594778,us. abdomen and pelvis (viscera,3,imaging
+594781,us. abdomen-pedia,1,imaging
+594782,us. abdomenal wall,2,imaging
+594783,us. abdominal wall soft tissue,1,imaging
+594787,us. breast (male,2,imaging
+594789,us. carotid artery (both sides,1,imaging
+594790,us. chest,2,imaging
+594792,us. hip joints (ped,1,imaging
+594793,us. kidneys and pelvis,1,imaging
+594794,us. lower abdomen,1,imaging
+594795,us. lower abdomen (pelvis,1,imaging
+594796,us. msk (ankle,1,imaging
+594797,us. msk (hip,1,imaging
+594798,us. msk (knee,1,imaging
+594799,us. msk (muscles,1,imaging
+594800,us. msk (shoulder,1,imaging
+594801,us. msk (wrist,1,imaging
+594802,us. muscles,1,imaging
+594803,us. neck ( soft tissue,1,imaging
+594804,us. neck (soft tissue,1,imaging
+594805,us. neck / soft tissue,1,imaging
+594806,us. neck soft tissue,3,imaging
+594808,us. neonatal brain,1,imaging
+594809,us. neonatal brain with color doppler,1,imaging
+594810,us. obstetrics (1st trimester,1,imaging
+594811,us. obstetrics (2nd / 3rd trimester,1,imaging
+594812,us. obstetrics fetal anomaly survey,1,imaging
+594813,us. obstetrics w/ biophysical profile,1,lab_test
+594814,us. one area,1,supplies
+594815,us. pediatric. both hip,3,imaging
+594816,us. pediatric. pelvis & perineum (ambiguous genitalia,1,imaging
+594817,us. pediatric. transfontanel,2,imaging
+594818,us. penile soft tissue,2,imaging
+594819,us. portable in i.p,3,imaging
+594820,us. portable in o.r,2,imaging
+594822,us. pediatric. hip,1,imaging
+594825,us. portable in home visit,1,consultation
+594828,us. renal ( kub,1,imaging
+594829,us. salivary glands,1,imaging
+594830,us. scrotal,1,imaging
+594831,us. soft tissue (one area,4,supplies
+594833,us. soft tissue upper/lower limb,1,imaging
+594834,us. sub-cutaneous,1,imaging
+594836,us. temporal arteries (unil,1,imaging
+594837,us. testicular,1,imaging
+594838,us. testicular w/ color doppler,1,imaging
+594839,us. thyroid gland,2,imaging
+594840,us. thyroid gland ( colored,1,imaging
+594841,us. thyroid gland ( colored )ِ,1,imaging
+594842,us. transrectal prostate,1,imaging
+594843,us. upper abdomen,2,imaging
+594844,us. upper & lower abdomen,1,imaging
+594845,us. upper / lower limbs arteries (bilateral,1,imaging
+594846,us. upper /lower limbs veins (bilateral,1,imaging
+594848,us. upper abdomen (w/ color doppler,1,imaging
+594849,us. upper/ lower limbs artery (unilateral,1,imaging
+594850,us. upper/lower limbs veins (unilateral,1,imaging
+594851,us. vaginal,1,imaging
+594852,us. vaginal with color doppler,1,imaging
+594853,us.obstetrics with doppler,1,imaging
+594854,us.ovulation induct-1st ex/vaginal probe,1,supplies
+594855,us.ovulation induct-abdo.probe-follow-up,1,supplies
+594856,us.ovulation induct-vaginal probe fol-up,1,supplies
+594857,us.testicular w/ color doppler,1,imaging
+594859,us/ thyroid gland,1,imaging
+594860,us: abdomen,1,imaging
+594861,us: breast doppler unilateral,1,imaging
+594862,us: pelvic,1,imaging
+594863,us: pregnancy,1,imaging
+594864,us: soft tissue doppler,1,imaging
+594865,us: thyroid,1,imaging
+594866,us: transvaginal,1,imaging
+594867,usage of laser,1,procedure
+594868,usama abdulkader abdoulkhafez,2,other
+594869,usama jabarabarghouti,1,other
+594870,usci intro sheath 9f 593311,1,supplies
+594871,usci transeptal needle set 3993,1,supplies
+594875,use odeluxe accommodation,1,eyewear
+594876,use of a.v.i machine for 24 hours,1,supplies
+594877,use of a.v.i. machine for 3hrs,1,supplies
+594878,use of a.v.i.machine for 24 hs,2,supplies
+594879,use of a.v.i.machine for 6 hrs,1,supplies
+594880,use of a.v.i.machine for over- night from 10:00pm - 8:00 am,1,supplies
+594881,use of air matress,1,eyewear
+594882,use of air matress hill rom,1,eyewear
+594883,use of air mattress per day,1,eyewear
+594884,use of airmatress,1,other
+594885,use of an incentive spirometry,2,diagnostic
+594887,use of argon coagulation,1,other
+594888,use of baloon,1,other
+594889,use of biliary balloon,1,supplies
+594890,use of bilimeter /day,1,other
+594891,use of blood warmer,1,lab_test
+594892,use of contrast,1,imaging
+594893,use of crib guest pedia,1,other
+594894,use of cryo unit,1,other
+594895,use of d-c shockeach,1,other
+594896,use of d.c shock,1,lab_test
+594897,use of defibrillator d.c shock,1,lab_test
+594898,use of delivery room,1,procedure
+594899,use of delivery rooms,1,procedure
+594900,use of dinamap b/p pediatric,1,other
+594901,use of dinamap per day,1,other
+594902,use of endoclips,2,other
+594903,use of enteral feedi pump/day,2,supplies
+594904,use of enteral feed pump/hour,2,supplies
+594907,use of facilities,2,consultation
+594908,use of facilities (r & b,1,consultation
+594909,use of facilities (r & b)-5635,1,consultation
+594910,use of facilities (r & b)-5636,1,consultation
+594912,use of facilities - 101,1,consultation
+594913,use of facilities - 101a,1,consultation
+594914,use of facilities - 102,1,consultation
+594915,use of facilities - 102a,1,consultation
+594916,use of facilities - 103a,1,consultation
+594917,use of facilities - 104,1,consultation
+594918,use of facilities - 104a,1,consultation
+594919,use of facilities - 105b,1,consultation
+594920,use of facilities - 105c,1,consultation
+594921,use of facilities - 106,1,consultation
+594922,use of facilities - 106 c,1,consultation
+594923,use of facilities - 106b,1,consultation
+594924,use of facilities - 106c,1,consultation
+594925,use of facilities - 107a,1,consultation
+594926,use of facilities - 108,1,consultation
+594927,use of facilities - 108b,1,consultation
+594928,use of facilities - 108c,1,consultation
+594929,use of facilities - 109a,1,consultation
+594930,use of facilities - 109b,1,consultation
+594931,use of facilities - 110,1,consultation
+594932,use of facilities - 110b,1,consultation
+594933,use of facilities - 111 b,1,consultation
+594934,use of facilities - 111a,1,consultation
+594935,use of facilities - 111b,1,consultation
+594936,use of facilities - 111c,1,consultation
+594937,use of facilities - 112,1,consultation
+594938,use of facilities - 112b,1,consultation

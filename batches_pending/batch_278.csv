@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+477254,plain x-ray knee joint a,1,imaging
+477255,plain x-ray knee joint a.p,1,imaging
+477256,plain x-ray knee joint skyline,1,imaging
+477257,plain x-ray knee joint lataral,1,imaging
+477258,plain x-ray lataral cervical,1,imaging
+477259,plain x-ray leg a.p,1,imaging
+477260,plain x-ray leg lataral,1,imaging
+477261,plain x-ray lumber veste,1,imaging
+477262,plain x-ray lumber vestebre a.p,1,imaging
+477263,plain x-ray lumber vestebre oblique,1,imaging
+477264,plain x-ray lumber vestebre lataral,1,imaging
+477269,plain x-ray pelvis a.p,1,imaging
+477270,plain x-ray pelvis latara,1,imaging
+477271,plain x-ray pelvis lataral,1,imaging
+477272,plain x-ray shoulder a.p,1,imaging
+477273,plain x-ray shoulder axial,1,imaging
+477274,plain x-ray shoulder lata,1,imaging
+477275,plain x-ray shoulder lataral,1,imaging
+477276,plain x-ray skull a.p,1,imaging
+477277,plain x-ray skull lataral,1,imaging
+477278,plain x-ray thoracic ves,1,imaging
+477279,plain x-ray thoracic vestebre a.p,1,imaging
+477280,plain x-ray thoracic vestebre oblique,1,imaging
+477281,plain x-ray thoracic vestebre lataral,1,imaging
+477283,plain x-ray wrist a.p,1,imaging
+477284,plain x-ray wrist lataral,1,imaging
+477285,plain xray ribs,1,imaging
+477286,plain xray abdomen supine or upright,1,imaging
+477287,plain xray ankle joint,1,imaging
+477288,plain xray ankle joint a.p,1,imaging
+477289,plain xray ankle joint ap,1,imaging
+477290,plain xray ankle joint lataral,1,imaging
+477291,plain xray arm,1,imaging
+477292,plain xray arm a.p,1,imaging
+477293,plain xray arm lataral,1,imaging
+477294,plain xray chest,1,imaging
+477295,plain xray clavical,1,imaging
+477296,plain xray elbow,1,imaging
+477297,plain xray femour,1,imaging
+477298,plain xray fingers a.p,1,imaging
+477299,plain xray fingers latara,1,imaging
+477300,plain xray fingers lataral,1,imaging
+477301,plain xray foot,1,imaging
+477302,plain xray forearm,1,imaging
+477303,plain xray hand,1,imaging
+477304,plain xray leg,1,imaging
+477306,plain xray shoulder,1,imaging
+477307,"plain xray shoulder or scapula ( one position, one film",1,imaging
+477308,plain xray skull,1,imaging
+477309,plain xray wrist,1,imaging
+477310,plainkneemrijoint,1,imaging
+477311,plainspiralctofurinarytract,1,other
+477312,plainu.t,1,other
+477313,"plant polysaccharide haemostatic agent, bioabsorbable",1,other
+477314,"plant polysaccharide haemostatic agent, non-bioabsorbable, antimicrobial",1,other
+477315,plant polysaccharide/inorganic composite haemostatic agent,1,dental
+477316,plantar corn excision under la,1,procedure
+477317,plantar wart large size,1,other
+477320,plantar wart single,1,other
+477321,plantar corn cryotherapy,1,procedure
+477322,plantar fasciotomy,1,procedure
+477323,plantar ulcer weight-bearing cast kit,1,supplies
+477325,plantar wart (2047,1,other
+477328,planter support silicone (large,1,supplies
+477329,planter support silicone (medium,1,supplies
+477330,planter support silicone (x-large,1,supplies
+477331,planter support silicone (xx-large,1,supplies
+477332,plants & pollen allergen each by rast - ?????,1,lab_test
+477333,plaque curettage,1,procedure
+477349,plaquenil200mg60tab,1,other
+477350,"plaquette d'ancrage, pullup, tunnel cortical, 10mm",1,other
+477351,"plaquette dancrage, pullup, tunnel cortical, 10mm",1,other
+477353,plasatic,1,other
+477359,plasitc high index 1.60 white,1,eyewear
+477360,plasitc high index 1.60 white/m.coated,2,eyewear
+477361,plasitc high index 1.60 white/m.coated ()0.00(+-)10.00sph upto to 2.00 cyl,1,eyewear
+477363,plasitc normal index 1.50/pbx/pgx,1,eyewear
+477364,plasitc normal index 1.50/pbx/pgx ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477365,plasitc normal index 1.50/pbx/pgx/m.coated,1,eyewear
+477366,plasitc normal index 1.50/pbx/pgx/m.coated ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477367,plasitc normal index 1.50/pbx/pgx/m.coated ()0.00()6.00sph upto to 2.00 cyl,1,eyewear
+477368,plasitc normal index 1.50/pbx/pgx/m.coated g2,1,eyewear
+477369,plasitchigh index 1.60 white,1,other
+477370,plasitchigh index 1.60 white g6,1,other
+477371,plasiv,1,other
+477383,plasma,1,lab_test
+477384,plasma 250cc,1,lab_test
+477385,"plasma blade x 3.0s light, medtronic #ps210-030s-light",1,lab_test
+477386,plasma cell analysis,1,lab_test
+477387,plasma cell dyscrasia/multiple myeloma panel,1,lab_test
+477388,plasma fractions clotting time,1,lab_test
+477389,plasma pharesis (tpe,1,lab_test
+477393,"plasma rich platelets, proteins",1,lab_test
+477394,plasma viscosity,1,lab_test
+477395,"plasma cell ivd, kit, enzyme immunohistochemistry",1,lab_test
+477397,plasma or platelet or packed rbcs,1,lab_test
+477398,plasma pheresis,1,lab_test
+477400,plasma%20fractions%20clotting%20time%20,1,lab_test
+477402,"plasmapheresis/exchange, per session",1,physiotherapy
+477403,plasminogen activator inhibitor-1 - send out,1,other
+477404,plasminogen level,1,lab_test
+477405,plasmodium (malaria) ab,1,lab_test
+477412,plaster removal child,1,supplies
+477413,"plaster shoes ""xl"" (i-ming)-oo018",1,supplies
+477415,plaster strapping toe and finger,1,supplies
+477416,plaster bandage for ribs,1,supplies
+477418,plaster for finger,1,supplies
+477420,plaster of paris below elbow ??? ??? ?????,1,supplies
+477422,plaster of paris above knee -child,1,supplies
+477424,plaster of paris below knee ??? ??? ??????,1,supplies
+477425,plaster of paris below knee ( child,1,supplies
+477426,plaster silk 10 cm,1,supplies
+477427,plaster(back slab) above elbow,1,supplies
+477429,plastibell circumcision device 1.5cm,1,procedure
+477432,plastic (00.00-00.00) (00.00-06.00)-bashawri,1,eyewear
+477433,plastic (00.25-02.00) (00.00-04.00)-bashawri,1,eyewear
+477438,plastic (cr39) 6/2,1,eyewear
+477440,plastic 1.5 silkcoat blue,1,eyewear
+477441,plastic 1.50 go,1,eyewear
+477442,plastic 1.50 hmc,1,eyewear
+477443,plastic 1.50 hmc - ib5phm-2/4,1,eyewear
+477444,plastic 1.50 trans go,1,eyewear
+477445,plastic 1.50 trans go - ib6bgp2go,1,eyewear
+477446,plastic 1.56 hc,1,eyewear
+477447,plastic 1.56 hi index,1,eyewear
+477453,plastic 1.6 mc,1,eyewear
+477456,plastic 1.61 go,1,eyewear
+477457,plastic 1.61 hmc,1,eyewear
+477458,plastic 1.61 hc,1,eyewear
+477459,plastic 1.61 hc - ib5m61-4/2,1,eyewear
+477460,plastic 1.67,1,eyewear
+477461,plastic 1.67 go,1,eyewear
+477462,plastic 1.67 hicyl,1,eyewear
+477463,plastic 1.67 hmc,1,eyewear
+477466,plastic 1.74 go,1,eyewear
+477467,plastic 1.74 go - ib6x74-2/4go,1,eyewear
+477468,plastic 1.74-lab,1,eyewear
+477470,plastic airwear 360,1,eyewear
+477471,plastic american optical,1,eyewear
+477473,plastic bandage = 29530,1,eyewear
+477476,plastic bifocal (up to add +3.00 & cyl 2.00,1,eyewear
+477477,plastic bifocal 1.50 d28 mc (114,1,eyewear
+477478,plastic bifocal 1.60 d28 mc (157,1,eyewear
+477479,plastic bifocal e-line normal index 1.50 white,1,eyewear
+477480,plastic bifocal e-line normal index 1.50 white /m.coated,1,eyewear
+477481,plastic bifocal flat top normal index 1.50 white,1,eyewear
+477482,plastic bifocal flat top normal index 1.50 white/m.coated,1,eyewear
+477483,plastic bifocal flat top normal index 1.50 white/m.coated ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477484,plastic bifocal flat top normal index 1.50 white/m.coated ()0.00()6.00sph upto to 2.00 cyl,1,eyewear
+477485,plastic bifocal flat top normal index 1.60 white,1,eyewear
+477486,plastic bifocal flat top normal index 1.60 white ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477487,plastic bifocal flat top normal index 1.60 white ()0.00()6.00sph upto to 2.00 cyl,1,eyewear
+477488,plastic bifocal flat top normal index 1.60 white/m.coated,1,eyewear
+477489,plastic bifocal flat top normal index 1.60 white/m.coated ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477490,plastic bifocal flat top normal index 1.60 white/m.coated g4,1,eyewear
+477491,plastic bifocal kt 1.50 mc,1,eyewear
+477493,plastic bifocal multicoat,1,eyewear
+477494,plastic bifocal trn gry/brn (up to add +3.00 & cyl 2.00,1,eyewear
+477495,plastic blue cut,1,eyewear
+477496,plastic cr-39 d28 bifocal,2,eyewear
+477497,plastic cr-39 d28 bifocal / ar 99 coating,1,eyewear
+477498,plastic cr-39 hi-index single vision,2,eyewear
+477499,plastic cr-39 progressive,2,eyewear
+477500,plastic cr-39 progressive / ar 99 coating,2,eyewear
+477501,plastic cr-39 single vision - 02-plmc,2,eyewear
+477502,plastic cr-39 anti-reflection ar-99 sv,1,eyewear
+477505,plastic cr-39 hi-index 1.56 ar-99 sv,1,eyewear
+477506,plastic cr-39 photo chromic hi-index single vision,1,eyewear
+477507,plastic cr-39 photo-chromic ar-99 sv,1,eyewear
+477508,plastic cr-39 photo-chromic u.v. sv,1,eyewear
+477511,plastic cr-39 progressive photo-chromic u.v,1,eyewear
+477512,plastic cr-39 progressive with u.v,1,eyewear
+477515,plastic clex 1.50 sv mc,1,eyewear
+477516,plastic clex 1.60 aspheric mc,1,eyewear
+477517,plastic clex 1.74 aspheric mc,1,eyewear
+477518,plastic crizal prevencia,1,eyewear
+477519,plastic crizal prevencia transition,1,eyewear
+477520,plastic crizal prevencia transition airwear,1,eyewear
+477521,plastic crizal uv,1,eyewear
+477522,plastic crystal blue cut lens,1,eyewear
+477523,plastic d bifocal multicoated,1,eyewear
+477524,plastic d bifocal uncoated,1,eyewear
+477525,plastic divel 1.56 silken hydrophobic,1,eyewear
+477526,plastic divel 1.59 digi,1,eyewear
+477527,plastic divel 1.59 digi poly,1,eyewear
+477528,plastic divel 1.59 silken hydrophobic,1,eyewear
+477529,plastic divel 1.61 silken hydrophobic,1,eyewear
+477530,plastic divel 1.67 silken hydrophobic,1,eyewear
+477531,plastic easylux 1.50 extra short,1,eyewear
+477533,plastic h-index >2 (0-10,1,eyewear
+477534,plastic h-index >2 (0-2,1,eyewear
+477535,plastic h-index >2 (0-4,1,eyewear
+477536,plastic h-index >2 (0-6,1,eyewear
+477537,plastic h-index >2 (0-8,1,eyewear
+477538,plastic h-index >2 (10-2,1,eyewear
+477540,plastic hmc super hi-index 1.67,2,eyewear
+477541,plastic hmc super hi index 1.67,1,eyewear
+477543,"plastic hi index (above 2.25 sph, cyl",1,eyewear
+477544,plastic hi index (for all power,1,eyewear
+477545,plastic hi index 1.61,1,eyewear
+477548,plastic hi index multi coated (for all power,2,eyewear
+477549,plastic hi index over 3,1,eyewear
+477551,plastic hi-hindex 1.67,1,eyewear
+477552,plastic hi-index with mc hi power blue cut,1,eyewear
+477553,plastic high index 1.60 white,1,eyewear
+477554,plastic high index 1.60 white g2,1,eyewear
+477555,plastic high index 1.60 white/m.coated,1,eyewear
+477556,plastic high index 1.60 white/m.coated ()0.00()10.00sph 2.25 to 4.00 cyl,1,eyewear
+477557,plastic high index 1.60 white/m.coated g4,1,eyewear
+477558,plastic high index 1.67 white,1,eyewear
+477559,plastic high index 1.67 white ()0.00()15.00sph 4.25 to 6.00 cyl,1,eyewear
+477560,plastic high index 1.67 white g6,1,eyewear
+477561,plastic high index 1.67 white/m.coated,1,eyewear
+477562,plastic high index 1.67 white/m.coated ()0.00()15.00sph 2.25 to 4.00 cyl,1,eyewear
+477563,plastic high index 1.67 white/m.coated ()0.00()15.00sph 4.25 to 6.00 cyl,1,eyewear
+477564,plastic high index 1.67 white/m.coated ()0.00()15.00sph upto to 2.00 cyl,1,eyewear
+477565,plastic high index 1.67 white/m.coated g2,1,eyewear
+477566,plastic high index 1.67 white/m.coated g4,1,eyewear
+477567,plastic high index 1.67 white/m.coated g6,1,eyewear
+477568,plastic high index 1.67white,1,eyewear
+477569,plastic high index 1.67white g4,1,eyewear
+477570,plastic high index 1.74 white,1,eyewear
+477571,plastic high index 1.74 white ()0.00()12.00sph 4.25 to 6.00 cyl,1,eyewear
+477572,plastic high index 1.74 white ()0.00()12.00sph upto to 2.00 cyl,1,eyewear
+477573,plastic high index 1.74 white g2,1,eyewear
+477574,plastic high index 1.74 white g6,1,eyewear
+477575,plastic high index 1.74 white/m.coated,1,eyewear
+477576,plastic high index 1.74 white/m.coated ()0.00()12.00sph 2.25 to 4.00 cyl,1,eyewear
+477577,plastic high index 1.74 white/m.coated g6,1,eyewear
+477578,plastic high index 1.74white,1,eyewear
+477579,plastic high index 1.74white ()0.00()12.00sph 2.25 to 4.00 cyl,1,eyewear
+477580,plastic high index 1.74white g4,1,eyewear
+477581,plastic hind,1,eyewear
+477582,plastic hind 1.6,1,eyewear
+477583,plastic hind 1.67,1,eyewear
+477584,plastic hind mc,1,eyewear
+477585,plastic hind. 1.6 (00.00-00.00) (00.00-06.00)-bashawri,1,eyewear
+477586,plastic hind. 1.6 (00.00-00.00) (08.25-10.00)-bashawri,1,eyewear
+477587,plastic hind. 1.6 (00.00-00.00) (14.25-16.00)-bashawri,1,eyewear
+477588,plastic hind. 1.6 (00.25-02.00) (00.00-04.00)-bashawri,1,eyewear
+477589,plastic hind. 1.6 (00.25-02.00) (04.25-06.00)-bashawri,1,eyewear
+477590,plastic hind. 1.6 (00.25-02.00) (06.25-08.00)-bashawri,1,eyewear
+477591,plastic hind. 1.6 (00.25-02.00) (08.25-10.00)-bashawri,1,eyewear
+477592,plastic hind. 1.6 (00.25-02.00) (10.25-12.00)-bashawri,1,eyewear
+477593,plastic hind. 1.6 (02.25-04.00) (00.00-02.00)-bashawri,1,eyewear
+477594,plastic hind. 1.6 (02.25-04.00) (04.25-06.00)-bashawri,1,eyewear
+477595,plastic hind. 1.6 (04.25-06.00) (00.00-02.00)-bashawri,1,eyewear
+477596,plastic hind. 1.6 (04.25-06.00) (04.25-06.00)-bashawri,1,eyewear
+477597,plastic hind. 1.6 m.c. (00.00-00.00) (00.00-06.00)-bashawri,1,eyewear
+477598,plastic hind. 1.6 m.c. (00.00-02.00) (04.25-06.00)-bashawri,1,eyewear
+477599,plastic hind. 1.6 m.c. (00.00-02.00) (06.25-00.00)-bashawri,1,eyewear
+477600,plastic hind. 1.6 m.c. (02.25-04.00) (00.00-08.00)-bashawri,1,eyewear
+477601,plastic hind. 1.6 m.c. (02.25-04.00) (2.25-04.00)-bashawri,1,eyewear
+477602,plastic hind. 1.6 m.c. (02.25-04.00) (4.25-06.00)-bashawri,1,eyewear
+477603,plastic hind. 1.67 (00.00-00.00) (00.00-02.00)-bashawri,1,eyewear
+477604,plastic hind. 1.67 (00.00-00.00) (02.25-04.00)-bashawri,1,eyewear
+477605,plastic hind. 1.67 (00.00-00.00) (04.25-06.00)-bashawri,1,eyewear
+477606,plastic hind. 1.67 (00.00-00.00) (06.25-08.00)-bashawri,1,eyewear
+477607,plastic hind. 1.67 (00.00-00.00) (08.25-10.00)-bashawri,1,eyewear
+477608,plastic hind. 1.67 (00.00-00.00) (10.25-12.00)-bashawri,1,eyewear
+477609,plastic hind. 1.67 (00.00-00.00) (12.25-14.00)-bashawri,1,eyewear
+477610,plastic hind. 1.67 (00.00-00.00) (14.25-16.00)-bashawri,1,eyewear
+477611,plastic hind. 1.67 (00.00-00.00) (16.25-18.00)-bashawri,1,eyewear
+477612,plastic hind. 1.67 (00.25-02.00) (00.00-02.00)-bashawri,1,eyewear
+477613,plastic hind. 1.67 (00.25-02.00) (02.25-04.00)-bashawri,1,eyewear
+477614,plastic hind. 1.67 (00.25-02.00) (04.25-06.00)-bashawri,1,eyewear
+477615,plastic hind. 1.67 (00.25-02.00) (06.25-08.00)-bashawri,1,eyewear
+477616,plastic hind. 1.67 (00.25-02.00) (08.25-10.00)-bashawri,1,eyewear
+477617,plastic hind. 1.67 (00.25-02.00) (10.25-12.00)-bashawri,1,eyewear
+477618,plastic hind. 1.67 (00.25-02.00) (14.25-16.00)-bashawri,1,eyewear
+477619,plastic hind. 1.67 (00.25-02.00) (18.25-20.00)-bashawri,1,eyewear
+477620,plastic hind. 1.67 (02.25-04.00) (02.25-04.00)-bashawri,1,eyewear
+477621,plastic hind. 1.67 (02.25-04.00) (04.25-06.00)-bashawri,1,eyewear
+477622,plastic hind. 1.67 (02.25-04.00) (06.25-08.00)-bashawri,1,eyewear
+477623,plastic hind. 1.67 (02.25-04.00) (08.25-10.00)-bashawri,1,eyewear
+477624,plastic hind. 1.67 (02.25-04.00) (12.25-14.00)-bashawri,1,eyewear
+477625,plastic hind. 1.67 (02.25-04.00) (14.25-16.00)-bashawri,1,eyewear
+477626,plastic hind. 1.67 (02.25-04.00) (16.25-18.00)-bashawri,1,eyewear
+477627,plastic hind. 1.67 (04.25-06.00) (00.00-02.00)-bashawri,1,eyewear
+477628,plastic hind. 1.67 (04.25-06.00) (06.25-08.00)-bashawri,1,eyewear
+477630,plastic hind. 1.67 (04.25-06.00) (10.25-12.00)-bashawri,1,eyewear
+477631,plastic hind. 1.67 mc (00.00-00.00) (00.00-02.00)-bashawri,1,eyewear
+477632,plastic hind. 1.67 mc (00.00-00.00) (02.25-04.00)-bashawri,1,eyewear
+477633,plastic hind. 1.67 mc (00.00-04.00) (00.00-02.00)-bashawri,1,eyewear
+477634,plastic hind. 1.67 mc (00.00-04.00) (02.25-04.00)-bashawri,1,eyewear
+477635,plastic hind. 1.67 mc (00.00-04.00) (04.25-06.00)-bashawri,1,eyewear
+477636,plastic hind. 1.67 mc (02.25-04.00) (6.25-08.00)-bashawri,1,eyewear
+477637,plastic hind. 1.74 (00.00-00.00) (06.25-08.00)-bashawri,1,eyewear
+477638,plastic hind. 1.74 (00.00-00.00) (08.25-10.00)-bashawri,1,eyewear
+477639,plastic hind. 1.74 (00.25-02.00) (04.25-06.00)-bashawri,1,eyewear
+477640,plastic hind. 1.74 (00.25-02.00) (06.25-08.00)-bashawri,1,eyewear
+477641,plastic hind. 1.74 (00.25-02.00) (08.25-10.00)-bashawri,1,eyewear
+477642,plastic hind. 1.74 (00.25-02.00) (10.25-12.00)-bashawri,1,eyewear
+477643,plastic hind. 1.74 (02.25-04.00) (06.25-08.00)-bashawri,1,eyewear
+477644,plastic hind. 1.74 (04.25-06.00) (00.00-02.00)-bashawri,1,eyewear
+477645,plastic hind. 1.74 (04.25-06.00) (04.25-06.00)-bashawri,1,eyewear
+477646,plastic hind. 1.74 (04.25-06.00) (08.25-10.00)-bashawri,1,eyewear
+477647,plastic hind.1.6 m.c (02.25 04.00) (6.25 08.00) bashawri,1,eyewear
+477648,plastic hind.1.6 (00.00 00.00) (18.25 20.00) bashawri,1,eyewear
+477649,plastic hind.1.6 (02.25 04.00) (2.25 04.00) bashawri,1,eyewear
+477650,plastic hind.1.6 (02.25 04.00) (6.25 08.00) bashawri,1,eyewear
+477651,plastic hind.1.67 mc (02.25 04.00) (6.25 08.00) bashawri,1,eyewear
+477652,plastic hindex (1.56,1,eyewear
+477653,plastic hindex (1.6,1,eyewear
+477654,plastic hindex (1.74,1,eyewear
+477656,plastic hindex(1.61)(m.c,1,eyewear
+477660,plastic index 1.50 crizal a2,1,eyewear
+477661,plastic index 1.50 crizal a2 ()0.00()4.00sph upto to 2.00 cyl,1,eyewear
+477662,plastic index 1.50 crizal a2 g2,1,eyewear
+477663,plastic index 1.50 rodenstock superior perfalit,1,eyewear
+477664,plastic index 1.50 zeiss/m.coated,1,eyewear
+477665,plastic index 1.50 zeiss/trasition/grey/brown/m.coated,1,eyewear
+477666,plastic index 1.50 zeiss/trasition/grey/brown/m.coated ()0.00()4.00sph upto to 2.00 cyl,1,eyewear
+477667,plastic index 1.50/transition/grey/brown crizal a2,1,eyewear
+477668,plastic index 1.50/transition/grey/brown crizal a2 ()0.00()4.00sph upto to 2.00 cyl,1,eyewear
+477669,plastic index 1.59 airware crizal,1,eyewear
+477670,plastic index 1.59 airware crizal a2,1,eyewear
+477671,plastic index 1.59 airware crizal a2 ()0.00()4.00sph upto to 2.00 cyl,1,eyewear
+477672,plastic index 1.59 airware crizal a2 g2,1,eyewear
+477673,plastic index lite sp 1.50 nicon hcc,1,eyewear
+477675,plastic index lite sp 1.59 nicon hcc,1,eyewear
+477677,plastic index lite sp 1.60 nicon hcc,1,eyewear
+477679,plastic kidney basin 8.5 %,1,eyewear
+477680,plastic large wound closure,1,eyewear
+477681,plastic lenticular,1,eyewear
+477682,plastic lenticular ()0.00()15.00sph upto to 2.00 cyl,1,eyewear
+477683,plastic lenticular /m.coated,1,eyewear
+477685,plastic m.c (00.00 02.00) (00.00 04.00) bashawri,1,eyewear
+477686,plastic m.c (00.25 02.00) (4.25 06.00) bashawri,1,eyewear
+477687,plastic m.c (00.25 04.00) (00.00 02.00) bashawri,1,eyewear
+477688,plastic m.c (00.25 04.00) (00.00 06.00) bashawri,1,eyewear
+477689,plastic m.c (04.25 06.00) (00.00 02.00) bashawri,1,eyewear
+477690,plastic m.c (04.25 06.00) (4.25 06.00) bashawri,1,eyewear
+477691,plastic m.c. (00.00 00.00) (00.00 04.00) bashawri,1,eyewear
+477692,plastic m.c. (00.00 02.00) (00.00 04.00) bashawri,1,eyewear
+477693,plastic m.c. (00.00-02.00) (00.00-04.00)-bashawri,1,eyewear
+477694,plastic m.c. (00.25 02.00) (04.25 02.00) bashawri,1,eyewear
+477695,plastic m.c. (00.25 02.00) (04.25 06.00) bashawri,1,eyewear
+477696,plastic m.c. (00.25 02.00) (4.25 6.00) bashawri,1,eyewear
+477697,plastic m.c. (00.25-02.00) (4.25-06.00) bashawri,1,eyewear
+477699,plastic m.c. (02.25 04.00) (00.00 02.00) bashawri,1,eyewear
+477700,plastic m.c. (02.25 04.00) (02.25 04.00) bashawri,1,eyewear
+477701,plastic m.c. (02.25-04.00) (00.00-02.00)-bashawri,1,eyewear
+477702,plastic m.c. (02.25-04.00) (2.25-04.00)-bashawri,1,eyewear
+477703,plastic m.c. (02.25-04.00) (4.25-06.00)-bashawri,1,eyewear
+477704,plastic m.c. (04.25 06.00) (00.00 02.00) bashawri,1,eyewear
+477705,plastic m.c. (04.25-06.00) (00.00-02.00)-bashawri,1,eyewear
+477706,plastic m.c. (04.25-06.00) (04.25-06.00)-bashawri,1,eyewear
+477708,plastic mc h-index lens 1.67 (12/2,1,eyewear
+477709,plastic mc normal lens (2/2,1,eyewear
+477710,plastic mc varilux lens index1.70 (10/3,1,eyewear
+477711,plastic mc 1.56,1,eyewear
+477712,plastic mc 1.56 + cyl 225,1,eyewear
+477713,plastic mc 1.56 rx,1,eyewear
+477714,plastic mc 1.56 thin.light +diameter,1,eyewear
+477715,plastic mc 1.60,1,eyewear
+477716,plastic mc 1.60 rx,1,eyewear
+477717,plastic mc 1.67,1,eyewear
+477718,plastic mc 1.67 rx,1,eyewear
+477719,plastic mf easylux photo mc,1,eyewear
+477720,plastic mf easylux short mc 1.50,1,eyewear
+477721,plastic multi,1,eyewear
+477722,plastic multi coated (for all power,1,eyewear
+477723,plastic multicoat transition normal,1,eyewear
+477724,plastic multicoat hindex (1.6,1,eyewear
+477725,plastic multicoat normal,1,eyewear
+477726,plastic multifocal (pal) uncoated,1,eyewear
+477728,plastic normal 55,2,eyewear
+477729,plastic normal 65,1,eyewear
+477730,plastic normal (for all power,1,eyewear
+477732,plastic normal 1.50 rx,1,eyewear
+477733,plastic normal 1.50 rx go,1,eyewear
+477734,plastic normal 1.67,2,eyewear
+477736,plastic normal index 1.50/white /m.coated,1,eyewear
+477737,plastic normal index 1.50/white /m.coated ()0.00()4.00sph 4.25 to 6.00 cyl,1,eyewear
+477738,plastic normal index 1.50/white /m.coated g4,1,eyewear
+477739,plastic normal index 1.50/white/m.coated,1,eyewear
+477740,plastic normal index 1.50/white/m.coated ()0.00()4.00sph upto to 2.00 cyl,1,eyewear
+477741,plastic normal index 1.50/white/tinting,2,eyewear
+477742,plastic normal index 1.50/white/tinting ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477743,plastic normal index 1.50/white/tinting ()0.00()6.00sph upto to 2.00 cyl,1,eyewear
+477745,plastic normal multicoat,1,eyewear
+477746,plastic ot (00.00-00.00) (00.00-02.00)-bashawri,1,eyewear
+477747,plastic ot (00.00-00.00) (02.25-04.00)-bashawri,1,eyewear
+477748,plastic ot (00.25-02.00) (00.00-02.00)-bashawri,1,eyewear
+477749,plastic ot (00.25-02.00) (2.25-04.00)-bashawri,1,eyewear
+477750,plastic ot (00.25-02.00) (6.25-08.00)-bashawri,1,eyewear
+477752,plastic ot (00.25-04.00) (00.00-06.00)-bashawri,1,eyewear
+477753,plastic ot (00.25-06.00) (00.00-12.00)-bashawri,1,eyewear
+477755,plastic ot 1.67 (02.25-04.00) (00.00-02.00)-bashawri,1,eyewear
+477756,plastic ot (00.00 00.00) (00.00 02.00) bashawri,1,eyewear
+477757,plastic ot (00.25 02.00) (00.00 02.00) bashawri,1,eyewear
+477758,plastic ot (00.25 02.00) (8.25 10.00) bashawri,1,eyewear
+477759,plastic ot (00.25 04.00) (00.00 06.00) bashawri,1,eyewear
+477760,plastic ot (00.25-02.00) (00.00-02.00) bashawri,1,eyewear
+477761,plastic ot (00.25-04.00) (2.25-06.00) bashawri,1,eyewear
+477762,plastic ot (00.25-4.00) (00.00-06.00) bashawri,1,eyewear
+477763,plastic ot . 1.6 (00.00 02.00) (04.25 06.00) bashawri,1,eyewear
+477764,plastic ot . 1.6 (00.00-00.00) (02.25-04.00)-bashawri,1,eyewear
+477765,plastic ot . 1.6 (00.00-02.00) (04.25-06.00)-bashawri,1,eyewear
+477766,plastic ot 1.6 (00.00 00.00) (02.25 04.00) bashawri,1,eyewear
+477767,plastic ot m.c (00.25 02.00) (00.00 02.00) bashawri,1,eyewear
+477769,plastic ot m.c. (00.00-00.00) (02.25-04.00)-bashawri,1,eyewear
+477770,plastic ot m.c. (00.25 02.00) (00.00 02.00) bashawri,1,eyewear
+477771,plastic ot m.c. (00.25 02.00) (2.25 04.00) bashawri,1,eyewear
+477773,plastic ot m.c. (00.25-02.00) (2.25-04.00)-bashawri,1,eyewear
+477774,plastic ot. 1.6 (00.00 00.00) (02.25 04.00) bashawri,1,eyewear
+477775,plastic p.g/p.b mc 1.6,1,eyewear
+477776,plastic p.g/p.b progressive mc,1,eyewear
+477777,plastic pgx multicoat hi cyl,1,eyewear
+477778,plastic photo gray & brown+m.c,1,eyewear
+477779,plastic photo gray/photo brown mc,1,eyewear
+477782,plastic poly carbonate m,1,eyewear
+477783,plastic poly carbonate mc,1,eyewear
+477784,plastic polycorbonate,1,eyewear
+477785,plastic progressive,1,eyewear
+477786,plastic progressive 1.5,1,eyewear
+477787,plastic progressive hmc 1.56,2,eyewear
+477788,plastic progressive hmc 1.56 pl,1,eyewear
+477791,plastic progressive transition hmc 1.56,1,eyewear
+477792,plastic rx bi-focal 1.5 smart with out line satin blue coat,1,eyewear
+477793,plastic rx s.v 1.5 clear plastic multi coat plus,1,eyewear
+477794,plastic rx s.v 1.5 clear plastic satin blue coat,1,eyewear
+477795,plastic rx s.v 1.53 trivex clear plastic satin blue coat,1,eyewear
+477796,plastic rx s.v 1.56 pro-individual uv 420 satin blue coat,1,eyewear
+477797,plastic rx s.v 1.56 uv 420 multi coat plus,1,eyewear
+477798,plastic rx s.v 1.56 well supirier uv 420 multi coat plus,1,eyewear
+477799,plastic rx s.v 1.56 well supirier uv 420 satin blue coat,1,eyewear
+477800,plastic rx s.v 1.59 poly clear plastic multi coat plus,1,eyewear
+477801,plastic rx s.v 1.59 poly clear plastic satin blue coat,1,eyewear
+477802,plastic rx s.v 1.59 poly well supirier uv 420 multi coat plus,1,eyewear
+477803,plastic rx s.v 1.59 poly well supirier uv 420 satin blue coat,1,eyewear
+477804,plastic rx s.v 1.6 clear plastic multi coat plus,1,eyewear
+477805,plastic rx s.v 1.6 clear plastic satin blue coat,1,eyewear
+477806,plastic rx s.v 1.6 pro-individual uv 420 multi coat plus,1,eyewear
+477807,plastic rx s.v 1.6 well supirier uv 420 multi coat plus,1,eyewear
+477808,plastic rx s.v 1.6 well supirier uv 420 satin blue coat,1,eyewear
+477809,plastic rx s.v 1.67 clear plastic satin blue coat,1,eyewear
+477810,plastic rx s.v 1.67 pro-individual uv 420 multi coat plus,1,eyewear
+477811,plastic rx s.v 1.67 well supirier uv 420 multi coat plus,1,eyewear
+477812,plastic rx s.v 1.67 well supirier uv 420 satin blue coat,1,eyewear
+477813,plastic rx s.v 1.74 clear plastic satin blue coat,1,eyewear
+477814,plastic rx2 bi-focal 1.5 e-line satin blue coat,1,eyewear
+477815,plastic rx2 s.v 1.5 clear plastic multi coat plus,1,eyewear
+477816,plastic rx2 s.v 1.5 clear plastic satin blue coat,1,eyewear
+477817,plastic rx2 s.v 1.56 uv 420 satin blue coat,1,eyewear
+477818,plastic rx2 s.v 1.56 well supirier uv 420 multi coat plus,1,eyewear
+477819,plastic rx2 s.v 1.59 poly clear plastic multi coat plus,1,eyewear
+477820,plastic rx2 s.v 1.59 poly well supirier uv 420 satin blue coat,1,eyewear
+477821,plastic rx2 s.v 1.6 clear plastic satin blue coat,1,eyewear
+477822,plastic rx2 s.v 1.6 well supirier uv 420 satin blue coat,1,eyewear
+477823,plastic rx2 s.v 1.67 pro-individual uv 420 multi coat plus,1,eyewear
+477824,plastic rx2 s.v 1.67 pro-individual uv 420 satin blue coat,1,eyewear
+477825,plastic rx2 s.v 1.67 well supirier uv 420 multi coat plus,1,eyewear
+477826,plastic relax 1.59 polycarbonate clear mc,1,eyewear
+477827,plastic repair of laceration,1,eyewear
+477828,plastic stock s.v 1.5 normal above 2 cly un coated,1,eyewear
+477830,plastic stock s.v 1.56 blue coated above 2 cly hmc,1,eyewear
+477831,plastic stock s.v 1.56 clear above 2 cly hmc,1,eyewear
+477832,plastic stock s.v 1.56 clear hmc,1,eyewear
+477833,plastic stock s.v 1.59 poly hmc,1,eyewear
+477834,plastic stock s.v 1.6 clear hmc,1,eyewear
+477835,plastic stock s.v 1.74 clear above 2 cly hmc,1,eyewear
+477836,plastic single vision 1.6 uncoated ( up to 2.00 cyl,1,eyewear
+477837,plastic single vision hi-index,1,eyewear
+477838,plastic single vision multicoated ( up to 2.00 cyl,1,eyewear
+477839,plastic single vision uncoated ( up to 2.00 cyl,1,eyewear
+477840,plastic stitches,1,eyewear
+477841,plastic stitches 90582-02-01,1,eyewear
+477842,plastic surgery clinics_consultant fee,1,eyewear
+477843,plastic surgery consultant,1,eyewear
+477844,plastic surgery consultation fee dr. mohamed hejazy,1,eyewear
+477845,plastic surgery consultation fee dr. mohamed shaat,1,eyewear
+477846,plastic surgery hands wrist follow up,1,eyewear
+477847,plastic surgery hands wrist new follow up,1,eyewear
+477848,plastic surgery hands wrist new patient,1,eyewear
+477849,plastic surgery virtual follow-up,1,eyewear
+477850,plastic surgery examination fees (consultant,1,eyewear
+477851,plastic surgical stitches for a wound (per stitch,1,eyewear
+477852,plastic suturing of major wounds,1,eyewear
+477853,plastic transition hmc 1.56,1,eyewear
+477854,plastic v.lux,1,eyewear
+477855,plastic v.lux normal,1,eyewear
+477857,plastic varilux (for all power,1,eyewear
+477858,plastic varilux (up to add +3.00 & cyl 2.00,1,eyewear
+477860,plastic varilux multi coated ( for all power,1,eyewear
+477861,plastic varilux multi coated (for all power,1,eyewear
+477862,plastic varilux trn gry/brn (up to add +3.00 & cyl 2.00,1,eyewear
+477863,plastic verilux index 1.50 pgx/pbx,1,eyewear
+477864,plastic verilux index 1.50 pgx/pbx ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477865,plastic verilux index 1.50 pgx/pbx ()0.00()6.00sph upto to 2.00 cyl,1,eyewear
+477866,plastic verilux index 1.50 pgx/pbx/m.coated,1,eyewear
+477867,plastic verilux index 1.50 white,1,eyewear
+477868,plastic verilux index 1.50 white ()0.00()6.00sph upto to 2.00 cyl,1,eyewear
+477869,plastic verilux index 1.50 white g4,1,eyewear
+477870,plastic verilux index 1.50 white/m.coated,1,eyewear
+477871,plastic verilux index 1.50 white/m.coated ()0.00()6.00sph 2.25 to 4.00 cyl,1,eyewear
+477872,plastic verilux index 1.50 white/m.coated ()0.00()6.00sph upto to 2.00 cyl,1,eyewear
+477873,plastic verilux index 1.60 pgx/pbx g4,1,eyewear
+477874,plastic verilux index 1.60 pgx/pbx/m.coated,1,eyewear

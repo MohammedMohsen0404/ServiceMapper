@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+428872,"oth disorders of liver, minc",1,inpatient
+428873,"oth drug use&dependence, minc",1,inpatient
+428874,"oth ear,nose,mth and thrt dis,majc",1,inpatient
+428875,"oth ear,nose,mth and thrt dis,minc",1,inpatient
+428876,"oth ear,nose,mth and thrt pr, majc",1,inpatient
+428877,"oth ear,nose,mth and thrt pr, minc",1,inpatient
+428878,"oth ear,nose,mth&thrt dis,majc",1,inpatient
+428879,"oth ear,nose,mth&thrt dis,minc",1,inpatient
+428880,"oth ear,nose,mth&thrt pr, majc",1,inpatient
+428881,"oth ear,nose,mth&thrt pr, minc",1,inpatient
+428882,"oth endcrn,nutr and metab gi, majc",1,inpatient
+428883,"oth endcrn,nutr and metab gi, minc",1,inpatient
+428884,"oth endcrn,nutr&metab gi, majc",1,inpatient
+428885,"oth endcrn,nutr&metab gi, minc",1,inpatient
+428886,oth extraction,1,dental
+428887,"oth factors infl hlth st, majc",1,inpatient
+428888,"oth factors infl hlth st, minc",1,inpatient
+428889,"oth fem reprod sys gi, majc",1,inpatient
+428890,"oth fem reprod sys gi, minc",1,inpatient
+428891,"oth fllw up surg/med care,majc",1,inpatient
+428892,"oth fllw up surg/med care,minc",1,inpatient
+428893,"oth gi for other burns,majc",1,inpatient
+428894,"oth gi for other burns,minc",1,inpatient
+428895,"oth heptobilry and pancrs gi, intc",1,other
+428896,"oth heptobilry and pancrs gi, majc",1,inpatient
+428897,"oth heptobilry and pancrs gi, minc",1,inpatient
+428898,"oth heptobilry&pancrs gi, intc",1,other
+428899,"oth heptobilry&pancrs gi, majc",1,inpatient
+428900,"oth heptobilry&pancrs gi, minc",1,inpatient
+428901,"oth infect and parasitic dis, intc",1,other
+428902,"oth infect and parasitic dis, majc",1,inpatient
+428903,"oth infect and parasitic dis, minc",1,inpatient
+428904,"oth infect&parasitic dis, intc",1,other
+428905,"oth infect&parasitic dis, majc",1,inpatient
+428906,"oth infect&parasitic dis, minc",1,inpatient
+428910,"oth kidny and urnry trct dis, intc",1,other
+428911,"oth kidny and urnry trct dis, majc",1,inpatient
+428912,"oth kidny and urnry trct dis, minc",1,inpatient
+428913,"oth kidny&urnry trct dis, intc",1,other
+428914,"oth kidny&urnry trct dis, majc",1,inpatient
+428915,"oth kidny&urnry trct dis, minc",1,inpatient
+428916,"oth male reprod sys gi,majc",1,inpatient
+428917,"oth male reprod sys gi,minc",1,inpatient
+428918,"oth musculoskeletal dis, majc",1,inpatient
+428919,"oth musculoskeletal dis, minc",1,inpatient
+428920,"oth musculoskeletal pr, intc",1,other
+428921,"oth musculoskeletal pr, majc",1,inpatient
+428922,"oth musculoskeletal pr, minc",1,inpatient
+428923,"oth musculotendinous dis, majc",1,inpatient
+428924,"oth musculotendinous dis, minc",1,inpatient
+428925,"oth nplstc dis+mjr gi, intc",1,other
+428926,"oth nplstc dis+mjr gi, majc",1,inpatient
+428927,"oth nplstc dis+mjr gi, minc",1,inpatient
+428928,"oth nplstc dis+oth gi, majc",1,inpatient
+428929,"oth nplstc dis+oth gi, minc",1,inpatient
+428932,"oth pr for oth injuries, intc",1,other
+428933,"oth pr for oth injuries, majc",1,inpatient
+428934,"oth pr for oth injuries, minc",1,inpatient
+428935,"oth pr injuries lwr limb, majc",1,inpatient
+428936,"oth pr injuries lwr limb, minc",1,inpatient
+428937,"oth pr kidny and urnry tr dis,intc",1,other
+428938,"oth pr kidny and urnry tr dis,majc",1,inpatient
+428939,"oth pr kidny and urnry tr dis,minc",1,inpatient
+428940,"oth pr kidny&urnry tr dis,intc",1,other
+428941,"oth pr kidny&urnry tr dis,majc",1,inpatient
+428942,"oth pr kidny&urnry tr dis,minc",1,inpatient
+428943,"oth skn grf and dbrdmnt pr, intc",1,other
+428944,"oth skn grf and dbrdmnt pr, majc",1,inpatient
+428945,"oth skn grf and dbrdmnt pr, minc",1,inpatient
+428946,"oth skn grf& dbrdmnt pr, intc",1,other
+428947,"oth skn grf& dbrdmnt pr, majc",1,inpatient
+428948,"oth skn grf& dbrdmnt pr, majc ( drg 16 days pkg",1,inpatient
+428949,"oth skn grf& dbrdmnt pr, minc",1,inpatient
+428950,"oth skn,subc tis&brst pr, majc",2,inpatient
+428951,"oth skn,subc tis and brst pr, majc",1,inpatient
+428952,"oth skn,subc tis and brst pr, minc",1,inpatient
+428954,"oth skn,subc tis&brst pr, minc",1,inpatient
+428955,"oth transurethral procs, majc",1,inpatient
+428956,"oth transurethral procs, minc",1,inpatient
+428957,"oth utrs and adnx pr n-mal, majc",1,inpatient
+428958,"oth utrs and adnx pr n-mal, minc",1,inpatient
+428959,"oth utrs & adnx pr n-mal, majc",1,inpatient
+428960,"oth utrs & adnx pr n-mal, minc",1,inpatient
+428961,"oth vag,cervix and vulva pr, majc",1,inpatient
+428962,"oth vag,cervix and vulva pr, minc",1,inpatient
+428963,"oth vag,cervix&vulva pr, majc",1,inpatient
+428964,"oth vag,cervix&vulva pr, minc",1,inpatient
+428965,oth-er stay (per hour,1,other
+428967,oth-i v fluids with pump,1,supplies
+428968,oth-i v fluids without pump,1,supplies
+428971,other,1,other
+428972,other admin of pharmac agent antineopl,1,consultation
+428973,other admin of pharmac agent oth & unsp,4,consultation
+428974,other administration of pharmacological agent,2,consultation
+428975,"other administration of pharmacological agent, steroid",2,consultation
+428976,other aicd procedures,1,other
+428977,other arteriography,2,other
+428978,other assessment/consultation/evaluation,2,consultation
+428979,other audiometry,6,diagnostic
+428980,other baby services,1,other
+428981,"other back and neck pr, majc",1,inpatient
+428982,"other back and neck pr, minc",1,inpatient
+428983,"other back & neck pr, majc",1,inpatient
+428984,"other back & neck pr, minc",1,inpatient
+428985,other bariatric procs,1,other
+428986,other body fluid non-gynecology cytology,1,lab_test
+428987,other body fluid non-gynecology cytology liquid base,1,lab_test
+428988,other body fluids (chemistry & cell count,1,lab_test
+428989,other body fluids (synovial fluid,1,supplies
+428990,"other burns, majc",1,inpatient
+428991,"other burns, minc",1,inpatient
+428992,"other change in muscle or tendon length (lengthening, shortening",1,procedure
+428993,"other change in muscle or tendon length (lengthening, shortening) - 1 day pkg",1,procedure
+428994,other change in muscle or tendon length(lengthe,1,other
+428995,"other change in muscle or tendon length(lengthening ,shortening) - package",1,procedure
+428996,other charges,1,other
+428998,"other circulatory dis, intc",1,other
+428999,"other circulatory dis, majc",1,inpatient
+429000,"other circulatory dis, minc",1,inpatient
+429001,other colostomy,2,procedure
+429002,other culture,2,lab_test
+429003,other culture - sputum c/s,1,lab_test
+429004,other culture -stool c/s,1,lab_test
+429005,other culture-urine c/s,1,lab_test
+429006,other destruction of lesion of cervix,2,other
+429008,other diagnostic procedures on nose,2,other
+429009,"other digestive sys dis, intc",1,other
+429010,"other digestive sys dis, majc",1,inpatient
+429011,"other digestive sys dis, minc",1,inpatient
+429012,"other dis of nervous sys, majc",1,inpatient
+429013,"other dis of nervous sys, minc",1,inpatient
+429014,other dorso-lumbar spinal - fusion,1,procedure
+429015,"other drugs iv infusion w/out medication (incl; drug prep, consult supervision,accom, ivfluids,supplies, nurse care",1,supplies
+429016,"other ear, nose, mouth and throat diagnostic tests, measures or investigations endoscopic velophary",1,lab_test
+429017,"other elbow and forearm pr, minc",1,inpatient
+429018,"other elbow & forearm pr, majc",1,inpatient
+429019,"other elbow & forearm pr, minc",1,inpatient
+429020,other electrocardiography [ecg,9,diagnostic
+429021,other emergency serv,1,other
+429022,other endoscopic dilation of oesophagus,2,procedure
+429023,"other eye procedures, majc",1,inpatient
+429024,"other eye procedures, minc",1,inpatient
+429025,"other foot procedures, majc",1,inpatient
+429026,"other foot procedures, minc",1,inpatient
+429027,other fusion of foot including implant,1,supplies
+429028,other fusion of toe including implant,1,supplies
+429029,"other head injuries, majc",1,inpatient
+429030,"other head injuries, minc",1,inpatient
+429031,other hernia repair (exomphalos)- package,1,procedure
+429032,"other hip and femur pr, intc",1,other
+429033,"other hip and femur pr, majc",1,inpatient
+429034,"other hip and femur pr, minc",1,inpatient
+429035,"other hip & femur pr, intc",1,other
+429036,"other hip & femur pr, majc",1,inpatient
+429037,"other hip & femur pr, minc",1,inpatient
+429038,"other incision & drainage of ssct, smple/sngle",1,procedure
+429039,other incision and drainage of skin and subcutaneous tissue,2,procedure
+429040,other incision of vulva or perineum,2,procedure
+429041,other intranasal procedure maxillary antrum,1,other
+429042,other intranasal procedures on ethmoidal sinus,1,procedure
+429043,other intranasal procedures on maxillary antrum,2,other
+429044,other intrathoracic procedures on aortic valve with cardiopulmonary bypass,1,other
+429045,other intrathoracic procedures on atrium with cardiopulmonary bypass ( up to 7 days package) 2 icu+5 ward,1,consultation
+429046,other intrathoracic procedures on heart with cardiopulmonary bypass,1,other
+429047,other intubation of respiratory tract,2,procedure
+429048,"other joint replacement, minc",1,inpatient
+429049,"other knee procedures, majc",1,inpatient
+429050,"other knee procedures, minc",1,inpatient
+429051,other laparoscopic repair of ovary,1,procedure
+429052,other local excisn or destrctnof lesion-hand & finger,1,other
+429053,"other male reprod sys dis,majc",1,inpatient
+429054,"other male reprod sys dis,minc",1,inpatient
+429055,other measurement of respiratory function,2,lab_test
+429057,"other neoplastic dis, intc",1,other
+429058,"other neoplastic dis, majc",1,inpatient
+429059,"other neoplastic dis, minc",1,inpatient
+429060,other otoacoustic emissions evaluation,2,consultation
+429061,other oxygen enrichment,3,supplies
+429062,other pacemaker pr,1,supplies
+429063,other peripheral arteries aneurysms repair,1,procedure
+429064,other peripheral nerve block,1,procedure
+429065,other peripheral rf,1,lab_test
+429066,other photography of eye,2,other
+429068,other preventive procedures15,1,other
+429069,other procedures for glaugoma,1,other
+429070,"other procedures on abdomen, peritoneum or omentum,pelvis",1,other
+429071,other procedures on anterior chamber,1,other
+429072,other procedures on breast,1,other
+429073,"other procedures on cornea, unilateral",2,other
+429074,other procedures on digestive system (esophageal manometry) - pkg,1,other
+429075,other procedures on external ear,1,other
+429076,"other procedures on inner ear, unilateral",1,other
+429077,"other procedures on inner, ear, bilateral (video head impulse test",1,lab_test
+429078,other procedures on large intestine,1,other
+429079,other procedures on larynx video laryngostrobscopy cd + report,1,procedure
+429080,"other procedures on lens, unilateral",1,eyewear
+429081,other procedures on palate nasometer function test,1,lab_test
+429082,"other procedures on retina or choroid, unilateral",2,other
+429083,other pulp treatment,1,dental
+429084,other rectal irrigation,2,procedure
+429085,other rep tendon hand,1,other
+429086,other repair of ankle,1,procedure
+429087,other repair of bladder,1,procedure
+429088,other repair of external ear,1,procedure
+429089,other repair of eyeball,1,procedure
+429090,other repair of hand finger,2,procedure
+429091,other repair of knee,1,procedure
+429092,other repair of scrotum or tunica vaginalis ( up to 3 days package,1,procedure
+429093,other repair of small intestine,1,procedure
+429094,other repair of ureter,1,procedure
+429095,other repair of urethra,1,procedure
+429096,"other resp sys dis, majc",1,inpatient
+429097,"other resp sys dis, minc",1,inpatient
+429098,"other respiratory sys gi, intc",1,other
+429099,"other respiratory sys gi, majc",1,inpatient
+429100,"other respiratory sys gi, minc",1,inpatient
+429101,other services crepe / tensoplast rol,1,other
+429102,other services crepe / tensoplast roll,1,other
+429103,other services crepe / tensoplast roll - 086-12570,1,other
+429104,other services crepe / tensoplast rollother services crepe / tensoplast roll0 cm*10 cm,1,other
+429105,other shoulder procedures,2,other
+429106,other sleep disorder function tests,2,lab_test
+429107,other specimen bacterial culture &sensitivity,1,lab_test
+429108,other specimen for routine c/s,1,lab_test
+429109,other stenting of biliary tract,1,other
+429110,other subspecialty consultation,1,consultation
+429111,other surgical endovenous ablation therapy c38.08-b,1,physiotherapy
+429112,other surgical occlusion of vessels,1,procedure
+429113,other surgical occlusion of vessels(endovenous treatment 2legs,1,procedure
+429114,other suture of flexor tendon of foot,1,supplies
+429115,other suture of flexor tendon of hand,1,supplies
+429116,other suture of other tendon of foot,1,supplies
+429117,other suture of other tendon of hand,2,supplies
+429119,other undefined endo procedures (per 15 minutes)(708018,1,other
+429120,other uture of flexor tendon of hand,1,other
+429122,other vestibular function tests,3,lab_test
+429123,other x-rays single view,1,imaging
+429124,others,1,other
+429125,others(dental,1,dental
+429126,others(pre operative,1,other
+429128,others-411900,1,other
+429129,others-serum tibc,1,lab_test
+429130,othman a. waked,1,other
+429131,othoptic work up,1,other
+429135,otiffany2137 52 8055,1,other
+429136,otiffany2138 51 8134,1,other
+429137,otiffany2148 50 8015,1,other
+429138,otilonium bromide,1,other
+429166,otis urethrotomy,1,procedure
+429167,"otitis media and upp resp inf,majc",1,inpatient
+429168,"otitis media and upp resp inf,minc",1,inpatient
+429169,"otitis media&upp resp inf,majc",1,inpatient
+429170,"otitis media&upp resp inf,minc",1,inpatient
+429171,oto acoustic emission,2,other
+429172,oto - acoustic emission,1,other
+429173,oto acoustic emission oae,1,other
+429174,oto acoustic emission oae neonatal hearing screening test,1,lab_test
+429176,oto-acoustic emis,1,other
+429177,oto-acoustic emission,1,other
+429178,oto-acoustic emissions,2,other
+429179,otoacgustic emissions testing,1,lab_test
+429180,otoacoustic emission,1,other
+429181,otoacoustic emission (oae,2,other
+429182,otoacoustic emission + screening abr,1,lab_test
+429183,otoacoustic emission au00392018,1,other
+429184,otoacoustic emission screening test,1,lab_test
+429185,otoacoustic emission test,2,lab_test
+429186,otoacoustic emissions (oae,1,other
+429187,otoacoustic emissions - oaes,1,other
+429188,otoacoustic emissions screening,1,lab_test
+429202,otocol e/d,1,other
+429203,otocol e/d( tier1,1,insurance
+429204,otocol ear d,1,other
+429210,otocol ear drop10ml,1,other
+429253,"otocol ear drops50,50%",1,other
+429254,otocol ear dropsops,1,other
+429257,otocol eardrop,1,other
+429264,otocoustic emission,1,other
+429265,otomed,1,other
+429271,otoplasty (m) (45659 x 2,1,procedure
+429272,otoplasty (one ear only)-l.a,1,supplies
+429273,otoplasty unilateral,1,procedure
+429288,otoscope disp. ear tip (pedia,1,other
+429289,"otoscope ear tip, adult 4.25mm welch allyn",1,other
+429290,otoscope specula 2.5mm 52432 p,1,other
+429291,"otoscope, specula 4mm b/34 reg disp., , non",1,other
+429292,otoscopes tip adult 4.25mm sterile disposable (850s,1,supplies
+429293,otoscopes tip pediatric 2.75mm sterile disposable (850s,1,supplies
+429294,"otoscopy, bilateral",2,procedure
+429295,otoscpe,1,other
+429301,otozol,1,other
+429338,otozol 1% ear drop1%,1,other
+429339,otozol 1% ear drop10 ml,1,other
+429366,otozol ear drops10ml ( f,1,other
+429376,otri allergy # 24hr relief,1,other
+429382,otri allergy 24hr relief,1,other
+429401,otriallergy 120met/dos aquose spry,1,other
+429412,otrisalin,1,other
+429428,otrisalin spra,1,other
+430108,otrivinnasaldrops(children,1,other
+430109,otrivinnasalspray(adult,1,other
+430111,ottagono/c.9/f/23,1,other
+430112,otto kern3017 3=2/2013 (00.00,1,other
+430113,ouantitative h pylori,1,lab_test
+430114,oudiometry,1,other
+430115,oudiometry - ???????? ??????,1,other
+430116,oudiometry - قياس سمع,1,other
+430117,oudiotery reflex - وظائف الاذن الوسطى,1,other
+430118,ousmane -- toure,1,other
+430120,out patient consultation fee,1,consultation
+430121,out patient consultation fee ( h.q)( 400,1,consultation
+430122,out patient consultation fee ( h.q)( 500,1,consultation
+430123,out patient consultation fee ( h.q)( 600,1,consultation
+430124,out. surg. or endovascular treat. of comlicated venous reflux more than 3 veins in one session,1,physiotherapy
+430125,out. surg. or endovascular treat. of sympt. reflux in any 2 veins treated in 1 session,1,physiotherapy
+430126,outer suture (2 to 10 stitch,1,supplies
+430127,outpatient clinic consultation fee,1,consultation
+430128,outpatient clinic consultation fee (ex. 800,1,consultation
+430129,outpatient consultation,1,consultation
+430130,outpatient consultation - psychiatry,1,consultation
+430131,outpatient diagnostic hysteroscopy and endometrial biopsy,1,procedure
+430132,outpatient diagnostic polysomnogram,1,other
+430133,outpatient specialist consultation,1,consultation
+430134,outpatient surgical or endovascular treatment of symptomatic reflux/perforator vein,1,procedure
+430135,outside visiting doctors - cardio,1,other
+430136,outside visiting doctors - ent,1,other
+430137,outside visiting doctors - gen surg,1,other
+430138,outside visiting doctors - pedia,1,other
+430139,outside consult.-in pt. visit,1,consultation
+430140,outside consultant fee per visit,1,consultation
+430141,outside consultation for histopathology,1,lab_test
+430142,outside ct film interpretation,1,imaging
+430143,outside doctor consultant,1,consultation
+430144,outside doctor inp fee day,1,consultation
+430145,outside donors bleeding services,1,lab_test
+430154,outside internal medicene consultation,1,consultation
+430156,outside mri film interpretation,1,imaging
+430157,outsource pre employee drug test,1,lab_test
+430158,ova and parasite s,1,other
+430160,ova & parasite (stool analysis,1,lab_test
+430161,ova & parasites in other body fluids,1,supplies
+430162,"ova and parasites, direct smears, concentration and identification",1,other
+430163,ovain (egg) stool,2,lab_test
+430165,ovain egg stool,1,lab_test
+430166,"oval bur, 4.0 mm, h9101, conmed",1,supplies
+430167,oval burr,1,other
+430169,"oval xtendobutton fixation device, 15mm x 21mm, 10mm peg",1,procedure
+430170,oval/round xtendobutton fixation device diff,1,procedure
+430173,ovarial ab - s.o,1,lab_test
+430174,ovarian cyst aspiration,1,procedure
+430175,ovarian abs,1,lab_test
+430176,ovarian abscess/cyst drainage (vaginal approach,1,procedure
+430177,ovarian cycstectomy (3d,1,procedure
+430178,ovarian cysctectomy ( surgical ) - bilateral w/o histopathology,1,lab_test
+430179,ovarian cysctectomy ( surgical ) - unilateral w/o histopathology,1,lab_test
+430180,ovarian cyst aspiration (lap,1,procedure
+430181,ovarian cyst aspiration (trans-vaginal) multiple simple cysts,1,procedure
+430183,ovarian cystectomy (surgical,2,procedure
+430184,ovarian cystectomy unilateral,2,procedure
+430185,ovarian cystectomy ( laparoscopic,1,procedure
+430186,ovarian cystectomy (2nd operation 50%,1,procedure
+430187,ovarian cystectomy (bilateral) / laparascopic,1,procedure
+430188,ovarian cystectomy (lap,2,procedure
+430189,ovarian cystectomy (laparoscope,1,procedure
+430190,ovarian cystectomy (laparoscopic,1,procedure
+430191,ovarian cystectomy (open,1,procedure
+430192,ovarian cystectomy (open) 3 days,1,procedure
+430193,ovarian cystectomy (open) or oopherectomy,1,procedure
+430194,ovarian cystectomy (open) or oopherectomy (2nd operation 50%,1,procedure
+430196,ovarian cystectomy (surgical) unilateral 1d - 1 day(s,1,procedure
+430197,ovarian cystectomy - 3 days,1,procedure
+430198,ovarian cystectomy - open,1,procedure
+430199,ovarian cystectomy -a,1,procedure
+430200,ovarian cystectomy / laparascopic,1,procedure
+430201,ovarian cystectomy bilateral; open,1,procedure
+430202,ovarian cystectomy by laparatomy,1,procedure
+430203,ovarian cystectomy by laparoto,1,procedure
+430204,ovarian cystectomy by laparotomy,3,procedure
+430205,ovarian cystectomy endoscopy,1,procedure
+430206,ovarian cystectomy lap,1,procedure
+430207,ovarian cystectomy laparatomy,1,procedure
+430208,ovarian cystectomy laparatomy unilateral,1,procedure
+430209,ovarian cystectomy surgery,3,procedure
+430210,"ovarian cystectomy unilateral, open",1,procedure
+430211,ovarian cystectomy unilateral; open,1,procedure
+430212,ovarian cystectomy with adhesiolysis / laparascopic,1,procedure
+430213,ovarian cystectomy(2nd operation 50%,1,procedure
+430214,ovarian cystectomy(open/lap,1,procedure
+430215,"ovarian cystectomy, bilateral",1,procedure
+430216,"ovarian cystectomy, unilateral",2,procedure
+430217,"ovarian cystectomy, unilateral or bilateral",2,procedure
+430218,ovarian cystectomy- 3 days - pkg,1,procedure
+430219,ovarian cystectomy-unilateral,1,procedure
+430220,ovarian cystectomy. ( 58925,1,procedure
+430221,ovarian cystemctomy - unilateral - [laparotomy,1,procedure
+430222,ovarian drilling with adhesiolysis / laparascopic,1,procedure
+430223,ovarian vessels us.doppler multisection,1,imaging
+430224,ovary : ca72.4 / ca125,1,other
+430225,"ovary with or without tube, non-neoplastic",1,supplies
+430226,ovary(ca72.4/ca125,1,other
+430227,"ovary, biopsy/wedge resection",1,procedure
+430234,ovega 30softgel,1,other
+430238,ovemer plus,1,other
+430240,ovemer plus da 30,2,other
+430241,ovemer plus da 30's,1,other
+430244,ovemer pluse da 30,1,other
+430245,over 2cyl.to 4 cyl,2,eyewear
+430246,over 4cyl.to 6 cyl,2,eyewear
+430247,over knee cast without repair,1,supplies
+430248,overflow tubing set in/out for arthroscopy,1,supplies
+430249,overlapping sphincteroplasty,1,procedure
+430250,overnight diagnostic sleep study,1,consultation
+430251,overnight oximetry,2,other
+430252,overnight polysomnography diagnostic study,1,diagnostic
+430253,overnight polysomnography split night diagnostic & therapeutic,1,diagnostic
+430254,overnight portable pulse oxymetry study (level 4 study)-pkg,1,lab_test
+430255,oversace1235 53 1371,1,other
+430266,ovitrelle 250mic/g 1vial,1,other
+430270,ovogue4095b 51 5094,1,other
+430271,ovogue5224 51 2633,1,other
+430273,ovulation cycle tracking consultation,1,consultation
+430274,ovulation monitor,1,other
+430276,ox nebuliser,1,supplies
+430277,ox3000/c01/f,1,eyewear
+430278,ox3218 321802 54,1,other
+430279,ox3218 321808 54,1,other
+430280,ox3227 322704 55,1,other
+430281,ox3233 323302 52,1,other
+430282,ox5094 509401 52,1,other
+430283,ox5140 514001 54,1,other
+430284,ox5145 514501 50,1,other
+430285,ox5145 514504 50,1,other
+430286,ox5148 514802 54,1,other
+430287,ox533/sbsl2/f,1,other
+430288,ox555/cgcr4/f,1,other
+430289,ox8026/14/f/23,1,other
+430290,ox8034/0153/f,1,other
+430291,ox8050/0453/53,1,other
+430292,ox8050/08/53,1,other
+430293,ox8089/04/54/f,1,other
+430294,ox8092 809201 53,1,other
+430295,ox8092/03/53/f,1,other
+430296,ox8115 811501 54,1,other
+430297,ox8121 812101 53,1,other
+430298,ox8121/01/f,1,other
+430299,ox8127 55 812701,1,other
+430300,ox8136 813604 53,1,other
+430301,ox8143 814303 54,1,other
+430302,ox8143/01/f/21,1,other
+430303,ox8143/02/f/21,1,other
+430304,ox8149 814901 50,1,other
+430305,ox8152 815201 53,1,other
+430306,ox8153 815305 53,1,other
+430307,ox8156/01/f/22,1,other
+430308,ox8163 816304 53,1,other
+430309,ox8163/03/53/f/22,1,other
+430310,ox8164 816401 53,1,other
+430311,ox8177/01/f/22,1,other
+430314,oxalate,2,other
+430315,oxalate (24 hour urine,1,lab_test
+430316,oxalate (24 hours urine) - s.o,1,lab_test
+430317,oxalate (random urine) - s.o,1,lab_test
+430318,oxalate (u,1,other
+430319,oxalate (urine,1,lab_test
+430320,oxalate / creatinine ratio,1,lab_test
+430321,oxalate urine,1,lab_test
+430322,oxalate( so,1,other
+430323,oxalate/creatinine ratio in urine - s.o,1,lab_test
+430324,oxalates in urine {bs},1,lab_test
+430365,oxaskjl,1,other
+430370,oxcarbazepine,1,other
+430380,oxcarbazepine structure,1,other
+430381,oxcarbazepine structure - s.o,1,lab_test
+430383,oxedo,1,other
+430384,oxembbery,2,other
+430385,oxemberg,2,other
+430386,oxembery 5003,1,other
+430388,oxf1310/c4/f,1,eyewear
+430389,oxf1810/c5/f,1,eyewear
+430390,oxf1820/c2/f,1,eyewear
+430391,oxf1845/c1/f,1,eyewear
+430392,oxf1845/c2/f,1,eyewear
+430393,oxf1920/c3/f,1,eyewear
+430394,oxf1920s/c1/f,1,eyewear
+430395,oxf1920s/c2/f,1,eyewear
+430396,oxf1937/c1/f,1,eyewear
+430397,oxf1940/c1/f,1,eyewear
+430398,oxf1940/c2/f,1,eyewear
+430399,oxf1943/c2/f,1,eyewear
+430400,oxf1943/c5/f,1,eyewear
+430401,oxf1943/c7/f,1,other
+430402,oxf1943/c9/f,1,other
+430403,oxf1947/c1/f,1,eyewear
+430404,oxf1949/c2/f,1,eyewear
+430405,oxf1955/c01/f,1,eyewear
+430406,oxf1969/c1/f,1,eyewear
+430407,oxf1973/c1/f,1,eyewear
+430408,oxf1973/c3/f,1,eyewear
+430409,oxf1973/c4/f,1,eyewear
+430410,oxf1973/c5/f,1,eyewear

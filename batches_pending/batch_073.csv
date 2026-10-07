@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+247757,funduscopy examination,2,consultation
+247758,funduscopy or fundus,2,imaging
+247759,funduscopy with dilatation of pupils,1,procedure
+247760,fungal c&s,1,other
+247761,fungal c/s,1,lab_test
+247762,fungal culture,5,lab_test
+247763,fungal culture & sensitivity,2,lab_test
+247764,fungal culture ( c-s,2,lab_test
+247765,fungal culture (body fluids,1,lab_test
+247766,fungal culture (nail scraping,1,lab_test
+247767,fungal culture (others,1,lab_test
+247768,fungal culture (skin scraping,1,lab_test
+247769,fungal culture (sputum,1,lab_test
+247771,fungal culture c/s,1,lab_test
+247772,fungal culture identification,1,lab_test
+247773,fungal culture identification & sensitivity,1,lab_test
+247774,fungal culture other,1,lab_test
+247775,fungal culture skin,1,lab_test
+247776,fungal culture with smear,2,lab_test
+247778,fungal culture and sensitivity,1,lab_test
+247779,fungal exam.(koh,2,other
+247780,fungal examination,2,consultation
+247781,fungal examination & culture (skin,1,lab_test
+247782,fungal examination ( skin scraping,1,consultation
+247783,"fungal examination (koh) (hair , nail , scrapings",1,lab_test
+247784,fungal examination /koh,1,consultation
+247785,fungal identification (including c. auris,1,other
+247786,"fungal scraping (skin,hair",1,other
+247787,fungal scraping (skinhair,1,other
+247788,fungal scrapping,1,other
+247789,fungal sepecimen,1,other
+247790,fungal skin scrappings (koh,1,other
+247791,fungal smear (koh,3,lab_test
+247793,fungal smear koh,1,lab_test
+247794,fungal stain,1,other
+247795,funges,1,other
+247796,funges -1464,1,other
+247799,fungi c/s,1,lab_test
+247803,"fungi isolation in skin,hair nail scraping test",1,lab_test
+247804,fungi isolation in skinhair nail scraping culture presumtive test,2,lab_test
+247832,fungo 1% cream1g,1,other
+247843,fungo.cream20gm,1,other
+247844,fungul examination,1,consultation
+247845,fungus culture,5,lab_test
+247846,fungus serology - 333-40335,1,lab_test
+247847,fungus c/s,2,lab_test
+247849,fungus culture & s,1,lab_test
+247850,fungus culture & sensitivity,2,lab_test
+247851,fungus culture blood,1,lab_test
+247852,fungus culture dermatophy,2,lab_test
+247853,fungus culture yeast,2,lab_test
+247854,fungus exam,1,lab_test
+247855,fungus examination,4,lab_test
+247856,fungus examination (smear,2,lab_test
+247858,fungus isolation culture,1,lab_test
+247859,fungus koh ( skin,2,lab_test
+247860,fungus koh preparation,2,lab_test
+247861,fungus mount,1,lab_test
+247862,fungus nail cult,1,lab_test
+247863,fungus photography,1,lab_test
+247864,fungus scrapings,1,lab_test
+247865,fungus serology (aspergillus and candida,2,lab_test
+247866,fungus test/koh,1,lab_test
+247867,fungus-yeasts-screeninig (nose swab){bm},1,lab_test
+247868,fungus-yeasts-screeninig(throat swab){bm},1,lab_test
+247869,fungus/ koh,1,lab_test
+247871,funlus examination,1,consultation
+247872,funzol 150,1,other
+247880,funzol 150( tier1,2,insurance
+247914,fup,1,other
+247915,fup - dental clinic,1,dental
+247978,furazole 20tab,2,other
+248000,furla-vu4283/08hx/f,1,other
+248001,furla-vu4284/os81/f,1,other
+248002,furla-vu4293/04h1/f,1,other
+248006,furla/vu4337 col.0316/f,1,eyewear
+248097,furosemide10mg/mlsolution for injection2ml,1,other
+248100,fus - split - fish,1,lab_test
+248101,fusi bact ???? ???,1,other
+248102,fusi bact فيوس باك,1,other
+248756,fusibat- b,1,other
+249354,fusidicacid2%cream15gm,1,other
+249355,fusidicacid2%ointmenttube,1,other
+249358,fusion ent navigation machine (per use,1,supplies
+249359,fusion gene profile,1,lab_test
+249360,fusion loc peek suture anchors 4.5 rejoin,1,supplies
+249361,fusion loc peek suture anchors 4.5mm,1,supplies
+249362,fusion loc peek suture anchors 5.5 rejoin,1,supplies
+249363,fusion lock peek suture anchor 4.5mm,1,supplies
+249364,fusion needle knife cook medical fs-precut - per each,1,supplies
+249365,fusion of big toe,1,procedure
+249366,fusion of large joints with instrumentation,1,procedure
+249367,fusion of spine after fracture,1,procedure
+249368,fusion of spine after fracture or fracture dislocation (price is without plates & screws,1,supplies
+249369,fusion of the spine after frac or fracture dislocation,1,procedure
+249370,fusion of the spine after frac or fracture dislocation including implant,1,supplies
+249371,fusion of the spine after fracture or fracture dislo,1,procedure
+249372,fusion of the spine after fracture or fracture dislocation,1,procedure
+249373,fusion or refusion of 2-3 vertebra,1,procedure
+249374,fusion or refusion of 4-8 vertebra,1,procedure
+249375,fusion with interbody cage - one level,1,lab_test
+249376,fusion with pedicle screw fixation ( one level,1,lab_test
+249377,fusion with pedicle screw fixation ( three level,1,lab_test
+249378,fusion with pedicle screw fixation ( two level,1,lab_test
+249379,"fusion, joint, midtarsal",1,procedure
+249475,fusix40mg30tab,2,other
+249503,futazol cr,1,other
+249504,futoro soft cervical coll futuro soft cervical collar,1,imaging
+249505,futro sp l/ank sup s/sn76581,1,other
+249506,futro sp.l/elb sup l 76579,1,other
+249507,futuro sport adjustable knee support #09039,2,supplies
+249508,futuro 01036 wrist inf.pre.fit,1,supplies
+249509,futuro 01036en wrist support (adj,1,supplies
+249510,futuro 01037 inf.precision ankle,1,supplies
+249511,futuro 01038,1,supplies
+249512,futuro 01038 elbow sup infity. precision,1,supplies
+249513,futuro 01038en elbow.brace,1,supplies
+249514,futuro 01039 inf.precision knee,1,supplies
+249515,futuro 01039ent knee support (adj,1,supplies
+249516,futuro 09027en cerv.col.adj-soft,1,eyewear
+249517,futuro 09033en wrist support black (adj,1,supplies
+249518,futuro 09037 sport adj.ankle,1,supplies
+249519,futuro 09037en ankle.support,1,supplies
+249520,futuro 09037sport neop adj ank,1,supplies
+249521,futuro 09038 sport adj.elbow,1,supplies
+249522,futuro 09144ent wrist stabilizer lh (s/m,1,lab_test
+249523,futuro 09190en knee strap (adj,1,supplies
+249524,futuro 10770 rev.spl.wrist,1,supplies
+249525,futuro 10770 rev.splint wrist,1,supplies
+249526,futuro 10770en wrist.brace.rt(adj,1,supplies
+249527,futuro 1350 cane.wood,1,supplies
+249528,futuro 1354 cane.wood,1,supplies
+249529,futuro 45538en wrist.brace left(l-xl,1,supplies
+249530,futuro 45694en knee.open.pet(s,1,imaging
+249532,futuro 45697 op/patella knee dupp l/s,1,supplies
+249534,futuro 45699 moist.cntrl.knee xl,1,supplies
+249535,futuro 45843 thumb stblzr.s/m,1,supplies
+249536,futuro 45844 thumb stblzr l-xl,1,supplies
+249537,futuro 45980 custom dial tennis elbow,1,supplies
+249538,futuro 45980en elbow strap (adj,1,supplies
+249539,futuro 46163en knee.brace(s,1,supplies
+249540,futuro 46164en knee.brace(m,1,supplies
+249541,futuro 46165en knee.brace(l,1,supplies
+249543,futuro 46200en abdom.brace(l,1,supplies
+249545,futuro 46201en abdom.brace(m,1,supplies
+249546,futuro 46204 adj arm sling,1,supplies
+249547,futuro 46204 pouch arm sling adult,1,supplies
+249548,futuro 46204en armsling.pouch-adult,1,supplies
+249549,futuro 46645 sport dlx stblzr adj ankle,1,supplies
+249550,futuro 46709en wrist.brace,1,supplies
+249551,futuro 46815 stblzr.back s-m,1,supplies
+249552,futuro 46816 stblzr.back l-xl,1,supplies
+249553,futuro 46816en sacro.brace(l-xl,1,supplies
+249555,futuro 46819en back support (adj,1,supplies
+249556,futuro 47550 stblzr sport adj.knee,1,supplies
+249557,futuro 47550en knee.brace,1,supplies
+249558,futuro 47736 sport ankle adj,1,supplies
+249559,futuro 47736en ankle brace (adj,1,supplies
+249561,futuro 47874 wrap around ankle s/s,1,supplies
+249562,futuro 47874en ankle support (s,1,supplies
+249563,futuro 47876 wrap around ankle l/s,1,supplies
+249564,futuro 47876en therm.comf.ankle(l,1,supplies
+249565,futuro 48400en wrist.brace.rt(s,1,supplies
+249567,futuro 48579 hinged knee brace adj,1,supplies
+249568,futuro 48579en knee brace (adj,1,supplies
+249569,futuro 601602 wrist custom dial,1,supplies
+249570,futuro 601602 wrist custom dial stab.r/h,1,supplies
+249571,futuro 611612 wrist brace custom left,1,supplies
+249572,futuro 611612en wrist.brace.lt(xl,1,supplies
+249573,futuro 71050 firm knee hghs opn toe l,1,supplies
+249574,futuro 71050en surg.knee.high(l,1,supplies
+249575,futuro 71051 firm knee hghs opn toe xl,1,supplies
+249576,futuro 71051en support.hose(xl,1,supplies
+249577,futuro 71065en thigh length (m) regular,1,supplies
+249578,futuro 71068 anti embolism st. white,1,supplies
+249580,futuro 76577en elbow.brace(s,1,supplies
+249582,futuro 76578en elbow.brace(m,1,supplies
+249584,futuro 76579en elbow.brace(l,1,supplies
+249585,futuro 76581 spiral ankle brace s/s,1,supplies
+249586,futuro 76581en ankle.brace(s,1,supplies
+249587,futuro 76582 spiral ankle brace m/s,1,supplies
+249588,futuro 76582en ankle.brace(m,1,supplies
+249589,futuro 76583en ankle.brace(l,1,supplies
+249590,futuro 76586 spiral knee brace s/s,1,supplies
+249591,futuro 76586en knee.brace(s,1,supplies
+249592,futuro 76587 spiral knee brace m/s,1,supplies
+249593,futuro 76587en knee.brace(m,1,supplies
+249594,futuro 76588 spiral knee brace l/s,1,supplies
+249595,futuro 76588en knee.brace(l,1,supplies
+249596,futuro 76589en knee.brace(xl,1,supplies
+249597,futuro 95341en knee support (adj,1,supplies
+249598,futuro 95345 slim adj.wrist stab.left,1,supplies
+249599,futuro 95347 slim adj.ankle s-m,1,supplies
+249600,futuro activ knee support m 48190,1,supplies
+249601,futuro adj knee starp 9189,1,supplies
+249602,futuro adj soft cervical collar 09027,1,imaging
+249603,futuro adj splint wrist brace 10770,1,supplies
+249604,futuro adj. soft cervical collar,1,imaging
+249605,futuro adje soft cervica09027,1,supplies
+249606,futuro adje soft cervical collar 2726,1,imaging
+249607,futuro adjustable ankle support,1,supplies
+249608,futuro adjustable cervical collar,1,imaging
+249609,futuro adjustable hinged knee brace,1,supplies
+249610,futuro adjustable knee stabilizer,1,supplies
+249611,futuro adult arm sling- all size,1,supplies
+249612,futuro adult pouch arm sling,2,supplies
+249613,futuro adult-46204en pouch arm sling,1,supplies
+249614,futuro ankl stb sprt adj 46645,1,supplies
+249615,futuro ankle brace stirrup adjusable,1,supplies
+249616,futuro ankle spiral/comfort lift support,1,supplies
+249619,futuro ankle support 01037 adj 1pk,1,supplies
+249620,futuro ankle support 404503 medium 1pk,1,supplies
+249621,futuro ankle support for her s-m 95347,1,supplies
+249622,futuro ankle support small 76581,1,supplies
+249623,futuro arm sling adult,1,supplies
+249624,futuro arm sling pouch adult,1,supplies
+249625,futuro back brace 46815 s-m,1,supplies
+249626,futuro back brace 46816 l-xl,1,supplies
+249627,futuro back support 2xl-3xl 46917,1,supplies
+249628,futuro comfort lift ankle support - large,1,supplies
+249629,futuro comfort lift ankle support - medium,1,supplies
+249630,futuro comfort lift ankle support- s - 76581,1,supplies
+249631,futuro comfort lift ankle support- small,1,supplies
+249632,futuro comfort lift elbow support (m) 76578,2,supplies
+249634,futuro comfort lift elbow support (s) 76577,1,supplies
+249635,futuro comfort lift knee support large,1,supplies
+249636,futuro comfort lift knee support x-large,1,supplies
+249637,futuro custom dial tennis elbow strap,1,supplies
+249638,futuro custom dial wrist stabilizer,1,supplies
+249639,futuro custom dial wrist stabilizer(left,1,supplies
+249640,futuro custom dial wrist stabilizer(right,1,supplies
+249641,futuro custom dial wrist stabilizer- left,1,supplies
+249642,futuro custom dial wrist stabilizer- right,1,supplies
+249643,futuro custom dial wrist stablizer right hand#601602,1,supplies
+249644,futuro delux wrist stabilizer left-all size,1,supplies
+249645,futuro delux wrist stabilizer rt-all size,1,supplies
+249646,futuro deluxe ankle stabilizer,1,eyewear
+249647,futuro deluxe back support,1,eyewear
+249648,futuro deluxe thumb stabilizer - l / xl,1,eyewear
+249649,futuro deluxe thumb stabilizer - s / m,1,eyewear
+249650,futuro deluxe thumb stabilizer - s/m,1,eyewear
+249651,"futuro deluxe thumb stabilizer, large - black #45844e",1,eyewear
+249652,"futuro deluxe thumb stabilizer, large - black #45844en",1,eyewear
+249653,futuro deluxe wrist stabilizer l-xl left,1,eyewear
+249654,futuro deluxe wrist stabilizer left s-m,1,eyewear
+249655,futuro diabetic socks men & women white,1,supplies
+249656,futuro dual knee strap support,1,supplies
+249657,futuro dual knee strap support 9195,1,supplies
+249658,futuro dual knee strap support 09195,1,supplies
+249659,futuro elasting stocking all size,1,supplies
+249660,futuro elbow adujstable sport support,1,supplies
+249661,futuro elbow comfort lift support,1,supplies
+249662,futuro elbow small 76577,1,supplies
+249663,futuro elbow strap 45980 adj,1,supplies
+249664,futuro elbow sup.pr/pad 47863l,1,supplies
+249665,futuro elbow sup.pr/pad47862 m,1,supplies
+249668,futuro elbow support,1,supplies
+249669,futuro elbow support-l-size,1,supplies
+249670,futuro elbow tennis custom dial strap,1,supplies
+249671,futuro ener.wrist.48400 s-m/r,1,supplies
+249672,futuro ener.wrist48403 l-xl /l,1,supplies
+249675,futuro energizing wrist support,1,supplies
+249676,futuro energizing wrst suppt.right l-xl,1,supplies
+249677,futuro firm knee high open toe l/s/xl,1,supplies
+249678,futuro foot therapeutic arch support,1,dental
+249679,futuro for her adj left hand 95345,1,supplies
+249680,futuro for her adj right hand 95346,1,supplies
+249681,futuro hand energizing support glove- s/m,1,supplies
+249682,futuro hinged knee brace adj,1,supplies
+249683,futuro hinged knee brace adj 45879,1,supplies
+249684,futuro hinged knee brace#48579,1,supplies
+249685,futuro infinity ankle support all size,1,supplies
+249686,futuro infinity knee stabilizer all size,1,supplies
+249687,futuro infinity precision fit ankle support,1,supplies
+249688,futuro infinity precision fit elbo support,1,supplies
+249689,futuro infinity precision fit knee support,1,supplies
+249690,futuro infinity precision knee support,1,supplies
+249691,futuro knee brace all size,1,supplies
+249692,futuro knee brace m 76587,1,supplies
+249693,futuro knee brace small 76586,1,supplies
+249694,futuro knee comfort support xl 76589,1,supplies
+249698,futuro knee length x-l white 71059,1,supplies
+249699,futuro knee length- xlarge beige,1,supplies
+249700,futuro knee medium white 71055,1,supplies
+249701,futuro knee slim sihouette stabilizer support,1,supplies
+249702,futuro knee sport adujstable stabilizer,1,supplies
+249703,futuro knee sport open patella-all size,1,supplies
+249704,futuro knee stabilizer knit xl 48192,1,supplies
+249705,futuro knee stabilizing support,1,supplies
+249706,futuro knee strap 09190 adj,1,supplies
+249707,futuro knee support - 01039,1,supplies
+249708,futuro knee support adjus for her. 95341,1,supplies
+249709,futuro knee support adjus. 95341,1,supplies
+249710,futuro knee support blk l 45697,1,supplies
+249711,futuro knee support l 76588,1,supplies
+249712,futuro knee support xl 76589,1,supplies
+249713,futuro knee support xl/s,1,supplies
+249714,futuro kneecomfort support l 76588,1,supplies
+249715,futuro l-xl thumb stabilizer,1,supplies
+249716,futuro lift knee support - large,1,supplies
+249717,futuro lift knee support - medium,1,supplies
+249718,futuro lift knee support - small,1,supplies
+249719,futuro light weight back support 6819,1,supplies
+249721,futuro moist.control ankle support,1,supplies
+249722,futuro open patella knee sport adj no 5215,1,supplies
+249723,futuro percision fit ankle support,1,supplies
+249724,futuro performan wrist support 01036,1,supplies
+249725,futuro pouch arm sling,1,supplies
+249726,futuro pouch arm sling 46204,1,supplies
+249727,futuro prec.fit knee sup01039,1,supplies
+249728,futuro prec.fit.wrist sup01036,1,supplies
+249729,"futuro precision fit knee support, adjustable #01039ent",1,supplies
+249731,futuro precision fit wrist support,1,supplies
+249732,futuro precision fit wrist support 01036,1,supplies
+249733,futuro quick strap ankle support,1,supplies
+249734,futuro rever.splint wrist brace,1,supplies
+249735,futuro reversible splint wrist brace,1,supplies
+249736,futuro reversible splint wrist brace adj,1,supplies
+249737,"futuro reversible splint wrist brace, adjustable #10770en",1,supplies
+249738,futuro shoulder support-all size,1,supplies
+249739,futuro slim sihoutte ankle stablizer adj,1,supplies
+249740,futuro slim sihoutte wrist stabilizer adj,1,supplies
+249741,futuro slim silhouette ankle support,1,eyewear
+249742,futuro slim silhouette knee adj stabilizer 341,1,eyewear
+249743,futuro slim silhouette wrist support - left hand,1,eyewear
+249744,futuro slim silhouette wrist support - right hand,1,eyewear
+249745,futuro slim silhoutte knee stabilizer,1,supplies
+249746,futuro soft cervical - adjustable #272600,1,imaging
+249747,futuro soft cervical collar,1,imaging
+249748,futuro soft cervical collar neck,1,imaging
+249749,futuro spiral elbo support no 42,1,supplies
+249750,futuro spiral lift elbow support large,1,supplies
+249751,futuro spiral lift ankle no 45,1,supplies
+249753,futuro spiral lift ankle support no45,1,supplies
+249754,futuro spiral lift knee brace 6588-6587-6589-6586,1,supplies
+249755,futuro spiral lift knee brace l/xl,1,supplies
+249756,futuro spiral lift knee brace no 44,1,supplies
+249757,futuro spiral lift knee brace s/m,1,supplies
+249758,futuro sport adj knee stab 47550,1,supplies
+249759,futuro sport adj wrist blk 46378,1,supplies
+249760,futuro sport adj wrist09033,1,supplies
+249761,futuro sport adj. neoprene ankle,1,supplies
+249762,futuro sport adj. wrist black,1,supplies
+249763,futuro sport adj.kne.stb47550,1,supplies
+249764,futuro sport adj.wrist bl futuro sport adj.wrist black no 5223,1,supplies
+249767,futuro sport adjustable wrist support,1,supplies
+249768,futuro sport ankle adjustable 09037,1,supplies
+249769,"futuro sport hinged knee brace, adjustable #48579e",1,supplies
+249770,futuro sport knee support no45699-696-697-694,1,supplies
+249771,futuro sport neop.adj.wrist,1,supplies
+249772,futuro sport wrist support adjustable 09033,1,supplies
+249773,futuro sport wrist support adjustable 09033 1pk,1,supplies
+249774,futuro sportmoi.con.kn 45697 l,1,supplies
+249775,futuro sprt adjstable knee stab,1,supplies
+249776,futuro st open toe knee length m 71033,1,supplies
+249777,futuro stabilizing back support 2xl-3xl,1,supplies
+249778,futuro stabilizing back support 2xl/3xl,1,supplies
+249779,futuro stabilizing back support 4681,1,supplies
+249780,futuro stabilizing back support l-xl,1,supplies
+249781,futuro stabilizing back support s-m,1,supplies
+249782,futuro stabilizing back support s/m/s,1,supplies
+249783,"futuro stabilizing back support, large #46816e",1,supplies
+249784,futuro stabilizing back support-all size,1,supplies
+249785,futuro stabilizing knee support- medium,1,supplies
+249786,futuro stabilizing knee support-all size,1,supplies
+249787,futuro stabilzining back support l/xl,1,supplies
+249788,futuro stabl.back46815 s-m,1,supplies
+249789,futuro stabl.back46816 l-xl,1,supplies
+249790,futuro stabl.knee sup46165 l,1,supplies
+249791,futuro stablizing back support,1,supplies
+249792,futuro stirrup ankle brace adjustable,1,supplies
+249793,futuro stocking l firm knee hghs open toe 71050,1,supplies
+249794,futuro stocking m firm knee hghs open toe 71033,1,supplies
+249795,futuro stocking pantyhose for women plus71031,1,supplies
+249796,futuro stocking xl firm knee hghs open toe 71051,1,supplies
+249798,futuro support abdominal belt 46201 med,1,supplies
+249799,futuro support adj knee stblzr e 47550,1,supplies
+249800,futuro support ankle sup med e 47875,1,supplies
+249801,futuro support knee adj 09039,1,supplies
+249802,futuro support knee brace 76587 med,1,supplies
+249803,futuro support knee med e46164,1,supplies
+249804,futuro support knee sup large e 46165,1,supplies
+249805,futuro support splint wrist bra e10765,1,supplies
+249806,futuro support sport ankle adj 524500,1,supplies
+249807,futuro support sport knee lrg 401505,1,supplies
+249808,futuro support stocking (m) beige firm compression stocking,1,supplies
+249809,futuro support wrist brace 46709 adj,1,supplies
+249810,futuro supprot left knee 76588 large,1,supplies
+249811,futuro supprot left knee 76589 xlarge,1,supplies
+249812,futuro surgical & abdominal support,1,supplies
+249814,futuro surgical and abd.supt l/s,1,supplies
+249815,futuro surgical and abd.supt m/s,1,supplies
+249816,futuro tennis elbow support 45975,1,supplies
+249817,futuro therap.diab.l/whit48537,1,supplies
+249818,futuro thumb stabilizer l-xl,1,supplies
+249819,futuro thumb stabilizer l-xl 45844,1,supplies
+249820,futuro thumb stabilizer large / x-large,1,supplies
+249821,futuro thumb stabilizer s-m,1,supplies
+249822,futuro thumb stabilizer s-m 45843,1,supplies
+249823,futuro thumb stabilizer s/m,1,supplies
+249824,futuro thumb stabilizer small-medium,1,supplies
+249825,futuro thumb stabilizer///foot therapeutic arch support,1,dental
+249826,futuro wrap around ankle support,1,supplies
+249827,futuro wrap around ankle support - small,1,supplies
+249828,futuro wrap around ankle support -47,1,supplies
+249829,futuro wrap around ankle support 4787,1,supplies
+249831,futuro wrist brace free size 46709 n,1,supplies
+249832,futuro wrist performance support 01036,1,supplies
+249833,futuro wrist stab lh adj.arabic,1,lab_test
+249834,futuro wrist stab.adjustable l 09014,1,supplies
+249835,futuro wrist stabilizer adj lift hand 95345,1,supplies
+249836,futuro wrist stabilizer adj/r 09013,1,supplies
+249837,futuro wrist stabilizer left 611612 ad,1,supplies
+249838,futuro wrist stabilizer left 611612 adj,1,supplies
+249839,futuro wrist stabilizer right 601602 adj,1,supplies
+249840,futuro wrist stabilzer - left,1,supplies
+249841,futuro wrist stabilzer - right,1,supplies
+249842,futuro wrist wrap around support,1,supplies
+249843,futuro- wrist brace free size no.23,1,supplies
+249844,futuro-deluxe wrist stabilizer(l-xl) left 22331,1,eyewear
+249845,futuro-deluxe wrist stabilizer(s-m) left 13431,1,eyewear
+249846,futuro-opn patella knee sport adi no.5215,1,supplies
+249847,futuro/luxor arm sling adult,1,eyewear
+249848,fuv crezal,1,eyewear
+249849,fuxran,1,other
+249851,fv,1,other
+249852,fvadol extra 24tab,1,other
+249853,fviii inhibitor with emicizumab (humanized chromogenic fviii,1,other
+249854,fx 80 classix,1,other
+249855,fx1 nut mix,1,other
+249856,fx14 vegetable mix,1,other
+249857,fx2 sea food mix,1,other
+249858,fx3 grain mix,1,other
+249859,fx7 food mix 1,1,other
+249860,fx73 meet (pork beef chicken,1,other
+249861,fx80 classix ref: f00002387,1,other
+249938,fabrication of temporary crown per crown,1,dental
+249939,fabrication of temporary crown; per crown,1,dental
+249940,face mask ( n 95 ) (1860,1,supplies
+249941,face mask box,1,supplies
+249942,face mask ear loop 3 ply box/50,1,supplies
+249943,face mask earloop,1,supplies
+249944,face mask n95 #1860,1,supplies
+249945,face mask n95 1805 (3m,1,supplies
+249946,face mask n95 1860 (3m,1,supplies
+249947,face mask n95 1860s (3m,1,supplies
+249948,face mask n95 1870 (3m,1,supplies
+249949,face mask n95 8210 (3m,2,supplies
+249951,face mask n95 8511 (3m,1,supplies
+249952,face mask n95 8512 (3m,1,supplies
+249954,face shield,1,other
+249955,face bone,1,imaging
+249956,"face splash shield, single-use",1,other
+249959,facet joint (one joint,1,supplies
+249961,facial - glycolic treatment 1 session,1,physiotherapy
+249965,facial bones - rad. exam,1,imaging
+249969,facial bones 2 vs om lat,1,imaging
+249970,facial bones 3v,1,imaging
+249973,facial bones xray p.a.+oblique,1,imaging
+249974,facial nerve monitor,1,other
+249975,"facial self drilling screw silver, 1.5x3mm, optimus #f15a03",1,supplies
+249976,"facial self drilling screw silver, 1.5x4mm, optimus #f15a04",1,supplies
+249977,"facial self drilling screw silver, 1.5x5mm, optimus #f15a05",1,supplies
+249978,facial bone rays put one,1,imaging
+249979,facial bone view,1,imaging
+249980,facial bones b / v 2f,1,imaging
+249981,facial bones--x-ray / radiography of other facial bone,1,imaging
+249982,facial bonnes,1,other
+249983,facial disinfectant,1,other
+249984,facialbones,1,other
+249985,facioscapulohumeral muscular dystrophy d4z4 send out- bs,1,other
+249986,"faciotomy, decompression carpal tunel",1,procedure
+249987,"faciotomy, decompression forearm, hand, leg, foot",1,procedure
+249988,facol & grid laser,1,procedure
+249995,factive,1,other
+249999,"factor i, clotting factor i, fibrinogen, or fibrinogen activity",1,lab_test
+250001,factor ii (prothrombin) mutation by pcr,1,lab_test
+250002,"factor ii (prothrombin), plasma",1,lab_test
+250003,factor ii (x2) clotting activity (prothrombin level,1,lab_test
+250006,factor ix (x9) clotting activity,1,lab_test
+250008,"factor ix, plasma",1,lab_test
+250011,factor v (f5) leiden,1,lab_test
+250012,factor v (f5) leiden (g1691a - r506q) mutation by pcr,1,lab_test
+250013,factor v (f5) r2 (a4070g - h1299r) mutation detection by pcr,1,lab_test
+250014,factor v (x5) clotting activity,1,lab_test
+250015,factor v (x5) leiden mutation (fvl,1,lab_test
+250016,factor v - ?????,1,lab_test
+250018,"factor v activity, plasma",1,lab_test
+250020,factor v gene serum,1,lab_test
+250022,factor v leiden (g1691a) mutation,1,lab_test
+250023,factor v leiden (mutation,1,lab_test
+250025,factor v leiden mutation - ?????,1,lab_test
+250026,"factor v leiden mutation, blood",1,lab_test
+250028,factor v leiden screen (activated protein c resistance - apcr,1,lab_test
+250029,factor v leiden(g1691a)mutation by pcr,1,lab_test
+250031,factor v leiden ( pcr,1,lab_test
+250032,factor v leiden - ?????,1,lab_test
+250033,"factor v, plasma",1,lab_test
+250035,"factor vii (proconvertin), plasma",1,lab_test
+250036,factor vii (x7) clotting activity,1,lab_test

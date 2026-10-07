@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+472580,puva 100,1,other
+472581,puva per session (skn,1,physiotherapy
+472582,puva second course,1,other
+472583,puva session,1,physiotherapy
+472584,puva succeeding course,1,other
+472585,puva therapy,1,physiotherapy
+472586,puva therapy for 1 seesion,1,physiotherapy
+472587,puva therapy for 1 session,1,physiotherapy
+472588,puva therapy pkg 10 sessions,1,physiotherapy
+472589,puva therapy for 1 session (nbuvr,1,physiotherapy
+472590,puva/uvb treatment - less than 5 mins per session,1,physiotherapy
+472591,puva/uvb treatment - more than 15 mins per session,1,physiotherapy
+472592,puva/uvb treatment - more than 5 mins per session,1,physiotherapy
+472593,puvatherapy,1,other
+472594,pv vaginal exam,1,other
+472597,pva embolization particles,1,eyewear
+472598,pvc laryngeal mask airway size 2,1,supplies
+472599,pvc umbil cath w hub 3.5fr cv-8888160358,1,supplies
+472610,pyelogram/nephrostogram,1,imaging
+472611,pyelolithotomy,2,procedure
+472612,pyelolithotomy (pyelo nephro lithotomy)->c55.11,1,procedure
+472613,pyelolithotomy - open,1,procedure
+472614,pyelolithotomy bupa,1,insurance
+472615,pyelolithotomy endoscopic,2,procedure
+472617,pyelolithotomy simple,1,procedure
+472618,pyelolithotomy surgical,1,procedure
+472619,pyelolithotomy5days,1,other
+472620,pyeloplasty,4,procedure
+472621,pyeloplasty (open,1,procedure
+472622,pyeloplasty + nephrostomy (package deal) - 4 days pkg,1,procedure
+472623,pyeloplasty level 1,1,lab_test
+472624,pyeloplasty ur,1,procedure
+472636,pylo test for h.pylori,1,lab_test
+472637,pylori stool,1,lab_test
+472638,pyloric canal u/s,1,dental
+472639,pyloric canal ultrasound,1,imaging
+472640,pyloric stenosis / laparoscopic,1,procedure
+472641,pyloric u/s,2,imaging
+472642,pyloromyotomy,2,procedure
+472643,pyloromyotomy (o-58-c43.3,1,procedure
+472644,pyloromyotomy (ramstedt operation) - 2 day pkg,1,procedure
+472645,pyloromyotomy (ramstedt operation)->c43.3,1,procedure
+472646,pyloromyotomy - 3 days pkg,1,procedure
+472647,"pyloromyotomy, cutting of pyloric muscle (fredet-ramstedt type operati",1,procedure
+472648,pyloroplasty,1,procedure
+472649,pyloroplasty->c44.2,1,procedure
+472650,pyogenic granuloma - area (per session,1,physiotherapy
+472761,"pyralvex1cutaneous solution0.05,0.01%",1,other
+472762,pyralvexsoln,1,other
+472763,pyramesh cage 12*22mm,1,supplies
+472764,pyramesh d10mm - l100mm # 905-101,1,other
+472780,pyrazinamide antibiotice,2,other
+472788,"pyridoxime,thiamine,cyano cobalamin",1,other
+472822,"pyridoxine,meclozine",1,other
+472826,"pyridoxine,thiamine,cyanocobalamin",1,other
+472830,pyridoxinemeclozine,1,other
+472832,pyridoxinethiaminecyanocobalamin,1,other
+472835,pyruvate (b,1,other
+472836,pyruvate (blood,1,lab_test
+472837,pyruvate (blood) - s.o,1,lab_test
+472838,pyruvate (csf,1,other
+472839,"pyruvate (b, csf",1,other
+472840,pyruvate kinase,1,other
+472841,pyruvate kinase (pk,1,other
+472842,pyruvate kinase - s.o,1,lab_test
+472843,pyruvate kinase test,1,lab_test
+472844,pyruvate kinase( so,1,other
+472848,pap.smear,1,lab_test
+472854,pacemaker - check,1,supplies
+472855,pacemaker interrogation - dual lead,1,supplies
+472856,pacemaker interrogation - dual lead implantable cardioverter - defibrillator,1,supplies
+472857,pacemaker interrogation - mutiple lead implantable cardioverter - defibrillator,1,supplies
+472858,pacemaker interrogation - single lead implantable cardioverter - defibrillator,1,supplies
+472859,pacemaker removal,1,supplies
+472860,pacemaker electrode analyser,1,supplies
+472861,pacemaker interrogation w/o programming,1,supplies
+472862,pacemaker interrogation with programming,1,supplies
+472864,pachymetry ( 2 eyes,1,diagnostic
+472867,pachymetry for lasik,1,diagnostic
+472868,"pacing lead extraction kit, reusable",1,dental
+472869,pacing/defibrillation lead repair kit,1,procedure
+472870,pack hot/moist/set,1,supplies
+472871,"pack, cystoscopy",1,supplies
+472872,"pack, eye",1,supplies
+472876,"packed rbc, adult unit",1,lab_test
+472877,"packed rbc, pediatric unit",1,lab_test
+472880,packed rbcs (leukoreduced,1,other
+472881,packed red blood cell,1,lab_test
+472882,packed rbcs +ve,1,other
+472883,packed red cells unit (leuco reduced,1,other
+472885,packing of nose / ear,1,procedure
+472888,packing ext auditory canal uni,2,dental
+472892,packing of ear,1,procedure
+472894,packing of external auditory canal unilateral,1,dental
+472895,"packing of external auditory canal, unilateral",1,dental
+472896,"packing of external auditory canal,bilateral",1,dental
+472898,packing of external auditory canalunilateral,1,procedure
+472902,"pacreatectomy, distal subtotal, with or without splenectomy: with or without pancreaticojejunostomy",1,procedure
+472903,"pad, under disposable 60 x 75cm",1,supplies
+472904,"pad, under, disposable, 60x90",1,supplies
+472905,"padded stays splint, reusable",1,supplies
+472906,"padded stays splint, single-use, non-sterile",1,supplies
+472907,"padding, undercast 20cm x 2.7m",1,other
+472910,"pads, eye, kendall 1 5/8"" x 2 5/8",1,supplies
+472911,"pads, sanitary, pack/40",1,supplies
+472912,paedatric,1,other
+472914,paediatric echocardography with doctoe consultant,1,consultation
+472915,paediatric endodontic,1,dental
+472916,paediatric excision of branchial cyst/fistula,1,procedure
+472917,paediatric excision of simple extra digit (hand/foor) nursery or nicu,1,procedure
+472918,paediatric imcu + monitor,1,other
+472919,paediatric neonatal & infanttrans-anal pull through for hirschsprung disease with laparoscopic assistance 2,2,procedure
+472921,paediatric pyeloplasty,1,procedure
+472922,paediatric specialist dr. hayam moussa,1,consultation
+472923,paediatric therapeutic thoracoscopic of empyema,1,other
+472924,paediatric dorsiflexion slant board,1,other
+472925,paediatric hip (chd) 2 views,1,imaging
+472927,paediatrics consultation,1,consultation
+472928,paediatrics fee consultant-dr. mohd qahtani (pedia endocrinology,1,consultation
+472938,pain - fluoro guide for needle placement,1,supplies
+472939,pain - us guidance for needle placement,1,supplies
+472940,pain anesthesia controlled med walk-in follow-up,1,procedure
+472941,pain anesthesia urgent add-on follow-up,1,procedure
+472942,pain anesthesia virtual follow-up,1,procedure
+472943,pain center fluroscopy,1,procedure
+472944,pain clinic anesthesia walk-in new follow-up,1,procedure
+472946,pain management consultant fees,1,consultation
+472947,pain management under fluroscopy guided,1,procedure
+472948,"pain in a joint, pelvic region and thigh",1,other
+472949,pain in joint,1,other
+472950,pain management medication delivery system cassette,1,procedure
+472951,"pain, unspecified",1,other
+472952,pain-diagnostic nb,1,other
+472953,"pain-esi, interlam, l/caudal",1,other
+472954,"pain-facet/mbb c/th, lev 2",1,other
+472955,"pain-facet/mbb l/s, lev 3",1,other
+472956,pain-fluoro guidance (spinal,1,other
+472957,pain-genicular nb,1,other
+472961,pain-refilling and maintanance of impalntable pump or reservoir,1,supplies
+472962,pain-suprascap nb,1,other
+472966,pair of compressed colored lenses plastic high index,1,eyewear
+472967,pair of lenses 14,2,eyewear
+472968,pair of lenses 16,1,eyewear
+472969,pair of lenses 17,1,eyewear
+472970,pair of lenses 18,1,eyewear
+472971,pair of lenses 20,1,eyewear
+472972,pair of lenses 21,1,eyewear
+472973,pair of lenses 22,2,eyewear
+472974,pair of lenses 23,1,eyewear
+472975,pair of lenses 24,1,eyewear
+472976,pair of lenses 25,1,eyewear
+472977,pair of lenses 26,1,eyewear
+472978,pair of lenses 27,1,eyewear
+472979,pair of lenses 28,1,eyewear
+472980,pair of lenses 29,1,eyewear
+472981,palac,1,other
+472982,palatal impacted teeth,1,dental
+472983,palatopharyngeal study,1,consultation
+472985,"palatopharyngoplasty (eg, uvulopalatopharyngoplasty, uvulopharyngoplasty",1,procedure
+472986,palatoplasty for cleft palate: any method,1,procedure
+473000,palin x-ray from 1 to 3 films,1,imaging
+473001,palin xray from 1 to 3 films,1,imaging
+473005,palliative (emergency)treatment of dentalpain minor procedure,1,other
+473006,palliative (emergency) treatment of dental pain - minor procedure,1,dental
+473007,palliative and support care follow-up,1,supplies
+473008,palliative care aya follow-up,1,consultation
+473009,palliative care virtual follow-up,1,consultation
+473010,palliative radiotherapy 1-5 sessions,1,physiotherapy
+473011,palliative radiotherapy session,1,physiotherapy
+473013,palliative dental care,2,dental
+473014,palliative radiotherapy 10 sessions,1,physiotherapy
+473018,palntar wart removal,1,procedure
+473019,palpotomy,2,procedure
+473020,pampers baby dry 4 (9-14kgs) 9+2,1,other
+473021,pampers diaper 5 pack/52,1,supplies
+473022,pampers premium care size (6) xxl 36 diapers,1,supplies
+473023,pampers premium care size (6) xxl box 60 diapers,1,supplies
+473024,pampers size (5) junior 11-18/11-16 kg mega pack 70 diapers,1,supplies
+473025,pampers size (6+) +16/+14 kg mega pack 40 diapers,1,supplies
+473026,pampers size (7) 15+ jumbo box 56 diapers,1,supplies
+473027,pan retinal photocoaculation,1,other
+473028,pan retinal photocoagulation (prp) - 3 sessions,1,physiotherapy
+473029,pan retinal photocoagulation (prp) - one session,1,physiotherapy
+473030,pan retinal photocoagulation ( prp ) multi session,1,physiotherapy
+473031,pan retinal photocoagulation ( prp ) one session,1,physiotherapy
+473032,"pan retinal photocoagulation with pattern argon laser, complete treatment session, one eye",1,physiotherapy
+473033,"pan retinal photocoagulation with pattern argon laser, one session (one eye",1,physiotherapy
+473034,"pan endoscopic biopsy(tongue, laryngeal ,nasopharyngeal",1,procedure
+473035,pan retinal photocoagulation one eye multiple sit,1,supplies
+473036,pan-retinal-photocoagulation - prp ( green laser,1,procedure
+473299,panadolactifast20tab,1,other
+473300,panadolcoatedblue500mg24tab,1,other
+473301,panadolcold&fludayyellow24cap,1,other
+473302,panadolcold&flugreen24cap,1,other
+473303,panadolcoldflu-24caps,1,other
+473304,panadolextend665mg18tab,1,other
+473305,panadolextendrelief18tab,1,other
+473306,panadolextra24tab,1,other
+473307,panadolnight20cap,1,other
+473308,panadolnight20caplet,1,other
+473392,panaromic view,3,imaging
+473396,pancreas transplant follow-up,1,consultation
+473397,"pancreas, biopsy",1,procedure
+473398,"pancreatectomy, whipple type procedure",1,procedure
+473400,"pancreatic amylase, serum",1,lab_test
+473401,pancreatic cancer panel,1,lab_test
+473402,pancreatic elastase (faeces) -{q},1,other
+473403,pancreatic elastase stool,1,lab_test
+473404,pancreatic elastase in feces (so,1,other
+473406,pancreatic elastase; quant.; stool,1,lab_test
+473419,panda extra 24's,1,other
+473433,panderm cream15gm lasa,1,other
+473447,panderm-cream15gm,1,other
+473448,pandermcream15g,1,other
+473449,pandermoint15g,1,other
+473450,pandermointment15g,1,other
+473452,panel 12: electrolytes and albumin,1,lab_test
+473453,panel 1: admission package,1,lab_test
+473454,panel 3 (kft and cbc,1,lab_test
+473455,panel 4: cardic profile,1,lab_test
+473456,panel a immuno histochemistry stains,1,lab_test
+473457,panel b immuno histochemistyry,1,lab_test
+473458,panel by ngs for deafeness,1,lab_test
+473459,panel by ngs for kidney genetics diseases ngs +cnv,1,lab_test
+473460,panel by ngs for metabolic,1,lab_test
+473461,panel denture 14 teeth,1,lab_test
+473462,panel by ngs for blood coagulation,1,lab_test
+473463,panel by ngs for bone marrow failure - (anemia panel,1,imaging
+473464,panel test - ngs medium 161 gene,1,lab_test
+473465,"panel, anticardiolipin antibodies",1,lab_test
+473466,"panel, apolipoprotein a1 & b, serum",1,lab_test
+473467,"panel, neonatal type & screen",1,lab_test
+473468,panend to duodnm w heater probe coagltn,1,supplies
+473477,pano,1,other
+473478,panoram x-ray,2,imaging
+473481,panorama (opg,1,imaging
+473482,panorama (dental,1,imaging
+473483,panorama - insurance,1,imaging
+473485,panorama - ray,2,imaging
+473488,panorama 2d (walk-in,1,imaging
+473489,panorama 2d (our clinic,1,imaging
+473490,panorama dental film,1,imaging
+473492,panorama for teeth ????? ??????? ????????,1,imaging
+473494,panorama tmj 1 +2,1,imaging
+473495,panorama x- ray,3,imaging
+473498,panorama x-r,1,imaging
+473504,panorama radiograph,1,imaging
+473510,panorama-tmj 4 views,1,imaging
+473511,panorama-xray,1,imaging
+473512,panorama2d,1,other
+473513,panoramaic x-ray o.p.g x-ray,1,imaging
+473514,panoramamic x ray,1,imaging
+473515,panoramic x-ray (145,1,imaging
+473518,panoramic x.ray,2,dental
+473519,panoramic x -ray,4,dental
+473520,panoramic & cephalometric x ray,1,imaging
+473521,panoramic 2d radiograph,1,imaging
+473522,panoramic ct 3d,1,imaging
+473523,panoramic digital x-ray,1,imaging
+473524,panoramic digital x-ray image,1,imaging
+473525,panoramic fil (opg,1,imaging
+473526,panoramic fil - opg,1,imaging
+473528,panoramic film opg,1,imaging
+473531,panoramic radiograph (program 1 or 2,1,imaging
+473537,panoramic radiographic image - - 1375,2,dental
+473540,panoramic rays for jaw,1,dental
+473542,panoramic views,1,dental
+473544,panoramic x - ray(if necessary and medivisa approval is obtained,1,dental
+473545,"panoramic x ray, maxilla & mandible-osh",1,imaging
+473548,panoramic x ray 1 0 full mouth,1,imaging
+473549,panoramic x ray ???? ??,1,imaging
+473551,panoramic x ray ( opg,1,imaging
+473555,panoramic x-ray both jaws,2,imaging
+473557,panoramic x-ray ( if necessary & medivisa approval is obtained,1,imaging
+473560,panoramic x-ray -bupa,1,imaging
+473561,panoramic x-ray 1/0 full mouth,1,imaging
+473565,panoramic x-ray film ???? ???????,1,imaging
+473570,panoramic x-ray- tawunya,1,imaging
+473572,panoramic x-ray???? ????????,1,imaging
+473573,panoramic x-rays ( if necessary & medivisa approval is obtained,1,dental
+473576,panoramic x-ray / opg,1,imaging
+473578,panoramic x-ray opg 2d,1,imaging
+473580,panoramic x-ray film398,1,imaging
+473581,panoramic x-ray without app,1,imaging
+473585,panoramic xr,1,imaging
+473592,panoramic radiograph per exposure opg,1,imaging
+473593,panoramic radiograph per exposure|تصوير إشعاعي بانورامي لكل تعرض,1,imaging
+473597,panoramic radiograph pe,1,imaging
+473598,panoramic radiograph per exposuer,1,imaging
+473600,panoramic radiograph per exposure (panorama x ray,1,imaging
+473601,panoramic radiograph per exposure - ncci,1,imaging
+473602,panoramic radiograph per exposure( panorama x ray,1,imaging
+473606,panoramic radiograph ؟ per exposure,1,imaging
+473607,panoramic radiograph - per exposur,1,imaging
+473610,panoramic radiograph- per exposure,1,imaging
+473617,panoramic radiography,2,dental
+473618,panoramic radiography 1 v,1,dental
+473619,panoramic radiography per exposure,1,dental
+473621,panoramic view (bupa,1,dental
+473622,panoramic view teeth,1,dental
+473624,panoramic x - ray-1332,1,dental
+473631,panoramic x-ray / x-ray full mouth,1,imaging
+473632,panoramic x-ray ???? ????????,1,imaging
+473633,panoramic x-ray film for teeth and mand,1,imaging
+473634,panoramic x-ray film for teeth and mandi,1,imaging
+473635,panoramic x-ray film for teeth and mandible,1,imaging
+473637,panoramic x-ray-sa,1,imaging
+473638,panoramic xray- ???? ????????,1,imaging
+473639,panoramic%20x-ray%202d,1,dental
+473640,panoramic%20x-ray%202d%09,1,dental
+473641,panoramic%20radiograph%20%e2%80%93%20per%20exposure,1,dental
+473642,panoramicradiography,1,other
+473643,panorex,1,other
+473644,panormic x ray,1,imaging
+473646,panretinal photocoagulation- one session- unilateral,1,physiotherapy
+473649,pantasol,1,other
+473663,pantazole iv,1,supplies
+473667,panthenol ampule,1,other
+473673,"panthenol, ceramide",1,other
+473674,"panthenol, ceramide cr",1,other
+473676,"panther articulating reload, tan",1,other
+473679,panties disposable x large,1,supplies
+473680,"panties, disposable large",1,supplies
+473681,"panties, disposable xxx large",1,supplies
+473684,pantomax20mg30tabs lasa,1,other
+473685,pantomax40mg15tabs lasa,1,other
+473686,pantomax40mg30tabs lasa,1,other
+473782,pantomax40mg15tab,1,other
+473783,pantomax40mg30tab,1,other
+473784,pantomax40mgfc 15t,1,other
+473809,pantoprazol iv ?????????,1,supplies
+473823,pantover 40,1,other
+473914,pantozol0mg.vowderornjection,1,other
+473915,pantozol20mg15tab,1,other
+473916,pantozol20mg30tab,1,other
+473917,pantozol40mg15tab,1,other
+473918,pantozol40mg30tab,1,other
+473949,"pants, endoscopy disp, open back , size large, m2pt3 box75",1,supplies
+473959,pap smear liquid based cytology,1,lab_test
+473960,pap smear liquid based cytology with hpv,1,lab_test
+473961,pap smear sample collection,1,lab_test
+473964,pap smer / sure path,1,lab_test
+473967,pap test automated,1,lab_test
+473968,"pap test, physician interpretation",1,lab_test
+473969,pap test; automated,2,lab_test
+473970,pap test; bethesda; manual,1,lab_test
+473971,pap test; bethesda; manual & computer selection,1,lab_test
+473972,pap test; manual,2,lab_test
+473973,pap test; physician interpretation,1,lab_test
+473974,pap test; thin layer; automated & manual rescreen,1,lab_test
+473975,pap%20test%3b%20thin%20layer%3b%20automated%20%26%20manual%20rescreen,1,lab_test
+473976,papa razi,1,other
+473979,paparazzi 102 ha fr c:1,1,eyewear
+473980,paparazzi 102 ha fr c:2,1,eyewear
+473981,paparazzi 102 ha fr c:5,1,eyewear
+473982,paparazzi 1035 fr c:10,1,eyewear
+473983,paparazzi 1061 fr c:1,1,eyewear
+473984,paparazzi 1064 fr c:2,1,eyewear
+473985,paparazzi 114 ha fr c:2,1,eyewear
+473986,paparazzi 116 ha fr c:1,1,eyewear
+473988,paparazzi 18-s ha fr c:8,1,eyewear
+473989,paparazzi 2056 fr c:3 gun,1,eyewear
+473990,paparazzi 2262 fr c:1,1,eyewear
+473991,paparazzi 2263 fr c:3,1,eyewear
+473996,paparazzi 2971 vo fr c:1,1,eyewear
+473997,paparazzi 2971 vo fr c:15,1,eyewear
+473998,paparazzi 2971 vo fr c:5,1,eyewear
+474000,paparazzi 43 ha fr c:13,1,eyewear
+474002,paparazzi 501 ha fr c:5,1,eyewear
+474003,paparazzi 508 ha fr c:1,1,eyewear
+474004,paparazzi 5734 ra fr c:14,1,lab_test
+474005,paparazzi 5736 ra fr c:6,1,lab_test
+474006,paparazzi 5749 ra fr c:4,1,lab_test
+474007,paparazzi 5755 ra fr c:1,1,lab_test
+474008,paparazzi 5755 ra fr c:5,1,lab_test
+474009,paparazzi 5761 ra fr c:2,1,lab_test
+474010,paparazzi 5761 ra fr c:4,1,lab_test
+474011,paparazzi 5771 fr c:1,1,eyewear
+474012,paparazzi 5773 ra fr c:2,1,lab_test
+474013,paparazzi 5773 ra fr c:3,1,lab_test
+474015,paparazzi 61 ha fr c:1,1,eyewear
+474016,paparazzi 7082 rx fr c:9,1,eyewear
+474017,paparazzi 7088 rx fr c:13,1,eyewear
+474018,paparazzi 7088 rx fr c:4,1,eyewear
+474019,paparazzi 7525 fr c:5,1,eyewear
+474020,paparazzi 7529 fr c:1,1,eyewear
+474022,paparazzi 7531 fr c:3,1,eyewear
+474023,paparazzi 7565 fr c:3,1,eyewear
+474024,paparazzi 7565 fr c:6,1,eyewear
+474026,paparazzi 7575 ja fr c:5,1,eyewear
+474027,paparazzi 7579 fr c:1,1,eyewear
+474028,paparazzi 7579 fr c:4,1,eyewear
+474030,paparazzi 8058 rx fr c:2,1,eyewear
+474031,paparazzi 8061 rx fr c:1,1,eyewear
+474032,paparazzi 8061 rx fr c:3,1,eyewear
+474033,paparazzi 8061 rx fr c:4,1,eyewear
+474034,paparazzi 8062 rx fr c:1,1,eyewear
+474035,paparazzi 8063 rx fr c:1,1,eyewear
+474036,paparazzi 8063 rx fr c:2,1,eyewear
+474037,paparazzi 8063 rx fr c:3,1,eyewear
+474038,paparazzi 8063 rx fr c:5,1,eyewear
+474042,paparazzi 85 ha fr c:1,1,eyewear
+474043,paparazzi 8772 fr c:5,1,eyewear
+474045,paparazzi 9001 la fr c:2,1,eyewear
+474047,paparazzi frm pa 8066/48/17 c6,1,imaging
+474048,paparazzi frm pa 8074,1,imaging
+474050,paper chart recorder,1,other
+474052,papilloma virus dna pcr - ?????,1,lab_test
+474053,papillomav. dna - ?????,1,lab_test
+474057,papsmear sampling,1,other
+474072,para aortic lymph node excision ( surgical,1,procedure
+474073,"para influenza (type 1,2,&3",1,other
+474081,para thyroid hormone (p.t. h,1,lab_test
+474083,para umbilical herniotomy (large) -ga,1,procedure
+474084,para umblical hernia,1,procedure
+474090,para thyroid,1,other
+474092,para umbilical hernia,1,procedure
+474093,para umblical heenia with mesh,1,supplies
+474103,"paracentesis, therapeutic, excluding histopathology",1,lab_test
+474246,paracetamol500mgtab(b/24,1,other
+474268,paraconia,1,other
+474284,paraffin dressing 10*10cm st - (dermatulle,1,supplies
+474285,paraffin gauze dressing 10x10 cm,1,supplies
+474286,paraffin gauze dressing 10x20 cm,1,supplies
+474288,paraffin bath therapy,1,physiotherapy
+474289,paraffin section for alpha fetoprotein-afp (ihc antibody,1,lab_test
+474290,paraffin section for bcl2 oncoprotein,1,other
+474291,paraffin section for bcl6,1,other
+474292,paraffin section for cd10 (sp67,1,other
+474293,paraffin section for cd15 antibody,1,lab_test
+474294,"paraffin section for cd20, pan-b cell",1,other
+474295,paraffin section for cd3 - pan-t,1,other
+474296,paraffin section for cd30,1,other
+474297,paraffin section for cd4,1,other
+474298,"paraffin section for cd45,lca",1,other
+474299,paraffin section for cd8,1,other
+474300,paraffin section for kappa,1,other
+474301,paraffin section for ki67 immunomarker,1,other
+474302,paraffin section for lambda,1,other
+474303,paraffin section for melanoma triple cocktail (hmb45+a103+t311,1,other
+474304,paraffinwax bath,1,other
+474325,parafon30cap,1,other
+474332,paranasal (1 view,2,imaging
+474334,paranasal sinus 1 film,1,procedure
+474335,paranasal sinus x - ray 2 views,1,eyewear
+474336,paranasal sinus x - ray 3 views,1,eyewear
+474337,paranasal sinus x ray 2 views,1,imaging
+474339,paranasal sinuses ( w- contrast ) c.t,1,imaging
+474342,paranasal sinuses (two views) ap/lat,1,imaging
+474343,paranasal sinuses - rad. exam,1,imaging
+474344,paranasal sinuses 2 film,2,other
+474348,paranasal sinuses 3v,1,imaging
+474349,paranasal sinuses 662,1,other
+474350,paranasal sinuses ct scan without contrast,1,imaging
+474352,paranasal sinuses om & lat,1,imaging
+474354,paranasal sinuses caldwell s view,1,imaging
+474355,paranasal sinuss ( warer view,1,imaging
+474356,paranasal water view,2,imaging
+474360,paranasal sinusis,1,other
+474361,paranassal x ray ii,2,imaging
+474363,"paraneoplastic autoantibody evaluation, serum",1,lab_test
+474365,parasitamol / perfilgan / paraconica,1,other
+474366,parasite macroscopic,1,other
+474367,parasite macroscopic (visual) examination,1,consultation
+474368,"parasite, macroscopic",1,other
+474369,parasite; macroscopic,1,other
+474370,parathormon (pth,1,lab_test
+474371,parathormon%20(pth)%09,1,lab_test
+474373,parathormone (pth,2,lab_test
+474374,parathormone (pth) - tat (72 hrs,1,lab_test
+474376,parathormone - pth,1,lab_test
+474377,parathormone related peptide (pthrp,1,lab_test
+474378,parathormone(p t h,1,lab_test
+474379,parathromn (pth,1,lab_test
+474380,parathyoid hormones,1,other
+474381,parathyoid hormones ( pth,1,lab_test
+474385,parathyroid carcinoma - risk assessment,1,lab_test
+474387,parathyroid hormone (995,1,lab_test
+474390,parathyroid hormone (pth) intact (sfv,1,lab_test
+474391,"parathyroid hormone (pth), intact, k3-edta plasma",1,lab_test
+474392,"parathyroid hormone (pth), serum",1,lab_test
+474394,parathyroid hormone - pth,1,lab_test
+474395,parathyroid hormone test (pth,1,lab_test
+474396,"parathyroid hormone, intact pth",1,lab_test
+474397,parathyroid hormone[16.09,1,lab_test
+474398,parathyroid horrmone (pth,1,lab_test
+474399,parathyroid pth,1,lab_test
+474400,"parathyroid scan, mibi, early + delay",1,imaging
+474404,parathyroid hormone (p.t.h,1,lab_test
+474406,parathyroid hormone / pth whole,1,lab_test
+474411,parathyroidhormone,1,other
+474412,parathyroide,1,other
+474413,"parathyroidectomy 1,2,3,4 with /without forearm implantation",1,procedure
+474414,parathyroidectomy or exploration of parathyroid(s,1,lab_test
+474430,paraxone30cap,1,other
+474431,"parenteral admixture, consumables & dispensing fee",1,consultation
+474432,"parenteral admixture, consumables and dispensing fee",1,consultation
+474433,"parenteral nutrition - parenteral nutrition for adult - not defined, not defined, no strength",1,other
+474434,parenteral nutrition bag,1,other
+474437,parenteral nutrition management software,1,other

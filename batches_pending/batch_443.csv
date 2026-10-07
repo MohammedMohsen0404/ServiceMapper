@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+663337,"locking 2.0 screw size 11,12",1,supplies
+663338,locking plate + screw instruments,1,supplies
+663340,locking screw 5*40mm-auxien,1,supplies
+663341,lockingscrew2.8mmx16mm,1,other
+663342,lockingscrew3.5mmx20mm,1,other
+663353,lodiab 750 xr 30tab,1,imaging
+663395,long bone 2 views,1,imaging
+663397,long knee support brace,1,supplies
+663566,lorinex sy,1,other
+663605,lotemax 0.5% gelloteprednol,1,other
+663671,lotevan10/160,1,other
+663677,louk,1,other
+663693,low denisty lipoprotien (ldl,1,lab_test
+663695,low density lipoprotein (ldl - cholesterol,1,lab_test
+663696,low fistulectomy,1,procedure
+663697,lower extremity arterial doppler bilateral,1,imaging
+663698,lower extremity arterial doppler unilateral,1,imaging
+663701,lower extremity deep system venous doppler bilateral -deep system u/s two leg,1,imaging
+663702,lower extremity deep system venous doppler unilate,1,imaging
+663703,lower extremity deep system venous doppler unilateral,1,imaging
+663704,lower extremity deep system venous doppler unilateral - deep system u/s one leg,1,imaging
+663705,lower extremity superficial venous doppler unilateral,1,imaging
+663706,lower imb 2 views,1,imaging
+663709,lower limb bandage,1,supplies
+663710,lower limb doppler,1,imaging
+663711,lower limb vein doppler,1,imaging
+663712,lower limb veins us - one limb,1,supplies
+663722,loxtra e.d 1,1,lab_test
+663729,lradiography of lumbosacral spine,1,other
+663735,ls / lumbo sacral spine. ap/lat+obli / 3 views,1,imaging
+663738,lt) glutpyruvic tansa ( serum glutamate pyruvate transam,1,lab_test
+663740,lucentis one side,1,supplies
+663747,lumbar brace,1,supplies
+663748,lumbar disc plus postero-lateral fusion with instr,1,procedure
+663749,lumbar discectomy plus postero-lateral fusion wo instrumentation,1,procedure
+663750,lumbar laminectomy plus postero-lateral fusion with instr,1,procedure
+663751,lumbar laminectomy plus postero-lateral fusion with instr. los 7 days,1,procedure
+663752,lumbar laminectomy plus postero-lateral fusion wo instrumentation,1,procedure
+663753,lumbar microdisc w/wo microlaminec one level,1,lab_test
+663754,lumbar microdisc w/wo microlaminec one level(c80.51,1,lab_test
+663756,lumbar soines 4 flim,1,other
+663758,lumbar spinal canal stenosis-decom. 1level (disc+lamin) plus postero-lateral fusion with instr los 8 days,1,dental
+663759,lumbar spinal canal stenosis-decom. 1level (disc+lamin) plus postero-lateral fusion with instr,1,dental
+663760,lumbar spinal canal stenosis-decomp 1level (disc+lamin+foraminotomy) wo fusion,1,dental
+663761,lumbar spinal canal stenosis-decomp. 1level (disc+lamin) plus postero-lateral fusion and instr. and plif or tlif,1,dental
+663762,lumbar spinal canal stenosis-decomp. 1level (disc+lamin) plus postero-lateral fusion and instr. and plif or tlif los 8 days,1,dental
+663763,lumbar spinal canal stenosis-decomp. 1level (disc+lamin) plus postero-lateral fusion wo instr,1,dental
+663770,lumbar spine ap/lat/obl,1,imaging
+663774,lumbar spines 4 film,1,other
+663775,lumbar spines ap/lat views,1,imaging
+663776,lumbar spines ap/lat/obl views,1,imaging
+663777,lumbar spines lat view,1,imaging
+663778,lumbar support brace,1,supplies
+663779,lumbar vertebrae in two modes,1,other
+663780,lumbar vertebrae put one,1,supplies
+663783,lumbar/lumbo sacral spine 3 views,1,imaging
+663789,lumbar/lumbo sacral spine -1 view,1,imaging
+663791,lumbar/lumbo sacral spine 3 views (bupa,1,insurance
+663792,lumbar/lumbo sacral spine 4 views (bupa,1,insurance
+663793,lumber spine ( ap/lat,2,imaging
+663796,lumber spine 3v,1,imaging
+663797,"lumber spine., 2 views",1,imaging
+663798,lumber x ray 2 view,1,imaging
+663799,lumbersacral,2,other
+663801,lumbo - sac . spine,1,other
+663803,lumbo -sacral spine 2view,1,other
+663806,lumbo sacral spine 2,1,other
+663807,lumbo sacral spine 2 views (ab-lateral,1,lab_test
+663808,lumbo sacral spine 4,1,other
+663811,lumbo sacral spine two (2) views ap/lateral,1,imaging
+663812,lumbo-sacral 2 view,1,imaging
+663813,lumbo-sacral spine (ap/lat,1,imaging
+663814,lumbo-sacral spine (ap/lat.) obliques,1,imaging
+663817,lumbo-sacral spine 4 views-519,1,imaging
+663818,lumbo-sacral spine ap & lat,1,imaging
+663821,lumbo-sacral spine apl,1,other
+663822,lumbo-sacral spine apl 1604,1,other
+663823,lumbo-sacral spine lat view,1,imaging
+663824,lumbo-sacral spine(1 view,1,imaging
+663825,lumbo-sacral spines ap/lat views,1,imaging
+663826,lumbo-sacral spines lat view,1,imaging
+663832,lumbosacral x-ray 2 views,1,imaging
+663833,lumify,1,other
+663834,lumigan 0.1 ed,1,other
+663842,lupus anticoagulant drvvt,1,lab_test
+663848,luteinizing hormone(lh,1,lab_test
+663850,lutina,1,other
+663852,luxor elastic knee support,1,eyewear
+663853,luxor clavicular bandage adjustable,1,eyewear
+663854,luxor hand wrist splint one size right,1,eyewear
+663855,luxor hand wrist splint one size left,1,eyewear
+663856,luxor knee extension braceimmobilizer m,1,eyewear
+663857,luxor knee extension braceimmobilizers,1,eyewear
+663860,lymph%20nodes%20u%2fs,1,other
+663861,lypase,1,other
+663878,m.r.i sagital whole spin with axial,1,lab_test
+663879,m.small wounds stitches (l.a,1,procedure
+663890,magic mouthwash with nystatin,1,other
+663891,magic mouthwash with nystatin (kfsh-pharmacy,1,consultation
+663902,magnacef 400 6tab,1,other
+663908,magnacef-400,1,other
+663947,magnisum serum,1,lab_test
+663950,major cyst excision,1,procedure
+663954,major pilonidal sinus excision,1,procedure
+663955,majorwound dressing,1,supplies
+663957,malaria (ag,1,lab_test
+663958,malaria 555,1,lab_test
+663959,malaria ab. test,1,lab_test
+663960,malaria bl.film,1,lab_test
+663964,malaria antigen in blood,1,lab_test
+663966,malaria exam,1,lab_test
+663969,malaria peripheral blood film,1,lab_test
+663972,malaria test - serology,1,lab_test
+663976,male circumcision surgical 3 month up to 12 years,1,procedure
+663981,male circumcision surgical newborn up to 3 month,1,procedure
+663985,malleable small finger splint,1,supplies
+663986,maltese fever,1,other
+663989,mammography two side 2 views,1,imaging
+663992,mamography - 2 breast,1,other
+663993,mandible x ray ( 2views,1,imaging
+664002,mandibular symphysis 1v,1,imaging
+664008,"manual abrasion; single lesion (eg, keratosis, scar",1,other
+664010,manual message,1,other
+664012,manual perimetry unilateral,1,other
+664015,marciano guess,1,eyewear
+664020,martiny reading - ma13098,1,other
+664027,mass excision large exluding histopath,1,lab_test
+664028,mass excision medium exluding histopath,1,lab_test
+664029,mass excision small exluding histopath,1,lab_test
+664030,master check up full body,1,other
+664032,mastoid bilateral views,1,procedure
+664034,mastoid process,1,procedure
+664035,mastoid processes both side (shuller view,1,procedure
+664036,mastoid processes both sides (shuller,1,procedure
+664039,mastoids 5 views,1,imaging
+664040,mastoids ( two view,1,imaging
+664043,mastoids - 3 views (bupa,1,insurance
+664045,matallic restoration one surface direct,1,dental
+664046,matrix,1,other
+664061,maxil 1.5 m. g,1,other
+664066,maxil 750maxil 750 vialmg,1,other
+664070,maxil كاش فقط (cash only,1,other
+664071,maxil750 m.g,1,lab_test
+664072,maxillary and mandibl surgery,1,procedure
+664073,maxillary partial denture - cast metal framework w,1,dental
+664074,maxim,1,other
+664093,maxim 5tab,1,other
+664099,"maxitrol 6000,3500,1",1,other
+664100,"maxitrol 6000,3500,1 1",1,other
+664130,measles+mcv4 (menectra)(9m,1,lab_test
+664131,measur.i.o.p,1,lab_test
+664132,measurement of blood glucose ( random,1,lab_test
+664133,measurement of (quantitative) phencyclidine,1,other
+664140,measurement of alanine amino transferase(alt) (sgpt,1,lab_test
+664143,"measurement of albumin quantitaive,urine",1,lab_test
+664152,measurement of antibody (ige) to allergic substanc,1,lab_test
+664154,measurement of antibody to infectious organism.(eg.brucellafrancisellaa q feverrocky mountain spot,1,lab_test
+664156,measurement of antibody to infectious organism.(eg.brucellafrancisellaa q feverrocky mountain spott,1,lab_test
+664160,measurement of aspartate amino transferase(ast)(sgot,1,lab_test
+664168,measurement of c reactive protein ( crp,1,lab_test
+664182,measurement of cholesterol profile serum total,1,lab_test
+664189,measurement of creatinine serum,1,lab_test
+664203,measurement of eye pressure,1,other
+664208,measurement of free beta chain chorionic gonadotr,1,lab_test
+664214,measurement of free triiodothyronine ( free t3,1,lab_test
+664239,measurement of lron profile,1,lab_test
+664268,measurement of total bilrubin,1,other
+664288,measuring bl p out time,1,other
+664289,measuring intr,1,other
+664292,measurment of alanine amino transferase(alt)(sgpt,1,lab_test
+664293,measurment of blood urea nitrogen(bun,1,lab_test
+664333,medi-plast,1,other
+664334,mediam dressing,1,supplies
+664336,medical pulptomy for pedia,1,other
+664337,medical service iv infution,1,supplies
+664339,"medicated earwick application for the ear (unilateral , bilateral",1,other
+664340,"medication ,(human albumin 20%",1,lab_test
+664341,medication session,1,physiotherapy
+664342,medication-codes,1,other
+664344,medium g.y.n wound dressing,1,supplies
+664347,medium abscess evac.(l.a,1,procedure
+664353,medium dressing- 5014,1,supplies
+664355,medium filling,1,dental
+664358,medium slap,1,procedure
+664359,medium surgical,1,procedure
+664360,medium sutures,1,supplies
+664368,mega,1,other
+664515,meligamet 50/850,1,other
+664516,meligamet 50/850ng 60tab,1,other
+664533,memorey,1,other
+664556,meo meo,1,other
+664560,mergency room - hourly rate excluding consumables,1,consultation
+664561,merional h g,1,lab_test
+664600,mesporin1000,1,other
+664608,message therapy 1 area,1,physiotherapy
+664677,metal backing per backing,1,other
+664678,metal crown with porcelain facing,1,dental
+664681,metal post and core,1,dental
+664683,metalic restoration 4 surfaces direct,1,dental
+664684,metalic restoration three surfaces direct,1,dental
+664693,metallic restoration tow surfaces direct,1,dental
+664698,metallic splint for finger,1,supplies
+664699,"metanephrine fractionated, normotensive",1,other
+664703,metaz cr 0.1%,1,other
+664846,methylcobal ampule- er,1,other
+664851,methylocobal,1,other
+664902,metos,1,other
+664944,metrodinazole,1,other
+664945,metroni,1,other
+664947,metronidazol 1287,1,other
+664949,metronidazol vail (med goulf,1,other
+664978,metroonidazole,1,other
+664982,metrosol 500 iv,1,supplies
+665065,micro albumin (semi -quanitative,1,lab_test
+665066,micro albumin (semi quantitative,1,lab_test
+665071,micro albuminurine 99,1,other
+665072,micro kalium,1,other
+665073,micro%20albumin%20(semi%20-quanitative,1,other
+665074,micro. lancets bt,1,supplies
+665075,micro.lancets bt,1,supplies
+665077,microalbumiurea,1,other
+665082,microalbuminuria (alb/ creat ratio,1,lab_test
+665083,"microalbuminuria .random collection, urine",1,lab_test
+665084,microalbuminuria 24 - hour,1,lab_test
+665086,microlife bp monitoring,1,eyewear
+665087,microlife nebulizer,1,supplies
+665089,micropulse cyclo g8 laser for glaucoma treatment,1,procedure
+665118,mido,1,other
+665128,milk tooth extraction-mg,1,dental
+665142,mineral oil 100% ene,1,other
+665143,minima 2 plus spare parts,1,other
+665147,minirin melt 120,1,other
+665166,minor dental surgery,1,dental
+665170,minor tooth movement,1,dental
+665172,mir of other site without contrast medium,1,imaging
+665177,miraflex 3 2015,1,other
+665262,mobile tooth extractiom,1,dental
+665263,mobixen,1,other
+665267,moderate gingival treatment,1,dental
+665270,moderate surgical dressing,1,supplies
+665271,moderate surgical extraction for remaining root,1,dental
+665272,moderate/minor cyst excision,1,procedure
+665273,moderatewound dressing,1,supplies
+665286,moglobin electrophoresis,1,lab_test
+665289,molar root canal,1,dental
+665290,molar root canal re-treatment,1,dental
+665291,molecular pathology proc,1,other
+665292,molluscum removal more than 3,1,procedure
+665314,mont blanc - 380,1,eyewear
+665315,mont blanc - 383,1,eyewear
+665355,monthly orthodontic activation,1,dental
+665366,more than one vulval warts cautery,1,supplies
+665367,moriesmarten,1,other
+665425,motilium10mgtablet,1,other
+665434,motrnex,1,other
+665455,moval of bone and/or sectioning of tooth and including elevati,1,imaging
+665476,"movicolsachets /1sachet, 20sachet/box",1,other
+665483,movicol 20 sachh,1,other
+665533,moxiflox 400/7tab,1,other
+665553,mri 3t breast-mri 3t breast,1,imaging
+665555,"mri of brain, without contrast",1,imaging
+665556,"mri of cervical spine, without contrast",1,imaging
+665557,mri of other site with contrast medium,1,imaging
+665558,mri of other site without contrast medium,1,imaging
+665559,mri of the spine-mri of the spine,1,imaging
+665573,mucolyt,1,other
+665644,mucosolvan30mg250ml,1,other
+665649,multi rct with filling,2,dental
+665650,multi r.c.t,1,imaging
+665653,multi root canal tooth with filing,1,dental
+665656,multi stiches,1,other
+665659,multiple warts cautery,1,procedure
+665660,multiple warts ext,1,other
+665661,multiroot canal,1,dental
+665674,mupirocin topical 2%,1,other
+665676,muscalr and joints us,1,imaging
+665677,muscle.tendon u.s,1,imaging
+665678,muscles & soft tissue,1,other
+665679,muscles & soft tissue 1561,1,other
+665680,muscles ultrasound,1,imaging
+665681,musclet & joints ultrasound,1,imaging
+665683,musculoskeletal u/s 1 joint,1,imaging
+665688,mycoheal 400 vag,1,other
+665712,mycosat oral suspensoin,1,other
+665714,mydriatic fundus examination,1,imaging
+665720,n / s,1,other
+665721,n-g tube gastriclavage,1,supplies
+665724,n62a,1,other
+665725,nasopharyngela x-ray,1,imaging
+665726,ncomposite direct 2 surface,1,other
+665727,ncomposite direct 4 surface,1,other
+665728,nebulizernebulizer device,1,other
+665731,na - k,1,lab_test
+665734,nadol blue 24tablets,1,other
+665735,nahdi bp monitor,1,eyewear
+665736,nail partial wedge resection,1,supplies
+665737,"nail removal , fixed",1,supplies
+665738,nail avulsion with general anesthesia,1,supplies
+665739,nail debridement,1,supplies
+665740,nail excision under local anesthesia,1,supplies
+665741,nail excision with local anesthesia??????? ???,1,supplies
+665743,nail extraction استئصال ظفر,1,dental
+665744,nail extraction (broken nail,1,dental
+665746,nail extraction (fixed nail,1,dental
+665747,nail extraction (loose nail,1,dental
+665748,nail extraction + local anathesia,1,dental
+665750,nail extraction under l.e,1,dental
+665751,nail extraction under local anaethesia,1,dental
+665752,nail extraction(l.a,1,dental
+665755,nail removal - big toe ( 1 piece,1,supplies
+665756,nail root extraction(l.a,1,dental
+665757,name,1,other
+665774,naprotex,1,other
+665783,narrow band uv,1,other
+665847,nasendoscopy rigid,1,procedure
+665848,nasendoscopy rigied,1,procedure
+665851,naso-pharynx lat view,1,imaging
+665871,nasopharyenx - lat,1,imaging
+665872,nasopharyenx - lat 1617,1,imaging
+665873,nasopharyngeal ( one view,1,supplies
+665876,nasopharynx 1v,1,imaging
+665878,nasopharynx (2films,1,other
+665880,nasopharynx (lat view,1,imaging
+665881,nasopharynx - 1 view,1,imaging
+665883,nasopharynx 1 film,1,other
+665885,nasopharynx x ray,1,imaging
+665887,nasopharynx1 film,1,other
+665888,nasopharyx (lat. view,1,imaging
+665900,natrilix sr 30tablets,1,other
+665910,nd specialist,1,consultation
+665911,nd specialist 101,1,consultation
+665930,neblization,1,other
+665931,nebulalizer service,1,other
+665936,nebulization (p+v+a+n,1,procedure
+665937,nebulization (p+v+n,1,procedure
+665938,nebulization (v+n,1,procedure
+665948,nebulization for aramco patient per,1,procedure
+665949,nebulization inculde medication,1,procedure
+665951,nebulization or oxygen,1,supplies
+665952,nebulization or oxygen per hour,1,supplies
+665965,nebulization w/ atroven,1,procedure
+665970,nebulizatione,1,other
+665971,nebulizationservice,1,other
+665987,nebulizer /hr,1,supplies
+665988,nebulizer device microlife bc 200,1,supplies
+665989,nebulizer omron duo baby neb,1,supplies
+665990,nebulizer and oxygen,1,supplies
+665991,nebulizer beurer ih40 inhalator,1,supplies
+665993,nebulizer dexa 1 set,1,supplies
+665997,nebulizer machine for bupa patients,1,supplies
+665998,nebulizer machine for tawuniya patients,1,supplies
+666000,nebulizer mask infant -- box /100pc,1,supplies
+666001,nebulizer mask medium size -- box /100pc,1,supplies
+666004,nebulizer or oxgyen per hour with pulmucort,1,supplies
+666007,nebulizer or oxygen/ hour,1,supplies
+666011,"nebulizer session "" ven + atrov + balmec",1,physiotherapy
+666014,nebulizer steam inhalation,1,supplies
+666019,nebulizer with out medication,1,supplies
+666020,nebulizer with oxygen per hour,1,supplies
+666023,nebulizer with rechargable,1,supplies
+666037,neck - tyroid gland,1,other
+666038,neck - tyroid gland 1557,1,other
+666041,neck mass biopsy taking,1,procedure
+666042,neck soft tissue ap/lat views,1,imaging
+666048,necrotic root canal treatment (multiple sessions) ???? ??? ?? ???? (??? ?????,1,dental
+666049,necrotic root canal treatment with filling (multiple sessions,1,dental
+666050,needles 23*1,1,supplies
+666051,needles 25*1,1,supplies
+666052,needles 25*5/8,1,supplies
+666053,needles 27*1/2,1,supplies
+666056,negative pressure therapy - daily,1,physiotherapy
+666122,neoprene ankle support,1,supplies
+666160,nerorin 2.5 syrep,1,other
+666163,nerve block (one nerve) u/s guided,1,supplies
+666165,nerve conduction (ncs,1,other
+666167,nerves ablation,1,procedure
+666168,netaz,1,other
+666171,neubilizer +o2,1,other
+666172,neublization,1,other
+666178,neupogen,1,other
+666283,neurobne,1,other
+666289,neurorubin fort,1,other
+666336,neutrogena acne oil free,1,other
+666349,nevotic500mg7,1,other
+666350,new born checkup,1,consultation
+666351,new patient consultation,1,consultation
+666353,newgel,1,other
+666436,next,1,other
+666437,nfiltration of local anaes asa 99,1,other
+666449,night guard (for occlusal therapy,1,physiotherapy
+666496,no-uric 100,1,lab_test
+666507,no-uric 300,1,lab_test
+666523,non custom foot orthosis,1,supplies
+666524,non custom foot wear (medical shoe,1,other
+666525,non surgical extraction of one tooth,1,dental
+666527,non-precious crown,1,dental
+666528,non-precious pocelain crown,1,dental
+666529,non-surgical extraction of one anterior tooth,1,dental
+666530,non-surgical extraction of one posterior tooth,1,dental
+666531,non-surgical extraction of one tooth,1,dental
+666533,noncompliant balloon.-inma,1,supplies
+666537,nootropil 1 gram ampule,1,lab_test
+666542,nor,1,other
+666554,normal cast above knee joint,1,supplies
+666555,normal cast below elbow,1,supplies
+666556,normal cast below knee joint,1,supplies
+666558,"normal delivery "" emergency",1,procedure
+666560,normal ext lower 3rd molar,1,dental
+666561,normal ext upper 3d molar,1,dental
+666564,normal extraction 812,1,dental
+666565,normal extraction ds7,1,dental
+666566,normal extraction lower 3rd molar,1,dental
+666569,normal salain .9%,1,other
+666573,normal salin 500cc,1,other
+666638,normal surgical extraction,1,dental
+666639,normal surgical tooth extraction,1,dental
+666642,normal vaginal delivery _x000d_,1,procedure
+666643,normalix sr 1.5,1,other
+666646,normalyte apple drink for kids,1,other
+666660,normatec 40/12.5,1,supplies
+666661,normatec 40/25,1,supplies
+666663,normatec plus 20/12.5,1,supplies
+666667,normatec plus 40,1,supplies
+666673,normla sline,1,other
+666687,nose pack,1,supplies
+666688,nose pack (1 nostril,1,supplies
+666689,nose pack (2 nostril,1,supplies
+666707,nostifix 0.5 8tab,1,other
+666724,not active service,1,other
+666725,not used,1,other
+666751,novofine 100 needle,1,supplies
+666776,novomix30flexpen,1,other
+666803,ns neubilizer,1,other
+666804,ntact lenses 4 (pair,1,eyewear
+666805,nternal medicine consultation- specialist,1,consultation
+666806,ntraoral periapical or bitewing radiograph ? per exposure,1,imaging
+666807,ntraoral periapical or bitewing radiograph per exposure,1,imaging
+666853,o . p . g . x-ray,1,imaging
+666855,o-4you-016-c3-47-plf,1,eyewear
+666856,o-ck-5875-201-52-plm,1,lab_test
+666857,o.b consu,1,lab_test
+666858,o.b specialist,1,consultation
+666859,o.c .t,1,lab_test
+666860,o.g con,1,lab_test
+666863,o2 o xygen+ no2 / 30 mins,1,other
+666865,o2 oxygen + no2 - 30 mins,1,supplies
+666870,o2 oxygen no2 30 mins,2,supplies
+666874,o2 plain,1,other
+666879,o2therapy,1,other
+666880,ogtt ( glucose tolerance test) 100gms pregnant female -2nd hr,1,lab_test
+666881,ogtt ( glucose tolerance test) 100gms pregnant female -3rd hr,1,lab_test
+666882,ogtt ( glucose tolerance test) 100gms pregnant female -fasting,1,lab_test
+666883,ogtt ( glucose tolerance test) 75gms pregnant female -2nd hr,1,lab_test
+666884,ogtt ( glucose tolerance test) 75gms pregnant female -fasting,1,lab_test
+666885,ogtt ( glucose tolerance test) 75gms pregnant female- 1st hr,1,lab_test
+666892,oakely/chamfer2 8039/01/f,1,other
+666893,oakely/fenceline ox8069/02/f,1,other
+666894,oakely/fenceline ox8069/03/f,1,other
+666895,oakely/marshal ox8034/02/f,1,other
+666896,oakely/pitchman ox8050/01/f,1,other
+666897,oakely/splinter ox8077/04/f,1,other
+666898,oasys,1,eyewear
+666899,ob & gyne cons,1,consultation
+666900,ob gyne,1,other
+666903,ob-gynae consultation,1,consultation
+666904,ob.gyne,1,other
+666909,obe-gyne follow up,1,consultation
+666910,obe-gyne specialist fee,1,consultation
+666913,obg spiceliest conceltation,1,other
+666915,obhan,1,other
+666916,obliqus pelvis ( 5 film,1,other
+666918,observation fees nurse,1,consultation
+666919,observation initiated for medical care,1,consultation
+666922,observation room- more than one hour,1,supplies
+666924,obsteric ultra sound,1,imaging
+666926,obstetric and gynecology examination,1,consultation
+666929,obstetric-gynecolgy,1,consultation
+666930,obstetric-gynecolgy consultation,1,consultation
+666931,obstetrics and gynecology clinic examination,1,consultation
+666932,obstetricsultrasonography,1,other
+666934,obturation anecrotic tooth,1,dental
+666935,obturation root canal for amolar,1,dental
+666936,obturation root canal fot amolar,1,dental
+666937,oby & gyne specialist consultation,1,consultation
+666941,"occlusal guard soft appliance, full arch",1,dental
+666945,occult blo,1,other
+666946,occult blo 562,1,other
+666947,occult blod test ( fob,1,lab_test
+666951,occult blood in the stool,1,lab_test
+666954,occult.blood,1,lab_test
+666955,occupation examination and drug test,1,lab_test
+666957,occupational therapy /assessment,1,physiotherapy
+666974,ocugesic eye dp,1,other
+666978,odenex,1,other
+666979,odontal scaling and root planing - four or more teeth per quad,1,dental
+666980,oeriodontalflap surgery / tooth,1,dental
+666982,oestradiol (e2,1,lab_test
+666984,office assessment for diagnosis treatment and counselling a new or established patient by gener,1,consultation
+666987,office assessment for diagnosis treatment and counselling a new or established patieoffice assess,1,consultation
+666992,office assessment for diagnosis and treatment and counselling of a new or established patient by,1,consultation

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+543123,sterile surgical gloves 7.0,1,supplies
+543124,sterile surgical gloves 7.5,1,supplies
+543125,sterile surgical gloves 8.0,1,supplies
+543126,sterile surgical gloves 8.5,1,supplies
+543127,sterile surgical gloves no 8.5,1,supplies
+543128,sterile swab without,1,lab_test
+543129,sterile tongue depressor,1,supplies
+543130,sterile towel,1,supplies
+543131,sterile universal pack,1,supplies
+543134,sterile vaseline gauze [1]pcs,1,supplies
+543156,sterile water for irrig. (1l,1,supplies
+543157,sterile water for irrig.in accumed ps.ct,1,imaging
+543158,sterile water for irrigation,1,supplies
+543160,sterile water for irrigation 1 liter,1,supplies
+543169,sterile water for injection10ml,1,supplies
+543173,sterile wound transparent dressing 10x15cm innomed cat 1010f,1,supplies
+543174,sterile wound transparent dressing 10x25cm innomed cat 1012f,1,supplies
+543175,"sterile wound transparent dressing 7x10cm, innomed cat 1005f",1,supplies
+543176,sterilized dressing,1,supplies
+543177,sterilized water r.t.f.(psi,1,lab_test
+543178,"sterilizer for feeding bottle, chicco",1,supplies
+543179,"sterilizing roll 200mm x 200m, damad",1,other
+543183,sterinase,1,other
+543191,steriod pulsee therapy (per day)-(non-surg) pkg,1,physiotherapy
+543192,"steripad 20 x 10 cm, 35/bx pharmapor",1,procedure
+543193,steripad 9x15cm (70/box) pharmapore,1,other
+543194,"steripad sterile 25x10cm, 25/box, cosmop",1,supplies
+543195,steristrip 1.5x4 3m #1547,3,supplies
+543198,"steristrip 1.5x4"" 3m #1547",1,supplies
+543199,steristrip 1/4x4 3m/hartman #546/540684-1,1,supplies
+543200,"steristrip 1/4x4"" 3m/hartman #546/540684-1",1,supplies
+543201,steristrip application,1,other
+543202,steristrip r1547,1,other
+543203,steristrip r1547 3m,1,supplies
+543204,steristrip r1548,1,other
+543205,"steristrip r1548, 1x5* 3m",1,supplies
+543206,"steristrip r1548, 3m",1,supplies
+543207,"steristrip r1548,1x5* 3m",1,supplies
+543208,"steristrip skin closure strip # r1541, 3m reinforced 0.64x8cm",1,supplies
+543209,"steristrip#r1541 skin closure strip, 3m reinforced 0.64x8cm",1,supplies
+543210,sterivent filter,1,supplies
+543211,sterling 4.2mm great white 6ea #9299a,1,other
+543212,sterling 5 cic (cfp) 50db,1,other
+543213,sterling 5 cic (cfp) 65db,1,other
+543214,sterling full radius resector 2.9mm c9944a,1,other
+543215,sternal wound debridement,1,procedure
+543216,sternal wound secondary closure,1,procedure
+543217,sternam lateral,2,other
+543218,sterno - calavicular joint,1,other
+543219,sterno cavicular joint,1,other
+543220,sterno ciavicuiar both sides 3 f,1,other
+543221,sterno clavical joints,1,other
+543222,sterno clavicular j,1,other
+543223,sterno clavicular joint,1,other
+543224,sterno clavicular joint 2v (left,1,imaging
+543225,sterno clavicular joint 2v (right,1,imaging
+543226,sterno clavicular joint 3 f,1,other
+543227,sterno clavicular joint 3 v,1,other
+543228,sterno clavicular joint ap/bil,1,imaging
+543229,sterno clavicular joint large,1,other
+543230,sterno clavicular joints,1,other
+543231,sterno clavicular jt,2,other
+543232,sterno-clavicle joint 2 views-1319,1,imaging
+543233,sterno-clavicle joint apbi,1,imaging
+543234,sterno-clavicular,1,other
+543235,sterno-clavicular joint,1,other
+543236,sterno-clavicular joint (one view,1,supplies
+543237,sterno-clavicular joint 1 view one side,1,supplies
+543238,sterno-clavicular joints,1,other
+543239,sternoclavicular joint (one side) 2f,1,imaging
+543240,sternoclavicular joint 2 views,1,imaging
+543241,sternoclavicular joint single view,1,imaging
+543242,sternoclavicular joint.bilateral xr view serendipity bilateral,1,imaging
+543243,sternoclavicular joint.bilateral xr views bilateral,1,imaging
+543244,sternoclavicular joints,2,other
+543245,sternoclavicular joints a.p,1,lab_test
+543246,"sternoclavicular joints ap,obliques (3v",1,imaging
+543247,sternoclavicular joints oblique,1,other
+543248,sternotomy + excision of mass,1,procedure
+543249,sternotomy plus biopsy,1,procedure
+543250,sternotomy snd removal of cyst,1,procedure
+543251,sternotomy with exc. anterior mediastinal mass,1,procedure
+543252,sternum,2,other
+543253,sternum 2 views,4,imaging
+543254,sternum & ribs 2 view,1,imaging
+543255,sternum ( 2 views,1,imaging
+543256,sternum ( to view,1,imaging
+543257,sternum (l/m,1,other
+543258,sternum (x-ray,1,imaging
+543259,"sternum , 2 views",1,imaging
+543260,"sternum , 3 views",1,imaging
+543261,sternum - 1 view,1,imaging
+543262,sternum - 2 views,3,imaging
+543264,sternum - 2v,1,imaging
+543265,sternum 1 view,2,imaging
+543268,sternum 2 - views,1,imaging
+543269,sternum 2 f,1,other
+543270,sternum 2 view,2,imaging
+543271,sternum 2 view - 2 films,1,imaging
+543273,sternum 2 views 2f,1,imaging
+543274,sternum 2 views-1316,1,imaging
+543275,sternum 2f (lat ap oblq,1,imaging
+543276,"sternum 2f (lat, ap oblq",1,imaging
+543277,"sternum 2f / lat,ap,oblq",1,imaging
+543278,sternum 2f x-ray,1,imaging
+543279,sternum 2v,1,imaging
+543280,sternum 3 views,2,imaging
+543281,sternum ap & lat,1,imaging
+543282,sternum ap/ obl,1,imaging
+543283,sternum ap/ oblique,1,imaging
+543284,sternum ap/lateral /oblique,1,imaging
+543285,sternum ap/obl,1,imaging
+543286,sternum ap/oblique,2,imaging
+543287,sternum ap/oblique 58521-00-00,1,imaging
+543288,sternum bone lateral,1,imaging
+543289,sternum ct multisectionwo contrast,1,imaging
+543290,sternum large-1,1,other
+543291,sternum lat,1,imaging
+543292,sternum lat & obl,1,imaging
+543293,sternum lateral,1,other
+543294,sternum minimum 2 views,1,imaging
+543295,sternum minimum 2 view,1,imaging
+543296,sternum multiple views,1,imaging
+543297,sternum obl & lat . two films,1,imaging
+543298,sternum pa,1,imaging
+543299,sternum two views,2,imaging
+543301,sternum x-ray(ap lateral oblique,1,imaging
+543302,sternum xr views 2,1,imaging
+543303,sternum- 2 views,1,imaging
+543304,sternum-2 view,1,imaging
+543305,sternum-2v,1,imaging
+543306,sternum1view,1,other
+543307,sternum2v,1,other
+543318,sterum 2 view,1,imaging
+543319,sterum lat & ap,1,imaging
+543320,"sterum, 1 view",1,imaging
+543321,"sterum, 2 view",1,imaging
+543322,"sterum, 3 view",1,imaging
+543323,sterun,1,other
+543331,stetch of superficail laceration l,1,other
+543332,"stethoscope, disposable, adult",1,supplies
+543333,stg-2 correction of scoliosis(post.app.) w/ bone graft & inter. fix,1,imaging
+543334,sthp (stool for h pylori antigen,2,lab_test
+543335,stich - single,1,other
+543336,stich each one,1,supplies
+543337,stich for one,1,supplies
+543338,stich for one | ????? ??? ???? ????? 5 ??,1,supplies
+543339,stich for supr wound undr anae,1,other
+543340,stich remoovel,1,other
+543341,stich removal,3,procedure
+543342,stich removal ( one stitch,2,supplies
+543343,stich removal and dressing,1,supplies
+543344,stich removal-service charge,1,procedure
+543345,stich remove,3,other
+543346,stiches,2,other
+543347,stiches removal,5,procedure
+543348,stiches wound,1,other
+543349,stiches for deep wound,1,other
+543350,stiches for deep wound or multiple wound,1,other
+543351,stiches for superf. wound ( less than 3,2,other
+543353,stiches for superfical wound 4to 6,1,other
+543354,stiches for superfical wound >6,1,other
+543355,stiches for superficial wound,1,other
+543356,stiches for superficial wound without anestesia1-3 stitches,1,procedure
+543357,stiches for superficial wound without anestesia 1,1,other
+543358,stiches for superficial wound without anestesia1-3 stitches [ip,1,procedure
+543359,stiches medium wound,1,other
+543360,stiches of cut and lacerated wound,1,other
+543362,stiches removal wound change,1,procedure
+543363,stiches removal&simple dressin,1,procedure
+543364,stiches small wound,1,other
+543365,stiching deep wound /stitch,1,procedure
+543366,stiching of lacerated wound ( l.a,1,lab_test
+543367,stiching of wounds (major,1,other
+543368,stiching of wounds (major) - 086-11241,1,other
+543369,stiching of wounds (minor) - 075-11204,1,other
+543370,stiching superficial wound /stitch,1,procedure
+543371,stiching wound - one stich,2,supplies
+543372,stiching wound - one stich-11620,1,supplies
+543373,stiching wound - one stitch,1,supplies
+543374,stiching wound -one stich,1,supplies
+543375,stick (aluminium non folderable,1,supplies
+543376,stick fiber artherx #ar-7209,1,supplies
+543377,stick metal adjustable canes for walkingfalse,1,supplies
+543378,"stick silver nitrate 6"""" applicator",1,supplies
+543379,"stick, aluminum with small quadrupeds (1438-m2",1,supplies
+543380,"stick, walking stick",1,supplies
+543381,"stiff amplatz super # m001465xxx, boston",1,other
+543382,"stiff amplatz super, m001465xxx",1,other
+543383,stiff angled hydro exchange gu #lwstfa35260 ex,1,other
+543384,stiff joint manipulation g/a or00355009,1,procedure
+543385,stimu tsh,1,lab_test
+543386,stimulan kit 10cc,2,other
+543387,"stimulan kit 10cc-#600-010, biocomposites",1,other
+543388,stimulan kit 5cc ( 600-005,1,other
+543389,stimulan kit 5cc- biocomposite uk,1,other
+543390,"stimulan kit 5cc-#600-005, biocomposites",1,other
+543391,stimulated growth hormone,2,lab_test
+543392,stimulated growth hormone (with glucose,1,lab_test
+543393,stimulatiom of peripheral cir,1,other
+543394,"stimulation therapy, nec",2,physiotherapy
+543395,"stimulation therapy, not elsewhere classified",2,physiotherapy
+543396,"stimulation therapy, shock wave",1,physiotherapy
+543398,"stimuplex iltra 360 30 g20x10#d4892510-01,b.braun",1,supplies
+543400,sting,2,other
+543401,sting vst018 0sg6,1,other
+543403,sting/vs4677/0531/f,1,other
+543404,sting/vs4749s/0541/f,1,other
+543405,sting/vs4750/08n3/f,1,other
+543406,sting/vs4764/osbl/f,1,other
+543407,sting/vs4768/08nv/f,1,other
+543408,sting/vs6350/700x/f,1,other
+543409,sting/vs6392/0700/f,1,other
+543410,sting/vs6527 col.0agf/f,1,eyewear
+543411,sting/vsj368/0568/f,1,other
+543412,sting/vsj368/0579/f,1,other
+543413,sting/vsj368/08bd/f,1,other
+543414,sting/vsj368/523b/f,1,other
+543415,sting/vsj368/os53/f,1,other
+543417,sting/vsj369/523r/f,1,other
+543418,sting/vsj540/09bv/f,1,other
+543419,sting/vsj540/09bw/f,1,other
+543420,sting/vsj540/09eh/f,1,other
+543421,sting/vsj540/9bvx/f,1,other
+543422,sting/vsj540/9bwx/f,1,other
+543423,sting/vsj554/09bt/f,1,other
+543424,sting/vsj554/09wf/f,1,other
+543425,sting/vsj554/og35/f,1,other
+543426,sting/vsj554/op79/f,1,other
+543427,stis panel (sexually transmitted infections,1,lab_test
+543428,stitch,4,procedure
+543429,stitch removal,7,procedure
+543430,stitch silk 1-2,2,procedure
+543432,stitch ( per stitch,1,procedure
+543433,stitch (depend upon quantity,1,procedure
+543434,stitch /suturing multiple,1,procedure
+543435,stitch > 6,1,procedure
+543436,stitch more than 2 (for each once,2,procedure
+543438,stitch of wound,1,procedure
+543439,stitch on deep wound,1,procedure
+543440,stitch one,2,supplies
+543441,stitch price for each one stitch,2,supplies
+543442,stitch remoral,1,procedure
+543443,stitch remov,1,procedure
+543445,stitch removal & dressing,2,supplies
+543447,stitch removal (eye,1,procedure
+543448,stitch removal (ob,1,procedure
+543449,stitch removal + dressing,3,supplies
+543450,stitch removal - each one,1,supplies
+543451,stitch removal by doctor,2,procedure
+543452,stitch removal by nurse,1,procedure
+543453,stitch removal lid,1,procedure
+543454,"stitch removal pack, cssd",1,supplies
+543455,stitch removal per stitch,2,procedure
+543456,stitch removal under g.a,1,procedure
+543457,stitch removal with dressing,2,supplies
+543459,"stitch removal, lid",1,procedure
+543460,stitch remove & dressing,2,supplies
+543462,stitch silk 3-5,1,procedure
+543463,stitch silk more than 5,1,procedure
+543464,stitch superficial wound,1,procedure
+543465,stitch vicryl 1-2,1,supplies
+543466,stitch vicryl 3-5,1,supplies
+543467,stitch/one,1,supplies
+543468,stitch/suture,1,supplies
+543469,stitche,3,other
+543472,stitches cost per stitch,2,procedure
+543473,stitches removal per stitch,2,procedure
+543474,stitches ( 1-3,1,procedure
+543475,stitches ( above 10 stitches,1,procedure
+543476,stitches ( less than 3,1,procedure
+543477,stitches ( more than 3,1,procedure
+543478,stitches ( more than 5,1,procedure
+543479,stitches ( removal,1,procedure
+543480,stitches (1-3,2,procedure
+543481,stitches (3-5 stitches,1,procedure
+543482,stitches (above 5 stitches,1,procedure
+543483,stitches (below 3 stitches,1,procedure
+543484,stitches (each,1,procedure
+543485,stitches (one suture,1,supplies
+543486,stitches - 1-3,1,procedure
+543487,stitches - removal,2,procedure
+543488,stitches / each - ?????? ?????????? /??????????????,1,procedure
+543489,stitches / each - غرز الجرح /الواحدة,1,procedure
+543490,stitches / sutures,1,supplies
+543491,stitches / sutures any type,1,supplies
+543492,stitches 1 to 3 stitches,1,procedure
+543493,stitches 1-to-4,1,procedure
+543494,stitches 3--6,1,procedure
+543495,stitches 3-5 stitches,1,procedure
+543496,stitches 5-to-7,1,procedure
+543497,stitches 6-8,1,procedure
+543498,stitches @ 1,2,procedure
+543499,stitches above 5 stitches,1,procedure
+543501,stitches deep,1,procedure
+543502,stitches for 2-4,1,procedure
+543503,stitches for deep wound,1,procedure
+543504,stitches for deep wound - or,1,procedure
+543505,stitches for deep wound clinic,1,procedure
+543506,stitches for deep wound g.a,1,procedure
+543507,stitches for deep wound g.a. gs00130005,1,procedure
+543508,stitches for deep wound less than 3,1,procedure
+543509,stitches for deep wound more than 3,1,procedure
+543510,stitches for deep wound more than 5,1,procedure
+543511,stitches for deep wound u.l.a w/o med,1,procedure
+543512,stitches for each,1,procedure
+543513,stitches for small wound ( dental,1,dental
+543514,stitches for suterfcial wound,1,procedure
+543515,stitches large ( lacerated,1,procedure
+543516,stitches more than 3,1,procedure
+543517,stitches new superficial (1,1,procedure
+543518,stitches new superficial less than 3,1,procedure
+543519,stitches new superficial more than 3,1,procedure
+543520,stitches new superficial more than 5,1,procedure
+543521,stitches of big wound,1,procedure
+543522,stitches of big wound one layer,1,supplies
+543523,stitches of deep lacerated wound,1,procedure
+543524,stitches of large wounds,2,procedure
+543525,stitches of small wound one layer,1,supplies
+543526,stitches of superficial wound,1,procedure
+543527,stitches per one - big wound,1,supplies
+543528,stitches per one - mediam wound,1,supplies
+543530,stitches removal stro,1,procedure
+543532,stitches removal & simple dres,1,procedure
+543533,stitches removal & simple dressing,1,supplies
+543534,stitches removal (large,1,procedure
+543535,stitches removal (medium,1,procedure
+543536,stitches removal (small,2,procedure
+543537,stitches removal + dresing,1,procedure
+543538,stitches removal - ?????? ????????,1,procedure
+543539,stitches removal - medium,1,procedure
+543540,stitches removal - رفع غرزة,1,procedure
+543541,stitches removal -minor,1,procedure
+543542,stitches removal -minor(13074,1,procedure
+543543,stitches removal -suture removal,1,supplies
+543544,stitches removal / per stitich,1,procedure
+543545,stitches removal ear,1,procedure
+543546,stitches removal for medium wounds,2,procedure
+543547,stitches removal for small wounds,2,procedure
+543548,stitches removal medium(13075,1,procedure
+543552,stitches removal with dressing(01229,1,supplies
+543553,stitches removal without dressing,2,supplies
+543554,stitches removal [large wounds,1,procedure
+543555,stitches removal [medium wounds,1,procedure
+543556,stitches removal [small wounds,1,procedure
+543557,"stitches removal, each",2,procedure
+543559,stitches skin preparation - large > 3,1,procedure
+543560,stitches skin preparation - medium 2,1,procedure
+543561,stitches small or medium wound,1,procedure
+543562,stitches superficial,1,procedure
+543563,stitches superficial - l/a,1,procedure
+543564,stitches superficial wound 1 to 3,1,procedure
+543565,stitches superficial wound l.a,1,procedure
+543566,stitches superficial wound u.a w/o med,1,procedure
+543567,stitches under l.a,1,procedure
+543568,stitches with deressing,1,procedure
+543569,stitches with dressing (1,1,supplies
+543570,stitches with dressing (2,1,supplies
+543571,stitches with dressing (3,1,supplies
+543572,stitches with dressing (4,1,supplies
+543573,stitches with dressing (5,1,supplies
+543574,stitches with dressing (6,1,supplies
+543575,stitches with dressing (7,1,supplies
+543576,stitches with dressing 2,2,supplies
+543577,stitches with dressing 3,1,supplies
+543578,stitches with dressing 4,2,supplies
+543579,stitches with dressing 5,1,supplies
+543580,stitches with dressing 6,1,supplies
+543581,stitches with dressing 7,1,supplies
+543582,stitches wound 1 stitche,1,procedure
+543583,stitches(below 3 stitches,1,procedure
+543584,stitches(incl.anesthesia,1,procedure
+543585,"stitches, each (deep wound",1,procedure
+543586,stitches-removal,1,procedure
+543587,stitches/sutures any type,1,supplies
+543588,stitchesmorethan 3,1,other
+543589,stitching,2,other
+543590,stitching (8 up,1,other
+543591,stitching - one stich,1,supplies
+543592,stitching - one stitch,1,supplies
+543593,stitching - per stitch,1,procedure
+543594,stitching / one stitch,1,supplies
+543595,stitching deep wound,1,other
+543596,stitching extensive 2 (multiple/long,1,other
+543597,stitching from 1 - 3,1,other
+543598,stitching from 4 - 7,1,other
+543599,stitching from 7 - 10,1,other
+543600,stitching of superfac wou/????? ???? ???? ?????? ???????,1,other
+543601,stitching of superfacial wound,1,other
+543602,stitching of wound per stitch,1,procedure
+543603,stitching of wound under general anesthesia,1,procedure
+543604,stitching of wound under la (per stitch,1,procedure
+543605,stitching superficial wound,1,other
+543606,stitching waund,1,other
+543607,stitching whole spine x-ray,1,imaging
+543608,stitching wound,2,other
+543609,stitching wound - one stich,1,supplies
+543610,stitching wound - one stitch,1,supplies
+543611,stitching wound- one stitch,3,supplies
+543612,stitchremoval,1,other
+543613,stitchs,1,other
+543614,stitchs (one stitch,1,supplies
+543615,stitchs removal with dressing,1,supplies
+543616,stitchs/one superfacial,1,supplies
+543617,"stitiches removal , each (ent",1,procedure
+543618,"stitiches removal, each (ent",1,procedure
+543627,stkgen fsv 1.61 hmc,1,eyewear
+543628,stkgen fsv 1.67 hmc,1,eyewear
+543629,stn,1,other
+543630,stoc- (stool - occult blood,2,lab_test
+543631,"stockinet, large,kimberly clark,89821",1,other
+543632,stockinette 10cm,1,other
+543633,stockinette 5cm 2454,1,other
+543634,stockinette 7.5cm 2455,1,other
+543635,stockinette impervious large 30cmx122cm sterile disposable,1,supplies
+543636,stockinette imprevious large,1,other
+543637,stockinette undercast synthetic elastic roll 10cmx22.8m non-sterile disposable,1,supplies
+543638,stockinette undercast synthetic elastic roll 6cmx10m non-sterile disposable,1,supplies
+543639,stockinette undercast synthetic elastic roll 7.6cmx22.8m non-sterile disposable,1,supplies
+543640,stocking,1,supplies
+543641,stocking ( med,1,supplies
+543642,stocking anti - embolism (m) # 3416,1,supplies
+543643,stocking anti embloism (x-large) #4114l,1,supplies
+543644,stocking anti embolisim knee xl,1,supplies
+543645,stocking anti embolism compression elastic knee high xl sterile disposable (10s,1,supplies
+543646,stocking anti embolism compression elastic knee high xxl sterile disposable (10s,1,supplies
+543647,stocking anti embolism knee l,1,supplies
+543648,stocking anti embolism knee s,1,supplies
+543649,stocking anti embolism thigh l,1,supplies
+543650,stocking anti embolism thigh m,1,supplies
+543651,stocking anti embolism thigh s,1,supplies
+543652,stocking anti embolism thigh s stocking,1,supplies
+543653,stocking anti embolism thigh x large above knee,1,supplies
+543654,stocking anti embolism thigh xl,1,supplies
+543655,stocking anti embolism thigh xl lenght 36-41cm,1,supplies
+543656,stocking anti-embolic thigh length medium regular each,1,supplies
+543657,stocking anti-embolism thigh large above knee,1,supplies
+543658,stocking anti-embolism thigh large length 31-36cm,1,supplies
+543659,stocking anti-embolism thigh large s2 hartmann #997352/1/bsn#4638900-06,1,supplies
+543660,stocking anti-embolizm knee length long med. 7480,1,supplies
+543661,stocking anti-embolizm thigh length reguler med,1,supplies
+543662,stocking anti-embolizm thigh length reguler sml,1,supplies
+543663,stocking anti-embolizm thigh length short sml,1,supplies
+543664,stocking antiembolism o/knee 3xl,1,supplies
+543665,stocking antiembolism o/knee l,1,supplies
+543666,stocking antiembolism o/knee m,1,supplies
+543667,stocking antiembolism o/knee s,1,supplies
+543668,stocking antiembolism o/knee xl,1,supplies
+543669,stocking antiembolism o/knee xxl,1,supplies
+543670,stocking antiembolism u/knee 3xl,1,supplies
+543671,stocking antiembolism u/knee l,1,supplies
+543672,stocking antiembolism u/knee m,1,supplies
+543673,stocking antiembolism u/knee s,1,supplies
+543674,stocking antiembolism u/knee xl,1,supplies
+543675,stocking antiembolism u/knee xxl,1,supplies
+543676,stocking cotton compression sigvaris above knee,1,supplies
+543677,stocking cotton compression sigvaris below knee,1,supplies
+543678,stocking elastic large anti embolism,1,supplies
+543679,stocking elastic medium anti embolism,2,supplies
+543681,stocking elastic x-large anti embolism,1,supplies
+543682,stocking elastic xl anti embolism,1,supplies
+543683,stocking knee high (xxl,1,supplies
+543684,stocking knee length for scd,1,supplies
+543685,"stocking over knee ""all sizes"" (ortho",1,supplies
+543686,stocking over knee (m/l/xl/2xl/3xl) (ortho) (iming) ^^,1,supplies
+543687,stocking t.e.d. knee length - extra large/regular - kendall - 7604-g/ 7802,1,supplies
+543688,"stocking t.e.d. knee length - large/ regular - kendall - 7203 / sigvaris, 38910",1,supplies
+543689,stocking t.e.d. knee length - small /regular - kendall - 7071 / covidien-3222lf,1,supplies
+543690,stocking t.e.d. length - large/ regular - kendall - 3728lf / covidien-3856lf,1,supplies
+543691,"stocking t.e.d. length - medium /regular, covidien - 3416lf / 3549lf, sigvaris - 38907",1,supplies
+543692,stocking t.e.d. length - small /short - kendall - 3130lf,1,supplies
+543693,stocking thigh high xxxl size,1,supplies
+543694,stocking thigh length regular for scd,1,supplies
+543695,"stocking under knee ""all sizes"" (ortho",1,supplies
+543696,stocking under knee (m/l/xl/2xl/3xl) (ortho) (iming) ^^,1,supplies
+543697,stomach feeding tube #12ch,1,supplies
+543698,stomach feeding tube #14ch,1,supplies
+543699,stomach feeding tube #16ch,1,supplies
+543700,stomach feeding tube #8ch,1,supplies
+543701,stomach tube ( ngt,1,supplies
+543702,stomach tube (ngt,1,supplies
+543703,stomach tube 10ch st2410,1,supplies
+543704,stomach tube 12ch st2412,1,supplies
+543705,stomach tube 12fr,1,supplies
+543706,stomach tube 14 fr,1,eyewear
+543707,stomach tube 14ch st-2414,1,supplies
+543708,stomach tube 14fr,1,supplies
+543709,stomach tube 16ch st-2416,1,supplies
+543710,stomach tube 16fr,1,supplies
+543711,stomach tube 18ch st-2418,1,supplies
+543712,stomach tube 18fr ( gastric sump,1,supplies
+543713,stomach tube fr 14,1,eyewear
+543714,stomach tube fr 16,1,eyewear
+543715,stomach tube fr 18,1,eyewear
+543716,stomach wash,2,procedure
+543717,stomach wash baby,1,procedure
+543718,stomach wash with drugs,1,procedure
+543719,stomach wash with ryle tube,1,supplies
+543720,"stomach, biopsy",1,procedure
+543721,stomach/feed 6ch tube ft1606/4,1,supplies

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+504503,root canal treatment(3 canal,1,dental
+504504,root canal treatment(anterior) dn000954,1,dental
+504505,root canal treatment(molar) 3,1,dental
+504506,root canal treatment(per tooth,1,dental
+504507,root canal treatment(premolar,1,dental
+504508,root canal treatment(r.c.t)1c,1,dental
+504509,root canal treatment(rct package,1,dental
+504510,root canal treatment(rct,1,dental
+504511,root canal treatment(single root,1,dental
+504512,root canal treatment+ composite,2,dental
+504514,root canal treatment+ filling,1,dental
+504515,root canal treatment+composite,1,dental
+504516,"root canal treatment, anterior (includes extirpation of pulp, chemomechanical preparation, obturation",2,dental
+504517,"root canal treatment, anterior tooth, complicated (including final restoration",1,dental
+504518,"root canal treatment, filling for anterior",2,dental
+504519,"root canal treatment, filling for posterior",2,dental
+504520,"root canal treatment, molar (includes extirpation of pulp, chemomechanical preparation, obturation",2,dental
+504521,"root canal treatment, molar tooth, complicated (including final restoration",1,dental
+504522,"root canal treatment, one toot",1,dental
+504523,root canal treatment- molars,2,dental
+504524,root canal treatment- posterior,2,dental
+504525,root canal treatment- rotary,1,dental
+504526,root canal treatment-1 root,1,dental
+504527,root canal treatment-mult root,1,dental
+504528,root canal treatment/ one root inc.filling,1,dental
+504529,root canal treatment/ single root w filling,1,dental
+504530,root canal treatment/ two root inc.filling,1,dental
+504531,root canal treatment/multi root inc. filling,1,dental
+504532,root canal treatment/multiroot inc.filling,1,dental
+504533,root canal treatment/one root inc.filling,2,dental
+504534,root canal treatment/th,1,dental
+504535,root canal treatment/two root inc. filling,1,dental
+504536,root canal treatment/two root inc.filling,1,dental
+504537,root canal treatmint multirooted,1,dental
+504538,root canal tretment,1,dental
+504539,root canal tretment ( 2,1,dental
+504540,root canal tretment ( anterior,1,dental
+504541,root canal tretment (3 or more)??,1,dental
+504542,root canal tretment (3 or more)ِ,1,dental
+504543,root canal tretment - three roots,3,dental
+504544,root canal tretment - two root,3,dental
+504545,root canal tretment ???? ?????,1,dental
+504546,root canal trt 2 can,2,dental
+504547,root canal trt 2 can (partially approved,2,dental
+504548,root canal trt 2 can partially approved,2,dental
+504549,root canal trt 2 can(partially approved,1,dental
+504550,root canal trt 1 can,2,dental
+504551,root canal trt 1 can partially approved,1,dental
+504552,root canal trt 1 can(partially approved,1,dental
+504556,root canal trt 3 can,1,dental
+504557,root canal trt 3 can (partially approved,1,dental
+504558,root canal trt 3 can partially appproved,1,dental
+504559,root canal trt 3 can partially approved,1,dental
+504560,root canal trt 3 can with filling,1,dental
+504561,root canal trt 3 can(partially apporved,1,dental
+504562,root canal trt 3 can(partially approved,1,dental
+504563,root canal trt 3 can(partillay approved,1,dental
+504564,root canal trt. w/ filling,1,dental
+504565,root canal tt for ant tooth,1,dental
+504566,root canal tt for post tooth,1,dental
+504567,root canal ttt,1,dental
+504568,root canal ttt (multi roots,1,dental
+504569,root canal ttt (one root,1,dental
+504570,root canal ttt pre molar (two roots,1,dental
+504571,root canal ttt(one canal,1,dental
+504572,root canal ttt(one,1,dental
+504573,root canal two,1,dental
+504574,root canal w/x-ray vital teeth,1,imaging
+504575,root canal with filling -three roots,1,dental
+504576,root canal with filling 1 canal tooth (anterior,1,dental
+504577,root canal with filling 2 canal teeth-premoler,1,dental
+504578,root canal with filling 3 canal teeth-moler,1,dental
+504579,root canal with filling-molars,1,dental
+504580,root canal& filling 1root,1,dental
+504581,root canal& filling 2root,1,dental
+504582,root canal& filling many root,1,dental
+504583,root canal(posteriorfilling,1,dental
+504584,root canal+ filling,1,dental
+504585,root canal+filling 2 root,1,dental
+504586,root canal- (multi roots,1,dental
+504587,root canal- rotary,1,dental
+504588,root canal-1,2,dental
+504589,root canal-2,2,dental
+504590,root canal-5064-dnt,1,dental
+504591,root canal-anterior tooth (incisor/canine,1,dental
+504592,root canal-bicuspid tooth (premolar,1,dental
+504593,root canal-four or more canals,1,dental
+504594,root canal-one canal,1,dental
+504595,root canal-three canals,1,dental
+504596,root canal-two canals,1,dental
+504597,root canal. one (w/o anesthesia and xray,1,imaging
+504598,root canal. three (w/o anesthesia and xray,1,imaging
+504599,root canals post,1,other
+504600,root canals treatment/one with final filling,1,dental
+504601,root canaltreatment,1,other
+504602,root canaltreatment /multi root inc filling,1,dental
+504603,root canaltreatment /one root inc filling,1,dental
+504604,root canalandfilling 2root,1,other
+504605,root cananl,1,other
+504606,root canat treatment for single root,1,other
+504607,root canat treatment of premolar,1,dental
+504608,root canel posteriors,1,other
+504609,root canel treatment three surfac or more,1,other
+504610,root canel treatment with periapical cyst,1,dental
+504611,root cannal treatment with filling,1,dental
+504613,root extraction (14425,1,dental
+504614,root extraction (dp,1,dental
+504616,root extraction / broken down tooth extraction,1,dental
+504617,root extraction non surgery,4,dental
+504618,root extraction(atd09,1,dental
+504619,root extraction(dgu06,1,dental
+504620,root extrection,1,other
+504621,root planing,3,other
+504622,root planing subgingvl curet > 8 teeth,1,dental
+504623,root planing with subgingival curettage > 8 teeth,1,dental
+504624,root planing with subgingival curettage £ 8 teeth,1,dental
+504625,root planning,1,other
+504626,root planning (each half jaw,1,other
+504627,root planning / per quadrant,1,other
+504628,root planning and subgingival curettage per arch,1,dental
+504629,root planning curretage quad,1,other
+504630,root planning each half jaw,1,other
+504631,root planning per quadrant,1,other
+504632,root plannng,1,other
+504633,root post,2,other
+504634,root removal exposed roots,4,procedure
+504637,root removal-exposed roots,1,procedure
+504638,root removal-surgical,1,procedure
+504639,root resection per root,2,procedure
+504640,root scaling (intermediate,1,dental
+504641,root scaling(heavy,1,dental
+504642,root screw,1,supplies
+504643,root separtion,1,other
+504644,root therapy 1 canal,2,dental
+504645,root therapy 3 canal,2,dental
+504647,root therapy 2 canal,1,dental
+504649,root therapy final three (wo silver,1,physiotherapy
+504650,root therapy final w/o silver fill 1 canal,1,dental
+504651,root therapy final w/o silver fill 2 canal,2,dental
+504652,root therapy final w/o silver fill 3 canal,1,dental
+504653,root therapy sargent/one sitting procedure,1,physiotherapy
+504654,root therapy sargenti -one sititing prc,2,physiotherapy
+504655,root treatment (two or more) without filling 627,1,dental
+504656,root treatment of infected tooth (one root) 626,1,dental
+504657,root treatment of infected tooth two or more without filling 622,1,dental
+504658,root%20canal%20-%20anterior%20tooth%20(incisor%2fcanine,1,other
+504659,root%20canal%20-%20bicuspid%20tooth%20(premolar,1,dental
+504660,root%20canal%20-%20bicuspid%20tooth%20(premolar)%09,1,dental
+504661,root%20canal%20-%20posterior%20tooth%20(molar,1,dental
+504662,rootcanal one,1,supplies
+504663,rootcanal-anteriortooth(incisor2fcanine,1,other
+504664,rootcanal-bicuspidtooth(premolar,1,dental
+504665,rootcanal-posteriortooth(molar,1,dental
+504666,rootcanaltooth (anterior,1,other
+504667,rootcanaltooth with filling withabscess(anterior,1,dental
+504668,rootcanaltooth with filling withabscess(premolar,1,dental
+504669,rootcanaltooth with filling(anterior,1,dental
+504670,rootcanaltooth with filling(premolar,1,dental
+504671,rootcanaltooth withabscess(anterior,1,other
+504672,rootcanaltooth withabscess(premolar,1,dental
+504673,"rootcanaltreatment,molartooth,complicated(excludingfinalrestoration",1,other
+504674,rootcanel anteriors,1,other
+504675,rootfilling multi-root,1,other
+504676,rootfilling multi-rooted,1,other
+504677,rootfilling single-rooted,1,other
+504678,rootfilling two-rooted,1,other
+504679,roots extraction(dp,1,dental
+504680,roots exo,2,other
+504682,roots extraction,4,dental
+504683,roots extraction - ?????? ????????,1,dental
+504684,roots extraction - خلع جذور,1,dental
+504685,roots extraction anterior,1,dental
+504686,rop (retinopathy of premature) screening,1,lab_test
+504687,rop (retinopathy of prematurity) g. laser (per eye,1,procedure
+504688,rop examination kit include speculum&double tip depressor sterile disposable,1,supplies
+504689,rop screening,1,lab_test
+504690,rop(retinopathy of premature) screening,1,lab_test
+504691,rop3345/c1/f,1,eyewear
+504692,rop3345/c5/f,1,eyewear
+504693,rop3347/c5/f,1,eyewear
+504694,rope tight 14 mm abs w/button round concave arthrex # ar-1588tb-4,1,lab_test
+504695,rope tight 14.0mm abs w/button round concave arthrex/smithnephew #ar-1588tb-4/71935601,1,lab_test
+504696,rope tight abs w/o button arthrex/smithnephew #ar-1588tn/71935602,1,lab_test
+504697,rope tight abs w/out button arthrex # ar-1588tn,1,lab_test
+504698,rope tight acl # ar-1588rt,1,other
+504699,rope tight acl arthrex/smithnephew #ar-c/72290003,1,other
+504700,rope tight acl rt arthrex #ar-1588rt,1,other
+504701,ropivacaine,1,other
+504704,ros,1,other
+504705,rosa,2,other
+504800,rose - rose006,1,other
+504801,rose bengal staining,1,lab_test
+504822,rose du monde kids - rosrm5026/c1,1,eyewear
+504824,rose k lens (any power) - per pcs,1,eyewear
+504825,rose k xl - per pcs,1,other
+504826,rose k2 ww,1,other
+504827,rosemary oil|olive oil|fennel oil,1,other
+504828,roshn group pre-employment checkup,1,consultation
+504831,rossini,1,other
+504832,rossini t 18807,1,other
+504833,rossmax -x5 blood pressure monitor,1,lab_test
+504834,rossmax ac701 b.p.monitor auto,1,lab_test
+504835,rossmax automatic blood pressure monitor device x5 parr,1,lab_test
+504836,rossmax b.p machine-x3,1,supplies
+504837,rossmax b.p monitor arm ch155,1,lab_test
+504838,rossmax blood pressur monitor,1,lab_test
+504839,rossmax blood pressure ch155f,1,lab_test
+504840,rossmax blood pressure machine,1,lab_test
+504841,rossmax blood pressure monitor,1,lab_test
+504842,rossmax bp monitor,1,eyewear
+504843,rossmax bp monitor de presion artrial x1,1,eyewear
+504844,rossmax mesh nebulizer machine x 1,1,supplies
+504845,rossmax mesh nebulizer nc200 x 1,1,supplies
+504846,rossmax monitoring - blood pressure monitor,1,lab_test
+504847,rossmax mesh nebulizer device model (nc,1,supplies
+504848,rossmax mesh nebulizer nc,1,supplies
+504849,rossmax mesh nebulizer nc200,1,supplies
+504850,rossmax monitoring infrared ear thermometer ra600,1,physiotherapy
+504851,rossmax monitoring thermometer tg380,1,supplies
+504852,rossmax nebulizer,1,supplies
+504853,rossmax nebulizer machine,1,supplies
+504854,rossmax nebulizer ne -100,1,supplies
+504855,rossmax nebulizer ne100,1,supplies
+504856,rossmax nebulizer nl100,1,supplies
+504857,rossmax professional thermometer hc700,1,supplies
+504858,rossmax tg380 flexible tip thermometer,1,supplies
+504859,rossmax-x5 monitor,1,other
+504860,rost,2,other
+504870,rost 10,1,other
+504927,rost 20,2,other
+505163,rosuvastatin20mg,1,other
+505179,rot root,1,other
+505183,rota / adeno virus ( stool,1,lab_test
+505187,rota test (stool,1,lab_test
+505192,rota virus stool,3,lab_test
+505193,rota virus ( stool,3,lab_test
+505196,rota virus (latex) - stool,1,lab_test
+505197,rota virus (latex)-stool,1,lab_test
+505199,rota virus (stool,5,lab_test
+505201,rota virus - stool,2,lab_test
+505202,rota virus / adeno virus -stool,1,lab_test
+505203,rota virus ag in stool,3,lab_test
+505204,rota virus antigen (stool,1,lab_test
+505206,rota virus antigens in stool,2,lab_test
+505209,rota virus in stool,3,lab_test
+505211,rota virus screening (stool,1,lab_test
+505217,"rota virus,stool",1,lab_test
+505218,rota virus- rapid / stool,1,lab_test
+505221,rota-virus ab,1,lab_test
+505223,rotablator application,1,other
+505225,rotaio 5x17x13mm signus #ga051713,1,other
+505226,rotarex set straub medical ref;80208,1,other
+505234,rotarix oral,1,other
+505253,rotarix oral vacc,1,other
+505268,rotarix vaccin,1,other
+505277,rotarix%20oral%20suspension%20vaccine%09,1,other
+505278,rotary endao tr,1,other
+505279,rotary endodontics (complete procedure,1,other
+505280,rotary r.c.t,1,imaging
+505281,rotary rct posterior teeth,1,dental
+505282,rotatable clip fixing device,1,supplies
+505283,rotatable clip fixing device procedure - pkg,1,supplies
+505288,rotateq oral vacc (msd)(incl.dr&consb,1,other
+505296,rotateq vaccin one dose,1,supplies
+505299,rotatic virus (stool,1,lab_test
+505300,rotation flap,1,other
+505301,rotation flap (major,1,other
+505302,rotation flap (moderate,1,other
+505303,rotation of intra-ocular lens under topical aesthesia,1,eyewear
+505304,rotation rotatable snare-mini oval bx00711121,1,other
+505305,rotational atherectomy,1,procedure
+505306,rotational atherectomy (rotablator) procedure,1,procedure
+505307,rotational conjunctival graft,1,procedure
+505308,rotator cuff arthroscopic repair (without price of prosthesis & or imp,1,supplies
+505309,rotator cuff arthroscopy - 1 day pkg,1,procedure
+505310,rotator cuff complete rupture,1,other
+505311,rotator cuff injury open repair/ga,1,procedure
+505312,rotator cuff rep - arthrscopy,1,procedure
+505313,rotator cuff repair,2,procedure
+505314,rotator cuff repair (excluding implants,2,supplies
+505315,rotator cuff repair +-acromioplasty,1,procedure
+505316,rotator cuff repair -1 day pkg,1,procedure
+505317,rotator cuff repair surgery unilateral,1,procedure
+505318,rotator cuff repair with acromioplasty,1,procedure
+505319,rotator cuff tear rep(open) l,1,other
+505320,rotator cuff tear repair,1,procedure
+505326,rotavirus & adenovirus screening (stool,2,lab_test
+505327,rotavirus ( ab,2,lab_test
+505328,rotavirus (latex)-stool,1,lab_test
+505329,rotavirus (stool,2,lab_test
+505330,rotavirus / adenovirus antigen detection combo rapid test,1,lab_test
+505331,rotavirus antibody,1,lab_test
+505332,rotavirus antigen,2,lab_test
+505333,rotavirus antigen (stool,1,lab_test
+505334,rotavirus antigen infecs stool,1,lab_test
+505335,rotavirus antigen infecs stool-5-13-120659,1,lab_test
+505336,rotavirus ag in stool,2,lab_test
+505339,rotavirus direct rapid detection in stool,2,lab_test
+505340,rotavirus fecal screen,1,other
+505341,rotavirus in stool,3,lab_test
+505343,rotavirus stool,4,lab_test
+505344,rotavirus stool analysis,1,lab_test
+505353,roth net - foreign body retrieval - stan - per pcs,1,other
+505354,roth net platinium retriver poly,1,other
+505357,rothnet 30mm oval shape 230cm,1,other
+505358,rothnet 30mm oval shape 230cm disposable,1,supplies
+505359,"roticulator endo gia 60-3 # 30458, covidien , surgical items , or",1,supplies
+505366,rotro,1,other
+505369,round band aid,1,other
+505370,round saw blade 50 mm,1,supplies
+505371,round xtendobutton fixation device 17mm 7.5mm peg sterile,1,supplies
+505372,rounding fee consultation consultant,2,consultation
+505375,"router tamered 2.3mm ,medex",1,other
+505376,routin culture,1,lab_test
+505377,routine culture and sesitivity,1,lab_test
+505381,routine c and s,2,other
+505382,routine c/s,3,lab_test
+505383,routine c/s for,2,lab_test
+505384,routine c/s urine,1,lab_test
+505385,routine c/s vaginal swab (h.v.s,1,lab_test
+505386,routine checkup saudi electricity comp,1,consultation
+505387,routine culture,1,lab_test
+505388,routine culture mycology,2,lab_test
+505389,routine culture &sensitivity,1,lab_test
+505391,"routine culture, mycology",1,lab_test
+505392,"routine culture, mycology(506004",1,lab_test
+505393,routine ecg,1,diagnostic
+505394,routine eeg,2,diagnostic
+505395,routine examination (c.l,1,consultation
+505396,routine examination stool,1,lab_test
+505397,routine examination urine,1,lab_test
+505398,routine medical consumbles ccu,1,consultation
+505399,routine obst. u/s,2,imaging
+505400,routine ophthalmological examination including refraction,1,eyewear
+505401,routine routine stool,1,lab_test
+505402,routine s/a,1,other
+505403,routine semen analysis,1,lab_test
+505404,routine skull,1,other
+505405,routine stool,4,lab_test
+505407,routine stool analysis(508016,1,lab_test
+505410,routine u/a,1,other
+505411,routine urinalysis,2,lab_test
+505412,routine urine,4,lab_test
+505414,routine urine analysis(508002,1,lab_test
+505417,routine venipuncture,1,other
+505418,rouvax = measls,1,other
+505419,rouvax for measles (vaccine,1,lab_test
+505420,rouvax lyopholized (measles,1,lab_test
+505428,roux - en - y hepaticojejunostomy - 10 days pkg,1,procedure
+505429,roux en-y-gastric bypass,1,other
+505430,roux-en-y gastric bypass,1,other
+505431,rovan,1,other
+505432,rovan 1705col001,1,other
+505433,rovan 2020,1,other
+505434,rovan 4306,1,other
+505435,rovan fr 4250,1,eyewear
+505436,rovan fr 4251,1,eyewear
+505437,rovan fr 4253,1,eyewear
+505438,rovan fr 4306,1,eyewear
+505439,rovan fr 4321,1,eyewear
+505441,rovan frm,1,eyewear
+505442,rovan frm 10002,1,eyewear
+505443,rovan frm 1025,1,eyewear
+505444,rovan frm 1026 c1,1,eyewear
+505445,rovan frm 1395,1,eyewear
+505446,rovan k,1,other
+505447,rovan kids frm,1,eyewear
+505448,rovasta,1,other
+505461,rovasta10mg,1,other
+505462,rovay fr 4251,1,eyewear
+505463,rovay mix fr 4308,1,eyewear
+505551,rowida abdelshakor abdelrahman abdalla,1,other
+505552,rowland wyn rees,1,other
+505566,roxcef,1,other
+505572,roxcef 1000,1,other
+505699,roxonin 100 mgtape 7 sheet patch,1,supplies
+505700,roxonin 100 tape,1,supplies
+505842,roxonin tape,2,supplies
+505843,roxonin tape 100 7sheet,1,supplies
+505980,roxonin tape50 7 sheets,1,other
+506003,royal commission for al-ula county pre-employment-female,1,consultation
+506004,royal commission for al-ula county pre-employment-male,1,consultation
+506005,royal jelly fresh1000mg cps,1,other
+506006,royal jelly ginseng wheat germ oil garlic omega 3 - rovital - 30capsules (r00157,1,other
+506017,royal nail cutter silver original,1,supplies
+506020,royal park/mod777/grey/51,1,other
+506021,royal park/rop1680/c1/f,1,eyewear
+506022,royal park/rop1680/c2/f,1,eyewear
+506023,royal park/rop1680/c3/f,1,eyewear
+506024,royal park/rpk888/pur2/52/f,1,other
+506025,royal park/rpk888/sil1/52,1,other
+506026,royal park/ry20/c03/f,1,other
+506028,royal suite,1,consultation
+506029,royal suite (3 rooms) + 1 guest,1,consultation
+506030,royal suite - 328,1,consultation
+506031,royal suite - accommodation,1,eyewear
+506032,royal suite - medical supervision,1,consultation
+506033,royal suite /day,1,consultation
+506034,royal suite a - accommodation,1,eyewear
+506035,royal suite accomodation,1,consultation
+506036,royal suite b - accommodation,1,eyewear
+506037,royal suite room,1,consultation
+506038,royal suite room companion,1,consultation
+506039,royal suite room per day (net price,1,consultation
+506040,royal suite-suw,1,consultation
+506041,royal/r2220/bal1/53/f,1,other
+506042,royal/r2220/gry/53/f,1,other
+506043,royal/r2220/gry2/53/f,1,other
+506044,royal/r2220f/dbr3/53/f,1,other
+506045,royal/r2255/bc1/55/f,1,other
+506046,royal/r2255f/bmb4/55/f,1,other
+506047,royal/roy1700/c4/f,1,eyewear
+506048,royal/roy1710/c1/f,1,eyewear
+506049,royal/roy1710/c3/f,1,eyewear
+506050,royal/roy1813/c1/f,1,eyewear
+506051,royal/roy1813/c3/f,1,eyewear
+506052,royal/roy1813/c4/f,1,eyewear
+506053,royal/ry20/c04/51,1,other
+506055,rozavi 10,1,other
+506056,rozavi 10( tier1,1,insurance
+506131,rozavi 20,1,other
+506238,rozex topical gel30gr,1,other
+506241,rozitta,3,other
+506286,rondocannulatedscrew4mml50mm,1,other
+506287,rp toric lens - per piece,1,eyewear
+506288,rpair of tendon of hand g.a,1,lab_test
+506289,rpd acrylic more than 3 teeth each,1,dental
+506290,rpr,5,lab_test
+506291,rpr 73100-18-70,1,lab_test
+506292,rpr or vdrl,3,lab_test
+506293,rpr or vdrl (l23,2,lab_test
+506294,rpr ( vdrl,1,lab_test
+506295,rpr (rapid plasma reagent,1,lab_test
+506296,rpr (rapid plasma reagin,2,lab_test
+506297,rpr (rapid plasma reagin-vdrl,1,lab_test
+506299,rpr (syphilis) serum,1,lab_test
+506301,rpr (vdrl) quantitative -serum,1,lab_test
+506302,rpr (vdrl) quantitative -serum-5-6-120206,1,lab_test
+506303,rpr - qualitative test only,1,lab_test
+506304,rpr - vdrl,1,lab_test
+506305,rpr - vdrl - venereal disease research laboratory - rapid pl,1,lab_test
+506306,rpr - vdrl - venereal disease research laboratory - rapid plasma reagent test,1,lab_test
+506307,rpr - vdrl - venereal disease research laboratory - rapid plasma reagent test fo,1,lab_test
+506310,rpr / vdrl,2,lab_test
+506311,rpr / vdrl ( venereal disease research laboratory )( rapid plasman reagent )test,1,lab_test
+506312,rpr / vdrl ( venereal disease research laboratory )( rapid plasman reagent )test for syphilis,3,lab_test
+506314,rpr / vdrl (-with titer,1,lab_test
+506315,"rpr / vdrl ,test for syphilis",1,lab_test
+506316,rpr / vdrl titre,1,lab_test
+506317,rpr / vdrl venereal disease research laboratory rapid plasman reagent test for syphilis,1,lab_test
+506318,rpr /vdrl,1,lab_test
+506319,rpr /vdrl - tat (72 hrs s.o,1,lab_test
+506320,"rpr /vdrl, serum",1,lab_test
+506321,rpr 32025,1,lab_test
+506322,rpr agglutination,1,lab_test
+506323,rpr for syphilis,2,lab_test
+506326,rpr or vdrl (syphilis tp abs,1,lab_test
+506327,rpr or vdrl screen,1,lab_test
+506328,rpr or vdrl(treponemal pallidum ab) screen,1,lab_test
+506330,rpr or vdrlscreen,2,lab_test
+506332,rpr syphilis screen,1,lab_test
+506333,rpr titer,1,lab_test
+506334,rpr vdrl,1,lab_test
+506335,rpr vdrl serum,1,lab_test
+506336,rpr%2fvdrl%09,1,lab_test
+506337,rpr( vdrl,1,lab_test
+506338,rpr(vdrl,2,lab_test
+506342,rpr- vdrl,1,lab_test
+506343,rpr-vdrl,1,lab_test
+506344,rpr/ vdrl,1,lab_test
+506345,rpr/ vdrl - ?????,1,lab_test
+506346,rpr/ vdrl(09068,1,lab_test
+506347,rpr/syphilis.tpa,1,lab_test
+506348,rpr/vdrl,5,lab_test
+506349,rpr/vdrl (venereal disease research laboratory)(rapid plasman reagent)test for syphillis,1,lab_test
+506350,rpr/vdrl السيلان,1,lab_test
+506353,rprsyphilis screen,1,other
+506354,rprvdrl,1,other
+506355,rpr\vdrl,1,lab_test
+506357,rpyal park/ry 20/05/s,1,other
+506358,rr extraction,1,dental
+506359,rr.c.t 1 canal,1,dental
+506360,rr.c.t multl rooted,1,imaging
+506361,rr.c.t one canal,1,dental
+506362,rr.c.t two canals,1,imaging
+506363,rrct,1,other
+506364,rrct multi rooted,2,other
+506366,rrct one canal,1,dental
+506367,rreat,1,other
+506368,rrefraction by optometrist,2,other
+506370,rrelaxon forte30cap,1,other
+506371,rroom different shared to single,1,other
+506372,rrrrrr,1,other
+506373,rrt ( cvvhd ) ( 12 hours ) continuous renal replacement therapy,1,physiotherapy
+506374,rrt ( cvvhd ) ( 12 hours ) continuous renal replacement therapy 2x per day,1,physiotherapy
+506375,rrt - adult emergency rapid response,1,other
+506376,rrt - pediatrics emergency rapid response,1,other
+506377,rrt follow up of post icu discharge patient,1,consultation
+506378,"rs, bf, 1.5, uc, cm, g4/2",1,other
+506379,"rs, bf, 1.5, uc, cm, g6/4",1,other

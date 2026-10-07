@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+288319,hysteroscopy w biopsy,1,procedure
+288320,hysteroscopy w/ biopsy,1,procedure
+288321,hysteroscopy w/ biopsy - 1 day pkg,1,procedure
+288322,hysteroscopy w/ biopsy->c68.16,1,procedure
+288323,hysteroscopy w/biopsy ->c68.16,1,procedure
+288324,hysteroscopy with d and c,1,procedure
+288325,hysteroscopy with procedure,2,procedure
+288326,hysteroscopy with sampling biopsy of endometrium,1,procedure
+288327,hysteroscopy+d&c,1,procedure
+288328,hysteroscopy+removal of iucd,1,procedure
+288329,"hysteroscopy, diagnostic under g.a.- (p.d",1,procedure
+288330,"hysteroscopy, diagnostic wthout ga - 1 day pkg",1,procedure
+288331,"hysteroscopy, endometrial ablation",1,procedure
+288332,"hysteroscopy, surgical, w/ endometrial ablation, any method",1,procedure
+288333,"hysteroscopy, surgical; with sampling (biopsy) of endometrium and/or p",1,procedure
+288334,"hysteroscopy, surgical;with division or resection of intrauterine sept",1,procedure
+288335,"hysteroscopy, surgical;with endometrial ablation (eg, endometrial rese",1,procedure
+288336,"hysteroscopy, surgical;with removal of impacted foreign body",1,procedure
+288337,"hysteroscopy, surgical;with removal of leiomyomata",1,procedure
+288338,"hysteroscopy,surgical with biopsy endometrial &/or polypectomy with/out d&c",1,procedure
+288339,hysteroscopy- w/o histopathology,1,lab_test
+288340,hysteroscopy-uterine biopsy,1,procedure
+288342,hysterosonography,1,other
+288343,hysterosonograpyh,1,other
+288344,hysterotomy,2,procedure
+288345,"hysterotomy, to terminate pregnancy",1,procedure
+288346,hystorosalpingoraphy(hsg,1,other
+288347,hystrectomy vaginal,1,procedure
+288348,hystrosalpingeography with contrast -fluoroscopy,1,imaging
+288349,hystrosalpingiography,2,other
+288351,hystroscope ob un,1,other
+288352,hystroscopic endometrial sampling,1,other
+288353,hystroscopic polypectomy,1,procedure
+288354,hystroscopic polypectomy - 1 day(s,1,procedure
+288355,hystroscopic polypectomy- (p.d,1,procedure
+288356,hystroscopic removal of endometrial fibroid- (p.d,1,procedure
+288357,hystroscopy diagnostic + biopsy/polypect,1,procedure
+288358,hystroscopy diagnostic w / w.o d & c,1,procedure
+288359,hystroscopy for removal of displaced iuc,1,procedure
+288360,hystroscopy polypectomy w / w.o d & c,1,procedure
+288361,hystroscopy resection of myomectomy,1,procedure
+288362,hyterocopy,1,other
+288363,hyzaar,1,other
+288368,hyzaar 28tab,1,other
+288382,hydrocortison iv,1,supplies
+288393,haemate p antihemophilic factor viii/vwf (human) 5,1,lab_test
+288394,haemate p von willebrand factor-antihemophilic fac,1,lab_test
+288395,haemochromatosis - hfe gene - p.cys282tyr mut {bm},1,lab_test
+288396,haemochromomatosis gene,1,lab_test
+288397,haemoconcentrator,1,other
+288399,haemodialysis including medicine and lab investigation,1,procedure
+288401,haemodialysis catheterization kit,1,procedure
+288402,haemodialysis concentrate,1,procedure
+288404,"haemodialysis dialysate tubing, single-use",1,supplies
+288405,"haemodialysis including all services ( medication, lab, x-ray",1,imaging
+288406,haemodialysis system blood level detector,1,lab_test
+288407,haemodialysis system plasma filtration unit,1,lab_test
+288408,haemodialysis tubing valve-connector,1,supplies
+288409,haemodialysis/central venous catheterization kit,1,procedure
+288410,haemofilter,1,other
+288413,haemoglobin & hcv,1,lab_test
+288414,haemoglobin & hematocrite percent,1,lab_test
+288417,haemoglobin (hb) percent,1,lab_test
+288420,haemoglobin - insurance,1,lab_test
+288421,haemoglobin / ????? ???? ????????????,1,lab_test
+288423,haemoglobin differentiation,1,lab_test
+288425,haemoglobin dressing,1,lab_test
+288432,haemoglobin-1108,1,lab_test
+288433,haemoglobine (hb,1,lab_test
+288434,haemoglobn,1,other
+288436,haemoperfusion tubing set,1,supplies
+288439,haemorrhoid management system procedure kit,1,other
+288440,"haemorrhoidal surgical stapler, reusable",1,supplies
+288441,"haemorrhoidal surgical stapler, single-use",1,supplies
+288444,haemorrhoidectomy (2d,1,procedure
+288445,haemorrhoidectomy + anal fissurectomy,1,procedure
+288446,haemorrhoidectomy + peri- anal fissure,1,procedure
+288447,haemorrhoidectomy - 1 site,1,procedure
+288448,haemorrhoidectomy - 2 or more sites,3,procedure
+288452,haemorrhoidectomy or pile under ga(surgical excision,1,procedure
+288453,haemorrhoidectomy p/d,1,procedure
+288454,haemorrhoidectomy under sedation + l.a. - pd,1,procedure
+288455,haemorrhoidectomy by one stapler,1,supplies
+288458,haemorrhoidectomy under g.a/ spinal anasthesia,1,procedure
+288459,haemorrhoidectomy under ga spinal anasthesia,1,procedure
+288460,haemorrhoidectomy%20%2b%20anal%20fissurectomy,1,procedure
+288461,haemorrhoidectomy%20%2b%20anal%20fistulectomy,1,procedure
+288462,haemosidrin ( urine,1,lab_test
+288463,haemostasis valve,1,other
+288464,haemostasis valve obturator,1,other
+288465,"haemostatic screen (b.t,c.t,p.t,ptt,cbc for platelets count - tat (8 duty hrs",1,lab_test
+288474,hair loss treatment package,1,other
+288475,hair profile,1,lab_test
+288477,hair removal undef. area medium upto 25x25 cm,1,procedure
+288486,haitham hamed sharshar,1,other
+288487,hajer musa abdallah,1,other
+288489,hakeem oyoun home frm,1,eyewear
+288490,hala adel alotaibi,1,other
+288501,half drape (110x152,1,supplies
+288502,half drape 60 x44 sterile cs/65,2,supplies
+288504,half pins-self drilling 3mm 150-20 mm thread length,1,supplies
+288506,halim siddiqui,1,other
+288508,"hallux valgus (keller's operation), 2 days",1,eyewear
+288509,hallux valgus correction -(surgical osteotomy ) - unilateral,1,procedure
+288510,"hallux valgus correction, osteotomy of 1st metatarsal, lapidus, mitchell mcbride - excluding supplie",1,procedure
+288511,hallux valgus protector l/xl,1,procedure
+288512,"hallux valgus protector l/xl (oo122) 1""s",1,procedure
+288513,hallux valgus protector s/m,1,procedure
+288514,"hallux valgus protector s/m (oo122) 1""s",1,procedure
+288515,hallux rigidus correction with cheilectomy debridement and capsular release of the first metatarsophalangeal joint release of the first metatarsophalangeal joint,1,procedure
+288516,"hallux valgus (bunion) correction, with or without sesamoidectomy; lapidus type procedure",1,procedure
+288517,"hallux valgus (bunion) correction, with or without sesamoidectomy; with metatarsal osteotomy (eg, mitchell, chevron, or concentric type procedures",1,procedure
+288518,hallux valgus metatarsophalangeal orthosis,1,supplies
+288521,halux valgus plastic splint,1,eyewear
+288524,"hamamelis leaves dried extract,vateria indica,lupinus albus extract - proctolar suppositories - 10pcs (r128",1,procedure
+288525,"hammertoe operation: one toe or for cock-up fifth toe, any method",1,supplies
+288526,"hammock, intensive phototherapy unit cradle",1,procedure
+288527,hamoud yahya obei,1,other
+288530,hanan hossam,1,other
+288535,hand ap/lat/obliq,1,imaging
+288536,hand bv,1,other
+288538,hand & finger deformity correction,1,other
+288539,hand & wrist 2 views,1,imaging
+288540,hand & wrist 2 view,1,imaging
+288541,hand & wrist bil. rad. exam,1,imaging
+288543,hand & wrist- 2 views,1,imaging
+288545,hand ( 2 v )-hand ( 2 v,1,imaging
+288546,hand ( pa oblique,1,imaging
+288547,hand ( pa+lat,1,imaging
+288552,hand (3 view) x-ray,1,imaging
+288554,hand (a.p-lat/ rt-lt,1,imaging
+288557,hand (one view) x-ray,1,imaging
+288558,hand (three views,1,imaging
+288559,hand (two views) x-ray,1,imaging
+288561,hand - 1 views,1,imaging
+288564,hand - 2 views ( ap / lat,1,imaging
+288567,hand - 3 view (ap / lat / oblique,1,imaging
+288571,hand - 4 view (ap / lat / oblique,1,imaging
+288573,hand - 4 views - ????? ???? 4 ?????,1,imaging
+288575,hand - a p + oblique,1,lab_test
+288578,hand -both 4 views,1,imaging
+288579,hand / 1 view,1,imaging
+288580,hand / 2 views,1,imaging
+288583,hand 1 view ????? ???? ??? ????,1,imaging
+288585,hand 1film x-ray,1,imaging
+288589,hand 2 view a.p and lateral,1,imaging
+288591,hand 2 views ????? ???? ?????,1,imaging
+288592,hand 2 views-545,1,imaging
+288596,hand 2 views[15.27,1,imaging
+288602,hand 3 views-546,1,imaging
+288605,hand 3 view bilateral,1,imaging
+288607,hand 3f,1,other
+288608,hand 3v-plain x-rays 3 views,1,imaging
+288610,hand 4 views-547,1,imaging
+288611,hand a p & lat-5008,1,imaging
+288614,hand a.p & lat,1,imaging
+288615,hand a.p and lat,1,imaging
+288616,hand ap lat vs,1,imaging
+288617,hand ap & lat. one film,1,imaging
+288619,hand ap iv,1,imaging
+288622,hand ap lateral obl,2,imaging
+288623,hand ap obl,1,imaging
+288625,hand ap oblique 696,1,imaging
+288626,hand ap&obliq,1,imaging
+288627,"hand ap, lat & oblique",1,imaging
+288628,"hand ap, obl lt",1,imaging
+288634,hand ap/lat - ???? ??? ???? ????? ???? ?????,1,imaging
+288635,hand ap/oblique rad. exam,1,imaging
+288636,hand ap2v-plain x-rays 2 views,1,imaging
+288638,hand dril bit for 1.3,1,other
+288643,hand held doppler fee,1,imaging
+288644,hand iv,1,supplies
+288648,hand one film,1,supplies
+288651,hand pa,1,imaging
+288653,hand pa & lat. & obliq,1,imaging
+288656,hand rl,1,other
+288657,hand switch pencil disp. e2516,1,other
+288659,hand unilateral x ray 1 view,1,imaging
+288660,hand unilateral x ray 2 views,1,imaging
+288661,hand unilateral x ray 3 views,1,imaging
+288662,hand unilateral x-ray 2 views,1,imaging
+288663,hand unilateral x-ray 3 views,1,imaging
+288664,hand x ray 1 view,1,imaging
+288665,hand x ray 2 film,1,imaging
+288666,hand x ray 2 view,1,imaging
+288667,hand x ray 3 view,1,imaging
+288669,hand x-ray (2 views) ???? ??? ????,1,imaging
+288671,hand x-ray -3 view,1,imaging
+288672,hand x-ray 2 view,1,imaging
+288673,hand x-ray 3 view,1,imaging
+288674,hand xr,1,imaging
+288675,hand xray,1,imaging
+288676,hand xray 2 views - l,1,imaging
+288677,hand xray 2 views - r,1,imaging
+288678,hand and wrist 3 views,1,imaging
+288679,hand bilateral,1,imaging
+288681,hand cast1159,1,other
+288682,hand disinfectant,1,other
+288683,hand finger 2 views[15.28,1,imaging
+288684,hand finger two views,1,imaging
+288688,hand or finger x-ray (2 views,1,imaging
+288689,hand or fingures (2 views,1,imaging
+288690,hand or foot or shoulde or wrist joints 2 views,1,imaging
+288691,hand or foot or shoulder or wrist joints 2 views,1,imaging
+288692,hand or wrist orthosis resting or immobilizing molded to patient,1,supplies
+288693,hand orthosis,1,supplies
+288694,hand sanitizer bottle,1,supplies
+288697,hand x ray - 2 view,1,imaging
+288698,hand xray 2 films,1,imaging
+288700,hand(2v,1,imaging
+288701,"hand, ankle,foot 1 view",1,imaging
+288702,"hand- ct scan / computerised tomography of limb, unilateral",1,imaging
+288703,hand-1 view,1,imaging
+288704,hand-1view,1,other
+288705,hand-2views(ap2flat,1,imaging
+288706,hand-3view(ap2flat2foblique,1,imaging
+288707,hand-4views,1,other
+288708,hand-ap/lat/oblique,1,imaging
+288709,hand-held endoscopic retractor,1,procedure
+288710,"hand-held urinal, male, reusable",1,other
+288711,"hand-held urinal, male, single-use",1,other
+288712,hand-wrist radiograph for skeletal age assessment,1,imaging
+288714,hand/foot ap& oblique,1,imaging
+288715,hand/wrist 2 view,1,imaging
+288716,"hand/finger splint, reusable",1,supplies
+288717,"hand/finger splint, single-use",1,supplies
+288718,hand/foot/wrist/finger/ap/lat.1film,1,imaging
+288719,hand2 pos,1,other
+288720,handgrip test,1,lab_test
+288721,"handle, yankuer for suction connecting tube",1,supplies
+288722,handling & reporting of molecular oncology test,1,lab_test
+288726,hansaton aq jam xc pro 5 bte 312 hearing aid,1,supplies
+288727,hansaton aq sound st5 ric312 hearing aid,1,supplies
+288728,hansaton beat st 1 bte up675 hearing aid,1,supplies
+288729,hansaton flow+bte sp13 hearing aid,1,supplies
+288730,hansaton flow+bte up675 hearing aid,1,supplies
+288731,hansaton flow+cic 10 left hearing aid,1,supplies
+288732,hansaton flow+cic 10 right hearing aid,1,supplies
+288733,hansaton flow+ric312 hearing aid,1,supplies
+288734,hansaton jazz st 1 cic 10 left hearing aid,1,supplies
+288735,hansaton jazz st 1 cic 10 right hearing aid,1,supplies
+288736,hansaton jazz st 5 ite 312 left hearing aid,1,supplies
+288737,hansaton jazz st 5 ite 312 right hearing aid,1,supplies
+288738,hansaton sound st1 ric312 hearing aid,1,supplies
+288740,"hapatitis b virus surface antigen,7350-48-90",1,lab_test
+288742,hapatitis profile hepatitis b,1,lab_test
+288743,hapatits b vaccintion,1,other
+288744,happy baby-baby wipes (80 wipes,1,supplies
+288746,haptoglobin - ?????,1,other
+288748,haptoglobin; quant,1,lab_test
+288749,haptoglobin; quantitative,1,other
+288750,haptoglobulin,1,other
+288751,hard cervical collar application (sfv,1,imaging
+288752,hard contact lens (hcl - rose k2) - for aramco,1,eyewear
+288753,hard contact lens (hcl-rose k2)-aramco,1,eyewear
+288754,"hard surgical extraction ( bulge root , sementoma , long roots curvature",1,dental
+288756,"hard surgical extraction (bulge root , sementoma ,long roots",1,dental
+288757,hard corrective contact lens,1,eyewear
+288758,hardiz,1,other
+288759,harmonic ace 74,1,other
+288760,harmonic ace 74 harh36,1,other
+288761,harmonic hd 10001 shears 36cm,1,eyewear
+288762,harmonic scalpel hand piece sg/ss,1,supplies
+288766,hartman procedure (7d,1,other
+288768,hartmann procedure,1,other
+288769,"hartmann procedure ( laparotomy , sigmoidectomy and colostomy",1,procedure
+288770,hartmann veroval compact upper arm blood pressure monitor,1,lab_test
+288771,hartmann veroval duo control upper arm blood pressure monitor,1,lab_test
+288772,hartmann veroval wrist blood pressure monitor,1,lab_test
+288773,hartmans procedure,1,other
+288774,harvix junior,1,other
+288775,hasnaa saber hammad,1,other
+288776,hassan abdulaziz a moria,1,other
+288778,hassan eliwi eliwi,1,other
+288779,hassan fallaj alkwikbi,1,other
+288781,hassan mustafa alfarraj,1,other
+288792,hawk frm 6460,1,eyewear
+288793,hawk frm 7023 c4,1,eyewear
+288794,hawley retainer (per arch,1,dental
+288795,haytham elsayed alfa,1,other
+288798,hb & hematocrite,1,lab_test
+288800,hb .electrophoresis,2,lab_test
+288801,hb / hb test,1,lab_test
+288802,"hb a ,c",1,lab_test
+288804,hb a c,1,lab_test
+288805,hb a1,1,lab_test
+288807,hb a1c (glycosylated)(hb,1,lab_test
+288808,hb a1c(glyco.hgb,2,lab_test
+288810,hb a1c (glycosylated hemoglobin) - ?????,1,lab_test
+288811,hb a1c (glycosylated hemoglobin) - مختبر,1,lab_test
+288812,hb ac,1,lab_test
+288815,hb aic( glycosylated hb,1,lab_test
+288816,hb alc,1,lab_test
+288817,hb a\c,1,lab_test
+288821,hb electropharism,1,lab_test
+288823,hb electrophoresis - ?????,1,lab_test
+288824,hb electrophoresis(mhl lab,1,lab_test
+288825,hb electrophorosis,1,lab_test
+288826,hb electrophresis,1,lab_test
+288827,hb electrophrosis,1,lab_test
+288830,hb elecrphesis,1,lab_test
+288831,hb electrophoresies,1,lab_test
+288833,hb s abs,1,lab_test
+288841,hb. electrophoresis (edta blood,1,lab_test
+288844,hb. electrophoresis تحليل كهربائي للهيموجلوبين,1,lab_test
+288846,hb.aic (5217,1,lab_test
+288848,hb1ac,1,other
+288849,hba 1 c ( glycosylated hgb,4,lab_test
+288855,hba1c ( glycoselated haemoglobin,1,lab_test
+288856,hba1c ( glycosylated hemoglobin,1,lab_test
+288857,hba1c ( glycosylated hgb,1,lab_test
+288858,hba1c (glycocelated hb,1,lab_test
+288859,hba1c (glycoselated haemoglobin,2,lab_test
+288862,hba1c - ??? ??????,1,lab_test
+288863,hba1c 13.07,1,lab_test
+288865,hba1c analysis (l29,1,lab_test
+288866,hba1c(glycated haemoglobin,1,lab_test
+288868,hba1cche0030/ hba1c,1,lab_test
+288870,hba1c 73050-18-50,1,lab_test
+288875,hba1c - glycated hemoglobin,1,lab_test
+288876,hba1c / glycosylated haemoglobin,1,lab_test
+288877,hba1c ?????,1,lab_test
+288878,hba1c bupa,1,lab_test
+288879,hba1c glycosylated hb,2,lab_test
+288880,hba1c glycosylated hb - insurance,1,lab_test
+288882,hba1c medgulf,1,lab_test
+288883,hba1c tawuniya,1,lab_test
+288884,hba1c tcs,1,lab_test
+288885,hba1c(glycated hemoglobin) اختبار جليكو هيموجلوبين,1,lab_test
+288893,hbaic (cambridge,1,lab_test
+288896,hba_1c,1,other
+288897,hbac2-glysolated hb,1,lab_test
+288902,hba ic,1,lab_test
+288904,hba1c - ??? ????? ???????? ????? (hba1c,1,lab_test
+288906,hba1c (glycated hb%,1,lab_test
+288908,hba1c glycosylated hg,1,lab_test
+288909,hba1c in-office point of service testing,1,lab_test
+288914,hbaic-glycosylated haemoglobin,1,lab_test
+288915,hbaic-hbaic,1,lab_test
+288929,hbg ac,1,other
+288935,"hbs ab, quantitative (vaccine protection status",1,lab_test
+288939,hbs ag - ??? ????? ?????? ????? ??????? (??,1,lab_test
+288944,hbsag (hepatitis b virus) eliza,1,lab_test
+288945,hbsag -ultra,1,lab_test
+288946,hbsag elisa[11.15,1,lab_test
+288947,hbs_ab,1,lab_test
+288949,hbsag - hepatitis b. sag,1,lab_test
+288951,hbsag- hepatitis screening (australian antigen,1,lab_test
+288955,hbv-dna-pcr (quantitative,1,lab_test
+288957,hcvab,1,other
+288968,hcv ad - ??? ????? ?????? ????? ??????? (hcv ad,1,lab_test
+288970,hcv antibody - hepatitis c virus abs,1,lab_test
+288972,hcv antibody 3 rd generation,1,lab_test
+288975,hcv screening,1,lab_test
+288976,hcv riba,1,lab_test
+288979,hcv-rna-pcr (qualitative,1,lab_test
+288984,hdl ? chol,1,lab_test
+288986,hdl cholesterol - ????????? ???? ??????? (??????,1,lab_test
+288989,hdl/ldl/vldl,1,lab_test
+288990,hdl3fchol,1,other
+288992,head and neck radiation oncology follow-up,1,physiotherapy
+288993,head and neck surgical oncology follow-up,1,procedure
+288994,head and neck surgical oncology new follow-up,1,procedure
+288995,head and neck surgical oncology new patient,1,procedure
+288996,head and neck surgical oncology urgent add-on follow-up,1,procedure
+288997,head and neck surgical oncology virtual follow-up,1,procedure
+288998,head 22 cocr medium-implantcast germany #23122205,1,supplies
+289002,head cover,1,other
+289003,head fm 521 col 2 sz 52,1,eyewear
+289004,head fm mod 7002 col 4 sz 49,1,eyewear
+289005,head fm mod 7005 col 2 sz 47,1,eyewear
+289006,head fm mod 7008 col 3 sz46,1,eyewear
+289007,head tilt table test (with provocation,1,lab_test
+289008,head and neck consultation follow-up,1,consultation
+289009,head and neck consultation post-op visit,1,consultation
+289010,head and neck consultation pre-op vocal visit,1,consultation
+289011,"head and neck procedures, major complexity",1,inpatient
+289012,"head, titanium, 12/14, 32mm",1,supplies
+289013,"head/neck immobilizer, single-use",1,supplies
+289014,head/neck procedure positioner,1,other
+289015,"headaches, minor complexity",1,inpatient
+289016,headgear large mp03884,1,other
+289017,headgear m mp03883,1,other
+289018,headless cannulated screw 7.5mm,1,supplies
+289019,headless compression screw,1,supplies
+289020,headless herbert screw 3.0mm,1,supplies
+289021,headrest,1,other
+289022,"headrest as head and neck positioning system, with cover 26.00.0037",2,other
+289024,heaemoglobin electrophoresis,1,lab_test
+289025,heaemoglobin electrophoresis (sfv,1,lab_test
+289028,health care centre - 1,1,consultation
+289029,health care centre - 2,1,consultation
+289030,health care centre - 3,1,consultation
+289031,health care centre - 4,1,consultation
+289032,health screening by physician,2,lab_test
+289035,health maintenance or recovery assess,1,consultation
+289037,heamatoma ext. ear,1,other
+289038,heamo-lind suppositories,1,other
+289040,heamoglobin electrophoresis,1,lab_test
+289042,heamostasis,1,other
+289043,hearing aid - basic affordable tech,1,supplies
+289044,hearing aid - basic affordable technology,1,supplies
+289045,hearing aid - premium /high end dig,1,supplies
+289046,hearing aid - premium /high end digital technology,1,supplies
+289047,hearing aid beat st 1 rt675 up (cashmere beige,1,supplies
+289048,hearing aid beat st 3 rt675 up (cashmere beige,1,supplies
+289049,hearing aid beat st 5 rt675 up (cashmere beige,1,supplies
+289050,hearing aid beat st 7 rt675 up (cashmere beige,1,supplies
+289051,"hearing aid check, both ears",1,supplies
+289052,"hearing aid flow+, 13 p",1,supplies
+289053,"hearing aid flow+, s312",1,supplies
+289054,"hearing aid jam xc pro 3, r312 (sandy beige",1,supplies
+289055,"hearing aid jam xc pro 5, r312 (sandy beige",1,supplies
+289056,"hearing aid jam xc pro 7, r312 (sandy beige",1,supplies
+289057,"hearing aid jam xc pro 9, r312 (sandy beige",1,supplies
+289058,hearing aid jazz xc pro 5-10 left,1,supplies
+289059,hearing aid sound st 1 r312 (cashmere beige,1,supplies
+289060,hearing aid sound st 3 r312 (cashmere beige,1,supplies
+289061,hearing aid sound st 5 r312 (cashmere beige,1,supplies
+289062,"hearing aid starkey model: evolv ai 1000 (bte-ric-custom) ch/band 10/10 1""s",1,supplies
+289063,"hearing aid starkey model: evolv ai 1200 (bte-ric-custom) ch/band 12/12 1""s",1,supplies
+289064,"hearing aid starkey model: evolv ai 2000 (bte-ric-custom) ch/band 20/20 1""s",1,supplies
+289065,"hearing aid widex model: menu me-cic rc coil 1""s",1,supplies
+289066,"hearing aid widex model: menu-b cic. rc coil 1""s",1,supplies
+289067,"hearing aid widex model: menu-me-19 b.bte telecoil vcr 1""s",1,supplies
+289068,"hearing aid widex model: menu-me-19 s.bte telecoil vcr 1""s",1,supplies
+289069,"hearing aid widex model: menu-s cic. rc coil 1""s",1,supplies
+289070,"hearing aid widex model: super 220 s2-vs bte rc coil 1""s",1,supplies
+289071,hearing aid-basic affordable technology (one side,1,supplies
+289072,hearing aid-mid level digital technology (one side,1,lab_test
+289073,hearing aid-premium/high end digital technology (one side,1,supplies
+289074,hearing aids,1,supplies
+289075,hearing aids 1000 10 channels - 4 programs sm,1,supplies
+289076,hearing aids 1200 12 channels - 4 programs sm,1,supplies
+289077,"hearing aids adjustment & evaluation, bilateral",1,supplies
+289078,"hearing aids adjustment & evaluation, unilateral",1,supplies
+289079,hearing aids fully digital 12 channel wireless connection android-ios behind the ear,1,supplies
+289080,hearing aids fully digital 12 channel wireless connection android-ios behind the ear rechargeable,1,supplies
+289081,hearing aids fully digital 12 channel wireless connection android-ios in the ear,1,supplies
+289082,hearing aids fully digital 12 channels for profound ha with all relevant tests,1,lab_test
+289083,hearing aids fully digital 2 channels for profound ha with all relevant tests,1,lab_test
+289084,"hearing aids fully digital 2 channels for profound hl, referal",1,supplies
+289085,"hearing aids fully digital 2 channels from mild to sever hl,referal",1,supplies
+289086,"hearing aids fully digital 2 channels profound hl,including all relevant tests",1,lab_test
+289087,hearing aids fully digital 8 channel wireless connection android-ios behind the ea,1,supplies
+289088,hearing aids fully digital 8 channel wireless connection android-ios in the ear,1,supplies
+289089,"hearing aids fully digital2channels mild to sever hl,inc. all relevant tests",1,lab_test
+289090,hearing assessment & cardiac screening,1,lab_test
+289091,hearing screening assessment,1,lab_test
+289092,hearing screening for new born baby,1,lab_test
+289094,hearing test (oae,1,lab_test
+289097,hearing test -screening,1,lab_test
+289098,hearing test screening,1,lab_test
+289100,hearing aid programing one side,1,supplies
+289101,"hearing aid examination and selection, monaural or binaural",1,supplies
+289102,hearing aid master,1,supplies
+289103,hearing aids fitting,1,supplies
+289104,hearing evaluation 20-30 min,1,supplies
+289106,hearing screen,1,supplies
+289108,heart - under screen,1,other
+289110,heart enzyme profile (cpk sgot ldh,1,lab_test
+289112,heart failure follow-up,1,consultation
+289113,heart failure new follow-up,1,consultation
+289114,heart failure new patient,1,other
+289115,heart failure peds follow-up,1,consultation
+289116,heart failure peds new patient,1,other
+289117,heart failure peds virtual follow-up,1,consultation
+289118,heart failure peds virtual new patient,1,other
+289119,heart failure reconciliation follow-up,1,consultation
+289120,heart failure transplant follow-up,1,consultation
+289121,heart failure transplant new patient,1,other
+289122,heart failure and shock minor complexity,1,inpatient
+289123,"heart failure and shock, major complexity",1,inpatient
+289124,"heart failure and shock, minor complexity",1,inpatient
+289125,heart observation one hour,1,supplies
+289126,heart transplant peds follow-up,1,consultation
+289127,heart films with barium,1,imaging
+289128,heart health - electrocardiogram by running on a treadmill and a cardiologist check-up,1,consultation
+289129,heart/lung resuscitation,1,procedure
+289130,heart/lung resusctation cpr,1,other
+289133,"heat therapy, other",1,physiotherapy
+289134,"heat/moisture exchanger, single-use",1,other
+289135,heated respiratory humidifier,1,other
+289136,heater / servo,1,supplies
+289137,heater/cooler system tester kit,1,supplies
+289139,heavy calculus scaling,1,dental
+289142,"heavy metals screen with demographics, blood (arsenic, lead, cadmium, mercury) - cer so",1,lab_test
+289143,heavy oral prophylaxis for adults,1,other
+289147,heavy metal; quant,1,lab_test
+289148,heavy scalling+teeth cleanning,1,dental
+289149,heba abdul jabbar,1,other
+289161,heel & toe 2 view,1,imaging
+289162,heel (calcaneum,1,other
+289164,heel (lat & axial,1,imaging
+289166,heel (os calcis) (two views) x-ray,1,imaging
+289167,heel - 2 view,1,imaging
+289168,heel / os calcis-bilateral,1,other
+289170,heel 1 view ????? ?????-???? ?????,1,imaging
+289171,heel 1film x-ray,1,imaging
+289173,heel 2 views ????? ????? ?????,1,imaging

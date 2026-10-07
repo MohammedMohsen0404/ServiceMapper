@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+188626,dorsal spine 2 views[15.14,1,imaging
+188627,dorsal spine 2f,1,imaging
+188630,dorsal spine ap - lateral,1,imaging
+188633,dorsal spine thoracic spine 4 views,1,imaging
+188634,dorsal spine or thoracic 2 views,1,imaging
+188636,dorsal spine(thoracic) 1 view,1,imaging
+188637,dorsal spine(thoracic) 2 views,1,imaging
+188639,dorsal spines ap&lat,1,imaging
+188640,dorsal spines two views,1,imaging
+188641,dorsal/thoracic spine-3 or 4 views,1,imaging
+188642,"dorsi lumbar corset small (oh-128) 1""s",1,supplies
+188643,dorso - l umbar (ap/ lat) x-ray,1,imaging
+188644,dorso - lumbar a.p and lateral,1,lab_test
+188645,"dorso lumbar corset l 1""s",1,supplies
+188646,"dorso lumbar corset xl 1""s",1,supplies
+188647,"dorso lumbar corset xxl 1""s",1,supplies
+188649,dorso lumbar spine 2 views,2,imaging
+188650,dorso lumbar spine ap/lat 676,1,imaging
+188651,dorso lumbar spine x-ray,1,imaging
+188652,dorso lumbor 2f,1,imaging
+188653,dorso lumbar spine 1 view,1,imaging
+188656,dorso-lumbar spine x-ray (ap&lat) ???? ????? ?????,1,imaging
+188659,dorso-lumbar spine with contrast,1,imaging
+188660,dorso-lumbar spine without contrast,1,imaging
+188661,dorso0.01lumbar spine ap,1,imaging
+188662,dorso0.01lumbar spine lat,1,imaging
+188663,dorsolombar corset (26 cm,1,supplies
+188664,dorsolumbar spin,1,other
+188665,dorsolumbar spine 1 view,1,imaging
+188668,dorsolumbar spine lateral view,1,imaging
+188670,dorsolumber spine ap-lat,1,imaging
+188682,dosimetry by ct interfacing computer for intensity modulated radiation,1,imaging
+188685,dosimetry non-ct interfac comput complx,1,imaging
+188686,"dosing set, nitric oxide, pediatric",1,other
+188724,dostinex 2tab,1,other
+188729,double,1,other
+188730,double - stranded dna antibody by immunofluorescence,1,lab_test
+188731,double balloon enteroscopy diagnostic - day case,1,supplies
+188732,double balloon enteroscopy with endotherapy - day case,1,supplies
+188733,"double j biosoft duo complete set fixed core wire 4.8fr 16cm, coloplast #bcaa41",1,dental
+188734,double j stent removal,1,supplies
+188735,double lumen femoral catheter insertion,1,supplies
+188736,double lumen juglar catheter insertion,1,supplies
+188737,double lumen uv catheter fr5,1,supplies
+188738,double mechanical valve,1,other
+188739,"double needle electrode, 4 channel set 12/1500, 2.5mm stainless steel # 534645 inomed",1,supplies
+188745,double razor disp. blades pack/100,1,supplies
+188747,double sided hernia belt - (ms,1,supplies
+188749,double tissue valve,1,other
+188751,double contrast study; upper git,1,consultation
+188752,double contrast study; upper git w/ follow through,1,consultation
+188753,double lumen cvc catheterization set 4 f,1,procedure
+188754,double lumen cvc catheterization set 4 fr,1,eyewear
+188756,double phototherapy per day c1003,1,procedure
+188757,"double taper, 6mm",1,other
+188758,"double-security mitts, mesh back, child, deroyal #m2023-c",1,supplies
+188759,"double-lumen haemodialysis catheter, implantable",1,supplies
+188760,"double-lumen haemodialysis catheter, nonimplantable",1,supplies
+188761,"douche, manual, sterile",1,supplies
+188762,douglas pouch abscess drainage p/d,1,supplies
+188766,down's syndrome,1,other
+188767,download outside film w/o reading - cash,1,other
+188769,doxel-m blk,1,other
+188809,doxydar100mg10cap,1,other
+188811,"dplx u/s av fist/access gft upp lmb, unilateral",1,imaging
+188812,dr azmi el-kayed,1,other
+188813,dr bashir shagah,1,other
+188814,dr essa al-dhafiri,1,other
+188817,dr of m. abscess,1,procedure
+188818,dr riyadh ahmad,1,other
+188819,dr shukran al jubory,1,other
+188822,dr. ali al rajhi 1,1,other
+188823,dr. asim radi,1,other
+188824,dr. ayman bawazeer,1,other
+188825,dr. abdallah fahad alfahal,1,other
+188826,dr. abdelnafie yahya,1,other
+188827,dr. abdulelah al tawerqi,1,other
+188828,dr. abdulkareem qassem,1,other
+188830,dr. abdulrahman alhuwaish,1,other
+188831,dr. abdulrahman masuti,1,other
+188832,dr. abdulrahman sheikh - external doctor cons extra fee ( opd,1,consultation
+188834,dr. abeer almuwallad,1,other
+188835,dr. abrar othman eljack,1,other
+188836,dr. adel ali,1,other
+188837,dr. ahmad khattabi,1,other
+188842,dr. amal alsawat,1,other
+188843,dr. amal bin nahid,1,other
+188844,dr. amel trabelsi,2,other
+188846,dr. amina bakary,1,other
+188847,dr. ammar mahfouz,1,other
+188848,dr. antoine boulos,1,other
+188849,dr. arwa sindi,1,other
+188850,dr. asem qassem,1,other
+188851,dr. ashraf abosamra,1,other
+188852,dr. asmaa abdelfattah,1,other
+188853,dr. atef alsibai,2,other
+188855,dr. bassima aldelaigan 5,1,other
+188857,dr. enmar almazyad 39,1,other
+188858,dr. eiad shamsi basha,1,other
+188859,dr. fatma al-thubity,1,other
+188860,dr. faris alzahrani,1,other
+188861,dr. fatma elaw,1,other
+188863,dr. gaby mahfoud,1,other
+188864,dr. ghada saffaf,1,other
+188865,dr. hassan alzahrani,1,other
+188866,dr. hassan el toukhy,1,other
+188867,dr. heba mimish,1,other
+188868,dr. hadeel kamel,1,other
+188869,dr. hala moustafa,1,other
+188870,dr. hanady alwafy,2,other
+188873,dr. hassan chamsi pasha,2,other
+188875,dr. haya rahaal,1,other
+188876,dr. haytham fikry,1,other
+188877,dr. hiba mahjoob,1,other
+188878,dr. kamal kattab,1,other
+188879,dr. khalid al mojathel,1,other
+188880,dr. khalid khadawardi - external doctor cons extra fee ( opd,1,consultation
+188881,dr. lama alatab,1,other
+188882,dr. lamya almuttam,1,other
+188883,dr. lesley joy barbosa,1,other
+188884,dr. lina arnaout,1,other
+188885,dr. lina bukhari,1,other
+188886,dr. manal santos,1,other
+188889,dr. mumtaz ansari,1,other
+188890,dr. majed ali al shammrani,1,other
+188891,dr. manhal alkanber,1,other
+188892,dr. marwa naguib,1,other
+188893,dr. maya bou dargham,1,other
+188894,dr. mazen alsafady,1,other
+188897,dr. mohammad dahab,1,other
+188901,dr. mohd abd elmonem taema-sr registrar,1,other
+188902,dr. montaser istanbouli,1,other
+188903,dr. moustafa ismail,2,other
+188905,dr. nabeela rashid,1,other
+188906,dr. naser alyousef 6,1,other
+188907,dr. nour elhuda waez,1,other
+188908,dr. nabila bantan,1,other
+188909,dr. nahid abdulhamid,1,other
+188910,dr. najaf mahmud,1,other
+188911,dr. omar iskanderani,1,other
+188912,dr. osama aal shaikh 31,1,other
+188913,dr. of m. abcess,1,other
+188914,dr. omar balsharaf,1,other
+188915,dr. psychiatry room,1,consultation
+188916,dr. raja abuallan,1,other
+188917,dr. rajab shehata,1,other
+188918,dr. rami safi,1,other
+188919,dr. reham alharbi,1,other
+188921,dr. roula sahloul,2,other
+188923,dr. saleh almesfer 7,1,other
+188924,dr. samar alshabanat 4,1,other
+188925,dr. samer aloraifi,1,other
+188926,dr. shahad alhamael,1,other
+188927,dr. sulaiman al sulaiman retina2,1,other
+188928,dr. sadeem al otaibi,1,other
+188931,dr. saleh gomaa,1,other
+188932,dr. saleh khairy gomaa,1,other
+188933,dr. sarah zawawi,1,other
+188935,dr. shahid shakeel,1,other
+188936,dr. supervision 4 bed room (hdu,1,supplies
+188937,dr. supervision 4 bed room(picu,1,supplies
+188938,dr. supervision executive suite,1,consultation
+188939,dr. supervision h.d.u bed,1,supplies
+188940,dr. supervision royal suite,1,consultation
+188941,dr. supervision semi deluxe,1,eyewear
+188942,dr. supervision standard a,1,consultation
+188943,dr. susen faisal,1,other
+188944,dr. suzan soliman,1,other
+188945,dr. tawfik albassam,1,other
+188946,dr. taghreed alrefaie,1,other
+188947,dr. tarek askar,1,other
+188948,dr. turki al idriss,1,other
+188949,dr. yasir ahmad neyazi,1,other
+188950,dr. yassir kateb - external doctor cons extra fee ( opd,1,consultation
+188952,dr. of l. abscess,1,procedure
+188954,dr. of s. abscess,1,procedure
+188955,dr. of s.abcess,1,other
+188956,dr.abdulkareem mahmoud,1,other
+188958,dr.akhthar mohmood,1,other
+188959,dr.asmaa abo baker,1,lab_test
+188960,dr.erum jameel,1,other
+188961,dr.zahir al-shehri,1,other
+188962,dr.of l.abscess,1,procedure
+188963,drafa 5013 col 01,1,eyewear
+188964,drafa 8567 col 01,1,eyewear
+188965,drafa 8569 col 04,1,eyewear
+188966,drafa 8681 col 4-1,1,eyewear
+188967,drafa 8696 col 01,1,eyewear
+188968,drafa 8711 col0 11,1,eyewear
+188969,drafa 8711 col0 25,1,eyewear
+188970,drafa 8713 col0 22,1,eyewear
+188971,drafa 8872 col 01,1,eyewear
+188972,drafa 8885 col0 02,1,eyewear
+188973,drafa 8893 col black,1,eyewear
+188974,drafa 8894 col 02,1,eyewear
+188975,drafa 8921 col 05,1,eyewear
+188976,drafa 8929 col 03,1,eyewear
+188977,dragon electric four function bed,1,lab_test
+188978,dragon electric wheelchair 51 cm,1,supplies
+188979,dragon lightweight foldable electric wheelchair,1,supplies
+188980,"drain / inject joint / bursa, excision of bursa",1,procedure
+188981,drain blood from under nail,1,lab_test
+188983,drain removal,1,procedure
+188984,drain silicone hubless tube 15fr+trocar+j connector,1,supplies
+188985,drain abscess,1,procedure
+188986,drain for dental abscess,1,dental
+188987,drain intrabdo abscess haematoma cyst,1,procedure
+188988,drain of lid abscess,1,procedure
+188989,drain of fouruncle (ear,1,other
+188991,drainage of abscass,1,procedure
+188993,drainage abscess larg,1,procedure
+188995,drainage abscesssmall,1,procedure
+188996,drainage chest water seal single coll. 3ch. 6/bx#2002-400 ddsd0700,1,procedure
+188997,drainage cleaning & dressing (wound care,1,supplies
+188998,drainage furunde,1,procedure
+188999,drainage internal abscess,2,procedure
+189003,drainage of deep abscess,1,procedure
+189005,drainage of large abcess (ga) (1d,1,procedure
+189006,drainage of large abcess / g.a. p/d,1,procedure
+189008,drainage of large abscess (>5cm) under general anaesthesia,1,procedure
+189009,drainage of large abscess g.a. p/d,1,procedure
+189010,drainage of large abscess nxt ayh,1,procedure
+189011,drainage of large abscess tcs ayh,1,procedure
+189012,drainage of large abscess under g a (1day,1,procedure
+189013,drainage of large abscess under g a bupa ayh,1,procedure
+189014,drainage of large abscess under g a malath ayh,1,procedure
+189016,drainage of large abscess u/ga,1,procedure
+189019,drainage of quincy p/d,1,procedure
+189020,drainage of small abscess (<5cm) under general anaesthesia,1,procedure
+189021,drainage of small abscess al rajhi ayh,1,procedure
+189022,drainage of suferficial abscess,1,procedure
+189024,drainage of superficial abscess in surgery dept,1,procedure
+189026,"drainage system, chest, underwater, pleur-evac adult",1,procedure
+189027,"drainage system, underwater, pleur-evac pediatric",1,procedure
+189028,"drainage system,wound, with single needle 10ch, b-vac",1,supplies
+189029,drainage a perianal or piloonidal abscess,1,procedure
+189031,drainage and or irrigation of an abscess other than through a root canal or at,1,dental
+189032,drainage and or irrigation of an abscess other than through a root canal or at the time of extractio,1,dental
+189033,drainage and or irrigation of an abscess other than through a root canal or at the time of extraction the drainage may be through an incision or inserted tube,1,dental
+189034,drainage and/or irrigation of an abscess other tha,1,procedure
+189035,drainage and/or irrigation of an abscess other than,1,procedure
+189036,drainage and/or irrigation of an abscess other than through,1,procedure
+189037,drainage and/or irrigation of an abscess other than through a root canal,1,dental
+189038,drainage and/or irrigation of an abscess other than through a root canal or a,1,dental
+189039,drainage and/or irrigation of an abscess other than through a root canal or at,1,dental
+189041,drainage and/or irrigation of an abscess other than through a root canal or at the time of extract,1,dental
+189042,drainage and/or irrigation of an abscess other than through a root canal or at the time of extracti,2,dental
+189043,drainage and/or irrigation of an abscess other than through a root canal or at the time of extractio,2,dental
+189045,"drainage external ear, abscess or hematoma, simple under l.a",1,procedure
+189046,"drainage external ear, abscess or hematoma: simple",1,procedure
+189048,drainage of abcess under local anesthia,1,procedure
+189050,drainage of abscess - l/a,1,procedure
+189051,drainage of abscess intra-abdominal,1,procedure
+189052,"drainage of abscess intra-abdominal, laparoscopic",1,procedure
+189054,drainage of abscess small,1,procedure
+189057,drainage of anal abscess p/d,1,procedure
+189058,drainage of anal fissure suppuration,1,procedure
+189059,drainage of auricular haematoma p/d,1,procedure
+189060,drainage of axillary abscess p/d,1,procedure
+189061,drainage of bartholine abscess,1,procedure
+189064,drainage of dental abscess - bupa,1,dental
+189066,drainage of external ear abscess (med,1,procedure
+189067,drainage of external ear abscess (med)-drainage of external ear abscess (med,1,procedure
+189068,drainage of eyelid abcess,1,procedure
+189071,drainage of large abscess ??? ???? ????,1,procedure
+189072,drainage of large abscess under ga-(pr,1,procedure
+189075,drainage of large or deep abscess under g/a,2,procedure
+189077,drainage of peri-anal abscess i.a,1,procedure
+189079,drainage of pericardial effusion - (surgical,1,procedure
+189081,drainage of peritosillar abscess,1,procedure
+189084,drainage of skin abscess ( big,1,procedure
+189088,drainage of small abscees under l.a,2,procedure
+189090,drainage of small abscess bupa ayh,1,procedure
+189092,drainage of a small abscess,1,procedure
+189097,drainage of a small abscess superficial any area la,1,procedure
+189099,drainage of abcess in external ear,1,procedure
+189101,drainage of abscess ( simple,1,procedure
+189103,drainage of abscess - ncci,1,procedure
+189107,"drainage of abscess of palate, uvula",1,procedure
+189108,drainage of abscess of prostate,1,procedure
+189109,drainage of abscess under local anasthesia,1,procedure
+189111,drainage of abscess+g.a,1,procedure
+189112,drainage of abscess: parotid,1,procedure
+189113,drainage of abscess| تصريف الخراج,1,procedure
+189114,drainage of an abscess,1,procedure
+189115,drainage of apscess,1,procedure
+189116,drainage of big abcess,1,procedure
+189117,drainage of deep body collection,1,procedure
+189120,drainage of ext.ear abcess,1,procedure
+189124,"drainage of finger abscess, simple",1,procedure
+189125,"drainage of finger abscess; complicated (eg, felon",1,procedure
+189127,drainage of intra-anal abscess,1,procedure
+189132,drainage of large abcess under g.a,1,procedure
+189134,drainage of large abcess under ga(2nd operation 50%,1,procedure
+189139,drainage of large abscess under ga plus histopathology,1,lab_test
+189140,drainage of large abscess - ga,1,procedure
+189142,drainage of orbital abscess unilateral,1,procedure
+189143,drainage of orbital cyst unilateral,1,procedure
+189144,"drainage of orbital cyst, unilateral",1,procedure
+189147,drainage of perianal or subcutaneous abscess,1,procedure
+189149,drainage of perirenal or renal abscess (separate procedure,1,procedure
+189150,"drainage of peritoneal abscess, fluid collection or localizd peritonitis, transabdominal",1,procedure
+189151,drainage of perivesical or prevesical space abscess,1,procedure
+189152,drainage of sinus la,1,procedure
+189155,drainage of small abscess (l. a,1,procedure
+189156,drainage of small abscess (l/a,1,procedure
+189157,drainage of subcutaneous abscess. largunder ga,1,procedure
+189158,drainage of subcutaneous abscess. smallunder ga,1,procedure
+189159,drainage of subdiaphragmatic or subphrenic abscess; percutaneous,1,procedure
+189160,drainage of valval abscess,1,procedure
+189161,drainage quinsy opd,1,procedure
+189162,drainage the abcess,1,procedure
+189163,drainage ubperiosteal abscess,1,procedure
+189164,drainage-large abcess ljnder g.a,1,procedure
+189166,drainageofabscess,1,other
+189167,drainageof subcutaneous abscess,1,procedure
+189171,drainge of small abscess,1,procedure
+189175,drainge of smell absass,1,procedure
+189176,draining & cleaning of superficial abcess,1,procedure
+189177,draining of pus,1,lab_test
+189191,drape c arm 104x188cm,1,supplies
+189192,drape universal set 938721,1,supplies
+189193,"drape, camera closed end, concentric ring",1,supplies
+189194,"drape, half, size, 60"" x 44"" sterile",1,supplies
+189195,draping incontinence liner,1,other
+189196,dredressing under general anesthesia with vac machine,1,supplies
+189200,dream220/bte/(100hz -7700hz,1,other
+189201,dream30/bte/(100hz -7700hz,1,other
+189202,dream30/cic-rt/(100hz -10000hz,1,other
+189203,dream50/mine-bte/(100hz -8000hz,1,other
+189204,dream50/power-bte/(100hz -5400hz,1,other
+189205,dreamstation bipap auto with heated humidifier bt&sd card,1,other
+189206,"dreamstation cpap auto a-flex with humidifier, sd card, bt",1,supplies
+189207,"dreamstation cpap auto a-flex , bt & s philips",1,supplies
+189208,"dreamstation cpap auto a-flex with heated humidifier, bt & s",1,supplies
+189209,"dreamstation cpap pro with heated humidifier, bt&sd card",1,supplies
+189210,dreamwear full mask headgear (l-1133372,1,supplies
+189211,dreamwear full mask headgear (m-1133371,1,supplies
+189212,dreamwear full mask headgear (mw-1133373,1,supplies
+189213,dreamwear full mask headgear (s-1133370,1,supplies
+189214,"dreamwear full face mask with headgear, large size philips",1,supplies
+189215,"dreamwear full face mask with headgear, medium size",1,supplies
+189218,"dreamwisp with headgear, small, medium and large cushions (1137921",1,other
+189219,"dreamwisp with headgear, small, medium and large cushions philips",1,other
+189220,dress (large,1,procedure
+189221,dress (medium,1,procedure
+189223,dress large,1,procedure
+189224,dress medium,1,procedure
+189225,dress of burn in hand/foot (each,2,procedure
+189227,dress small,1,procedure
+189228,dress burn >=10% bsa dressed,2,procedure
+189231,dress burn large,1,procedure
+189236,dress burn large more than10 bsa dressed,1,procedure
+189237,dress burn large more than 10 percent bsa dressed,1,procedure
+189238,dress burn larger then 10 percent bsa dressed,1,procedure
+189239,dress burn med,1,procedure
+189240,dress burn med 5 10 bsa dressed,1,procedure
+189241,dress burn med 5 to 10percent bsa dressed,1,procedure
+189248,dress burn small 5 bsa dressed,1,procedure
+189256,dress burn small less than 5 bsa dressed,1,procedure
+189257,dress burn small less then 5 percent bsa dressed,1,procedure
+189258,dress of burn chest/abdomen/to e (med)-dress of burn chest/abdomen/to e (med,1,procedure
+189259,dress of burn in forearm/upperarm (each,1,procedure
+189260,dress of burn in hand-foo,1,procedure
+189262,dress of burn in upper li,1,procedure
+189263,dress of burn in upper limb/lower limb (each,1,procedure
+189264,dress of burn of small burn/any where (med)-dress of burn of small burn/any where (med,1,procedure
+189265,dress of burn on hand/foot (each) (med)-dress of burn on hand/foot (each) (med,1,procedure
+189266,dress of burn on thight (each) (med)-dress of burn on thight (each) (med,1,procedure
+189267,dress of burn on upper limb/lower e (med)-dress of burn on upper limb/lower e (med,1,procedure
+189269,dress of small burn./anywhere,1,procedure
+189270,dress of small clean ulcer/abrasion (med)-dress of small clean ulcer/abrasion (med,1,procedure
+189272,dress of wound / post operation for 1 week (med)-dress of wound / post operation for 1 week (med,1,procedure
+189281,dressing 4,1,supplies
+189282,dressing 6,1,supplies
+189283,dressing & stitch removal,1,supplies
+189285,dressing & follow up of major wound719,1,supplies
+189287,dressing & follow up of medium wound718,1,supplies
+189289,dressing & follow up of minor wound717,1,supplies
+189290,dressing ( elastogel,1,supplies
+189291,dressing ( small size,1,supplies
+189292,dressing ( burn)642,1,supplies
+189293,dressing (205,1,supplies
+189295,dressing (big)for burns,1,supplies
+189296,dressing (large size,1,supplies
+189299,dressing (med,1,supplies
+189300,dressing (med)-dressing (med,1,supplies
+189302,dressing (medium size,2,supplies
+189305,dressing (sfv,1,supplies
+189307,dressing (big wound,1,supplies
+189309,dressing (midle wound,1,supplies
+189312,"dressing , large size",1,supplies
+189313,"dressing ,medium size",1,supplies
+189315,dressing - large - er,1,supplies
+189321,dressing - by specialist(079,1,supplies
+189323,dressing - large ???? ????,1,supplies
+189324,dressing - large ???????? ????????,1,supplies
+189325,dressing - large ضماد كبير,1,supplies
+189327,dressing - medium ???? ?????,1,supplies
+189328,dressing - medium- ???????? ??????????,1,supplies
+189329,dressing - medium- ضماد متوسط,1,supplies
+189331,dressing - small - multi,1,supplies
+189332,dressing - small - multi ???? ???? ?????,1,supplies
+189333,dressing - small - ضماد صغير,1,supplies
+189334,dressing - small ???? ????,1,supplies
+189335,dressing -simple,1,supplies
+189336,dressing -small burn according to size,1,supplies
+189337,dressing / large one area,1,supplies
+189338,dressing / small one area,1,supplies
+189339,dressing 153,1,supplies
+189340,dressing 2 small (minor,1,supplies
+189341,dressing ? surg (????,1,supplies
+189342,dressing ? surg,1,supplies
+189344,dressing a01,1,supplies
+189345,dressing a02,1,supplies
+189346,dressing adhesive i.v film 6cm x 8cm,1,supplies
+189347,dressing adhesive surgipore n island non woven 6 x 8.25cm,1,supplies
+189351,dressing burm ? large,1,supplies
+189355,dressing burn ? medium,1,supplies
+189356,dressing burn ? small,1,supplies
+189358,dressing burn large ( 20% - 30%,1,supplies
+189359,dressing burn large or multiple,1,supplies
+189360,dressing burn large or multiple 10-15,1,supplies
+189362,dressing burn smal,1,supplies
+189364,dressing burn small ( less than 10%,1,supplies
+189365,dressing burn wound <5% ???? ???? ??? ?? 5%,1,supplies
+189366,dressing burn wound <5%-25%,1,supplies
+189367,dressing burn wound <5%-25% ???? ???? ??5% -25%,1,supplies
+189374,dressing c&d,1,supplies
+189377,dressing change in o.r. / site (area,1,supplies
+189378,dressing change simple,1,supplies
+189379,dressing charge,1,supplies
+189380,dressing charge medium,2,supplies
+189384,dressing dental,1,dental
+189385,dressing ent,1,supplies
+189389,dressing for burn,4,supplies
+189392,dressing for diabetic (each toe more,1,supplies
+189393,dressing for diabetic (each additional toe,3,supplies
+189395,dressing for diabetic -each toe more,1,supplies
+189396,dressing for diabetic -for each toe,1,supplies
+189400,dressing for diabetic foot - 1 foot,1,supplies
+189401,dressing for diabetic foot 1 foot,1,supplies
+189402,dressing for diabetic each toe more,1,supplies
+189403,dressing for each simple wound,2,supplies
+189404,dressing for small burn,2,supplies
+189408,dressing for burn large,1,supplies
+189410,dressing home visit,1,supplies
+189411,"dressing i.v fixation 6x7cm, box/100",1,supplies
+189412,dressing iv securefix r reinforced 3.8x4.5cm,1,supplies
+189413,dressing iv securefix r reinforced 5x5.7cm,1,supplies
+189414,dressing iv securefix r reinforced 7x8.5cm,1,supplies
+189415,dressing in the clinic,3,supplies
+189416,dressing in the clinic small,1,supplies
+189419,dressing large wounds,1,supplies
+189420,dressing larg burn,1,supplies
+189422,dressing large (med)-dressing large (med,1,supplies
+189424,"dressing large / dressing of wound, large",1,supplies
+189425,dressing large 104,1,supplies
+189429,dressing large including consumables,1,supplies
+189431,dressing large in urology dept,1,supplies
+189435,dressing major burn,1,supplies
+189437,dressing med burn,1,supplies
+189440,dressing medium including consumables,1,supplies
+189442,dressing medium with bandage,1,supplies
+189443,dressing medium in urology dept,1,supplies
+189445,dressing medium-home care,1,supplies
+189447,dressing midum wound,2,supplies
+189449,dressing minor - 1490,1,supplies
+189450,dressing minor burn,1,supplies
+189452,dressing moderate burn,1,supplies
+189453,dressing non woven dressing surgipore n island 10x30cm,1,supplies
+189454,dressing non woven surgipore n island 10x20cm,1,supplies
+189455,dressing non woven surgipore n island 9x10cm,1,supplies
+189456,dressing of a large size burn (with out anesthesia forever,1,supplies
+189457,dressing of a medium size burn ( with out anesthesia,1,supplies
+189459,dressing of infected wound,1,supplies
+189460,dressing of med. burn (nurse,1,supplies
+189462,dressing of small size burn (with out anesthesia,1,supplies
+189471,dressing on major wounds - ???? ??? ??? ????,1,supplies
+189472,dressing on medium wounds - ???? ??? ??? ?????,1,supplies
+189473,dressing opsite post w/proof 15.5cm x 8.5cm,1,supplies
+189474,dressing ortho larg,1,supplies
+189475,dressing pad 6.5cm x 5cm opsite / tegaderm #3582,1,supplies
+189477,dressing samll burn,1,supplies
+189478,"dressing set, wound, negative pressure, large",1,supplies
+189481,"dressing small / dressing of wound, small",1,supplies
+189482,dressing small 102,1,supplies
+189483,dressing small 289,1,supplies
+189486,dressing small minor,2,supplies
+189487,dressing small wi out band/dint,1,supplies
+189488,dressing small with bandage,2,supplies
+189495,dressing small-home care,1,supplies
+189496,dressing surg. by dr,1,supplies
+189497,dressing surgipore t island film 6x7cm,1,supplies
+189498,dressing tegaderm 3.8cm x4.5cm #1680,1,supplies
+189499,dressing tegaderm i.v 5x5.7cm #1610,1,supplies
+189500,dressing tegaderm iv 6*7cm #1623w,1,supplies
+189501,dressing transparent tegaderm 7cm x 8.5cm,1,supplies
+189502,dressing under general anesthesia with vac machine,2,supplies
+189504,dressing with eye shield,1,supplies

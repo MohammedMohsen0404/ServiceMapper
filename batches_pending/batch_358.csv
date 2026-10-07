@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+561908,surgical removal of a tooth or tooth fragment requiring removal of bone-tooth will be removed in sections,1,imaging
+561909,surgical removal of a tooth or tooth fragment requiringboth removal of bone and tooth division,1,imaging
+561910,surgical removal of a tooth with impaction bony,1,dental
+561911,"surgical removal of a tooth, fragment not removal of bone - ncci",1,imaging
+561912,"surgical removal of a tooth, fragment not remval o",1,dental
+561913,"surgical removal of a tooth, fragment not remval of bone",1,imaging
+561914,surgical removal of cyst / ganglion,1,procedure
+561915,surgical removal of dental implant and/or retention device; per implant,1,dental
+561916,surgical removal of empacted tooth,1,dental
+561917,surgical removal of erupted tooth incl elevation of mucoperiosteal flap if indicated,1,dental
+561918,surgical removal of erupted tooth requiring removal of bone,1,imaging
+561919,"surgical removal of erupted tooth requiring removal of bone and/ or sectioning of tooth , and incl",1,imaging
+561922,surgical removal of impacted tooth under ga,1,dental
+561923,surgical removal of impacted tooth complete bony impaction per tooth,1,dental
+561924,surgical removal of impacted tooth partial bony impaction per tooth,1,dental
+561925,"surgical removal of impacted tooth, partial bony impaction, per tooth",2,dental
+561928,surgical removal of impacted tooth; partial bony impaction,1,dental
+561931,surgical removal of one tooth requiring both removal of bone and tooth division (includes elevation of mucoperiosteal flap,1,imaging
+561932,surgical removal of one tooth soft tissue (not requiring removal of bone or tooth division,1,imaging
+561933,"surgical removal of one tooth, soft tissue (not requiring removal of bone or tooth division",1,imaging
+561934,surgical removal of one tooth; soft tissue,1,dental
+561935,surgical removal of one tooth; soft tissue (not requiring removal of bone or too,1,imaging
+561937,surgical removal of oral cyst,1,procedure
+561938,surgical removal of oral tumor,1,procedure
+561939,surgical removal of remaining root /each,1,procedure
+561942,surgical removal of remaining root or tooth buried tooth,1,dental
+561943,surgical removal of remaining root per root,1,procedure
+561944,"surgical removal of remaining root, per root",1,procedure
+561945,surgical removal of remaining root; per root,1,procedure
+561948,surgical removal of retained root 3 roots,1,procedure
+561950,surgical removal of simple cyst,1,procedure
+561952,surgical removal of tooth fragment involving bone,1,imaging
+561953,surgical removal of tooth fragment involving soft tissue,1,dental
+561954,surgical removal of tooth with unusual surgical complications,1,dental
+561955,"surgical removal of tooth, fragment in removal of",1,dental
+561956,"surgical removal of tooth, fragment in removal of bone",1,imaging
+561957,"surgical removal of tooth, fragment in removal of bone - ncci",1,imaging
+561958,surgical removal of tooth/fragment require both removal of bone&tooth division,1,imaging
+561959,surgical removal of two or more erupted tooth,1,dental
+561960,surgical removal of unerupted tooth completely encased by bone,1,imaging
+561961,surgical removal of unspecified number of teeth not requiring removal of bone or tooth division,1,imaging
+561962,surgical removal of unspecified number of teeth requiring both removal of bone and tooth division,1,imaging
+561963,surgical remove of tooth,2,dental
+561964,surgical repositioning of unerupted tooth,1,dental
+561965,surgical repositioning of unerupted tooth per to,1,dental
+561966,surgical repositioning of unerupted tooth per tooth,2,dental
+561968,surgical repositioning of unerupted tooth - per tooth,1,dental
+561969,surgical repositioning unerupted tooth,1,dental
+561970,"surgical retractor/retraction system blade, single-use",1,supplies
+561971,surgical root extraction,1,dental
+561972,surgical scaling one tooth,1,dental
+561974,"surgical screwdriver, reusable",1,procedure
+561975,"surgical screwdriver, single-use, sterile",1,supplies
+561976,surgical scrub brush dispenser,1,procedure
+561977,"surgical scrub brush, reusable",1,procedure
+561978,"surgical scrub brush, single-use",1,procedure
+561979,surgical sleeve cover,1,procedure
+561980,surgical snare wire,1,supplies
+561981,"surgical soft-tissue manipulation forceps, alligator, reusable",1,procedure
+561982,"surgical soft-tissue manipulation forceps, scissors-like, single-use",1,procedure
+561983,"surgical staple loading unit, cutting",1,procedure
+561984,"surgical staple loading unit, non-cutting",1,procedure
+561985,"surgical staple remover, reusable",1,procedure
+561986,"surgical staple remover, single-use",1,procedure
+561987,surgical stapler handpiece housing,1,supplies
+561988,surgical stitch pereach,1,procedure
+561989,surgical stitches from 1 to 5 stitches,1,procedure
+561990,surgical suction system y-piece valve-connector,1,supplies
+561991,surgical suction system collection container lid,1,supplies
+561992,"surgical suction system collection container, single-use",1,supplies
+561993,"surgical support tape, bioabsorbable",1,supplies
+561994,surgical suture(3 stitches,1,supplies
+561996,surgical sutures (1,1,supplies
+561997,surgical sutures 4 sutures or less,1,supplies
+561998,surgical synovectomy,1,procedure
+561999,"surgical tissue/fluid collection bag, non-sterile",1,supplies
+562001,"surgical torque wrench, reusable",1,procedure
+562002,"surgical torque wrench, single-use",1,procedure
+562003,surgical treatment and repair of external root resorption per tooth,1,dental
+562004,"surgical treatment of anal fistula (fistulectomy/fistulotomy); complex or multiple, with or without placement of seton",1,procedure
+562005,surgical treatment of anal fistula (fistulectomy/fistulotomy); subcutaneous,1,procedure
+562006,surgical treatment of anal fistula (fistulectomy/fistulotomy); submuscular,1,procedure
+562007,"surgical treatment of ectopic pregnancy; tubal or ovarian, requiring salpingectomy and/or oophorectomy, abdominal or vaginal approach",1,procedure
+562008,surgical treatment of peri-implant disease - per implant,1,supplies
+562009,surgical vessel loop,1,procedure
+562010,surgical video camera,1,procedure
+562011,surgical w/ flap opr. & stitches,1,procedure
+562012,surgical wound insufflation set,1,procedure
+562013,surgical xtrction of tooth w/root with x-ray,1,imaging
+562014,surgical%20removal%20of%20a%20tooth%20or%20tooth%20fragment%20not%20requiring%20removal%20of%20bone%20or%20tooth%20division,1,procedure
+562015,surgical%20removal%20of%20a%20tooth%20or%20tooth%20fragment%20requiring%20both%20removal%20of%20bone%20and%20tooth%20division,1,procedure
+562016,"surgical, cement",1,supplies
+562017,surgical-extraction-complex,1,dental
+562018,surgical-fully impacted tooth under la,1,dental
+562019,surgical-partially impacted tooth,1,dental
+562020,"surgical/emergency suction cannula, illuminating, single-use",1,supplies
+562021,"surgical/emergency suction cannula, non-illuminating, single-use",1,supplies
+562022,surgical/examination garment kit,1,procedure
+562023,"surgical/isolation gown, reprocessed",1,supplies
+562024,"surgical/medical face mask, reprocessed",1,supplies
+562025,"surgical/medical face mask, reusable",1,supplies
+562026,"surgical/medical face mask, single-use",1,supplies
+562027,surgical/orthopaedic lavage system power supply,1,procedure
+562028,surgicalextractionofimpactedteethunderla,1,other
+562029,surgicalremovalofatoothortoothfragmentrequiringbothremov,1,other
+562031,surgicel dressing 10*20 hemostat surgical absorbable,1,supplies
+562032,surgicell 1943,1,other
+562033,surgici lmpacyed,1,other
+562035,surgicl extraction surgical suture,1,dental
+562036,surgicryl 5-0 - reverse cutting 19mm,1,other
+562037,surgin pore surgical dessing 110,1,procedure
+562038,surgin pore surgical dessing 120,1,procedure
+562039,surgineedle 120mm instrument (stz) #172015,1,other
+562040,surgipro 7/0 vp-747-x 8mm-75cm,1,other
+562041,surgival ectraction of r.r,1,lab_test
+562042,surjical extrac,1,other
+562048,surum (fe,1,other
+562053,survey arthritis,1,other
+562054,susceptibility studies antimicrobial agents,1,consultation
+562055,susceptibility studies antimicrobial agents; microdilution,1,consultation
+562056,susceptibility study antimicrobial disk method,1,consultation
+562058,sut 1st/2nd degree tear of perineum,1,other
+562059,sut current obst laceration of cervix,1,other
+562062,sutiafeed werable breast pump - granzia,2,supplies
+562064,sutuire anchor cork screw 6.5,1,supplies
+562065,sutur removal,1,procedure
+562066,sutur removal less than 4 stitch,1,procedure
+562068,suture superficial each/with la,1,supplies
+562069,suture deep / with la,1,supplies
+562070,suture wound(more than 7stitches,1,supplies
+562071,suture & dressing,1,supplies
+562072,suture ( 1st one,1,supplies
+562073,suture (( 1 suture,2,supplies
+562074,suture (50 for each one,2,supplies
+562076,"suture , grip loc suture anchor peek 4.75mm w/2 suture wb , 800611200 rejoin",1,supplies
+562077,"suture , monocryl 3/0 , sutures absorbable w3661 70cm monofilament violet 22mm 1/2 circle taper point plus needle,ethicon (johnson & johnson) , w3661",1,supplies
+562078,"suture , deep - per stitche",1,supplies
+562079,suture -deep / with la,1,supplies
+562080,suture 1-5,1,supplies
+562082,suture 5-10,1,supplies
+562083,suture :small wound(1-4stitches,1,supplies
+562084,suture anchor 4.75x24.5 arthrex # ar-2324bcm,1,supplies
+562085,suture anchor arthrex 4.5mm,1,supplies
+562086,"suture anchor biocomposite swivelock c, closed eyelet with #2 fiberwire, 5.5x19.1mm, arthrex # ar-2323bcc",1,supplies
+562087,suture anchor micro cork screw ft,1,supplies
+562088,"suture anchor peek corkscrew 4.5 x14mm, arthrex, #ar-1927pnf-45",1,supplies
+562089,"suture anchor peek labral swivelock 3.5 mm x 15.8 mm, arthrex, #ar-2325pslc",1,supplies
+562090,suture anchor peek swivelock 4.75x19.1mm,1,supplies
+562091,suture anchor poplok with one hifi,1,supplies
+562092,"suture anchor with 1.3mm suture tape (white/blue), artherx, #ar-3602",1,supplies
+562093,"suture anchor, 5 od x 14 mm length, titanium, pre-loaded on a disposable driver, with sutures, conmed, c6140h",1,supplies
+562094,"suture anchor, 5.5 x 19.1mm",1,supplies
+562095,"suture anchor, arthrex peek swive lock, self punching, 4.75mm x 4.5mm",1,supplies
+562096,"suture anchor, corkscrew 6.5x15.5mm, arthrex, #ar-1925-sf",1,supplies
+562097,"suture anchor, knotless, bioraptor",1,supplies
+562098,"suture anchor, mini vim pk knotless, 2.8mm, different size",1,supplies
+562099,"suture anchor, multifix s ultra 5.5mm knotless",1,supplies
+562100,"suture anchor, peek pushlock",1,supplies
+562101,"suture anchor, pushlock, 3.5mm x 19.5mm",1,supplies
+562102,"suture anchor, pushlock, 4.5mm x 24mm",1,supplies
+562103,"suture anchor, super vim, 5.0mm",1,supplies
+562104,"suture anchor, super vim, ligament, titanium, different size",1,supplies
+562105,"suture anchor, swivelock, different size",1,supplies
+562106,"suture anchor, with needle",1,supplies
+562107,"suture atramat pga suture 0, reverse cutting 30mm",1,supplies
+562108,"suture atramat pga suture 2-0, reverse cutting 30mm",1,supplies
+562109,suture atramat pga sutures 0 round body 30mm,1,supplies
+562110,suture atramat pga sutures 0 round body 40mm,1,supplies
+562111,suture atramat pga sutures 2-0 round body 26mm,1,supplies
+562112,suture atramat silk rc (2-0) reverse cutting 24mm 75cm,1,supplies
+562113,"suture cartridge, magnumwire, perfectpasser, black co-braid",1,supplies
+562115,suture deep woud,1,supplies
+562116,suture lasso 45 degree with wire loop,1,supplies
+562117,"suture lasso, arthrex, sd, 90, straight, perforating needle cannula with nitinol wire loop",1,supplies
+562118,"suture lasso, wire loop",1,supplies
+562119,suture mersilk rb (1) 36mm 75cm,1,supplies
+562120,suture mersilk rb (1) 36mm 75cm smi,1,supplies
+562121,suture mersilk rb (3-0) 20mm 75cm,1,supplies
+562122,suture monofast reverse cutting (3-0) 19mm 50cm smi,1,supplies
+562123,suture of medium wounds (5-7 stitches,3,supplies
+562127,suture of superficial lacerations,1,supplies
+562128,suture prolene (trulene) blue 4-0 reverse cutting 16mm sma,1,supplies
+562129,"suture prolene blue 3-0, 90cm w/ndl, 36/bx (ddss6499) #8522h",1,supplies
+562130,suture prolene rb (6-0) 13mm 60cm,1,supplies
+562131,suture prolene rb dn (7-0) 9.3mm 60cm,1,supplies
+562134,suture removal & wound debridement,1,supplies
+562135,suture removal (big wound,1,supplies
+562136,suture removal (big wound) ????? ??? ?????? (??? ????,1,supplies
+562137,suture removal (er - simple,1,supplies
+562138,suture removal (two,1,supplies
+562139,suture removal (partial,1,supplies
+562140,suture removal (small wound,1,supplies
+562141,suture removal (small wound) ????? ??? ?????? (??? ????,1,supplies
+562143,suture removal 2,1,supplies
+562144,suture removal ????? ????,1,supplies
+562145,suture removal cornea simple,1,supplies
+562146,suture removal non-or,1,supplies
+562148,"suture removal, cornea, multiple",1,supplies
+562149,"suture removal, cornea, simple",1,supplies
+562150,suture silk black rc (3-0) 26mm 45cm,1,supplies
+562151,suture silk rc (2-0) 3/8c 26mm 75cm,1,supplies
+562152,suture silk rc (2-0) 3/8c 30mm 75cm,1,supplies
+562153,suture tape,1,supplies
+562154,"suture tape, as",1,supplies
+562155,suture vicryl 1 round body 30mm smi,1,supplies
+562156,suture vicryl 5/0 violet 75mm,1,supplies
+562157,suture vicryl crb (2-0) 26mm 75cm,1,supplies
+562158,suture vicryl plus crb (1) 40mm 90cm,1,supplies
+562159,"suture vicryl plus coated, violet braided, antibacterial, size 0, 70cm 40mm ct 1/2 circle, taper point, box/36, ethicon #vcp352h",1,imaging
+562160,suture vicryl rb (0) 40mm 75cm,1,supplies
+562161,suture vicryl rb (2) 48mm 90cm,1,supplies
+562162,suture vicryl rb (4-0)17mm 75cm,1,supplies
+562163,suture vicryl rc (2-0) 24mm 75cm,1,supplies
+562164,suture vicryl rc (3-0) 19mm 75cm,1,supplies
+562165,suture wound 1 - 4 sutures,1,supplies
+562166,suture wound 5 -10 sutures,1,supplies
+562167,"suture wound deep, multiple or large",1,supplies
+562168,"suture clasp, bioabsorbable",1,supplies
+562169,"suture clasp, non-bioabsorbable",1,supplies
+562170,suture current obst laceration of cervix,1,supplies
+562171,"suture cutter, single-use",1,supplies
+562172,suture deep,1,supplies
+562173,suture each one,1,supplies
+562174,suture hand muscle tendon and fascia,1,supplies
+562175,"suture kit, medicated",1,supplies
+562176,"suture kit, non-medicated",1,supplies
+562177,"suture knot pusher, single-use",1,supplies
+562178,suture knot-tying device,1,supplies
+562179,suture more than 3 per one,1,supplies
+562180,suture more than one ea,1,supplies
+562181,suture muscle/fascia nec bil,1,supplies
+562182,suture of eyelids wound (one eye,1,supplies
+562183,suture of laceration 1-5 cm,1,supplies
+562184,suture of laceration 5-10 cm,1,supplies
+562185,suture of laceration more than 10 cm,1,supplies
+562186,suture of laceration more than 10 cm er,1,supplies
+562187,suture of large wound (more than 7 stitches) under l.a,2,supplies
+562189,suture of medium wound 5 - 7 stitches under l a,1,supplies
+562191,suture of medium wound + dressing (med,1,supplies
+562192,suture of medium wound + dressing (med)-suture of medium wound + dressing (med,1,supplies
+562193,suture of simple wound of the forehead,1,supplies
+562196,suture of small wound (1-4 sutures,1,supplies
+562197,suture of tongue lacerations,1,supplies
+562198,suture of wound (1 stitch,1,supplies
+562199,suture of wound (1-4 stitches,1,supplies
+562200,suture of current obstetric laceration of cervix,1,supplies
+562201,suture of first or second degree tear of perineum,1,supplies
+562202,"suture of infrapatellar tendon; secondary reconstruction, including fascial or tendon graft",1,supplies
+562203,"suture of ligament, not elsewhere classified, unilateral",1,supplies
+562207,suture of medium wound(5-7stitches,1,supplies
+562209,suture of mesentery (separate procedure,1,supplies
+562210,suture of multiple lacerations,1,supplies
+562211,suture of multiple small wounds + dress/area,1,supplies
+562212,suture of muscle or fascia,2,supplies
+562213,suture of muscle or fascia not elsewhere classifie,1,supplies
+562214,suture of muscle or fascia not elsewhere classified unilater,1,supplies
+562216,"suture of muscle or fascia, nec, bilateral",1,supplies
+562217,"suture of muscle or fascia, nec, unilateral",1,supplies
+562218,"suture of muscle or fascia, not elsewhere classifi",2,supplies
+562219,"suture of muscle or fascia, not elsewhere classified, unilat",1,supplies
+562221,"suture of nerve: hand or foot, each nerve",1,supplies
+562222,"suture of nerve; requiring extensive mobilization, or transposition of nerve (list separately in addition to code for nerve suture",1,supplies
+562223,suture of recent small wounds up to 5 cm,1,supplies
+562224,"suture of recent wound, eyelid, involving lid margin, tarsus, and/or palpebral conjunctiva direct closure; partial thickness",1,supplies
+562225,"suture of recent wound, eyelid,involving lid margin, tarsus, and/or palpebral conjunctiva: partial o",1,supplies
+562226,suture of skin& subcutaneous tissue (c86.5,1,supplies
+562228,suture of small wound 1 suture,2,supplies
+562229,suture of small wound (1-4stitches,1,supplies
+562232,suture of small wound(1-4 stitches,1,supplies
+562234,suture of tendon nec unilateral,1,supplies
+562236,"suture of tendon, not elsewhere classified, unilateral",1,supplies
+562237,suture of third or fourth degree tear of perineum,1,supplies
+562238,suture orally,1,supplies
+562239,suture per stich,1,supplies
+562242,suture removal ( one,1,supplies
+562243,suture removal / per stitch,1,supplies
+562244,suture removal > one,1,supplies
+562245,suture removal each stitch,1,supplies
+562246,suture removal kit,1,supplies
+562247,suture removalone stitch,1,supplies
+562248,suture scissors,1,supplies
+562250,suture%20removal%09,1,supplies
+562251,"suture, arthrex, fiberlink braided polyblend, close loop on one end",1,supplies
+562252,"suture, arthrex, fibertape braided polyblend, 2mm",1,supplies
+562253,"suture, fiber, usp, blue and white",1,supplies
+562254,"suture, ligasure atlas, size: 20cm",1,supplies
+562255,"suture, polyblend, fiberlink braided, blue with closed loop on one end",1,supplies
+562256,"suture, polyblend, tiger tape braided",1,supplies
+562257,"suture, powertex, nonabsorbable loaded with needle for ligament reconstruction",1,supplies
+562258,"suture, prolene 5/0, blue 45cm with needle",1,supplies
+562259,"suture, prolene, 3/0, 26mm, 1/2 circle, round double needle. 90cm",1,supplies
+562260,"suture, prolene, 4/0, 20mm, 1/2 circle, round double needle. 90cm",1,supplies
+562261,"suture, prolene, 4/0, cutting 19mm",1,supplies
+562262,"suture, shuttle, cleanpass",1,supplies
+562263,"suture, surgical, powertex, nonabsorbable",1,supplies
+562264,"suture, v-loc wound closure, 180 green",1,supplies
+562265,"suture, vicryl 6/0, undyed, 45cm,8mm, spatula",1,supplies
+562266,"suture, vicryl coated, 2/0, 75cm,26mm, reverse cutting",1,supplies
+562267,"suture, vicryl plus 4//0, 45cmw/ndl, vcp9074h",1,supplies
+562268,"suture, vicryl plus, cutting , vio ,3/0 70cm, m2usp",1,supplies
+562269,"suture, vicryl, 8/0,30cm,6mm, micro point spatula",1,supplies
+562271,suture:medium wound 4-7stitches,1,supplies
+562272,sutureloop acl whipstitch device straight needle,1,supplies
+562273,sutureloop hi-fi suture 20,1,eyewear
+562275,"sutures , superficial - per stitche",1,supplies
+562276,sutures 1 - 4 each,1,supplies
+562278,sutures 1-3 ????? ?? 1-3,1,supplies
+562280,sutures 4,1,supplies
+562281,sutures done out side/removal,1,supplies
+562282,sutures four to nine,1,supplies
+562283,sutures more than fifteen,1,supplies
+562285,sutures removal (eye,1,supplies
+562287,sutures removal 4 or less,1,supplies
+562288,sutures removal 5 or more,1,supplies
+562290,sutures ten to fifteen,1,supplies
+562291,sutures three or less,2,supplies
+562292,sutures cut and removal / eye,1,supplies
+562294,sutures for large wounds(7 -10,1,supplies
+562295,sutures for large wounds7_10,1,supplies
+562296,sutures for medium wounds (4 - 6,1,supplies
+562298,sutures for medium wounds 4-6,1,supplies
+562299,sutures for small,1,supplies
+562301,sutures for small wounds (1-3,2,supplies
+562302,sutures for small wounds(1-3,1,supplies
+562303,sutures for small wounds/hand. foot,1,supplies
+562304,sutures forsmall wounds 1-3,1,supplies
+562305,sutures of large wound@dressing u/la,1,supplies
+562306,sutures of med. wound @dressing -la,1,supplies
+562308,sutures/per suture,1,supplies
+562309,sutures/stitch,2,supplies
+562310,sutures> 2 cm ( per cm,1,supplies
+562311,sutures> 2 cm ( per cm) (sfv,1,supplies
+562312,suturesethibondexcel2-017mm,1,other
+562314,suturing minor up to 4 stitches,1,procedure
+562315,suturing (1st 3 l.a. / 25 sr for each add'l,1,procedure
+562316,suturing (1st 3 l.a. / 25 sr for each addl,1,procedure
+562319,suturing - small area (203 sut,1,procedure
+562320,suturing - complex - large area,1,procedure
+562321,suturing -simple -small area /2-3 sutures,1,supplies
+562323,suturing -small wound under l.a - in o.r,1,procedure
+562326,suturing / suture / everyone,1,supplies
+562327,suturing / each stiche more than 4,1,procedure
+562328,suturing / major (deep and superficial suturing,1,procedure
+562329,suturing / minor up to 4 stitches,1,procedure
+562331,suturing 2,1,procedure
+562332,suturing and follow up dressing-small,1,supplies
+562333,suturing cut wound minor,1,procedure
+562336,suturing deep lacerations,1,procedure
+562337,suturing deep lacerration under l.a,1,procedure
+562338,suturing deep wound under,1,procedure
+562339,suturing deep wound under l.a,1,procedure
+562340,suturing for one,1,supplies
+562341,suturing laceration face simple 1-3 subcutaneous stitches with 3x0 or more under la,1,procedure
+562342,suturing laceration face small 3-6 subcutaneous stitches with 3x0 under la,1,procedure
+562343,suturing laceration large difficult wound involving deep fascia and muscles,1,procedure
+562344,suturing laceration simple (1-3 stitches) no subcutaneous,1,procedure
+562345,suturing laceration small (4-6 stitches+ 1-3 subcutaneous,1,procedure
+562347,suturing large superficial wound under la,1,procedure
+562353,"suturing of laceration , major , under general anesthesia-pkg",1,procedure
+562354,"suturing of laceration , minor , under general anesthesia-pkg",1,procedure
+562355,suturing of laceration face medium 1-3 subcutaneous stitches with 3x0 or more +1-3 skin stitches,1,procedure
+562356,suturing of laceration medium( more than 6 stitches+ more than 3 subcutaneous,1,procedure
+562357,suturing of laceration/dresing (1-2 cm,1,procedure
+562358,suturing of lid laceration,1,procedure
+562361,suturing of the wound/ stich,1,procedure
+562362,suturing simple small area 2 3 sutures,1,supplies
+562365,suturing sub wound 1 suture,1,supplies
+562366,suturing superf wound wi anest istitch,1,procedure
+562369,suturing superficial lacerations,1,procedure
+562370,suturing superficial lacerration un l.a,1,procedure
+562371,suturing superficial wound,1,procedure
+562372,suturing superficial wound under,1,procedure
+562375,suturing w ound on tongue 4,1,procedure
+562376,suturing with stop bleeding,1,lab_test
+562378,suturing a superficial wound,1,procedure
+562379,suturing cost per stitch,1,procedure
+562380,suturing deep multiple wound under la,1,procedure
+562381,suturing deep/ multiple wound under l.a,1,procedure
+562385,suturing medium with local anaesthesia (3-5 stitches)[4.05,1,procedure
+562386,suturing more than two (2) tubes,1,procedure
+562387,"suturing needle, single-use",1,supplies
+562388,suturing of big wound under l.a - in o.r,1,procedure
+562389,suturing of cut wound - major,1,procedure
+562390,suturing of cut wounds- g/a- pd,1,procedure
+562391,suturing of deep lacerations - in o.r,1,procedure
+562392,suturing of major wound ula,2,procedure
+562394,suturing of multiple wounds,1,procedure
+562395,suturing of superficial lacerations - in o.r,1,procedure
+562396,suturing of wound second grade (secondary,1,procedure
+562397,suturing of woundsinus,1,procedure
+562399,suturing of small and numerous wound,1,procedure
+562400,suturing of small wound (2 s,1,procedure
+562402,suturing of superficial wound under l.a. 50/stech,1,procedure
+562403,suturing of superficial wound(5 s,1,procedure
+562404,suturing of wound (5-10 sutures,1,supplies
+562405,suturing of wound (one stitches,1,supplies
+562406,suturing of wound deep & big,1,procedure
+562407,suturing of wound average,1,procedure
+562408,suturing of wound small (one tube,1,supplies
+562411,suturing small with local anaesthesia (1-2 stitches)[4.04,1,procedure
+562412,suturing small/superficial wound under l.a,1,procedure
+562413,suturing superficial,1,procedure
+562416,suturing superficial laceration under l.a,1,procedure
+562417,suturing superficial lacerration underr l.a,1,procedure
+562418,"suturing unit, single-use",1,procedure
+562420,suturing wound per suture - fine,1,supplies
+562422,suturing-smal- area /2-3 sutures,1,supplies
+562423,suturing. large area,1,procedure
+562425,suturingdeep2fmultiplewoundunderla,1,other
+562427,suurg. ext & impacted,1,other
+562428,suva,1,other
+562450,suzan maher sadek mikhail,1,other
+562453,swab (box of 100 swabs) isopropyl alcohol 70 % swa,1,lab_test
+562454,swab (throat or ear,1,lab_test
+562456,swab c&s| swab c&s,1,lab_test
+562457,swab c.s,1,lab_test
+562460,swab culture &sensetivity,1,lab_test
+562461,swab culture and sensitivity,4,lab_test
+562464,swab culture sensitivitypresumptivestapsrep screening test,3,lab_test
+562465,swab culture& sensitivity,1,lab_test
+562466,swab culture& sensitivity(mhl lab,1,lab_test
+562467,swab ear - nose - pharynx,1,lab_test
+562468,swab ear-nose-pharynx,1,lab_test
+562469,swab pus examination c/s,1,lab_test
+562470,swab stick(povidine iodine,1,lab_test
+562471,"swab sticks, antiseptic 2% chlorhexidine, gluconate, and 70% isopropyl alcohol, shifaa united, 607",1,lab_test
+562472,swab vaginal c/s / swab culture screening test,1,lab_test
+562473,swab with media (blue swap) b/100,1,lab_test
+562477,"swab culture sensitivity,presumptive,stap,srepscreening test",1,lab_test
+562479,swab culture sensitivitypresumptive screening test,1,lab_test
+562480,swab culture sensitivitypresumptivestapsrep screen,1,lab_test
+562483,swab for mrsa,1,lab_test
+562484,swab for chlamydia,1,lab_test
+562486,swab for fungus culture / fungus culture,1,lab_test
+562487,swab over the cervix,1,lab_test
+562488,swab throat,1,lab_test
+562490,swab vaginal c/s (cervical c/s) - hvs,1,imaging
+562491,swab vaginal c/s (cervical c/s)-hvs,1,imaging
+562493,swab without media,1,lab_test
+562494,swab wound c/s,1,lab_test
+562495,"swab, alcohol, pack/200",1,lab_test
+562496,"swab, fetal membrane, rupture test",1,lab_test
+562497,"swab, gauze, 4x4, 8ply, non-sterile, pack/100",1,lab_test
+562498,"swab, gauze, non sterile, 2"" x 2"" 8 ply, pack/100",1,lab_test
+562499,swabculture,1,other
+562500,swabs stick skin prep chlorhexadine 2%,1,supplies
+562502,swallowing therapy (dysphasia,1,physiotherapy
+562506,"swash, low profile size 3 27.00.0010",1,lab_test
+562507,"swash, low profile size 4 27.00.0011",1,lab_test
+562509,swd1741/c10/52,1,other
+562512,swido frm kids 309,1,eyewear
+562513,swine flu (h1 n1,1,other
+562517,swing 274 fr c:03 s.blk,1,eyewear
+562518,swing 318 fr c:09 (kids,1,eyewear
+562519,swing 318 fr c:595 (kids,1,eyewear
+562520,swing 320 fr c:02 (kids,1,eyewear
+562521,swing 320 fr c:13m (kids,1,eyewear
+562522,swing 321 fr c:457 (kids,1,eyewear
+562523,swing 325 fr c:02 (kids,1,eyewear
+562524,swing 375 fr c:193 m.blk (clip,1,eyewear
+562525,swing 380 fr c:216 m.brn (kids) (clip,1,eyewear
+562526,swing 381 fr c:216 m.brn (clip,1,eyewear
+562527,swing frm 046/49/18,1,eyewear
+562528,swing frm 216 c14,1,eyewear
+562529,swing frm 216/52/18/140 c17,1,eyewear
+562530,swing frm kids 016/47 gray,1,eyewear
+562531,swing room - icu,1,consultation
+562532,swing room - medical,1,consultation
+562605,symbicort120dosesturbuhaler lasa,1,other
+562607,symbicortturbuhaler160 45micr120doses,1,other
+562608,symbicortturbuhaler160/4.5micr120doses,1,other
+562609,symbicortturbuhaler80/4.5micr120doses,1,other
+562610,symbotex 15x10,1,other
+562611,symbotex 20x15,1,other
+562612,symbotex mesh 25x20,1,supplies
+562613,symmetric all poly patella,1,other
+562616,synacthen test for cah - after 60 minutes,1,lab_test
+562617,synacthen test for cah - basal,1,lab_test
+562622,synaptophysin - immunohistochemical stain - ?????,1,other
+562623,"synchro 2/14 200cm standard preshaped, stryker #m00326420",1,other
+562624,synchronized electrical shock / once,1,other
+562625,synchrony 1.56 s-xtra,1,eyewear
+562626,synchrony 1.6 multicoat,1,eyewear
+562627,synchrony easy.view hd 1.50 ext.short,1,eyewear
+562628,synchrony easy.view hd 1.50 medium,1,eyewear
+562629,synchrony easy.view hd 1.50 short,1,eyewear
+562630,synchrony easy.view hd 1.60 short,1,eyewear
+562631,synchrony easyview hd prog s+ 1.6 optical lenses,1,eyewear
+562632,synchrony hd1.50 sph(+8.00/-8.00)cyl (-0.25/-3.00 ) s-blue-cut,1,eyewear
+562633,synchrony hd1.50 sph(+8.00/-8.00)cyl (-0.25/-3.00 ) s-extra,1,eyewear
+562634,synchrony hd1.50 sph(+8.00/-8.00)cyl (-0.25/-6.00 ) s-extra,1,eyewear
+562635,synchrony hd1.50photofusion sph(+3.00/-4.00)cyl( -0.25/-3.00) s-extra,1,eyewear
+562636,synchrony hd1.50photofusion sph(+6.00/-6.00)cyl( -0.25/-3.00) s-blue-cut,1,eyewear
+562637,synchrony hd1.50photofusion sph(+6.00/-6.00)cyl( -0.25/-3.00) s-extra,1,eyewear
+562638,synchrony hd1.50polarized sph(+10.00/-10.00)cyl( -0.25/-3.00) s-blue-cut,1,eyewear
+562639,synchrony hd1.50polarized sph(+10.00/-10.00)cyl( -0.25/-3.00) s-extra,1,eyewear
+562640,synchrony hd1.53trivex sph(+8.00/-8.00)cyl( -0.25/-3.00) s-blue-cut,1,eyewear
+562641,synchrony hd1.53trivex sph(+8.00/-8.00)cyl( -0.25/-3.00) s-extra,1,eyewear
+562642,synchrony hd1.56 sph(+10.00/-10.00)cyl (+0.00/-3.00 ) s-extra,1,eyewear
+562643,synchrony hd1.56 sph(+10.00/-10.00)cyl (-0.25/-3.00 ) s-blue-cut,1,eyewear

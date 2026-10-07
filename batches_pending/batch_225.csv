@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+423156,open biopsy of lesion of bone,1,imaging
+423157,open biopsy of rectim (full thickness) c48.25,1,procedure
+423158,open biopsy of rectum (full thickness) - 1 day,1,procedure
+423159,open biopsy of rectum (full thickness)->c48.25,1,procedure
+423160,open biopsy of salivary gland or duct->c26.12,1,procedure
+423161,open biopsy of tongue->c25.02,1,procedure
+423162,open biopsy small subcutaneous lession,1,procedure
+423163,open breast abscess under ga,1,procedure
+423164,open cdh + osteotomy,1,procedure
+423165,open cholecystectomy,3,procedure
+423166,open cholecystectomy exp. of c.b.d. and biliary system,1,procedure
+423167,open cholecystectomy exp. of c.b.d. and biliary system (7 days,1,procedure
+423168,"open cholecystectomy, intc",1,procedure
+423169,"open cholecystectomy, majc",1,inpatient
+423170,"open cholecystectomy, minc",1,inpatient
+423172,open comminuted peri articular fracture,1,other
+423173,open correction of spinal deformity without chargable,1,other
+423174,open curettage-two jaw,1,procedure
+423175,open cystolithotomy,2,procedure
+423176,open cystolithotomy p-deal,1,procedure
+423177,open drainage,1,procedure
+423178,open drainage(simple operation,1,procedure
+423179,open drainage of sebaceous gland,1,procedure
+423180,open elongation tendo achilles,1,other
+423181,open end ureteral catheter 4 fr,1,eyewear
+423182,open end ureteral catheter 6fr,1,supplies
+423183,open excision of intra-articular osteophyte - 077-w71.2,1,procedure
+423184,open excision of lesion of pleura,1,procedure
+423185,open exporation of common bile duct -3days pkg,1,other
+423186,open extraction of calculus from parotid duct,1,dental
+423187,open extraction of calculus from submandibular duct,1,dental
+423188,open gastrostomy / pediatric,1,procedure
+423189,open gingival curettage per quadrant,1,dental
+423190,open gown for adult,1,supplies
+423191,open hemicoloctomy level 3,1,lab_test
+423192,open hernia repair (mesh not included,1,supplies
+423193,open hernia repair- (p.d,1,procedure
+423194,open hip reduction + pilvic osteotomy + adductor release + hips pica cast,1,supplies
+423195,open hip reduction + pilvic osteotomy + pelvic and femoral osteotomy,1,procedure
+423196,open knee brace (oppo) l size l 2029,1,supplies
+423197,open large abcess,1,other
+423198,open large abscess,2,procedure
+423199,open lumbar discectomy (multiple,1,procedure
+423200,open lumbar discectomy - two levels,1,lab_test
+423201,open lumbar discectomy 1 level-3days hosp. charge,1,lab_test
+423202,open lumbar discectomy 2 levels -3days hosp.charge,1,lab_test
+423203,open lumbar discectomy one level,1,lab_test
+423204,open medium abscess,1,procedure
+423205,open meniscus repair (knee,1,procedure
+423206,open mouth view,1,imaging
+423207,open mri,1,imaging
+423208,open mri with contrast,1,imaging
+423209,open myomectomy,1,procedure
+423210,open nephrotomy or nephrostomy,1,procedure
+423211,open ovarian cystectomy,1,procedure
+423212,"open ovarian cystectomy, bilateral",1,procedure
+423213,open partial nephrectomy,1,procedure
+423214,open partial nephrectomy - 7days pkg,1,procedure
+423215,"open patella knee (oppo) size l , 2021",1,supplies
+423216,open pilonidal sinus,1,procedure
+423217,"open procedure on tendon sheath, not elsewhere classified",1,supplies
+423218,open prostatectomy,3,procedure
+423219,open prostatectomy - 3days pkg,1,procedure
+423220,open prostatectomy; istc 7 d,1,procedure
+423221,open pyloromyotomy,1,procedure
+423222,open radical adrenalectomy,1,procedure
+423223,open rc repair without anchor,1,procedure
+423224,"open rdctn fracture radial head/neck, unilateral",1,procedure
+423225,"open rdctn fracture shaft of tibia w if, unilateral",2,procedure
+423226,open rdctn fx maxilla w/ teeth immobilization uni,1,dental
+423227,"open rdctn fx proximal phalanx hand if, unilateral",1,procedure
+423228,"open rdctn fx shaft radius w disloc if, unilateral",1,procedure
+423229,open rdctn fx shaft ulna w/ int fix uni,2,procedure
+423230,"open rdctn fx tarsometatarsal jt w if, unilateral",1,procedure
+423231,open red fract w/int fix at femur left,1,other
+423232,open red int. fix metacarpal or phal,1,other
+423233,open red. for any major joint with frac. dislocation,1,procedure
+423234,open red. & int. fix -patella including implant,2,supplies
+423236,open red. & int. fix. or part. or t. exci. patella,1,other
+423237,open red. & int. fix.fracture for ankle -b,1,other
+423238,open red. & int.fix of frac tibia / fibu,1,other
+423239,open red. & int.fix. femur shaft 4 days -b,1,other
+423240,open red. for fracture dislocation of ankle/wrist -b,1,procedure
+423241,open red. int. fix. metacarpal or phal,1,other
+423242,open red. of dislocation at ankle,1,procedure
+423243,open red. of dislocation at wrist,1,procedure
+423244,open red. of fract. w/int. fix. at humerus,1,other
+423245,open red. of fract. w/int. fix. at rad./ulna,1,imaging
+423246,open red. of fract. w/int. fix. at tib./fibula,1,other
+423247,open red. of metatarsal m.c with displacement,1,lab_test
+423248,open red. w i.f for frac. tibia or humerus,1,lab_test
+423249,open red. wi.f plate screw olecranofrac p.o.p,1,supplies
+423250,open red. wi.f plate screw radius,1,supplies
+423251,open red.& int.fix. for comm. femur/tibia/humerus -b,1,other
+423252,open red.& int.fix.of fracture of calcaneus,1,other
+423253,open red.& int.fix.of fracture of calcaneus including implant,1,supplies
+423254,open red.& int.fix.w/plate & screw of neck femur including implant,2,supplies
+423256,open red.&int.fix./frac,1,other
+423257,open red.&int.fix./ha.bo,1,other
+423258,open red.for fracture dislocation of ankle/wrist/elbow -a,1,procedure
+423259,open red/int fix-frac femur/ti,1,other
+423260,open redctn. and fixn. of ankle fractures(complex,1,other
+423261,open redn dislocn - foot,1,other
+423262,open redn dislocn - hand/foot,1,other
+423263,open redn dislocn - hip,1,other
+423264,open redn dislocn-ankle,1,other
+423265,open redn dislocn-elbow,1,other
+423266,open redn dislocn-shoulder,1,other
+423267,open redn dislocn-wrist,1,other
+423268,open redn.and int.fix. metacarpal or phalngs,1,other
+423269,open reduc. & int. fix. sacral fracture,2,other
+423270,open reduc. & int. fix. sacral fracture including implant,1,supplies
+423271,open reduc. disloca.finger or toe,1,other
+423272,open reduc. extra-oral mild,1,other
+423273,open reduc. extra-oral severe,1,other
+423274,open reduc. floor of orbit,1,other
+423275,open reduc. zygomatic frontal,1,other
+423276,open reduc. infraorbital margin,1,other
+423277,open reduc. zygoma,1,other
+423278,open reduc.&internal fixation for fractu,1,procedure
+423279,open reduc.for hip c.d.h,1,lab_test
+423280,open reducation & in ternal fixation for recent and old negl,1,procedure
+423281,open reducation & internal fixation for comminuted,1,procedure
+423282,open reducation of dislocated finger or toe joints,1,other
+423283,open reducion of supracondylar fracture and k-wire fixation,2,supplies
+423284,open reducion of supracondylar fracture with plate & screw,1,supplies
+423285,open reduct of dislocation at ankle,1,procedure
+423286,open reduct of dislocation at foot & toe,1,procedure
+423287,open reduct of dislocation at hand & finger,1,procedure
+423288,open reduct of dislocation at hip,1,procedure
+423289,open reduct of dislocatn at shoulder,1,procedure
+423290,open reduct of fract w/ int fix at carpals & metac,2,procedure
+423291,open reduct of fract w/ int fix at femur,1,procedure
+423292,open reduct of fract w/ int fix at radius & ulna,1,procedure
+423293,open reduct of fract w/int fix,1,procedure
+423294,open reduct of fract w/int fix at carpals & metacarpals,1,procedure
+423295,open reduct of fract w/int fix at carpals & metacarpals including implant,2,supplies
+423297,open reduct of fract w/int fix at clavical (lt,1,procedure
+423298,open reduct of fract w/int fix at femur,1,procedure
+423299,open reduct of fract w/int fix at femur including implant,2,supplies
+423301,open reduct of fract w/int fix at humeru,1,procedure
+423302,open reduct of fract w/int fix at humerus,1,procedure
+423303,open reduct of fract w/int fix at humerus including implant,2,supplies
+423305,open reduct of fract w/int fix at lt. femur,1,procedure
+423306,open reduct of fract w/int fix at lt big toe,1,procedure
+423307,open reduct of fract w/int fix at phalange-hand,1,procedure
+423308,open reduct of fract w/int fix at phalanges-fot,1,procedure
+423309,open reduct of fract w/int fix at phalanges-fot including implant,2,supplies
+423311,open reduct of fract w/int fix at phalanges-hand,1,procedure
+423312,open reduct of fract w/int fix at phalanges-hand including implant,2,supplies
+423314,open reduct of fract w/int fix at radius & ulna,1,procedure
+423315,open reduct of fract w/int fix at radius & ulna including implant,2,supplies
+423317,open reduct of fract w/int fix at tarsals & metatarsals,2,procedure
+423318,open reduct of fract w/int fix at tarsals & metatarsals (lt,1,procedure
+423319,open reduct of fract w/int fix at tarsals & metatarsals including implant,2,supplies
+423321,open reduct of fract w/int fix at tarsals and metatarsals including implant - 1 day,1,supplies
+423322,open reduct of fract w/int fix at tibia & fibula,1,procedure
+423323,open reduct of fract w/int fix at tibia & fibula (lt,1,procedure
+423324,open reduct of fract w/int fix at tibia & fibula (rt,1,procedure
+423325,open reduct of fract w/int fix at tibia & fibula including implant,2,supplies
+423327,"open reduct of fract w/int fix at unspec site (tibia , humerus, forarm ,femure) including implant",1,supplies
+423328,open reduct of fract w/int fix at unspec site,1,procedure
+423329,open reduct of fract w/int fixat tibia & fibula,2,procedure
+423330,open reduct of fract w/o int. fix at femur,1,procedure
+423331,open reduct of fract w/o int. fix at radius & ulna,1,procedure
+423332,open reduct of fract. w/o int.fix at phalanges-hand,1,procedure
+423333,open reduct of separated epiphysis at radius & ulna including implant,1,supplies
+423334,open reduct w/ int fixation at fract acetabulum,1,procedure
+423335,open reduct.c.d. h/salter,1,procedure
+423336,open reduct.fract+k-wr(long bones)ga,1,imaging
+423337,open reduct.inter. wire,1,supplies
+423338,open reduct.inter.fix,1,procedure
+423339,open reduction + internal fixation(long bones,2,imaging
+423340,open reduction & fixation of fracture mandible,1,procedure
+423341,open reduction & fixation of fracture maxilla,1,procedure
+423342,open reduction & fixation of spinal injury + prosthesis5days,1,procedure
+423343,open reduction & fixation of tipial plataue fracture,1,procedure
+423344,open reduction & i.f. using screws of medial malleolar,1,supplies
+423345,open reduction & int.fixation for fracture-shoulder/hip -a,1,procedure
+423346,open reduction & internal fixation of fracture clavicle,1,procedure
+423347,open reduction & internal fix s.b. of hand or foot,1,procedure
+423348,open reduction & internal fixation (orif) of fractuer - distal radius -commenuted(implants not included,1,supplies
+423349,open reduction & internal fixation (orif) of fractuer - one metacarpal -fixation by mini - screw / plate(implants not included,1,supplies
+423350,open reduction & internal fixation (orif) of fractuer - scaphoid -fixation by herbert screw(implants not included,1,supplies
+423351,open reduction & internal fixation (orif) of fractuer - scaphoid -fixation by k. wires (implant not included,1,supplies
+423352,open reduction & internal fixation for communited or malunited fracture of femur,1,procedure
+423353,open reduction & internal fixation for fracture dislocation of the ank,1,procedure
+423354,open reduction & internal fixation for fracture of radius with screw & plates,1,supplies
+423355,open reduction & internal fixation of both bones of forearm,1,imaging
+423356,open reduction & internal fixation of distal radius by plate & screw,1,supplies
+423357,open reduction & internal fixation of femur by interlocking nail,1,supplies
+423358,open reduction & internal fixation of femur by plate & screw,1,supplies
+423359,open reduction & internal fixation of fracture femur,1,procedure
+423360,open reduction & internal fixation of lateral malleolus,1,procedure
+423361,open reduction & internal fixation of medial malleolus,1,procedure
+423362,open reduction & internal fixation of metacarpals (or) metatarsals by plate & screw,1,supplies
+423363,open reduction & internal fixation of patella -a,1,procedure
+423364,open reduction & internal fixation of spiral fracture of tibia and fibula by syndismotic screw,1,supplies
+423365,open reduction & internal fixation of supracondyler fracture humerus,1,procedure
+423366,open reduction & internal fixation or partial or total excision,1,procedure
+423367,open reduction & internal fixation or partial or total excision patella,1,procedure
+423368,open reduction & internal fixtion of knee(double plates,1,supplies
+423369,open reduction &' internal fixation of mtacarpal / or metatarsal bones,1,imaging
+423370,open reduction + fixation maxilla commonuted,1,procedure
+423371,open reduction + int. fixation,1,procedure
+423373,open reduction + k-wire fixation,1,supplies
+423374,open reduction + k.wires for fixation,1,procedure
+423375,open reduction -internal fixation (long bones,1,imaging
+423376,open reduction and 2lag screws fixation,1,supplies
+423377,open reduction and fixation of ankle fractures,1,procedure
+423381,open reduction and i.f of serparated epiphysis of rad. and ulna,1,imaging
+423382,open reduction and i.f of serparated epiphysis tibia and fibula,1,procedure
+423383,open reduction and interlocking nailing,1,procedure
+423384,open reduction and internal fixation (distal humerus) - 1 day,1,procedure
+423385,open reduction and internal fixation (distal humerus) - 1day pkg,1,procedure
+423386,open reduction and internal fixation (orif) without implant? - long bone unilateral,1,imaging
+423387,open reduction and internal fixation (orif) without implant? - small bone unilateral,1,imaging
+423388,open reduction and internal fixation (proximal humerus) - 1day pkg,1,procedure
+423389,open reduction and internal fixation (proximal humerus)-1day pkg,1,procedure
+423390,open reduction and internal fixation (shaft of humerus) - 1day pkg,1,procedure
+423391,open reduction and internal fixation (shaft of humerus)-1day pkg,1,procedure
+423392,open reduction and internal fixation both bone forearm fracture,1,imaging
+423393,open reduction and internal fixation for comminuted malunited fractures of temur tibia and humerus,2,procedure
+423394,open reduction and internal fixation for comminuted / malunite - 7 days pkg,1,procedure
+423395,open reduction and internal fixation for comminuted /malunited fractures of femur tibia or humerus,1,procedure
+423396,open reduction and internal fixation for comminuted /malunited fractures of femur tibia or humerus (price is without plates & screws,1,supplies
+423397,open reduction and internal fixation for comminuted /malunited fractures of temur tibia and humerus,2,procedure
+423398,open reduction and internal fixation for comminuted or -malunited frac,1,procedure
+423399,open reduction and internal fixation for fractures of the radius (price is without plates & scowrs,1,supplies
+423400,open reduction and internal fixation for fractures of the radius (price is without plates & screws,1,supplies
+423401,open reduction and internal fixation for fractures of the radius (price is without platesandscowrs,1,procedure
+423402,open reduction and internal fixation for fractures of the radius with implant,1,supplies
+423403,open reduction and internal fixation for fractures of the radius with screws and plates- (p.d,1,supplies
+423404,open reduction and internal fixation for fractures of the radius with screws plates,2,supplies
+423405,open reduction and internal fixation for fractures of the radius with screws plates (excluding impla,1,supplies
+423406,open reduction and internal fixation for metatarsal bone,1,imaging
+423407,open reduction and internal fixation for recent and old neglected fractures shoulder dislocation and,2,procedure
+423408,open reduction and internal fixation for recent and old neglected fractures shoulder dislocation and hip joints (price is without plates & screws,1,supplies
+423409,open reduction and internal fixation fracture neck femur,1,procedure
+423410,open reduction and internal fixation long bone upper limb (adult,1,imaging
+423411,open reduction and internal fixation of fracture suprecondylar humerus /femure including implant,1,supplies
+423412,"open reduction and internal fixation of fracture,dislocation",1,procedure
+423413,"open reduction and internal fixation of fracture,dislocation - 5 days pkg",1,procedure
+423414,open reduction and internal fixation of radial head - 2 days,1,procedure
+423415,open reduction and internal fixation of scaphoid fracture,1,procedure
+423416,open reduction and internal fixation or partial/total excisi,1,procedure
+423417,open reduction and internal fixation or partial/total excision of pattal (price is without plates &,1,supplies
+423418,open reduction and internal fixation patella,1,procedure
+423419,open reduction and internal fixation small bones of hand or foot,1,imaging
+423420,open reduction and nailing/dhs/dcs,1,procedure
+423421,open reduction and plating of fractures,1,procedure
+423422,open reduction anf internal fixation or partial/total excision of patella,1,procedure
+423423,"open reduction disloction of the ankle, wrist, and elbow",1,procedure
+423424,open reduction fibula,1,procedure
+423425,open reduction for fracture dislocation,1,procedure
+423426,open reduction for fracture dislocation of ankle wrist and elbow,3,procedure
+423427,"open reduction for fracture dislocation of ankle, wrist and elbow",3,procedure
+423428,open reduction for fracture dislocation of elbow,1,procedure
+423429,open reduction for fracture dislocation of the ankle. wrist or elbow,1,procedure
+423430,open reduction for fracture dislocation or ankle or wrist or elbow,1,procedure
+423431,open reduction for pelvic fracture,1,procedure
+423432,open reduction fracture zygoma commnuted,1,procedure
+423433,open reduction hip dislocation,1,procedure
+423434,open reduction internal fixation (orif) tibia or femur (plate,1,supplies
+423435,open reduction internal fixation calcaneus bone,1,imaging
+423436,open reduction internal fixation distal fibula fracture,1,procedure
+423437,open reduction internal fixation humerus,2,procedure
+423438,open reduction internal fixation of dislocation handf under ga,1,procedure
+423439,open reduction internal fixation of fibula or malleolus under ga,1,procedure
+423440,open reduction intra-oral ant,1,procedure
+423441,open reduction intra-oral int,1,procedure
+423442,open reduction intra-oral post,1,procedure
+423443,open reduction joint dislocation,1,procedure
+423444,open reduction k-wire ( two ) fingers or metacarpals under g.a,1,supplies
+423445,open reduction k-wire fixation - finger or metacarpal under g.a,1,supplies
+423446,open reduction k-wire fixation or flexible nail of dislocated wrist one bone,1,imaging
+423447,open reduction k-wire fixation salters osteotomy & application of hip spica-2days pkg,1,supplies
+423448,open reduction k.wire pinning fixatio,1,supplies
+423449,open reduction of # w/ int. fixation pelvis/acetab->c79.39,1,procedure
+423450,open reduction of # w/ internal fixation patella - 2 day pkg,1,procedure
+423451,open reduction of #w/ int. fixation phalanges of,1,procedure
+423452,open reduction of #w/ int. fixation phalanges of ->c79.37,1,procedure
+423453,open reduction of ankle subluxation,1,procedure
+423454,open reduction of bone with k wiring (subracondylar humeral or any other side) - 1day pkg,1,imaging
+423455,open reduction of bone with k wiring (subracondylar humeral or any other side)-1day pkg,1,imaging
+423456,open reduction of cdh & cast,1,supplies
+423457,open reduction of congenital deformity of hip,1,procedure
+423458,open reduction of congenital hip dislocation,1,procedure
+423459,open reduction of ddh + adductor tenotomy + salter (unilateral,1,procedure
+423460,open reduction of dislocated finger or t,1,procedure
+423461,open reduction of dislocated finger or toe joint,1,procedure
+423462,open reduction of dislocated finger or toe joints,3,procedure
+423463,open reduction of dislocated finger or toe joints - 2 days,1,procedure
+423465,open reduction of dislocated finger or toe joints. - pkg 3 days,1,procedure
+423466,open reduction of dislocation - hand / foot joints ( up to 2 days package,1,procedure
+423467,open reduction of dislocation big joint,1,procedure
+423468,open reduction of dislocation of clavicle,1,procedure
+423469,open reduction of dislocation of elbow with internal fixation,1,procedure
+423470,open reduction of dislocation of foot & toe,1,procedure
+423471,open reduction of dislocation of foot & toe->c79.88,1,procedure
+423472,open reduction of dislocation of knee->c79.86,1,procedure
+423473,open reduction of dislocation of shoulder (putti patt / bristow) - 2 day pkg,1,procedure
+423474,open reduction of dislocation of talus with internal fixation,1,procedure
+423475,open reduction of dislocation of toe,1,procedure
+423476,open reduction of fracture / dislocation of spine with segmental internal fixation - 12 days pkg,1,procedure
+423477,open reduction of fracture / dislocation of spine with spinal cord involvement with segmental internal fixation - 12 days pkg,1,procedure
+423478,open reduction of fracture dislocation ankle- wris,1,procedure
+423479,open reduction of fracture of ankle,1,procedure
+423480,open reduction of fracture of ankle w/int.fix,1,procedure
+423481,open reduction of fracture of ankle with internal fixation of diastasi,1,procedure
+423482,"open reduction of fracture of ankle with internal fixation, 3 2 of dia",1,procedure
+423483,open reduction of fracture of distal humerus,1,procedure
+423484,open reduction of fracture of distal radius with internal fixation,1,procedure
+423485,open reduction of fracture of distal ulna with internal fixation,1,procedure
+423486,open reduction of fracture of femur ( 14 days,1,procedure
+423487,open reduction of fracture of femur with internal fixation,1,procedure
+423488,open reduction of fracture of femur with internal fixation-2d,1,procedure
+423489,open reduction of fracture of humerus with internal fixation unilateral (implants included,1,supplies
+423490,open reduction of fracture of metacarpus with internal fixation,1,procedure
+423491,open reduction of fracture of metatarsus with internal fixation,1,procedure
+423492,open reduction of fracture of middle phalanx of hand with internal fix,1,procedure
+423493,open reduction of fracture of olecranon with internal fixation,1,procedure
+423494,open reduction of fracture of pelvis with internal fixation of anterio,1,procedure
+423495,open reduction of fracture of radial head or neck with internal fixati,1,procedure
+423496,open reduction of fracture of shaft of humerus with internal fixation,1,procedure
+423497,open reduction of fracture of shaft of radius and ulna with internal f,1,procedure
+423498,open reduction of fracture of shaft of radius with internal fixation,1,procedure
+423499,open reduction of fracture of shaft of tibia,1,procedure
+423500,open reduction of fracture of shaft of ulna with internal fixation,1,procedure
+423501,"open reduction of fracture of tarsus, unilateral",1,procedure
+423502,open reduction of fracture of tibia with internal fixation unilateral (implants included,1,supplies
+423503,open reduction of fracture tibia/fibula/radius/ulna/humerus with internal fixati,1,procedure
+423504,open reduction of fracture with internal fixation long bone,1,imaging
+423505,open reduction of fracture with internal fixation short bone,2,imaging
+423506,open reduction of fractured mandible or maxilla,1,procedure
+423507,open reduction of fractured nose,1,procedure
+423508,open reduction of hip + salter or femoral osteotomy - 5 days pkg,1,procedure
+423509,open reduction of hip without pelvic osteotomy-2days pkg,1,procedure
+423510,open reduction of injury,1,procedure
+423511,open reduction of internal fix of pelvic or acetabulam ( anterior or posterior)-10 days pkg,1,procedure
+423512,open reduction of malar & zygomatic # (simple #)->c76.72,1,procedure
+423513,open reduction of maxillary # (comminuted)->c76.74-a,1,procedure
+423514,open reduction of meta carpal / meta tarsal bone,1,imaging
+423515,open reduction of metatarnasal bones,2,imaging
+423517,open reduction of metatarsal bone,1,imaging
+423518,open reduction of metatarsal bones,1,imaging
+423519,open reduction of metatarsal bonesbupa,1,procedure
+423521,open reduction of orbital fracture - mesh price included (maxillo,1,supplies
+423522,open reduction of separated epiphysis (femur) w/ or w/o internal fixation - 2 day pkg,1,procedure
+423523,open reduction of separated epiphysis(femur)w/ or w/o int. fixati- package,1,procedure
+423524,open reduction of# w/ int,1,procedure
+423525,open reduction of# w/ int. fixation patella ->c79.39-a,1,procedure
+423526,open reduction of#w.int.fix.(orif) humerus->c79.31,1,procedure
+423527,open reduction of#w.int.fix.(orif) tibia&fibula,1,procedure
+423528,open reduction of#w.int.fix.(orif) tibia&fibula->c79.36,1,procedure
+423529,open reduction of#w.int.fix.(orif)carpal&metacarp.->c79.33,1,procedure
+423530,open reduction of#w.int.fix.(orif)carpal&metacarpal,1,procedure
+423531,open reduction phalynx,1,procedure
+423532,open reduction plate & screw ( one ) finger or metacarpal under g.a,1,supplies
+423533,open reduction plate & screw ( one ) finger or metacarpal under g.a w/o material,1,supplies
+423534,"open reduction w.i.f of acute or chronic shoulder , hip fracture/ dislocation",1,procedure
+423535,open reduction w/int fixation at clavical,1,procedure
+423536,open reduction w/int. fixation of fracture patella,1,procedure
+423537,open reduction w/int. fixation of malunion or non union fracture,1,procedure
+423538,open reduction w/int.fix of fracture dislocation of shoulder/elbow (with implant,1,supplies
+423539,open reduction w/int.fix of fracture dislocation of small joints (with implant,1,supplies
+423540,open reduction w/int.fixation of fracture acetabulum w/osteotomy,1,procedure
+423541,open reduction w/int.fixation of fracture dislocation of shoulder/elbow,1,procedure
+423542,open reduction w/int.fixation of fracture dislocation of small joints,2,procedure
+423544,open reduction w/int.fixation of fracture femur,1,procedure
+423545,open reduction w/int.fixation of fracture femur with interlocking,1,procedure
+423546,open reduction w/int.fixation of fracture foot/ankle,1,procedure
+423547,open reduction w/int.fixation of fracture foot/ankle (with implant,1,supplies
+423548,open reduction w/int.fixation of fracture humerous,1,procedure
+423549,open reduction w/int.fixation of fracture neck femur with (dhs/dcs,1,procedure
+423550,open reduction w/int.fixation of fracture pelvis w/osteotomy,1,procedure
+423551,open reduction w/int.fixation of fracture tibia/fibula,1,procedure
+423552,open reduction w/int.fixation of fracture tibia/fibula (with implant,1,supplies
+423553,open reduction w/int.fixation of fracture wrist/hand,1,procedure
+423554,open reduction w/int.fixation of fracturee radius/ulna/elbow,1,procedure
+423555,open reduction w/int.fixation of fracturee radius/ulna/elbow (with implant,1,supplies
+423556,open reduction w/int.fixation of simple fracture pelvis,1,procedure
+423557,open reduction w/o internal fixation->c79.2,1,procedure
+423558,open reduction with internal fixation,1,procedure
+423559,open reduction with internal fixation for fracture of radius with screw & plates (implant not included,1,supplies
+423560,"open reduction and if of long bone ecxept fracture neck, femur, torch, spine fracture- (p.d",1,imaging
+423561,open reduction and internal fixation of mtacarpal / or metatarsal bones,1,imaging
+423562,open reduction& internal fixation (orif) of fractuer - clavicle (implants not included,1,supplies
+423563,open reduction& internal fixation (orif) of fractuer - distal radius - extra - articular(implants not included,1,supplies
+423564,open reduction& internal fixation (orif) of fractuer - distal radius -intra - articular (2 fragment)(implants not included,1,supplies
+423565,open reduction& internal fixation (orif) of fractuer - one metacarpal - fixation by k. wires (implant not included,1,supplies
+423566,open reduction& internal fixation (orif) of fractuer - distal humerus - intra - articular(implants not included,1,supplies
+423567,open reduction& internal fixation (orif) of fractuer - distal humerus - lateral condyl in child(implants not included,1,supplies
+423568,open reduction& internal fixation (orif) of fractuer - distal humerus - supracondylar in child(implants not included,1,supplies
+423569,open reduction& internal fixation (orif) of fractuer - head or neck of radius(implants not included,1,supplies
+423570,open reduction& internal fixation (orif) of fractuer - olicranon(implants not included,1,supplies
+423571,open reduction& internal fixation (orif) of fractuer - one finger phalanx-fixation by k. wires,1,supplies
+423572,open reduction& internal fixation (orif) of fractuer - one finger phalanx-fixation by k. wires (implant not included,1,supplies
+423573,open reduction& internal fixation (orif) of fractuer - proximal humerus - 2 parts fracture(implants not included,1,supplies
+423574,open reduction& internal fixation (orif) of fractuer - proximal humerus - 3 part fracture(implants not included,1,supplies
+423575,open reduction& internal fixation (orif) of fractuer - shaft humerus - lateral approach(implants not included,1,supplies
+423576,open reduction& internal fixation (orif) of fractuer - shaft humerus - posterior approach(implants not included,1,supplies
+423577,open reduction& internal fixation (orif) of fractuer - shaft radius and ulna(implants not included,1,supplies
+423578,open reduction& internal fixation (orif) of fractuer - one finger phalanx-fixation by mini- plate(implants not included,1,supplies
+423579,open reduction& internal fixation (orif) of fractuer - proximal femur -intertrochantric femur(implants not included,1,supplies
+423580,open reduction& internal fixation (orif) of fractuer - shaft femur -fixation by plate(implants not included,1,supplies
+423581,open reduction&internal fixation for com,1,procedure
+423582,open reduction+internal fixation long bones,1,imaging
+423583,open reduction+t.o.w. fracture mandible simple,1,procedure
+423584,"open reduction, screw kwire fix. medial+lateral malleous",1,supplies
+423585,"open reduction, screw kwire fix. mediallateral malleous",1,supplies
+423586,open reduction-compound unilat. fracture,1,procedure
+423587,open reduction/internal fixation-fracture screw plates,2,supplies
+423588,open release of the knee or elbow for chronic stiff - 5days pkg,1,procedure
+423589,open release of the knee or elbow for chronic stiff -4days pkg,1,procedure
+423590,open renal biopsy,1,procedure
+423591,open repair of ankle joint ligament->c81.49,1,procedure
+423592,open repair of ankle ligament,1,procedure
+423593,open repair of diaphragmatic hernia,2,procedure
+423595,open repair of incisional or ventral hernia requiring mesh,1,supplies
+423596,open repair of intra-articular ligament nec,1,procedure
+423597,open repair of lcl,1,procedure
+423598,open repair of lcl (implant not included,1,supplies
+423599,open repair of mcl,1,procedure
+423600,open repair of mcl (implant not included,1,supplies
+423601,open repair of multiple ligaments nec,1,procedure
+423602,open repair of semilunar cartilage,1,procedure
+423603,open repair of ventral hernia,1,procedure
+423604,open rhinoplasty,1,procedure
+423605,open rhinoplasty >c21.80,1,procedure
+423606,open rhinoplasty->c21.80,1,procedure
+423607,open right hemicolectomy for colon cancer - 8 days pkg,1,procedure
+423608,open rotator cuff repair,1,procedure
+423609,open rotator cuff. repair,2,procedure
+423610,open rotator cuff. repair including implant,1,supplies
+423611,open salpingectomy for pyosalpinx / hydr,2,procedure
+423612,open salpingo-oophorectomy,1,procedure
+423613,"open septorhinoplasty, 1day pkg",1,procedure
+423614,open shoulder stabilization - 1day pkg,1,other
+423615,open small abscess,1,procedure
+423616,open small obscess under local anaesth,1,other
+423617,open st. septo-rhinoplasty (tip work,1,procedure
+423618,open stabilization recurrent shoulder dislocation-2 days pkg,1,procedure
+423619,open suction,1,supplies
+423620,open surgery excision of bone fragment-1d,1,imaging
+423621,open surgery of recurrent dislocation of shoulder,1,procedure
+423622,open surgical reduction of dislocated shoulder,1,procedure
+423623,open surgical repair of recent tear at big joints,1,procedure
+423624,open surgical repair of ruptured abdominal aortic aneurysm with bifurcated graft,1,procedure
+423625,open surgical repair of tear in patellar tendon / achilles tendon (with implant,1,supplies
+423626,open surgical repair of tear in patellar tendon or achilles tendon,1,procedure
+423627,"open surgical stabilisation of patella, including soft tissue tendon transfer or",1,procedure
+423628,open synovectomy,2,procedure
+423629,"open tenotomy of foot with tenoplasty, bilateral",1,procedure
+423630,"open tenotomy of foot with tenoplasty, unilateral",1,procedure
+423631,"open tenotomy, not elsewhere classified, unilateral",1,procedure
+423632,"open tenotomy, not elsewhere classified, unilateralbupa",1,procedure
+423633,"open tracheostomy, temporary",1,procedure
+423634,open treatment of acetabular fracture(s) involving anterior or posteri,1,other
+423635,"open treatment of acromioclavicular dislocation, acute or chronic",2,procedure
+423636,"open treatment of acromioclavicular dislocation, acute or chronic;with",1,procedure
+423637,open treatment of acute or chronic elbow dislocation,1,procedure
+423638,open treatment of acute shoulder dislocation,1,procedure
+423639,"open treatment of bimalleolar ankle fracture, with or without internal",1,other
+423640,"open treatment of calcaneal fracture, with or without internal or exte",1,other
+423641,"open treatment of carpal scaphoid (navicular) fracture, with or withou",1,other
+423642,"open treatment of carpometacarpal dislocation, other than thumb; with",1,procedure
+423643,"open treatment of carpometacarpal fracture dislocation, thumb (bennett",1,procedure
+423644,"open treatment of clavicular fracture, with or without internal or ext",1,other
+423645,open treatment of complicated mandibular fracture by multiple surgical,1,procedure
+423646,"open treatment of distal radial fracture (eg, colles or smith type) or",1,other
+423647,"open treatment of distal radioulnar dislocation, acute or chronic",2,procedure
+423648,"open treatment of femoral fracture, proximal end, neck, internal fixat",1,other
+423649,"open treatment of femoral shaft fracture, with or without external fix",1,other
+423650,"open treatment of greater humeral tuberosity fracture, with or without",1,other
+423651,"open treatment of humeral condylar fracture, medial or lateral, with o",1,other
+423652,"open treatment of humeral shaft fracture with plate/screws, with or wi",1,supplies
+423653,"open treatment of humeral supracondylar or transcondylar fracture, wit",1,other
+423654,"open treatment of interphalangeal joint dislocation, with or without i",1,procedure
+423655,open treatment of lunate dislocation,1,procedure
+423656,"open treatment of medial malleolus fracture, with or without internal",1,other
+423657,"open treatment of metacarpal fracture, single, with or without interna",1,other
+423658,"open treatment of metatarsal fracture, with or without internal or ext",1,other
+423659,"open treatment of metatarsophalangeal joint dislocation, with or witho",1,procedure
+423660,"open treatment of patellar fracture, with internal fixation and/or par",1,procedure
+423661,open treatment of periarticular fracture and/or dislocation of the elb,1,procedure
+423662,"open treatment of phalangeal shaft fracture, proximal or middle phalan",1,other
+423663,"open treatment of proximal fibula or shaft fracture, with or without i",1,other
+423664,open treatment of proximal humeral (surgical or anatomical neck) fract,1,procedure
+423665,"open treatment of radial and ulnar shaft fractures, with internal or e",1,other
+423666,"open treatment of radial head or neck fracture, with or without intern",1,other
+423667,"open treatment of radial shaft fracture, with internal and/or external",1,other
+423668,"open treatment of radial shaft fracture, with or without internal or e",1,other
+423669,"open treatment of tibial fracture, proximal (plateau); unicondylar, wi",1,other
+423670,"open treatment of tibial fracture, proximal (plateau);bicondylar, with",1,other
+423671,"open treatment of tibial shaft fracture, (with or without fibular frac",1,other
+423672,"open treatment of ulnar shaft fracture, with or without internal or ex",1,other
+423673,"open treatment of distal radia fracture/ dislocation, includes internal fixation(700032",1,procedure
+423674,"open treatment, articular fracture, involving metacarpophalangeal/interphalangeal joint,w/wo int/extfixation, each",1,other
+423675,"open treatment, bimalleolar ankle fracture, w/wo int/ext fixation",1,procedure

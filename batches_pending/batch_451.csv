@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+681316,أشعه عاديه 4 صور plain x-ray 4 views,1,imaging
+681317,أشعه على الركبة اليسرى -- knee ap / lat,1,imaging
+681318,أشـعة الركبـة - 3 أوضاع,1,other
+681319,أميليز -- amylase,1,lab_test
+681321,أنزيم قلب cpk,1,lab_test
+681322,أنزيم قلب cpk-mb,1,lab_test
+681323,أنزيم كبد -- gamagt( gammagl utamate trasf,1,other
+681324,أنيميا المنجلية ---sickling cell,1,other
+681325,إبرة بالوريد,1,other
+681326,إزالة إنفراز شعري rubbing lash,1,other
+681327,إزالة الجير - الموعد الأول,1,other
+681328,إزالة الجير - الموعد التابع,1,other
+681329,إزالة جسم غريب من الأذن,1,other
+681330,إزالة رواسب جيرية 2,1,other
+681331,إزالة ظفر ملتصق - injrowing toe nail la,1,supplies
+681332,إزالة غرز جراحية removal of stiches,1,procedure
+681333,إزالة كيس دهني - excision of lipoma /sebacous cyst neurofibroma,1,procedure
+681334,إستئصال كامل للجيوب بالمنظار,1,other
+681335,إستراديول --- oestrodial,1,other
+681336,إصلاح الأوتار المتمزقة,1,other
+681337,إعادة علاج عصب 3 قنوات قيمة مضافة للأسعار السابقة re-treatment,1,other
+681338,إعادة علاج عصب قناة واحدة قيمة مضافة لكل الأسعار السابقة re-treatment,1,other
+681339,إف0 إس 0إتش --- f s h -follicule stimulating hormone,1,lab_test
+681340,ا h.pylori ag,1,lab_test
+681341,ا1ختبار البروتين المتفاعل c r p,1,lab_test
+681343,اultrasound,1,imaging
+681344,ابراة وريد,1,other
+681346,ابرة الرفين 10 مج,1,other
+681359,ابرة ديكساميثسون 8 مج,1,other
+681383,ابره عضل,2,other
+681386,اتش بي أي 1 سي,1,other
+681388,اجاوت 80 ملج,1,other
+681389,اجراء العمليات البسيطة,1,other
+681390,اجسام الروماتويد,1,other
+681391,اجسام مضادة للتجلط lupus anticogulant,1,lab_test
+681392,اختبار الكزن للبروسيلا بالمصل/ brucella ab,1,lab_test
+681393,اختبار الكزن للسالمونيلا بالمصل/ widal test,1,lab_test
+681394,اختبار تراص البروسيلا,1,other
+681395,اختبار توكسوبلازماtoxo-igg,1,lab_test
+681396,اختبار حمل فيرست ستيب قلم,1,other
+681397,اخنبار r f,1,lab_test
+681399,ادول 500مجم 24قرص,1,other
+681400,ازالة الترسبات - العميقه_oh therapy - severe,1,physiotherapy
+681401,ازالة الترسبات العميقه في اللثة مع تنعيم لكل فك_deep scaling subging proph /arch,1,dental
+681402,ازالة الترسبات مع تنعيم الاسنان لكل فك بسيط_scaling prophy - simple /arch,1,dental
+681403,ازالة الترسبات مع تنعيم الاسنان لكل فك صعب_scaling prophy - severe /arch,1,dental
+681404,ازالة الترسبات مع تنعيم الاسنان لكل فك متوسط_scaling prophy - moderate /arch,1,dental
+681405,ازالة الرواسب الجيرية,1,other
+681406,ازالة ثالول جراحيا تحت مخدر,1,other
+681407,ازالة جسم غريب eye f.b,1,lab_test
+681408,ازالة ظفرremoval of nail,1,supplies
+681409,ازالة غرزة,1,other
+681410,ازالة غرزة واحده,1,other
+681411,ازالة مسمار لحمي (الزوائد)- extraction of verrucae,1,dental
+681412,ازاله جسم غريب من القرنية,1,other
+681413,ازاله زوائد باللثة (قص لثة,1,other
+681414,ازيماك 500 مجم 3 حبة ازيثرومايسين,1,other
+681415,اس جى او تى / sgot,1,lab_test
+681416,اس جى بى تى / sgpt,1,lab_test
+681417,اسبيرين بروتكت 100 ملج 60 قرص,1,other
+681418,استئصال اظفر غائر,1,other
+681419,استئصال الزوائد اللحمية,1,other
+681420,استئصال ظفر ناشب,1,other
+681421,استئصال ظفر ناشز - excision of intgrowing nail,1,supplies
+681422,استئصال غده دهنيه صغيره removal of small lipoma,1,procedure
+681423,استئصال كيس دهنى,1,other
+681424,استئصال كيس دهني,1,other
+681425,استئصال كيس شحمي دهني صغير,1,other
+681426,استئصال كيسة مصلية تحت التخدير الموضعى,1,other
+681427,استخراج جسم غريب - removal of f b superficial,1,procedure
+681428,استخراج جسم غريب من الأنف,1,other
+681429,استخراج جسم غريب من القرنية corneal,1,other
+681430,استشاري زائر,1,other
+681431,استشاريconsultation consultant / كشف استشارى - ية,1,consultation
+681432,استنشاق أكسيجين (oxygen inhalation with neubi 2h,1,supplies
+681433,استنشاق اكسجين oxygen inhalation,1,supplies
+681435,استنشاق اوكسجين نصف ساعه,1,other
+681436,استنشاق بخار فنتولين وبلمبوكورت,1,other
+681438,استنشاق فنتولين,2,other
+681442,استنصال زوائد جلدية -extraction of verrucae,1,dental
+681443,استهلاك اوكسجين نصف ساعه,1,other
+681444,اسطوانة تحت الركبة (داينا)-للكبارc,1,other
+681445,اشعة اسنان,1,imaging
+681446,اشعة اسنان عادية -dental x- ray,1,imaging
+681447,اشعة الجمجمة 3 أوضاع,1,imaging
+681448,اشعة الحوضbdomena f.-1,1,imaging
+681449,اشعة الفقرات العنقية 4 أوضـاع,1,imaging
+681450,اشعة المهبل نسا وولاده,1,imaging
+681451,اشعة اليـد - 3 أوضـاع,1,imaging
+681452,اشعة اليـد - 4 أوضـاع,1,imaging
+681453,اشعة بالموجات الصوتية على البطن كله abdomen u/s,1,imaging
+681454,اشعة بالموجات الصوتية على الحمل,1,imaging
+681455,اشعة بالموجات الصوتية على الحمل/ الرحم / a n c,1,imaging
+681456,اشعة بالموجات الصوتية على عضو واحد,1,imaging
+681457,اشعة بالموجات الوتية على الرحم,1,imaging
+681458,اشعة بانوراما,1,imaging
+681459,اشعة بانورامية على الاسنان/ dental panoramic x ray,1,imaging
+681460,اشعة بنوراما panoramic x-ray,1,imaging
+681461,اشعة تلفزيونية 2d على الحمل (obs,1,imaging
+681462,اشعة تلفزيونية عادية,1,imaging
+681463,اشعة تلفزيونية علي البطن و الحوض,1,imaging
+681464,اشعة تلفزيونية للبطن 1,1,imaging
+681465,اشعة تلفزيونية للجنين,1,imaging
+681466,اشعة داخل الفم - واحدة,1,imaging
+681467,اشعة سنية صغيرة,1,imaging
+681468,اشعة سونار علي المسالك البولية,1,imaging
+681469,اشعة صوتيه علي الكلي والمسالك البولية,1,imaging
+681470,اشعة صوتيه مهبلية,1,imaging
+681471,اشعة عادية اسنان,1,imaging
+681472,اشعة عادية الصدرية - dorsal spine ( ap+ lat,1,imaging
+681473,اشعة عادية على أى جزء بالجسم 2 فيلم /x ray ar/l,1,imaging
+681474,اشعة عادية على أى جزء بالجسم فيلم واحد/ x ray ap,1,imaging
+681475,اشعة عادية على الاسنان / dental x ray,1,imaging
+681476,اشعة عادية علي اصابع القدم - toes (ap+obli,1,imaging
+681477,اشعة عادية علي الاصابع - fingers (ap+lat,1,imaging
+681478,اشعة عادية علي البطن واقف -erect abdomen,1,imaging
+681479,اشعة عادية علي الترقوة - clavicle (ap+lat,1,imaging
+681480,اشعة عادية علي الرأس - skull ( pa + lat,1,imaging
+681481,اشعة عادية علي الزورقي - scaphoid bone,1,imaging
+681482,اشعة عادية علي الساعد - forearm (ap+lat,1,imaging
+681483,اشعة عادية علي الساق- leg (ap+lat,1,imaging
+681484,اشعة عادية علي العضد - haumerus (ap+lat,1,imaging
+681485,اشعة عادية علي العقب بالقدم -calcaneous (lat+axial,1,imaging
+681486,اشعة عادية علي المرفق- elbow( ap+lat,1,imaging
+681487,اشعة عادية علي اليد - hand ( ap+lat,1,imaging
+681488,اشعة عادية علي عظم الفخذ -femur (ap+lat,1,imaging
+681490,اشعة عادية علي مفصل الرسغ- wrist joint (ap+lat,1,imaging
+681491,اشعة عادية علي مفصل القدم- ankle joint (ap+lat,1,imaging
+681492,اشعة علي الحوض - pelvis ( ap+lat,1,imaging
+681493,اشعة علي فقرات العنق- c-spine (ap+lat,1,imaging
+681494,اشعة للساعد وضعيتين,1,imaging
+681495,اشعة للعضد,1,imaging
+681496,اشعة مسالك بوليهplain kub f.2,1,imaging
+681497,اشعه اسنان x,1,other
+681498,اشعه البطن,1,other
+681499,اشعه المهبل,1,other
+681500,اشعه بانوراما,1,other
+681501,اشعه بانوراما للاسنان,1,other
+681502,اشعه تلفزيونيه على كامل البطن والحوض,1,other
+681503,اشعه سونار رباعي الابعادfour - dimensional sonar radiation,1,imaging
+681504,اشعه سينية على الركبتين,1,other
+681505,اشعه سينية على الركبه 2 صوره,1,other
+681506,اشعه سينية على الكاحل,1,other
+681507,اشعه سينية علي الجيوب الانفية,1,other
+681508,اشعه سينية علي القدم (2 صورة)ِ,1,other
+681509,اشعه عادية سطحين,1,other
+681510,اشعه على الاسنان x-ray i/o occlusal,1,imaging
+681511,اشعه على الفك,1,other
+681512,اشـعـة الرسـغ / 3 أوضــاع,1,other
+681513,اعادة علاج عصب 3 قنوات,1,other
+681514,اعادة علاج عصب قناة واحدة,1,other
+681515,اعادة معالجة عصب امامي,1,other
+681517,اكسجين + فنتولين,1,other
+681518,ال - اتش- l h,1,lab_test
+681519,البكتريا العقدية الرئوية المدمج -ع12شهراpcv,1,other
+681520,البوتاسييوم,1,other
+681521,التهاب الكبد بي hbsag,1,lab_test
+681522,التهاب كبدي (أ)2سنة-hepatities a 2 years,1,other
+681523,التهاب لثة متقدم - gum treatment,1,dental
+681524,الجراحه البسيطه للفم و الفكين,1,other
+681525,الحشو بأنواعه / composite - amalgam filling,1,dental
+681526,الحشو بأنواعه / fillings,1,other
+681527,الحصبة rubella igm or igg,1,lab_test
+681528,الحصبه الالمانيه أي جي ام rubella abs. ( screening )igm,1,lab_test
+681529,الحصبه الالمانيه أي جي جي rubella abs. ( screening )igg,1,lab_test
+681530,الحقن داخل الآفة للكورتيكوستيرويد,1,other
+681531,الختان أقل من سنة واحدة,1,other
+681532,الخلايا الشبكية - reticulocyte count,1,lab_test
+681535,الرفين امبول,1,other
+681536,الزهري vdrl /rpr,1,lab_test
+681537,الصوديوم,1,other
+681538,العامل الروماتويدي,1,other
+681539,العلاج الكهربائي للآفات الجلدية ، > = 15 افة,1,other
+681540,العمود الفقري العنقي - 2 منظر (صورة,1,other
+681541,الغاز الضاحك,1,other
+681542,الغرزة الواحدة -- multiple stiches,1,other
+681543,الفحص الطبي لرخصة القيادة,1,other
+681544,الفحص المجهرى لمسحة مهبلية/ vaginal swab,1,lab_test
+681545,الفصل الكهربائي للهيموجلوبين,1,other
+681546,القلع الجراحي لسن او ضرس,1,other
+681547,الكرياتينين,1,other
+681549,الموجات فوق الصوتية لمفصل الركبة,1,other
+681550,الهيموجلوبين السكرى,1,other
+681551,الهيموغلوبين المسكر,1,other
+681554,امبول الليرفين,1,other
+681557,امبول امينوفيلين,1,other
+681558,امبول اولفين,1,other
+681560,امبول برمبران,1,other
+681562,امبول بسكوبان,1,other
+681565,امبول حديدferrosac,1,other
+681566,امبول دايسينون,1,other
+681568,امبول ديكسا ميثازون,1,other
+681575,امبول فيروساك,1,other
+681577,امبول كورتيجين,1,other
+681578,امبول لازكس,1,other
+681583,اميبا في الدم,1,other
+681584,انتي كارديو ليبين anti cardio lipin ab,1,lab_test
+681585,انحلال بروتين كهربيpانحلال بروتين كهربيrotein elec,1,other
+681586,انزيم الترانس امينازgpt,1,other
+681587,انزيمات الكبد sgot,1,lab_test
+681588,انزيمات الكبد sgpt,1,lab_test
+681595,اوكسيجين (oxygen,1,supplies
+681598,اى زجاجة محلول بعد ذلك,1,other
+681599,اية اس او - حمي روماتيزمية -- a s o,1,lab_test
+681600,ايدز hiv 1&2 ab,1,lab_test
+681602,باراسيتامولparacetamol,1,other
+681603,بارودنتكس مضمضة 300 مل 828,1,other
+681604,بانادول سينوس,1,other
+681605,بانوراماpanoramic x-ray,1,imaging
+681606,بتر لب,2,other
+681607,بتر لب لسن لبني مع الحشو -- pulpotomy e filling,1,dental
+681613,بخار ادرينالين neb.adrialin,1,other
+681614,بخار اكسجين neb.oxygen,1,supplies
+681618,بخار فنتولين neb.venotlin,1,other
+681619,بذل للمفصل -joint aspiration,1,procedure
+681620,بذل للمفصلjoint aspiration,1,procedure
+681621,براز كامل --- stool r outine examination,1,lab_test
+681622,برجنا لولب نحاسي,1,other
+681625,برفلجان perflgan,1,other
+681628,بروفين 400 ملج 25 قرص,1,other
+681629,برولاكتين,1,other
+681631,بريموزان primosan,1,other
+681632,بزل مفصل تحت التخدير الموضعي,1,other
+681633,بس تحت الكوع - ديناكست - belowelbow cast (synth,1,supplies
+681634,بسكوبان امبول,1,other
+681635,بصاق للدرن -- sputum for a f b,1,lab_test
+681637,بنج موضعي (local anasethia,1,other
+681640,بوفيدين ماكسي سيبت,1,other
+681641,بول كامل --- urine analysis,1,lab_test
+681642,بولينا -- bun,1,lab_test
+681647,بيليروبين مباشر بالدم,1,other
+681648,بيمبران امبول,1,other
+681649,تاج ثمين مع بورسالين ( عدد واحد,1,other
+681650,تثبيت تاج,1,other
+681651,تثبيت تركيبة للسن,1,other
+681652,تجريف اللثة موضعى - gum treatment,1,dental
+681653,تجريف للجيب اللثوي,1,other
+681654,تجريف وتهذيب ظفر ناشب,1,other
+681655,تحليل c r p,1,lab_test
+681656,تحليل f s h,1,lab_test
+681657,تحليل ft4,1,lab_test
+681658,تحليل ha1c,1,other
+681659,تحليل l h,1,lab_test
+681660,تحليل t s h,1,lab_test
+681661,تحليل urea,1,lab_test
+681662,تحليل ldh,1,lab_test
+681663,تحليل البول العام,1,other
+681664,تحليل البولينا فى الدم/ blood urea,1,lab_test
+681665,تحليل الحمل الرقمى b-hcg,1,lab_test
+681668,تحليل الكوليسترول فى الدم/ s.cholestrol,1,lab_test
+681669,تحليل الكيرياتينين فى الدم/ s.creatinine,1,lab_test
+681670,تحليل الهيموجلوبين السكرى / haic| haic,1,other
+681671,تحليل براز,1,other
+681672,تحليل براز - stool analysis,1,lab_test
+681673,تحليل براز/ stool analysis,1,lab_test
+681674,تحليل بروستاتا psa (free) or ( total,1,lab_test
+681675,تحليل بول / urine analysis,1,lab_test
+681676,تحليل بول - urine analysis,1,lab_test
+681677,تحليل بول للحمل,1,other
+681678,"تحليل بي سي ار النوعي لاتهاب الكبد بي hbv,pcr ,qualitative",1,lab_test
+681679,تحليل جرثومة المعدة,1,other
+681680,تحليل حمل pregnancy,1,other
+681681,تحليل حمل بالدم / serum pregnanct test,1,lab_test
+681682,تحليل حمل فى الدم,1,other
+681683,تحليل دم للزهريtpha,1,other
+681684,تحليل دهون ثلاثية / s.triglesride,1,other
+681685,تحليل دهون ثلاثيةs.tg,1,other
+681686,تحليل دهون حميدة s.hdl,1,lab_test
+681687,تحليل دهون خبيثة s.l d l,1,lab_test
+681688,تحليل سرعة الترسيب,1,other
+681689,تحليل سكر صائم/ f b s,1,lab_test
+681690,تحليل سكر عشوائى/ r b s,1,lab_test
+681691,تحليل سكر فوري - glucometer sugar test,1,lab_test
+681692,تحليل صوديوم وبوتاسيوم - electroly tes,1,other
+681693,تحليل صوره دم كاملة,1,other
+681694,تحليل غدة --- t 4,1,other
+681695,تحليل غدة --- t 3,1,other
+681696,تحليل غدة --- thyroid stimulating hormone t s h,1,lab_test
+681697,تحليل فصيلة الدم,1,other
+681699,تحليل كيرياتينين creatinine,1,lab_test
+681700,تحليل نزيف -- fibrinogen,1,lab_test
+681701,تحليل نسبة هيموجلوبين,1,other
+681702,تحليل هليكوباكتر/ h.pylori test,1,lab_test
+681703,تحليل هورمون اف اس اتش/fsh,1,lab_test
+681705,تحميلات -- suppositories,1,other
+681708,تحويل من طب عام الى اخصائي,1,other
+681709,تحويل من طبيب عام لاخصائي,1,other
+681710,تخدير موضعي,1,other
+681711,تخديرعام,1,other
+681712,تخريم زمام,1,other
+681713,تخطيط القلب,1,other
+681714,تخطيط ضغط الأذن و المنعكس الركابي,1,other
+681715,تخطيط قلب,2,other
+681716,تخطيط قلب (e.c.g,1,lab_test
+681718,تخطيط قلب عادى/e.c.g,1,lab_test
+681719,تخطيط للقلب,1,other
+681720,تركيب بورسلين,1,other
+681721,تركيب رباط ضاغط لوثي مفصل,1,other
+681722,تركيب كريستالة,1,other
+681723,تركيب ماسة ذهب,1,other
+681724,تركيبة زيركون/zircon crown,1,dental
+681725,تستستيرون - testsoterone,1,other
+681726,تشقير حواجب 3 جلسات ( الشعر الوبرى,1,other
+681727,تصفيه كرياتنى creatinine clearance(24hours urine,1,lab_test
+681728,تصليح كسور سلاميات القدم / اليد - c.r. finger or toe & splint,1,supplies
+681729,تصوير الأنف بالفيديو,1,other
+681730,تصوير بالموجات الفوق صوتية للبطن و الحوض,1,other
+681731,تصوير بالموجات الفوق صوتية للحوض,1,other
+681732,تضميد الجرح,1,other
+681733,تضميد الجرح ، صغير,1,other
+681734,تطبيق مادة الفلورايد الوقائية -- flouride ttt,1,other
+681736,تطعيم تيتانوسvaccin titanos,1,other
+681737,تطعيم ضد الكزاز,1,other
+681739,تطعيمات اربع أشهر-vaccin/opv/dtp/hip/b,1,other
+681740,تطعيمات تسع شهور/measles mo/meningococcal 9 month,1,lab_test
+681745,تغطية اللب وحمايته بدون الحشو النهائي,1,other
+681746,تغيير جرح بسيط,1,other
+681747,تغيير جرح كبير,1,other
+681748,تغيير ضماد,1,other
+681749,تفريغ خراج - drainage of large abcess,1,procedure
+681750,تفريغ خراج داخلي,1,other
+681751,تقطيع عصب,1,other
+681752,تقييم علاج طبيعي / بوبا,1,other
+681753,تلبيس حروق صغيرة,1,other
+681754,تلبيس حروق كبيرة,1,other
+681755,تلميع أسنان,1,other
+681756,تلميع الاسنان,1,other
+681757,تلميع الاسنان مع ازاله الصبغات,1,other
+681758,تلميع حشوة فضية,1,other
+681759,تنظيف اذن بالشفط(ناحيه واحده,1,other
+681760,تنظيف اسنان scaling ( cleaning ) only,1,dental
+681761,تنظيف اسنان عادى,1,other
+681762,تنظيف اسنان مع ازالة التصبغات,1,other
+681763,تنظيف اسنان وتلميع scaling and polishing,1,dental
+681764,تنظيف اسنان,1,other
+681765,تنظيف الأذن تحت مخدر عام,1,other
+681766,تنظيف الأسنان للحالات البسيطة simple case scaling,1,dental
+681767,تنظيف الأسنان للحالات البسيطة مع التلميع simple case scaling & polishing,1,dental
+681768,تنظيف الاذنين - ear washing,1,procedure
+681769,تنظيف الاسنان,1,other
+681770,تنظيف الاسنان مع التلميع,1,other
+681771,تنظيف حرق جلدي - bum drainage,1,procedure
+681772,توبراديكس قطرة للعين 5مل,1,other
+681773,توتر طبلة الإذن,1,other
+681774,توكسوبلازما toxoplasma igm,1,lab_test
+681775,تيتانوس توكسايد (tetanus toxiod,1,other
+681776,تيفود - widal,1,lab_test
+681777,ثلاثي بكتيري -من 4الي 6 سنواتdtp,1,other
+681780,جاسيك 20 ملج 14 كبسوله,1,other
+681781,جبس اسطوانى للركبه - below knee cast (p.o.p,1,supplies
+681782,جبس تحت الركبه - جبسونا -below knee cast (p.o.p,1,supplies
+681783,جبس تحت الركبه - ديناكست - below knee cast (synth,1,supplies
+681784,جبس تحت الكوع (جبسونا) - below knee cast (p.o.p,1,supplies
+681785,جبس تحت الكوع للعظمه الذورقيه - below elbow cast (p.o.p,1,supplies
+681786,جبس فوق الركبه جبسونا - above knee cast (p.o.p,1,supplies
+681787,جبس فوق الكوع - جبسونا - above elbow cast (p.o.p,1,supplies
+681788,جبسplaster,1,supplies
+681789,"جبيرة ألمنيوم ورباط ضاغط لعلاج كسور الأصابع - alum. splint, creep bandage for fingers",1,supplies
+681790,جبيرة تحت المرفق (داينا )للاكبار,1,other
+681791,جبيرة فوق الكوعabove elbow slab,1,supplies
+681792,جبيرةتحت ركبهbelow knee slab,1,supplies
+681793,جبيرةفوق ركبهabove knee slab,1,supplies
+681794,جبيره المنيوم لسلاميات الاصبع -phalangeal alumimnum splint,1,supplies
+681795,جبيره تحت الركبه - below knee slab,1,supplies
+681796,جبيره تحت الكوع - below elbow slab,1,supplies
+681797,جبيره فوق الركبه - above knee slab,1,supplies
+681798,جبيره فوق الكوع - above elbow slab,1,supplies
+681799,جديري مائي - من 4 الي 6 سنوات varicella,1,other
+681800,جرثومة البراز h.pylori ag in stool,1,lab_test
+681801,جرثومة الرحم - toxopasa antibodies,1,lab_test
+681802,جرثومة المعدة helicobacter pylori test,1,lab_test
+681803,جرثومة المعدة بالتنفس h.pylori ab,1,lab_test
+681804,جرثومة معدة - h . pyloric ( helicobacter,1,lab_test
+681805,جرثومة معدة بجاز النفس urea breath test,1,lab_test
+681806,جرثومه القطط أي جي ام toxoplasma secreening - igm,1,lab_test
+681807,جرثومه القطط أي جي جي igg toxoplasma screening,1,lab_test
+681808,جسم غريب foreign body from eye,1,other
+681809,جسم مضاد أي ige - quantiative,1,lab_test
+681810,جلسة أكسجين,1,other
+681811,جلسة اكسجين/ oxygen set,1,supplies
+681812,جلسة اوكسيجين,1,other
+681814,جلسة بخار,1,other
+681815,جلسة بخار + فتولين كبارventolin neb,1,other
+681816,جلسة بخار - nebulizer steam,1,supplies
+681817,جلسة بخار -- nebulizer,1,supplies
+681818,جلسة بخار 1 ساعه,1,other
+681820,جلسة بخار فقط (0xygen,1,other
+681823,جلسة بخار/ ventolion neubilizer,1,other
+681824,جلسة ديرموجيت,1,other
+681825,جلسة علاج طبيعى - physiotherapy session,1,physiotherapy
+681826,جلسة علاج طبيعي,1,other
+681827,جلسة علاج طبيعي / بوبا,1,other
+681828,جلسة علاج طبيعي واحدة,1,other
+681829,جلسة علاج طبيعيphysiotherapy,1,physiotherapy
+681830,جلسة علاج طبيعيsitting of physiotherajsyl,1,other
+681831,جلسة غسيل كلي,1,other
+681833,جلسة واحدة علاج طبيعي,1,other
+681834,جلسه بخار او بلميكورت في الساعة neb/oxy.per hour,1,other
+681835,جلسه بخار بالاكسجينventolin set,1,other
+681836,جلسه بخارvaporation set,1,other
+681837,جلسه علاج طبيعي,1,other
+681838,جلسه فرديه علاج طبيعي200,1,other
+681839,جلوكوز 5% (glucose 5%,1,lab_test
+681840,جلوكوز 5% glucose,1,lab_test
+681841,جنبريد 50ملجم 30قرص,1,other
+681842,جهاز اكوشيك اكتيف جديد,1,other
+681843,جهاز تثبيث اصبع,1,other
+681844,جهاز ضغط اوميرون ساعد 2230,1,other
+681845,جهازتوليد اكسجىن,1,other
+681846,جينوكسيل ايكو فوم (ginoxil ecofoam,1,other
+681848,حشو أذن (ناحية,1,consultation
+681850,حشو املجم بسيط amalgum filling w/lining,1,dental
+681851,حشو املجم مع الوتد,1,other
+681852,حشو املجم مع تثبيتamalgam filling with pins,1,dental
+681853,حشو املقم لسطح واحد,1,other
+681854,حشو تجميلي بدون وتد,1,other
+681855,حشو تجميلي ثاني وتد,1,other
+681856,حشو سن لبنى كلاس فيل,1,other
+681857,حشو ضرس لبني --filling of milky tooth,1,dental
+681858,حشو ضوئيlight cure composite filling حشو كمبوزت,1,dental
+681859,حشو عصب قناة واحدة --root canal single canal,1,dental
+681860,حشو عصب قنوات متعددة - root canal multi canal,1,dental
+681861,حشو كمبوزايت فئة 2,1,other
+681862,حشو كمبوزيت أكثر من سطح -- composite filling more build up,1,dental
+681863,حشو كمبوزيت مع بناء للسن -- composite fillingwith build up,1,dental
+681864,حشو كومبوزيت - composite filling,1,dental
+681865,حشو كومبوزيت 2 سطح او اكثر,1,other
+681866,حشو ليزر مركب compound composite filling,1,dental
+681867,حشو مؤقت,1,other
+681868,حشو مؤقت + غطاءللعصب / dressing of ca(oh) 2,1,lab_test
+681869,حشو مملغم 2 سطح - amalgam filling two surface,1,dental
+681870,حشو مملغم 3 أسطح -- amalgam filling three surface,1,dental
+681871,حشو مملغم 4 اسطح -- amalgam filling four surface,1,dental
+681872,حشو مملغم سطح واحد -- amalgam filling one surface,1,dental
+681873,"حشوة أسنان بيضاء سطح واحد composite restoration ""one surface",1,dental
+681874,حشوة أسنان بيضاء سطح واحد composite restoration one surface,1,dental
+681875,"حشوة أسنان بيضاء سطحين composite restoration ""two surface",1,dental
+681876,حشوة أسنان بيضاء سطحين composite restoration two surface,1,dental
+681877,حشوة امالغم لسطح واحد_amalgam 1surface,1,dental
+681878,حشوة املجم سطح واحد amalgam filling,1,dental
+681879,حشوة املغم كبيرةcomplex amalgam filling,1,dental
+681880,حشوة بيضاء ثلاثة اسطح او كثر,1,other
+681881,حشوة بيضاء سطحين,1,other
+681882,حشوة بيضاء كمبوزيت,1,other
+681883,حشوة تجميلي,1,other
+681884,حشوة زجاجي,1,other
+681885,حشوة سن لبني جلاس ايونومر سطحين,1,other
+681886,حشوة فضية سطحين او اكثر,1,other
+681887,حشوة فلرايدketact fill,1,other
+681888,حشوة كومبزيت اماميه composite anterior,1,dental
+681889,حشوة كومبزيت خلفيه composite posterior,1,dental
+681890,حشوة مؤقتة,1,other
+681891,حشوة مؤقته_temporary restoration,1,dental
+681892,حشوة مركبة,1,other
+681893,حشوه اطفال بلاتين,1,other
+681894,حشوه اطفال زجاجى,1,other
+681895,حشوه بلاتين,1,other
+681896,حشوه تجميليه filli,1,other
+681897,حشوه تجميليه لبناء السن_tooth colored build -up,1,dental
+681898,حصبة ألماني - rubella antibodies,1,lab_test
+681899,حقتة وريد - خارجي (intrvenous,1,other
+681902,حقنة برفنجان,1,other
+681904,حقنة ديكسامثايزون,1,other
+681906,حقنة ليسبورين 2 جم,1,other
+681907,حقنه بالوريد,1,other
+681908,حقنه عضل intra muscular,1,other
+681909,حقنه مفصليه,1,other
+681915,حمل في البول -- test urine pregnancy,1,lab_test
+681916,حمل في الدم -- pregnancy test ( h c g ) blood,1,lab_test
+681917,حمى روماتزميه crp latex,1,lab_test
+681918,حمى روماتيزميه crp quantita tive,1,lab_test
+681919,حمي مالطية brucella,1,lab_test
+681920,خدمات أخرى بالاتفاق مع المريض,1,other
+681921,خدمة اعطاء مغذي,1,other
+681922,خدمة متابعة حمل مجانيه,1,other
+681923,خراج شرجي -- parianal abcess,1,other
+681924,"خلع أسنان لبنية ""لكل سن"" extraction of deciduous tooth",1,dental
+681925,خلع أسنان لبنية لكل سن extraction of deciduous tooth,1,dental
+681926,خلع اظفر غيرثابتext.of loose,1,other
+681927,خلع الاسنان الخلفيهposterior extraction,1,dental
+681928,خلع الجذور جراحيا,1,other
+681929,خلع امامي,1,other
+681930,خلع بسيط - simple extraction,1,dental
+681931,خلع بسيط simple ext.tooth /root,1,dental
+681932,خلع بسيط لسن واحد,1,other
+681933,خلع بسيط لسن واحد/ simple extraction,1,dental
+681934,خلع بسيط لضرس - simple extration,1,other
+681935,خلع جذر - بسيط,1,other
+681936,خلع جذور,1,other
+681937,خلع جذور ضرس extr.of reman . roots,1,other
+681938,خلع جذور للاسنان,1,other
+681939,خلع جذور وسن متكسر -- ext. of b . d amd,1,other
+681940,خلع جراحى لسن او ضرس,1,other
+681941,خلع جراحى لسن او ضرس/ surgical extraction,1,dental
+681942,خلع جراحي surgical extraction of impacted tooth,1,dental
+681943,خلع جراحي - surgicul ext,1,other
+681944,خلع جراحي بسيط,1,other
+681945,خلع جراحي لجذور متبقية بالفك - surgical ext . of r .r,1,procedure
+681946,خلع جراحي لسن مدفون,1,other
+681947,خلع جراحي لسن مطور surg ext.of imp/wisd t,1,other

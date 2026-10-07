@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+510587,removal f.b. (acc. to depth/f.b,1,procedure
+510588,removal f.b. deep under la,1,procedure
+510589,removal f.b. ear,1,procedure
+510590,removal f.b. corneal. superficial w/ dye,1,procedure
+510591,removal f.b.( cornea,2,procedure
+510592,removal f.b.nose,1,procedure
+510593,removal fb 1d,1,procedure
+510594,removal fb ear,1,procedure
+510595,removal fb ear - simple,1,procedure
+510596,removal fb in soft tissue nec unilateral,1,procedure
+510597,"removal fb in soft tissue nec, unilateral",1,procedure
+510598,removal fb nose - simple,1,procedure
+510600,removal foreign body (small,1,procedure
+510601,removal foreign body in the ear,2,procedure
+510602,removal foreign body in the nose,2,procedure
+510604,removal foreign body la,1,procedure
+510605,removal foreign body simple,1,procedure
+510606,removal foreign body large under la,1,procedure
+510607,removal foreign body under la,1,procedure
+510608,removal glandular cyst,1,procedure
+510611,removal intra-medullary na,1,lab_test
+510612,removal intra-medullary nail,1,supplies
+510614,removal nail l. a,1,supplies
+510616,removal of grommets,1,procedure
+510618,removal of ankle implant,1,supplies
+510619,removal of binign bone or soft tissue - large,1,imaging
+510620,removal of cbd/ercp stent p/d,1,supplies
+510621,removal of calculus first appointment-tawunya,1,procedure
+510622,removal of canine tooth surgically,2,dental
+510624,removal of cast ( adult,1,supplies
+510625,removal of cast ( children,1,supplies
+510627,removal of cervical suture under general anaesthesia,1,imaging
+510628,"removal of chalazian, multiple, different eyelid",1,procedure
+510629,"removal of chalazion, multiple, same eyelid",1,procedure
+510630,removal of conjunctiva cyst - large,1,procedure
+510634,removal of contrac.devce,1,procedure
+510635,removal of contraceptive implant,1,supplies
+510636,removal of cordal or laryngeal mass with histopathology p/d,1,lab_test
+510637,removal of corneal suture,1,supplies
+510639,removal of crown (each unit,2,dental
+510641,removal of cyst ??????? ??? ?? ?????,1,procedure
+510643,removal of cyst. large,1,procedure
+510644,removal of cyst. small,1,procedure
+510645,removal of dj stent under g.a,1,supplies
+510646,removal of deep f.b,1,procedure
+510647,removal of dental calculus & polishing,2,dental
+510648,removal of dental calculus& polishing,1,dental
+510649,removal of dj stent unde g.a,1,supplies
+510650,removal of double j stent p/d,1,supplies
+510652,removal of ear wax (cerumen) auditory canal (la,1,dental
+510654,removal of epiretinal membrane (erm removal,2,procedure
+510655,removal of excess finger with bone,1,imaging
+510658,removal of f. body from cornea ????? ??? ???? ?? ???????,1,procedure
+510662,removal of f.b. conjuctiva,1,procedure
+510663,removal of f.b. cornea,1,procedure
+510664,removal of f.b. cornea multiple,1,procedure
+510667,removal of f.body from eye,2,procedure
+510669,removal of fb (l a,1,procedure
+510670,removal of fb (l a ) ( 50% for 2nd operation,1,procedure
+510673,"removal of foreign body ( cornea, conjunctiva",1,procedure
+510674,removal of foreign body (conjunctiva,2,procedure
+510676,removal of foreign body (ear&nose,1,procedure
+510677,removal of foreign body (superficial,1,procedure
+510679,removal of foreign body ? superficial,1,procedure
+510680,removal of foreign body conjun,1,procedure
+510681,removal of foreign body conjunctival,1,procedure
+510682,removal of foreign body deep under screen,1,procedure
+510685,removal of foreign body in ear ????? ??? ???? ?? ?????,1,procedure
+510687,removal of foreign body subcutaneous tissues,1,procedure
+510691,removal of foreign body under la,1,procedure
+510692,removal of foreign body with anesthesia,1,procedure
+510693,removal of foreign body with screen.ing,1,procedure
+510696,removal of foreign body(deep) under a,1,procedure
+510700,removal of impacted cerumen requiring instrumentation non-or,1,procedure
+510704,removal of impacted tooth sofi tissue,1,dental
+510706,removal of implant mcb,1,supplies
+510707,removal of implants - big bones p/d,1,imaging
+510710,"removal of implants big bones (ga) & tourniquet, 2 days",1,imaging
+510711,"removal of implants big bones (under la), 1 day",1,imaging
+510712,removal of implants hand,1,supplies
+510713,removal of implants! big bones,1,imaging
+510716,removal of ingrown toe nail - la,2,supplies
+510717,removal of internal fixations implant,1,supplies
+510718,removal of iud under ga,1,procedure
+510720,removal of k.wire under g.a,1,supplies
+510721,removal of kwire under g a ayh,1,procedure
+510725,removal of nail ??? ???,1,supplies
+510727,removal of old root canal fillings,1,dental
+510729,removal of operuclum,1,procedure
+510730,removal of oseophageal f.b,1,procedure
+510731,removal of penile prosthesis,1,supplies
+510732,removal of plaque and/or stain-tawunya,1,procedure
+510734,removal of plate screws or intra-medulary nail long bone -two bones,1,imaging
+510735,removal of post-trachomatous calcifications,1,procedure
+510737,removal of r.r.of posterior teeth,1,dental
+510739,removal of root filling per canal-tawunya,1,dental
+510740,removal of rubbing eye lash,1,procedure
+510743,removal of sessile polyp more than one,1,supplies
+510744,removal of skin tags 4-10,1,procedure
+510746,removal of small lipoma under l.a in o. r,1,procedure
+510748,removal of stitces,1,procedure
+510749,removal of stitch by nurse ( for stitch,2,procedure
+510751,removal of superfiscial f.b under l.a,1,procedure
+510753,removal of sutures er,1,supplies
+510754,removal of sutures each,1,supplies
+510757,removal of teeth (completely bony including l.a,1,dental
+510759,removal of teeth (soft tissue) including l.a,2,dental
+510761,"removal of toe nail & suturing or ingrwoing nail ,wedge resection-1d - 1 day(s",1,supplies
+510762,removal of toe nail & suturing or ingrwoing nail wedge resection-1d,1,supplies
+510763,removal of toenail+excision nail bed,1,supplies
+510764,removal of tunneled central venous access device w port or pump,1,supplies
+510765,removal of tunneled central venous catheter w/o port or pump,1,supplies
+510772,removal one suture wound,1,supplies
+510773,removal plaster,1,supplies
+510774,removal plate ankle ga,1,supplies
+510775,removal small chalazion,1,procedure
+510776,removal stye,1,procedure
+510779,removal under screen f.b,1,procedure
+510780,removal warts perinium&labiae more than 5,1,procedure
+510781,removal wire elbow ga,1,supplies
+510782,removal arteriovenous fistula/gortex graft under l.a,1,procedure
+510783,removal calculus salivary gland / duct,1,procedure
+510786,removal circulage w/a,1,procedure
+510787,"removal embedded fb from conjunctiva, bilateral",1,procedure
+510788,"removal embedded fb from conjunctiva, unilateral",1,procedure
+510789,"removal embedded fb from cornea, unilateral",1,procedure
+510790,removal excision of bartholin cyst,1,procedure
+510791,removal fixation device internal tarsals and metatarsals,1,procedure
+510792,removal for old crown,1,dental
+510793,removal foreign body deep,1,procedure
+510794,removal foreign body from external auditory canal,1,dental
+510795,removal foreign body from external auditory canal; with general anesthesia,1,dental
+510796,removal foreign body from external auditory canal; without general anesthesia,1,dental
+510800,removal foreign body superficial,1,procedure
+510801,"removal foreign body, intranasal",1,procedure
+510802,"removal foreign body, intranasal; requiring general anesthesia",1,procedure
+510803,"removal impacted cerumen (separate procedure), 1 ear",2,procedure
+510805,removal ingrown toenail,1,procedure
+510807,removal kwires without incision under ga,1,procedure
+510808,removal loop,1,procedure
+510809,removal nail,1,supplies
+510810,"removal nasolacrimal tube, unilateral",1,supplies
+510811,removal of f. b.u. a,1,procedure
+510812,removal of spinal implant ( > 2 levels )-package,1,lab_test
+510825,removal of calculus for one teeth,1,dental
+510828,removal of carotid body tumor,1,procedure
+510836,removal of cervical polyp & cautery,1,imaging
+510837,removal of cervical polyp & cautery ( consultant,1,imaging
+510838,removal of cervical polyp & cautery ( specialist,1,imaging
+510839,"removal of cervical polyp , cautery",1,imaging
+510840,removal of cervical polyp and cautery,1,imaging
+510841,removal of cervix polyp and pathological exam,1,procedure
+510842,removal of circulage shirodkar suture,1,supplies
+510844,removal of cirvical polyp. as package deal,1,procedure
+510845,removal of compacted roots - 4003,1,procedure
+510848,removal of concretions ( 1 eye,1,procedure
+510849,removal of concretions ( 2 eyes,1,procedure
+510850,removal of concretions (one eye,1,supplies
+510851,removal of concretions 208,1,procedure
+510854,removal of conjunctival cyst (major or,1,procedure
+510856,removal of cornea sutures,2,supplies
+510864,removal of cyst in the jaw,1,procedure
+510866,removal of cysts or warts,1,procedure
+510868,removal of deep fb under la,1,procedure
+510869,removal of dj,1,procedure
+510872,removal of deep f.b.u.a,1,procedure
+510874,removal of drainage,1,procedure
+510875,removal of encerclage suture under g.a,1,supplies
+510878,removal of exostosis or tori -large,1,procedure
+510879,removal of exostosis or tori -small,1,procedure
+510880,removal of expander,1,procedure
+510881,removal of external ear polyp,1,procedure
+510883,removal of eye lashes,1,procedure
+510884,removal of eyelid swelling unilateral,1,procedure
+510888,removal of f.b from cornea or conj. under l.a,1,procedure
+510889,removal of f.b from external ear,1,procedure
+510891,removal of f.b from corneal ( deep,1,procedure
+510892,removal of f.b from corneal ( superficial,1,procedure
+510894,removal of f.b from nose / ear,1,procedure
+510895,removal of f.b from pharynx,1,procedure
+510896,removal of f.b. (acc. to depth,1,procedure
+510897,removal of f.b. (nose-ear,1,procedure
+510898,removal of f.b. from ear,1,procedure
+510901,removal of f.b. from conj,2,procedure
+510902,removal of f.b. from conjunctiva,1,procedure
+510904,removal of f.b. superficial,1,procedure
+510905,removal of f.b.under l.a,1,procedure
+510908,removal of f/body,1,procedure
+510910,removal of fb ( la,1,procedure
+510911,removal of fb conjunctival,1,procedure
+510912,removal of fb deep,1,procedure
+510913,removal of fb ear (g.a,1,procedure
+510914,removal of fb from larynx wo incision,1,procedure
+510915,removal of fb superficial,1,procedure
+510917,removal of fb under la,1,procedure
+510919,removal of fb. from throat,1,procedure
+510920,removal of fiber glass cast,1,eyewear
+510921,removal of foley s catheter,1,supplies
+510922,removal of foley's catheter,1,supplies
+510928,removal of foreign body (med,2,procedure
+510930,removal of foreign body (med)-removal of foreign body (med,1,procedure
+510931,removal of foreign body (nose/ear,1,procedure
+510932,removal of foreign body (one eye,1,supplies
+510933,removal of foreign body - in o.r,1,procedure
+510934,removal of foreign body - medium,2,procedure
+510936,removal of foreign body / deep with la,1,procedure
+510937,removal of foreign body @ unspecified site,1,procedure
+510940,removal of foreign body from ear-nose- throat,1,procedure
+510941,removal of foreign body g.a p/d,1,procedure
+510946,removal of foreign body under g/a,1,procedure
+510947,removal of foreign body with incision,1,procedure
+510948,removal of foreign body bupa ayh,1,procedure
+510949,removal of foreign body deep under ga,1,procedure
+510952,removal of foreign body in the throat,1,procedure
+510953,removal of foreign body superfacial under ga,1,procedure
+510955,removal of foreign body under l.a.- p/d,1,procedure
+510958,removal of foriegn body (major,1,procedure
+510961,removal of gastrostomy tube,1,supplies
+510962,removal of gortex graft,1,procedure
+510963,removal of granuloma big,1,procedure
+510964,removal of granuloma small,1,procedure
+510966,removal of h.b from ear,1,procedure
+510967,removal of hawley appliance,1,supplies
+510968,removal of implanon contraceptive implant,1,supplies
+510969,removal of iuc,1,procedure
+510971,removal of iucd under g.a + d.c,1,procedure
+510972,removal of iucd under ga,1,procedure
+510974,removal of iud ( intra uterine,1,procedure
+510975,removal of iud opd,1,procedure
+510976,removal of impacted soft & bony impacted,1,procedure
+510978,removal of impacted bony & soft issue,1,procedure
+510980,removal of implant : deep (plate-wire-screw,1,supplies
+510983,removal of implant femur or humerus,1,supplies
+510984,removal of implant forearm or leg,1,supplies
+510985,"removal of implant, interamedullary nail, femur, tibia, humerus",1,supplies
+510986,removal of implants (small bone,1,imaging
+510988,removal of implants big bone under g.a,1,imaging
+510989,removal of implants+sequestrsctomy,1,supplies
+510991,removal of implants/big bones tibia or forearm,1,imaging
+510994,removal of ingrown toe nail la,1,supplies
+510995,removal of ingrowning nail,1,supplies
+510996,removal of injured nail under l.a,1,supplies
+510997,removal of int fixation device @ femur,1,procedure
+510998,removal of int fixation device @ radius & ulna,1,procedure
+510999,removal of int fixation device @ unspecified site,1,procedure
+511000,removal of intrauterine device divice iud,1,procedure
+511003,removal of k-wire - ga,1,supplies
+511006,removal of k-wire -( clinic or bedside ) -( 47927-00,1,supplies
+511008,removal of kwire with incision,1,procedure
+511009,removal of large lipoma,1,procedure
+511010,removal of lens material: phaco mulsifications with multifocal pciol - one eye,1,eyewear
+511011,removal of lens material: phaco mulsifications with multifocal toric pciol - one eye,1,eyewear
+511012,removal of lens material; phaco mulsifications + toric iol - one eye,1,eyewear
+511013,removal of lid mass,1,procedure
+511014,removal of lid sutures,1,supplies
+511015,removal of lipoma or ganglio,1,procedure
+511016,removal of lipoma+ ga,1,procedure
+511017,removal of long cast,1,supplies
+511018,removal of lumbar hardware - 1 level,1,lab_test
+511019,removal of lumbar hardware - 4 levels,1,lab_test
+511020,removal of medium sebaceous eyst by local anesthesia,1,procedure
+511021,removal of mesh ( post hernioplasty,1,supplies
+511022,removal of minor tumors sebaceous cyst lipomas,1,procedure
+511023,removal of missed i.u.d under g.a. p/d,1,procedure
+511026,removal of nail or screw long bones,1,imaging
+511027,removal of nail (o.r,1,supplies
+511028,removal of nails,1,procedure
+511032,removal of p.t.ds from eye lids,1,procedure
+511033,removal of ptds,1,procedure
+511034,removal of percutaneous drainage,1,procedure
+511035,removal of perianal skin tag ga,1,eyewear
+511036,removal of peritoneal dialysis catheter clinic or bedside,1,supplies
+511037,removal of peritoneal dialysis catheter in o.r,1,supplies
+511039,removal of plantare warts 1 lesion,1,procedure
+511041,removal of planter warts multiple lesi,1,procedure
+511044,removal of plate or intr,1,supplies
+511045,removal of plate or intra-medullary nail,1,supplies
+511049,removal of pony prominance one jaw,1,supplies
+511051,removal of remaning root,1,procedure
+511052,removal of retenation cyst,1,procedure
+511053,removal of s.c impalnt,1,procedure
+511056,removal of screw/ plate,1,supplies
+511057,removal of screw/ plate (hardware,1,supplies
+511058,removal of sebacious cyst,1,procedure
+511059,removal of short cast,1,supplies
+511061,removal of skin tags 1-3 with cautery under l. a,1,procedure
+511062,removal of small cysts,1,procedure
+511064,removal of sternal wire,1,supplies
+511065,removal of stiches big wound,2,procedure
+511068,removal of stitch of circulage under l.a,1,procedure
+511069,removal of stitch5-6,1,procedure
+511071,removal of stitches (1st 2 / 5 sr each add'l,1,procedure
+511072,removal of stitches (1st 2 / 5 sr each addl,1,procedure
+511073,removal of stitches (5-10,1,procedure
+511074,removal of stitches small wounds,1,procedure
+511076,removal of stitches under general anesthesia,1,procedure
+511077,removal of stitches433,1,procedure
+511078,removal of stitching,1,procedure
+511079,removal of subcutaneous foreign fb body la,3,procedure
+511082,removal of subcutaneous foreign body445,1,procedure
+511083,removal of subeceous cyst- small,1,procedure
+511084,removal of superficial f.b. under l.a,1,procedure
+511086,removal of superficial foreign body/g.a,1,procedure
+511087,removal of superficial skin growth,1,procedure
+511089,removal of surgical stitch,1,procedure
+511092,removal of suture er,1,supplies
+511093,"removal of suture, by physician",1,supplies
+511096,removal of sutures after - in o.r,1,supplies
+511099,removal of thoracic hardware - 3 levels,1,lab_test
+511100,"removal of toe nail & suturing or ingrowing nail ,wedge resection",1,supplies
+511101,removal of trachoma,1,procedure
+511102,removal of tube post dcr,1,supplies
+511103,removal of tumor of the spine,1,procedure
+511104,removal of uperculum wisdom tooth,1,dental
+511106,removal of verify device,1,procedure
+511107,removal of verrucae,1,procedure
+511108,removal of vulvar cyst,1,procedure
+511111,removal of wartz 1-3 cautry under local anesthesia,2,procedure
+511114,removal of a throuat f.b,1,procedure
+511116,removal of a foreign body from the conjunctiva,1,procedure
+511117,removal of a frenum,2,procedure
+511119,removal of a nail,1,supplies
+511120,removal of a tooth or par,1,dental
+511122,removal of a tooth or part(s,2,dental
+511123,removal of a tooth or part(s) thereo,2,dental
+511125,removal of a tooth or part(s) thereof 8,1,dental
+511126,removal of a tooth or part(s) thereof (simple tooth extraction,1,dental
+511127,removal of a tooth or part(s) thereof - ncci,1,dental
+511130,removal of a tooth or part(s) thereof-bone removal may be necessary,1,imaging
+511131,removal of a tooth or part(s) thereof|خلع سن أو جزء منه,1,dental
+511132,removal of a tooth or part_s_ thereof,1,dental
+511134,removal of a tooth or tooth fragment,1,dental
+511135,removal of a tooth or tooth fragment where an inci,1,dental
+511137,removal of a tooth or tooth fragment where an incision and t,1,dental
+511138,removal of a tooth or tooth fragment where an incision and the raising,1,dental
+511139,removal of a tooth or tooth fragment where an incision and the raising of a,1,dental
+511141,removal of a tooth or tooth fragment where an incision and the raising of a mucoperiosteal,1,dental
+511143,removal of a tooth or tooth fragment where an incision and the raising of a mucoperiosteal flap are required but where removal of bone or sectioning,1,imaging
+511144,removal of a tooth or tooth fragment where an incision and the raising of a mucoperiosteal flap are required but where removal of bone or sectioning o,1,imaging
+511149,removal of a tooth or tooth fragment where both re,2,dental
+511151,removal of a tooth or tooth fragment where both removal of,1,dental
+511152,removal of a tooth or tooth fragment where both removal of b,1,dental
+511153,removal of a tooth or tooth fragment where both removal of bone,1,imaging
+511154,removal of a tooth or tooth fragment where both removal of bone and,1,imaging
+511155,removal of a tooth or tooth fragment where both removal of bone and se,1,imaging
+511156,removal of a tooth or tooth fragment where both removal of bone and sectioni,1,imaging
+511157,removal of a tooth or tooth fragment where both removal of bone and sectioning,1,imaging
+511159,removal of a tooth or tooth fragment where both removal of bone and sectioning of the toot,1,imaging
+511160,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth,1,imaging
+511161,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are req,2,imaging
+511163,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are required after an incision and the raising of a mucop,1,imaging
+511164,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are required after an incision and the raising of a mucope,1,imaging
+511165,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are required after an incision and the raising of a mucoperiosteal flap,1,imaging
+511166,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are required after an incision and the raising of a mucoperiosteal flap the tooth will be removed in sections,1,imaging
+511167,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are required after an incision and the raising of a mucoperiosteal flap. the tooth will be removed in sectio,1,imaging
+511169,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are required after an incision and the raising of a mucoperiosteal flapthe tooth will be removed in sections,1,imaging
+511170,removal of a tooth or tooth fragment where removal,1,dental
+511172,removal of a tooth or tooth fragment where removal of bone,1,imaging
+511173,removal of a tooth or tooth fragment where removal of bone i,1,imaging
+511174,removal of a tooth or tooth fragment where removal of bone is required,1,imaging
+511175,removal of a tooth or tooth fragment where removal of bone is required after,1,imaging
+511177,removal of a tooth or tooth fragment where removal of bone is required after an incision,1,imaging
+511178,removal of a tooth or tooth fragment where removal of bone is required after an incision a,1,imaging
+511179,removal of a tooth or tooth fragment where removal of bone is required after an incision and the ra,2,imaging
+511183,removal of a tooth or tooth fragment-bone removal,1,imaging
+511184,removal of a tooth or tooth fragment-tooth removed in sections,1,dental
+511186,removal of an aural f b,1,procedure
+511188,"removal of aqueous shunt, unilateral",1,procedure
+511189,removal of assistive or adaptive device aid or equipment,1,procedure
+511194,removal of benign tumours of the vocal cords,1,procedure
+511196,removal of biliary stent + retrogradecholangiography,1,supplies
+511198,removal of bridge or splint - ncci,1,dental
+511200,removal of broken post,2,procedure
+511201,removal of calcluc - first appointment,1,procedure
+511204,removal of calculus first appointment|إزالة حساب التفاضل والتكامل أول موعد,1,procedure
+511205,removal of calculus subsequent ap,1,imaging
+511209,removal of calculus & polishing,1,dental
+511210,removal of calculus (scaling,1,dental
+511213,removal of calculus - subsqunet appointment,1,procedure
+511216,removal of calculus fir,1,procedure
+511217,removal of calculus first appointmen,1,procedure
+511219,removal of calculus first appointment (tawuniya,1,procedure
+511221,removal of calculus first appointment - ncci,1,procedure
+511225,removal of calculus from surfaces of teeth subsequent appointment,2,dental
+511227,removal of calculus from surfaces of teeth subsequent10305,1,dental
+511228,removal of calculus from the surface of teeth,1,dental
+511229,removal of calculus from the surfaces of teet,1,procedure
+511230,removal of calculus from the surfaces of teeth,1,dental
+511231,removal of calculus from the surfaces of teeth and,2,dental
+511232,removal of calculus from the surfaces of teeth and or implants,2,dental
+511234,removal of calculus from the surfaces of teeth and/or,1,dental
+511235,removal of calculus from the surfaces of teeth and/or implan,1,dental
+511240,removal of calculus from the surfaces of teeth10310,1,procedure
+511241,removal of calculus sub,1,procedure
+511243,removal of calculus subsequent appointment (tawuniya,1,procedure
+511244,removal of calculus subsequent appointment - ncc,1,procedure
+511245,removal of calculus subsequent appointment - ncci,1,procedure
+511248,removal of calculus surfaces of teeth/implant,1,dental
+511249,removal of calculus ؟ first appointment,1,procedure
+511251,removal of calculus - first appointment (root planing /quadrant,1,procedure
+511257,removal of calculusof teeth,1,dental
+511258,removal of calculussubsequent appointment,1,procedure
+511261,removal of cast big,1,supplies
+511263,removal of casting,1,procedure
+511267,removal of central line or catheter,1,supplies
+511269,removal of cerclage suture under local anesthesia,1,supplies
+511273,removal of cervical suture under g.a. bupa,1,imaging
+511274,removal of chalazion (multiple,1,procedure
+511275,removal of chest tube,1,supplies
+511276,removal of cholecystostomy tube,1,supplies
+511277,removal of choncha bullosa,1,procedure
+511278,removal of choncha bullosa - pkgd,1,procedure
+511279,removal of conjunctial cyst unilteral,1,procedure
+511281,removal of contraceptive implant(implanon,1,supplies
+511285,removal of corneal sutures bilateral,1,supplies
+511286,"removal of corneal sutures, bilateral",1,supplies
+511289,removal of crown 300,1,dental
+511290,removal of crown per abutment,1,dental
+511291,removal of crown|إزالة التاج,1,dental
+511292,removal of cystostomy tube,1,supplies
+511294,removal of deep foreign body /la,1,procedure
+511295,removal of deep foreign body u/la,1,procedure
+511298,removal of dental plaque and or stain from the surfaces of all teeth and or implants this item is included in procedures described by items 114 115 250 and 251,1,dental
+511299,removal of dental plaque and or stain from the surfaces of all teeth and or implants. this item is i,1,dental
+511300,removal of dental plaque and stain,1,dental
+511301,removal of dental plaque and/or sta,1,dental
+511302,removal of dental plaque and/or stain,1,dental
+511303,removal of dental plaque and/or stain from the sur,1,dental
+511304,removal of dental plaque and/or stain from the surfaces,1,dental
+511305,removal of dental plaque and/or stain from the surfaces of a,1,dental
+511306,removal of dental plaque and/or stain from the surfaces of all implants,1,dental
+511307,removal of dental plaque and/or stain from the surfaces of all teet,1,dental
+511308,removal of dental plaque and/or stain from the surfaces of all teeth,1,dental
+511309,removal of dental plaque and/or stain from the surfaces of all teeth and-or impl,1,dental
+511310,removal of dental plaque and/or stain from the surfaces of all teeth and/o,1,dental
+511311,removal of dental plaque and/or stain from the surfaces of all teeth and/or,1,dental
+511313,removal of dental plaque and/or stain from the surfaces of all teeth and/or implants,2,dental
+511315,removal of dental plaque and/or stain from the surfaces of all teeth and/or implants. this,1,dental
+511316,removal of dental plaque and/or stain from the surfaces of all teeth and/or implants. this item is,2,dental
+511318,removal of dental plaque and/or stain from the surfaces of all teeth and/or implants. this item is included in procedures desc,1,dental
+511319,removal of dental plaque and/or stain from the surfaces of all teeth and/or implants. this item is included in procedures described by items 114 115 2,1,dental
+511324,"removal of embedded foreign body from cornea, unilateral",1,procedure
+511327,removal of external fixation system,1,procedure
+511328,removal of f. body f. nose,1,procedure
+511329,removal of f.b 9superficial,1,procedure
+511330,"removal of f.b from the ear ,nose & /or the orpharynx",1,procedure
+511331,removal of f.b. in pharynx,1,procedure
+511336,removal of fixed partial denture or splint,1,dental
+511339,removal of foreign bodies in throat (under local anesthesia,1,procedure
+511341,removal of foreign body (deep) including l.a,1,procedure
+511343,removal of foreign body (ear)989,1,procedure
+511345,removal of foreign body (w/o x-ray,1,imaging
+511346,"removal of foreign body , external eye: corneal, with slit lamp",1,procedure
+511347,removal of foreign body - deep (med,1,procedure
+511348,removal of foreign body - deep (med)-removal of foreign body - deep (med,1,procedure
+511350,removal of foreign body - superficial (med,1,procedure
+511351,removal of foreign body - superficial (med)-removal of foreign body - superficial (med,1,procedure
+511352,removal of foreign body -cornea conjunctiva,1,procedure
+511353,removal of foreign body / throat,1,procedure
+511355,removal of foreign body nose / ear ??????? ??? ???? ?? ????? ??????,1,procedure
+511357,removal of foreign body small ????? ??? ????? ????,1,procedure
+511358,removal of foreign body under la - small,1,procedure
+511360,removal of foreign body from auditory canal by inc,1,dental
+511361,removal of foreign body from auditory canal by incision unil,1,dental
+511362,removal of foreign body from auditory canal by incision unilateral,2,dental
+511363,"removal of foreign body from auditory canal by incision, uni",1,dental
+511365,removal of foreign body from auditory canal eithout incision unilateral,1,dental
+511367,"removal of foreign body from auditory canal without incision, unilateral",1,dental
+511368,removal of foreign body from cavity of nose,1,procedure
+511371,removal of foreign body from nose & ear,1,procedure
+511374,removal of foreign body from pharynx without incisionremoval,1,procedure
+511375,removal of foreign body from skin and subcutaneous tissue with incision,1,procedure
+511376,removal of foreign body from skin and subcutaneous tissue without incision,1,procedure
+511377,removal of foreign body from the ear[12.04,1,procedure
+511380,removal of foreign body from uterus without incision,1,procedure
+511381,"removal of foreign body in muscle or tendon sheath, deep or complicated",1,supplies
+511382,removal of foreign body in muscle or tendon sheath; deep or complicated,1,supplies
+511384,removal of foreign body in nose and ear,1,procedure
+511385,removal of foreign body in soft tissue,1,procedure
+511386,removal of foreign body in soft tissue not elsewhere classified unilateral,1,procedure
+511387,"removal of foreign body in soft tissue not elsewhere classified, bilateral",1,procedure
+511388,"removal of foreign body in soft tissue, not elsewhere classified, bilateral",1,procedure
+511389,"removal of foreign body in soft tissue, not elsewhere classified, unilateral",1,procedure
+511390,removal of foreign body intraocular; from anterior chamber of eye or lens,1,eyewear
+511391,removal of foreign body large,1,procedure
+511392,removal of foreign body medium ????? ??? ????? ???,1,procedure
+511396,removal of foreign body under ga-(pr,1,procedure
+511398,removal of foreign body unspcified site,1,procedure
+511399,removal of foreign body without incision not elsewhere class,1,procedure
+511401,"removal of foreign body without incision, not elsewhere",1,procedure
+511402,"removal of foreign body without incision, not elsewhere clas",1,procedure
+511404,"removal of foreign body without incision, not elsewhere classifiedd code",1,procedure
+511407,removal of foreign body(nose/ear,1,procedure
+511409,"removal of foreign body, simple under la",1,procedure
+511410,"removal of foreign body, superficial",1,procedure
+511412,"removal of foreign body, deep, upper/lower extremeties",1,procedure
+511413,"removal of foreign body, external eye conjunctival superficial",1,procedure
+511414,"removal of foreign body, external eye: corneal, with slit lamp",1,procedure
+511415,"removal of foreign body, external eye; conjunctival embedded",1,procedure
+511417,"removal of foreign body, external eye; corneal, deep",1,procedure

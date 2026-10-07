@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+290109,hepatobiliary urgent add-on follow-up,1,consultation
+290110,hepatobiliary walk-in follow-up,1,consultation
+290111,hepatology peds transplant follow-up,1,consultation
+290112,hepatology tx urgent add-on follow-up,1,consultation
+290113,hepatology transplant follow-up,1,consultation
+290114,hepatology transplant new follow-up,1,consultation
+290115,hepatology transplant peds follow-up,1,consultation
+290116,hepatology transplant peds new follow-up,1,consultation
+290117,hepatology transplant peds new patient,1,other
+290126,her 2 fish -gastric/get,1,lab_test
+290128,her2 amplification associated with breast cancer fish tissue,1,lab_test
+290129,her2 neu e erbb 2 oncoprotein,1,other
+290132,herbal,1,other
+290141,"herbert screw 2.6x22mm, newclip #h1.1hft2.6l22",1,supplies
+290142,herbert screw 3.0 x 24mm,1,supplies
+290143,herbert screw 2.6x22mm new clip,1,supplies
+290151,hereditary breast and gynecological cancer panel,1,lab_test
+290152,"hereditary hemochromatosis gene analysis, blood",1,lab_test
+290153,hereditary ataxia,1,other
+290154,"hereditary breast cancer-related disorders duplication/deletion analysis panel include r brca1, brca2, mlh1, msh2, and stk11 (eg, hereditary breast cancer, hereditary ovarian cancer, hereditary endometrial cancer",1,lab_test
+290155,hereditary breast cancer; dup/del panel,1,lab_test
+290156,hereditaryscope herefitary cancer panel by ngs covers 146 genes,1,lab_test
+290157,herinia inguinal/umbilcal/femo,1,other
+290158,hermossa 242 fr c:3,1,eyewear
+290159,hermossa 300 fr c:2,1,eyewear
+290160,hermossa 302 fr c:1,1,eyewear
+290161,hermossa 327 fr c:2,1,eyewear
+290162,hermossa 348 fr c:3,1,eyewear
+290163,hermossa 350 fr c:2,1,eyewear
+290164,hermossa 410 fr c:2,1,eyewear
+290165,hermossa 412 fr c:1,1,eyewear
+290166,hermossa 412 fr c:2,1,eyewear
+290167,hermossa 413 fr c:1,1,eyewear
+290168,hermossa 415 fr c:2,1,eyewear
+290169,hermossa 415 fr c:3,1,eyewear
+290170,hermossa 416 fr c:1,1,eyewear
+290171,hermossa 450 fr c:1,1,eyewear
+290172,hermossa 451 fr c:3,1,eyewear
+290173,hermossa 470 fr c:4,1,eyewear
+290174,hermossa 484 fr c:1,1,eyewear
+290175,hermossa 493 fr c:4,1,eyewear
+290176,hermossa frm 110/54 c4,1,eyewear
+290177,hermossa frm 129/55/18 c4,1,eyewear
+290178,hermossa frm 154/48 red,1,eyewear
+290179,hermossa frm 162/54/17 c1,1,eyewear
+290180,hermossa frm 510/54/17 c3,1,eyewear
+290181,hernia repair inguinal / femoral hernia -laproscopic,1,procedure
+290182,hernia repair of inguinal hernia with mesh (unilateral,2,supplies
+290183,hernia diaphragmatica,1,procedure
+290184,hernia for infant,1,procedure
+290185,hernia incisional large repair,1,procedure
+290186,"hernia procedures, minor complexity",1,procedure
+290188,hernia repair - diaphragmatic - laparoscopic,1,procedure
+290189,hernia repair - epigastric (major,1,procedure
+290190,hernia repair - inguinal / femoral (unilateral,1,procedure
+290191,hernia repair - inguinal hernia with mesh (bilateral,1,supplies
+290192,hernia repair - laparoscopi (with mesh,1,supplies
+290193,hernia repair - laparoscopic unilateral,1,procedure
+290194,hernia repair - para umbilical (open,1,procedure
+290196,hernia repair - umbilical -adult maj.or,1,procedure
+290197,hernia repair - umbilical -adult major,1,procedure
+290198,hernia repair incisional - complex,1,procedure
+290199,hernia repair incisional - laproscopic,2,procedure
+290202,hernia repair inguinal - laproscopic,1,procedure
+290203,hernia repair inguinal/femoral - bilateral,1,procedure
+290204,hernia repair laparoscopic + special mesh(lap) unilateral,1,supplies
+290206,hernia [all types] with mesh repair under g.a. p/d,1,supplies
+290207,hernia - inguinal - femoral - repair,1,procedure
+290208,hernia(epigastric) repair w/mesh,1,supplies
+290209,hernia(inguinal) herniotomy(one side) with mesh,1,supplies
+290210,"hernia, incisional w/hernioplasty (3d",1,procedure
+290211,"hernia, inguinal, umblical, para umplical, femoral, without mesh",1,supplies
+290212,hernia: inguinal (one side,1,supplies
+290213,"hernial sac, any location",1,other
+290214,herniorrhaphy ( medium inguinal hernia o,1,procedure
+290215,herniorrhaphy big umbilical hernia,1,procedure
+290216,herniorrhaphy big umbilical hernia / wit,1,procedure
+290217,herniorrhaphy femoral /inguinal,1,other
+290218,herniorrhaphy of big inguinal hernia,1,procedure
+290219,herniorrhapy femoral/inguinal,1,other
+290221,herniotomy in children-unilateral,1,procedure
+290222,"herniotomy, inguinal hernia - child",1,procedure
+290245,herp 1 i g m,1,lab_test
+290246,herp 2 i g m,1,lab_test
+290247,herpes (igg,1,lab_test
+290248,herpes (igm,1,lab_test
+290250,herpes ab igg,1,lab_test
+290251,herpes ab igm,1,lab_test
+290253,"herpes i, igg",1,lab_test
+290256,"herpes ii, igg",1,lab_test
+290257,herpes ii/igm,1,lab_test
+290258,"herpes simpler virus (hsv) dna detection by pcr, spinal fluid",1,lab_test
+290259,herpes simplex (1) igg antibodies,1,lab_test
+290260,herpes simplex (1) igm antibodies,1,lab_test
+290261,herpes simplex (2) igg antibodies,1,lab_test
+290262,herpes simplex (2) igm antibodies,1,lab_test
+290263,herpes simplex 1 and 2 igg antibodies,1,lab_test
+290264,herpes simplex antibodies 1 & 2 igm,1,lab_test
+290266,"herpes simplex i, ii igg",1,lab_test
+290267,"herpes simplex i,ii igm",1,lab_test
+290268,herpes simplex igm (hsv 2 igm,1,lab_test
+290269,herpes simplex pcr,1,lab_test
+290270,herpes simplex type 1 & 2 igm send out (hsv,1,lab_test
+290271,herpes simplex type 1 & 2 igg send out (hsv,1,lab_test
+290272,herpes simplex type 1 igg send out (hsv,1,lab_test
+290273,herpes simplex type 2 igg send out (hsv,1,lab_test
+290274,herpes simplex type 8 antibody,1,lab_test
+290276,herpes simplex virus 1 igm (hsv1 igm,1,lab_test
+290277,"herpes simplex virus 1- 2 (hsv pcr) qualitative (body fluid, csf, serum) s/o un",1,lab_test
+290278,herpes simplex virus 1/2 pcr,1,lab_test
+290281,herpes simplex virus abs type ii igg specific,1,lab_test
+290282,herpes simplex virus antibody type ii igm,1,lab_test
+290283,herpes simplex virus i & ii - igm,1,lab_test
+290284,herpes simplex virus igm,1,lab_test
+290285,"herpes simplex virus, direct ifa",1,lab_test
+290288,"herpes type i abs, igg specific",1,lab_test
+290289,"herpes type i abs, igm specific",1,lab_test
+290290,herpes virus (hsv) 1 (igg,1,lab_test
+290291,herpes virus (hsv) 1 (igm,1,lab_test
+290292,herpes virus (hsv) 2 (igg,1,lab_test
+290293,herpes virus (hsv) 2 (igm,1,lab_test
+290300,herpes virus (hsv)1&2 igm,1,lab_test
+290305,herpes virus 1&2 pcr,1,lab_test
+290306,herpes virus 2 hsv2 igg,1,lab_test
+290311,herpes simpilex dna-pcr,1,lab_test
+290313,herpes simplex 1 igg ( hsv 1 igg,1,lab_test
+290314,herpes simplex 1 igm ( hsv 1 igm,1,lab_test
+290316,herpes simplex 2 igg ( hsv 2 igg,1,lab_test
+290317,herpes simplex 2 igm ( hsv 2 igm,1,lab_test
+290319,herpes simplex ii igg,1,lab_test
+290320,herpes simplex ii igm,1,lab_test
+290321,herpes simplex type 1,1,lab_test
+290322,herpes simplex type 1 and 2,1,lab_test
+290323,herpes simplex type 1 & 2,1,lab_test
+290324,herpes simplex type 2,1,lab_test
+290325,herpes simplex virus hsv 1.2 igm. igg (csf,1,lab_test
+290328,herpes simplex type i igm,1,lab_test
+290329,herpes simplex type i ab igg,1,lab_test
+290330,herpes simplex type i ab igm,1,lab_test
+290331,herpes simplex type ii igg,1,lab_test
+290332,herpes simplex type ii igm,1,lab_test
+290333,herpes simplex virus type2 igg (hsv-ii igg,1,lab_test
+290334,herpes simplex virus type2 igm (hsv-ii igm,1,lab_test
+290335,herpes simplex virus antibody type 1 igg specific,1,lab_test
+290336,"herpes simplex virus antibody, type 1 igg specific",2,lab_test
+290337,herpes type l (igm,1,lab_test
+290338,herpes type ll (igm,1,lab_test
+290340,herpes virus hsv 2 igg,1,lab_test
+290341,herpes-igg,1,lab_test
+290342,herpes-igm,1,lab_test
+290343,herpes1 igm,1,lab_test
+290344,herpestype1antibodies1gm,1,other
+290345,herpestypeiabs2ciggspecific,1,other
+290346,herps simplex type -i -igm,1,lab_test
+290347,herps simplex v. type i -igg,1,lab_test
+290355,herptrex 10tab,1,other
+290356,herptrex 500,1,other
+290387,herptrex 60tab,2,other
+290389,herptrex blister (10,1,supplies
+290391,heterophile ab,1,lab_test
+290392,"hevea-latex examination/treatment glove, non-powdered, non-antimicrobial",1,consultation
+290393,"hevea-latex surgical glove, non-powdered, antimicrobial",1,procedure
+290394,"hevea-latex surgical glove, non-powdered, non-antimicrobial",1,procedure
+290397,hexadecylamide ha derivative,1,other
+290398,hexagen ige,1,lab_test
+290404,hexaxim 1 syringe,2,supplies
+290409,"hexaxim syringe, 1 prefilled syringe/box",1,supplies
+290411,"hexylresorcinol, levomenthol",1,other
+290412,hey fleber,1,other
+290414,hga1c,1,other
+290416,hgb ( haemoglobin,1,lab_test
+290418,hgb electrophorisis,1,other
+290419,hgb count,2,lab_test
+290420,"hgb fractions, electrophoresis",2,lab_test
+290422,hgb fractions; electrophoresis,1,lab_test
+290423,hgb plasma,1,lab_test
+290424,hgb-electrophoresis,1,lab_test
+290425,hgb; plasma,1,lab_test
+290428,hi index 1.56 single vision-normal plastic,1,eyewear
+290429,hi index medical lenses 1.55,1,eyewear
+290431,hi index medical lenses 1.59,1,eyewear
+290432,hi index medical lenses 1.60,1,eyewear
+290433,hi index medical lenses 1.61,1,eyewear
+290438,hi torque command 300 cm diff sizes,1,eyewear
+290442,hi-alfa sr,1,eyewear
+290446,hi-fi ribbon 1.3mm,1,eyewear
+290447,hi-index,1,eyewear
+290448,hi-index 1.56 single vision -normal plastic,1,eyewear
+290449,hi-index 1.6 hmc,1,eyewear
+290450,hi-index 1.67 asp hmc,1,eyewear
+290451,hi-index 1.74 asp,1,eyewear
+290452,hi-mediplast assorted pkt/100,1,eyewear
+290453,hi-mediplast normal pkt/100,1,eyewear
+290454,hi-mediplast normal pkt/40,1,eyewear
+290458,hi-torque winn 200 * 300 cm,1,eyewear
+290459,hi-torque winn 200t,1,eyewear
+290460,hi-torque command .014* 300 cm,1,eyewear
+290461,hi-torque command .018* 300 cm,1,eyewear
+290462,hi-inddex,1,eyewear
+290463,hi-index lenses,1,eyewear
+290464,hi-index normal group-4 - plastic,1,eyewear
+290465,hi-index normal group-8 -plastic,1,eyewear
+290466,"hifi white braided - ultra high molecular weight polythylene size 2, 1 x 40 in (100 cm), 25.9 mm nee",1,other
+290473,"hiatal hernia surgical mesh, synthetic polymer, non-bioabsorbable",1,supplies
+290474,hiatus hernia surgical,1,procedure
+290488,hickman line insertion - cathlab,1,procedure
+290508,hig index acrylic medical lenses - 06uv400 hard ydrophobic coating,1,eyewear
+290509,hig index acrylic medical lenses - 06v400 hard ydrophobic coating,1,eyewear
+290510,hig index acrylic medical lenses - 06uv400. hard ydrophobic coating,1,eyewear
+290512,high anal fistula & branched anal fistula [one stage] p/d,1,supplies
+290513,high anal fistula & branched anal fistula [two stages] p/d,1,other
+290514,high anal fistula & branched and fistula a stage,1,other
+290515,high density lipids,1,other
+290517,high density lipoprotein (hdl) (chemistry,1,lab_test
+290518,high density lipoprotein (hdl) (lab,1,lab_test
+290519,high density lipoprotein (hdl) (sfv,1,lab_test
+290520,high density lipoprotein (hdl) 232,1,lab_test
+290521,high density lipoprotein (hdl) cholesterol,1,lab_test
+290522,high density lipoprotein(hdl,1,lab_test
+290523,high flexion articular insert,1,other
+290524,high flow circuit kit,1,supplies
+290527,high frequency ventilator hfo,1,supplies
+290528,high index acrylic medical lenses - 08uv400 hard hydrophobic coating,1,eyewear
+290529,high index acrylic medical lenses - 62uv400 hard hydrophobic coating,1,eyewear
+290530,high index acrylic medical lenses - 82uv400 hard hydrophobic coating,1,eyewear
+290531,high intensity focus ultrasound ciliary body treatment,2,imaging
+290532,high ligation varicocel. -bilateral,1,procedure
+290533,high ligation varicocel. -unilateral,1,procedure
+290534,high ligation varicocele p/d,1,procedure
+290535,high ligation of varicocele (varicocelec,1,procedure
+290536,high peri- anal fistula two phasees,1,other
+290537,high pressure peripheral balloon cathete,1,supplies
+290538,high pressure peripheral balloon catheter,1,supplies
+290539,high risk -human papilloma virus (hpv) by pcr,1,lab_test
+290540,high risk phaco (complicated,1,procedure
+290541,high sensitive c-reactive protein (hs-crp,2,lab_test
+290542,high sensitive troponin i,2,lab_test
+290543,high sensitive troponin t,1,lab_test
+290544,high speed blade midas 100x2.35x6,1,supplies
+290547,high v.s,1,lab_test
+290548,high vaginal culture,1,lab_test
+290552,high vaginal swab ( hvs ) - direct smear,1,lab_test
+290553,high vaginal swab - hvs,1,lab_test
+290554,high vaginal swab - wet prip (l130,1,lab_test
+290556,high vaginal swab cultuer,1,lab_test
+290559,high vaginal swab culture& senstivity,1,lab_test
+290560,high vaginal swab hvs examination only,1,lab_test
+290561,high vaginal swab sample collection,1,lab_test
+290564,high vagnal swab c/s,1,lab_test
+290567,high anal fistula & branched anal fistula w/out colostomy by laser,1,procedure
+290569,high density cholesterol,1,lab_test
+290570,high density fat,1,other
+290572,high density lipo - protein h.d.l,1,lab_test
+290573,high density lipo - protein h.d.lhigh density lipo - protein h.d.l,1,lab_test
+290574,high density lipo-protein(hdl,1,lab_test
+290576,high grade ovarian cancer brca blood / germline test astrazenica sponsored local lab,1,lab_test
+290578,high intensity focused ultrasound,1,imaging
+290579,high ligation of varicocele ( varicocele,1,procedure
+290580,high noble metal pontic,1,dental
+290581,high sensetive troponin i,1,lab_test
+290582,high sensitive crp (c-reactive protein,1,lab_test
+290584,high sensitive troponin i ???????? ?? ???? ????? ?????,1,lab_test
+290585,high sensitive c reactive protein (hs crp,1,lab_test
+290588,high sensitivity c-reactive protein,1,lab_test
+290589,high sensitivity crp (c-reactive protein,1,lab_test
+290591,high tibial osteotomy - with plate + p.t,1,supplies
+290592,high vaginal swab culutre,1,lab_test
+290593,high vaginal sawp ( hvs,1,lab_test
+290595,high vaginal swab ( hvs ) culture & sensitivity,1,lab_test
+290596,"high-efficiency filter air cleaner, stationary",1,eyewear
+290597,high-flow heated respiratory humidifier,1,other
+290598,high-frequency ventilation endotracheal tube,1,supplies
+290599,high-pressure medical gas tubing,1,supplies
+290602,hihg density cholesterol,1,lab_test
+290611,hill sachs lesion of shoulder repair - (unilateral,1,procedure
+290613,hindquarter amputation,1,procedure
+290614,"hing elbow splint adjustable universal size (oh-201) 1""s (i-ming",1,supplies
+290615,hinged kafo,1,other
+290616,hinged knee brace (spartan) - (ms,1,supplies
+290618,hinged knee support large,1,supplies
+290619,hinged knee support xl,1,supplies
+290620,hinged knee support xxl,1,supplies
+290621,"hinged left elbow brace, large",1,supplies
+290622,hinged stabilizing knee brace,1,supplies
+290623,hinged stabilizing knee brace universal size,1,supplies
+290624,hinged knee brace e-kn051,1,supplies
+290633,hip - 1 view (ap,1,imaging
+290636,hip - 2 views (ap / lat,1,imaging
+290638,hip - 3 views (ap / lat / oblique,1,imaging
+290639,hip -4 views,1,imaging
+290640,hip 1 view ???? ????? ??? ????,1,imaging
+290645,hip ap & frog lt,1,imaging
+290647,hip ap oblique (2v,1,imaging
+290648,hip ap and frog position bilateral,1,imaging
+290649,hip ap/lat,1,imaging
+290650,hip abduction orthosis 28l20,1,supplies
+290651,hip brace with lateral splint - (ms,1,supplies
+290652,"hip dislocation (management) open reduction hip, pelvic ostemy, hip addition, hip spica, femoral sho",1,procedure
+290653,hip for head of femur (30ca/ag,1,lab_test
+290657,hip joint (2 v,1,imaging
+290660,hip joint (ap) &(lat) 2film x-ray,1,imaging
+290661,hip joint (ap) 1film x-ray,1,imaging
+290663,hip joint (one view) x-ray,1,imaging
+290664,hip joint (two views) x-ray,1,imaging
+290668,hip joint 1 film,1,imaging
+290672,hip joint 2 film,1,imaging
+290675,hip joint 2 views a.p and lateral,1,imaging
+290680,hip joint ap & launstein,1,imaging
+290681,hip joint ap view,1,imaging
+290682,hip joint ap and lat,1,imaging
+290683,"hip joint ap, lat",1,imaging
+290684,hip joint ap/oblique--2views,1,imaging
+290690,hip joint mri (without contrast,1,imaging
+290692,hip joint u.s,1,imaging
+290693,hip joint x ray 2 film,1,imaging
+290695,hip joint x-ray (1 view,1,imaging
+290696,hip joint x-ray (1 view) ???? ??? ???? ?????,1,imaging
+290697,hip joint xray ap+lat - l,1,imaging
+290698,hip joint xray ap+lat - r,1,imaging
+290699,hip joint u/s 1 side,1,imaging
+290700,hip joint u/s 2 sides,1,imaging
+290701,hip joint(1 v,2,imaging
+290703,hip joint/1 view,1,imaging
+290704,hip joint/2 views,1,imaging
+290705,hip joints 1-view,2,imaging
+290708,hip joints bil. ap & launstein,1,imaging
+290709,hip jt. ap,1,imaging
+290711,hip orthosis with splint 1re viper - (ms,1,supplies
+290712,hip screw fixation ( percutaneous pinning )- (bilateral,1,supplies
+290713,hip screw fixation ( percutaneous pinning )- unilateral,1,supplies
+290715,hip spica under general anaesthesia + closed reduction hip,1,procedure
+290716,hip stem,1,supplies
+290717,"hip stem, standard, different size",1,supplies
+290718,"hip trochanter plate, 160mm, implantcast #84000160",1,supplies
+290721,hip unilateral x- ray 2 views,1,eyewear
+290722,hip x ray,1,imaging
+290723,hip x-ray - 1 view,1,imaging
+290724,hip x-ray - 2 view,1,imaging
+290725,hip belt pad 26.00.0056,1,supplies
+290726,hip brace,1,supplies
+290727,hip internal fixation system,1,procedure
+290730,hip joint - ap,1,imaging
+290731,hip joint - ap - both side,1,imaging
+290732,hip joint 1 position,1,imaging
+290733,hip joint 1 side / hip 1 view,1,imaging
+290734,hip joint 1film,1,imaging
+290735,hip joint 2 pos,1,imaging
+290736,hip joint 2 views-556,1,imaging
+290737,hip joint 2 position,1,imaging
+290738,hip joint 2 positions,1,imaging
+290741,hip joint ap - lateral,1,imaging
+290742,hip joint ap 1 view,1,imaging
+290743,hip joint ap/oblique 2,1,imaging
+290744,hip joint mri ( with contrast,1,imaging
+290745,hip joint us,1,imaging
+290746,hip joint x ray 1 view,1,imaging
+290747,hip joint x ray 2 view,2,imaging
+290748,hip joint x ray 3 view,1,imaging
+290749,hip joint x-ray 2 view,1,imaging
+290750,hip joint one view[15.33,1,supplies
+290752,hip joint xray(2side,1,imaging
+290754,hip joints ap/1 view/xray pelvis,1,imaging
+290755,hip joints frog position,1,imaging
+290756,hip or elbow or ankle or knee joints 2 views,1,imaging
+290757,hip orthosis,1,supplies
+290758,"hip, 2 views",1,imaging
+290759,hip- 2 view,1,imaging
+290760,hip- 3 views,1,imaging
+290761,hip. j. (one view,1,supplies
+290763,hip/sholder ap,1,imaging
+290764,hip/sholder ap & lateral,1,imaging
+290766,hip/sholder lat,1,imaging
+290767,hip/knee/ankle/foot orthosis,1,supplies
+290768,hipjoint(p.a,1,lab_test
+290772,hips joint 2v,1,imaging
+290773,hips dysplasia treatment orthosis - hipi - (ms,1,supplies
+290774,hips-hips,1,other
+290782,hiquine.2%.cr,1,other
+290783,hira farzoq butt,1,other
+290784,his 749 fr c:005,1,eyewear
+290785,histopathology biopsy,2,lab_test
+290786,hisham saad,1,other
+290788,hist. processing large specime,1,other
+290789,hist. processing medium spec,1,other
+290790,hist. processing small specimen,1,other
+290794,histo pathology / large spc,1,other
+290796,histoacryl > 3 ampoules,1,other
+290813,histology - small specimen (standard) - ?????,1,other
+290814,histology large specimen biopsy,1,procedure
+290815,histology small specimen biopsy,1,procedure
+290816,histology small specimen,1,other
+290817,histology specimen resection,1,procedure
+290818,"histone autoantibodies, serum",1,lab_test
+290862,histop-20t,1,other
+290863,histop4mg20tab,1,other
+290865,histopsyrup100ml,1,other
+290866,histopat hology small specim en,1,other
+290870,histopathological biopsy,1,procedure
+290871,histopathological biopsy (double,1,procedure
+290872,histopathological biopsy1072,1,other
+290873,histopathological examination,1,consultation
+290881,histopathology - fresh frozen section,1,lab_test
+290882,histopathology - punch dermatology biopsy,1,lab_test
+290883,histopathology - routine large specimen,1,lab_test
+290884,histopathology - routine medium specimen,1,lab_test
+290885,histopathology - routine small specimen,1,lab_test
+290886,histopathology - skin biopsy,1,lab_test
+290887,histopathology - skin biopsy with special and immunohistochemistry,1,lab_test
+290888,histopathology - small specimen,1,lab_test
+290890,histopathology biopsy ( small,1,lab_test
+290894,histopathology biopsy(big or more than 5 blocks,1,lab_test
+290895,histopathology biopsy(small or less than 5 blocks,1,lab_test
+290896,histopathology consultation with immunohistochemistry to mayo clinic s/o,1,lab_test
+290901,histopathology radical specimen,1,lab_test
+290905,histopathology specimen ( large,1,lab_test
+290906,histopathology specimen ( medium,1,lab_test
+290907,histopathology examination,1,lab_test
+290911,histopathology with immunohistochemistry (oncology,1,lab_test
+290912,histopathology%20biopsy%20%20(%20small%20,1,lab_test
+290913,histopathology- routine large specimen,1,lab_test
+290914,histopathology- routine medium specimen,1,lab_test
+290915,histopathology- routine small specimen,1,lab_test
+290916,histopathology/biopsy (large specimen,1,lab_test
+290919,histopathology/small spc,1,lab_test
+290920,histopathologybiopsy(small,1,other
+290921,histopathologyspecimen(large,1,other
+290922,histopathologyspecimen(medium,1,other
+290923,histophatology for biopsy,1,procedure
+290924,histoplasma ab,1,lab_test
+290925,histoplasmosis abs,1,lab_test
+290926,histoplasmosis skin test (intradermal and the prick,1,lab_test
+290928,hiv abs screen (igg & igm,1,lab_test
+290936,hiv 1&11,1,lab_test
+290940,hiv 1and11,1,lab_test
+290941,hiv ab (aids,1,lab_test
+290950,hiv virus test - ??? ??????,1,lab_test
+290952,"hiv-1 p24 ag ""elisa",1,lab_test
+290954,hivera,1,other
+290955,hizentra - ig 20% subcutaneous,1,other
+290961,hoda elbiyali elsayed,1,other
+290962,hoda elsayed elbiyali,1,other
+290963,"holder, endotracheal tube",1,supplies
+290964,"holder, tracheostomy tube disposable",1,supplies
+290965,"holder/fastener, endotracheal tube, with integrated tube protection sleeve",1,supplies
+291003,"hollow-fibre haemodialysis dialyser, reusable",1,procedure
+291004,"hollow-fibre haemodialysis dialyser, single-use",1,procedure
+291008,holter 24hours,1,diagnostic
+291009,holter 24hr,1,diagnostic
+291010,holter 24hrs ecg monitoirg,1,diagnostic
+291011,holter ambulatory continuous ecg rcrd 48 h,1,diagnostic
+291013,holter ecg - 7 days,1,diagnostic
+291014,holter ecg 24 hours,2,diagnostic
+291015,holter ecg monitoring 24 hours,1,diagnostic
+291016,holter ecg monitoring 48 hours,1,diagnostic
+291018,holter moniter 24 hours-ucc,1,diagnostic
+291022,holter monitor 24 h,1,diagnostic
+291024,holter monitor cont. 24 hrs,1,diagnostic
+291025,holter monitor cont. 48 hrs,1,diagnostic
+291026,holter monitor cont. 72 hrs,1,diagnostic
+291028,holter monitoring - 7 days,1,diagnostic
+291030,holter monitoring test,1,lab_test
+291036,holter monitor/ 24 hours / ecg / 24 hrs,1,diagnostic
+291037,holter monitor/ 48 hours,1,diagnostic
+291039,holter%20monitoring,1,diagnostic
+291040,hom hakeem frm 01,1,eyewear
+291041,hom hakeem frm 02,1,eyewear
+291042,hom hakeem frm 03,1,eyewear
+291043,hom hakeem frm 04,1,eyewear
+291044,hom hakeem frm 05,1,eyewear
+291045,hom hakeem frm 06,1,eyewear
+291046,hom hakeem frm 07,1,eyewear
+291047,hom hakeem frm 08,1,eyewear
+291048,hom hakeem frm 09,1,eyewear
+291049,hom hakeem frm 10,1,eyewear
+291050,hom hakeem frm 11,1,eyewear
+291051,hom hakeem frm 12,1,eyewear
+291052,hom hakeem frm 13,1,eyewear
+291053,hom hakeem frm 14,1,eyewear
+291054,hom hakeem frm 15,1,eyewear
+291055,hom hakeem frm 16,1,eyewear
+291056,hom hakeem frm 17,1,eyewear
+291057,hom hakeem frm 18,1,eyewear
+291058,hom hakeem frm 19,1,eyewear
+291059,hom hakeem frm 20,1,eyewear
+291060,hom hakeem frm 21,1,eyewear
+291061,hom hakeem frm 22,1,eyewear
+291062,hom hakeem frm 23,1,eyewear
+291063,hom hakeem frm 24,1,eyewear
+291064,hom hakeem frm 25,1,eyewear
+291065,hom hakeem frm 26,1,eyewear
+291073,homair,1,other
+291074,home assessment for diagnosis treatment and counselling of a new or established patient by consultant,2,consultation
+291075,home assessment for diagnosis treatment and counselling of a new or established patient by general practitioner,2,consultation
+291076,home assessment for diagnosis treatment and counselling of a new or established patient by specialist-1,2,consultation
+291080,home bpap unit,1,other
+291081,"home cpap unit , positive airway pressure unit, continuous auto",1,supplies
+291082,home cpap unit,1,supplies
+291083,home care - physical therapy sessions,1,physiotherapy
+291084,home care - visit - consultant,1,consultation
+291085,home care - visit - nurse,1,consultation

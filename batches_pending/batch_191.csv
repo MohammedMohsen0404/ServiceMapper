@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+397296,nursing i.c.u./day,1,consultation
+397297,nursing per day - junior suite,1,consultation
+397298,nursing per day 1st / 2nd class,1,consultation
+397299,nursing procedure,1,consultation
+397300,nursing procedure large,1,consultation
+397301,nursing procedure medium,1,consultation
+397302,nursing procedure small,1,consultation
+397303,nursing psychiatry room,1,consultation
+397304,nursing service,4,consultation
+397305,nursing service charge,2,consultation
+397306,nursing service charges,1,consultation
+397307,nursing service fee,1,consultation
+397308,nursing services,2,consultation
+397309,nursing services / day (icu - nicu,1,consultation
+397310,nursing services / day (ward,1,consultation
+397311,nursing services / day icu - nicu/ day,1,consultation
+397312,nursing services / isolation room (icu - nicu) / day,1,consultation
+397313,nursing services / ventilated patient (icu - nicu) / day,1,consultation
+397314,nursing services per day,1,consultation
+397315,nursing supervision,7,consultation
+397316,nursing supervision (ward) - per 12 hours,1,consultation
+397317,nursing supervision - sw icu,1,consultation
+397318,nursing supervision ccu,1,consultation
+397319,nursing supervision daily,1,consultation
+397320,nursing supervision icu / ccu / nicu,1,consultation
+397321,nursing supervision per day second class,1,consultation
+397324,nursing visit 24 hours for 1 month,1,consultation
+397326,nursing(neo.)./day,1,consultation
+397327,nursing/ day,1,consultation
+397328,nursing/day,1,consultation
+397329,nursnursing feeery,1,other
+397341,nurtec odt,1,other
+397344,nusing services,1,other
+397345,nusrsing supervision,1,consultation
+397346,"nut 10mm#610-10, orthex",1,other
+397347,nut for screw spine craft - us #a3s-t20,1,supplies
+397348,nut for spine,1,other
+397349,"nut, 01-3300",1,other
+397350,nut6mm-inma,1,other
+397352,nutraquinol,1,other
+397362,nutri - natal,1,other
+397364,nutri-dha,1,other
+397368,nutri-dha 60's,1,other
+397375,"nutricia infantrini 400 gram , can",1,lab_test
+397376,nutricia infatrini milk 0-18m,1,nutrition
+397380,nutricia neocate syneo infant,1,nutrition
+397382,nutricia nutrini drink neutral,1,other
+397383,nutricia nutrini drink vanilla,1,nutrition
+397385,nutrifriend 1100-supplemental (27/pack) - inpnut,1,supplies
+397387,nutriline twinflo w/microflush 1252-230 vygon,1,other
+397403,nutrison advanced diason1000ml oral liquid,1,other
+397405,nutrition program-p deal(8 sessions,1,physiotherapy
+397406,nutrition specilist fee,1,consultation
+397407,nutrition%20specilist%20fees,1,other
+397408,nutritional assessment,1,consultation
+397409,nutritional assessment without bia measurement for 30 minutes,1,consultation
+397410,"nutritional consultation, dietician visit",1,consultation
+397411,nutritional counselling - control of dental disease,1,dental
+397416,nutritional feed - ensure plus vanilla tetrapak (a00217,1,nutrition
+397421,nutritional feed - glucerna tetrapak (a00220,1,other
+397429,nutritional supplements (mother's milk substitute (baby/infant formula,1,nutrition
+397430,nutritional/dietary assessment,2,consultation
+397431,nutritional/dietary counselling/eductn,2,other
+397432,nutritionist consultation,1,consultation
+397437,nutro-guard,1,other
+397444,nuts,1,other
+397446,nuvaring vaginal ring,4,other
+397447,nuvaring vag.ring,1,other
+397448,nuvaring vagianl ring,1,other
+397450,nuvaring vaginal ring 1s,1,other
+397452,"nuvasiv nv i-pass , , lii, diamond tip",1,other
+397453,"nuvasiv relin mas , ti rod 90mm , (p0701000815) nuvasive",1,supplies
+397454,"nuvasiv relin poly , , scrw 6.5x50mm (p0701000842),nuvasive inc. , p0701000842",1,other
+397455,"nuvasiv reline-o , , cocr rod 5.5x500mm straight (nuvasiv relin mas poly scrw 5.5x40mm (p0701000666),nuvasive inc. , 15455500",1,supplies
+397456,"nuvasive reline o hook , 8mm pedicle diff.size",1,other
+397461,nuvi tlx20 10x11x26mm 20#592026p2,1,other
+397463,"nv i-pas lii, diamond tip , nuvasive*",1,other
+397464,"nv i-pas iii diamond tip , 2010028 / p0701000947 nuvasive",1,other
+397465,nvd (normal delivery) of iufd,1,procedure
+397466,"nvd (normal delivery)+ normal baby care , one baby",1,supplies
+397467,nvd+baby care (2 day hospital stay + neonatal care,1,consultation
+397468,nvd+iol - normal vaginal delivary with induction of labor,1,supplies
+397470,nwc-medical check-up,1,other
+397471,nwe opsite post.op 25*10cm,1,other
+397472,nwrol. consultation,1,consultation
+397473,nx56,1,other
+397474,ny-aa091-f - new york,1,other
+397475,nyda express anti lice,1,other
+397481,nylon scrub brush,1,other
+397482,nylon stocking,1,supplies
+397483,nylon tape 6mm x 70cm w277,1,supplies
+397484,nystatin,1,other
+397496,nystatin - rianest,1,other
+397503,nystatin 100000 /iu/ml,1,other
+397506,nystatin drp,1,other
+397515,nystatinneomycin sulfatetriamcinolone acetonidegramicidin,1,other
+397518,na (blood ssodium,1,lab_test
+397520,na +,1,lab_test
+397521,na / blood sodium level,1,lab_test
+397522,na blood,1,lab_test
+397523,na urine,1,lab_test
+397525,na+ ??????,1,lab_test
+397526,"na, blood",6,lab_test
+397532,"na,k,cl ?????",1,lab_test
+397536,na; blood,1,lab_test
+397537,na; urine,1,lab_test
+397538,na?da q30 (up / sp,1,lab_test
+397539,na?da q50 (ric,1,lab_test
+397548,nacl for irrigation 1liter,1,procedure
+397549,nanxefo (sfda,1,other
+397550,naskull 2 views n,1,imaging
+397554,nabeel mohammedali shalabi,1,other
+397555,nabeel yusuf basm,1,other
+397559,nacl for irrigation bag 2l,1,procedure
+397562,nada omar mukred,1,other
+397563,nader abdelbaset hadhoud,1,other
+397567,nahdi adult wipes for elderly care 64 wipes,1,supplies
+397568,nahdi alcohol pads 100 pcs,1,supplies
+397569,nahdi alcohol pads 200 pcs,1,supplies
+397571,nahdi antiseptic wet wipes 80 pcs,1,supplies
+397573,nahdi bed protective sheet 60*90 cm 30 pcs,1,supplies
+397574,nahdi blood pressure monitor arm wide cuff n83,1,lab_test
+397575,nahdi blood pressure monitor arm wide cuff n85,1,lab_test
+397576,nahdi blood pressure monitor wrist n81,1,lab_test
+397580,nahdi clear plastic plaster (85325) 70 bandages,1,eyewear
+397581,nahdi cohesive non-woven bandage latex free - 10 cm,1,supplies
+397582,nahdi cohesive non-woven bandage latex free - 15 cm,1,supplies
+397583,nahdi cohesive non-woven bandage latex free - 2.5 cm,1,supplies
+397584,nahdi cohesive non-woven bandage latex free - 5 cm,1,supplies
+397585,nahdi cohesive non-woven bandage latex free - 7.5 cm,1,supplies
+397586,nahdi conforming crepe bandage - 10 cm,1,supplies
+397587,nahdi conforming crepe bandage - 4 cm,1,supplies
+397588,nahdi conforming crepe bandage - 6 cm,1,supplies
+397589,nahdi conforming crepe bandage - 8 cm,1,supplies
+397590,nahdi conforming gauze bandage roll - 10 cm,1,supplies
+397591,nahdi conforming gauze bandage roll - 2 cm,1,supplies
+397592,nahdi conforming gauze bandage roll - 4 cm,1,supplies
+397593,nahdi conforming gauze bandage roll - 6 cm,1,supplies
+397594,nahdi conforming gauze bandage roll - 8 cm,1,supplies
+397595,nahdi cooling plaster more than 2 years 6 pcs,1,supplies
+397596,nahdi cooling plaster neonate 0-2 years 6 pcs,1,supplies
+397601,nahdi diapers culotte large 14 pcs,1,supplies
+397602,nahdi diapers culotte large 8 pcs,1,supplies
+397603,nahdi diapers culotte medium 10 pcs,1,supplies
+397604,nahdi diapers culotte medium 14 pcs,1,supplies
+397605,nahdi diapers culotte xlarge 8 pcs,1,supplies
+397606,nahdi diapers culotte xlarge 14 pcs,1,supplies
+397607,nahdi diapers open tape large 28 pcs,1,supplies
+397608,nahdi diapers open tape medium 28 pcs,1,supplies
+397609,nahdi diapers open tape xlarge 14 pcs,1,supplies
+397610,nahdi diapers open tape with belt xlarge 14 pcs,1,supplies
+397611,nahdi double electric breast pump,1,supplies
+397612,nahdi elastic bandage short stretch - 10 cm,1,supplies
+397613,nahdi elastic bandage short stretch - 12 cm,1,supplies
+397614,nahdi elastic bandage short stretch - 15 cm,1,supplies
+397615,nahdi elastic bandage short stretch - 6 cm,1,supplies
+397616,nahdi elastic bandage short stretch - 8 cm,1,supplies
+397622,nahdi flexible fabric plaster assorted four sizes 100 pcs,1,supplies
+397626,nahdi hot bottle rub cover 2 liters,1,supplies
+397637,nahdi kinesiology tape sports roll - 5 cm,1,supplies
+397638,nahdi latex gloves powdered free large 100 pcs,1,supplies
+397639,nahdi latex gloves powdered free medim 100 pcs,1,supplies
+397640,nahdi latex gloves powdered free small 100 pcs,1,supplies
+397641,nahdi manual breast pump,1,supplies
+397644,nahdi pill box 7 days and cutter detachable,1,other
+397645,nahdi plaster adult eye patch 10 pcs,1,supplies
+397646,nahdi plaster children eye patch 10 pcs,1,supplies
+397647,nahdi plaster family pack economical (85001) 100 bandages,1,supplies
+397648,nahdi plaster flexible fabric assorted four sizes (85104,1,supplies
+397649,nahdi plaster medical tape plastic (2.5 cm*4.5 m) (85621,1,eyewear
+397650,nahdi plaster medical tape plastic (5 cm*4.5 m) (85631,1,eyewear
+397651,nahdi plaster medical tape silk (2.5 cm*4.5 m) (85623,1,supplies
+397652,nahdi plaster medical tape silk (5 cm*4.5 m) (85633,1,supplies
+397654,nahdi plaster wound plaster colorful pack (85354) 20 bandages,1,supplies
+397655,nahdi plaster wound plaster super-thin (85167) 20 bandages,1,supplies
+397656,nahdi round wound plaster 23 mm (85115) 30 bandages,1,supplies
+397657,nahdi safety lancets sterile single-use 100 pcs,1,supplies
+397658,nahdi safety lancets sterile single-use 200 pcs,1,supplies
+397660,nahdi thermofinder plus thermometer non contact hfs-1000,1,eyewear
+397661,nahdi tommy multi thermometer 2*1,1,eyewear
+397662,nahdi vinyl gloves powdered free large 100 pcs,1,supplies
+397663,nahdi vinyl gloves powdered free medium 100 pcs,1,supplies
+397664,nahdi vinyl gloves powdered free small 100 pcs,1,supplies
+397665,nahla ahmedabdelrhman,1,other
+397666,naida q 30 (sp/up,1,other
+397667,naida q 50 (sp/up,1,other
+397668,naida s i (sp/up,2,lab_test
+397670,naida s i sp,1,lab_test
+397671,naida s i up (ultra power,1,lab_test
+397672,naida s iii (sp/up,2,other
+397673,naida s ix (sp/up,1,other
+397675,naida s v (sp/up,1,lab_test
+397676,naida v30,1,other
+397677,naida v50,1,other
+397678,naida v70,1,other
+397679,naida v90,1,other
+397681,nail (extraction,1,dental
+397684,"nail blade cannulated, 10.3x100mm, medtronic #32801092",1,supplies
+397685,nail cutter big,1,supplies
+397686,nail cutter korea big (36,1,supplies
+397687,nail cutter korea small(60,1,supplies
+397688,nail e x traction under la,1,supplies
+397689,nail elastic 3.0x440 ti,1,supplies
+397690,nail ex,1,supplies
+397692,nail ext,1,supplies
+397693,nail extrac (l/a,1,supplies
+397696,nail extraction (loose,1,dental
+397697,nail extraction (loose) ????? ??? ?? ????? ?? ????,1,dental
+397698,nail extraction - la,1,dental
+397701,nail extraction and nail bed repair uga,1,dental
+397702,nail extraction87,1,supplies
+397703,"nail femoral telescopic 4.8 l/t, pega, #fd-048l-ss",1,supplies
+397705,"nail locking screws, core diameter : 4.0 mm, size : 5.0 mm x 30.0 mm, functional length : 25.0 mm #35063030 neogen neosupra tibia",1,dental
+397706,"nail locking, screw titanium, 4.0 x 20mm, 364020, austofix",1,supplies
+397710,nail removal under l.a,1,supplies
+397711,nail screw 4.5mm,1,supplies
+397712,"nail screw 4.5x40mm, chm, #3.5170.040",1,supplies
+397713,nail screw 5.0mm,1,supplies
+397714,"nail screw 5.0x40mm, chm, #3.5159.040",1,supplies
+397715,nail screw 5.0x45mm chm (3.5159.045,1,supplies
+397716,nail screw 5.5mm,1,supplies
+397717,"nail screw, 4.0x30mm, chm #3.5169.030",1,supplies
+397718,"nail screw, 4.0x50mm, chm #3.5169.050",1,supplies
+397719,"nail screw, 4.5x45mm, chm poland #3.5170.045",1,supplies
+397721,"nail and nail matrix excision, partial or complete",1,supplies
+397722,nail excetraction,1,supplies
+397725,nail extraction -partial,1,dental
+397726,nail extraction -complete,1,dental
+397727,nail extraction .l.a,1,dental
+397730,nail extraction under local anethesia,1,dental
+397731,nail for fungal culture,1,lab_test
+397733,"nail removal , loose + dressing",1,supplies
+397734,nail terephyn,1,supplies
+397735,nail wedge resection,1,supplies
+397736,"nail, elastic taitanium, d:2.5mm l:440mm",1,supplies
+397737,"nail, tibial/humeral telescopic, 4.8 st, pega-canda #fd-048sps-ss",1,supplies
+397738,nailextraction,1,other
+397739,nailextraction(loose,1,other
+397740,nair cr.tube/new.mix,1,supplies
+397749,nan 1 supreme pro 6x800 g 5782,1,nutrition
+397751,nan 2 supreme pro 6x800 g 6055,1,nutrition
+397753,nan 3 supreme pro 6x800 g 6116,1,nutrition
+397768,"nan duo 1 (12x400g) 1""s",1,nutrition
+397769,"nan duo 2 (12x400g) 1""s",1,nutrition
+397805,"nancy nail, different size",1,supplies
+397806,"nanofix, pleuristik",1,other
+397814,nao100444/mattrasparent/metalorange/f/20,1,other
+397844,naphconaeyedrops15ml,2,other
+397847,"napkin, santary, pack/20",1,supplies
+397864,narrow dcp plate 4.5mm ( ) holes,1,supplies
+397865,narrow locking plate,1,supplies
+397866,"narrow plate 6hole, auxien #ti-723.206",1,supplies
+397867,narrow band uv b therapy other site,1,physiotherapy
+397868,"narrow band uvb, hand and foot unit and puva 12 treatments per month package",1,other
+397869,narrow plate 10 hole,1,supplies
+397870,narrow plate 7 hole chm poland,1,supplies
+397871,narrow-band ultraviolet b (nb-uvb)- 1 session,1,physiotherapy
+398113,nasalvestibuleabscessdrainage(la,1,other
+398123,naso gastnc tube (ng tube) insertion,1,supplies
+398125,naso gastric intubation + ng kit,1,procedure
+398126,naso pharyenx (adenoid) x-ray,1,imaging
+398129,naso pharynx lat,1,imaging
+398130,naso pharynx lat-naso pharynx lat,1,imaging
+398131,naso phyrrgo scope,2,procedure
+398135,naso pharynx ap - lateral,1,imaging
+398136,naso-pharynx lateral view,1,imaging
+398137,naso-pharynx xray lat. view,1,imaging
+398138,naso/oro gastric tube placement,1,supplies
+398139,naso/oro gastric tube placement non-or,1,supplies
+398141,nasogastirc tube insertin with procedure,1,supplies
+398142,nasogastric intubation,1,procedure
+398143,"nasogastric tube (ng tube) holder, large/adult, dale #160",1,supplies
+398146,nasogastric tube - ng tube,1,supplies
+398149,nasogastric tube insertion procedure,1,supplies
+398151,nasogastric tube insertion up to 3 yrs max. 34 hrs,1,supplies
+398154,"nasogastric tube (fm consultation, ng insertion by certified nurse, x-ray, case manager 24/7",1,imaging
+398156,nasogastric tube removal,1,supplies
+398157,nasogastric tube replacement,1,supplies
+398158,nasogastric tube with application,1,supplies
+398159,nasogastric/orogastric tube,1,supplies
+398160,nasoherb,1,other
+398162,nasojujenal tube insertion,1,supplies
+398163,"nasolacrimal duct probing, with or without irrigation, one eye",1,supplies
+398164,nasolaryngoendoscopy under la,1,procedure
+398185,nasonexnasalspary0.05%120dose,1,other
+398186,nasonexnasalspary005120dose,1,other
+398187,nasophar. 1 view,1,imaging
+398188,nasopharengyal-1views,1,other
+398189,nasopharngoscopy without biopsy,1,procedure
+398190,nasophary ( one veiw,1,supplies
+398192,nasopharyngeal airway 7.0,1,supplies
+398193,nasopharyngeal airway 7.5,1,supplies
+398194,nasopharyngeal airway 8.5,1,supplies
+398195,nasopharyngeal airway 9.0,1,supplies
+398197,nasopharyngeal swab (sample collection,1,lab_test
+398198,"nasopharyngeal airway, reusable",1,supplies
+398199,"nasopharyngeal airway, single-use",1,supplies
+398200,nasopharyngeal endoscopy,1,procedure
+398201,nasopharyngeal soft tissue,1,other
+398202,nasopharyngeal swab,1,lab_test
+398203,nasopharyngeal x-ray,2,imaging
+398204,nasopharyngeal xray,1,imaging
+398205,nasopharyngial exam + biopsy,1,procedure
+398207,nasopharyngoscopy with endoscope,1,procedure
+398210,nasopharynx 2 view,1,imaging
+398211,nasopharynx (lat)-5052,1,imaging
+398213,nasopharynx - lat,1,imaging
+398218,nasopharynx lat. (1v,1,imaging
+398222,nasopharynx x-ray ???? ????? ????,1,imaging
+398224,nasopharynx with contrast,1,imaging
+398226,"nasopharynx, biopsy",1,procedure
+398227,"nasopharynx, biopsy multiple sites separate",1,procedure
+398228,nasophrynx1 - view,1,imaging
+398230,nasopure kids kit,1,other
+398245,national bank snb - female pre-employment,1,consultation
+398246,national bank snb - male pre-employment,1,consultation
+398247,national new born screening program (17 test,1,lab_test
+398248,national program for neonatal screening,1,lab_test
+398272,natrilixsr15mg30tab,1,other
+398279,natriuretic peptide (nt-probnp,1,lab_test
+398285,natures blend childrens multivitamin chewable natl,1,other
+398286,naval sinus,1,procedure
+398290,navigation assisted ent surgery,1,procedure
+398291,"navigatortm ureteral access sheath sets, 13/15fr x 46 cm,boston scientific",1,supplies
+398292,"navigatortm ureteral access sheath sets, 13/15fr x 46 cm,boston scientific , m0062502040",1,supplies
+398293,"navigatortm ureteral access sheath sets, 13/15fr x 46 cm,boston scientific , m0062502100",1,supplies
+398294,navio flat markers ref. pfsdv0016,1,other
+398295,"navitrack kit a: knee, zimmer #20-8000-000-07",1,other
+398299,nazia shabbir,1,other
+398300,nazogastric tube (14ch,1,supplies
+398305,nc-6 infrared thermometer - granzia,2,physiotherapy
+398308,ncs nerve conduction-lover timb,1,other
+398309,ncs nerve conduction-upper timb,1,other
+398314,neaonatal screen test,1,lab_test
+398321,neb. with n.s,1,lab_test
+398322,neb.n,1,other
+398324,nebeoliser,1,other
+398356,nebilizer,1,other
+398360,neboliser,1,other
+398365,nebrlizar,1,other
+398369,nebulaization,1,other
+398370,nebulaization + atropins,1,other
+398371,nebulaization set,1,other
+398372,nebulaization set 22065-00-60,1,other
+398374,nebulaization with oxygen,1,supplies
+398382,nebulisation ii,1,other
+398383,nebulisation iii,1,other
+398385,"nebulisation, steam or oxygen inhalation",1,supplies
+398387,nebuliser (machine 1 set w/o medication,1,supplies
+398394,nebuliser only,1,supplies
+398397,nebulizar,1,other
+398400,nebulization ( ventol + n/s,1,procedure
+398401,nebulization ( with drugs,1,procedure
+398412,nebulization (normal,1,procedure
+398414,nebulization (with drugs,1,procedure
+398415,nebulization + adernaline,1,procedure
+398421,nebulization -nicu,1,procedure
+398422,nebulization / with cost of medication,1,procedure
+398423,nebulization administration,1,procedure
+398424,nebulization i-2011,1,procedure
+398426,nebulization machine only,1,supplies
+398427,nebulization mask,1,supplies
+398428,nebulization mask (kit,1,supplies
+398430,nebulization p202,1,procedure
+398433,nebulization service only,1,procedure
+398435,nebulization session/oxygen therapy,1,physiotherapy
+398436,nebulization session/oxygen therapy-one session,1,physiotherapy
+398444,nebulization with pulmocort,2,procedure
+398445,nebulization at home + consumables,1,procedure
+398446,nebulization for bronchial asthma,1,procedure
+398449,nebulization of oxygen,1,supplies
+398453,nebulization services,2,procedure
+398454,nebulization session/oxygen therapy-one seesion,1,physiotherapy
+398456,nebulization w/o medicine,1,procedure
+398462,nebulization with atravent,1,procedure
+398463,nebulization with medication- package deal,1,procedure
+398475,nebulization-6005,1,procedure
+398476,nebulization-resp medication administered nebuliser,1,supplies
+398477,nebulize,1,other
+398479,nebulizer nebulizer nebulizer,1,supplies
+398484,nebulizer (child,2,supplies
+398489,nebulizer (per use,1,supplies
+398491,nebulizer + oxygen,2,supplies
+398500,nebulizer - bermed mini air portable mesh bd5200,1,eyewear
+398502,nebulizer / adult,1,supplies
+398503,nebulizer / child,1,supplies
+398510,nebulizer 3 drugs(1set,1,supplies
+398512,nebulizer and/or oxygen per hour,1,supplies
+398514,nebulizer bremed mini air portable mesh bd5200,1,eyewear
+398516,nebulizer device ( tawuniya,1,supplies
+398517,nebulizer device 110,1,supplies
+398518,nebulizer device 115,1,supplies
+398519,nebulizer device 120,1,supplies
+398520,nebulizer device microlife bc,1,supplies
+398521,nebulizer equipment,1,supplies
+398522,nebulizer follow up,1,supplies
+398523,nebulizer follow-up,1,supplies
+398524,nebulizer for 1/2 hours,1,supplies
+398528,nebulizer inhaler machine,1,supplies
+398531,nebulizer machine (sfv,1,supplies
+398532,"nebulizer machine machine na, 1 machine/box",1,lab_test
+398534,nebulizer mask adult [elongated] #xlarge,1,supplies
+398535,nebulizer mask adult standerd #large,1,supplies
+398537,nebulizer mask (adult) -homecare,1,supplies
+398539,nebulizer mask (pead) -homecare,1,supplies
+398542,nebulizer mask paedia #small,1,supplies
+398543,nebulizer mask paedia [elongated] #medium,1,supplies
+398546,nebulizer microlife kids neb400,1,supplies
+398547,nebulizer microlife neb210,1,supplies
+398548,nebulizer microlife portable neb800,1,supplies
+398549,nebulizer multidrugs,1,supplies
+398550,nebulizer ns,1,supplies
+398551,nebulizer neb 200 microlife compressor,1,supplies
+398552,nebulizer neb 400 microlife compressor,1,supplies
+398553,nebulizer or oxgen per hour,2,supplies
+398556,nebulizer ox+ven+pulm,1,supplies
+398559,nebulizer philips,1,supplies
+398560,nebulizer portable mesh air pro iii feellife,1,eyewear
+398561,nebulizer pulmacort,1,supplies
+398566,nebulizer setting,2,supplies
+398567,nebulizer steam,2,supplies
+398569,nebulizer tubing with t-tube set,1,supplies
+398575,nebulizer w/out medications ( at home care,1,supplies
+398583,nebulizer atrvent (1 set,1,supplies
+398584,nebulizer atrvent (2 sets,1,supplies
+398585,nebulizer atrvent (3sets,1,supplies
+398592,nebulizer machine portale,1,supplies
+398594,nebulizer one set???? ???? ??? ?????,1,supplies
+398595,nebulizer one sitting,1,supplies
+398599,nebulizer per session including medications,1,physiotherapy
+398603,nebulizer set ( easy life,1,supplies
+398620,nebulizer with midecation,1,supplies
+398621,nebulizer with o2 (services + consumables,1,supplies
+398622,nebulizer with pulmacort,1,supplies
+398624,nebulizer with ventolin78,1,supplies
+398626,nebulizer with med,1,supplies
+398640,"nebulizer, large volume",1,supplies
+398641,"nebulizer, medication, with pediatric aerosol mask",1,supplies
+398643,nebulizer-insurance,1,supplies
+398644,nebulizer125,1,other
+398645,nebulizeronesitting,1,other
+398647,nebulizing adaptor,1,other
+398648,"nebulizing system delivery set, reusable",1,procedure
+398649,"nebulizing system delivery set, single-use",1,procedure
+398650,"nebulizing system, heated",1,other
+398652,nebulizor or oxygen perhour,1,supplies
+398655,neck [lateral,1,other
+398656,neck & back-74 heating pad - granzia,1,supplies
+398657,"neck & back-74 heating pad 1""s #hp-3865",1,supplies
+398659,neck (soft tissue) ap & lat,1,imaging
+398660,neck (soft tissue) u.s,1,imaging
+398661,neck (soft issue,1,other
+398662,neck (upper + lower neck) treatment - 1 session - ulthera,1,physiotherapy
+398670,neck / shoulder swelling,1,other
+398671,neck 1 view (nasoptrysx,1,imaging
+398672,neck 1 view (nasopharynx,1,imaging
+398673,neck 1 view (nasopharynx-506,1,imaging
+398674,neck 1view,1,other
+398677,neck 2 positions,1,imaging
+398678,neck 2views-507,1,imaging
+398679,neck ap/lat,1,imaging
+398681,"neck dissection, bilateral",1,other
+398682,"neck dissection, unilateral",1,other
+398684,neck exploration and mass resection,1,procedure
+398685,neck lat soft tissue,1,imaging
+398687,neck soft tissue ( w - contrast) c.t,1,imaging
+398690,neck soft tissues,1,other
+398691,neck soft tissues (larynx,1,other
+398693,neck soft tissues ap & lat. two films,1,imaging
+398695,neck u.s,2,imaging
+398698,neck ultra-sound,1,other
+398700,neck ultrasound (intermed clinic,1,imaging
+398702,neck x ray,1,imaging
+398703,neck x ray 2 views,1,imaging
+398704,neck x-ray 1 view,1,imaging
+398705,neck x-ray 2 views,1,imaging
+398707,neck soft tissue (w-out contrast) c.t,1,imaging
+398709,neck soft tissue( valt.view,1,imaging
+398711,neck ultra sund - 568,1,other
+398715,neck(soft tissues,1,other
+398717,neck/shoulder swelling,1,other
+398718,neck/thyroid glands,1,other
+398719,neck2 views,1,imaging
+398720,necrotic 1rct w filling,1,dental
+398721,necrotic 1rct w/o filling,2,dental
+398723,necrotic 2rct w filling,1,dental
+398724,necrotic 2rct w/o filling,3,dental
+398727,necrotic 3rct w filling,1,dental
+398728,necrotic 3rct w/o filling,3,dental
+398732,necrotic pulp extirpation 1 canal,1,dental
+398733,necrotic pulp extirpation 2 canals,1,dental
+398734,necrotic pulp extirpaton multi root,1,dental
+398735,necrotic pulp treatment,1,dental
+398736,necrotic post. tooth,1,dental
+398737,necrotizing myopathy evaluation (my clinic,1,consultation
+398738,"needle aspiration cyst, hematoma and other collection",1,supplies
+398740,"needle counter, magnetic & foam strips, solid lid, red, hold 40 needles, keysurgical, #nc-40-111",1,supplies
+398743,needle g. 18 x 1 1/2,1,supplies
+398744,needle iv canula w luer lock g 18,1,supplies
+398745,needle iv canula w luer lock g 20,1,supplies

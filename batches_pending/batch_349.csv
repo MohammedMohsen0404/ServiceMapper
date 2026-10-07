@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+552197,sacro-iliac joint xray-r,1,imaging
+552200,sacro-illiac joint ap\oblique,1,imaging
+552201,sacrococcygeal a.p & lat-sacrococcygeal a.p & lat,1,imaging
+552203,sacroiliac 2 views one side,1,supplies
+552204,sacroiliac 3 views,1,imaging
+552205,sacroiliac j,1,other
+552206,sacroiliac joint ( 1 v,1,other
+552207,sacroiliac joint ( 2 v )-sacroiliac joint ( 2 v,1,other
+552208,sacroiliac joint 2-views,2,imaging
+552210,sacroiliac joint ap & oblique,1,imaging
+552216,sacroiliac joints,1,other
+552217,sacroiliac mri (without contrast,1,imaging
+552219,sacroiliac view,1,imaging
+552220,sacroiliac joint (sij) without fluoroscopy,1,imaging
+552221,sacroiliac joint 1-views,1,imaging
+552223,sacroiliac joint intra-articular arthrodesis implant,1,supplies
+552225,sacroilliac joint x-ray,1,imaging
+552226,sacrospinous ligament fixation for prolapse of vagina,1,procedure
+552227,sacrospinous colpopexy,1,other
+552229,sacrum coccyx ap v,1,imaging
+552230,sacrum coccyx lat,1,imaging
+552231,sacrum & coccy 2 view,1,imaging
+552233,sacrum & coccyx 2 pos,1,other
+552234,sacrum & coccyx 2 view,1,imaging
+552235,sacrum & coccyx ap\lateral,1,imaging
+552236,sacrum & coccyx ap/lat. rad,1,imaging
+552237,sacrum & ococcyx ap,1,imaging
+552238,sacrum & ococcyx ap &lat,1,imaging
+552241,sacrum & coccyx ap & lateral,1,imaging
+552242,sacrum & coccyx ap/lat,2,imaging
+552243,sacrum & coccyx xray,1,imaging
+552244,sacrum (2 views,1,imaging
+552245,sacrum (lateral view,1,imaging
+552252,sacrum coccys ap lateral,1,imaging
+552253,sacrum spine 2 views - ????? ????? ????? ?????,1,imaging
+552254,sacrum x -ray 1 view,1,eyewear
+552255,sacrum x -ray 2 views,1,eyewear
+552256,sacrum x ray 2 film,1,imaging
+552257,sacrum x-ray /2 views,1,imaging
+552258,sacrum and coccyx 2v,1,imaging
+552259,sacrum and coccyx ap/lat,1,imaging
+552261,sacrum&coccyx ap+lat,1,imaging
+552262,sacrum&coccyxspineap/lateral,1,other
+552263,sacrum-2views,1,imaging
+552270,saeed ali al-somali,1,other
+552271,saeed yahya alyam,1,other
+552272,safa omar rumman,1,other
+552273,safapore wound dressing 10*20 (carton 18 box,1,supplies
+552274,safapore wound dressing 10*25(carton 16 box,1,supplies
+552275,safapore wound dressing 10*30(carton 12 box,1,supplies
+552276,safapore wound dressing 6*8.25 (carton 20 box,1,supplies
+552277,safapore wound dressing 9*10 (carton 24 box,1,supplies
+552278,safapore wound dressing 9*15(carton 24 box,1,supplies
+552279,safapore wound dressing10*35(carton 24 box,1,other
+552280,safapore wound dressing10*6(carton 24 box,1,other
+552281,safe load ( tawuniya,1,other
+552282,safe load t cu380a,1,other
+552283,safe med safapore wound dressing 10250775,1,supplies
+552284,safe med safapore wound dressing 670737,1,supplies
+552285,safe med safapore wound dressing 9100713,1,supplies
+552286,safe med safapore wound dressing 9150751,1,supplies
+552293,safilo 1024 fr gvb 57,1,eyewear
+552294,safilo bussola11 fr j5g 51,1,eyewear
+552295,safilo fm mod 2776 col 4f4- si,1,eyewear
+552298,safilo fm mod.12724 col.z9z si,1,eyewear
+552299,safilo fm mod.2584 col.1cr siz,1,eyewear
+552300,safilo fm mod106 (rl) col 394,1,eyewear
+552301,safilo fm mod3647 col.96f size,1,eyewear
+552310,safilo registro01 fr 807 48,1,eyewear
+552311,safilo registro02 fr bsc 52,1,eyewear
+552313,safilo/glamour/glam 49/cs6k/f,1,eyewear
+552314,safwan jamal,1,other
+552315,"sagittal surgical saw blade, reusable",1,supplies
+552317,saint laurent sl 28-001-50-opt,1,eyewear
+552318,saint laurent sl 546 opt-001-48-opt,1,eyewear
+552319,saint laurent sl m116-001-55-opt,1,eyewear
+552320,saint laurent sl m118-001-52-opt,1,eyewear
+552321,saint laurent sl m120-004-53-opt,1,eyewear
+552332,sal marinum 1% (drossa-nose) tube,1,supplies
+552344,salbulase120mlsyrup,1,other
+552376,salibet oint30gm lasa,1,other
+552388,salibetointment30g,1,other
+552389,salicylate,1,other
+552391,"salicylate, menthol, camphor 4%, 1.5%, 1.5%",1,other
+552393,salicylate; quant,1,lab_test
+552396,salinal drops15ml lasa,1,other
+552415,salinet 250,1,other
+552416,saling and root planning /quadrant,1,other
+552479,salinosenasalgel,1,other
+552486,salivary gland w/o & w/ contrast,1,imaging
+552487,salivary glands doppler u.s-salivary glands doppler u.s,1,imaging
+552488,salivary gland biopsy,1,procedure
+552489,"salivary gland, neoplastic",1,other
+552490,"salivary gland, non neoplastic",1,other
+552491,salivary glands u.s,1,imaging
+552492,salivary study,1,consultation
+552496,salmonella & shigella (c&s,1,other
+552497,salmonella & shigella (c&s) stool,1,lab_test
+552498,"salmonella & shigella (c&s), stool",5,lab_test
+552503,salmonella & shigella (c&s); stool,2,lab_test
+552504,salmonella ( widal,1,lab_test
+552506,salmonella ab,7,lab_test
+552515,salmonella exam,1,other
+552516,salmonella serum ( widal test,1,lab_test
+552517,salmonella typing,3,other
+552518,salmonella typing ( widal test,1,lab_test
+552520,salmonella%20%26%20shigella%20(c%26s)%3b%20stool,1,other
+552521,salmonella(widal,1,lab_test
+552522,salmonellosis widal test,1,lab_test
+552523,salocan,1,other
+552544,salonpas 20s 6.5cm x 4.2cm,1,other
+552545,salonpas large 2 s 13.cm x 8.4.cm,1,other
+552546,salonpas pain relieving 5 patchs - 7*10 cm,1,other
+552547,salonpas pain relieving hot patch 5 7cm x 10cm,1,supplies
+552552,salonpas patch - 2's large -101051002-box25💥,1,supplies
+552553,"salphingectomy or salpingo-oopherectomy, laparoscopic",1,procedure
+552554,salpingectomy (mini laparatomy,1,procedure
+552555,salpingectomy - surgical,1,procedure
+552557,salpingectomy /alpingostomy,1,procedure
+552558,salpingectomy for hydrosalpinx,1,procedure
+552559,salpingectomy laparoscopy ( 1d,1,procedure
+552561,salpingectomy \ salpingostomy,1,procedure
+552562,salpingectomy \ salpingostomy ( 50% for 2nd operation,1,procedure
+552563,salpingectomy w removal tubal pregnancy,1,procedure
+552565,salpingectomy/ salpingostomy,1,procedure
+552567,salpingo oophorectomy - surgical,1,procedure
+552568,salpingotomy,1,procedure
+552569,salpingotomy with removal of tubal pregnancy,1,procedure
+552587,"sam splint, 91.5x11cm, red, verona #b-0210467",1,supplies
+552588,samah abdulrhman abdo saee,1,other
+552589,samah mohamedazim abusabah,1,other
+552590,samar fawzy abdelatty,1,other
+552591,samar khalafla alriyah,1,other
+552596,sameh gamil alshaa,1,other
+552672,samixon1g,1,other
+552673,samixon1gmvial,1,other
+552681,sample cervix for histopathology,1,lab_test
+552682,sample histopathology,1,lab_test
+552683,sample uterus for cytology,1,lab_test
+552684,samsontemp forehead thermometer - granzia,2,supplies
+552686,samxon 1000,1,other
+552687,samxon 500,1,other
+552688,san domenico/san1440/c3/f,1,eyewear
+552689,san domenico/san1450/c1/f,1,eyewear
+552690,san domenico/san1450/c2/f,1,eyewear
+552691,san domenico/san1450/c3/f,1,eyewear
+552692,san domenico/san1450/c4/f,1,eyewear
+552701,sandal splint l,1,supplies
+552702,sandal splint m,1,supplies
+552703,sandal splint xl,1,supplies
+552735,sandoz curam1g,1,other
+552736,sanita baby diaper size 3 / 6*15,1,supplies
+552737,sanita baby diaper size 4 / 6*12,1,supplies
+552738,sanita baby diaper size 5 / 6*11,1,supplies
+552739,sanita baby diaper size 6 / 6*12,1,supplies
+552740,sanita elegance diapers large 18 pcs (new,1,supplies
+552741,sanita elegance diapers medium 22 pcs (new,1,supplies
+552742,sanita elegance diapers xlarge 16 diapers,1,supplies
+552743,sanita elegance medical underpads 90*60cm 20 pcs,1,supplies
+552744,sanita elegance adult larg size 2*18,1,other
+552745,sanita elegance adult xl size 16*2,1,other
+552746,sanitary pad 51170086,1,supplies
+552747,"sanitayki capsicum pain relief plaster 1""s (tiger",1,supplies
+552770,sanrio 0400,1,other
+552771,santhosh madavan,1,other
+552776,sapofen400mg20tabs,1,other
+552777,sapofen400mg30tabs,1,other
+552778,sapofen600mg30tabs,1,other
+552891,sapofen400mg20tab,1,other
+552892,sapofenjuniorpedsusp100ml,1,other
+552893,sapofenjuniorpedsusp145mlbox40,1,other
+552895,sapphire ptca balloon 1.0x10mm - sc,1,supplies
+552896,sapphire ptca balloon 1.5x10mm - sc,1,supplies
+552897,sapphire ptca balloon 2.0x15mm - sc,1,supplies
+552898,sapphire ptca balloon catheter,1,supplies
+552899,sapphire pro ptca balloon catheter 1.0x5mm,1,supplies
+552901,sarah husam aljefri,1,other
+552904,sarar frm 373 c2,1,eyewear
+552905,sarar frm 452/52/17 c3,1,eyewear
+552906,sarar frm 459/55/18 c3,1,eyewear
+552907,sarar frm 513/54/17 c1,1,eyewear
+552908,sarar frm 546 c2,1,eyewear
+552909,sarar frm 547 c6,1,eyewear
+552910,sarclisa,1,other
+552911,sarcoma medical oncology adult follow-up,1,consultation
+552912,sarcoma medical oncology adult new follow-up,1,consultation
+552913,sarcoma medical oncology adult new patient,1,other
+552914,sarcoma orthopedic oncology adult follow-up,1,consultation
+552915,sarcoma orthopedic oncology adult new follow-up,1,consultation
+552916,sarcoma orthopedic oncology adult new patient,1,other
+552917,sarcoma radiation oncology adult follow-up,1,physiotherapy
+552918,sarcoma radiation oncology adult new follow-up,1,physiotherapy
+552919,sarcoma radiation oncology adult new patient,1,physiotherapy
+552920,sarcoma and skin medical oncology follow-up,1,consultation
+552921,sarcoma and skin medical oncology new follow-up,1,consultation
+552922,sarcoma and skin medical oncology new patient,1,other
+552924,sarl dik,1,other
+552925,sarminto cast,1,supplies
+552946,sartoga rx s.v 1.5 hd toga,1,eyewear
+552947,sartoga rx s.v 1.5 hd toga blue,1,eyewear
+552948,sartoga rx s.v 1.5 hd toga star,1,eyewear
+552949,sartoga rx s.v 1.5 toga,1,eyewear
+552950,sartoga rx s.v 1.5 toga star,1,eyewear
+552951,sartoga rx s.v 1.53 trivex hd toga blue,1,eyewear
+552952,sartoga rx s.v 1.53 trivex hd toga star,1,eyewear
+552953,sartoga rx s.v 1.53 trivex toga,1,eyewear
+552954,sartoga rx s.v 1.6 hd toga,1,eyewear
+552955,sartoga rx s.v 1.6 toga,1,eyewear
+552956,sartoga rx s.v 1.6 toga star,1,eyewear
+552957,sartoga rx s.v 1.61 tribrid hd toga blue,1,eyewear
+552958,sartoga rx s.v 1.61 tribrid toga star,1,eyewear
+552959,sartoga rx s.v 1.67 hd toga blue,1,eyewear
+552960,sartoga rx s.v 1.67 toga,1,eyewear
+552961,sartoga rx s.v 1.67 toga blue,1,eyewear
+552962,sartoga rx s.v 1.74 toga,1,eyewear
+552963,sartoga rx2 s.v 1.5 hd toga,1,eyewear
+552964,sartoga rx2 s.v 1.5 hd toga star,1,eyewear
+552965,sartoga rx2 s.v 1.5 toga,1,lab_test
+552966,sartoga rx2 s.v 1.5 toga blue,1,lab_test
+552967,sartoga rx2 s.v 1.5 toga star,1,lab_test
+552968,sartoga rx2 s.v 1.53 trivex hd toga star,1,eyewear
+552969,sartoga rx2 s.v 1.6 hd toga star,1,eyewear
+552970,sartoga rx2 s.v 1.6 toga,1,lab_test
+552971,sartoga rx2 s.v 1.6 toga blue,1,lab_test
+552972,sartoga rx2 s.v 1.6 toga star,1,lab_test
+552973,sartoga rx2 s.v 1.61 tribrid hd toga,1,eyewear
+552974,sartoga rx2 s.v 1.61 tribrid hd toga blue,1,eyewear
+552975,sartoga rx2 s.v 1.61 tribrid toga blue,1,lab_test
+552976,sartoga rx2 s.v 1.67 hd toga blue,1,eyewear
+552977,sartoga rx2 s.v 1.74 toga star,1,lab_test
+552978,sartoga stock s.v 1.5 toga,1,lab_test
+552979,sartoga stock s.v 1.5 toga blue,1,lab_test
+552980,sartoga stock s.v 1.5 toga star,1,lab_test
+552981,sartoga stock s.v 1.53 trivex toga,1,lab_test
+552982,sartoga stock s.v 1.6 toga,1,lab_test
+552983,sartoga stock s.v 1.6 toga star,1,lab_test
+552984,sartoga stock s.v 1.67 toga,1,lab_test
+552985,sartoga stock s.v 1.67 toga star,1,lab_test
+552986,saucerisation,1,other
+552987,saud derbash alzhrani,1,other
+552988,saudi airlines consultation,1,consultation
+552990,saudi consultant fee,1,consultation
+552991,saudi driving license exam,1,other
+552992,saudi fransi capital pre-employment,1,consultation
+552993,saudi fransi pre-employment,1,consultation
+553005,savvy up,1,other
+553010,saw blade,1,supplies
+553011,"saw blade, 17mm",1,supplies
+553013,sawpro 30cap,1,other
+553018,sayed taha,1,other
+553020,sayen (tadalafil,1,other
+553029,sayer rawaf alsaqry,1,other
+553033,sbc admin of pharmac agt oth unsp agt,1,consultation
+553036,scailing for gum treatment (2 visits,1,dental
+553037,scailling & root planning,1,other
+553038,scal & polishing,1,dental
+553040,scalant filling for enamel fissure,1,dental
+553041,scalimg,1,other
+553044,scaling and root planning/ quadrant heavy calculus,1,dental
+553046,scaling root planning & polishing,1,dental
+553047,"scaling ""heavy calculus "" a",1,dental
+553049,scaling & cleaning severe,1,dental
+553050,scaling & cleaning simple,1,dental
+553051,scaling & cleaning modeum,1,dental
+553053,scaling & polishing ( both arches,1,dental
+553054,scaling & polishing (deep scaling,1,dental
+553055,scaling & polishing (prophy jet,1,dental
+553056,scaling & polishing (removal of plaque and/or stai,1,dental
+553057,scaling & polishing (removal of plaque and/or stain) - bupa,1,dental
+553058,scaling & polishing (superfacial scaling,1,dental
+553059,scaling & polishing (first appointment) - bupa,1,dental
+553060,scaling & polishing (subsequent appointment) - bup,1,dental
+553062,scaling & polishing + gum curretge,1,dental
+553063,scaling & polishing - adult,1,dental
+553064,scaling & polishing - adult (severe,1,dental
+553065,scaling & polishing -heavy,2,dental
+553067,scaling & polishing all teeth,1,dental
+553068,scaling & polishing diffecult,1,dental
+553069,scaling & polishing or gum curretage,1,dental
+553070,scaling & polishing moderate case,1,dental
+553071,scaling & polishing serer case,1,dental
+553072,scaling & prophymoderate,1,dental
+553074,scaling & root planning (full mouth) (bupa,1,dental
+553076,scaling & root planning (one jaw) (bupa,1,dental
+553081,scaling & currettage,1,dental
+553083,scaling & polishing (oral prophylaxis,1,dental
+553085,scaling & polishing + gum curettage,1,dental
+553086,scaling & polishing - child,1,dental
+553087,scaling & polishing ????? ??????? ??????? ?? ????? ???????,1,dental
+553088,scaling & polishing @,1,dental
+553090,scaling & polishing simple,2,dental
+553091,scaling & polishing in one visit,2,dental
+553093,scaling & polishing in two visits,1,dental
+553094,scaling & polishing-heavy calculus,1,dental
+553095,scaling & polishing-heavy calculus case,1,dental
+553096,scaling & polishing-heavy calculus casescaling & polishing-heavy calculus case,1,dental
+553097,scaling & polishing-heavy calculusse,1,dental
+553102,scaling &polishing a,1,dental
+553103,scaling &polishing b,1,dental
+553104,scaling &polishing-simple,1,dental
+553105,scaling ( 1 jaw,1,dental
+553107,scaling ( cleaning) and polishing,1,dental
+553108,scaling ( moderate,1,dental
+553109,scaling ( severe,1,dental
+553110,scaling ( simple,1,dental
+553111,scaling ( cleaning ) & polishing (medical,1,dental
+553112,scaling (cleaning,3,dental
+553114,scaling (cleaning) gt polishing,1,dental
+553115,scaling (cleaning) polishing,2,dental
+553117,scaling (cleaning)& polishing,1,dental
+553118,scaling (heavy calculus + pocket formation,2,dental
+553119,scaling (moderate calculus,1,dental
+553120,scaling (polishing,1,dental
+553121,scaling (advance,1,dental
+553125,scaling (complete mouth,1,dental
+553127,scaling (medium,1,dental
+553128,scaling (mild caculus deposits,1,dental
+553129,scaling (moderate calculus deposits,1,dental
+553130,scaling (simple,1,dental
+553131,scaling + curttage,1,dental
+553133,scaling + polshing,1,dental
+553136,scaling - ??? ???,1,dental
+553137,scaling - cleaning& polishungg,1,dental
+553140,scaling -removal of calculus subsequent appointment - 0375,1,dental
+553141,scaling -cleaning & polishing,1,dental
+553145,scaling /curetting,1,dental
+553146,scaling ??? ???? ???????,1,dental
+553147,scaling advansive case,7,dental
+553156,scaling and polishing (1st visit,1,dental
+553157,scaling and polishing - adult (severe,1,dental
+553160,scaling and root planning ( full mouth,1,dental
+553161,scaling and root planning ( one jow,1,dental
+553162,scaling and staining removeal and polishing - ????? ??????? ?????? ??????? ?? ???????,1,lab_test
+553163,scaling and staining removeal from teeth - ????? ??????? ?????? ???????,1,lab_test
+553166,scaling cleaning & polishing,2,dental
+553167,scaling cleaning and plishing,1,dental
+553169,scaling for one jaw only,1,dental
+553170,scaling gum treatment,1,dental
+553171,scaling heavy first visit,1,dental
+553172,scaling heavy subsequent visit,1,dental
+553173,scaling in the presence of generalized moderate or severe gingival inflammation - full mouth after o,2,dental
+553175,scaling light,1,dental
+553176,scaling plus polishing,1,dental
+553178,scaling polishing - 4007,1,dental
+553180,scaling root planning & prophyaxis,1,dental
+553184,scaling two sitting,1,dental
+553185,scaling upper & lower teeth,1,dental
+553190,scaling and polishing + gum curretage,1,dental
+553191,scaling and polishing ii,1,dental
+553192,scaling and polishing including prophy mate,1,dental
+553193,scaling and polishing including prophy mate(gcn-15,1,dental
+553194,scaling and polishing with prophy,1,dental
+553195,scaling and polishing light,1,dental
+553196,scaling and polishing lncluding prophy mate,1,dental
+553197,scaling and posishing,1,dental
+553199,scaling and root planing + curettage + polishing,1,dental
+553200,scaling and root planing+curettage+polishing,1,dental
+553202,scaling and root planning + curettage + polishing,1,dental
+553203,scaling and root planning+curettage+polishing,1,dental
+553204,scaling and root planning/one quarter,1,dental
+553206,scaling and polishing ( 2,1,dental
+553207,scaling and polishing (simple case,1,dental
+553209,scaling and root planing /quadrant,1,dental
+553210,scaling and root planing/tooth,1,dental
+553212,scaling and root planning for one jaw,1,dental
+553213,scaling and root planning(one jaw,1,dental
+553214,scaling and root planning+curretage+polishing,1,dental
+553215,scaling by manual scaler,1,dental
+553216,scaling by uitrasonic scaler,1,dental
+553218,scaling ciening and polishing,1,dental
+553219,scaling during ortho. treatment,1,dental
+553220,scaling fluoried pocket treatment,1,dental
+553221,scaling for one jaw,1,dental
+553222,scaling for both jaws without polishing,1,dental
+553223,scaling for gum treatment,1,dental
+553224,scaling gingival - full mouth after,1,dental
+553225,scaling gingival inflame. full mouth,1,dental
+553226,scaling in the gingival inflammation - full mouth,1,dental
+553228,scaling in the presence of generalized moderate or severe gingival,1,dental
+553229,scaling in the presence of generalized moderate or severe gingival inflamm,1,dental
+553230,scaling in the presence of generalized moderate or severe gingival inflammation,2,dental
+553238,scaling in the presence of generalized moderate or severe gingival inflammation - full mouth/ after oral evaluation,1,dental
+553239,scaling of upper/lower teeth,1,dental
+553240,scaling polishing - simple,1,dental
+553241,scaling polishing difficult,1,dental
+553242,scaling root planning & prophylaxis 2 arches,1,dental
+553244,scaling teeth one jaw,1,dental
+553245,scaling teeth only two jaw,1,dental
+553246,scaling using ultrasonic scaler&polishing-simple case,1,dental
+553247,scaling using ultrasonic scaler&polishing-with heavy calculus,1,dental
+553248,scaling w/generalized mod. or severe gingival inflam.- full mouth,1,dental
+553249,scaling with for two jaws,1,dental
+553251,scaling%20simple%20case%09,1,dental
+553253,scaling%20by%20uitrasonic%20scaler%09,1,dental
+553254,scaling%20in%20the%20presence%20of%20generalized%20moderate%20or%20severe%20gingival%20inflammation%20-%20full%20mouth%2c%20after%20oral%20evaluation,1,dental
+553255,scaling%2520upper%2520or%2520lower%2520jaw,1,dental
+553259,scaling(1jaw,1,dental
+553260,scaling(cleaning) & polishing,1,dental
+553261,scaling(advance,1,dental
+553264,"scaling, root planning",1,dental
+553265,"scaling, root planning 111",1,dental
+553266,"scaling, root planning & polishing",1,dental
+553267,"scaling, root planning & polishing 111",1,dental
+553268,scaling-polishing-cure,1,dental
+553270,scaling/ cleaing,1,dental
+553271,scaling/ polishing,1,dental
+553272,scaling/ cleaning teeth,1,dental
+553274,scaling/polishing,2,dental
+553275,scalingroot planning,1,other
+553278,scalling & polishing adult,1,dental
+553279,scalling & polishing in one visits (gum treatment,1,dental
+553280,scalling & polishing in two visits (gum treatment,1,dental
+553281,scalling & polisihing,1,other
+553283,scalling ( cleaning & polishing,1,dental
+553284,scalling (cleaning) & polishing,1,dental
+553285,scalling (cleaning) and polishing,1,dental
+553286,scalling + polishing,1,dental
+553288,scalling + teeth clening using prophygel,1,dental
+553289,scalling +polishing,1,dental
+553290,scalling - polishing,1,dental
+553291,scalling all,1,other
+553292,scalling and polishing 2,1,dental
+553293,scalling and polishing 2 partial b,1,dental
+553294,scalling and polishing 3,1,dental
+553295,scalling complete,1,other
+553296,scalling full mouth,1,other
+553297,scalling subgingival scanning,2,other
+553300,scalling and polishing one visit,1,dental
+553301,scalling for two jaws,1,other
+553302,scalling grade 2,1,other
+553304,scalling+ florid appliance,1,supplies
+553306,scalp needle,1,supplies
+553307,scalp needle & vein puncture,1,supplies
+553308,scalp needle & vein puncture - insurance,1,supplies
+553309,scalp needle - insurance,1,supplies
+553310,scalp vein g23,1,other
+553311,"scalp vein, needle butterfly g-24",1,supplies
+553312,"scalp clip applier, single-use",1,supplies
+553313,scalp cooling one session,1,physiotherapy
+553314,"scalp haemostasis clip, reusable",1,supplies
+553315,"scalp haemostasis clip, single-use",1,supplies
+553316,"scalpel blade remover, sterile",1,supplies
+553317,"scalpel blade, reusable",1,supplies
+553318,"scalpel blade, single-use",1,supplies
+553319,"scalpel handle, single-use",1,supplies
+553320,"scalpel, disposable 11",1,supplies
+553321,"scalpel, single-use",1,supplies
+553322,"scalpfix sterile, (10 clips/cartridge), aesculap, #ff013p",1,supplies
+553323,"scan, vascular doppler, colour",1,imaging
+553331,scaphoid bone 1film x-ray,1,imaging
+553332,scaphoid bone graft,1,imaging
+553336,scaphoid cast plastic cast,1,eyewear
+553337,scaphoid plaster ( gypsona,1,supplies
+553339,scaphoid tow position-5006,1,other
+553341,scaphoid x-ray,2,imaging
+553344,scaphoid cast synthetic,1,supplies
+553345,scaphoid fractures orif - grafting,1,procedure
+553346,scaphoid one position,1,supplies
+553347,scaphoid plaster (child) ordinary,1,supplies
+553348,scaphoid plaster (child) scoth cast,1,supplies
+553356,"scapula (ap,lateral) ???? ??? ???? ??? ?????",1,imaging
+553359,scapula a.p,1,lab_test
+553365,scapula lat,1,imaging
+553366,scapula left/right,1,other
+553367,scapula one view,2,supplies
+553368,scapula unilateral x- ray 2 views,1,eyewear
+553370,scapula x-ray - 2 views,1,imaging
+553372,scapula-2 views,1,imaging
+553373,scapula-axial view & lat. view 2 films,1,imaging
+553374,scapula/3 views,1,imaging
+553375,scapula/clavicle,1,other
+553376,scapular osteoma excision for deformity,1,procedure
+553377,scar endometriosis excision,1,procedure
+553382,"scar management dressing, reusable",1,supplies
+553383,"scar management dressing, single-use, non-sterile",1,supplies
+553384,"scar management dressing, single-use, sterile",1,supplies
+553385,scarban c-section elastic sheet w/ soap,1,supplies
+553386,scarban elastic silicone sheet 10x15cm,1,supplies
+553387,scaro lumbar support medium,1,supplies
+553388,scc (squamous cell carcinoma ag,1,lab_test
+553389,sceliosis,1,other
+553391,schimer tests,1,lab_test
+553393,schirmer test-bilateral,1,lab_test
+553396,schirmer's test for dray eye,1,lab_test
+553398,schistisoma abs,1,lab_test
+553399,schistosma antibody,1,lab_test
+553400,schistosoma,1,lab_test
+553404,schistosoma antibodies,1,lab_test
+553405,"schistosoma antibodies, iha",1,lab_test
+553406,schistosoma antibody - ?????,1,lab_test
+553407,schistosoma antibody s/o un,1,lab_test
+553408,schlotter lighter,1,other
+553409,schlotter1.56 light (+)(+)blue,1,other
+553411,schwind ( placido topography ) ( ou,1,diagnostic
+553412,"scissor curved disposable high-insulation (17mm) 5 x 330mm, kangii, (stz) #106y.201",1,supplies
+553414,scl-70 abs,1,lab_test
+553421,scleral fixation of iol,1,supplies
+553422,scleral fixation of intraocular lens - prosthesis,1,eyewear
+553423,scleroderma 70 antibody (scl-70) - ?????,1,lab_test
+553424,scleroderma antibody ( anti scl 70,1,lab_test

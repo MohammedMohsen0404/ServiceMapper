@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+240042,frame_burberry_2029-b_3019_50-15,1,eyewear
+240043,frame_burberry_2043_3109_50-15,1,eyewear
+240044,frame_burberry_2045_3001_50-16,1,eyewear
+240045,frame_burberry_2055_3002_53-16,1,eyewear
+240046,frame_burberry_2055_3022_53-16,1,eyewear
+240047,frame_burberry_2055_3084_53-16,1,eyewear
+240048,frame_burberry_2055_3133_51-16,1,eyewear
+240049,frame_burberry_2055_3134_53-16,1,eyewear
+240050,frame_burberry_2061_3153_51-16,1,eyewear
+240051,frame_burberry_2062_3008_50,1,eyewear
+240052,frame_burberry_2063_3055_50-16,1,eyewear
+240053,frame_burberry_2064_3014_50-16,1,eyewear
+240054,frame_burberry_2064_3064_50-16,1,eyewear
+240055,frame_burberry_2066_3177_54-17,1,eyewear
+240056,frame_burberry_2077_3259_51,1,eyewear
+240057,frame_burberry_2079_3001_54,1,eyewear
+240058,frame_burberry_2079_3199_54,1,eyewear
+240059,frame_burberry_2086_3001_52,1,eyewear
+240060,frame_burberry_2086_3081_52,1,eyewear
+240061,frame_burberry_2091_3001_54,1,eyewear
+240062,frame_burberry_2091_3237_52,1,eyewear
+240063,frame_burberry_2094_3001_54,1,eyewear
+240064,frame_burberry_2096_3257_51,1,eyewear
+240065,frame_burberry_2096_3258_53,1,eyewear
+240066,frame_burberry_2104_3001_52,1,eyewear
+240067,frame_burberry_2108_3002_52,1,eyewear
+240068,frame_burberry_2120_3001_51,1,eyewear
+240069,frame_burberry_2137_3265_53,1,eyewear
+240070,frame_burberry_2137_3367_53,1,eyewear
+240071,frame_burberry_2150_3001_53,1,eyewear
+240072,frame_burberry_2150_3001_55,1,eyewear
+240073,frame_burberry_2162_3001_55,1,eyewear
+240074,frame_burberry_2162_3469_55,1,eyewear
+240075,frame_burberry_2163_3467_55,1,eyewear
+240076,frame_burberry_2189_3001_54,1,eyewear
+240077,frame_burberry_2190_3001_54,1,eyewear
+240078,frame_burberry_2190_3002_54,1,eyewear
+240079,frame_burberry_2214_3001_53,1,eyewear
+240080,frame_burberry_2239_3536_53,1,eyewear
+240081,frame_burberry_2282_3001_55,1,eyewear
+240082,frame_bvlgari_1015_278_50-16,1,eyewear
+240083,frame_bvlgari_1016_317_50-16,1,eyewear
+240084,frame_bvlgari_1059_278_53,1,eyewear
+240085,frame_bvlgari_1095_195_53,1,eyewear
+240086,frame_bvlgari_1105_195_53,1,eyewear
+240087,frame_bvlgari_2049-b_102_49-16,1,eyewear
+240088,frame_bvlgari_2081_350_52-16,1,eyewear
+240089,frame_bvlgari_2082-b_266_51-15,1,eyewear
+240090,frame_bvlgari_2121_102_54,1,eyewear
+240091,frame_bvlgari_2121_380_54,1,eyewear
+240092,frame_bvlgari_2121_381_54,1,eyewear
+240093,frame_bvlgari_2206_278_53,1,eyewear
+240094,frame_bvlgari_2207_278_54,1,eyewear
+240095,frame_bvlgari_296_102_53-17,1,eyewear
+240096,frame_bvlgari_3015_501_55,1,eyewear
+240097,frame_bvlgari_3018_501_52,1,eyewear
+240098,frame_bvlgari_3018_5227_52,1,eyewear
+240099,frame_bvlgari_3024_5314_54,1,eyewear
+240100,frame_bvlgari_4030-b_5031_52-16,1,eyewear
+240101,frame_bvlgari_4044b_5135_52,1,eyewear
+240102,frame_bvlgari_4046b_518_52,1,eyewear
+240103,frame_bvlgari_4047_649_51,1,eyewear
+240104,frame_bvlgari_4050_501_53,1,eyewear
+240105,frame_bvlgari_4132-b_504_53,1,eyewear
+240106,frame_bvlgari_4164_5461_51,1,eyewear
+240107,frame_bvlgari_464b_518_53-16,1,eyewear
+240108,frame_byblas_17_3_52-16,1,eyewear
+240109,frame_byblas_26_2_54-16,1,eyewear
+240110,frame_byblas_26_3_54-16,1,eyewear
+240111,frame_byblas_26_4_54-16,1,eyewear
+240112,frame_byblas_27_2_53-17,1,eyewear
+240113,frame_byblas_29_3_53-16,1,eyewear
+240114,frame_byblas_31_2_52-16,1,eyewear
+240115,frame_byblas_31_3_52-16,1,eyewear
+240116,frame_byblas_4_4_49-17,1,eyewear
+240117,frame_byblas_778_3276_50-18,1,eyewear
+240118,frame_byblas_780_3380-s_49-17,1,eyewear
+240119,frame_byblas_871_3406_47-18,1,eyewear
+240120,frame_cacharel_0030_002_53-16,1,eyewear
+240121,frame_cacharel_0030_004_53-16,1,eyewear
+240122,frame_cacharel_0063_002_51-15,1,eyewear
+240123,frame_cacharel_2157_395_54-16,1,eyewear
+240124,frame_cacharel_29_2_50-16,1,eyewear
+240125,frame_cacharel_29_3_50-16,1,eyewear
+240126,frame_cacharel_30_2_53-16,1,eyewear
+240127,frame_cacharel_30_4_53-16,1,eyewear
+240128,frame_cacharel_3113_889_54-16,1,eyewear
+240129,frame_cacharel_3181_1196_54-15,1,eyewear
+240130,frame_calvin klein_19508_001_49-18,1,eyewear
+240131,frame_calvin klein_5717_229_47-21,1,eyewear
+240132,frame_calvin klein_5767_528_52-17,1,eyewear
+240133,frame_calvin klein_7888_214_53-18,1,eyewear
+240134,frame_carrera kd_7403_fui_43-17,1,eyewear
+240135,frame_carrera kd_carrerino53_hnn_49-17/e,1,eyewear
+240136,frame_carrera kd_carrerino54_64h_48-15,1,eyewear
+240137,frame_carrera kd_carrerino54_koi_50-15/e,1,eyewear
+240138,frame_carrera kd_carrerino54_koj_48-15,1,eyewear
+240139,frame_carrera kd_carrerino55_koc_45-18,1,eyewear
+240140,frame_carrera kd_carrerino56_tsu_48-16,1,eyewear
+240141,frame_carrera kd_carrerino56_tsv_48-16,1,eyewear
+240142,frame_carrera kd_carrerino57_tsh_49-15/e,1,lab_test
+240143,frame_carrera kd_carrerino60_syt_44-18,1,eyewear
+240144,frame_carrera kd_carrerino60_szk_44-18,1,eyewear
+240145,frame_carrera kd_carrerino60_szs_44-18,1,eyewear
+240146,frame_carrera kd_carrerino60_t77_44-18,1,eyewear
+240147,frame_carrera kd_carrerino63_80s_49-38/e,1,eyewear
+240148,frame_carrera kd_carrerino63_tcb_49-38/e,1,eyewear
+240149,frame_carrera kd_carrerino68_pjp_48-16/e,1,eyewear
+240150,frame_carrera_5506_bd3_54-15,1,eyewear
+240151,frame_carrera_5513_fb8_52-19,1,eyewear
+240152,frame_carrera_5514_b2x_54-16,1,eyewear
+240153,frame_carrera_5514_opc_54-16,1,eyewear
+240155,frame_carrera_5542_pl3_48-19,1,eyewear
+240156,frame_carrera_5544_807_53-19,1,eyewear
+240157,frame_carrera_5545_807_52-18,1,eyewear
+240158,frame_carrera_6132_807_54-16,1,eyewear
+240159,frame_carrera_6135_s2l_51-17,1,eyewear
+240160,frame_carrera_6154_obs_59-09,1,eyewear
+240161,frame_carrera_6154_oei_59-09,1,eyewear
+240162,frame_carrera_6154_ogg_59-09,1,eyewear
+240163,frame_carrera_6158_d2z_54-16,1,eyewear
+240164,frame_carrera_6158_kgo_54-16,1,eyewear
+240165,frame_carrera_6159_056_54-16,1,eyewear
+240166,frame_carrera_6159_56_54-16,1,eyewear
+240167,frame_carrera_6159_b91_54-16,1,eyewear
+240168,frame_carrera_6159_d57_54-16,1,eyewear
+240169,frame_carrera_6160_057_54-16,1,eyewear
+240170,frame_carrera_6160_d57_54-16,1,eyewear
+240171,frame_carrera_6161_iib_54-16,1,eyewear
+240172,frame_carrera_6163/n_8m2_53-15,1,eyewear
+240173,frame_carrera_6163_fko_53-15,1,eyewear
+240174,frame_carrera_6163_k13_53-15,1,eyewear
+240175,frame_carrera_6167_t29_53-17,1,eyewear
+240176,frame_carrera_6167_t2c_53-17,1,eyewear
+240177,frame_carrera_6167_t2n_53-17,1,eyewear
+240178,frame_carrera_6170_01z_54-14,1,eyewear
+240179,frame_carrera_6170_865_54-14,1,eyewear
+240180,frame_carrera_6170_f3f_54-14,1,eyewear
+240181,frame_carrera_6172_88o_53-16,1,eyewear
+240182,frame_carrera_6173_87p_54-14,1,eyewear
+240183,frame_carrera_6173_87r_54-14,1,eyewear
+240184,frame_carrera_6173_87v_54-14,1,eyewear
+240185,frame_carrera_6178_8q0_56-15,1,eyewear
+240186,frame_carrera_6178_of4_56-15,1,eyewear
+240187,frame_carrera_6186_81h_52-15,1,eyewear
+240188,frame_carrera_6186_81j_52-15,1,eyewear
+240189,frame_carrera_6186_86_52-15,1,eyewear
+240190,frame_carrera_6186_qhc_52-15,1,eyewear
+240192,frame_carrera_6191_7j3_47-21,1,eyewear
+240193,frame_carrera_6191_t52_45-21,1,eyewear
+240194,frame_carrera_6197_kd9_52-16,1,eyewear
+240195,frame_carrera_6207_xpc_56-16,1,eyewear
+240196,frame_carrera_7209_000_53-20,1,eyewear
+240197,frame_carrera_7209_w5g_55-20,1,eyewear
+240198,frame_carrera_7209_w6g_53-20,1,eyewear
+240199,frame_carrera_7226_32y_42-18,1,eyewear
+240201,frame_carrera_7352_7wo_51-19,1,eyewear
+240202,frame_carrera_7367_15q_54-19,1,eyewear
+240203,frame_carrera_7367_byf_54-19,1,eyewear
+240204,frame_carrera_7376_mfd_55-17,1,eyewear
+240205,frame_carrera_7378/n_med_51-18,1,eyewear
+240206,frame_carrera_7388_6lb_52-19,1,eyewear
+240207,frame_carrera_7388_byf_52-19,1,eyewear
+240208,frame_carrera_7388_byf_54-19,1,eyewear
+240209,frame_carrera_7395_pa9_55-17,1,eyewear
+240210,frame_carrera_7403_fto_47-17,1,eyewear
+240211,frame_carrera_7431_ve1_52-18,1,eyewear
+240212,frame_carrera_7432_ins_46-20,1,eyewear
+240213,frame_carrera_7433_inw_47-20,1,eyewear
+240214,frame_carrera_7444_ece_54-20,1,eyewear
+240215,frame_carrera_7466_ifw_51-18,1,eyewear
+240216,frame_carrera_7467_b14_52-20,1,eyewear
+240217,frame_carrera_7467_ias_52-20,1,eyewear
+240218,frame_carrera_7467_mmk_52-20,1,eyewear
+240219,frame_carrera_7504_mpz_54-19,1,eyewear
+240220,frame_carrera_7512_kn9_53-20,1,eyewear
+240221,frame_carrera_7528_rzz_52-18,1,eyewear
+240222,frame_carrera_7531_td2_53-18,1,eyewear
+240223,frame_carrera_7535_t3u_52-18,1,eyewear
+240224,frame_carrera_7547_86i_55-17,1,eyewear
+240225,frame_carrera_7547_rzz_55-17,1,eyewear
+240226,frame_carrera_7548_rzz_53-20,1,eyewear
+240227,frame_carrera_7569_wzl_59-13,1,eyewear
+240228,frame_carrera_carrera175_807_53-17/e,1,eyewear
+240230,frame_carrera_carrera189_010_55-17/e,1,eyewear
+240231,frame_carrera_carrerino61_syt_49-15,1,eyewear
+240232,frame_carrera_carrerino61_tcf_49-15,1,eyewear
+240233,frame_carrera_carrerino67_0t4_46-16,1,eyewear
+240234,frame_carrera_carrerino67_807_46-16,1,eyewear
+240235,frame_carrera_carrerino68_086_48-16,1,eyewear
+240236,frame_celine_41334_05l_50-20,1,eyewear
+240237,frame_celine_41343_807_53-17,1,eyewear
+240238,frame_celine_41343_86_53-17,1,eyewear
+240239,frame_celine_41343_lhf_53-17,1,eyewear
+240240,frame_celine_50016i_053_52,1,eyewear
+240241,frame_celine_50058i_053_50,1,eyewear
+240242,frame_centro style_156_2_36-11,1,eyewear
+240243,frame_centro style_56023_black_46-17,1,eyewear
+240244,frame_charme_241_0_52-18,1,eyewear
+240245,frame_chica chico_3_c2_39-17,1,eyewear
+240246,frame_chick_1014_04_37-16,1,eyewear
+240247,frame_chick_1014_10_37-16,1,eyewear
+240248,frame_chick_1014_19_37-16,1,eyewear
+240249,frame_chick_1014_2_37-16,1,eyewear
+240250,frame_chick_1014_4_37-16,1,eyewear
+240251,frame_chick_1014_5_37-16,1,eyewear
+240252,frame_chick_1014_6_37-16,1,eyewear
+240253,frame_chick_1014_7_37-16,1,eyewear
+240254,frame_chick_1018_04_48-15,1,eyewear
+240255,frame_chick_1018_1_48-15,1,eyewear
+240256,frame_chick_1018_4_48-15,1,eyewear
+240257,frame_chick_1018_5_48-15,1,eyewear
+240258,frame_chick_1020_19_43-16,1,eyewear
+240259,frame_chick_1020_7_43-16,1,eyewear
+240260,frame_chick_1023_21_42-15,1,eyewear
+240261,frame_chick_1023_3_42-15,1,eyewear
+240262,frame_chick_1023_4_42-15,1,eyewear
+240263,frame_chick_9001_19_43-16,1,eyewear
+240264,frame_chick_9001_4_43-16,1,eyewear
+240265,frame_chick_9002_9_44-15,1,eyewear
+240266,frame_chick_9003_1_42-16,1,eyewear
+240267,frame_chick_9003_44_42-16,1,eyewear
+240268,frame_chick_9004_04_44-15,1,eyewear
+240269,frame_chick_9004_3_44-15,1,eyewear
+240270,frame_chick_9004_9_44-15,1,eyewear
+240271,frame_chick_9005_1_47-17,1,eyewear
+240272,frame_chick_9005_47_47-17,1,eyewear
+240273,frame_chick_9005_5_47-17,1,eyewear
+240274,frame_chloe_2601_424_53-14,1,eyewear
+240275,frame_chloe_2602_1_55-16,1,eyewear
+240276,frame_chloe_2602_248_55-16,1,eyewear
+240277,frame_chloe_2610_405_52-14,1,eyewear
+240278,frame_chloe_2624_219_53-14,1,eyewear
+240279,frame_chloe_2624_2_53-14,1,eyewear
+240280,frame_chloe_2624_504_53-14,1,eyewear
+240281,frame_chopard_103_722_54,1,eyewear
+240282,frame_chopard_125_0722_55,1,eyewear
+240283,frame_chopard_138_0700_53,1,eyewear
+240284,frame_chopard_141_0700_53,1,eyewear
+240285,frame_chopard_71_700_54,1,eyewear
+240286,frame_chopard_80_722_55,1,eyewear
+240287,frame_chopard_a69_08fc_55,1,eyewear
+240288,frame_chopard_c76_0568_52,1,eyewear
+240289,frame_chopard_d61m_0579_57,1,eyewear
+240290,frame_clayton franklin_559_br_45,1,eyewear
+240291,frame_clayton franklin_602_agp_50,1,eyewear
+240292,frame_clayton franklin_647_rg_48,1,eyewear
+240293,frame_clayton franklin_755_bk_47,1,eyewear
+240294,frame_clayton franklin_756_bcr_48,1,eyewear
+240295,frame_clayton franklin_757_dm_49,1,eyewear
+240296,frame_color of the kids_live_37_40-16,1,eyewear
+240297,frame_converse_129_0703_53,1,eyewear
+240298,frame_converse_129_0p57_53,1,eyewear
+240299,frame_converse_133_0568_55,1,eyewear
+240300,frame_converse_171_703y_52,1,eyewear
+240301,frame_converse_171_p57y_52,1,eyewear
+240302,frame_cp_147f_brwn_49-19,1,eyewear
+240303,frame_cp_148f_bwn_49-21,1,eyewear
+240304,frame_cp_151c_blk_52-18,1,eyewear
+240305,frame_cp_156a_mat blk_50-17,1,eyewear
+240306,frame_cp_160_blk_53-18,1,eyewear
+240307,frame_cp_163c_mat blk_50-21,1,eyewear
+240308,frame_cp_164b_brwn_53-14,1,eyewear
+240309,frame_cp_166a_blk_54-15,1,eyewear
+240310,frame_cp_166_blk_54-15,1,eyewear
+240311,frame_cp_167a_gry blk_54-19,1,eyewear
+240312,frame_cp_168b_blk ylw_50-17,1,eyewear
+240313,frame_cp_168c_blk_50-17,1,eyewear
+240314,frame_cp_193_blk ptrn_52-17,1,eyewear
+240315,frame_d & g_1106_625_51-16,1,eyewear
+240316,frame_d & g_1117_666_50-17,1,eyewear
+240317,frame_d & g_1123-b_501_50-14,1,eyewear
+240318,frame_d & g_1124_508_50-15,1,eyewear
+240319,frame_d & g_1127_832_49-16,1,eyewear
+240320,frame_d & g_1137_731_49-17,1,eyewear
+240321,frame_d & g_1140_502_49-17,1,eyewear
+240322,frame_d & g_1140_714_49-17,1,eyewear
+240323,frame_d & g_1154_828_49-17,1,eyewear
+240324,frame_d & g_1169_981_48-15,1,eyewear
+240325,frame_d & g_1169_982_50-15,1,eyewear
+240326,frame_d & g_1169_983_48-15,1,eyewear
+240327,frame_d & g_1169_983_50-15,1,eyewear
+240328,frame_d & g_1179_1826_49,1,eyewear
+240329,frame_d & g_1202_1672_51,1,eyewear
+240330,frame_d & g_1203_814_50,1,eyewear
+240331,frame_d & g_1213_1876_52,1,eyewear
+240332,frame_d & g_1213_1877_50,1,eyewear
+240333,frame_d & g_1213_501_52,1,eyewear
+240334,frame_d & g_1216_1857_54,1,eyewear
+240335,frame_d & g_1216_502_54,1,eyewear
+240336,frame_d & g_1233_502_55,1,eyewear
+240337,frame_d & g_1238_501_52,1,eyewear
+240338,frame_d & g_5009_107_50-15,1,eyewear
+240339,frame_d & g_5009_108_50-15,1,eyewear
+240340,frame_d & g_5017_017_49-16,1,eyewear
+240341,frame_d & g_5017_17_49-16,1,eyewear
+240342,frame_d & g_5030_216_50-17,1,eyewear
+240343,frame_d & g_5049_061_49-17,1,eyewear
+240344,frame_d & g_5049_064_49-17,1,eyewear
+240345,frame_d & g_5065_361_51-16,1,eyewear
+240346,frame_d & g_5065_373_51-16,1,eyewear
+240347,frame_d & g_5065_64_51-16,1,eyewear
+240348,frame_d & g_5066_61_52-17,1,eyewear
+240349,frame_diesel_0084_kwo_51-17,1,eyewear
+240350,frame_diesel_0084_kyi_51-17,1,eyewear
+240351,frame_diesel_0086_kop_54-16,1,eyewear
+240352,frame_diesel_0088_hvk_57-17,1,eyewear
+240353,frame_diesel_0088_j5g_57-17,1,eyewear
+240354,frame_diesel_0089_nzo_53-17,1,eyewear
+240355,frame_diesel_0094_tdo_54-13,1,eyewear
+240356,frame_diesel_0100_koe_54-13,1,eyewear
+240357,frame_diesel_0102_vic_53-14,1,eyewear
+240358,frame_diesel_0103_086_54-13,1,eyewear
+240359,frame_diesel_0116_h07_54-16,1,eyewear
+240360,frame_diesel_121_h1d_52-18,1,eyewear
+240361,frame_diesel_132_e24_52-15,1,eyewear
+240362,frame_diesel_132_e33_52-15,1,eyewear
+240363,frame_diesel_172_3_54-15,1,eyewear
+240364,frame_diesel_172_qxi_54-15,1,eyewear
+240365,frame_diesel_181_qw4_51-15,1,eyewear
+240366,frame_diesel_5122_038_53,1,eyewear
+240367,frame_diesel_5153_001_55,1,eyewear
+240368,frame_diesel_5164_002_51,1,eyewear
+240369,frame_diesel_5166_001_55,1,eyewear
+240370,frame_diesel_5181_049_54,1,eyewear
+240371,frame_diesel_5199_001_53,1,eyewear
+240372,frame_diesel_53_pxz_53-17,1,eyewear
+240373,frame_diesel_88_hvk_57-17,1,eyewear
+240374,frame_diesel_88_j5g_57-17,1,eyewear
+240375,frame_diesel_88_kj1_57-17,1,eyewear
+240376,frame_diesel_89_bfj_53-17,1,eyewear
+240377,frame_diesel_89_hsu_53-17,1,eyewear
+240378,frame_diesel_89_nzo_53-17,1,eyewear
+240379,frame_diesel_89_ohm_53-17,1,eyewear
+240380,frame_diesel_92_tcz_53-15,1,eyewear
+240381,frame_diesel_94_tdk_54-13,1,eyewear
+240382,frame_diesel_98_svx_52-13,1,eyewear
+240383,frame_diesel_98_tdk_52-13,1,eyewear
+240384,frame_diesel_angelino_obn_54-15,1,eyewear
+240385,frame_diesel_angelino_obq_54-15,1,eyewear
+240386,frame_diesel_aretha_3.00e+03_51-15,1,eyewear
+240387,frame_diesel_slimm_304_51-15,1,eyewear
+240388,frame_dior homme_0221_j5g_59-14,1,eyewear
+240389,frame_dior homme_0236_kj1_50-21/e,1,eyewear
+240390,frame_dior homme_blacktie 54_clq_52-16,1,eyewear
+240391,frame_dior homme_blacktie151_am6_53-17,1,eyewear
+240392,frame_dior homme_blacktie195_n0d_46-20,1,eyewear
+240393,frame_dior homme_blacktie259_807_55-16,1,eyewear
+240394,frame_dior_181_apd_54-18,1,eyewear
+240395,frame_dior_181_cea_54-18,1,eyewear
+240396,frame_dior_2880_48b_55-17,1,eyewear
+240397,frame_dior_3056_8s4_54-14,1,eyewear
+240398,frame_dior_3082_e5p_53-15,1,eyewear
+240399,frame_dior_3113_e6f_50-16,1,eyewear
+240400,frame_dior_3113_ym6_50,1,eyewear
+240401,frame_dior_3118_hkn_50-15,1,eyewear
+240402,frame_dior_3134_29a_53-15,1,eyewear
+240403,frame_dior_3134_lrm_53-15,1,eyewear
+240404,frame_dior_3136_hkm_54-14,1,eyewear
+240405,frame_dior_3136_swh_54-14,1,eyewear
+240406,frame_dior_3144_ddw_48-15,1,eyewear
+240407,frame_dior_3144_ddy_48-15,1,eyewear
+240408,frame_dior_3152_ews_53-15,1,eyewear
+240409,frame_dior_3158_aiq_50-15,1,eyewear
+240410,frame_dior_3158_tul_50-15,1,eyewear
+240411,frame_dior_3168_743_54-14,1,eyewear
+240412,frame_dior_3168_750_54-14,1,eyewear
+240413,frame_dior_3168_cra_54-14,1,eyewear
+240414,frame_dior_3168_d28_54-14,1,eyewear
+240415,frame_dior_3176_j8s_54-14,1,eyewear
+240416,frame_dior_3179_hr2_54-14,1,eyewear
+240417,frame_dior_3185_d28_54-15,1,eyewear
+240418,frame_dior_3185_mpu_54,1,eyewear
+240419,frame_dior_3191_i57_54-15,1,eyewear
+240420,frame_dior_3191_i5g_54-15,1,eyewear
+240421,frame_dior_3191_i5m_54-15,1,eyewear
+240422,frame_dior_3191_l44_54-15,1,eyewear
+240423,frame_dior_3192_i57_52-15,1,eyewear
+240424,frame_dior_3193_56_52-15,1,eyewear
+240425,frame_dior_3195_807_54-14,1,eyewear
+240426,frame_dior_3196_l5l_51-15,1,eyewear
+240427,frame_dior_3197_fpn_53-15,1,eyewear
+240428,frame_dior_3197_l4o_53-15,1,eyewear
+240429,frame_dior_3198_qof_53-14,1,eyewear
+240430,frame_dior_3198_rek_53-14,1,eyewear
+240431,frame_dior_3200_q47_52-15,1,eyewear
+240432,frame_dior_3204_791_54-13,1,eyewear
+240433,frame_dior_3204_ume_54-13,1,eyewear
+240434,frame_dior_3210_086_51-16,1,eyewear
+240435,frame_dior_3210_av6_53-16,1,eyewear
+240436,frame_dior_3210_o6e_53-16,1,eyewear
+240437,frame_dior_3213_5o4_50-17,1,eyewear
+240438,frame_dior_3225_29a_51-16,1,eyewear
+240439,frame_dior_3226_aqm_57-09,1,eyewear
+240440,frame_dior_3241_m8q_53-15,1,eyewear
+240441,frame_dior_3270_3lg_53-13,1,eyewear
+240442,frame_dior_3679_ryb_52-17,1,eyewear
+240443,frame_dior_3688_lra_51-16,1,eyewear
+240444,frame_dior_3691_swq_52-17,1,eyewear
+240446,frame_dior_3701_ocf_51-16,1,eyewear
+240447,frame_dior_3707_ttm_52-14,1,eyewear
+240448,frame_dior_3710_ttg_53-15,1,eyewear
+240449,frame_dior_3714_dyw_53-17,1,eyewear
+240450,frame_dior_3716_hch_52-15,1,eyewear
+240451,frame_dior_3717_d5d_52-16,1,eyewear
+240452,frame_dior_3726_l4b_53-16,1,eyewear
+240453,frame_dior_3728_l6b_56-15,1,eyewear
+240454,frame_dior_3728_m62_55-15,1,eyewear
+240455,frame_dior_3728_m62_56-15,1,eyewear
+240456,frame_dior_3736_ej9_55-16,1,eyewear
+240457,frame_dior_3741_ew0_53-16,1,eyewear
+240458,frame_dior_3741_lz2_53-16,1,eyewear
+240459,frame_dior_3748_q3p_52-17,1,eyewear
+240460,frame_dior_3755_aey_56-13,1,eyewear
+240461,frame_dior_3761_h10_54-16,1,eyewear
+240462,frame_dior_essence11_807_53-17,1,eyewear
+240463,frame_dior_stellaire 01_ddb_56-17,1,eyewear
+240464,frame_dita_flight 007_111-01_57,1,eyewear
+240465,frame_dita_informer_501-03/rse_54,1,eyewear
+240466,frame_dita_telion_120-02_51,1,eyewear
+240467,frame_dkny_5555_1002_49-17,1,eyewear
+240468,frame_dkny_5556_1010_49-16,1,eyewear
+240469,frame_dkny_5560_1034_53-16,1,eyewear
+240470,frame_dkny_5561_1074_51-17,1,eyewear
+240471,frame_dolce & gabbana_1136_204_50-17,1,eyewear
+240472,frame_dolce & gabbana_1141-b_682_50-16,1,eyewear
+240473,frame_dolce & gabbana_1141_172_50-17,1,eyewear
+240474,frame_dolce & gabbana_1158-b_431_51-16,1,eyewear
+240475,frame_dolce & gabbana_1168-g_172_52-17,1,eyewear
+240476,frame_dolce & gabbana_1169-b_345_52-17,1,eyewear
+240477,frame_dolce & gabbana_1185-b_394_51-16,1,eyewear
+240478,frame_dolce & gabbana_3024-b_677_51-15,1,eyewear
+240479,frame_dolce & gabbana_3076_874_x,1,eyewear
+240481,frame_dolce & gabbana_3113_1915_54,1,eyewear
+240482,frame_dolce & gabbana_3118_2566_54,1,eyewear
+240483,frame_dolce & gabbana_3120_502_54,1,eyewear
+240484,frame_dolce & gabbana_3136_2583_53,1,eyewear
+240485,frame_dolce & gabbana_3197_501_51,1,eyewear
+240486,frame_dolce & gabbana_3207_2867_53,1,eyewear
+240487,frame_dolce & gabbana_3284_502_51,1,eyewear
+240488,frame_dolce & gabbana_5016_2616_52,1,eyewear
+240489,frame_dolce & gabbana_5019_3028_52,1,eyewear
+240490,frame_dolce & gabbana_5026_501_52,1,eyewear
+240491,frame_dolce & gabbana_5027_501_55,1,eyewear
+240492,frame_dolce gabbana_1135_064_51-17,1,eyewear
+240493,frame_dolce gabbana_1140_029_49-16,1,eyewear
+240494,frame_dolce gabbana_1140_044_49-16,1,eyewear
+240495,frame_dolce gabbana_1140_126_49-16,1,eyewear
+240496,frame_dolce gabbana_1140_208_49-16,1,eyewear
+240497,frame_dolce gabbana_1168-g_062_52-17,1,eyewear
+240498,frame_dolce gabbana_1169-b_296_52-17,1,eyewear
+240499,frame_dolce gabbana_1282_1287_53,1,eyewear
+240500,frame_dolce gabbana_3036_501_50-14,1,eyewear
+240501,frame_dolce gabbana_3071_1510_53-16,1,eyewear
+240503,frame_dolce gabbana_3115_1901_53,1,eyewear
+240504,frame_dolce gabbana_3119_1928_54,1,eyewear
+240505,frame_dolce gabbana_3136_2586_53,1,eyewear
+240506,frame_dolce gabbana_3156_501_51,1,eyewear
+240507,frame_dolce gabbana_3159_2583_47,1,eyewear
+240508,frame_dolce gabbana_3159_2586_47,1,eyewear
+240509,frame_dolce gabbana_3169_502_51,1,eyewear
+240510,frame_dolce gabbana_3181_502_55,1,eyewear
+240511,frame_dolce gabbana_3184_501_50,1,eyewear
+240512,frame_dolce gabbana_3184_502_48,1,eyewear
+240513,frame_dolce gabbana_3185_502_55,1,eyewear
+240514,frame_dolce gabbana_3223_2912_47,1,eyewear
+240515,frame_dolce gabbana_3246_3036_53,1,eyewear
+240516,frame_dolce gabbana_3311_502_51,1,eyewear
+240517,frame_dolce gabbana_5011_501_54,1,eyewear
+240518,frame_dolce gabbana_5014_2896_52,1,eyewear
+240519,frame_dsquared2_5096_001_50,1,eyewear
+240520,frame_dsquared2_5101_001_54,1,eyewear
+240521,frame_dsquared2_5130_005_49,1,eyewear
+240522,frame_dsquared2_5135_001_56,1,eyewear
+240523,frame_dsquared2_5135_014_56,1,eyewear
+240524,frame_dsquared2_5140_052_51,1,eyewear
+240525,frame_dsquared2_5142_027_53,1,eyewear
+240526,frame_dsquared2_5146_014_57,1,eyewear
+240527,frame_dsquared2_5163_074_52,1,eyewear
+240528,frame_dsquared2_5167_01a_51,1,eyewear
+240529,frame_dsquared2_5168_002_50,1,eyewear
+240530,frame_dsquared2_5276_082_52,1,eyewear
+240531,frame_dunhill_090_02_54-17,1,eyewear
+240532,frame_dunhill_095_04_53,1,eyewear
+240533,frame_dunhill_131_03_55-18,1,eyewear
+240534,frame_dysma_2100_12_56-19,1,eyewear
+240535,frame_elce_449_4917_51-19,1,eyewear
+240536,frame_elce_450_5268_52-18,1,eyewear
+240537,frame_elce_451_4920_53-16,1,eyewear
+240538,frame_elce_464_5090_51-19,1,eyewear
+240539,frame_elce_465_5093_55-17,1,eyewear
+240540,frame_elce_466_5098_53-18,1,eyewear
+240541,frame_elce_471_5168_52-17,1,eyewear
+240542,frame_elce_471_5171_52-17,1,eyewear
+240543,frame_elce_473_5178_51-18,1,eyewear
+240544,frame_elce_473_5180_51-18,1,eyewear
+240545,frame_elce_473_5181_51-18,1,eyewear
+240546,frame_elce_478_5275_54-17,1,eyewear
+240547,frame_elce_480_5287_53-19,1,eyewear
+240548,frame_elce_491_5341_55-18,1,eyewear

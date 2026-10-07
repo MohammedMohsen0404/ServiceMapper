@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+627218,x-ray i/o occlusal,1,imaging
+627219,x-ray i/o single/periapical,1,imaging
+627220,x-ray image intensifier ( per use,1,imaging
+627221,x-ray image intensifier 30 min,1,imaging
+627222,x-ray image intensifier/use,1,imaging
+627223,x-ray intra - oral single,1,imaging
+627224,x-ray intra - oral single(apical or bite,2,imaging
+627225,x-ray intra - oral single/periapical x-ray,1,imaging
+627226,x-ray intra -oral (periapical,1,imaging
+627227,x-ray intra-oral single,1,imaging
+627228,x-ray intra-oral single ( periapical,3,imaging
+627229,x-ray intra-oral single (periapical,1,imaging
+627230,x-ray intra-oral single / periapical x-ray,2,imaging
+627231,x-ray intra-oral single / periapical x- ray,2,imaging
+627233,x-ray intra-oral single/periapical x- ray,3,imaging
+627235,x-ray intra-oral single/ periapical x-ray,1,imaging
+627236,x-ray intra-oral [ periapical,1,imaging
+627237,x-ray jaw joint bilateral,1,imaging
+627238,x-ray jionts( 2f,2,imaging
+627239,x-ray jionts( 3f,2,imaging
+627240,x-ray joint,1,imaging
+627241,x-ray joint 1 view,1,imaging
+627242,x-ray k.u.b (1 v,1,imaging
+627243,x-ray k.u.b,1,imaging
+627244,x-ray kidneys- ureters & bladder (k.u.b,1,imaging
+627245,x-ray knee,4,imaging
+627246,x-ray knee (ap standing+lat+ sky line views,1,imaging
+627247,x-ray knee (ap+lat,1,imaging
+627248,x-ray knee - 2 views,4,imaging
+627249,x-ray knee - 3 views,1,imaging
+627250,x-ray knee - 4 views,1,imaging
+627251,x-ray knee - bilateral,1,imaging
+627252,x-ray knee 2 view,4,imaging
+627253,x-ray knee 2 views,2,imaging
+627254,x-ray knee 2 views unilateral,1,imaging
+627255,x-ray knee 3 view,1,imaging
+627257,x-ray knee 3 views unilateral,1,imaging
+627258,x-ray knee 4 views bilateral,1,imaging
+627259,x-ray knee 4 views unilateral,1,imaging
+627260,x-ray knee ap & lat,8,imaging
+627261,x-ray knee ap & lat. & special.view,2,imaging
+627262,x-ray knee ap & lat. & special.view (right,1,imaging
+627263,x-ray knee ap & lat. & special.view - left,1,imaging
+627264,x-ray knee ap & lat. & special.view- right,1,imaging
+627265,x-ray knee ap & lat. - left,2,imaging
+627266,x-ray knee ap . lat,2,imaging
+627267,x-ray knee ap / lat,2,imaging
+627268,x-ray knee ap&lat lt,1,imaging
+627269,x-ray knee ap&lat rt,1,imaging
+627270,"x-ray knee ap, lat & sky line",2,imaging
+627271,"x-ray knee ap, lat and skyline (3 views",1,imaging
+627272,"x-ray knee ap, lat. & sky",1,imaging
+627273,"x-ray knee ap, lat. & sky line",3,imaging
+627274,"x-ray knee ap, lat. tunnel (3 views",1,imaging
+627276,x-ray knee joint,2,imaging
+627277,x-ray knee joint -- ap & lat,1,imaging
+627278,x-ray knee joint 1f,1,imaging
+627279,x-ray knee joint 2f,1,imaging
+627280,x-ray knee joint 3 view,1,imaging
+627281,x-ray knee joint ap lat,1,imaging
+627282,x-ray knee joint ap/lat,1,imaging
+627283,x-ray knee joint in standing position,3,imaging
+627284,x-ray knee joint incl skyline patella 3f,1,imaging
+627285,x-ray knee joint inllu.skyline patella 3f,1,imaging
+627286,x-ray knee joint stress 1v 1 f,1,imaging
+627287,x-ray knee joints,1,imaging
+627288,x-ray knee joints 1f,1,imaging
+627289,x-ray knee joints 2f,1,imaging
+627290,x-ray knee sky line view,1,imaging
+627291,x-ray knee stress (1 side,1,imaging
+627292,x-ray knee stress (1 side) -right,1,imaging
+627293,x-ray knee tunnel frik position,1,imaging
+627294,x-ray knee tunnel frik position - right,1,imaging
+627295,x-ray knee two views,1,imaging
+627296,"x-ray knee,three views, bilateral",1,imaging
+627297,x-ray knees both anteroposterior,1,imaging
+627298,x-ray kub,4,imaging
+627299,x-ray kub with preparation,1,imaging
+627300,x-ray kub.abdomen -2 views,1,imaging
+627301,x-ray kub/abdomen - 1 view,3,imaging
+627302,x-ray kub/abdomen - 2 views,1,imaging
+627303,x-ray kub/abdomen -2 views,3,imaging
+627305,x-ray l,1,imaging
+627306,x-ray l. s spine lateral,1,imaging
+627307,x-ray larx & pharx,1,imaging
+627308,x-ray larynx & nasopharynx,1,imaging
+627309,x-ray lateral l.s.(flexion&extension,1,imaging
+627310,x-ray lateral neck soft tissue,1,imaging
+627311,x-ray left ankle three views,1,imaging
+627312,x-ray left ankle two views,1,imaging
+627313,x-ray left elbow two views,1,imaging
+627314,x-ray left femur one view,1,imaging
+627315,x-ray left femur two views,1,imaging
+627316,x-ray left finger two views,1,imaging
+627317,x-ray left foot one view,1,imaging
+627318,x-ray left foot two views,1,imaging
+627319,x-ray left forearm two views,1,imaging
+627320,x-ray left hand two views,1,imaging
+627321,x-ray left knee,2,imaging
+627322,x-ray left knee 2 view,1,imaging
+627323,x-ray left knee one view,1,imaging
+627324,x-ray left knee three views,1,imaging
+627325,x-ray left knee two views,1,imaging
+627326,x-ray left leg two views,1,imaging
+627327,x-ray left shoulder one view,1,imaging
+627328,x-ray left shoulder two views,1,imaging
+627329,x-ray left wrist one view,1,imaging
+627330,x-ray left wrist two views,1,imaging
+627331,x-ray leg,2,imaging
+627332,x-ray leg (2 views,3,imaging
+627333,x-ray leg (ap+lat,1,imaging
+627334,x-ray leg - 2 views,4,imaging
+627335,x-ray leg - 3 views,1,imaging
+627336,x-ray leg 2views,1,imaging
+627337,x-ray leg a pl,1,imaging
+627340,x-ray leg ap & lat. - left,2,imaging
+627341,x-ray leg ap/lat,1,imaging
+627342,x-ray leg two views,1,imaging
+627343,x-ray lmb spine 1 view,1,imaging
+627344,x-ray lmb spine 2 view,1,imaging
+627345,x-ray long bones (1 film-2 views,1,imaging
+627346,x-ray long film lower limb-four views,1,imaging
+627347,x-ray long film spine-six views,1,imaging
+627348,x-ray lower limb standing ap (leg length,2,imaging
+627349,x-ray lower limb standing ap (long film,1,imaging
+627350,x-ray lss lumbar sacral v lumbosacral,1,imaging
+627351,x-ray lss lumbar spine one view,1,imaging
+627352,x-ray lss lumbar spine two views,1,imaging
+627353,x-ray lumbar .lumbo sacral spine - 2 views,1,imaging
+627354,x-ray lumbar / lumbo sacral spine - 2 views,3,imaging
+627355,x-ray lumbar ap and lat flexion,1,imaging
+627356,x-ray lumbar spine 2view,1,imaging
+627357,x-ray lumbar spine 4 films,1,imaging
+627358,x-ray lumbar spine 4 views ap+lat+lat bending,1,imaging
+627359,x-ray lumbar spine ap & lat & obl,2,imaging
+627360,x-ray lumbar spine ap & lateral,2,imaging
+627361,x-ray lumbar spine oblique view 2f,1,imaging
+627362,x-ray lumbar spines 1.v,1,imaging
+627363,x-ray lumbar spines 1v,1,imaging
+627364,x-ray lumbar spines 2 films,1,imaging
+627365,x-ray lumbar spines 2.v,1,imaging
+627366,x-ray lumbar spines 2v,1,imaging
+627367,x-ray lumbar/lumbo sacral spine - 2 views,1,imaging
+627368,x-ray lumbar/lumbo sacral spine - 3 views,1,imaging
+627369,x-ray lumbar/lumbo sacral spine - 4 views,1,imaging
+627370,x-ray lumber,1,imaging
+627371,x-ray lumber spine (4 films,1,imaging
+627372,x-ray lumber spine (ap+lat+obl,1,imaging
+627373,x-ray lumber spine (lss) -- ap,1,imaging
+627374,x-ray lumber spine (lss) -- lat,1,imaging
+627375,x-ray lumber spine 2 views,1,imaging
+627376,x-ray lumber spine ap&lat,2,imaging
+627377,x-ray lumber spine flex. & ext,1,imaging
+627378,x-ray lumbo - sacral ( 2 views,1,imaging
+627379,x-ray lumbo - sacral spine 2f,1,imaging
+627380,x-ray lumbo sacral spine,2,imaging
+627381,x-ray lumbo sacral spine ( ap + lat,1,imaging
+627382,x-ray lumbo sacral spine 1 .view,1,imaging
+627383,x-ray lumbo sacral spine 1 view,1,imaging
+627384,x-ray lumbo sacral spine 1f,1,imaging
+627385,x-ray lumbo sacral spine 2 view,1,imaging
+627386,x-ray lumbo sacral spine 2f,1,imaging
+627387,x-ray lumbo sacral spine ap,1,imaging
+627388,x-ray lumbo sacral spine ap - 1 view,1,imaging
+627389,x-ray lumbo sacral spine ap&lat,3,imaging
+627390,"x-ray lumbo sacral spine ap,lat.&obl 4v",2,imaging
+627391,x-ray lumbo sacral spine ap/lat,2,imaging
+627392,x-ray lumbo sacral spine if,1,imaging
+627393,x-ray lumbo sacral spine lateral - 1 view,1,imaging
+627394,x-ray lumbo sacral spine oblique - 1 view,1,imaging
+627395,x-ray lumbo sacral spine(ap/lat&obl 2,1,imaging
+627396,x-ray lumbo-sacral spine 2 views,1,imaging
+627397,x-ray lumbo-sacral spine flex & ext. 2v,2,imaging
+627398,x-ray lumbosacral spine ap/lat w/obl,1,imaging
+627399,x-ray lumbosacral spine ap/lat,1,imaging
+627401,x-ray lumbar spine aplat,1,imaging
+627402,x-ray mandible,2,imaging
+627403,x-ray mandible (both sides) 3f,1,imaging
+627404,x-ray mandible (lat + oblique,1,imaging
+627405,x-ray mandible (one side) 2f,1,imaging
+627406,x-ray mandible 1v-1f,1,imaging
+627407,x-ray mandible both sides 4f,1,imaging
+627408,x-ray mandible one side 1v lt,1,imaging
+627409,x-ray mandible one side two view,1,imaging
+627410,x-ray mandible pa & obl,1,imaging
+627411,x-ray mandible/jaw - 2 views,1,imaging
+627412,x-ray mandible/jaw - 3 views,1,imaging
+627413,x-ray mastoid (left,1,imaging
+627414,x-ray mastoid (right,1,imaging
+627415,x-ray mastoid bilateral,1,imaging
+627416,x-ray mastoid both sides 4f,3,imaging
+627417,x-ray mastoid schullers & stenvers,1,imaging
+627418,x-ray mastoids - 2 views,2,imaging
+627419,x-ray mastoids b/s,1,imaging
+627420,x-ray mastoids one view,1,imaging
+627421,x-ray mastoids two views,1,imaging
+627422,x-ray mastroids [one view,1,imaging
+627423,x-ray medium film,1,imaging
+627424,x-ray mobile unit,1,imaging
+627450,x-ray naso pharynx,1,imaging
+627451,x-ray nasopharrynx lateral,2,imaging
+627452,x-ray nasopharynx,2,imaging
+627453,x-ray nasopharynx .lat.v,2,imaging
+627454,x-ray nasopharynx for adenoid,1,imaging
+627455,x-ray nasopharynx lat. v,5,imaging
+627456,x-ray neck (ap+lat,1,imaging
+627457,x-ray neck - 1 view,1,imaging
+627458,x-ray neck - 2 views,1,imaging
+627459,x-ray neck a / p,2,imaging
+627460,x-ray neck and chest p/a and lateral views,1,imaging
+627461,x-ray neck ap/lat,1,imaging
+627462,x-ray neck soft tissue (ap + lat,1,imaging
+627463,x-ray neck three views in cases of f.b,1,imaging
+627464,x-ray neck [lateral,1,imaging
+627465,x-ray non listed area,1,imaging
+627467,x-ray nose to rectum,1,imaging
+627469,x-ray obturate foramen & ala.(1 side,1,imaging
+627470,x-ray occlusal bitewing apical,1,imaging
+627471,x-ray oesophagus (barium swallow,1,imaging
+627472,x-ray of abdomen - kub,1,imaging
+627473,x-ray of cervical spine,1,imaging
+627474,x-ray of chest - 1 view,1,imaging
+627475,x-ray of chest - pa and lat/ decubitus,1,imaging
+627476,x-ray of femur,1,imaging
+627477,x-ray of femur lt,1,imaging
+627478,x-ray of foot,1,imaging
+627479,x-ray of foot -bilateral,1,imaging
+627480,x-ray of forearm,1,imaging
+627481,x-ray of hip joint (2 view,1,imaging
+627482,x-ray of hip joint (2view,1,imaging
+627483,x-ray of humerus,1,imaging
+627484,x-ray of joint-ankle,1,imaging
+627485,x-ray of joint-hip,1,imaging
+627486,x-ray of joint-knee 2 views(unilateral,1,imaging
+627487,x-ray of joint-shoulder,1,imaging
+627488,x-ray of joint-shoulder(bilateral,1,imaging
+627489,x-ray of joints- elbow/ wrist/ hand/ knee/ shoulder/ ankle/ hip (each,1,imaging
+627490,"x-ray of lumbosacral spine, 4 views(ap,lat., & obliques",1,imaging
+627492,x-ray of one tooth,1,imaging
+627493,x-ray of orbit,1,imaging
+627494,"x-ray of patella, bilateral",1,imaging
+627495,x-ray of pelvis,1,imaging
+627496,x-ray of spine- cervical,1,imaging
+627497,x-ray of spine- lumbar,1,imaging
+627498,x-ray of spine-dorsal/thoracic,1,imaging
+627499,"x-ray of the knee, skyline view",1,imaging
+627500,"x-ray of the knee, standing position ap & lateral view",1,imaging
+627501,x-ray of the retina pigmented fluorsine,1,imaging
+627502,x-ray of tibia/fibula,1,imaging
+627503,x-ray offer,1,imaging
+627504,x-ray on 2 hands,3,imaging
+627505,x-ray on 2 knee joints,3,imaging
+627506,x-ray on ankle,2,imaging
+627507,x-ray on ankle joints (2 views,1,imaging
+627508,x-ray on both knee joints (2 views,1,imaging
+627509,x-ray on cervical vertebrae (2 films,2,imaging
+627510,x-ray on cervical vertebrae (4 films,2,imaging
+627511,x-ray on cervical vertebrae (four positions,1,imaging
+627512,x-ray on cervical vertebrae (two positions,1,imaging
+627513,x-ray on dorsal vertebrae (4 films,2,imaging
+627514,x-ray on dorsal vertebrae (four positions,1,imaging
+627515,x-ray on dorso - lumbar vertebrae (2 films,2,imaging
+627516,x-ray on elbow joint (1 film,3,imaging
+627517,x-ray on elbow joint (tow positions,1,imaging
+627518,x-ray on femero-pelvic joint,3,imaging
+627519,x-ray on foot,2,imaging
+627520,x-ray on foot (1 view,1,imaging
+627521,x-ray on foot (2 views,1,imaging
+627522,x-ray on foot bones,3,imaging
+627523,x-ray on forearm (2 films,3,imaging
+627524,x-ray on hand,1,imaging
+627525,x-ray on hand (2 film,3,imaging
+627526,x-ray on hand (two positions,1,imaging
+627527,x-ray on hip joint,1,imaging
+627528,x-ray on humerus (2 films,3,imaging
+627529,x-ray on humerus (two positions,1,imaging
+627530,x-ray on knee joint (2 films,3,imaging
+627531,x-ray on knee joint (2 views,1,imaging
+627532,x-ray on knee joint (3 views,1,imaging
+627533,x-ray on knee joint (two position,1,imaging
+627534,x-ray on lumbar vertebrae (2 films,2,imaging
+627535,x-ray on lumber vertebrae (two positions,1,imaging
+627541,x-ray on nasopharynx,4,imaging
+627542,x-ray on one shoulder film,2,imaging
+627543,x-ray on parotid gland,2,imaging
+627544,x-ray on pelvic bones (1 film,2,imaging
+627545,x-ray on pelvic bones (3 films,2,imaging
+627546,x-ray on pelvic bones (one position,1,imaging
+627547,x-ray on pelvic bones (three positions,1,imaging
+627548,x-ray on sacral vertebrae (2 films,2,imaging
+627549,x-ray on shoulder joint ( 1 film,3,imaging
+627550,x-ray on shoulder joint ( 2 films,3,imaging
+627551,x-ray on shoulder joint (one film,1,imaging
+627552,x-ray on shoulder joint (two positions,1,imaging
+627553,x-ray on sinuses,2,imaging
+627554,x-ray on sterno-mandibular j. (one position,1,imaging
+627555,x-ray on the neck and chest in cases of f.b in larynx tracheaesophagus,1,imaging
+627556,x-ray on the spine,3,imaging
+627557,x-ray on thehips,1,imaging
+627558,x-ray on thigh,3,imaging
+627559,x-ray on two knee joints,1,imaging
+627560,x-ray on urinary tract,3,imaging
+627561,x-ray on vertebrae (1 film,2,imaging
+627562,x-ray on wrist,1,imaging
+627563,x-ray one film,2,imaging
+627564,x-ray orbit - 2 views,1,imaging
+627565,x-ray orbit - 4 views,1,imaging
+627566,x-ray orbit 2v,3,imaging
+627567,x-ray orbits,1,imaging
+627568,x-ray orbits 2f,1,imaging
+627569,x-ray orbits pa waters & obl,1,imaging
+627570,x-ray os-calsis (heel)tangential lat,1,imaging
+627571,x-ray os. calcis lat,1,imaging
+627572,x-ray oscalcis - 2 views - 1 film,1,imaging
+627573,x-ray oscalsis,1,imaging
+627574,x-ray p.n.s (lat + om,1,imaging
+627575,x-ray p.n.s,1,imaging
+627576,x-ray p.n.s./ skull pa. & lat. & waters,1,imaging
+627577,x-ray pads 30x30cm 12ply,1,imaging
+627578,x-ray panaromic,1,imaging
+627579,x-ray panorama,4,imaging
+627581,x-ray panoramic - 80720,1,imaging
+627582,x-ray panoramic -- bp@,1,imaging
+627583,x-ray panoramic cephalometric,1,imaging
+627584,x-ray panoramic for ortho,1,imaging
+627585,x-ray panoramic price :130.00,1,imaging
+627586,x-ray panoramic(702008,1,imaging
+627597,x-ray panpramic 60706,1,imaging
+627599,x-ray paranasal (p.n.s,1,imaging
+627600,x-ray paranasal sinuses,2,imaging
+627601,x-ray paranasal sinuses 1 view water,2,imaging
+627602,x-ray paranasal sinuses 3v,8,imaging
+627603,x-ray paranasal sinuses o,1,imaging
+627604,x-ray paranasal sinuses om,5,imaging
+627605,x-ray paranasal sinuses om&lat 3f,2,imaging
+627606,x-ray paranasal sinusis 2 views,1,imaging
+627607,x-ray paranasal sinusis 3 views,1,imaging
+627608,x-ray paranasalsinuses om,2,imaging
+627609,x-ray patella lat./axial,1,imaging
+627610,x-ray pattela - 1 view,1,imaging
+627611,x-ray pediatric chest & abdomen ap/cross-table lateral,2,imaging
+627612,x-ray pelvimetry,1,imaging
+627613,x-ray pelvis & hip 2 views,1,imaging
+627614,x-ray pelvis & hips,1,imaging
+627615,x-ray pelvis (ap,1,imaging
+627616,x-ray pelvis (ap+frog position,1,imaging
+627617,"x-ray pelvis (ap, inlet and outlet and judged views",1,imaging
+627618,x-ray pelvis (one view,1,imaging
+627619,x-ray pelvis - 1 view,3,imaging
+627620,x-ray pelvis - 2 views,3,imaging
+627621,x-ray pelvis - 3 views,3,imaging
+627622,x-ray pelvis 1f,1,imaging
+627624,x-ray pelvis ap - 1 view,1,imaging
+627625,x-ray pelvis both hip joint ap - 1 view,1,imaging
+627626,x-ray pelvis one view,1,imaging
+627627,x-ray pelvis two views,1,imaging
+627628,x-ray pelvis(1view,1,imaging
+627629,x-ray periapical (per film,1,imaging
+627630,x-ray periapical film,3,imaging
+627631,x-ray periapical or bitwings,1,imaging
+627632,x-ray pns,3,imaging
+627633,x-ray pns (2 films,1,imaging
+627634,x-ray pns - waters view,1,imaging
+627635,x-ray pns / facial,1,imaging
+627637,x-ray pns one view,1,imaging
+627638,x-ray pns two views,2,imaging
+627639,x-ray pns water view + lat view - 2f,1,imaging
+627640,x-ray pns water view + lat view-2f,1,imaging
+627641,x-ray pns water view+lat view 2f,1,imaging
+627642,x-ray pns waters - 1 view,1,imaging
+627643,x-ray pns waters 1f,1,imaging
+627645,x-ray pns1 view,1,imaging
+627646,x-ray portable,1,imaging
+627647,x-ray portable 1 view,1,imaging
+627648,x-ray portable 2 view,1,imaging
+627649,x-ray portable 3 view,1,imaging
+627650,x-ray portable 4 view,1,imaging
+627651,x-ray portable bilateral lower exterimeties,1,imaging
+627652,x-ray portable bilateral upper exterimeties,1,imaging
+627653,x-ray portable charge,2,imaging
+627654,x-ray portable chest x-ray 1 view,1,imaging
+627655,x-ray portable unilateral lower exterimeties,1,imaging
+627656,x-ray portable unilateral upper exterimeties,1,imaging
+627657,x-ray portable x-ray 1 view,1,imaging
+627662,x-ray postnasal space (adenoids) 1 view,1,imaging
+627664,x-ray pediatric abdomen ap,1,imaging
+627665,x-ray pediatric chest,1,imaging
+627666,x-ray pediatric chest & abdomen ap,1,imaging
+627668,x-ray pediatric whole body ap,1,imaging
+627669,x-ray pelvic bones (ap,1,imaging
+627670,x-ray periapical,2,imaging
+627671,x-ray ribs,3,imaging
+627672,x-ray ribs ( two view,1,imaging
+627673,x-ray ribs (1 view,2,imaging
+627674,x-ray ribs (2 views,2,imaging
+627675,x-ray ribs (pa+oblique,1,imaging
+627676,x-ray ribs - 1 view,3,imaging
+627677,x-ray ribs - 2 views,4,imaging
+627678,x-ray ribs ap/lat,2,imaging
+627680,x-ray ribs bilat 1f each,1,imaging
+627681,x-ray ribs bilat 2f,1,imaging
+627682,x-ray ribs bilat 2f each,1,imaging
+627683,x-ray ribs bilateral (1 view,1,imaging
+627684,x-ray ribs bilateral (2 view,1,imaging
+627685,x-ray ribs both sides,1,imaging
+627686,x-ray ribs unilateral (1 view,1,imaging
+627687,x-ray ribs unilateral (1 view) - left,1,imaging
+627688,x-ray ribs unilateral (2 view,1,imaging
+627689,x-ray ribs unilateral (2 view) - left,1,imaging
+627690,x-ray ribs unilateral (2 view) - right,1,imaging
+627691,x-ray right ankle one view,1,imaging
+627692,x-ray right ankle three views,1,imaging
+627693,x-ray right ankle two views,1,imaging
+627694,x-ray right elbow two views,1,imaging
+627695,x-ray right femur two views,1,imaging
+627696,x-ray right finger two views,1,imaging
+627697,x-ray right foot one view,1,imaging
+627698,x-ray right foot two views,1,imaging
+627699,x-ray right forearm two views,1,imaging
+627700,x-ray right hand one view,1,imaging
+627701,x-ray right hand two views,1,imaging
+627702,x-ray right knee one view,1,imaging
+627703,x-ray right knee three views/skyline,1,imaging
+627704,x-ray right knee two views,1,imaging
+627705,x-ray right leg two views,1,imaging
+627706,x-ray right mastoid,1,imaging
+627707,x-ray right shoulder two views,1,imaging
+627708,x-ray right toes two views,1,imaging
+627709,x-ray right wrist one view,1,imaging
+627710,x-ray right wrist two views,1,imaging
+627711,x-ray rt shoulder,1,imaging
+627712,x-ray rt- shoulder,1,imaging
+627713,"x-ray ribs/chest, unilateral",1,imaging
+627714,x-ray sacrailiac ap+both obliques 3v 3f,1,imaging
+627715,x-ray sacrailiac joint,1,imaging
+627716,x-ray sacral spine (ap + lat,1,imaging
+627717,x-ray sacro coccyx ap - 1 view,1,imaging
+627718,x-ray sacro iliac joint - 2 views,1,imaging
+627719,x-ray sacro iliac joint - 2views,1,imaging
+627720,x-ray sacro iliac joints,1,imaging
+627721,x-ray sacro-coccyx 1f,1,imaging
+627722,x-ray sacro-iliac joint with obl,1,imaging
+627723,x-ray sacro-iliac joints 3f,3,imaging
+627724,x-ray sacroilac joint ap & obl,2,imaging
+627725,x-ray sacroiliac joint ap/lat,1,imaging
+627726,x-ray sacroiliac joints,2,imaging
+627727,x-ray sacrum & coccyx ap/lat,1,imaging
+627728,x-ray sacrum + coccyx (ap+lat,1,imaging
+627729,x-ray sacrum - 2 views,1,imaging
+627730,x-ray sacrum and coccyx 2f,5,imaging
+627731,x-ray sacrum coccyx ap & lat,1,imaging
+627732,x-ray salivary glads (plain) 2f,1,imaging
+627733,x-ray scanogram,1,imaging
+627734,x-ray scaphoid,1,imaging
+627735,x-ray scaphoid (4 views,2,imaging
+627736,x-ray scaphoid (4 views) - left,1,imaging
+627737,x-ray scaphoid (4 views)- right,1,imaging
+627738,x-ray scaphoid - 1 view,1,imaging
+627740,x-ray scaphoid series,1,imaging
+627741,x-ray scaphoid view,2,imaging
+627742,x-ray scapula ( y ) shap view,1,imaging
+627743,x-ray scapula ( y ) shap view - left,1,imaging
+627744,x-ray scapula ( y ) shap view - right,1,imaging
+627745,x-ray scapula - 1 view - 1 film,1,imaging
+627746,x-ray scapula - 2 views - 2 films,1,imaging
+627747,x-ray scapula 2f,4,imaging
+627748,x-ray scapula 2f lt,1,imaging
+627749,x-ray scapula ap,1,imaging
+627750,x-ray scapula ap & lat- right,1,imaging
+627751,x-ray scapula ap & lat,1,imaging
+627752,x-ray scapula ap & lat. (right,1,imaging
+627753,x-ray scapula ap & lat. - left,1,imaging
+627754,x-ray scapula ap/lat,1,imaging
+627755,x-ray scapule (ap + lat,1,imaging
+627756,x-ray scoliosis ( ap+lat+bending both sides,1,imaging
+627757,x-ray scoliosis study ap view,1,imaging
+627758,x-ray sella tursica,1,imaging
+627759,x-ray sella tursica 2v,1,imaging
+627760,x-ray shoulder - 2 views,3,imaging
+627761,x-ray shoulder paview two views,1,imaging
+627762,x-ray shoulder & scapula 2f,1,imaging
+627763,x-ray shoulder & scapula 3v lt,1,imaging
+627764,x-ray shoulder & scapula 3v rt,1,imaging
+627765,x-ray shoulder (2view,1,imaging
+627766,x-ray shoulder (ap,1,imaging
+627767,x-ray shoulder (ap- axial,1,imaging
+627768,x-ray shoulder - 2 views 2 films,1,imaging
+627769,x-ray shoulder 1f,4,imaging
+627770,x-ray shoulder 1f rt,1,imaging
+627772,x-ray shoulder 2f (with upper arm,1,imaging
+627773,x-ray shoulder 2f lt,1,imaging
+627774,x-ray shoulder 2f rt,1,imaging
+627775,x-ray shoulder 3 views,2,imaging
+627776,x-ray shoulder ap & axial,2,imaging
+627777,x-ray shoulder ap & axial - left,1,imaging
+627778,x-ray shoulder ap int. & ext. rotation,2,imaging
+627779,x-ray shoulder ap int. & ext. rotation (right,1,imaging
+627780,x-ray shoulder ap int. & ext. rotation - left,1,imaging
+627781,x-ray shoulder ap int. & ext. rotation - right,2,imaging
+627783,x-ray shoulder ap,2,imaging

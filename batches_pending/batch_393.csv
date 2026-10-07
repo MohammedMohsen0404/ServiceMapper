@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+595440,use of facilities - dr-dr6,1,consultation
+595441,use of facilities - dr-dr7,1,consultation
+595442,use of facilities - dr-dr8,1,consultation
+595443,use of facilities - dr01,1,consultation
+595444,use of facilities - dr03,1,consultation
+595445,use of facilities - dr04,1,consultation
+595446,use of facilities - dr05,1,consultation
+595447,use of facilities - dr09,1,consultation
+595448,use of facilities - dr1,1,consultation
+595449,use of facilities - dr11,1,consultation
+595450,use of facilities - dr2,1,consultation
+595451,use of facilities - dr3,1,consultation
+595452,use of facilities - dr5,1,consultation
+595453,use of facilities - day case bed 01,1,supplies
+595454,use of facilities - day case bed 02,1,supplies
+595455,use of facilities - day case bed 03,1,supplies
+595456,use of facilities - day case bed 04,1,supplies
+595457,use of facilities - e,1,consultation
+595458,use of facilities - end,1,consultation
+595459,use of facilities - end-01,1,consultation
+595460,use of facilities - end-02,1,consultation
+595461,use of facilities - end-03,1,consultation
+595462,use of facilities - end-04,1,consultation
+595463,use of facilities - endoscopy1,1,consultation
+595464,use of facilities - endrr-01,1,consultation
+595465,use of facilities - endrr-02,1,consultation
+595466,use of facilities - er,1,consultation
+595467,use of facilities - er-exam,1,consultation
+595468,use of facilities - er-or01,1,consultation
+595469,use of facilities - er-or02,1,consultation
+595470,use of facilities - er-or03,1,consultation
+595471,use of facilities - er-or04,1,consultation
+595472,use of facilities - er-or05,1,consultation
+595473,use of facilities - er-or06,1,consultation
+595474,use of facilities - er-or07,1,consultation
+595475,use of facilities - er-or08,1,consultation
+595476,use of facilities - er-or09,1,consultation
+595477,use of facilities - er-or1,1,consultation
+595478,use of facilities - er-or10,1,consultation
+595479,use of facilities - er-or11,1,consultation
+595480,use of facilities - er-or12,1,consultation
+595481,use of facilities - er-or13,1,consultation
+595482,use of facilities - er-or14,1,consultation
+595483,use of facilities - er-or15,1,consultation
+595484,use of facilities - er-or16,1,consultation
+595485,use of facilities - er-or17,1,consultation
+595486,use of facilities - er-or18,1,consultation
+595487,use of facilities - er-or19,1,consultation
+595488,use of facilities - er-or2,1,consultation
+595489,use of facilities - er-or20,1,consultation
+595490,use of facilities - er-or21,1,consultation
+595491,use of facilities - er-or22,1,consultation
+595492,use of facilities - er-or24,1,consultation
+595493,use of facilities - er-or5,1,consultation
+595494,use of facilities - er01,1,consultation
+595495,use of facilities - er02,1,consultation
+595496,use of facilities - er03,1,consultation
+595497,use of facilities - er04,1,consultation
+595498,use of facilities - er05,1,consultation
+595499,use of facilities - er06,1,consultation
+595500,use of facilities - er07,1,consultation
+595501,use of facilities - er08,1,consultation
+595502,use of facilities - er09,1,consultation
+595503,use of facilities - er10,1,consultation
+595504,use of facilities - eswl-03,1,procedure
+595505,use of facilities - ex-picu11,1,consultation
+595506,use of facilities - ex-picu3,1,consultation
+595507,use of facilities - f,1,consultation
+595508,use of facilities - f3ns1-301,1,consultation
+595509,use of facilities - f3ns1-302,1,consultation
+595510,use of facilities - f3ns1-303,1,consultation
+595511,use of facilities - f3ns1-304,1,consultation
+595512,use of facilities - f3ns1-305,1,consultation
+595513,use of facilities - f3ns1-306,1,consultation
+595514,use of facilities - f3ns1-307,1,consultation
+595515,use of facilities - f3ns1-308,1,consultation
+595516,use of facilities - f3ns1-309,1,consultation
+595517,use of facilities - f3ns1-310,1,consultation
+595518,use of facilities - f3ns1-311,1,consultation
+595519,use of facilities - f3ns1-312,1,consultation
+595520,use of facilities - f3ns1-313,1,consultation
+595521,use of facilities - f3ns1-314,1,consultation
+595522,use of facilities - f3ns1-315,1,consultation
+595523,use of facilities - f3ns1-316,1,consultation
+595524,use of facilities - f3ns1-317,1,consultation
+595525,use of facilities - f3ns1-318,1,consultation
+595526,use of facilities - f3ns1-319,1,consultation
+595527,use of facilities - f3ns1-320,1,consultation
+595528,use of facilities - f3ns1-321,1,consultation
+595529,use of facilities - f3ns1-322,1,consultation
+595530,use of facilities - f3ns1-323,1,consultation
+595531,use of facilities - f3ns1-324,1,consultation
+595532,use of facilities - f3ns1-325,1,consultation
+595533,use of facilities - f3ns1-326,1,consultation
+595534,use of facilities - f3ns1-327,1,consultation
+595535,use of facilities - f3ns1-328,1,consultation
+595536,use of facilities - f3ns1-329,1,consultation
+595537,use of facilities - f3ns1-330,1,consultation
+595538,use of facilities - f3ns1-331,1,consultation
+595539,use of facilities - f3ns1-332,1,consultation
+595540,use of facilities - f3ns1-333,1,consultation
+595541,use of facilities - f3ns1-334,1,consultation
+595542,use of facilities - f3ns1-335,1,consultation
+595543,use of facilities - f3ns1-336,1,consultation
+595544,use of facilities - f3ns1-337,1,consultation
+595545,use of facilities - f3ns1-338,1,consultation
+595546,use of facilities - f3ns1-339,1,consultation
+595547,use of facilities - f3ns1-340,1,consultation
+595548,use of facilities - f3ns1-341,1,consultation
+595549,use of facilities - f3ns1-mch-314,1,consultation
+595550,use of facilities - f3ns1-mch-315,1,consultation
+595551,use of facilities - f4-401,1,consultation
+595552,use of facilities - f4-403,1,consultation
+595553,use of facilities - f4-404,1,consultation
+595554,use of facilities - f4-417,1,consultation
+595555,use of facilities - f4-418,1,consultation
+595556,use of facilities - f4-420,1,consultation
+595557,use of facilities - f4-421,1,consultation
+595558,use of facilities - f4-422,1,consultation
+595559,use of facilities - f4-423,1,consultation
+595560,use of facilities - f4-424,1,consultation
+595561,use of facilities - f4-425,1,consultation
+595562,use of facilities - f4-426,1,consultation
+595563,use of facilities - f4-427,1,consultation
+595564,use of facilities - f4-428,1,consultation
+595565,use of facilities - f4-429,1,consultation
+595566,use of facilities - f4-430,1,consultation
+595567,use of facilities - f4-431,1,consultation
+595568,use of facilities - f4-432,1,consultation
+595569,use of facilities - f4-433,1,consultation
+595570,use of facilities - f4-434,1,consultation
+595571,use of facilities - f4-435,1,consultation
+595572,use of facilities - f4-436,1,consultation
+595573,use of facilities - f4-437,1,consultation
+595574,use of facilities - f4-438,1,consultation
+595575,use of facilities - f4-439,1,consultation
+595576,use of facilities - f4-440,1,consultation
+595577,use of facilities - f4-441,1,consultation
+595578,use of facilities - fc,1,consultation
+595579,use of facilities - g,1,consultation
+595580,use of facilities - h,1,consultation
+595581,use of facilities - haj - nursery 8,1,consultation
+595582,use of facilities - i,1,consultation
+595583,use of facilities - icu,2,consultation
+595584,use of facilities - icu 1,1,consultation
+595585,use of facilities - icu 13,1,consultation
+595586,use of facilities - icu 2,1,consultation
+595587,use of facilities - icu 201,1,consultation
+595588,use of facilities - icu 203,1,consultation
+595589,use of facilities - icu 204,1,consultation
+595590,use of facilities - icu 206,1,consultation
+595591,use of facilities - icu 208,1,consultation
+595592,use of facilities - icu 209,1,consultation
+595593,use of facilities - icu 210,1,consultation
+595594,use of facilities - icu 211,1,consultation
+595595,use of facilities - icu 213,1,consultation
+595596,use of facilities - icu 214,1,consultation
+595597,use of facilities - icu 215,1,consultation
+595598,use of facilities - icu 216,1,consultation
+595599,use of facilities - icu 219,1,consultation
+595600,use of facilities - icu 220,1,consultation
+595601,use of facilities - icu 222,1,consultation
+595602,use of facilities - icu 224,1,consultation
+595603,use of facilities - icu 225,1,consultation
+595604,use of facilities - icu 226,1,consultation
+595605,use of facilities - icu 227,1,consultation
+595606,use of facilities - icu 233,1,consultation
+595607,use of facilities - icu 3,1,consultation
+595608,use of facilities - icu 4,1,consultation
+595609,use of facilities - icu iso,1,consultation
+595610,use of facilities - icu isolation 1,1,consultation
+595611,use of facilities - icu isolation 2,1,consultation
+595612,use of facilities - icu-07,1,consultation
+595613,use of facilities - icu-13,1,consultation
+595614,use of facilities - icu-14,1,consultation
+595615,use of facilities - icu-15,1,consultation
+595616,use of facilities - icu-16,1,consultation
+595617,use of facilities - icu-17,1,consultation
+595618,use of facilities - icu-18,1,consultation
+595619,use of facilities - icu-19,1,consultation
+595620,use of facilities - icu-20,1,consultation
+595621,use of facilities - icu-21,1,consultation
+595622,use of facilities - icu-22,1,consultation
+595623,use of facilities - icu-23,1,consultation
+595624,use of facilities - icu-24,1,consultation
+595625,use of facilities - icu-25,1,consultation
+595626,use of facilities - icu-26,1,consultation
+595627,use of facilities - icu-27,1,consultation
+595628,use of facilities - icu-28,1,consultation
+595629,use of facilities - icu-29,1,consultation
+595630,use of facilities - icu-30,1,consultation
+595631,use of facilities - icu-31,1,consultation
+595632,use of facilities - icu-32,1,consultation
+595633,use of facilities - icu-33,1,consultation
+595634,use of facilities - icu-34,1,consultation
+595635,use of facilities - icu-35,1,consultation
+595636,use of facilities - icu-36,1,consultation
+595637,use of facilities - icu01,1,consultation
+595638,use of facilities - icu02,1,consultation
+595639,use of facilities - icu03,1,consultation
+595640,use of facilities - icu04,1,consultation
+595641,use of facilities - icu05,1,consultation
+595642,use of facilities - icu06,1,consultation
+595643,use of facilities - icu08,1,consultation
+595644,use of facilities - icu09,1,consultation
+595645,use of facilities - icu1,1,consultation
+595646,use of facilities - icu10,1,consultation
+595647,use of facilities - icu10-a,1,consultation
+595648,use of facilities - icu10-b,1,consultation
+595649,use of facilities - icu11,1,consultation
+595650,use of facilities - icu11-a,1,consultation
+595651,use of facilities - icu11-b,1,consultation
+595652,use of facilities - icu12,1,consultation
+595653,use of facilities - icu13,1,consultation
+595654,use of facilities - icu14,1,consultation
+595655,use of facilities - icu15,1,consultation
+595656,use of facilities - icu15-a,1,consultation
+595657,use of facilities - icu16,1,consultation
+595658,use of facilities - icu16-a,1,consultation
+595659,use of facilities - icu16-b,1,consultation
+595660,use of facilities - icu17,1,consultation
+595661,use of facilities - icu17-a,1,consultation
+595662,use of facilities - icu17-b,1,consultation
+595663,use of facilities - icu18,1,consultation
+595664,use of facilities - icu18-b,1,consultation
+595665,use of facilities - icu19,1,consultation
+595666,use of facilities - icu19-a,1,consultation
+595667,use of facilities - icu2,1,consultation
+595668,use of facilities - icu2 isolation-217,1,consultation
+595669,use of facilities - icu2-1,1,consultation
+595670,use of facilities - icu2-2,1,consultation
+595671,use of facilities - icu2-3,1,consultation
+595672,use of facilities - icu2-4,1,consultation
+595673,use of facilities - icu2-5,1,consultation
+595674,use of facilities - icu2-6,1,consultation
+595675,use of facilities - icu2-7,1,consultation
+595676,use of facilities - icu2-8,1,consultation
+595677,use of facilities - icu2-9,1,consultation
+595678,use of facilities - icu20,1,consultation
+595679,use of facilities - icu20-a,1,consultation
+595680,use of facilities - icu20-b,1,consultation
+595681,use of facilities - icu21,1,consultation
+595682,use of facilities - icu21-a,1,consultation
+595683,use of facilities - icu21-b,1,consultation
+595684,use of facilities - icu22,1,consultation
+595685,use of facilities - icu22-a,1,consultation
+595686,use of facilities - icu22-b,1,consultation
+595687,use of facilities - icu23,1,consultation
+595688,use of facilities - icu24,1,consultation
+595689,use of facilities - icu24 a,1,consultation
+595690,use of facilities - icu24 b,1,consultation
+595691,use of facilities - icu24-a,1,consultation
+595692,use of facilities - icu25,1,consultation
+595693,use of facilities - icu26,1,consultation
+595694,use of facilities - icu27,1,consultation
+595695,use of facilities - icu28,1,consultation
+595696,use of facilities - icu29,1,consultation
+595697,use of facilities - icu2a,1,consultation
+595698,use of facilities - icu3,1,consultation
+595699,use of facilities - icu3-1,1,consultation
+595700,use of facilities - icu3-2,1,consultation
+595701,use of facilities - icu3-3,1,consultation
+595702,use of facilities - icu3-4,1,consultation
+595703,use of facilities - icu3-5,1,consultation
+595704,use of facilities - icu3-6,1,consultation
+595705,use of facilities - icu3-a,1,consultation
+595706,use of facilities - icu3-b,1,consultation
+595707,use of facilities - icu30,1,consultation
+595708,use of facilities - icu31,1,consultation
+595709,use of facilities - icu32,1,consultation
+595710,use of facilities - icu33,1,consultation
+595711,use of facilities - icu34,1,consultation
+595712,use of facilities - icu35,1,consultation
+595713,use of facilities - icu36,1,consultation
+595714,use of facilities - icu37,1,consultation
+595715,use of facilities - icu38,1,consultation
+595716,use of facilities - icu4,1,consultation
+595717,use of facilities - icu42,1,consultation
+595718,use of facilities - icu45,1,consultation
+595719,use of facilities - icu5,1,consultation
+595720,use of facilities - icu5-a,1,consultation
+595721,use of facilities - icu5-b,1,consultation
+595722,use of facilities - icu6,1,consultation
+595723,use of facilities - icu6-a,1,consultation
+595724,use of facilities - icu6-b,1,consultation
+595725,use of facilities - icu7,1,consultation
+595726,use of facilities - icu7-a,1,consultation
+595727,use of facilities - icu7-b,1,consultation
+595728,use of facilities - icu8,1,consultation
+595729,use of facilities - icu9,1,consultation
+595730,use of facilities - icu9-a,1,consultation
+595731,use of facilities - icui,1,consultation
+595732,use of facilities - icuiso-1,1,consultation
+595733,use of facilities - icuiso-2,1,consultation
+595734,use of facilities - icuiso-3,1,consultation
+595735,use of facilities - icuiso-4,1,consultation
+595736,use of facilities - icuiso-5,1,consultation
+595737,use of facilities - icuiso-6,1,consultation
+595738,use of facilities - icuiso-7,1,consultation
+595739,use of facilities - imc 3,1,consultation
+595740,use of facilities - imc 8,1,consultation
+595741,use of facilities - imc01,1,consultation
+595742,use of facilities - imc11,1,consultation
+595743,use of facilities - incubator 1,1,consultation
+595744,use of facilities - incubator 5,1,consultation
+595745,use of facilities - incubator 6,1,consultation
+595746,use of facilities - incubator1,1,consultation
+595747,use of facilities - incubator10,1,consultation
+595748,use of facilities - incubator11,1,consultation
+595749,use of facilities - incubator12,1,consultation
+595750,use of facilities - incubator13,1,consultation
+595751,use of facilities - incubator14,1,consultation
+595752,use of facilities - incubator15,1,consultation
+595753,use of facilities - incubator16,1,consultation
+595754,use of facilities - incubator17,1,consultation
+595755,use of facilities - incubator2,1,consultation
+595756,use of facilities - incubator4,1,consultation
+595757,use of facilities - incubator7,1,consultation
+595758,use of facilities - incubator8,1,consultation
+595759,use of facilities - iso-406,1,consultation
+595760,use of facilities - iso-407,1,consultation
+595761,use of facilities - iso-408,1,consultation
+595762,use of facilities - iso-409,1,consultation
+595763,use of facilities - iso-a,1,consultation
+595764,use of facilities - iso-b,1,consultation
+595765,use of facilities - iso-icu-1,1,consultation
+595766,use of facilities - ltc-12,1,consultation
+595767,use of facilities - ltc1,1,consultation
+595768,use of facilities - ltc2,1,consultation
+595769,use of facilities - ltc3,1,consultation
+595770,use of facilities - ltc4,1,consultation
+595771,use of facilities - ltc5,1,consultation
+595772,use of facilities - ltc6,1,consultation
+595773,use of facilities - nbc10,1,consultation
+595774,use of facilities - nbc15,1,consultation
+595775,use of facilities - nbc5,1,consultation
+595776,use of facilities - nicu,1,consultation
+595777,use of facilities - nicu 1,1,consultation
+595778,use of facilities - nicu 10,1,consultation
+595779,use of facilities - nicu 11,1,consultation
+595780,use of facilities - nicu 2,1,consultation
+595781,use of facilities - nicu 3,1,consultation
+595782,use of facilities - nicu 4,1,consultation
+595783,use of facilities - nicu 5,1,consultation
+595784,use of facilities - nicu 6,1,consultation
+595785,use of facilities - nicu 7,1,consultation
+595786,use of facilities - nicu 8,1,consultation
+595787,use of facilities - nicu 9,1,consultation
+595788,use of facilities - nicu isolation 1,1,consultation
+595789,use of facilities - nicu-01,1,consultation
+595790,use of facilities - nicu-02,1,consultation
+595791,use of facilities - nicu-03,1,consultation
+595792,use of facilities - nicu-04,1,consultation
+595793,use of facilities - nicu-05,1,consultation
+595794,use of facilities - nicu-06,1,consultation
+595795,use of facilities - nicu-08,1,consultation
+595796,use of facilities - nicu-101,1,consultation
+595797,use of facilities - nicu-102,1,consultation
+595798,use of facilities - nicu-103,1,consultation
+595799,use of facilities - nicu-104,1,consultation
+595800,use of facilities - nicu-105,1,consultation
+595801,use of facilities - nicu-107,1,consultation
+595802,use of facilities - nicu-109,1,consultation
+595803,use of facilities - nicu-11,1,consultation
+595804,use of facilities - nicu-12,1,consultation
+595805,use of facilities - nicu-13,1,consultation
+595806,use of facilities - nicu-16,1,consultation
+595807,use of facilities - nicu-201,1,consultation
+595808,use of facilities - nicu-204,1,consultation
+595809,use of facilities - nicu-205,1,consultation
+595810,use of facilities - nicu-206,1,consultation
+595811,use of facilities - nicu-207,1,consultation
+595812,use of facilities - nicu-208,1,consultation
+595813,use of facilities - nicu-209,1,consultation
+595814,use of facilities - nicu-210,1,consultation
+595815,use of facilities - nicu-211,1,consultation
+595816,use of facilities - nicu-212,1,consultation
+595817,use of facilities - nicu-213,1,consultation
+595818,use of facilities - nicu-301,1,consultation
+595819,use of facilities - nicu-302,1,consultation
+595820,use of facilities - nicu-305,1,consultation
+595821,use of facilities - nicu-306,1,consultation
+595822,use of facilities - nicu-307,1,consultation
+595823,use of facilities - nicu-308,1,consultation
+595824,use of facilities - nicu-309,1,consultation
+595825,use of facilities - nicu-310,1,consultation
+595826,use of facilities - nicu-312,1,consultation
+595827,use of facilities - nicu-313,1,consultation
+595828,use of facilities - nicu-314,1,consultation
+595829,use of facilities - nicu-315,1,consultation
+595830,use of facilities - nicu-316,1,consultation
+595831,use of facilities - nicu-317,1,consultation
+595832,use of facilities - nicu-318,1,consultation
+595833,use of facilities - nicu-319,1,consultation
+595834,use of facilities - nicu-320,1,consultation
+595835,use of facilities - nicu-321,1,consultation
+595836,use of facilities - nicu-322,1,consultation
+595837,use of facilities - nicu-323,1,consultation
+595838,use of facilities - nicu-324,1,consultation
+595839,use of facilities - nicu1,1,consultation
+595840,use of facilities - nicu10,1,consultation
+595841,use of facilities - nicu11,1,consultation
+595842,use of facilities - nicu12,1,consultation
+595843,use of facilities - nicu13,1,consultation
+595844,use of facilities - nicu14,1,consultation
+595845,use of facilities - nicu15,1,consultation
+595846,use of facilities - nicu16,1,consultation
+595847,use of facilities - nicu17,1,consultation
+595848,use of facilities - nicu18,1,consultation
+595849,use of facilities - nicu19,1,consultation
+595850,use of facilities - nicu2,1,consultation
+595851,use of facilities - nicu20,1,consultation
+595852,use of facilities - nicu21,1,consultation
+595853,use of facilities - nicu22,1,consultation
+595854,use of facilities - nicu24,1,consultation
+595855,use of facilities - nicu25,1,consultation
+595856,use of facilities - nicu27,1,consultation
+595857,use of facilities - nicu28,1,consultation
+595858,use of facilities - nicu29,1,consultation
+595859,use of facilities - nicu3,1,consultation
+595860,use of facilities - nicu31,1,consultation
+595861,use of facilities - nicu35,1,consultation
+595862,use of facilities - nicu5,1,consultation
+595863,use of facilities - nicu6,1,consultation
+595864,use of facilities - nicu8,1,consultation
+595865,use of facilities - nicu9,1,consultation
+595866,use of facilities - niso-01,1,consultation
+595867,use of facilities - niso-03,1,consultation
+595868,use of facilities - niso-04,1,consultation
+595869,use of facilities - niso-06,1,consultation
+595870,use of facilities - niso-07,1,consultation
+595871,use of facilities - niso-08,1,consultation
+595872,use of facilities - niso-09,1,consultation
+595873,use of facilities - niso-10,1,consultation
+595874,use of facilities - nr-01,1,consultation
+595875,use of facilities - nr-02,1,consultation
+595876,use of facilities - nr-03,1,consultation
+595877,use of facilities - nr-04,1,consultation
+595878,use of facilities - nr-05,1,consultation
+595879,use of facilities - nr-06,1,consultation
+595880,use of facilities - nr-07,1,consultation
+595881,use of facilities - nrr-01,1,consultation
+595882,use of facilities - nrsy-01,1,consultation
+595883,use of facilities - nrsy-02,1,consultation
+595884,use of facilities - nrsy-03,1,consultation
+595885,use of facilities - nrsy-04,1,consultation
+595886,use of facilities - nrsy-05,1,consultation
+595887,use of facilities - nrsy-06,1,consultation
+595888,use of facilities - nrsy-07,1,consultation
+595889,use of facilities - nrsy-08,1,consultation
+595890,use of facilities - nrsy-09,1,consultation
+595891,use of facilities - nursery 11,1,consultation
+595892,use of facilities - nursery 2,1,consultation
+595893,use of facilities - onc,1,consultation
+595894,use of facilities - onc - fc,1,consultation
+595895,use of facilities - onc-1,1,consultation
+595896,use of facilities - onc-2,1,consultation
+595897,use of facilities - onc-3,1,consultation
+595898,use of facilities - picu,2,consultation
+595899,use of facilities - picu isolation 1,1,consultation
+595900,use of facilities - picu-01,1,consultation
+595901,use of facilities - picu-02,1,consultation
+595902,use of facilities - picu-03,1,consultation
+595903,use of facilities - picu-04,1,consultation
+595904,use of facilities - picu-05,1,consultation
+595905,use of facilities - picu-06,1,consultation
+595906,use of facilities - picu-09,1,consultation
+595907,use of facilities - picu1,1,consultation
+595908,use of facilities - picu1-a,1,consultation
+595909,use of facilities - picu10,1,consultation
+595910,use of facilities - picu11,1,consultation
+595911,use of facilities - picu12,1,consultation
+595912,use of facilities - picu13,1,consultation
+595913,use of facilities - picu14,1,consultation
+595914,use of facilities - picu18,1,consultation
+595915,use of facilities - picu1a,1,consultation
+595916,use of facilities - picu1b,1,consultation
+595917,use of facilities - picu2,1,consultation
+595918,use of facilities - picu21,1,consultation
+595919,use of facilities - picu23,1,consultation
+595920,use of facilities - picu25,1,consultation
+595921,use of facilities - picu29,1,consultation
+595922,use of facilities - picu2a,1,consultation
+595923,use of facilities - picu2b,1,consultation
+595924,use of facilities - picu3,1,consultation
+595925,use of facilities - picu32,1,consultation
+595926,use of facilities - picu33,1,consultation
+595927,use of facilities - picu34,1,consultation
+595928,use of facilities - picu3a,1,consultation
+595929,use of facilities - picu3b,1,consultation
+595930,use of facilities - picu4,1,consultation
+595931,use of facilities - picu4a,1,consultation
+595932,use of facilities - picu4b,1,consultation
+595933,use of facilities - picu5,1,consultation
+595934,use of facilities - picu6,1,consultation
+595935,use of facilities - picu7,1,consultation
+595936,use of facilities - picu8,1,consultation
+595937,use of facilities - picu9,1,consultation
+595938,use of facilities - piso,1,consultation
+595939,use of facilities - piso-01,1,consultation

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+414302,"o;zhantai;pd2017, 53, c3",1,eyewear
+414303,"o;zhantai;pd2020, 54, c1",1,eyewear
+414304,"o;zhantai;pd2020, 54, c4",1,eyewear
+414305,"o;zhantai;pd2022, 53, c3",1,eyewear
+414306,"o;zhantai;pd2030, 52, c3",1,eyewear
+414307,"o;zhantai;pd2030, 52, c4",1,eyewear
+414308,"o;zhantai;pd2032, 55, c2",1,eyewear
+414309,"o;zhantai;pd2032, 55, c3",1,eyewear
+414310,"o;zhantai;pd2033, 53, c2",1,eyewear
+414311,"o;zhantai;pd2079, 53, c1",1,eyewear
+414312,"o;zhantai;pd2080, 46, c1",1,eyewear
+414313,"o;zhantai;pd2086, 53, c2",1,eyewear
+414314,"o;zhantai;pd2086, 53, c3",1,eyewear
+414315,"o;zhantai;pd2093, 49, c2",1,eyewear
+414316,"o;zhantai;pd2098, 53, c1",1,eyewear
+414317,"o;zhantai;pd2098, 53, c3",1,eyewear
+414318,"o;zhantai;pd2122, 53, c03",1,eyewear
+414319,"o;zhantai;rg2014, 52, c2",1,eyewear
+414320,"o;zhantai;rg2180, 50, c4",1,eyewear
+414321,"o;zhantai;rr1012, 57, c02",1,eyewear
+414322,oa-oy8003-f - oakley,1,eyewear
+414323,oa028,1,other
+414324,oa956,1,other
+414325,oa;rr;clic;t;+1.50;montoura;crb;cristal,1,other
+414326,oae,1,other
+414327,oae (oto acoustic emissions,1,other
+414328,oae hearing test,1,lab_test
+414329,oae otoacoustic emissions test,1,lab_test
+414330,oaes test a.b.r.(bera) awake,1,lab_test
+414331,oaes test au00392019,1,lab_test
+414332,oak-8010-foakley,1,other
+414333,oak-8016-foakley,1,other
+414334,oak-8017-foakley,1,other
+414335,oak-8022-foakley,1,other
+414336,oakely,1,other
+414337,oakle optical,1,eyewear
+414338,oakley,2,eyewear
+414339,oakley - oa8972,1,eyewear
+414340,oakley - oa9042,1,eyewear
+414341,oakley - oak8050c04,1,eyewear
+414342,oakley 80371852 51 c66 male,1,eyewear
+414344,oakley frm 8003/01/48,1,eyewear
+414349,oakley kids frm,1,eyewear
+414350,oakley kids frm 8001/48/01,1,eyewear
+414351,oakley kids frm 8001/48/04,1,eyewear
+414352,oakley kids frm 8002/49/02,1,eyewear
+414353,oakley kids frm 8005/45/01,1,eyewear
+414354,oakley kids frm 8005/45/04,1,eyewear
+414355,oakley kids frm 8005/49/01,1,eyewear
+414356,oakley kids frm 8007/48/03,1,eyewear
+414357,oakley kids frm 8010/47/02,1,eyewear
+414358,oakley kids frm 8010/49/03,1,eyewear
+414359,oakley kids frm 8010/49/05,1,eyewear
+414360,oakley kids frm 8020/48/01,1,eyewear
+414361,oakley kids frm 8022/44/02,1,eyewear
+414362,oakley kids frm 8022/44/03,1,eyewear
+414363,oakley kids frm 8022/44/04,1,eyewear
+414364,oakley kids frm 8022/46/02,1,eyewear
+414365,oakley kids frm 8022/46/04,1,eyewear
+414366,oakley o7001,1,eyewear
+414367,oakley oo917716,1,eyewear
+414368,oakley ox5100,1,eyewear
+414377,oakley1060 3,1,other
+414378,oakley1066 2,1,other
+414379,"oakley1072,52,107205 = 06/2015",1,other
+414380,oakley3085 22-148,1,other
+414381,oakley3122 01,1,other
+414382,oakley3123 1=7/2013 (00.00,1,other
+414383,oakley3142 02,1,other
+414384,oakley3142 3,1,other
+414385,oakley3144,1,other
+414386,oakley3144 01,1,other
+414387,oakley3144 03,1,other
+414388,oakley3153 4,1,other
+414389,oakley5031 22/175=6/2012 (00.0,1,other
+414390,oakley5038 5,1,other
+414391,oakley5040 5,1,other
+414392,oakley5083 1,1,other
+414393,"oakley5115,53,5115-04 = 08/2017",1,other
+414394,oakley5137,1,other
+414395,"oakley8026 ,54, 802602=02/2015",1,other
+414396,oakley8027 1,1,other
+414397,oakley8027 5,1,other
+414398,"oakley8034,53,803401 = 06/2015",1,other
+414399,"oakley8039,51,803908 = 06/ 2015",1,other
+414400,"oakley8103,49,810301 = 11/2016",1,other
+414401,oakliy-1,1,other
+414402,oanoramic x-ray,1,imaging
+414403,"oasismancerebral aneurysm coiling (without stents, coils, balloons, intermediate",1,other
+414404,"oasys 1-day 30, 14.30, +, 00.50, 00.00",2,eyewear
+414405,"oasys 1-day 30, 14.30, +, 01.00, 00.00",1,eyewear
+414406,"oasys 1-day 30, 14.30, +, 01.25, 00.00",2,eyewear
+414407,"oasys 1-day 30, 14.30, +, 01.50, 00.00",2,eyewear
+414408,"oasys 1-day 30, 14.30, +, 01.75, 00.00",2,eyewear
+414409,"oasys 1-day 30, 14.30, +, 02.00, 00.00",2,eyewear
+414410,"oasys 1-day 30, 14.30, +, 02.25, 00.00",2,eyewear
+414411,"oasys 1-day 30, 14.30, +, 02.50, 00.00",1,eyewear
+414412,"oasys 1-day 30, 14.30, +, 02.75, 00.00",2,eyewear
+414413,"oasys 1-day 30, 14.30, +, 03.00, 00.00",2,eyewear
+414414,"oasys 1-day 30, 14.30, +, 03.50, 00.00",2,eyewear
+414415,"oasys 1-day 30, 14.30, +, 04.25, 00.00",1,eyewear
+414416,"oasys 1-day 30, 14.30, +, 05.00, 00.00",1,eyewear
+414417,"oasys 1-day 30, 14.30, +, 05.50, 00.00",2,eyewear
+414418,"oasys 1-day 30, 14.30, +, 06.50, 00.00",1,eyewear
+414419,"oasys 1-day 30, 14.30, +, 07.00, 00.00",1,eyewear
+414420,"oasys 1-day 30, 14.30, -, 00.50, 00.00",2,eyewear
+414421,"oasys 1-day 30, 14.30, -, 00.75, 00.00",2,eyewear
+414422,"oasys 1-day 30, 14.30, -, 01.00, 00.00",2,eyewear
+414423,"oasys 1-day 30, 14.30, -, 01.25, 00.00",2,eyewear
+414424,"oasys 1-day 30, 14.30, -, 01.50, 00.00",2,eyewear
+414425,"oasys 1-day 30, 14.30, -, 01.75, 00.00",2,eyewear
+414426,"oasys 1-day 30, 14.30, -, 02.00, 00.00",2,eyewear
+414427,"oasys 1-day 30, 14.30, -, 02.25, 00.00",2,eyewear
+414428,"oasys 1-day 30, 14.30, -, 02.50, 00.00",2,eyewear
+414429,"oasys 1-day 30, 14.30, -, 02.75, 00.00",2,eyewear
+414430,"oasys 1-day 30, 14.30, -, 03.00, 00.00",2,eyewear
+414431,"oasys 1-day 30, 14.30, -, 03.25, 00.00",2,eyewear
+414432,"oasys 1-day 30, 14.30, -, 03.50, 00.00",2,eyewear
+414433,"oasys 1-day 30, 14.30, -, 03.75, 00.00",2,eyewear
+414434,"oasys 1-day 30, 14.30, -, 04.00, 00.00",2,eyewear
+414435,"oasys 1-day 30, 14.30, -, 04.25, 00.00",2,eyewear
+414436,"oasys 1-day 30, 14.30, -, 04.50, 00.00",2,eyewear
+414437,"oasys 1-day 30, 14.30, -, 04.75, 00.00",2,eyewear
+414438,"oasys 1-day 30, 14.30, -, 05.00, 00.00",2,eyewear
+414439,"oasys 1-day 30, 14.30, -, 05.25, 00.00",1,eyewear
+414440,"oasys 1-day 30, 14.30, -, 05.50, 00.00",2,eyewear
+414441,"oasys 1-day 30, 14.30, -, 05.75, 00.00",2,eyewear
+414442,"oasys 1-day 30, 14.30, -, 06.00, 00.00",1,eyewear
+414443,"oasys 1-day 30, 14.30, -, 06.50, 00.00",2,eyewear
+414444,"oasys 1-day 30, 14.30, -, 07.00, 00.00",1,eyewear
+414445,"oasys 1-day 30, 14.30, -, 07.50, 00.00",2,eyewear
+414446,"oasys 1-day 30, 14.30, -, 08.50, 00.00",2,eyewear
+414447,"oasys 1-day 30, 14.30, -, 09.00, 00.00",1,eyewear
+414448,"oasys 1-day 30, 14.30, -, 10.00, 00.00",1,eyewear
+414449,oasys 1-day 30/ 14.30/ -/ 01.25/ 00.00,1,eyewear
+414450,oasys 1-day 30/ 14.30/ -/ 04.50/ 00.00,1,eyewear
+414451,"oasys 1-day 90, 14.30, +, 02.00, 00.00",2,eyewear
+414452,"oasys 1-day 90, 14.30, +, 04.00, 00.00",1,eyewear
+414453,"oasys 1-day 90, 14.30, +, 08.00, 00.00",2,eyewear
+414454,"oasys 1-day 90, 14.30, -, 00.50, 00.00",1,eyewear
+414455,"oasys 1-day 90, 14.30, -, 01.00, 00.00",1,eyewear
+414456,"oasys 1-day 90, 14.30, -, 01.25, 00.00",2,eyewear
+414457,"oasys 1-day 90, 14.30, -, 01.50, 00.00",2,eyewear
+414458,"oasys 1-day 90, 14.30, -, 01.75, 00.00",2,eyewear
+414459,"oasys 1-day 90, 14.30, -, 02.00, 00.00",2,eyewear
+414460,"oasys 1-day 90, 14.30, -, 02.25, 00.00",2,eyewear
+414461,"oasys 1-day 90, 14.30, -, 02.50, 00.00",2,eyewear
+414462,"oasys 1-day 90, 14.30, -, 02.75, 00.00",2,eyewear
+414463,"oasys 1-day 90, 14.30, -, 03.00, 00.00",2,eyewear
+414464,"oasys 1-day 90, 14.30, -, 03.25, 00.00",2,eyewear
+414465,"oasys 1-day 90, 14.30, -, 03.50, 00.00",2,eyewear
+414466,"oasys 1-day 90, 14.30, -, 03.75, 00.00",1,eyewear
+414467,"oasys 1-day 90, 14.30, -, 04.00, 00.00",2,eyewear
+414468,"oasys 1-day 90, 14.30, -, 04.75, 00.00",2,eyewear
+414469,"oasys 1-day 90, 14.30, -, 05.00, 00.00",2,eyewear
+414470,"oasys 1-day 90, 14.30, -, 05.25, 00.00",2,eyewear
+414471,"oasys 1-day 90, 14.30, -, 05.50, 00.00",2,eyewear
+414472,"oasys 1-day 90, 14.30, -, 06.00, 00.00",2,eyewear
+414473,"oasys 1-day 90, 14.30, -, 06.50, 00.00",2,eyewear
+414474,"oasys 1-day 90, 14.30, -, 07.50, 00.00",1,eyewear
+414475,"oasys 1-day 90, 14.30, -, 12.00, 00.00",2,eyewear
+414476,oasys 1day for astigmatism,1,eyewear
+414477,oasys for astigmatism,1,eyewear
+414478,oasys transitions 8.4 -2.00 6p rx,1,eyewear
+414479,oasys transitions 8.4 -2.50 6p rx,1,eyewear
+414480,oasys transitions 8.4 -3.25 6p rx,1,eyewear
+414481,oasys whith transition -5.00,1,eyewear
+414482,ob & gyne department,1,other
+414483,ob & gyn. consultation,2,consultation
+414484,ob - gyn specialist,1,consultation
+414485,ob - gyne consultant fee,1,consultation
+414486,ob - gyne - 1 scan(trans vaginal,1,imaging
+414487,ob - obstetrical ultrasound scan,1,imaging
+414488,ob - obstetrical ultrasound scan - 111-71096,1,imaging
+414489,ob - obstetrical ultrasound with pulse doppler,1,imaging
+414490,ob . ultra sound 1st visit,1,consultation
+414491,ob / gyn - one scan,1,imaging
+414492,ob antenatal classes new follow-up,1,consultation
+414493,ob caesarian section with baby care,1,procedure
+414494,ob cons,1,consultation
+414495,ob delivery pack,1,supplies
+414496,ob gn complimentary us,1,imaging
+414497,ob gyn - 1 scan,1,imaging
+414498,ob gyn - 1 scan (follow up,1,imaging
+414499,ob gyn 1 scan,2,imaging
+414500,ob gyn nutrition new follow-up,1,consultation
+414501,ob gyn scan (3-d,1,imaging
+414502,ob gyn specialist consultation,1,consultation
+414503,ob gyn visit-for social media,1,consultation
+414504,ob gynaecology fee-consultant,1,consultation
+414505,ob gynaecology fee-consultant(10012,1,consultation
+414506,ob gynaecology fee-specialist (senior,1,consultation
+414507,ob gynaecology fee-specialist (senior)(10013,1,consultation
+414508,ob gynaecology fee-specialist 1st,2,consultation
+414510,ob gyne consultation,2,consultation
+414511,ob gyne specialist,1,consultation
+414512,ob gynae consultant consultation,1,consultation
+414513,ob gynae specialist consultation,1,consultation
+414514,ob gynecology specialist fee dr. malath,1,consultation
+414515,ob gynecology specialist fee dr. may zawway,1,consultation
+414516,ob high risk follow-up,1,consultation
+414517,ob high risk new follow-up,1,consultation
+414518,ob high risk new patient,1,other
+414519,ob high risk virtual follow-up,1,consultation
+414520,ob pack ii,1,supplies
+414521,"ob pack iii , kimberly clark",1,supplies
+414522,ob pack iii sterile cs/5,1,supplies
+414523,ob senoir consultant,1,consultation
+414524,ob ultrasound,1,imaging
+414525,ob urgent add-on follow-up,1,consultation
+414526,ob us,1,imaging
+414527,ob us < 14 wks single fetus,1,imaging
+414528,ob us >/= 14 wks sngl fetus,1,imaging
+414529,ob us detailed sngl fetus,1,imaging
+414530,ob us follow-up per fetus,1,consultation
+414531,ob us limited fetus(s,1,imaging
+414532,ob walk-in visit,1,consultation
+414533,ob and gyne consultation,1,consultation
+414534,ob&gynea consultation,1,consultation
+414535,ob- gyn ultrasound,1,imaging
+414536,ob- gyn specialist consultation,1,consultation
+414537,ob-gyn specialist fee,1,consultation
+414538,ob-gyn u/s,1,imaging
+414539,ob-gyne consultation,1,consultation
+414540,ob-gyne consultation - specialist,1,consultation
+414541,ob-gyne specialist consultation,1,consultation
+414542,ob-gyne ultrasound,1,imaging
+414543,ob-gyn consultation,2,consultation
+414544,ob. & gyn examination fees (consultant,1,consultation
+414545,ob. & gyn examination fees (specialist,1,consultation
+414546,ob. a.n.c. 1st stage,1,lab_test
+414547,ob. a.n.c. 2nd stage,1,lab_test
+414548,ob. consultation-1,1,consultation
+414549,ob. consultation-10,1,consultation
+414550,ob. consultation-12,1,consultation
+414551,ob. consultation-2,1,consultation
+414552,ob. consultation-3,1,consultation
+414553,ob. consultation-4,1,consultation
+414554,ob. consultation-6,1,consultation
+414555,ob. consultation-7,1,consultation
+414556,ob. consultation-9,1,consultation
+414557,ob. gyn. u/s,1,imaging
+414558,ob. gynae consultation,1,consultation
+414559,ob. ultrasound-1,1,imaging
+414560,ob. ultrasound-2,1,imaging
+414561,ob. ultrasound-3,2,imaging
+414562,ob.&gyna specialist fee,1,consultation
+414563,ob./gyn. cons. fee,1,consultation
+414564,ob.consultation,1,consultation
+414565,ob.gyn clinic,1,consultation
+414566,ob.gyn consultation,1,consultation
+414567,ob.gyn visit out of duty,1,consultation
+414568,ob.gyn.ultrasound,1,imaging
+414569,ob.gynaecologist consultation,2,consultation
+414570,ob.gyne consultation,2,consultation
+414571,ob.gyne outside consultation,1,consultation
+414572,ob.gyne specialist,1,consultation
+414573,ob.gyne specialist consultation,2,consultation
+414575,ob/ gyn one scan,1,imaging
+414576,ob/ gyna consult,1,consultation
+414577,ob/ gyne consultant cons,1,consultation
+414578,ob/ gyne specialist 1 cons,1,consultation
+414579,ob/ gyne specialist 2 cons,1,consultation
+414580,ob/gy check up specialist,1,consultation
+414581,ob/gy con. - specialist a,1,consultation
+414582,ob/gy con.consultant,1,consultation
+414583,ob/gy consultant,1,consultation
+414584,ob/gy specialist,1,consultation
+414585,ob/gyn specialist fee,3,consultation
+414586,ob/gyn & ivf cons. fee,1,consultation
+414587,ob/gyn consultant fee,2,consultation
+414588,ob/gyn consultation,1,consultation
+414589,ob/gyn consultation fees,1,consultation
+414590,ob/gyn consultation fees 2,1,consultation
+414591,ob/gyn follow up,1,consultation
+414592,ob/gyn first visit,1,consultation
+414593,ob/gyn inpatient visit,1,consultation
+414594,ob/gyn medication refill clinic visit,1,consultation
+414595,ob/gyn specialist 1,1,consultation
+414596,ob/gyn specialist 2,1,consultation
+414597,ob/gyn specialist fee 1,1,consultation
+414598,ob/gyn pregnancy ultrasound,1,imaging
+414599,ob/gynae consultant visit,1,consultation
+414600,ob/gynae cosultant,1,other
+414601,ob/gyne,1,other
+414602,ob/gyne cons fee,1,consultation
+414603,ob/gyne consultant fee,1,consultation
+414604,ob/gyne consultant on call,1,consultation
+414605,ob/gyne consultant on duty,1,consultation
+414606,ob/gyne consultant visit,1,consultation
+414607,ob/gyne consultation (er) resident / gp,1,consultation
+414608,ob/gyne consultation (specialist,1,consultation
+414609,ob/gyne sp. revisit,1,other
+414610,ob/gyne sp. visit,1,consultation
+414611,ob/gyne spec fee,1,consultation
+414612,ob/gyne specialist,2,consultation
+414613,ob/gyne specialist consultation,2,consultation
+414614,ob/gyne specialist on call,1,consultation
+414615,ob/gyne specialist on duty,1,consultation
+414617,obacter urea breath test,1,lab_test
+414618,obdominal exploration laproscopy,1,procedure
+414619,obe/gyn consultation specislest,1,consultation
+414620,obeservation roomt an hour or more,1,other
+414621,obesity barium swallow,1,imaging
+414623,obesity profile,2,lab_test
+414625,obestatric & gynae consultant,1,consultation
+414626,obestatric u s with cd,1,imaging
+414627,obesterec u s,1,imaging
+414628,obestratic ultra sound,1,imaging
+414629,obg clinic,1,consultation
+414630,obg consultation,3,consultation
+414631,obg consultation 83600-00-10,1,consultation
+414632,obg consultation fee,1,consultation
+414633,obg consultatnt fee,1,consultation
+414634,obg consultant fee,1,consultation
+414636,obg follow up,1,consultation
+414637,obg incentive,1,other
+414638,obg pecialest كشف اخصائية نساء وولاده,1,consultation
+414639,obg specialist consultation,2,consultation
+414640,obg specialist fee,1,consultation
+414642,obg specialist . ex,2,consultation
+414643,obg-000 consultation,1,consultation
+414644,obg-001 ultrasound,1,imaging
+414645,obg-cons,1,consultation
+414646,obg-especialist,1,other
+414647,obg-panoramic x-ray(medgulf,1,imaging
+414648,obgayn consultation,1,consultation
+414649,obgyn abdominal ultrasound,1,imaging
+414650,obgyn consultation,3,consultation
+414651,obgyn consultation- specialist,1,consultation
+414653,obgyn specialist consultation,1,consultation
+414654,obgyn ultrasound,1,imaging
+414655,obgyne,1,other
+414656,obgyne consultant on duty,1,consultation
+414657,obgyne consultation,1,consultation
+414658,obgyne specialist fee,1,consultation
+414659,obgyne specialist on duty,1,consultation
+414661,oblancia 10453c1,1,other
+414662,"oblique , support , riyadh, , d180001000",1,supplies
+414663,obliteration of cerebral aneurysms by coils ? medium aneurysms (5 to 10 mm,1,other
+414664,obliteration of cerebral aneurysms by coils ? small aneurysms (<5 mm,1,other
+414665,oblitration cerebral aneurysms bycoil5-10mm incl basic microcat/guidewre&1stcoil,1,other
+414666,oblitration cerebral aneurysms bycoil>10mm incl basic microcat/guidewire&1stcoil,1,supplies
+414667,obs & gyn c fee,1,consultation
+414668,obs & gyn consultant,1,consultation
+414669,obs & gyn consultant fee,2,consultation
+414670,obs & gyn consultant fee day,1,consultation
+414672,obs & gyn specialist fee,2,consultation
+414674,obs & gyne consulation,1,other
+414675,obs & gyne specialist fees,1,consultation
+414676,obs - gyn senior specialist fee,1,consultation
+414677,obs and gyn consultant fee,2,consultation
+414678,obs room,1,consultation
+414679,obs room (more than 1h,1,consultation
+414680,obs u/s,2,imaging
+414682,obs and gyn specialist fee,1,consultation
+414683,obs. & gyne consultation's fee,3,consultation
+414684,obs. & gyne consultation fee,2,consultation
+414686,obs. & gyne specialist's fee,2,consultation
+414687,obs. - u/s or preg. u/s,1,imaging
+414688,obs. - u/s or pregu/s,1,imaging
+414689,"obs. us, multi. preg., 2nd/3rd trim",1,imaging
+414690,obs/us,1,imaging
+414691,obse and gyne ultrasound,1,imaging
+414692,obser./recov.er/hour,1,other
+414693,obser./recov.room/hour,2,consultation
+414694,observ. delivery room /hour (max 6hr) if,1,procedure
+414695,observ. double room/h (day case)(max 6h,1,consultation
+414696,observ. recov.room/hour,1,consultation
+414697,observ. rm for 24 hours,1,other
+414698,observ.rm. for over 6 hours,1,other
+414699,observ.rm. for over 6 hours/hour,1,other
+414700,observ.room for 6 hours,1,consultation
+414701,observation,2,consultation
+414702,observation & i.v. fluids,2,supplies
+414703,observation (less than 2 hours,2,consultation
+414704,observation / treatment room up to one hour,3,supplies
+414705,observation / treatment room up to two hours,1,consultation
+414706,observation 24 hours,1,consultation
+414707,observation 6hrs,1,consultation
+414708,observation bed,1,supplies
+414709,observation charge in emergency room / day,1,consultation
+414710,observation charges 0-2 hrs,1,consultation
+414711,observation charges 0-4 hrs,1,consultation
+414712,observation charges for 1 hr,1,consultation
+414713,observation charges up to 6 hrs,1,consultation
+414714,observation chrages per hour,1,consultation
+414715,observation e . r. / room / hour,1,consultation
+414716,"observation fee, dsu room charge - pvt. rm, 2-6 hrs",1,consultation
+414717,observation fee- nurse / hour,1,consultation
+414718,observation fee-nurse,2,consultation
+414720,observation fees,1,consultation
+414721,observation fees 1 hour,1,consultation
+414722,observation for 2hours,1,consultation
+414723,observation in e . r,1,consultation
+414724,observation in e.r. / hour,1,consultation
+414725,observation in er every one h,1,supplies
+414726,observation in er per each hour,1,consultation
+414727,observation of patient for one hou,1,supplies
+414728,observation of patient for one hour,1,supplies
+414729,observation room,7,consultation
+414730,observation room (1 hr - 2 hr,1,consultation
+414731,observation room (15 m - 1hr,1,consultation
+414732,observation room (15 m-1 hr,1,consultation
+414733,observation room (15 m-1 hr)including consumables,1,consultation
+414734,observation room (15 m-1hr,1,consultation
+414735,observation room (15m - 1 hr,1,consultation
+414736,observation room 2 hrs max,2,consultation
+414737,observation room 6 hour,1,consultation
+414738,observation room at e.r. / hour,1,consultation
+414739,observation room emergency (er) less than 6 hour,3,consultation
+414741,observation room er,1,consultation
+414742,observation room er or recovery less than 6 hour,1,consultation
+414743,observation room er or recovery more than 6 hour,1,consultation
+414744,observation room er / or recovery less than 6 hour,1,consultation
+414745,observation room er / or recovery more than 6 hour,1,consultation
+414746,observation room er 3- 6 hour,1,consultation
+414747,observation room er less than 6 hour,1,consultation
+414748,observation room er less than 6 hour(10124,1,consultation
+414749,observation room er more than 6 hour,1,consultation
+414750,observation room er/iv maximum 2 hours,1,supplies
+414751,observation room fee,1,consultation
+414752,observation room fee 6 hours,1,consultation
+414753,observation room fee hour or more than hour,2,consultation
+414754,observation room fee [ first hour,1,consultation
+414755,observation room fees (1 hour more,1,consultation
+414756,observation room fees (more than half hour,1,consultation
+414757,observation room fees(more than one hour,1,supplies
+414758,observation room fee[ first hour,1,consultation
+414759,observation room for 6 hours,1,consultation
+414760,observation room less than three hours (short stay,1,consultation
+414761,observation room less than twelve hours (short stay,1,consultation
+414762,observation room more than one our -per hour,1,supplies
+414763,observation room per hour,5,consultation
+414764,observation room per hour (short stay,1,consultation
+414765,observation room per hour - over the first six hours,1,consultation
+414767,observation room up to six hours (short stay,1,consultation
+414768,observation room for 30 minutes,1,consultation
+414769,observation with monitor device,2,consultation
+414771,observation(less than one hours,1,supplies
+414772,observation/treatment (1hr,1,consultation
+414778,obsrvtion of pishent,1,other
+414779,obsrvtion of pishent 1-3 h,1,other
+414780,obst gyne fee,1,consultation
+414781,obst- & gyn cons. (co,1,consultation
+414782,obst- &gyn cons. (sp,1,consultation
+414783,obst- &gyn cons. (co,1,consultation
+414784,obst/gyne doctor,2,consultation
+414785,obst/gyne fee,1,consultation
+414786,obsteetice doppler,1,imaging
+414787,obsterics and cology clinic,1,consultation
+414788,obsterics and gynecology clinic,1,consultation
+414789,obsterrical scanning ( b&w,1,other
+414790,obsterrical scanning ( b&w )ِ,1,other
+414791,obstertic us,1,imaging
+414792,obstetic 4 d ultrasound,1,imaging
+414794,obstetric (pregnancy,2,consultation
+414795,obstetric (pregnancy) ultrasound)4 d,1,imaging
+414796,obstetric +doppler,2,imaging
+414797,obstetric - 4d,1,consultation
+414798,obstetric / gyne ultrasound,1,imaging
+414799,obstetric 2d. u.s,1,consultation
+414800,obstetric 3d / 4d ultrasound,1,imaging
+414801,obstetric 4d u/s,1,consultation
+414802,obstetric and gyneciligy specialist,1,consultation
+414803,obstetric and gynecology specialist,1,consultation
+414804,obstetric consultation - first visit,1,consultation
+414805,obstetric doppler,3,imaging
+414806,obstetric doppler ultrasound,1,imaging
+414807,obstetric exam general anesth,1,consultation
+414808,obstetric multiple ob department,1,consultation
+414809,"obstetric panel [blood count, complete (cbc), and automated differential wbc count or blood count, complete (cbc), automated and appropriate manual differential wbc count,hepatitis b surface antigen (hbsag), hiv-1 antigen(s), with hiv-1 and hiv-2 antibodi",1,lab_test
+414810,"obstetric panel[ blood count, complete (cbc), automated and automated differential wbc count or blood count, complete (cbc), automated and appropriate manual differential wbc count, hepatitis b surface antigen (hbsag), antibody, rubella, syphilis test, non-treponemal antibody; qualitative (eg, vdrl, rpr, art) antibody screen, rbc, each serum technique, blood typing, abo and blood typing, rh (d",1,lab_test
+414811,"obstetric quantitative panel [blood count, complete (cbc), and automated differential wbc count or blood count, complete (cbc), automated and appropriate manual differential wbc count,hepatitis b surface antigen (hbsag), hiv-1 antigen(s), with hiv-1 and hiv-2 antibodies, single result, antibody, rubella; syphilis test, non-treponemal antibody; qualitative (eg, vdrl, rpr, art) antibody screen, rbc, each serum technique blood typing, abo and blood typing, rh (d",1,lab_test
+414812,obstetric scan ob department,1,imaging
+414813,obstetric u.s. & biophysical profile,1,lab_test
+414814,obstetric u/s,3,consultation
+414815,obstetric u/s with doppler,1,imaging
+414816,obstetric ultrasound,2,imaging
+414817,obstetric us,4,consultation
+414818,obstetric us + 3 d image,1,consultation
+414819,obstetric us + fetal doppler,1,imaging
+414820,obstetric u\s,1,consultation
+414821,obstetric-u.s.g,1,consultation
+414822,obstetric-u.s.g (u001,1,consultation
+414823,obstetric-u.s.gobstetric-u.s.g(uss0001,1,consultation
+414824,obstetric/ anc ultrasound,1,imaging
+414825,obstetrical u/s,1,imaging
+414826,obstetrics,1,other
+414827,obstetrics & gynaecology consultation,1,consultation
+414828,obstetrics & gynaecology consultation - free revisit,1,consultation
+414829,obstetrics & gynecology consultation,2,consultation
+414830,obstetrics (plain,1,other
+414831,obstetrics and gynecology clinics_consultant fee 2,1,consultation
+414832,obstetrics follow-up (plain,1,consultation
+414833,obstetrics scan / pelvic,1,imaging
+414834,obstetrics u/s,1,imaging
+414835,obstetrics ultrasound,1,imaging
+414836,obstetrics/gynecology material cost (additional,1,other
+414837,obstric ultrasound,1,imaging

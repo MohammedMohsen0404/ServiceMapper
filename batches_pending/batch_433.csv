@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+633213,xray-orbit (bilateral) 1 view,1,imaging
+633214,"xray-orbit (left), 1 view",1,imaging
+633215,xray-other regions,1,imaging
+633216,"xray-paranasal sinus, 1 view",1,imaging
+633217,"xray-paranasal sinus, 2 or 3 views",1,imaging
+633218,xray-pediatric chest & abdomen (ap,1,imaging
+633219,xray-pediatric chest & abdomen ap\ cross table lateral,1,imaging
+633220,"xray-pelvis, 1 view",1,imaging
+633221,"xray-pelvis, 2 views",1,imaging
+633222,xray-portable charge,1,imaging
+633223,"xray-sacrococcyx spine, 2 views",1,imaging
+633224,"xray-sacroilac joint, 3 views",1,imaging
+633225,xray-scaphoid (4 views,1,imaging
+633226,"xray-scapula (bilateral), 1 view",1,imaging
+633227,"xray-scapula (bilateral), 2 views",1,imaging
+633228,"xray-scapula (left), 1 view",1,imaging
+633229,"xray-scapula (left), 2 views",1,imaging
+633230,"xray-scapula (right), 2 views",1,imaging
+633231,"xray-scoliosos study, 1 view",1,imaging
+633232,"xray-shoulder (bilateral), 1 view",1,imaging
+633233,"xray-shoulder (bilateral), 2 or 3 views",1,imaging
+633234,"xray-shoulder (left), 1 view",1,imaging
+633235,"xray-shoulder (left), 2 or 3 views",1,imaging
+633236,"xray-shoulder (right), 1 view",1,imaging
+633237,"xray-shoulder (right), 2 or 3 views",1,imaging
+633238,"xray-skull, 2 views",1,imaging
+633239,xray-sterno-clavicular joint,1,imaging
+633240,xray-sternum & ribs bilateral,1,imaging
+633241,"xray-sternum, 1 views",1,imaging
+633242,"xray-tempromandibular joint (bilateral), 4 views",1,imaging
+633243,"xray-thoracic spine, 2 views",1,imaging
+633244,"xray-thoracic spine, 4 views",1,imaging
+633245,"xray-toes, 3 views",1,imaging
+633246,xray-upper limb,1,imaging
+633247,"xray-wrist (bilateral), 2 views",1,imaging
+633248,"xray-wrist (bilateral), 3 views",1,imaging
+633249,"xray-wrist (left), 2 views",1,imaging
+633250,"xray-wrist (left), 3 views",1,imaging
+633251,"xray-wrist (right), 2 views",1,imaging
+633252,"xray-wrist (right), 3 views",1,imaging
+633253,xrboth heel / calcanius 2 views,1,imaging
+633254,xrboth heel calcanius 2 views,1,imaging
+633256,xrhand 4 views,2,imaging
+633257,xrleg 3 views,1,imaging
+633259,xrtoes &heel / calcanius 3 view,1,imaging
+633260,xry 2 views,1,imaging
+633261,xry calcaneum ap&lat,1,imaging
+633262,xry finger ap/lat,1,imaging
+633263,xry thumb ( tow views,1,imaging
+633264,xry-shoulder scapula - 2 viws,1,other
+633266,xry0020,1,other
+633267,xry0030,1,other
+633269,xsprxs903 783,1,other
+633270,xt ankle joint ap/lat+oblique,1,imaging
+633281,"xtendbutton, round, medium, 17mm dia, 7.5mm peg, smith & nephew, 71935602",1,other
+633282,"xtendo button, round, small, 15mm dia, smith&nephew, 71935601",1,other
+633283,xtendobutton fixation device steril,1,procedure
+633284,xtp116ijs double lumen 11fx15cm catheter,1,supplies
+633285,xtp116mte double lumen catheter straight 11.5 x 15cm,1,supplies
+633286,xtp118mte straight double lumen catheter 11.5cmx20cm,1,supplies
+633287,xtp3116mt tri-flow catheter straight f11.5x15cm,1,supplies
+633288,xtraction for impacted tooth,1,dental
+633289,xtrnl ecg < 48 hr record (holter,1,diagnostic
+633302,xultophy 100 u/ml [5]pen,1,other
+633322,xultophy 100+3.6/ml,1,other
+633342,xultophy 5 pre-filled pen,1,other
+633345,xultophy pen,2,other
+633346,xx,1,other
+633347,xxx,1,other
+633348,xxxx,2,other
+633350,xy frm 17007 c2,1,eyewear
+633357,xylo acino 0.1%,1,other
+633399,xylo-mepha%200.1%25%20nasal%20spray,1,other
+633410,xylocaine 2 jelly,1,other
+633411,xylocaine 2% jelly,1,other
+633418,xylocaine jelly,1,other
+633419,xylocaine jelly 2%,1,other
+633429,xylocaine-2% viscous (n,1,other
+633464,xylolin%200.1%25%20adult%20nasal%20spray,1,other
+633467,xylomatezoline hydrochloride,1,other
+633899,xylometazolinehydrochloride0.1%1%/mlnasalspray,1,other
+633906,xylometrazoline hydrochloride,1,other
+633915,xylophil 2% gel30 gm,1,other
+633919,xylose test,1,lab_test
+633946,xyzal 5m # 20tab,1,other
+633947,xyzal 5m 20tab,1,other
+633948,xyzal 5m 20tab (07877,1,other
+634008,x_ray panorama,1,imaging
+634009,x_ray panoramic,2,dental
+634010,x_ry kup,1,other
+634046,xanthlasma removal,1,procedure
+634094,xatral-xl10mg.30t,1,other
+634095,xcard,1,other
+634101,xceed 3 ( 48 channels ) unilateral,1,other
+634231,xefo8mg20tab,2,other
+634233,xefo8mg,1,other
+634234,xefomgowderornjection,1,other
+634242,xelobine,1,other
+634262,xenor,1,other
+634350,xience sierra,1,other
+634419,xivar 15,1,other
+634428,xivar 20,1,other
+634438,xjapanesm,1,other
+634442,xmatching,1,other
+634492,xolamol-eye-drops5ml,1,other
+634493,xolamol.eye.dr,1,other
+634494,xonvea,1,other
+634500,xoria,1,other
+634511,xray long leg film,1,imaging
+634512,xray - abdomen. a.p. & lat.. 2 films,1,imaging
+634513,xray - oral single ???? ??? ????,1,imaging
+634514,xray abdomen ap,1,imaging
+634515,xray added 2 view,1,imaging
+634516,xray added view,1,imaging
+634519,xray both hips -ap+frog,1,imaging
+634520,xray both knees-ap,1,imaging
+634521,xray both knees-ap+lat,1,imaging
+634522,xray both knees-ap+lat - insurance,1,imaging
+634525,xray cervicxal spine ap and lat,1,imaging
+634527,xray chest 2v,1,imaging
+634529,xray chest for ribs apand lat and obl and sky view,1,imaging
+634532,xray elbow ap and lat and obl,1,imaging
+634535,xray feet finger 2v,1,imaging
+634536,xray femoral bone femur,1,imaging
+634537,xray finger ap and lat,1,imaging
+634540,xray foot ap and obl,1,imaging
+634544,xray hand ap and lat,1,imaging
+634545,xray hand apand lat and obl,1,imaging
+634546,xray intra oral single apical,1,imaging
+634547,xray knee ap,1,imaging
+634548,xray knee aplat and sky line,1,imaging
+634549,xray knee ap and latand obl and sky view,1,imaging
+634556,xray panoramic ???? ????????,1,imaging
+634557,xray paranasal 3v,1,imaging
+634558,xray pelvic bone ap + l pelvis,1,imaging
+634559,xray pelvic bone ap pelvis,1,imaging
+634561,xray right wrist - scaphoid view - 3 views,1,imaging
+634564,xray sacrococcegel v coccygeal,1,imaging
+634565,xray scapula 1v,1,imaging
+634566,xray scapula 2v,1,imaging
+634567,xray shouder ap and lat,1,imaging
+634571,xray thigh ap and lat,1,imaging
+634576,xray cerv.spine/lat 2 v,1,imaging
+634577,xray cerv.spineap/lat 2 v,1,imaging
+634581,xray general,1,imaging
+634582,xray humerus 1v,1,imaging
+634583,xray lumbar spine,1,imaging
+634584,xray of long bones (1 view,1,imaging
+634585,xray of long bones (2 views,1,imaging
+634587,xray of paranasal sinuses (1 view,1,imaging
+634588,xray of paranasal sinuses (2 views,1,imaging
+634591,xray shoulder 1 view,1,imaging
+634592,"xray wrist pa,lat & scaphoid view 3f",1,imaging
+634593,xray- cholecystogram (post cholecystostomy,1,imaging
+634601,xray- additional gastrografin bottle,1,imaging
+634606,xray- ankle ap stress test1 view (left,1,imaging
+634607,xray- ankle ap stress test1 view (right,1,imaging
+634608,"xray- ankle ap, lateral & mortise view (left",1,imaging
+634609,"xray- ankle ap, lateral & mortise view (right",1,imaging
+634610,"xray- ankle standing ap, lateral, non weight bearing mortise (left",1,imaging
+634611,"xray- ankle standing ap, lateral, non weight bearing mortise (right",1,imaging
+634623,xray- carotid / vertebral angio (bilateral,1,imaging
+634642,xray- extra long film,1,imaging
+634650,xray- fistulogram or sinogram,1,imaging
+634651,xray- fluoroscopy,1,imaging
+634657,"xray- foot standing ap, lateral, non weight bearing oblique (left",1,imaging
+634658,"xray- foot standing ap, lateral, non weight bearing oblique (right",1,imaging
+634689,xray- knee standing 2 views (left,1,imaging
+634691,xray- knee standing 3 views (left,1,imaging
+634694,xray- knee standing 2 views (right,1,imaging
+634701,xray- mastoids,1,imaging
+634706,xray- nephrostogram (post-nephrostomy,1,imaging
+634707,xray- o.r. fluoroscopy charge (1st one hour,1,imaging
+634708,xray- o.r. fluoroscopy charge (succeeding each hour,1,imaging
+634710,xray- os calcis (left,1,imaging
+634711,xray- os calcis (right,1,imaging
+634714,xray- orbits,1,imaging
+634723,xray- picc line removal,1,imaging
+634729,xray- sacro-iliac joints (ap & obl,1,imaging
+634735,"xray- scoliosis (ap, lat & traction",1,imaging
+634736,xray- sella turcica views,1,imaging
+634744,xray- shoulder 4 views with scapula (right,1,imaging
+634745,xray- shoulder ap 1 view (left,1,imaging
+634746,xray- shoulder ap 1 view (right,1,imaging
+634758,xray- u.l. venogram (bilateral,1,imaging
+634762,xray- whole spine lateral,1,imaging
+634763,xray- whole spine lateral bending (2 views,1,imaging
+634764,xray- whole spine pa,1,imaging
+634765,xray- whole spine pa with correction of pelvis,1,imaging
+634770,xray- chest for ribs one side 1v,1,imaging
+634771,xray- chest for ribs one side 2v,1,imaging
+634773,xry-ankle joint x-ray,1,imaging
+634774,xry-ankle x-ray 4 views,1,imaging
+634775,xry-chest 1 view x-ray,1,imaging
+634776,xry-dorsal spine/thoracic 2 views x-ray,1,imaging
+634777,xry-elbow 2 views x-ray,1,imaging
+634778,xry-elbow 3 views x-ray,1,imaging
+634779,xry-finger/thumb x-ray 2 views,1,imaging
+634780,xry-foot oscalcis x-ray 2 views,1,imaging
+634781,xry-hand 3 views x-ray,1,imaging
+634782,xry-hand 4 views x-ray,1,imaging
+634783,xry-hand x-ray,1,imaging
+634784,xry-hip 2 views x-ray,1,imaging
+634785,xry-knee x-ray 2 views,1,imaging
+634786,xry-knee x-ray bilateral,1,imaging
+634787,xry-lumbar/lumbo sacral spine 3 views x-ray,1,imaging
+634789,xry-ribs 2 views x-ray,1,imaging
+634790,xry-shoulder scapula x-ray 3 views,1,imaging
+634791,xry-stress view ankle/knee x-ray,1,imaging
+634792,xry-tibia/febula//toes x-ray 4 views (infant,1,imaging
+634793,xry-ulna & radius 2 views x-ray,1,imaging
+634794,xry-ulna & radius 3 views x-ray,1,imaging
+634795,xry-wrist 4 views x-ray,1,imaging
+634811,xyllocain,1,other
+634817,xylocain,1,other
+634820,xylocan 2,1,other
+634821,xylocan 2%,1,other
+634884,xyzal5mg20tab,1,other
+634885,y connection irrigation traxer flow dual port,1,procedure
+634886,"y connector, yck100c, kdl",1,other
+634887,"y knot suture anchor diff.size , surgical items , or",1,supplies
+634888,y plate 5 hole 8mm stem -anton hipp# 11.060.02,1,supplies
+634889,y plate diff.sizes,1,supplies
+634890,y s l/ysl2298/84j/54/f,1,lab_test
+634891,y s l/ysl2300/86q/54/f,1,lab_test
+634892,y s l/ysl6226/eod/f,1,lab_test
+634893,y s l/ysl6281/05l/55/f,1,lab_test
+634894,y s l/ysl6281/807/55/f,1,lab_test
+634895,y s l/ysl6302/q3v/54/f,1,lab_test
+634896,"y, connection, accessory",1,other
+634897,y-connector 3way w/ssp 3clamp #bd-20038e7d,1,other
+634898,y-connector pack #yck118b,1,supplies
+634899,y-connector set okay ii goodman (various sizes,1,other
+634900,"y-knot ,rc all-suture anchor, with two #2 (5 metric) hi-fi sutures (2 blue and 1 whitelblack)yrc02,medartis , yrc02",1,eyewear
+634901,"y-knot flex 1.8mm all suture anchor , ,mtf , y1802a",1,supplies
+634902,y-knot flex 1.8mm all suture anchor#2 (5 metric,1,supplies
+634903,y-knot flex 1.8mm suture anchor,1,supplies
+634904,"y-knot rc all hi-fi suture, loaded with 2 hi-fi #2 sutures, non resorbable (yprc02),conmed , yprc02",1,eyewear
+634905,"y-knot rc anchor with tape, one 2mm white/black hi-fi tape, one no.2 (5metric) blue hi-fi suture(yrc02stb,conmed , yrc02stb",1,eyewear
+634906,y-plate double matrixneuro titanium 6 holes 21mm blue synthes,1,supplies
+634907,"y-plate, cranial, m, 5 holes, osteonic, nyp304m05a",1,supplies
+634908,"y-piece breathing circuit connector, single-use",1,supplies
+634909,y.a.g laser session ( one eye,1,physiotherapy
+634910,y.a.g. laser capsulatomy - one eye,1,supplies
+634911,y.s lauran fm mod.5104 col 850,1,eyewear
+634912,y.s.lauran fm mod.5104 col 850,1,eyewear
+634913,"y27-1- burns d.s.contact with steam, hot vapors, hot object",1,eyewear
+634914,y4142/y101/52/19 =yves saint laurent,1,eyewear
+634915,"y62b (drg) other burns, minor complexity (2 days alos",1,inpatient
+634916,yag capsulotomy,1,procedure
+634917,yag a. capsulotomy,1,procedure
+634918,yag capsulotomy for both eyes,2,procedure
+634919,yag capsulotomy one eye,2,supplies
+634920,yag capsulotomy per eye,1,procedure
+634921,yag laser,3,procedure
+634922,yag laser (capsulotomy) od,1,procedure
+634923,yag laser (capsulotomy) os,1,procedure
+634924,yag laser (iridectomy) od,1,procedure
+634925,yag laser (iridectomy) os,1,procedure
+634926,yag laser (one eye,1,supplies
+634927,yag laser - capsulotomy,2,procedure
+634929,yag laser - iridotomy,1,procedure
+634930,yag laser capsulotomy,5,procedure
+634931,yag laser capsulotomy ( one eye,1,supplies
+634932,yag laser capsulotomy (1 eye,2,procedure
+634933,yag laser capsulotomy (both eyes,1,procedure
+634934,yag laser capsulotomy (left eye,1,procedure
+634935,yag laser capsulotomy (one eye,1,supplies
+634936,yag laser capsulotomy (package deal,1,procedure
+634937,yag laser capsulotomy (right eye,1,procedure
+634938,yag laser capsulotomy one eye,5,supplies
+634940,yag laser cutting of vitreous band,1,procedure
+634941,yag laser for posterior capsulotomy,1,procedure
+634942,yag laser iridootomy,1,procedure
+634943,yag laser iridotomy,1,procedure
+634944,yag laser iridotomy (1eye,1,procedure
+634945,yag laser iriodotomytaw,1,procedure
+634946,yag laser peripheral iridectomy,1,procedure
+634947,yag laser post capsulotomy done inside,1,procedure
+634948,yag laser post. capsulotomy (done inside,1,procedure
+634949,yag laser post. capsulotomy (done outside,1,procedure
+634950,yag laser post. capsulotomy done inside malath,1,procedure
+634951,yag laser post. capsulotomy done outsidetaw,1,procedure
+634952,yag laser posterior capsulotomy (both eye,1,procedure
+634953,yag laser posterior capsulotomy (done inside batal eye center,1,procedure
+634954,yag laser posterior capsulotomy (done inside magrabi,1,procedure
+634955,yag laser posterior capsulotomy (done inside your facility) one eye,1,supplies
+634956,yag laser posterior capsulotomy (done outside batal eye center,1,procedure
+634957,yag laser posterior capsulotomy (done outside magrabi,1,procedure
+634958,yag laser posterior capsulotomy (done outside your,1,procedure
+634959,yag laser posterior capsulotomy (done outside your facility,2,procedure
+634961,yag laser posterior capsulotomy (done outsidethe,1,procedure
+634962,yag laser posterior capsulotomy (one eye,2,supplies
+634964,yag laser pupilloplasty,1,procedure
+634965,"yag laser treatment p. deal,one eye",1,supplies
+634967,yag laser vitreous strand cut,2,procedure
+634970,yag laser posterior capsulotomy,2,procedure
+634971,yag laser treatment of posterior lens opacity,1,eyewear
+634973,yag pi or trabeculoplasty both eyes,1,procedure
+634974,yag pi or trabeculoplasty one eye,1,supplies
+634975,yag posterior capsulotomy,1,procedure
+634976,yag vitreolysis od,1,procedure
+634977,yag. laser post. capsulotomy (done inside,1,procedure
+634978,yag. laser post. capsulotomy (done outside,1,procedure
+634979,yaglaser admission package,1,consultation
+634980,yaglaser capsulotomy (one eye,1,supplies
+634981,yagoub yahya bint taleb,1,other
+634982,yahia abdul jawad alfarra,1,other
+634983,yahia ahmad mohammad yahia,1,other
+634985,yahia obaid dhafa,1,other
+634986,yahya hussain al masham,1,other
+634987,yalea vya006 co 0700 53-16-140 fr,1,eyewear
+634988,yamine abdualqaderkerarma,1,other
+634989,yankauer aspiration tube yankauer aspiration tube 28 cm,1,supplies
+634990,yankauer handle with crown tip with vent,1,dental
+634991,yankauer suction set,1,supplies
+634992,"yankauer suction set ,180cm",1,supplies
+634993,yankauer suction set 183cm / 4.7mm,1,supplies
+634994,yankauer suction set standard tip,1,supplies
+634995,yankauer suction tube,1,supplies
+634996,yankauer suction tube & tip set,1,supplies
+634997,yankauer suction tube 50/bx,1,supplies
+634998,yankauer suction tubing,1,supplies
+634999,yankaur suction set,1,supplies
+635000,yankaur suction set w/ std tip handle,1,supplies
+635001,yankeour connecting tube only without tip 1.8 cat 0036280,1,supplies
+635002,yankeur suction,1,supplies
+635003,yankouer suction set,2,supplies
+635005,yankour handle,1,other
+635006,yankour suction set,1,supplies
+635007,yankuer suction set,1,supplies
+635008,yankuer suction set p.tip vent/green,1,supplies
+635009,yankuer suction set p.tip vent/green/blue,1,supplies
+635010,yankuer suction tube complete ao40000,1,supplies
+635011,yankuer suction-per pcs,1,supplies
+635012,yankur suction tip 50/cs #9016 (crown tip,1,dental
+635015,yaser haj hamdo,1,other
+635016,yaser saeed sharif,1,other
+635020,yasmeen ali nada,2,other
+635028,yasmin 21tab,3,other
+635029,yasmin 21tab (07886,1,other
+635032,yasmin pills,1,other
+635061,yasser ahamed seleem,1,other
+635062,yasser ellafymohamed,1,other
+635063,yasser kotb hafez,1,other
+635067,yaz plus 28tab,1,other
+635068,yaz plus 28tabs,1,other
+635072,yaz plus film,1,other
+635091,ybocs,1,other
+635092,yc 0104 voga col: q-3,1,eyewear
+635093,ycell prp - ha- 1 session,1,physiotherapy
+635095,"ye660d blood pressure, monitor, ywell",1,lab_test
+635096,"ye680a blood pressure via bluetooth, blood pressure monitor, ywell",1,lab_test
+635097,yeast culture & sensitivity,1,lab_test
+635098,yeasts and fungi plus perhaps susceptibility testing,1,lab_test
+635099,yehya ali seddeq,1,other
+635100,yellow fever igg.igm,1,lab_test
+635101,yellow fever vac,1,other
+635105,yellow fever virus igg & igm abs - s.o,1,lab_test
+635107,yellow gown,1,supplies
+635108,yellow gown = blue isolation gown wp,1,supplies
+635109,yellow gown(isolation,1,supplies
+635110,yellow stopper - per pcs,1,other
+635111,"yersenia antibodies (iga, igg",1,lab_test
+635112,yersinia ab - s.o,1,lab_test
+635113,yersinia iga & igg abs,1,lab_test
+635120,ygt,1,other
+635121,yo-17-f - yous,1,other
+635122,yo-382-f - yous,1,other
+635123,yo-404-f - yous,1,other
+635124,yo-412-f - yous,1,other
+635125,yo-502-f - yous,1,other
+635126,yo-504-f - yous,1,other
+635127,yo-505-f - yous,1,other
+635128,yo-512-f - yous,1,other
+635129,yo-541-f - yous,1,other
+635202,yocair10mg,1,other
+635204,yogue optical,1,eyewear
+635205,yogue yo 2889,1,other
+635212,york macrodrip iv tubing ( ordinary,1,supplies
+635219,youghurt,1,other
+635220,yous,1,other
+635222,yousef aliel nemrawi,1,other
+635223,yousef el booq,1,other
+635224,yousef hasan ali atieh,1,other
+635226,yousuf aun ali,1,other
+635230,ysl sanit lurannite,1,other
+635231,ysl2313/95o/52/18 =yevssaintlaurent,1,other
+635232,ysl2342/ehq/56/16,1,other
+635233,ysl6166/v81/56,1,other
+635234,ysl6205/010/f,1,other
+635235,ysl6332/8i1,1,other
+635236,ysl6332/967/53/14 -yvessaintlaurent,1,other
+635237,ysl6332/967/53/14-yvessaintlaurent,1,other
+635238,ysl6342/pp5/53/15-yvessaintlaurent,1,other
+635239,ysl6362/ehc/54/15,1,other
+635240,ystoscopy + removal of dj stent,1,supplies
+635241,"yukon chrome drug eluting stent,t-cmg",1,supplies
+635242,yukon stent,1,supplies
+635246,yuwell 403 m compressor nebulizer,1,supplies
+635247,yuwell 403 t compressor nebulizer,1,supplies
+635248,yuwell blood pres monitor ye660d,1,lab_test
+635249,yuwell blood pressure monitor basic,1,lab_test
+635250,yuwell blood pressure wrist ye,1,lab_test
+635251,yuwell blood pressure ye660d,1,lab_test
+635252,yuwell blood pressure ye680a,1,lab_test
+635253,yuwell bpm lrg lcd ye660d,1,other
+635254,yuwell breathcare auto cpap hy450+mask,1,supplies
+635255,yuwell breathcare auto cpap yh450+mask,1,supplies
+635256,yuwell breathcare auto pap yh,1,lab_test
+635257,yuwell breathcare auto pap yh560,1,lab_test
+635258,yuwell breathcare ii bipap yh825,1,other
+635259,yuwell brethcare pap yh560,1,lab_test
+635260,yuwell brethcare pap yh825,1,lab_test
+635261,yuwell fullface mask w/forehe,1,supplies
+635263,yuwell infrared thermometer yt,1,physiotherapy
+635264,yuwell mesh nebulizer m103,1,supplies
+635266,yuwell nebulizer 403t,1,supplies
+635267,yuwell nebulizer comp.403t,1,supplies
+635268,yuwell oxygen concenrator 8f5aw,1,supplies
+635269,yuwell oxygen concentrator 5 liter 8f-5aw,1,supplies
+635270,yuwell oxygen concentrator 7f,1,supplies
+635271,yuwell pap mask yf-01-l,1,lab_test
+635272,yuwell pap mask yf-01-m,1,lab_test
+635273,yuwell pap mask yf-01-s,1,lab_test
+635274,yuwell pocket nebulizer m103,1,supplies
+635275,yuwell suction pump 7e-c,1,supplies
+635276,yuwell ye650 d upper arm bpm monitor,1,other
+635277,yuwell ye660 b upper arm bpm,1,other
+635278,yuwell ye8900 a wrist bpm smart,1,other
+635279,yves coganyc-386 vio red (52.0,1,other
+635280,yves saint laurent,1,eyewear
+635281,yvesaint laurent 5091 53 y793,1,eyewear
+635282,yvesaint laurent 8322 0 p.46,1,eyewear
+635283,ywell nebulizer,1,supplies
+635284,yag laser capsulotomy bilateral,1,procedure
+635285,yag laser capsulotomy (1eye,1,procedure
+635286,yag / 2 eyes / session,1,physiotherapy
+635287,yag / eye / session,1,physiotherapy
+635288,yag gonio puncture one eye,1,supplies
+635290,yag laser anterior stromal puncture ( 1 eye,1,procedure
+635291,yag laser capsulectomy p/d,1,procedure
+635293,yag laser capsulotomy ( 1 eye,1,procedure
+635295,yag laser capsulotomy (after cataract extract,1,procedure
+635296,yag laser capsulotomy (iridotomy ) 1 eye,1,procedure
+635297,yag laser capsulotomy (iridotomy ) 2 eye,1,procedure
+635298,yag laser capsulotomy (after cataract extraction done inside the hosp,1,dental
+635300,yag laser iridotomy / capsulotomy ( 1 eye,1,procedure
+635301,yag laser iridotomy / capsulotomy ( 2 eyes,1,procedure
+635302,yag laser iridotomy p/d,1,procedure
+635306,yag laser iridotomy one eye,1,supplies
+635307,yag pi both eyes,1,procedure
+635308,yag capsulotomy 1 eye,1,procedure
+635309,yag capsulotomy 2 eyes,1,procedure
+635312,yag laser capsulotomy both eye,1,procedure
+635314,yag laser iridotomy both eye,1,procedure
+635315,yage laser capsolotomy one eye,1,supplies
+635316,yage laser iridotomy both eyes,1,procedure
+635317,yahia al beshry,1,other
+635318,yahia hamed,1,other
+635319,yankauer suction set 180 cm tube,1,supplies
+635320,yankauer suction tube 28cm,1,supplies
+635321,yankauer suction w/handle crown tip w/vent,1,dental
+635322,yara essam alassal,1,other
+635324,yaser salaeh al shaya,1,other
+635325,yasir alturkistany,1,other
+635329,yasmin 21tab.(cash,1,other
+635336,yasnt lora,1,other
+635337,yasser hussain al nufaily,1,other
+635338,yasser tolba kassem,1,other
+635344,yeast /candida c/s,1,lab_test
+635345,"yersinia enterocolitica antibodies iga, igg, igm my fyers 225",1,lab_test
+635346,yerssinia dna,1,lab_test
+635370,youssef elmahdi youssef naeim,1,other
+635372,yuwell air compressing nebulizer 403a,1,eyewear
+635373,yuwell air compressing nebulizer 405a,1,eyewear
+635374,yuwell air mattress strip,1,eyewear
+635375,yuwell air portable nebulizer m 102,1,eyewear
+635376,yuwell bipap,1,other
+635377,yuwell breathcare i auto cpap,1,supplies
+635378,yuwell breathcare ii bipap (4-25 cm h2o,1,other
+635379,yuwell cpap,1,supplies
+635380,yuwell finger pulse oximeter yx-301,1,supplies
+635381,yuwell forehead thermometer yt-1,1,supplies
+635382,yuwell forehead thermometer yt-1a,1,supplies
+635383,yuwell full face mask without forehead support (l,1,supplies
+635384,yuwell full face mask without forehead support (m,1,supplies
+635385,yuwell full face mask without forehead support (s,1,supplies
+635386,yuwell fullface mask with forehead support (l,1,supplies
+635387,yuwell fullface mask with forehead support (m,1,supplies
+635388,yuwell mesh pocket nebulizer,1,supplies
+635393,yuwell oxygen concentrator 10 liters gen 7,1,supplies
+635394,yuwell oxygen concentrator 5 liter,1,supplies
+635395,yuwell oxygen concentrator 5 liters gen 7 mini,1,supplies
+635396,yuwell oxygen concentrator 5 liters gen 8,2,supplies
+635398,yuwell oxygen concentrator 7f-5,1,supplies
+635399,yuwell oxygen concentrator 8 liters gen 7,1,supplies
+635400,yuwell pillow pap mask (l,1,lab_test
+635401,yuwell pillow pap mask yp-01,1,lab_test
+635402,yuwell portable suction 7e-a,1,supplies

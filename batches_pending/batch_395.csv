@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+596789,ultrasound breast - unilateral,1,imaging
+596790,ultrasound breast bilateral,1,imaging
+596792,ultrasound breasts,1,imaging
+596793,ultrasound check up,1,imaging
+596794,ultrasound ciliary plasty,2,imaging
+596796,ultrasound diagnostic,1,imaging
+596797,ultrasound dopplar for scrotal,1,imaging
+596798,ultrasound doppler both lower limbs - arterial,1,imaging
+596799,ultrasound doppler both lower limbs - arterial and venous,1,imaging
+596800,ultrasound doppler both lower limbs - venous,1,imaging
+596802,ultrasound doppler right lower limb - venous,1,imaging
+596803,ultrasound examination in clinic,1,imaging
+596804,ultrasound follow-up during a week,1,imaging
+596807,ultrasound guided aspiration of ovarian cyst,1,imaging
+596808,ultrasound guided breast biopsy/fna,1,imaging
+596809,ultrasound guided central line insertion,1,imaging
+596811,ultrasound guided fnab,1,imaging
+596814,"ultrasound guided liver, spleen retroperitoneal (adrenal, pancreas, lymphnode) biopsy/fna",1,imaging
+596815,ultrasound guided nerve block,1,imaging
+596817,ultrasound guided pigtail drainage tube insertion,1,imaging
+596818,ultrasound guided trans- rectal biopsy,1,imaging
+596819,ultrasound guided trucut biopsy with histopathology,1,imaging
+596820,ultrasound guided true cut (core) biopsy,1,imaging
+596821,ultrasound guided vacuum-assisted percutaneous biopsy / excision of breast lesion,1,imaging
+596822,ultrasound guided pig-tail catheter drainage of abdominal collection,1,imaging
+596823,ultrasound guided thyroid or neck lesion biopsy/fna,1,imaging
+596824,ultrasound hand wrist,1,imaging
+596825,ultrasound hand/ wrist,1,imaging
+596827,ultrasound hip (unilateral,1,imaging
+596830,ultrasound kub with pelvis,1,imaging
+596832,ultrasound kidneys & urinary blader ???? ????????? ??? ?????,1,imaging
+596833,ultrasound kidneys & urinary blader ???? ????????? ??? ???????? ???????? ???????,1,imaging
+596834,ultrasound knee (unilateral,1,imaging
+596835,ultrasound knee joint,1,imaging
+596836,ultrasound muscle skeletal one side,1,imaging
+596837,ultrasound muscles / tendons,1,imaging
+596838,ultrasound muscles tendons,1,imaging
+596839,ultrasound musculoskeletal,1,imaging
+596842,ultrasound neck (lymph nodes,1,imaging
+596846,ultrasound of a mass,2,imaging
+596850,ultrasound of mass,1,imaging
+596857,ultrasound on pregnant uterus,1,imaging
+596864,ultrasound pelvic-abdomen?????????? ?????,1,imaging
+596866,ultrasound pelvis ???? ????????? ??? ?????,1,imaging
+596867,ultrasound pelvis without film,1,imaging
+596870,ultrasound pregnancy 146,1,imaging
+596871,ultrasound pregnancy 736,1,imaging
+596872,ultrasound pregnancy or pelvis,1,imaging
+596873,ultrasound price :82.50,1,imaging
+596875,"ultrasound probe cover, sterile",1,imaging
+596876,ultrasound prostatic biopsy,1,imaging
+596881,ultrasound scrotum ???? ????????? ??? ??????,1,imaging
+596882,ultrasound shoulder (unilateral,1,imaging
+596884,ultrasound soft tissues,1,imaging
+596885,ultrasound superfecial,1,imaging
+596886,ultrasound superficial tissues ???? ????????? ??? ???? ????,1,imaging
+596891,ultrasound thyroid gland ???? ?????????? ??? ????? ???????,1,imaging
+596893,ultrasound treatment,1,imaging
+596895,ultrasound u s 4d dimensio n,1,imaging
+596896,ultrasound u s 4d dimension,1,imaging
+596898,ultrasound u-s doppler for knee,2,imaging
+596899,ultrasound u-s doppler for mandibl e,1,imaging
+596900,ultrasound u-s doppler for pelvis,3,imaging
+596902,ultrasound u-s 3d obstetric,3,imaging
+596904,ultrasound u-s 4d dimension,1,imaging
+596905,ultrasound u-s ??doppler ??for ??pelvis,2,imaging
+596907,ultrasound u-s ??doppler ??for both ??knees,1,imaging
+596908,ultrasound u-s ??doppler ??for neck,2,imaging
+596910,ultrasound u-s abdomen - upper,1,imaging
+596911,ultrasound u-s abdomen comple,1,imaging
+596912,ultrasound u-s abdomen complet,1,imaging
+596914,ultrasound u-s abdomen complete (upper & lower,1,imaging
+596916,ultrasound u-s abdomen-upper,3,imaging
+596918,ultrasound u-s biophysical profile,1,imaging
+596921,ultrasound u-s breast -unilateral,1,imaging
+596922,ultrasound u-s doppler for both knees,1,imaging
+596923,ultrasound u-s doppler for both mandible,1,imaging
+596928,ultrasound u-s doppler for shoulder or scapula,1,imaging
+596929,ultrasound u-s doppler major vsls complete,1,imaging
+596930,ultrasound u-s doppler major vsls limited,1,imaging
+596931,ultrasound u-s foliculometry - abd. - transvaginal,3,imaging
+596934,ultrasound u-s genitalia ?scrotum and contents - testes,1,imaging
+596937,ultrasound u-s guided biopsy,1,imaging
+596938,ultrasound u-s head and neck soft tissue-thyroid-parth-parot,1,imaging
+596941,ultrasound u-s neonatal head,1,imaging
+596942,ultrasound u-s obstetric (pregnancy,1,imaging
+596945,ultrasound u-s pyloric,1,imaging
+596946,ultrasound u-s retroperitoneal,1,imaging
+596947,ultrasound u-s transrectal -prostate,1,imaging
+596952,ultrasound u-s salivary glands,1,imaging
+596955,ultrasound u/s doppler for pelvis,1,imaging
+596956,ultrasound u/s - abdomen complete (upper and lower,1,imaging
+596957,"ultrasound u/s - abdomen-upper (liver,gall bladder,pancreas,spleen",1,imaging
+596958,ultrasound u/s - abdomen-upper (livergall bladderpancreasspleen,1,imaging
+596959,ultrasound u/s - breast (bilateral,1,imaging
+596960,ultrasound u/s - genitalia (scrotum&contents) ( testes,1,imaging
+596961,ultrasound u/s - pelvic,1,imaging
+596962,ultrasound u/s - preg uterus / obestetrics/ fetal,1,imaging
+596963,ultrasound u/s - urinary tract/ kub,1,imaging
+596964,ultrasound u/s 3d obestatric,1,imaging
+596965,ultrasound u/s 4d dimension,3,imaging
+596968,ultrasound u/s ??doppler ??for ??pelvis,1,imaging
+596969,ultrasound u/s abdomen complete (upper and lower,2,imaging
+596970,"ultrasound u/s abdomen-upper (liver,gall bladder,pancreas,spleen",1,imaging
+596971,ultrasound u/s biophysical profile,1,imaging
+596972,ultrasound u/s breast (bilateral,2,imaging
+596973,ultrasound u/s genitalia (scrotum&contents) ( testes,1,imaging
+596974,ultrasound u/s head&neck soft tissue(thyroid-parth-parotid,2,imaging
+596975,ultrasound u/s pelvic,2,imaging
+596976,ultrasound u/s preg uterus / obestetrics/ fetal,1,imaging
+596977,ultrasound u/s urinary tract/ kub,1,imaging
+596978,ultrasound u/s vaginal,1,imaging
+596979,ultrasound u/s- head&neck soft tissue(thyroid-parth-parotid,1,imaging
+596980,ultrasound us abdomen complete,1,imaging
+596982,ultrasound vaginal ????? ????? ?? ???? ??????,1,imaging
+596989,ultrasound abdomen and pelvic ??? ???????? ??? ??????? ????? ??????,1,imaging
+596990,ultrasound abdominal real time with image documentation; complete,1,imaging
+596993,ultrasound antenatal care,2,imaging
+596995,ultrasound any part of the body/organ,1,imaging
+596996,ultrasound at clinic (non pregnant,1,imaging
+596997,ultrasound both breasts,1,imaging
+596999,ultrasound breaset one side,1,imaging
+597002,ultrasound breast one side,1,imaging
+597005,ultrasound consultant/ /11,1,imaging
+597006,ultrasound examination of the neck,1,imaging
+597007,ultrasound examination of the pelvis,1,imaging
+597008,ultrasound for abdomen /kub,1,imaging
+597009,ultrasound for abdomen /kub /22,1,imaging
+597010,ultrasound for folleculometry,1,imaging
+597011,ultrasound for obgyne,1,imaging
+597012,ultrasound for pelvis,1,imaging
+597014,ultrasound for upper abdomen,1,imaging
+597016,ultrasound for fetal grow,1,imaging
+597024,ultrasound for other pregnancy related conditions,1,imaging
+597028,ultrasound guided fine needle aspiration,1,imaging
+597029,"ultrasound hand or wrist, unilaterasl",1,imaging
+597030,ultrasound nuchal translucency,1,imaging
+597032,"ultrasound of prostate, bladder, urethra",1,imaging
+597036,ultrasound of neck mass,1,imaging
+597037,ultrasound of orbital contents (orbiscan b.)ultrasound of eye,1,imaging
+597044,ultrasound of abdomen or pelvis,1,imaging
+597045,ultrasound of abdomen or pelvis for other pregnanc,2,imaging
+597046,ultrasound of abdomen or pelvis for other pregnancy,2,imaging
+597048,ultrasound of abdomen or pelvis for other pregnancy related ( u s for pregnancy,1,imaging
+597049,ultrasound of abdomen or pelvis for other pregnancy related co,1,imaging
+597051,ultrasound of abdomen or pelvis for other pregnancy related conditions(05094,1,imaging
+597054,ultrasound of abdomenal,1,imaging
+597055,ultrasound of abdominal wall,1,imaging
+597056,ultrasound of ankle or foot unilateral,1,imaging
+597059,ultrasound of any organ,1,imaging
+597064,"ultrasound of breast, bilatera",1,imaging
+597069,"ultrasound of buttock, bilateral",1,imaging
+597073,ultrasound of follow up within one week,1,imaging
+597074,"ultrasound of forearm or elbow, bilateral",1,imaging
+597078,ultrasound of hand or wrist unilateral,1,imaging
+597079,"ultrasound of hand or wrist, bilateral",1,imaging
+597083,ultrasound of hip bilateral,1,imaging
+597084,ultrasound of hip unilateral,1,imaging
+597086,"ultrasound of hip, unilateral",1,imaging
+597093,ultrasound of neck or soft tissue,1,imaging
+597098,ultrasound of orbital contents ( orbiscan b. ) :ultrasound of eye (bidimensional) (unidimensional,1,imaging
+597100,ultrasound of other site unspecified,1,imaging
+597110,ultrasound of salivary glands,1,imaging
+597115,ultrasound of shoulder or upper arm unilateral,1,imaging
+597118,ultrasound of skin and subcutaneous tissue,1,imaging
+597119,ultrasound of soft tissue swelling,1,imaging
+597121,ultrasound of the salivary glands,1,imaging
+597122,ultrasound of the abdomen and pelvis,1,imaging
+597123,ultrasound of the neck,1,imaging
+597124,ultrasound of the neck (lymph gland,1,imaging
+597127,ultrasound of the thyroid gland,1,imaging
+597128,ultrasound of thigh unilateral,1,imaging
+597129,"ultrasound of thigh, bilateral",1,imaging
+597135,ultrasound of urinary tract (kub,1,imaging
+597139,ultrasound of uterus trans.vag,2,imaging
+597141,ultrasound of uterus trans.vag. w/film,1,imaging
+597142,ultrasound of vaginal,1,imaging
+597143,ultrasound on superficial parts,1,imaging
+597144,ultrasound on any other side,1,imaging
+597145,ultrasound on joint,1,imaging
+597146,ultrasound on small parts,1,imaging
+597147,ultrasound on the abdomen and pelvis,1,imaging
+597149,ultrasound or ct guided liver biopsy,1,imaging
+597151,ultrasound pelvic (nonobstetric) real time with image documentation; complete,1,imaging
+597152,ultrasound pelvic scrotal,1,imaging
+597155,ultrasound scrotum with doppler,1,imaging
+597156,ultrasound service in a clinic,1,imaging
+597158,ultrasound sonar up abdomen k.u.b,1,imaging
+597159,ultrasound sonar)up abdomen/k.u.b,1,imaging
+597160,"ultrasound thrombolysis system catheter, pulmonary",1,imaging
+597163,ultrasound%20for%20fetal%20growth%20measurement,1,imaging
+597164,ultrasound%20of%20breast%20%20unilateral,1,imaging
+597165,ultrasound%20of%20hip%2c%20unilateral,1,imaging
+597166,ultrasound%20of%20neck,1,imaging
+597167,ultrasound%20of%20scrotum,1,imaging
+597168,ultrasound%20of%20shoulder%20or%20upper%20arm%2c%20unilateral,1,imaging
+597169,ultrasound%20of%20urinary%20bladder,1,imaging
+597170,ultrasound%20of%20urinary%20tract,1,imaging
+597171,ultrasound(thyroid-parotids,1,imaging
+597173,"ultrasound, abdo & pelvic",1,imaging
+597174,"ultrasound, abdominal",1,imaging
+597176,"ultrasound, abdominal, b-scan and/or real time with image documentation;limited (eg, single organ, q",1,imaging
+597177,"ultrasound, abdominal, b-scan and/or real time with image documentation;limited (eg, single organ, quadrant, follow-up",1,imaging
+597178,"ultrasound, abdominal, real time with image documentation; complete",2,imaging
+597181,"ultrasound, breast",1,imaging
+597182,"ultrasound, breast(s) (unilateral or bilateral), b-scan and/or real time with image documentation",1,imaging
+597183,"ultrasound, doppler asse. pregnancy",1,imaging
+597184,"ultrasound, fetal biophysical + obstetric",1,imaging
+597185,"ultrasound, folicular monitoring",1,imaging
+597186,"ultrasound, hip joints",1,imaging
+597187,"ultrasound, obstetric sonography",1,imaging
+597188,"ultrasound, pelvic",1,imaging
+597189,"ultrasound, pelvic (non obstetric",1,imaging
+597190,"ultrasound, pelvic (nonobstetric",2,imaging
+597192,"ultrasound, pelvic (nonobstetric), b-scan and/or real time with image documentation; complete",1,imaging
+597193,"ultrasound, pelvic (nonobstetric), b-scan and/or real time with image documentation;limited or follow-up (eg, for follicles",1,imaging
+597194,"ultrasound, pelvic (nonobstetric), real time with image docu",1,imaging
+597195,"ultrasound, pelvic (nonobstetric), real time with image documentation; complete",2,imaging
+597196,"ultrasound, portable",1,imaging
+597197,"ultrasound, pregnancy",1,imaging
+597198,"ultrasound, pregnant uterus, real time with image documentat",1,imaging
+597199,"ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation plus",1,imaging
+597200,"ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation, after first trimester (> or = 14 weeks 0 days), transabdominal approach single or first gestation",1,imaging
+597201,"ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation, after first trimester (> or = 14 weeks 0 days), transabdominal approach, single or first gestation",1,imaging
+597202,"ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation, after first trimester (> or = 14 weeks 0 days), transabdominal approach; single or first gestation",1,imaging
+597203,"ultrasound, pregnant uterus, real time with image documentation, fetal and maternal evaluation, first trimester (<14 weeks 0 days), transabdominal approach; single or first gestation",1,imaging
+597204,"ultrasound, pregnant uterus, real time with image documentation, limited (eg, fetal heart beat, plac",1,imaging
+597205,"ultrasound, pregnant uterus, real time with image documentation, transvaginal",1,imaging
+597206,"ultrasound, prostate transrectal",1,imaging
+597207,"ultrasound, scrotum",1,imaging
+597208,"ultrasound, soft tissues of head and neck (eg, thyroid, parathyroid, parotid), b-scan and/or real time with image documentation",1,imaging
+597209,"ultrasound, thyroid",1,imaging
+597210,"ultrasound, transvaginal",1,imaging
+597211,"ultrasound,single or first gestation",1,imaging
+597212,ultrasound- any area,1,imaging
+597213,ultrasound- neck,1,imaging
+597214,ultrasound-abdomen,1,imaging
+597215,ultrasound-abdomen general,1,imaging
+597219,ultrasound-testis,1,imaging
+597220,ultrasound-urinary tract,1,imaging
+597221,ultrasound-of-urinary-bladder,1,imaging
+597223,ultrasound-pregnancy,1,imaging
+597224,ultrasound: endovaginal,1,imaging
+597225,ultrasound: endovaginal 600278,1,imaging
+597226,ultrasound: endovaginally,1,imaging
+597227,ultrasound: pelvis abd 55065-00-00,1,imaging
+597228,ultrasound: pelvis-abd,1,imaging
+597229,ultrasound: pelvis-abd 55065-00-00,1,imaging
+597230,ultrasound: pelvis/abd,1,imaging
+597231,ultrasound: pelvis/abd 55065-00-00,1,imaging
+597232,ultrasoundu-s 3d obstetric,1,consultation
+597233,ultrasound[15.48,1,imaging
+597234,ultrasounds (any organ / position,2,other
+597236,ultrasounds (any organ/position)(medgulf,1,other
+597237,ultrasounds / any organ,1,other
+597238,ultrasounds/any organ except prostate,1,other
+597239,ultrasounf pregnant,2,other
+597240,"ultraviolet b therapy of hand and foot, unilateral",1,physiotherapy
+597241,ultraviolet radiation session - uvr,1,physiotherapy
+597242,ultrsound any part of the body/organ,1,imaging
+597243,ultrsound of neck,1,imaging
+597244,umama rasheed,1,other
+597245,umbilical arterial/ venous line (uac) insertion,1,procedure
+597246,umbilical catheter #3.5,1,supplies
+597247,umbilical catheter - #4.0,1,supplies
+597248,umbilical catheter - #4.5,1,supplies
+597249,umbilical catheter fr. 4,1,eyewear
+597250,umbilical catheter fr. 5,1,eyewear
+597251,umbilical catheter fr. 6,1,eyewear
+597252,umbilical catheter venous pedia,1,supplies
+597254,umbilical chemical cautery,2,procedure
+597258,umbilical hernia (adult,1,procedure
+597259,umbilical hernia (adult) large - with mesh,1,supplies
+597260,umbilical hernia (adult) large - with mesh - 902021,1,supplies
+597261,umbilical hernia (open) without mish / dr. bukhari,1,procedure
+597262,umbilical hernia repair ( laparoscopic,1,procedure
+597263,umbilical hernia repair open surgery,1,procedure
+597264,umbilical hernia repair w / mesh,1,supplies
+597265,umbilical hernia repair w / o mesh,1,supplies
+597266,umbilical hernia repair with mesh,2,supplies
+597267,umbilical hernia and inguinal hernia with resection,1,procedure
+597269,umbilical hernia with diverticulum of recti,1,procedure
+597270,umbilical hernia with mesh repair,1,supplies
+597272,umbilical swab culture & sesitivity,1,lab_test
+597273,umbilical artery cath/cannuln in neonate,1,supplies
+597275,umbilical cord care,1,other
+597276,"umbilical cord clamp, reusable",1,other
+597277,"umbilical cord clamp, single-use",1,other
+597278,umbilical cord tape,1,supplies
+597279,umbilical swab c&s,1,lab_test
+597280,umbilical vein catheterisation/cannulation in neonate,1,procedure
+597281,umbilical-cord blood gas analysis,1,lab_test
+597283,umblical cannula insertion with bandage,1,supplies
+597284,umblical hernia with mesh,1,supplies
+597285,umilical cord dressing,1,supplies
+597286,un-direct kopm test,1,lab_test
+597287,una cic / mc / itc / hs / fs / fs p,1,eyewear
+597288,una sp / sp az,1,other
+597321,"uncoated femoral stem prosthesis, modular",1,supplies
+597322,"uncoated femoral stem prosthesis, one-piece",1,supplies
+597323,"uncoated knee femur prosthesis, metallic",1,supplies
+597324,"uncoated knee tibia prosthesis, metallic",1,supplies
+597325,"uncoated knee tibia prosthesis, polyethylene",1,supplies
+597326,uncoated knee tibia/insert prosthesis,1,supplies
+597327,unconjugated (indirect) bilirubin,1,lab_test
+597328,unconjugated bilirubin,1,lab_test
+597329,under pads 60x90 regular box/150,1,supplies
+597330,under pads care plus sanita carton/150pieces,1,supplies
+597331,under skin stitches ( low than 5 cm,1,procedure
+597332,under skin stitches ( more than 5 cm,1,procedure
+597333,under elbow splint for adults - fiberglass,1,supplies
+597334,underarm one session without retouch,1,physiotherapy
+597335,underdetermined stay in ward,1,other
+597337,underpad 90x60cm box 150,1,supplies
+597338,underpad homecare,1,supplies
+597339,underpads 90*60 20pcs/pack,1,supplies
+597340,underpads blue 60x90,1,supplies
+597341,undescended testes p/d,1,other
+597343,undescended testis unilateral laparoscopic (pedia,1,procedure
+597344,undescended testis with & outside inguninal canal (bilateral,1,dental
+597345,undescended testicle,1,other
+597347,undescended testis within the inguinal canal unilateral,1,dental
+597349,undetermined stay in ward estimated allowance for ward admission,1,consultation
+597350,undilated fundus examination,1,imaging
+597352,ungaro fm mod 4514 (pst) col 7,1,eyewear
+597354,uni fresh ocular lubricant carboxymethylcellulose,1,other
+597355,uni middle ear prosthesis,1,supplies
+597356,uni naida ci q90 sound processor,1,other
+597357,uni-cp 2 holes-25mm,1,other
+597358,uni. arthroscopy & shaving (any joint) c80.2-a,1,procedure
+597359,uni. trans. insertion of uretral(c59.8,1,procedure
+597364,unidove vaginal wash,1,procedure
+597367,unicondylar knee prosthesis,1,supplies
+597374,uniflex,1,other
+597375,uniglactin 40 mm 1/2 crb 2 75 cm dw11516 unimed,1,other
+597376,unilat ear wash,2,procedure
+597380,unilat. inguinal hernia repair - child,1,procedure
+597381,unilat.ear wash,1,procedure
+597383,unilateral breast reconstruction with pedicle flap with\without implant,1,supplies
+597384,unilateral dcr + stent - under ga,1,supplies
+597385,unilateral daceycoystectom + stent - under ga,1,supplies
+597386,unilateral ear paking,1,other
+597387,unilateral ear suction & cleaning,1,supplies
+597390,unilateral endovascular ablation of varicose veins,1,procedure
+597391,unilateral eye cover,1,other
+597392,unilateral functional neck dissection (o-51-c40.41-a,1,other
+597393,unilateral hernia repair,1,procedure
+597394,unilateral hip core decompression,1,dental
+597395,unilateral hydrocele operation-(pkg.dl,1,procedure
+597396,unilateral hydrocelectomy one side,1,supplies
+597397,unilateral knee joint 17lk3=l12,1,imaging
+597398,unilateral knee joint 17lk3=l16,1,imaging
+597399,unilateral knee joint 17lk3=r12,1,imaging
+597400,unilateral knee joint 17lk3=r16,1,imaging
+597401,unilateral laser vitreolyasis,1,procedure
+597402,unilateral nasolacrimal duct silicon intubation,1,supplies
+597405,unilateral orchiopexy with herniotomy,1,procedure
+597408,unilateral probing & syringing under general anesthesia,1,procedure
+597409,unilateral probing and syringing under ga,1,procedure
+597412,unilateral retinal photocagation ( tow setting,1,other
+597413,unilateral scleral fixated iol,1,supplies
+597415,unilateral superficial keratectomy,1,procedure
+597416,unilateral syringing of nasolacrymal duct,1,other
+597419,unilateral tympanometry,1,diagnostic
+597422,unilateral ultrasound ciliaryplasty,1,imaging
+597423,unilateral anural washout procedure,1,procedure
+597424,unilateral excisson of multiple chalazia [la,1,other
+597426,unilateral intra ocular lens calculation (iolmaster,1,eyewear
+597427,unilateral knee replacement,1,other
+597429,unilateral lower exterimety,1,other
+597430,unilateral lower limb colour doppler venous sonogaraphy,1,imaging
+597431,unilateral mammogram & u/s-unilateral mammogram & u/s,1,imaging
+597432,unilateral mammogram-unilateral mammogram,1,imaging
+597433,unilateral one chalazion excision [la,1,supplies
+597434,unilateral ptrigium one eye g-a,1,supplies
+597435,unilateral ptrigium one eye l.a,1,supplies
+597437,unilateral repair of inguinal hernia with mesh,1,supplies
+597438,unilateral retinal photocoagulation three settings,1,other
+597439,unilateral retinal photocoagulation two settings,1,other
+597440,unilateral upper exterimety,1,other
+597441,unimpacted surgical tooth ext,1,dental
+597457,unisted code,1,other
+597458,"unit-dose preparation, consumables and dispensing fee",1,consultation
+597459,universal total knee tibial base plate,1,supplies
+597460,universal transport medium utm kit,1,other
+597461,universal ankle brace - (ms,1,supplies
+597462,universal night splint - (ms,1,supplies
+597465,unlist chemistry proc,1,other
+597466,unlist fungus ab,1,lab_test
+597467,unlist procedure code,1,other
+597468,unlist quantitative drug test,1,lab_test
+597469,unlist urinalysis,1,lab_test
+597470,unlist adjunctive dental service,1,dental
+597471,unlist ambul service,1,other
+597472,unlist ambulatory,1,other
+597473,unlist antigen skin test,1,lab_test
+597474,unlist clinical pathology proc,1,other
+597475,unlist cytogenetic study,1,consultation
+597476,unlist hematology proc,1,other
+597477,unlist imaging proc,1,other
+597478,unlist img code,1,other
+597479,unlist microbiology proc,1,other
+597480,unlist molecular dx proc,1,other
+597481,unlist oral medicine/oral pathology proc,1,other
+597482,unlist oral surgery proc,1,procedure
+597483,unlist orthodontic proc,1,dental
+597484,unlist restorative/endodontic proc,1,dental
+597485,unlist services yet to be defined,2,other
+597486,unlist surg pathology proc,1,other
+597487,unlist%20chemistry%20proc%20%20,1,other
+597488,unlistcrancid shaceted medication,1,other
+597489,unlistadjunctivedentalservice,1,other
+597490,unliste d code-herbal and vitamins,1,other
+597492,unlisted ambulatory / out-patient procedure code,1,other
+597493,unlisted chemistry procedure,1,other
+597496,unlisted dental procedure code,1,dental
+597497,unlisted device,2,other
+597499,unlisted imaging code,1,other
+597502,unlisted madication,1,other
+597503,unlisted medical devices / consumables code,1,other
+597504,unlisted medical device,2,other
+597505,unlisted medication,3,other
+597506,unlisted medication code,2,other
+597507,unlisted medication codes,1,other
+597508,unlisted medications,1,other
+597509,unlisted out-patient dental code,1,dental
+597510,unlisted procedure cod,1,other
+597511,unlisted procedure code,1,other
+597512,unlisted radiology procedure,1,other
+597513,unlisted ambulatory service,1,other
+597514,unlisted antigen delayed type hypersensitivity (dth) test,1,lab_test
+597516,unlisted code- nutritional supplements,1,other
+597519,unlisted code-cosmetic,1,other
+597522,unlisted diagnostic/ interventional mri,1,imaging
+597528,unlisted medicine yet to be defined,1,other
+597529,unlisted microbiology,1,other
+597530,unlisted microbiology procedure,1,other
+597531,unlisted mole/path,1,other
+597532,unlisted molelcular pathology procedure,1,other
+597533,unlisted reprod med lab proc,1,other
+597534,unlisted services yet to be defined,2,other
+597535,unlisted services yet to be defined ksa service code,1,other
+597536,unlisted services yet to be defined ksa service codes,1,other
+597537,unlisted services yet to be defined ksa service codes (cchi-bs,1,other
+597539,unlisted surgical pathology procedure,1,procedure
+597540,unlisted urinalysis,2,lab_test
+597541,unlistedcode,1,other
+597542,unlistedcode- nutritional supplements,1,other
+597543,unlistedcode-cosmetic,1,other
+597544,unlistied code,1,other
+597545,unnlisted code,1,other
+597551,unsp admin of pharmac agent electrolyte,1,consultation
+597552,unsp admin of pharmac agent oth & unsp,1,consultation
+597553,unsp admin of pharmac agent oth unsp,1,consultation
+597554,unsp%20admin%20of%20pharma%20agent%20oth%20%26%20unsp,1,other
+597555,unspec antidepressants; quant./qual,1,lab_test
+597557,"unspecified administration of pharmacological agent, other and unspecified pharmacological agent",1,consultation
+597558,"unstable angina, minor complexity",1,inpatient
+597559,unstable nail dislocation,1,supplies
+597560,unsterile gloves per pair,1,supplies
+597561,uorology spec consaltation,1,other
+597562,up to 4 surgical stitch,1,procedure
+597564,upgrade: private room to suite / per day,1,consultation
+597566,upp low limpe u.s,1,imaging
+597567,upper & lower complete denture,1,dental
+597568,upper & lower partial denture,1,dental
+597569,upper & lower abd. u.s,1,imaging
+597570,upper 20abdomen 20u. 20s,1,other
+597571,upper abd. & pelvic u/s,1,imaging
+597574,upper abdomen ( liver gall bladder,1,other
+597575,upper abdomen ( w - contrast) c.t,1,imaging
+597576,upper abdomen 733,1,other
+597578,upper abdomen( w- out contrast) c.t,1,imaging
+597580,upper arm 2 view,1,imaging
+597581,upper arm 2 view (humerus,1,imaging
+597582,upper blepharoplasty (l a ) - clinic,1,consultation
+597584,upper endoscopy under g.a,1,procedure
+597585,upper g i t diagnostic endoscopy taw ayh,1,procedure
+597586,upper g i t diagnostic endoscopy with biopsy al yousif next care,1,procedure
+597587,upper g i t diagnostic endoscopy with biopsy malath ayh,1,procedure
+597588,upper g i t diagnostic endoscopy glo ayh,1,procedure
+597589,upper g.i. endoscopy under conscious sedation-package,1,procedure
+597590,upper g.i. endoscopy under l.a. h43234,1,procedure
+597591,upper gi diagnostic endoscopy bupa,1,procedure
+597592,upper gi diagnostic endoscopy bupa ayh,1,procedure
+597594,upper gi endoscopy (egd,1,procedure
+597595,upper gi endoscopy diagnostic,1,procedure
+597596,upper gi endoscopy w/biopsy single/multiple,1,procedure
+597604,upper gastrointestinal (ugi) endoscopy (diagnostic,1,procedure
+597605,upper gastrointestinal (ugi) endoscopy with band ligation,1,procedure
+597606,upper gastrointestinal (ugi) endoscopy with biopsy for histopathology,1,lab_test
+597607,upper gastrointestinal tract endoscopy (with biopsy) one biopsy only,1,supplies
+597612,upper git endoscopy g. a,1,procedure
+597613,upper lim. venous dopp. u\s -1/side,1,other
+597614,upper limb manipulation/ reduction with sedation,1,procedure
+597615,upper limb sling - (ms,1,procedure
+597616,upper limb and / or central vein venoplasty - cathlab,1,procedure
+597617,upper orthodontics,1,other
+597620,upper r.t.endoscopy for biopsy,1,procedure
+597621,upper respiratory tract endoscopy for biopsy,1,procedure

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+527244,serology screening,2,lab_test
+527245,serology screening ii,3,lab_test
+527246,serology test,1,lab_test
+527247,serology(hbsag-hcv-hiv,1,lab_test
+527248,serology: a.n.a,1,lab_test
+527249,serology: aso,1,lab_test
+527250,serology: brucella test,1,lab_test
+527251,serology: c.r.p,1,lab_test
+527252,serology: h.pylori ab's,1,lab_test
+527253,serology: hav-ab (igm,1,lab_test
+527254,serology: hbs-ag,1,lab_test
+527255,serology: hcv-ab,1,lab_test
+527256,serology: hiv,1,lab_test
+527257,serology: iga,1,lab_test
+527258,serology: ige,1,lab_test
+527259,serology: rheumatoid f,1,lab_test
+527260,serology: rubella igg,1,lab_test
+527261,serology: rubella igm,1,lab_test
+527262,serology: toxoplasma ab's agm,1,lab_test
+527263,serology: vdrl-rpr,1,lab_test
+527376,serotonin,1,other
+527377,serotonin (5 hydroxy tryptamine,1,other
+527378,serotonin (blood,1,lab_test
+527379,serotonin (blood) ( so,1,lab_test
+527380,"serotonin (urine, 24 hours) - s.o",1,lab_test
+527381,"serotonin, whole blood",1,lab_test
+527382,serotonine - s.o,1,lab_test
+527383,serotonine level,1,lab_test
+527417,seroxat 25 cr mg 30tab,1,other
+527515,serpia guiding catheter,1,supplies
+527517,sertaconazole nitrate,1,other
+527551,seru amylase,1,lab_test
+527552,serum bilirubin total,5,lab_test
+527554,serum ferritin,13,lab_test
+527557,serum acide phosphatase,1,lab_test
+527558,serum adrinaline level,1,lab_test
+527559,serum al bumin,1,lab_test
+527561,serum albumin - 221,1,lab_test
+527563,serum albumin-1424,1,lab_test
+527564,serum albumin/ creatinine ratio,1,lab_test
+527565,serum alcohol (ethanol,1,lab_test
+527566,serum alkaline phosph,3,lab_test
+527567,serum alkaline phosph-1427,1,lab_test
+527568,serum alkaline phosphatase,2,lab_test
+527569,serum alkaline phosphatase-b,1,lab_test
+527570,serum alkaline phosphate,1,lab_test
+527571,serum alkhaline phosphate,1,lab_test
+527572,serum allergy test (food,1,lab_test
+527573,serum allergy test (inhalent,1,lab_test
+527574,serum aluminum level,1,lab_test
+527575,serum amalyse,1,lab_test
+527576,serum amaylase ????? ?????????,1,lab_test
+527577,serum ammonia,1,lab_test
+527578,serum ammonia - 036-20771,1,lab_test
+527580,serum amylase (alpha,1,lab_test
+527581,serum amylase - 213,1,lab_test
+527583,serum amylasl,1,lab_test
+527584,serum amyloid,1,lab_test
+527585,serum amyloid a (mediterranean fever,1,lab_test
+527586,serum amyloid a (mediterranean,1,lab_test
+527587,serum amyloid a (saa) -(send-out tests,1,lab_test
+527588,serum amyloid protien a (bs) so,1,lab_test
+527589,serum anylase,1,lab_test
+527590,serum b 12,1,lab_test
+527596,"serum beta h.c.g., quali",1,lab_test
+527597,"serum beta h.c.g., quanti",1,lab_test
+527601,serum bilirubin,3,lab_test
+527602,serum bilirubin ( direct,1,lab_test
+527603,serum bilirubin ( total,1,lab_test
+527604,serum bilirubin - direct,3,lab_test
+527605,serum bilirubin - total,3,lab_test
+527606,serum bilirubin direct,4,lab_test
+527608,serum bilirubin total -1425,1,lab_test
+527609,serum bilirubin-total direct,1,lab_test
+527610,serum bun,1,lab_test
+527611,serum bun - blood urea,1,lab_test
+527614,serum bun blood urea nitrogen,1,lab_test
+527615,serum c k mb,1,lab_test
+527616,serum c p k,1,lab_test
+527617,serum c- peptide,1,lab_test
+527618,serum ca,4,lab_test
+527628,serum ca+,2,lab_test
+527629,serum ca-1428,1,lab_test
+527630,serum calcitonin,1,lab_test
+527641,serum carnitine,1,lab_test
+527642,serum caroten,1,lab_test
+527648,serum cholesterol,7,lab_test
+527649,serum cholesterol - 209,1,lab_test
+527650,serum cholesterol chol,1,lab_test
+527654,"serum cholesterol, (ldl",1,lab_test
+527655,"serum cholesterol, (total",1,lab_test
+527656,"serum cholesterol,(hdl",1,lab_test
+527657,serum cholesterol-1417,1,lab_test
+527658,serum cholestrol,3,lab_test
+527659,serum cholestrol-4001-lab,1,lab_test
+527660,serum cholride,1,lab_test
+527661,serum cold agglutination,1,lab_test
+527662,serum copper,3,lab_test
+527663,serum cortisol,3,lab_test
+527664,serum cortisol d,1,lab_test
+527665,"serum cortisol,total (fpia",1,lab_test
+527666,serum creatinin,1,lab_test
+527668,serum creatinine - 207,1,lab_test
+527669,serum creatinine - lab test,1,lab_test
+527670,serum creatinine -4006-lab,1,lab_test
+527671,serum creatinine cr,1,lab_test
+527672,serum creatinine phosphokinase (scpk,2,lab_test
+527673,serum creatinine u0002,1,lab_test
+527677,serum creatinine-1422,1,lab_test
+527678,serum creatinne,1,lab_test
+527679,serum crsereatinine,1,lab_test
+527680,serum crtisol,1,lab_test
+527682,serum depakaine,1,lab_test
+527683,serum direct,1,lab_test
+527684,serum direct bilirubin,1,lab_test
+527685,serum direct bilirubin (d.bil,1,lab_test
+527686,serum direct bilirubin - 216,1,lab_test
+527687,serum electrlyies,1,lab_test
+527691,serum electrolytes,2,lab_test
+527692,"serum electrolytes (na ,k,cl",1,lab_test
+527693,serum electrolytes ( cl,1,lab_test
+527694,serum electrolytes ( k,1,lab_test
+527695,serum electrolytes ( na,1,lab_test
+527696,"serum electrolytes (na,k,cl,hco3",1,lab_test
+527697,serum electrolytes (na/k/cl,1,lab_test
+527698,serum electrolytes [pot & sod,1,lab_test
+527699,serum fasting glucose,1,lab_test
+527700,serum fe,2,lab_test
+527701,serum fe-1429,1,lab_test
+527702,serum feritin,2,lab_test
+527703,serum ferretin,2,lab_test
+527705,serum ferritin # 032-20538,1,lab_test
+527706,serum ferritin - 032-20538,1,lab_test
+527707,serum ferritin - 308,1,lab_test
+527708,serum ferritin - ferritin,1,lab_test
+527709,serum ferritin ?????,1,lab_test
+527710,serum ferritin[17.17,1,lab_test
+527711,serum fertin,1,lab_test
+527712,serum fertine,1,lab_test
+527713,serum ferttein,4,lab_test
+527717,serum for b-hcg,1,lab_test
+527718,serum for h pylori (antibody,1,lab_test
+527719,serum for h pylori antibody,1,lab_test
+527720,serum for h.pylori,1,lab_test
+527721,serum for hpylori,1,lab_test
+527722,serum fsh,1,lab_test
+527723,serum gamma gt,1,lab_test
+527724,serum gastrin,1,lab_test
+527726,serum ggt,1,lab_test
+527727,serum globulin,1,lab_test
+527728,serum glutamic oxaloacetate transaminas (sgot,2,lab_test
+527729,serum glutamic pyruvate transaminas (sgpt,2,lab_test
+527730,serum h pylori (screening,1,lab_test
+527731,serum h pylori (screening) ict,1,lab_test
+527732,serum h.b.d.h,1,lab_test
+527733,serum h.pylori,1,lab_test
+527734,serum h.pylori abs (screeing,1,lab_test
+527735,serum hcg,1,lab_test
+527736,serum high density lipoprotein hdl,2,lab_test
+527737,serum homocystiene,1,lab_test
+527738,serum homocysteine ( homocystine,2,lab_test
+527739,serum iga,1,lab_test
+527740,serum ige,2,lab_test
+527741,serum immune complex,1,lab_test
+527742,serum immunoelectrophoresis (immunofixation,1,lab_test
+527743,serum immunofixation,1,lab_test
+527744,serum indirect bilirubin,1,lab_test
+527745,serum inorg - phosphorus,1,lab_test
+527746,serum inorg-phosphorus,1,lab_test
+527761,serum iga level,1,lab_test
+527762,serum igm estimation,1,lab_test
+527763,serum k,3,lab_test
+527764,serum ketone bodies,1,lab_test
+527765,serum lactat,1,lab_test
+527771,serum lamotrigine ( antiepileptic drug,1,lab_test
+527772,serum ldh,1,lab_test
+527773,serum ldl cholesterol,1,lab_test
+527774,serum levetriacetam ( antiepileptic drug,1,lab_test
+527775,serum lh,1,lab_test
+527776,serum lipase,4,lab_test
+527777,serum lipase ????? ?????????,1,lab_test
+527778,serum lithium,1,lab_test
+527779,serum lithium (li++,2,lab_test
+527781,serum low density lipoprotein ldl,2,lab_test
+527782,serum lron,4,lab_test
+527783,serum magnesiam,1,lab_test
+527790,serum magnessium,1,lab_test
+527791,serum magnesuim (mg++,1,lab_test
+527792,serum metanephrine and normetanephrine,1,lab_test
+527796,serum na,3,lab_test
+527797,serum noradrinaline level,1,lab_test
+527799,serum osmolaliry,1,lab_test
+527800,serum osmolality,3,lab_test
+527801,serum osmolality (measured-freezing point,1,lab_test
+527802,serum osmolality (serum,1,lab_test
+527803,serum osmolality {bm},1,lab_test
+527804,serum osmolarity measurement,1,lab_test
+527805,serum osmularity,2,lab_test
+527807,serum phenitoin,1,lab_test
+527808,serum phosphorous,1,lab_test
+527809,serum phosphorus,4,lab_test
+527810,serum phosphorus (p++,1,lab_test
+527811,serum phosphorus (po++,1,lab_test
+527812,serum phosphrous phs,2,lab_test
+527814,serum phosphrous phs (l154,1,lab_test
+527815,serum phosporous,1,lab_test
+527816,serum potasium,3,lab_test
+527825,serum pottasium (k+,1,lab_test
+527826,serum preg .test(spt,1,lab_test
+527827,serum preg test,2,lab_test
+527828,serum preg. test,2,lab_test
+527829,serum preg. test (q.hcg,2,lab_test
+527830,serum preg. text,1,lab_test
+527831,serum preg.test,2,lab_test
+527832,serum preg.test(spt,2,lab_test
+527833,serum pregnancy,3,lab_test
+527834,serum pregnancy - 275,1,lab_test
+527835,serum pregnancy t,1,lab_test
+527837,serum pregnancy test (pts,1,lab_test
+527838,serum pregnancy test (spt,1,lab_test
+527839,serum pregnancy test - qualita,1,lab_test
+527840,serum pregnancy test(qualitative,1,lab_test
+527844,serum pregnany test,3,lab_test
+527845,serum pregnency test,2,lab_test
+527846,serum prgnancy test,1,lab_test
+527847,serum prolactin,2,lab_test
+527848,serum protein,1,lab_test
+527849,serum protein / creatinine ratio,1,lab_test
+527850,serum protein and immunoglobulin evaluation,1,lab_test
+527851,serum protein electrophoresis,2,lab_test
+527853,serum pt,2,lab_test
+527854,serum pth,1,lab_test
+527855,serum pyruvate,1,lab_test
+527859,serum quantitative,1,lab_test
+527860,serum random glucose,1,lab_test
+527861,serum reactive protein (c.r.p,1,lab_test
+527862,serum sodium,5,lab_test
+527863,serum sodium ( na,1,lab_test
+527864,serum sodium ( na +,1,lab_test
+527865,serum sodium (na,6,lab_test
+527866,serum sodium (na+,1,lab_test
+527870,serum sodium na (l151,1,lab_test
+527873,serum sugar 4 sample,2,lab_test
+527874,serum sugar one sample,3,lab_test
+527876,serum t3,1,lab_test
+527877,serum t4,1,lab_test
+527880,serum thyroglobulin,1,lab_test
+527881,serum thyroid stimulating immune globulins (tsi,1,lab_test
+527882,serum tibc,1,lab_test
+527883,serum total bilirubin,3,lab_test
+527884,serum total bilirubin (t . bil,1,lab_test
+527885,serum total bilirubin (t.bil,2,lab_test
+527887,serum total bilirubin - 215,1,lab_test
+527888,serum total billirubin,1,lab_test
+527889,serum total ig e,3,lab_test
+527892,serum total protein,3,lab_test
+527893,serum total proteins,3,lab_test
+527894,serum total protien,1,lab_test
+527895,serum transferrin/siderophilin,2,lab_test
+527896,serum trighycerides,4,lab_test
+527900,serum trigl ycrerides,1,lab_test
+527901,serum triglyceride,2,lab_test
+527902,serum triglycerides,5,lab_test
+527903,serum triglycerides tg,1,lab_test
+527904,serum triglycerides-4002-lab,1,lab_test
+527905,serum trigycerides,1,lab_test
+527906,serum troponin,2,lab_test
+527907,serum troponin i ( ctni,1,lab_test
+527908,serum troponin i test,1,lab_test
+527910,serum tryglycerides,1,lab_test
+527911,serum tsh,2,lab_test
+527912,serum triglycerides - 210,1,lab_test
+527913,serum urea,5,lab_test
+527914,serum urea - 206,1,lab_test
+527940,serum widal,1,lab_test
+527941,serum zenic test cash,1,lab_test
+527950,serum%20lactate,1,lab_test
+527951,serum%20pregnancy%20test,1,lab_test
+527953,serum. pregnancy test,2,lab_test
+527954,serum/fluid osmolality,1,lab_test
+527955,serumcalcium phosphorous,1,lab_test
+527956,serumvitaminb12,1,other
+527957,serum_iron,1,lab_test
+527958,serurm ferrritin,1,other
+527960,servical dorcellspine 2 view,1,imaging
+527961,service charge,1,consultation
+527963,service charge (im,1,consultation
+527965,service charge (iv fluid,1,supplies
+527966,service charge (iv,1,supplies
+527970,service charge - aspiration syrovial fluid with rt b-knee j,1,procedure
+527971,service charge - bandage,1,supplies
+527972,service charge - catheterization,1,procedure
+527973,service charge - closed reduction col s fracture l p.o.p,1,eyewear
+527974,service charge - cold compress,1,supplies
+527975,service charge - corn excision,1,procedure
+527976,service charge - creep bandage for sprain,1,supplies
+527977,service charge - ecg examination,2,diagnostic
+527979,service charge - elastic bandage for foot,1,supplies
+527980,service charge - elastic bandage for hand,1,supplies
+527982,service charge - excision,1,procedure
+527983,service charge - i&d abscess under la,1,procedure
+527984,service charge - i.h.c. - knee joint,1,consultation
+527985,service charge - i.h.c. elbow,1,consultation
+527986,service charge - i.h.c. foot,1,consultation
+527987,service charge - i.v canula,1,supplies
+527988,service charge - incision and drainage,1,procedure
+527994,service charge - nebulization,1,procedure
+527995,service charge - other services,1,consultation
+527996,service charge - oxygen inhalation,1,supplies
+527997,service charge - p.o.p slab for hand,1,supplies
+527998,service charge - p.o.p cast above knee,1,supplies
+527999,service charge - p.o.p cast for elbow/fore arm,1,supplies
+528000,service charge - p.o.p slab for leg below knee,1,supplies
+528001,service charge - p.o.p. cast for hand,1,supplies
+528002,service charge - p.o.p. cast for the foot,1,supplies
+528003,service charge - p.o.p. cylinder,1,consultation
+528004,service charge - p.o.p. foot spica,1,consultation
+528005,service charge - p.o.p. slab for elbow,1,supplies
+528006,service charge - pop cast for hand,1,supplies
+528007,service charge - pop slab for elbow,1,supplies
+528009,service charge - removal of foreign under la - deep,1,procedure
+528010,service charge - removal of gibsona,1,procedure
+528011,service charge - stich removal,1,procedure
+528012,service charge - stiching of wound - deep abcess,1,consultation
+528013,service charge - stiching of wound under la (per stich,1,consultation
+528014,service charge - suturing,1,procedure
+528015,service charge - urethral diletetion,1,consultation
+528017,service charge - wound dressing - big,1,supplies
+528018,service charge - wound dressing - small,1,supplies
+528019,service charge - wound dressing- medium,1,supplies
+528024,service charge -iv fluids (per fluids,2,supplies
+528025,service charge for bariatric hand piece,1,consultation
+528026,service charge for blood transfusion,1,lab_test
+528029,service charge im,1,consultation
+528030,service charge iv,1,supplies
+528031,service charge iv fluids (per fluids,1,supplies
+528032,service charge nebulizer inhalation,1,supplies
+528033,service charge of nebulizer inhalation,1,supplies
+528035,service charge(i.v. fluid 5%,1,consultation
+528049,service charge-electrocautry for wart,1,consultation
+528051,service charge-im,1,consultation
+528053,service charge-infusion,1,supplies
+528054,service charge-iv,1,supplies
+528056,service charge-iv fluids (per fluids,1,supplies
+528058,service charge-nebulisation,1,consultation
+528059,"service charge-s/c, im",1,consultation
+528061,service charges blood transfusion,1,lab_test
+528070,service charges for instrument using in o.r,1,lab_test
+528071,service charges for iv fluid additional hour,1,supplies
+528072,service charges for iv fluid first 1 hour,1,supplies
+528073,service charges for,1,other
+528077,service charges platelet transfusion,1,other
+528078,service i.v,1,lab_test
+528084,services,2,other
+528088,services of nebuliztion,1,other
+528091,sesame seed food allergen,1,lab_test
+528093,sesg c16,1,other
+528094,sesseion physiotherapy,1,physiotherapy
+528095,sesseion physotherapy,1,other
+528096,session crrt treatment. (multifiltret kit4 each 1 + filtrate bag 10 ltrs each 1 + multibic solutio,1,physiotherapy
+528097,session elctro therapy,1,physiotherapy
+528098,session for many injuries,1,physiotherapy
+528099,session for one area,1,physiotherapy
+528100,session for physiotherapy clissic,1,physiotherapy
+528101,session hemiplegia,1,physiotherapy
+528102,session including two device,1,physiotherapy
+528103,session of esketamine,1,physiotherapy
+528104,session of maximum 3 modalities (for gosi & insurance only,1,physiotherapy
+528105,session of u.s of one area,1,physiotherapy
+528106,session remedial exercises,1,physiotherapy
+528107,session ultrasound,1,imaging
+528108,"session, sound waves + waves short + electric alarm + exercises",1,physiotherapy
+528109,sessions of maximum 3 modalities,1,physiotherapy
+528110,sestamibi parathyroid scan,1,imaging
+528111,"set , of , screw- atr,k2m , 101-10001",1,supplies
+528112,set accessories breast bump ardo # 1284027,1,other
+528115,set blood administration w/ burette,1,lab_test
+528116,set blood transfusion,1,lab_test
+528117,"set dressing pack, damad, 870 977\5",1,supplies
+528118,"set dressing pack, damad, 870 977\5, jm-t3318d-ngh",1,supplies
+528119,set enteral feeding w/spike medcaptain #3005-00007-01,1,supplies
+528120,set extension iv infus. l/ lock 150cm reguler,1,supplies
+528124,set for blood warmer hotline # l70 / hl # 90,1,lab_test
+528125,set for feeding pump,1,supplies
+528126,set infusion intrafix b/braun #402962/3 (jm-s2407,1,supplies
+528127,set infusion w/regulator meinntech #ez,1,supplies
+528130,"set irrigation n/vented t-u-r 96"""" y-type latex free 6543-01",1,procedure
+528135,set iv infus. primary hs 12030 pump set,1,supplies
+528136,set iv plum blood set y type hs 12250,1,lab_test
+528137,set iv plum soluset 150/60 hs 11948,1,supplies
+528138,set medimix mini 4-way,1,other
+528139,set micro puncture 4fr mpis - 401 - nt mpis-401-nt/mr190421,1,procedure
+528145,set screw # ell-sc 00 00-s,1,supplies
+528146,set screw (ps3525,1,supplies
+528147,"set screw, medacta, 03.75.900",1,supplies
+528148,"set screw, polyaxial, 3.5 dia, l12, perla, spine art, cpf-ps 35 12-s",1,supplies
+528149,"set screw, polyaxial, 3.5 dia, l16, perla, spine art, cpf-ps 35 16-s",1,supplies
+528150,set screws solora # 5540030,1,supplies
+528151,set single use valve 10/box drager # 8414776,1,supplies
+528155,set terufusion administration f/infusion pump teurumo #pu300wy/pu400wy21,1,supplies
+528156,set terufusion administration f/infusion pump teurumo #pu400wy21/pu300wy,1,supplies
+528157,set terufusion administration f/infusion pump teurumo #ti*pu300wy,1,supplies
+528158,set terufusion administration f/infusion pump teurumo#pu300wy/pu400wy21,1,supplies
+528159,set tubing insufflation single use luer-lock gas flow of 50 l/min karl storz # 031200-10,1,supplies
+528160,set up pap & adjustment of device,1,lab_test
+528162,"set, administration, normothermic iv fluid, level 1, smiths medical, di-300",1,lab_test
+528163,"set, blood transfusion(tb=a 200b",1,lab_test
+528165,"set, cannula, fast-fix, curved inserter, bender, smith & nephew, 72205324",1,supplies
+528166,"set, catheter w/ cuff, 3frx60cm, single lumen, vascu-line, medcomp, vp3s-2c, mr28013121",1,supplies
+528167,"set, catheter, drainage, one step, 10 fr, w/safety string lock, bioteq, bt-pd1-10x30-w",1,eyewear
+528168,"set, curved knotpusher, slotted cannula, suture cutter, smith and nephew, 72202674",1,supplies
+528169,"set, drainage catheter&introducer, 6fr, w/ safety string lock, bioteq, bt-pd1-0630-w",1,supplies
+528170,"set, drainage catheter&introducer, 7fr, w/ safety string lock, bioteq, bt-pd1-0730-w",1,supplies
+528171,"set, dual, trans/infusion, vl sp22, 200 filter, k-nect, fresenius, m46443100",1,supplies
+528172,"set, electrode, corkscrew, spiral needle, 0.6mm, with tip, inomed, 530750",1,supplies
+528173,"set, extension,150 cm, jm-x2600-150 / polymed, 1012l",1,other
+528174,"set, feeding, pump, compat ella, combiset 1.5l, enfit, 12267446",1,supplies
+528175,"set, filtered tube, tri-lumen, airseal, surgiquest, asm-evac / lexion, 9660-xe",1,supplies
+528177,"set, infusion,primary,syringe,alaris,2260-0006",1,supplies
+528180,"set, patient, tubing, j&j-mitek, 284610/ box24",1,supplies
+528181,"set, plum, iv, dual chanel, hospira, hs-12538 / 1004 / 14001",1,eyewear
+528182,"set, plum, y-type blood, hospira, hs-12259 / icu-medical, 14212-28",1,lab_test
+528183,"set, prismaflex, m100, an69, 0.9m2 (106697",1,other
+528184,"set, pvc, epidural, infusion, vl on90, 15 filter, fresenius, m46444900",1,supplies
+528185,"set, screw, 25d, 6x30, romeo 2, spine art, ell-ds 06 30-s",1,supplies
+528186,"set, screw, 25d, 6x35, romeo 2, spine art, ell-ds 06 35-s",1,supplies
+528187,"set, screw, 25d, 6x40, romeo 2, spine art, ell-ds 06 40-s",1,supplies
+528188,"set, screw, 25d, 6x45, romeo 2, spine art, ell-ds 06 45-s",1,supplies
+528189,"set, screw, 5.5mm, ti, sofamor danek, 7540000",1,supplies
+528190,"set, screw, 5.5mm, ti, sofamor danek, 7540020",1,supplies
+528191,"set, screw, hexalobe, romeo, spine art, ell-sc 01 00-s",1,supplies
+528192,"set, screw, nuvasive spine, 8461100",1,supplies
+528193,"set, screw, revolve, globus medical, 185",1,supplies
+528194,"set, screw, sofamor danek, 6440530",1,supplies
+528195,"set, secondary i.v. piggyback, hospira, hs-11311 / hs-14229 / hs-14230",1,lab_test
+528198,"set, standar flow, fluid warm/blood, for ranger machine, (3m) # 24200",1,lab_test
+528199,"set, standard, infusion, vl st02, 15 filter, k-nect, fresenius, m46441900",1,supplies
+528200,"set, standard, infusion, vl st42, 15 filter, 2k-nect, fresenius, m46442600",1,supplies
+528201,"set, suture, removel, 870980 1",1,supplies
+528202,"set, syringe, pump infusion line, injectomat, fd dehp, 150cm, fresenius, 9000973",1,supplies
+528203,"set, syringe, pump infusion line, injectomat, pe 200 cm, fresenius, 9004142",1,supplies
+528204,"set, syringe, pump infusion line, injectomat, pe200cm yellow, fresenius, 9004182",1,supplies
+528205,"set, syringe, pump infusion line, injectomat, pvc 200 cm, fresenius, 9014342",1,supplies
+528206,"set, t.u.r. y irrigation ab6543",1,procedure
+528207,"set, tube extention ivac # g30402m",1,supplies
+528208,"set, tubing , extension, 68mm, check valve, asv, cadd 21-7092-24",1,supplies
+528209,"set, tubing, caleo, pack/20, drager, mx17018",1,supplies
+528210,"set, tubing, filter, insufflation, 15 mm, fitting, purple surgical, ps3603/ft004",1,supplies
+528211,"set, universal drape, hartmann, 938712",1,supplies
+528212,"set, ureteral access sheath, 13f/15fx46cm, navigator, boston scientific, 250-210",1,supplies
+528214,"set, y-connector, angioplasty, map302",1,procedure
+528215,"set, yankauer, suction, jm-s2490 / smmp, 164-1180",1,supplies
+528216,"set,blood transfusion, bx/10,alaris,2477-0007",1,lab_test
+528218,"set,catheterization, femoral, artery, 6 20x 20 cm, arrow, box/10,gh-04150",1,procedure
+528219,"set,extension,cc syringe,bx/100,alaris,g30402m",1,supplies
+528220,"set,extension,light sen.,cc syringe,bx/100,alaris, mfx2294/g30454v",1,supplies
+528221,"set,extension,low sorbing,cc syringe,bx/100,alaris, g30302m",1,supplies
+528222,"set,i.v. disp. vented jm-s2407",1,lab_test
+528223,"set,infusion,burette, bx/10,alaris,2441-0007",1,supplies
+528225,"set,preconnected,hemofilter,""prismaflex m150"",bx/4,baxter109990",1,procedure
+528226,"set,resuscitator,manual,silicone,""ambubag"",infant,vbm,88-10-190",1,supplies
+528228,"set,transducer,dispo,easyvent,meritrans dtxplus,merit med,682002",1,other
+528229,"set,volumed,pvc,235 cm,drip chamber 21,luerlock ,apppk0j",1,other
+528282,seton insertion,1,procedure
+528283,seton sut placement high per fistula,1,other
+528284,seton suture placement for high perianal fistula,1,supplies
+528285,setonet size 5,1,other
+528286,setonet size 7,1,other
+528287,setonet/fastanet,1,other
+528288,setonets size 5x25m stretched flexynet 5,1,other
+528329,"sev nutrit disturbance, minc",1,inpatient
+528330,sevelamer,1,other
+528351,seven 7878,1,other
+528352,seven seas cod liver 120cap,1,other
+528354,seven seas joint care max 30cap,1,other
+528357,seven seas joint care max gluc+omega 3,1,other
+528358,seven seas jointcare max 30cap,1,other
+528363,seven seas one-a-day cod liver oil,1,supplies
+528367,seven street/s 130/gx1/f,1,other
+528368,seven street/s 142/fzw/f,1,other
+528369,seven street/s 142/jai/f,1,other
+528370,seven street/s 142/s8l/f,1,other
+528371,seven street/s 146/jq0/f,1,other
+528372,seven street/s 150/01z/f,1,other
+528373,seven street/s 150/69f/f,1,other
+528374,seven street/s 150/b1j/f,1,other
+528375,seven street/s 150/biu/f,1,other
+528376,seven street/s 150/kqh/f,1,other
+528377,seven street/s 201/z90/f,1,other
+528378,seven street/s 202/z90/f,1,other
+528379,seven street/s151/kqk/f,1,other
+528380,seven street/s152/kql/51/f,1,other
+528381,seven street/s152/kql/f,1,other
+528382,seven street/s152/kqm/51/f,1,other
+528383,seven street/s152/kqm/f,1,other
+528384,seven street/s152/kqp/f,1,other
+528385,seven street/s152/kqr/51/f,1,other
+528386,seven street/s152/kqr/f,1,other
+528387,seven street/s153/ifw/f,1,other
+528388,seven street/s153/kqs/f,1,other

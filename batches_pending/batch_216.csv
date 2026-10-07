@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+412725,"o;sojo;bd.ip4513, 54, c4",1,eyewear
+412726,"o;sojo;bd.ip4515, 53, c1",1,eyewear
+412727,"o;sojo;bd.ip4515, 53, c4",1,eyewear
+412728,"o;sojo;bd.ip4518, 54, c1",1,eyewear
+412729,"o;sojo;bd.ip4518, 54, c3",1,eyewear
+412730,"o;sojo;bd.ip4518, 54, c4",1,eyewear
+412731,"o;sojo;bd.ip4518, 54, c5",1,eyewear
+412732,"o;sojo;bd.ip4518, 54, c6",1,eyewear
+412733,"o;sojo;bd.ip8001, 52, c1",1,eyewear
+412734,"o;sojo;bd.ip8001, 52, c3",1,eyewear
+412735,"o;sojo;bd.ip8001, 52, c4",1,eyewear
+412736,"o;sojo;bd.ip8006, 51, c1",1,eyewear
+412737,"o;sojo;bd.ip8006, 51, c3",1,eyewear
+412738,"o;sojo;bd.ip8007, 54, c1",1,eyewear
+412739,"o;sojo;bd.ip8007, 54, c2",1,eyewear
+412740,"o;sojo;bd.ip8007, 54, c3",1,eyewear
+412741,o;sojo;bd.ip8007/ 54/ c3,1,eyewear
+412742,"o;sojo;ca8820, 53, c1",1,eyewear
+412743,"o;sojo;m8001, 57, c1 gold",1,eyewear
+412744,"o;sojo;m8001, 57, c2 gun",1,eyewear
+412745,"o;sojo;m8001, 57, c3 silver",1,eyewear
+412746,"o;sojo;m8002, 54, c1 gold",1,eyewear
+412747,"o;sojo;m8002, 54, c2 silver",1,eyewear
+412748,"o;sojo;m8002, 54, c3 gun",1,eyewear
+412749,"o;sojo;m8008, 54, c1 gold",1,eyewear
+412750,"o;sojo;m8008, 54, c2 gun",1,eyewear
+412751,"o;sojo;m8010, 54, c3",1,eyewear
+412752,"o;sojo;m8010, 54, c4",1,eyewear
+412753,o;sojo;m8010/ 54/ c4,1,eyewear
+412754,"o;sojo;me2392, 55, c1",1,eyewear
+412755,"o;sojo;me2393, 53, c4",1,eyewear
+412756,"o;sojo;mf7746, 54, c2",1,eyewear
+412757,"o;sojo;mf7757, 53, c1",1,eyewear
+412758,"o;sojo;mf7757, 53, c2",1,eyewear
+412759,"o;sojo;mf7757, 53, c3",1,eyewear
+412760,"o;sojo;mf7761, 55, c1",1,eyewear
+412761,"o;sojo;mf7761, 55, c2",1,eyewear
+412762,"o;sojo;mf7761, 55, c5",1,eyewear
+412763,"o;sojo;mg3671, 53, c1",1,eyewear
+412764,"o;sojo;mg3671, 53, c3",1,eyewear
+412765,"o;sojo;mg3719, 55, c1",1,eyewear
+412766,"o;sojo;mg3719, 55, c2",1,eyewear
+412767,"o;sojo;mg3720, 56, c3",1,eyewear
+412768,"o;sojo;mg3724, 55, c1",1,eyewear
+412769,"o;sojo;mg3726, 55, c1",1,eyewear
+412770,"o;sojo;mg3726, 55, c4",1,eyewear
+412771,"o;sojo;mg3727, 56, c4",1,eyewear
+412772,"o;sojo;mg3728, 54, c1",1,eyewear
+412773,"o;sojo;mg3728, 54, c2",1,eyewear
+412774,"o;sojo;mg3728, 54, c4",1,eyewear
+412775,"o;sojo;mg3729, 56, c2",1,eyewear
+412776,"o;sojo;mg3730, 54, c1",1,eyewear
+412777,"o;sojo;mg3731, 53, c2",1,eyewear
+412778,"o;sojo;mg3731, 53, c3",1,eyewear
+412779,"o;sojo;mg3732, 56, c1",1,eyewear
+412780,"o;sojo;mg3732, 56, c2",1,eyewear
+412781,"o;sojo;mg3736, 56, c1",1,eyewear
+412782,"o;sojo;mg3736, 56, c2",1,eyewear
+412783,"o;sojo;mg3738, 56, c1",1,eyewear
+412784,"o;sojo;mg3738, 56, c3",1,eyewear
+412785,"o;sojo;mg3743, 55, c1",1,eyewear
+412786,"o;sojo;mg3743, 55, c4",1,eyewear
+412787,"o;sojo;mg3748, 56, c1",1,eyewear
+412788,"o;sojo;mg3748, 56, c2",1,eyewear
+412789,"o;sojo;mg3749, 56, c1",1,eyewear
+412790,"o;sojo;mg6159, 54, c1",1,eyewear
+412791,"o;sojo;mg6159, 54, c3",1,eyewear
+412792,"o;sojo;mg6159, 54, c5",1,eyewear
+412793,"o;sojo;mg6198, 55, c1",1,eyewear
+412794,"o;sojo;mg6198, 55, c2",1,eyewear
+412795,"o;sojo;mg6198, 55, c4",1,eyewear
+412796,"o;sojo;mg6199, 55, c1",1,eyewear
+412797,"o;sojo;mg6201, 55, c1",1,eyewear
+412798,"o;sojo;mg6201, 55, c4",1,eyewear
+412799,"o;sojo;mg6207, 56, c2",1,eyewear
+412800,"o;sojo;mg6216, 56, c1",1,eyewear
+412801,"o;sojo;mg6221, 56, c4",1,eyewear
+412802,"o;sojo;mg6228, 55, c1",1,eyewear
+412803,"o;sojo;mg6228, 55, c2",1,eyewear
+412804,"o;sojo;mg6228, 55, c3",1,eyewear
+412805,"o;sojo;mg6231, 55, c1",1,eyewear
+412806,"o;sojo;mg6231, 55, c2",1,eyewear
+412807,"o;sojo;mg6231, 55, c3",1,eyewear
+412808,"o;sojo;mg6233, 53, c1",1,eyewear
+412809,"o;sojo;mg6233, 53, c6",1,eyewear
+412810,"o;sojo;mg6234, 54, c1",1,eyewear
+412811,"o;sojo;mg6234, 54, c2",1,eyewear
+412812,"o;sojo;mg6234, 54, c6",1,eyewear
+412813,"o;sojo;mg6236, 56, c4",1,eyewear
+412814,"o;sojo;mg6237, 56, c1",1,eyewear
+412815,"o;sojo;mg6237, 56, c2",1,eyewear
+412816,"o;sojo;mg6237, 56, c4",1,eyewear
+412817,"o;sojo;mg6240, 56, c1",1,eyewear
+412818,"o;sojo;mg6240, 56, c4",1,eyewear
+412819,"o;sojo;mg6246, 55, c1",1,eyewear
+412820,"o;sojo;mg6246, 55, c4",1,eyewear
+412821,"o;sojo;mg6258, 54, c1",1,eyewear
+412822,"o;sojo;mg6258, 54, c3",1,eyewear
+412823,"o;sojo;mg6273, 55, c1",1,eyewear
+412824,"o;sojo;mg6273, 55, c2",1,eyewear
+412825,"o;sojo;mg6273, 55, c5",1,eyewear
+412826,"o;sojo;mg6275, 56, c1",1,eyewear
+412827,"o;sojo;mg6275, 56, c3",1,eyewear
+412828,"o;sojo;mg6279, 56, c3",1,eyewear
+412829,"o;sojo;mg6279, 56, c4",1,eyewear
+412830,"o;sojo;mg6296, 54, c1",1,eyewear
+412831,"o;sojo;mg6296, 54, c2",1,eyewear
+412832,"o;sojo;mg6296, 54, c4",1,eyewear
+412833,"o;sojo;mg6297, 54, c1",1,eyewear
+412834,"o;sojo;mg6297, 54, c3",1,eyewear
+412835,"o;sojo;mg6297, 54, c5",1,eyewear
+412836,"o;sojo;mg6299, 54, c1",1,eyewear
+412837,"o;sojo;mg6299, 54, c5",1,eyewear
+412838,"o;sojo;mg6303a, 54, c1",1,eyewear
+412839,"o;sojo;mg6303a, 54, c2",1,eyewear
+412840,"o;sojo;mg6303a, 54, c5",1,eyewear
+412841,"o;sojo;mg6304a, 54, c1",1,eyewear
+412842,"o;sojo;mg6304a, 54, c5",1,eyewear
+412843,"o;sojo;mg6322, 56, c1",1,eyewear
+412844,"o;sojo;mg6322, 56, c2",1,eyewear
+412845,"o;sojo;mg6322, 56, c4",1,eyewear
+412846,"o;sojo;mg6324, 53, c1",1,eyewear
+412847,"o;sojo;mg6324, 53, c2",1,eyewear
+412848,o;sojo;mg6324/ 53/ c2,1,eyewear
+412849,"o;sojo;mg6335a, 54, c1",1,eyewear
+412850,"o;sojo;mg6335a, 54, c3",1,eyewear
+412851,"o;sojo;mg6336a, 53, c1",1,eyewear
+412852,"o;sojo;mg6336a, 53, c4",1,eyewear
+412853,"o;sojo;mg6347, 55, c1",1,eyewear
+412854,"o;sojo;mg6347, 55, c2",1,eyewear
+412855,"o;sojo;mg6347, 55, c4",1,eyewear
+412856,o;sojo;mg6347/ 55/ c4,1,eyewear
+412857,"o;sojo;mg6350, 53, c1",1,eyewear
+412858,"o;sojo;mg6350, 53, c2",1,eyewear
+412859,"o;sojo;mg6352, 55, c1",1,eyewear
+412860,"o;sojo;mg6352, 55, c3",1,eyewear
+412861,"o;sojo;mg6352, 55, c4",1,eyewear
+412862,"o;sojo;mg6382, 52, c1",1,eyewear
+412863,"o;sojo;mg6382, 52, c2",1,eyewear
+412864,"o;sojo;mg6382, 52, c3",1,eyewear
+412865,"o;sojo;ms8223, 51, c1",1,eyewear
+412866,"o;sojo;ms8223, 51, c4",1,eyewear
+412867,"o;sojo;ms8223, 51, c5",1,eyewear
+412868,"o;sojo;ms8224, 52, c1",1,eyewear
+412869,"o;sojo;ms8224, 52, c3",1,eyewear
+412870,"o;sojo;ms8224, 52, c4",1,eyewear
+412871,"o;sojo;ms8237, 53, c1",1,eyewear
+412872,"o;sojo;ms8237, 53, c2",1,eyewear
+412873,"o;sojo;ms8238, 53, c1",1,eyewear
+412874,"o;sojo;ms8238, 53, c2",1,eyewear
+412875,"o;sojo;ms8238, 53, c4",1,eyewear
+412876,"o;sojo;ms8249, 54, c1",1,eyewear
+412877,"o;sojo;ms8249, 54, c2",1,eyewear
+412878,"o;sojo;ms8249, 54, c3",1,eyewear
+412879,"o;sojo;ms8266b, 54, c1",1,eyewear
+412880,"o;sojo;ms8266b, 54, c2",1,eyewear
+412881,"o;sojo;ms8266b, 54, c4",1,eyewear
+412882,"o;sojo;ms8266b, 54, c5",1,eyewear
+412883,"o;sojo;mt9001, 56, c1 gun",1,eyewear
+412884,"o;sojo;mt9001, 56, c2 silver",1,eyewear
+412885,"o;sojo;mt9001, 56, c3 gold",1,eyewear
+412886,o;sojo;mt9001/ 56/ c3 gold,1,eyewear
+412887,"o;sojo;mt9002, 54, c1 gold",1,eyewear
+412888,"o;sojo;mt9002, 54, c2 gun",1,eyewear
+412889,o;sojo;mt9002/ 54/ c1 gold,1,eyewear
+412890,"o;sojo;mt9004, 52, c1 gold",1,eyewear
+412891,"o;sojo;mt9004, 52, c2 gun",1,eyewear
+412892,o;sojo;mt9004/ 52/ c2 gun,1,eyewear
+412893,"o;sojo;mt9062, 53, c1",1,eyewear
+412894,"o;sojo;mt9062, 53, c2",1,eyewear
+412895,"o;sojo;mt9062, 53, c3",1,eyewear
+412896,"o;sojo;mt9062, 53, c4",1,eyewear
+412897,"o;sojo;mt9063, 53, c1",1,eyewear
+412898,"o;sojo;mt9063, 53, c3",1,eyewear
+412899,"o;sojo;mt9063, 53, c4",1,eyewear
+412900,"o;sojo;mt9064, 53, c1",1,eyewear
+412901,"o;sojo;mt9064, 53, c2",1,eyewear
+412902,"o;sojo;mt9064, 53, c4",1,eyewear
+412903,o;sojo;mt9064/ 53/ c4,1,eyewear
+412904,"o;sojo;mt9065, 49, c1",1,eyewear
+412905,"o;sojo;mt9065, 49, c2",1,eyewear
+412906,"o;sojo;mt9065, 49, c3",1,eyewear
+412907,"o;sojo;mt9065, 49, c4",1,eyewear
+412908,"o;sojo;mt9065, 49, c5",1,eyewear
+412909,o;sojo;mt9065/ 49/ c4,1,eyewear
+412910,o;sojo;mt9065/ 49/ c5,1,eyewear
+412911,"o;sojo;mt9066, 50, c1",1,eyewear
+412912,"o;sojo;mt9066, 50, c3",1,eyewear
+412913,"o;sojo;mt9066, 50, c4",1,eyewear
+412914,"o;sojo;mt9066, 50, c5",1,eyewear
+412915,o;sojo;mt9066/ 50/ c5,1,eyewear
+412916,"o;sojo;mt9067, 54, c1",1,eyewear
+412917,"o;sojo;mt9067, 54, c2",1,eyewear
+412918,"o;sojo;mt9067, 54, c3",1,eyewear
+412919,"o;sojo;mt9067, 54, c4",1,eyewear
+412920,"o;sojo;mt9067, 54, c5",1,eyewear
+412921,"o;sojo;mt9077, 55, c1",1,eyewear
+412922,"o;sojo;mt9077, 55, c2",1,eyewear
+412923,"o;sojo;mt9077, 55, c4",1,eyewear
+412924,"o;sojo;mt9078, 54, c1 001",1,eyewear
+412925,"o;sojo;mt9078, 54, c3 003",1,eyewear
+412926,"o;sojo;mt9078, 54, c4 004",1,eyewear
+412927,"o;sojo;mt9079, 50, c1 001",1,eyewear
+412928,"o;sojo;mt9079, 50, c2 002",1,eyewear
+412929,"o;sojo;mt9080, 52, c2 002",1,eyewear
+412930,"o;sojo;mt9080, 52, c4 004",1,eyewear
+412931,"o;sojo;old5008, 58, c1",1,eyewear
+412932,"o;sojo;t028w, 55, c1",1,eyewear
+412933,"o;sojo;t028w, 55, c2",1,eyewear
+412934,"o;sojo;t028w, 55, c3",1,eyewear
+412935,"o;sojo;t029w, 53, c1",1,eyewear
+412936,"o;sojo;t029w, 53, c3",1,eyewear
+412937,"o;sojo;t031w, 54, c3",1,eyewear
+412938,"o;sojo;t031w, 55, c2",1,eyewear
+412939,"o;sojo;t031w, 55, c3",1,eyewear
+412940,"o;sojo;t032w, 53, c1",1,eyewear
+412941,"o;sojo;t032w, 53, c2",1,eyewear
+412942,"o;sojo;t032w, 53, c3",1,eyewear
+412943,"o;sojo;t033w, 53, c3",1,eyewear
+412944,"o;sojo;t034w, 53, c2",1,eyewear
+412945,"o;sojo;t034w, 53, c3",1,eyewear
+412946,"o;sojo;t034w, 53, c4",1,eyewear
+412947,"o;sojo;t035w, 52, c1",1,eyewear
+412948,"o;sojo;t035w, 52, c3",1,eyewear
+412949,"o;sojo;t036w, 52, c2",1,eyewear
+412950,"o;sojo;t036w, 52, c3",1,eyewear
+412951,"o;sojo;t037w, 53, c1",1,eyewear
+412952,"o;sojo;t037w, 53, c2",1,eyewear
+412953,"o;sojo;t037w, 53, c3",1,eyewear
+412954,"o;sojo;t038w, 53, c2",1,eyewear
+412955,"o;sojo;t038w, 53, c3",1,eyewear
+412956,"o;sojo;t039w, 53, c3",1,eyewear
+412957,"o;sojo;t040w, 54, c1",1,eyewear
+412958,"o;sojo;t041w, 52, c1",1,eyewear
+412959,"o;sojo;t042w, 54, c3",1,eyewear
+412960,"o;sojo;t042w, 54, c4",1,eyewear
+412961,"o;sojo;t043w, 54, c2",1,eyewear
+412962,"o;sojo;t043w, 54, c3",1,eyewear
+412963,"o;sojo;t043w, 54, c4",1,eyewear
+412964,"o;sojo;t044w, 53, c3",1,eyewear
+412965,"o;sojo;t044w, 53, c4",1,eyewear
+412966,"o;sojo;t045w, 53, c1",1,eyewear
+412967,"o;sojo;t045w, 53, c2",1,eyewear
+412968,"o;sojo;t047w, 54, c1",1,eyewear
+412969,"o;sojo;t047w, 54, c2",1,eyewear
+412970,"o;sojo;t047w, 54, c3",1,eyewear
+412971,"o;sojo;t048w, 53, c1",1,eyewear
+412972,"o;sunoptic;892c, 55, black",1,eyewear
+412973,"o;sunoptic;894c, 55, black",1,eyewear
+412974,"o;sunoptic;908a, 54, gunmetal",1,eyewear
+412975,"o;sunoptic;975, 57, black",1,eyewear
+412976,o;sunoptic;975/ 57/ black,1,eyewear
+412977,"o;sunoptic;975a, 57, gunmetal",1,eyewear
+412978,o;sunoptic;975a/ 57/ gunmetal,1,eyewear
+412979,"o;sunoptic;997, 54, black",1,eyewear
+412980,"o;sunoptic;997c, 54, gunmetal",1,eyewear
+412981,"o;sunoptic;ac394a, 50, turtle",1,eyewear
+412982,"o;sunoptic;ac395, 54, black",1,eyewear
+412983,"o;sunoptic;ac395c, 54, brown",1,eyewear
+412984,"o;sunoptic;ac395e, 54, turtle",1,eyewear
+412985,"o;sunoptic;ac396a, 49, turtle",1,eyewear
+412986,"o;sunoptic;ac396b, 49, blue",1,eyewear
+412987,"o;sunoptic;ac396c, 49, red",1,eyewear
+412988,"o;sunoptic;ac396d, 49, brown",1,eyewear
+412989,o;sunoptic;ac396d/ 49/ brown,1,eyewear
+412990,"o;sunoptic;ac396e, 49, turtle",1,eyewear
+412991,"o;sunoptic;ac397, 48, d8 black",1,eyewear
+412992,"o;sunoptic;ac398, 52, d8 black",1,eyewear
+412993,"o;sunoptic;ac398a, 52, d8 turtle",1,eyewear
+412994,"o;sunoptic;ac398b, 52, d8 blue",1,eyewear
+412995,"o;sunoptic;ac398d, 52, d8 grey",1,eyewear
+412996,"o;sunoptic;ac398e, 52, d8 brown",1,eyewear
+412997,"o;sunoptic;cp120a, 52, d9 grey",1,eyewear
+412998,"o;sunoptic;cp123g, 48, grey",1,eyewear
+412999,"o;sunoptic;cp125f, 50, grey",1,eyewear
+413000,"o;sunoptics;601, 54, matt black",1,eyewear
+413002,"o;sunoptics;612a, 57, matt black",1,eyewear
+413003,"o;sunoptics;612d, 57, matt blue",1,eyewear
+413004,"o;sunoptics;612e, 57, matt black",1,eyewear
+413005,"o;sunoptics;699, 56, gunmetal",1,eyewear
+413006,"o;sunoptics;699a, 56, light gunmetal",1,eyewear
+413007,"o;sunoptics;699e, 56, silver",1,eyewear
+413008,"o;sunoptics;787b, 54, matt blue",1,eyewear
+413009,"o;sunoptics;789, 54, matt black",1,eyewear
+413010,"o;sunoptics;789c, 54, gold",1,eyewear
+413011,"o;sunoptics;789d, 54, matt dark gold",1,eyewear
+413012,"o;sunoptics;790, 58, black",1,eyewear
+413013,"o;sunoptics;790a, 58, gunmetal",1,eyewear
+413014,"o;sunoptics;790c, 58, gold",1,eyewear
+413015,"o;sunoptics;790d, 58, brown",1,eyewear
+413016,"o;sunoptics;791, 54, black",1,eyewear
+413017,"o;sunoptics;915, 52, c7 gold/black/black",1,eyewear
+413018,"o;sunoptics;915, 52, c9,gold/black/black",1,eyewear
+413019,"o;sunoptics;915b,52, c9,gold/gold/turtle",1,eyewear
+413020,"o;sunoptics;915c, 52, black",1,eyewear
+413021,"o;sunoptics;915d,52,c3,gunmtal/black/blk",1,eyewear
+413022,"o;sunoptics;915e, 52,silver/silver/black",1,eyewear
+413023,"o;sunoptics;917b, 53, gold/black/black",1,eyewear
+413024,"o;sunoptics;917c, 53, black",1,eyewear
+413025,"o;sunoptics;917e,53,c3,gold/brown/turtle",1,eyewear
+413026,"o;sunoptics;919, 50, gold/red/red",1,eyewear
+413027,"o;sunoptics;919a,50, c3 gold/black/black",1,eyewear
+413028,"o;sunoptics;920b, 52, c3,gold/gold/black",1,eyewear
+413029,"o;sunoptics;920e,52,c3,gunmtal/black/blk",1,eyewear
+413030,"o;sunoptics;921e, 52, silver/black",1,eyewear
+413032,"o;sunoptics;923, 51, pink gold/red",1,eyewear
+413033,"o;sunoptics;923a, 51, pink gold/black",1,eyewear
+413034,"o;sunoptics;923b, 51, pink gold/purple",1,eyewear
+413035,"o;sunoptics;924, 55, pink gold/red",1,eyewear
+413036,"o;sunoptics;924a, 55, pink gold/purple",1,eyewear
+413037,"o;sunoptics;925b, 55, pink gold/black",1,eyewear
+413038,"o;sunoptics;926, 48, silver",1,eyewear
+413039,"o;sunoptics;926a, 48, blue",1,eyewear
+413040,"o;sunoptics;926c, 48, gold",1,eyewear
+413041,"o;sunoptics;927, 52, silver/black",1,eyewear
+413042,"o;sunoptics;927a, 52, silver/blue",1,eyewear
+413043,"o;sunoptics;927b, 52, gunmetal/black",1,eyewear
+413044,"o;sunoptics;927e, 52, gold/brown",1,eyewear
+413045,"o;sunoptics;928a, 53, silver/blue",1,eyewear
+413046,"o;sunoptics;928c, 53, blue/black",1,eyewear
+413047,"o;sunoptics;928e, 53, gold/black",1,eyewear
+413048,"o;sunoptics;928f, 53, gold/dark brown",1,eyewear
+413049,"o;sunoptics;929a, 52, silver/blue",1,eyewear
+413050,o;sunoptics;929a/ 52/ silver/blue,1,eyewear
+413051,"o;sunoptics;929e, 52, gold/blue",1,eyewear
+413052,"o;sunoptics;929f, 52, black/black",1,eyewear
+413053,"o;sunoptics;929i, 52, blue/black/black",1,eyewear
+413054,"o;sunoptics;931e, 57, gold/dark brown",1,eyewear
+413055,"o;sunoptics;931f, 57, black/black",1,eyewear
+413056,"o;sunoptics;932f, 56, black/black",1,eyewear
+413057,"o;sunoptics;932h, 56, gold/turtle/brown",1,eyewear
+413058,"o;sunoptics;933d, 49, gold/gold",1,eyewear
+413059,"o;sunoptics;933h, 49, gold/red/gold",1,eyewear
+413060,"o;sunoptics;936, 52, black",1,eyewear
+413061,"o;sunoptics;936c, 52, purple",1,eyewear
+413062,"o;sunoptics;936d, 52, brown",1,eyewear
+413063,"o;sunoptics;969, 53, d9 black/gunmetal",1,eyewear
+413064,"o;sunoptics;969a, 53, d9 black/black",1,eyewear
+413065,"o;sunoptics;969h, 53, gunmetal",1,eyewear
+413066,"o;sunoptics;982, 56, black",1,eyewear
+413067,"o;sunoptics;982d, 56, gunmetal",1,eyewear
+413068,"o;sunoptics;982e, 56, gold",1,eyewear
+413069,"o;sunoptics;982f, 56, brown",1,eyewear
+413070,"o;sunoptics;983, 56, black",1,eyewear
+413071,"o;sunoptics;983c, 56, light gunmetal",1,eyewear
+413072,"o;sunoptics;983f, 56, brown",1,eyewear
+413073,"o;sunoptics;ac10a, 50, dark grey/turtle",1,eyewear
+413074,"o;sunoptics;ac11d, 53, brown",1,eyewear
+413075,"o;sunoptics;ac12e, 53, brown",1,eyewear
+413076,"o;sunoptics;ac15, 52, black",1,eyewear
+413077,"o;sunoptics;ac15a, 52, turtle",1,eyewear
+413078,"o;sunoptics;ac24a, 54, soft demi",1,eyewear
+413079,"o;sunoptics;ac25b, 52, d6, black",1,eyewear
+413080,"o;sunoptics;ac25g, 52, black",1,eyewear
+413081,"o;sunoptics;ac26, 53, turtle",1,eyewear
+413082,"o;sunoptics;ac26b, 53, black",1,eyewear
+413083,"o;sunoptics;ac26d, 53, dark red",1,eyewear
+413084,"o;sunoptics;ac27, 53, turtle",1,eyewear
+413085,o;sunoptics;ac27e/ 53/ dark purple,1,eyewear
+413086,"o;sunoptics;ac29, 53, d1 black",1,eyewear
+413087,"o;sunoptics;ac33f, 55, dark red",1,eyewear
+413088,"o;sunoptics;ac394f, 50, shiny brown",1,eyewear
+413089,"o;sunoptics;ac3d, 51, d1, redish brown",1,eyewear
+413090,"o;sunoptics;ac6, 51, d2, black",1,eyewear
+413091,"o;sunoptics;ac6a, 51, d2, brown",1,eyewear
+413092,"o;sunoptics;ac7, 53, c8, black",1,eyewear
+413093,"o;sunoptics;ac7b, 53, c8, grey",1,eyewear
+413094,"o;sunoptics;ac9f, 52, c8, brown",1,eyewear
+413095,"o;sunoptics;ac9g, 52, d6, bordeaux",1,eyewear
+413096,"o;sunoptics;cp122c, 55, matt turtle",1,eyewear
+413097,"o;sunoptics;cp122f, 55, matt clear grey",1,eyewear
+413098,"o;sunoptics;cp123e, 48, clear brown",1,eyewear
+413099,"o;sunoptics;cp124, 51, clear grey",1,eyewear
+413100,"o;sunoptics;cp124e, 51, clear brown",1,eyewear
+413101,"o;sunoptics;cp128d, 53, blue",1,eyewear
+413102,"o;sunoptics;cp129, 54, milky blue",1,eyewear
+413103,"o;sunoptics;cp129a, 54, milky red",1,eyewear
+413104,"o;sunoptics;cp129d, 54, milky grey",1,eyewear
+413105,"o;sunoptics;cp129e, 54, clear brown",1,eyewear
+413106,"o;sunoptics;cp129f, 54, black",1,eyewear
+413107,"o;sunoptics;cp132a, 54, clear/black",1,eyewear
+413108,"o;sunoptics;cp132b, 54, turtle",1,eyewear
+413109,"o;sunoptics;cp134a, 53, black/clear",1,eyewear
+413110,"o;sunoptics;cp134d, 53, dark clear blue",1,eyewear
+413111,"o;sunoptics;cp134g, 53, soft demi",1,eyewear
+413112,"o;sunoptics;cp136a, 53, turtle",1,eyewear
+413113,"o;sunoptics;cp138, 52, black",1,eyewear
+413114,"o;sunoptics;cp138a, 52, turtle/ brown",1,eyewear
+413115,"o;sunoptics;cp138b, 52, gradient red",1,eyewear
+413116,"o;sunoptics;cp141d,55,a11,dark clear blu",1,eyewear
+413117,"o;sunoptics;cp146f, 50, soft demi",1,eyewear
+413118,"o;sunoptics;cp150, 55, black",1,eyewear
+413119,o;sunoptics;cp150/ 55/ black,1,eyewear
+413120,"o;sunoptics;cp150c, 55, shiny dark brown",1,eyewear
+413121,"o;sunoptics;cp150d, 55, shiny dark blue",1,eyewear
+413122,"o;sunoptics;cp153, 54, black",1,eyewear
+413123,"o;sunoptics;cp153a, 54, turtle/black",1,eyewear
+413124,"o;sunoptics;cp154, 54, black",1,eyewear
+413125,"o;sunoptics;cp154b, 54, turtle",1,eyewear
+413126,"o;sunoptics;cp154d, 54, black/blue",1,eyewear
+413127,"o;sunoptics;cp154e, 54, black/green",1,eyewear
+413128,"o;sunoptics;cp155b, 54, brown/beige",1,eyewear
+413129,"o;sunoptics;cp155f, 54, blue/light blue",1,eyewear
+413130,"o;sunoptics;cp156b, 50, brown",1,eyewear
+413131,"o;sunoptics;cp156d, 50, grey/black",1,eyewear
+413132,"o;sunoptics;cp159a, 53, brown/beige",1,eyewear
+413133,"o;sunoptics;cp159c, 53, dark blue/clear",1,eyewear
+413134,"o;sunoptics;cp159e, 53, turtle",1,eyewear
+413135,"o;sunoptics;cp162b, 54, matt brown",1,eyewear
+413136,"o;sunoptics;cp162d, 54, matt blue",1,eyewear
+413137,"o;sunoptics;cp180b, 54, black/green",1,eyewear
+413138,"o;sunoptics;cp180c, 54, black/burgundy",1,eyewear
+413139,"o;sunoptics;cp180e, 54, turtle",1,eyewear
+413140,"o;swarovski;1002, 51, 4004",1,eyewear
+413141,"o;swarovski;1006, 55, 4013",1,eyewear
+413142,"o;swarovski;1006, 55, 4020",1,eyewear
+413143,"o;swarovski;1007, 53, 4004",1,eyewear
+413144,"o;swarovski;1007, 53, 4021",1,eyewear
+413145,o;swarovski;1007/ 53/ 4004,1,eyewear
+413146,"o;swarovski;1010, 53, 4013",1,eyewear
+413147,"o;swarovski;1010, 53, 4014",1,eyewear
+413148,o;swarovski;1010/ 53/ 4013,1,eyewear
+413149,o;swarovski;1010/ 53/ 4014,1,eyewear
+413150,"o;swarovski;1012, 54, 4013",1,eyewear
+413151,"o;swarovski;1012, 54, 4014",1,eyewear
+413152,"o;swarovski;1013, 54, 4013",1,eyewear
+413153,"o;swarovski;1014, 53, 4001",1,eyewear
+413154,"o;swarovski;1014, 53, 4013",1,eyewear
+413155,"o;swarovski;1014, 53, 4014",1,eyewear
+413156,"o;swarovski;1015, 55, 4004",1,eyewear
+413157,"o;swarovski;2002, 51, 1001",1,eyewear
+413158,"o;swarovski;2002, 51, 1002",1,eyewear
+413159,"o;swarovski;2006, 52, 1001",1,eyewear
+413160,"o;swarovski;2007, 52, 1001",1,eyewear
+413161,"o;swarovski;2007, 52, 1002",1,eyewear
+413162,"o;swarovski;2011, 55, 1038",1,eyewear
+413163,"o;swarovski;2011, 55, 3001",1,eyewear
+413164,"o;swarovski;2015, 53, 1001",1,eyewear
+413165,"o;swarovski;2015, 53, 1002",1,eyewear
+413166,"o;swarovski;2015, 53, 1027",1,eyewear
+413167,"o;swarovski;2017, 52, 1002",1,eyewear
+413168,"o;swarovski;2017, 52, 3003",1,eyewear
+413169,"o;swarovski;2017, 54, 1027",1,eyewear
+413170,"o;swarovski;2020, 52, 1001",1,eyewear
+413171,"o;swarovski;2020, 54, 1002",1,eyewear
+413172,"o;swarovski;2021, 53, 1001",1,eyewear
+413173,"o;swarovski;2028, 51, 1066",1,eyewear
+413174,"o;swarovski;2034, 52, 1001",1,eyewear
+413175,"o;swarovski;2041d, 54, 1070",1,eyewear
+413176,"o;tag heuer;7603, 50, 010",1,eyewear
+413177,"o;tag heuer;th50001u, 54, 005",1,eyewear
+413178,"o;tag heuer;th50001u, 54, 046",1,eyewear
+413179,"o;tag heuer;th50001u, 54, 070",1,eyewear
+413180,"o;tag heuer;th50002u, 51, 005",1,eyewear
+413181,"o;tag heuer;th50002u, 51, 046",1,eyewear
+413182,"o;tag heuer;th50004u, 56, 005",1,eyewear
+413183,"o;tag heuer;th50004u, 56, 024",1,eyewear
+413184,"o;tag heuer;th50007u, 54, 002",1,eyewear
+413185,"o;tag heuer;th50008u, 53, 002",1,eyewear
+413186,"o;tag heuer;th50008u, 53, 020",1,eyewear
+413187,"o;tag heuer;th50008u, 53, 049",1,eyewear
+413188,"o;tag heuer;th50008u, 53, 091",1,eyewear
+413189,"o;tag heuer;th50011i, 51, 005",1,eyewear
+413190,"o;tag heuer;th50011i, 51, 046",1,eyewear
+413191,"o;tag heuer;th50011i, 51, 070",1,eyewear
+413192,"o;tag heuer;th50012i, 54, 005",1,eyewear
+413193,"o;tag heuer;th50012i, 54, 091",1,eyewear
+413194,"o;tag heuer;th50012i, 54, 097",1,eyewear
+413195,"o;tempo bolero;20049k, 53, mp11",1,eyewear
+413196,"o;tempo bolero;20049k, 53, nb09",1,eyewear
+413197,"o;tempo bolero;20049k, 53, rr10",1,eyewear
+413198,"o;tempo bolero;30106l, 50, ng09",1,eyewear
+413199,"o;tempo bolero;40079n, 49, pp06",1,eyewear
+413200,o;tempo jazz ;marma11290 b;54;02blk mat,1,eyewear
+413201,o;tempo jazz ;marma11290 b;54;03blk shin,1,eyewear
+413202,"o;tempo jazz;50047m, 54, md09",1,eyewear
+413203,"o;tempo jazz;50047m, 54, ng07",1,eyewear
+413204,"o;tempo jazz;60053m, 52, gn07",1,eyewear
+413205,"o;tempo jazz;60053m, 52, td08",1,eyewear
+413206,"o;tempo jazz;70455, 47, 9728",1,eyewear
+413207,"o;tempo jazz;70456, 47, 9732",1,eyewear
+413208,"o;tempo jazz;70470, 56, 5200",1,eyewear
+413209,"o;tempo jazz;70477, 57, 5301",1,eyewear
+413210,"o;tempo poco b 0-3;pc69044, 38, 547",1,eyewear
+413211,"o;tempo poco c 6-8;pc69107, 44, 664",1,eyewear
+413212,"o;tempo poco c 6-8;pc69150, 44, 646",1,eyewear
+413213,"o;tempo poco c 6-8;pc69281, 46, 594",1,eyewear
+413214,"o;tempo poco c 6-8;pc69314, 46, 570",1,eyewear
+413215,"o;tempo poco c 6-8;pc69315, 44, 562",1,eyewear
+413216,"o;tempo poco c 6-8;pc69316, 45, 555",1,eyewear
+413217,"o;tempo poco c 6-8;pc69316, 45, 562",1,eyewear
+413218,"o;tempo poco c 6-8;pc69327, 45, 512",1,eyewear
+413219,"o;tempo poco c 6-8;pc69327, 45, 544",1,eyewear
+413220,"o;tempo poco c 6-8;pc69327, 45, 545",1,eyewear
+413221,"o;tempo poco c 6-8;pc69332, 46, 512",1,eyewear
+413222,"o;tempo poco c 6-8;pc69332, 46, 541",1,eyewear
+413223,"o;tempo poco c 6-8;pc69336, 45, 544",1,eyewear
+413224,"o;tempo poco c 6-8;pc69336, 45, 545",1,eyewear
+413225,"o;tempo poco j 9-12;pc 69234, 47, 231",1,eyewear
+413226,"o;tempo poco j 9-12;pc 69239, 48, 248",1,eyewear

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+347625,laparoscopic para-aortic lymphadenectomy,1,procedure
+347626,laparoscopic partial gastrectomy,1,procedure
+347628,laparoscopic peritoneal biopsy,1,procedure
+347629,laparoscopic pyeloplasty - unilateral,1,procedure
+347631,laparoscopic reduction intussusception,1,procedure
+347632,laparoscopic reduction of internal hernia,1,procedure
+347633,laparoscopic release adhesions,1,procedure
+347634,laparoscopic removal of gastric banding,1,procedure
+347635,laparoscopic repair of hiatus hernia,1,procedure
+347636,laparoscopic repair of huge umbilical or incisional hernia with gortex,1,procedure
+347638,laparoscopic resection of renal cyst with embolization,1,procedure
+347639,laparoscopic resection of small bowel tumor,1,procedure
+347640,laparoscopic revision of gastrojejunal anastomosis,1,procedure
+347643,laparoscopic roux y gastric bypass,1,procedure
+347644,laparoscopic roux y gastric bypass (credit,1,procedure
+347646,laparoscopic salphingectomy without blood transfus,1,lab_test
+347648,laparoscopic salpingectomy - unilateral,1,procedure
+347649,laparoscopic salpingo oophorectomy - unilateral,1,procedure
+347650,laparoscopic single anastomoses gastric bypass,1,procedure
+347652,laparoscopic sleeve gastrectomy (lsg,1,procedure
+347655,laparoscopic umbilical hernia with mish / dr. bukhari,1,procedure
+347657,laparoscopic unilateral varicocelectomy,1,procedure
+347661,"laparoscopic access cannula anchor, single-use",1,supplies
+347662,laparoscopic access cannulation/wound closure set,1,procedure
+347663,laparoscopic adhesiolysis mild al rajhi,1,procedure
+347664,laparoscopic adhesiolysis severe nxt,1,procedure
+347668,laparoscopic blunt dissector,1,procedure
+347671,laparoscopic cystolithotomy,1,procedure
+347672,laparoscopic dilation guide rod,1,supplies
+347673,laparoscopic division abdo adhesions,1,procedure
+347675,laparoscopic excision of lesion of pelvic cavity,1,procedure
+347676,laparoscopic exploration dpu / dr. bukhari,1,procedure
+347677,laparoscopic explortion with procedure,1,procedure
+347678,laparoscopic fixation of testis unilateral,1,procedure
+347679,"laparoscopic fixation of testis, unilateral",1,procedure
+347680,laparoscopic gastric mini bypass,1,procedure
+347682,laparoscopic intra-abdominal lymph nodes biopsy,1,procedure
+347683,laparoscopic laparotomy,1,procedure
+347684,laparoscopic left hemicolectomy with anastomosis,1,procedure
+347685,laparoscopic lysis of adhesions,1,procedure
+347691,"laparoscopic ovarian cystectomy, bil",1,procedure
+347692,"laparoscopic ovarian cystectomy, uni",1,procedure
+347693,laparoscopic pelvic floor repair,1,procedure
+347695,laparoscopic repair inguinal hernia unilateral with mesh,1,supplies
+347696,laparoscopic repair of inguinal hernia unilateral,1,procedure
+347697,"laparoscopic repair of inguinal hernia with mesh, unilateral",1,supplies
+347700,"laparoscopic rupture of ovarian cyst or abscess, unilateral",1,procedure
+347701,"laparoscopic salpingo-oophorectomy, uni",1,procedure
+347702,laparoscopic salpingotomy with removal of tubal,1,procedure
+347705,laparoscopic sleeve gastrectomy (bmi >45) pd,1,procedure
+347708,laparoscopic sleeve gastrectomy(bmi>45,1,procedure
+347709,laparoscopic tissue manipulation forceps/working-channel,1,procedure
+347710,"laparoscopic total gastrectomy with d2 coeliac lymphadenectomy, esophagojejunostomy, and jejunojejun",1,procedure
+347711,laparoscopic treatment of ectopic pregnancy; with or without salpingectomy and/or oophorectomy,1,procedure
+347712,laparoscopic treatment of ectopic pregnancy; with salpingectomy and/or oophorectomy,1,procedure
+347713,"laparoscopic trocar blade, reusable",1,supplies
+347714,"laparoscopic trocar blade, single-use",1,supplies
+347715,laparoscopic wound closure thread,1,procedure
+347716,laparoscopic%20cholecystectomy%09,1,procedure
+347723,"laparoscopy , surgical, appendectomy",1,procedure
+347725,laparoscopy --( diagnostic ) p/d,1,procedure
+347726,"laparoscopy ; with aspiration of cavity or cyst (eg, ovarian cyst) (single or multiple",1,procedure
+347728,laparoscopy diagnostic (1d,1,procedure
+347729,laparoscopy ectopi,1,procedure
+347732,laparoscopy p/d,1,procedure
+347734,laparoscopy with ultra low resection with colo anal anastomosis + ileostomy,1,procedure
+347736,laparoscopy surgical cholecystectomy,1,procedure
+347737,laparoscopy surgical myomectomy excision; 1 to 4 intramural myomas with total weight of 250 grams or less and/or removal of surface myomas,1,procedure
+347738,laparoscopy surgical with vaginal hysterectomy for uterus 250 grams or less; with removal of tube(s) and/or ovary(s,1,supplies
+347739,laparoscopy surgical with vaginal hysterectomy for uterus greater than 250 grams,1,procedure
+347740,laparoscopy surgical with vaginal hysterectomy for uterus greater than 250 grams; with removal of tube(s) and/or ovary(s,1,supplies
+347741,"laparoscopy, diagnostic",1,procedure
+347742,"laparoscopy, diagnostic - obgyn",1,procedure
+347743,"laparoscopy, surgical, ablation of renal cysts",1,procedure
+347745,"laparoscopy, surgical, gastric restrictive procedure; longitudinal gastrectomy (ie, sleeve gastrectomy",1,procedure
+347746,"laparoscopy, surgical, repair initial inguinal hernia",1,procedure
+347747,"laparoscopy, surgical, with removal of adnexal structures (partial or total oophorectomy and/or salpingectomy",1,procedure
+347748,"laparoscopy, surgical: with biopsy (single or multiple",1,procedure
+347749,"laparoscopy, surgical: with lysis of adhesions",1,procedure
+347750,"laparoscopy, surgical: with removal of adnexal structures or ectopic pregnancy",1,procedure
+347751,"laparoscopy, surgical: with vaginal hysterectomy",1,procedure
+347752,"laparoscopy, surgical; cholecystectomy",1,procedure
+347753,"laparoscopy, surgical; cholecystectomy-r",1,procedure
+347755,"laparoscopy, surgical; with fulguration or excision of lesions of the ovary, pelvic viscera, or peritoneal surface by any method",1,procedure
+347756,"laparoscopy, surgical; with lysis of adhesions (salpingolysis, ovariolysis) (separate procedure",1,procedure
+347757,"laparoscopy, surgical; with removal of adnexal structures (partial or total oophorectomy and/or salpingectomy",1,procedure
+347758,"laparoscopy, surgical; with retroperitoneal lymph node sampling (biopsy), single or multiple",1,procedure
+347759,laparoscopy; remove adnexa,1,procedure
+347762,laparotomy - exploratory,1,procedure
+347763,laparotomy exploration w/w/out biopsy,1,procedure
+347765,laparotomy for ectopic pregnancy with histopathology,1,lab_test
+347767,laparotomy sponge 12x12,1,supplies
+347768,laparotomy with resection of rectosigmoid tumor,1,procedure
+347769,laparotomy abdominal hysterectomy ± bso,1,procedure
+347770,laparotomy for small bowel obstruction without res,1,procedure
+347771,laparotomy for small bowel obstruction with bowel,1,procedure
+347772,laparotomy for an ectopic pregnancy,1,procedure
+347774,laparotomy salpingo/oophrectomy bilateral,1,procedure
+347775,laparotomy with excision of duplicated gastroduodenal cyst,1,procedure
+347776,laparotomy with ultra low resection with colo-anal anastomosis + ileostomy,1,procedure
+347777,laparotomy with and without procedure,1,procedure
+347778,laparotomy with/without procedure - exploration,1,procedure
+347781,laparotomy(ovarian mass ectopic pregnancy,1,procedure
+347782,"laparotomy, for staging or restaging of ovarian, tubal or primary peritoneal malignancy (second look), with or without omentectomy, peritoneal was",1,procedure
+347783,"laparotomy,excision of intra - or retroperitoneal tumor",1,procedure
+347784,laparscopic inguinal hernia (bilateral) (2d,1,procedure
+347785,laparscopic inguinal hernia (unilateral) (2d,1,procedure
+347787,lapartomy with without procedure,1,other
+347789,lapartomy without procedure,1,other
+347790,lapascopic sleeve gastrectomy,1,procedure
+347792,laporotomy without procedure,1,procedure
+347797,laprascopic repair of perfurated duodenal ulcer,1,procedure
+347806,laproscopic anterior resection for colon cancer or rectum,1,procedure
+347807,laproscopic appendectomy,1,procedure
+347808,laproscopic cholecytectomy,1,procedure
+347809,laproscopic diaphrag hernia,1,procedure
+347810,laproscopic excision of abdominal mass/cyst,1,procedure
+347812,laproscopic repair of hiatus hernia,1,procedure
+347813,laprotomy for acute abdomen exploration,1,procedure
+347814,laprotomyforacuteabdomenexploration,1,other
+347815,larg burn dressing mor than 25%,1,supplies
+347818,large bandage,2,supplies
+347820,large abscess drainage ( or deep,1,procedure
+347824,large abscess drainage or deep / big any area la,1,procedure
+347825,large abscess drainage or deep big any area la,1,procedure
+347826,large abscess evacuation,1,procedure
+347829,"large bioinductive implant with arthroscopic delivery system (gen 3.5), sterile, smith & nephew, 72205307",1,supplies
+347831,large biopsy for histopath,1,lab_test
+347832,large biposy aspiration,1,procedure
+347833,large bum,1,other
+347834,large burn,1,other
+347837,large d lipoma,1,other
+347838,large d.lipoma,3,other
+347839,large drape,1,supplies
+347840,large dress,2,procedure
+347842,large dressing 30055-00-30,1,supplies
+347843,large dressing - 3012,1,supplies
+347844,large dressing 1,1,supplies
+347845,large dressing a,2,supplies
+347846,large dressing a in e.r,1,supplies
+347848,large dressing a. in orthopedic dept,1,supplies
+347849,large dressing a. in surgery dept,1,supplies
+347850,large dressing b,2,supplies
+347851,large dressing b in e.r,1,supplies
+347853,large dressing b. in orthopedic dept,1,supplies
+347854,large dressing b. in surgery dept,1,supplies
+347855,large dressing c in e.r,1,supplies
+347856,large dressing c. in orthopedic dept,1,supplies
+347857,large dressing c. in surgery dept,1,supplies
+347858,large dressing i,1,supplies
+347859,large dressing ii,1,supplies
+347860,large dressing multiple are,1,supplies
+347863,large dressing in inpt. dept,1,supplies
+347865,large drssing d,1,other
+347866,large drssing d. in surgery dept,1,procedure
+347867,large eent split sheet cs/16,1,other
+347868,large excision specimen,1,procedure
+347869,large incision drainage under l a,1,procedure
+347870,large incision drainage under l/a,2,procedure
+347871,large incisional hernia w/out mesh,1,supplies
+347873,large latex bandage,1,supplies
+347874,large latex bandage 1120158,1,supplies
+347875,large lipoma,1,other
+347876,large sebaceous cyst,1,other
+347877,large size specimen for histopathology r - ?????,1,lab_test
+347879,large skin flaps,1,other
+347880,large soft tissue resection,1,procedure
+347882,large wound dressing ???? ????,1,supplies
+347883,large wound stitch,1,procedure
+347886,large abscess drainage .l.a,1,procedure
+347887,large abscess incis,1,procedure
+347888,large abscess incision,1,procedure
+347889,large absses incision,1,procedure
+347890,large area burn dressing more than 25%,1,supplies
+347892,large closed dressing,1,supplies
+347893,large composite filling,1,dental
+347895,large cyst excision,1,procedure
+347897,large debridement,1,procedure
+347900,large dressing 2 diferent area,1,supplies
+347901,large dressing for one area,1,supplies
+347902,large dressings,2,other
+347903,large filling,1,dental
+347904,large foreign body extract ea,1,procedure
+347907,large incisional hernia repair with mesh (hernioplasty,1,supplies
+347910,large skin wound stitches l/a,1,procedure
+347912,large%20abscess%20drainage%20(%20or%20deep%20%2f%20big%20)%20any%20area%20la,1,imaging
+347914,laroza,1,other
+347921,larpro ovarian crystectomy with lab investigation (package,1,procedure
+347922,larproovariancrystectomy,1,procedure
+347923,laryngeal electrode select for tube with 6-7 mm inner diameter#530855 inomed,1,supplies
+347924,laryngeal endoscopic examination,1,procedure
+347925,laryngeal mask no,1,supplies
+347926,"laryngeal mask airway silicon, size 3 (disposable",1,supplies
+347927,"laryngeal mask airway silicon, size 4 (disposable",1,supplies
+347929,laryngeal airway introducer,1,supplies
+347930,"laryngeal mask airway, reusable",1,supplies
+347931,"laryngeal mask airway, single-use",1,supplies
+347935,laryngoscope set,1,other
+347936,"laryngoscope blade, single-use",1,supplies
+347937,laryngoscopic removal of vocal cord polyp,1,procedure
+347939,laryngoscopy (fiberoptic or rigid scope) (opd,1,procedure
+347942,laryngoscopy wlbiopsy additional procedure dc,1,procedure
+347946,"laryngoscopy, flexible fiberoptic, diagnostic",1,procedure
+347947,"laryngoscopy, flexible or rigid fiberoptic, with stroboscopy",1,procedure
+347948,"laryngotracheitis and epiglottitis, minor complexity",1,inpatient
+347949,"larynogoscopy,flexible fiberscopic diagnostic",1,procedure
+347950,"larynx, biopsy",1,procedure
+347951,"larynx, neoplastic, total, partial",1,other
+347952,lasek both eyes,1,other
+347953,lasek operation (both eyes,1,procedure
+347955,laser (yag) peripheral iridoctomy treatment (one eye,1,supplies
+347956,laser (yag) posterior capsulatomy treatment (one eye,1,supplies
+347957,laser (yag) slt (one eye,1,supplies
+347958,laser appointment,1,procedure
+347960,laser capapsulotomy,1,procedure
+347961,laser capsulotomy (one sitting,1,supplies
+347962,laser capsulotomy - los dpu,1,procedure
+347963,laser capsulotomy bupa,1,procedure
+347964,laser capsulotomy-pkg,1,procedure
+347967,laser fiber kit #503100185,1,procedure
+347968,laser for retinopathy 2 setting,1,procedure
+347970,laser hair r. mustache,1,procedure
+347971,laser hair rem.full legs.3s,1,procedure
+347972,laser hair removal - back - female,1,procedure
+347973,laser hair removal - chest - female,1,procedure
+347974,laser hair removal - full back - chest - female,1,procedure
+347975,laser hair removal - full body - 3 sessions - offer,1,physiotherapy
+347980,laser pt,1,procedure
+347981,laser panretinal photocoagulation ( prp ) ( 1 eye,1,procedure
+347982,laser panretinal photocoagulation ( prp ) ( 2 eyes,1,procedure
+347983,laser panretinal photo. (1eye/multiple sittings,1,procedure
+347984,laser panretinal photocoagulation (prp) pascal,1,procedure
+347987,laser photoiridosyneresis,2,procedure
+347988,laser photorefractive keratotomy prk (both eyes,1,procedure
+347989,laser removal of pilonidal cyst (silac,1,procedure
+347991,laser suture lysis,1,supplies
+347993,laser therapy (30 mint,1,physiotherapy
+347994,laser therapy / ?????? ???????,1,physiotherapy
+347995,laser trebeculoplasty,1,procedure
+347996,laser by indirect opthalmoscopy (adult one eye,1,supplies
+347997,laser by indirect ophthalmoscopy for rop (one eye,1,supplies
+347998,laser for diabetic retinopathy (d.r. laser) - 3 sessions,1,physiotherapy
+348001,laser in situ keratomileusis (lasik) - one eye,1,supplies
+348002,laser or mechanichal goniosynecholysis,1,procedure
+348003,"laser or mechanichal goniosynecholysis, unilateral",1,procedure
+348004,"laser photcoag continuous, blood vessels",1,lab_test
+348005,laser photocoagulation /eye/setting,1,procedure
+348006,"laser photocoagulation of cutaneous vascular lesions, pulsed laser, extensive area",1,procedure
+348009,laser retinopexy one eye,1,supplies
+348010,"laser to lesion of skin, 1 to 14 lesions",1,procedure
+348011,"laser to lesion of skin, 15 or more lesions",1,procedure
+348012,laser-haemorroidoplasty,1,procedure
+348013,"lasering, secondary cataract, unilateral (each session) - capsulotomy",1,physiotherapy
+348015,lashes epilation,1,procedure
+348016,lashes removal l-eye ????? ???? ?? ????? ????,1,procedure
+348017,lashes removal r-eye ????? ???? ?? ????? ??????,1,procedure
+348019,lasik -laser (keratomaleuss) one (1) eye,1,supplies
+348020,lasik both eyes,2,other
+348021,lasik work up,2,other
+348023,lasik work-up (including visit & investigation,1,consultation
+348131,lasix40mg20tab,1,other
+348133,lasso sd wire loop,1,supplies
+348149,late pregnancy u/s (after 3 months,1,imaging
+348150,lateral / medial condyle #orif/ga,1,procedure
+348152,lateral cephalogram,1,other
+348153,lateral cephelometric,1,other
+348154,"lateral connector, different size",1,other
+348155,lateral ligament of the ankle reconstruction,1,procedure
+348156,lateral ligament repair of the ankle (brostrom procedure,1,procedure
+348157,lateral ligament repair of the ankle (brostrom procedure) with material anchors,1,procedure
+348158,lateral ligament repair of the ankle (brostrom procedure) without material anchors,1,procedure
+348159,lateral ligament of the ankle reconstruction with material anchor,1,procedure
+348161,"lateral neck soft tissue "" adenoid",1,other
+348163,lateral release of soft tissue,1,procedure
+348164,lateral retinacular release - knee,1,procedure
+348165,"lateral ttc plate, standard, right#p53-402-r101",1,supplies
+348166,lateral view nasopharynx,1,imaging
+348167,lateral view neck x-ray,1,imaging
+348169,lateral sinus x-ray,1,imaging
+348172,latex (k82) ige,1,lab_test
+348173,latex - ra,1,lab_test
+348177,latex gloves p/f large,1,supplies
+348178,latex gloves p/f medium,1,supplies
+348179,latex gloves p/f small,1,supplies
+348183,"latex non-powdered gloves, large",1,supplies
+348184,"latex non-powdered gloves, medium",1,supplies
+348185,"latex non-powdered gloves, small",1,supplies
+348186,"latex non-powdered gloves, xl",1,supplies
+348188,latex ra,1,lab_test
+348190,latino m blk,1,other
+348191,latino-m(blk,1,other
+348192,latral cephalomatric,1,other
+348193,launcher guiding catheter jl 3.5,1,supplies
+348194,launcher guiding catheter jl 4,1,supplies
+348195,launcher guiding catheter jr 4,1,supplies
+348196,laureate hydrophilic guide wire 0.035x150cm,1,supplies
+348197,laurence tawfiq,1,other
+348238,lavistina16mg40tabs,1,other
+348283,layer closure woundface/ears/eyes lids/nose/lips/mucous membrane 2.0cm,1,procedure
+348284,layer closure woundface/ears/eyes lids/nose/lips/mucous membrane 2.0cm-5.0cm,1,procedure
+348286,"layer closure of wounds of neck, hands, feet and/or external genitalia; 2.6 cm to 7.5 cm",1,procedure
+348287,"layer closure of wounds of scalp, axillae, trunk and/or extremities (excluding hands and feet); 12.6 cm to 20.0 cm",1,procedure
+348316,ldl ? chol,1,lab_test
+348318,ldl cholesterol - ????????? ????? ??????? (??????,1,lab_test
+348322,ldl3fchol,1,other
+348324,le club,1,other
+348325,le guron-m(blk,1,other
+348326,le guron-m(sblk,1,other
+348327,le guron-m(sblk) - hsshlg206c1,1,other
+348331,lead (blood) my pbbd-29,1,lab_test
+348332,lead change with full test for dual pacemaker,1,lab_test
+348333,lead change with full test for single pacemaker,1,lab_test
+348334,lead revision,1,procedure
+348336,"lead, blood",1,lab_test
+348337,lead; quant,1,lab_test
+348338,leadless permanent pacemaker implantation,1,supplies
+348339,"leadless vdd pacemaker, micra-av, mc1avr1",1,supplies
+348340,learning difficulties assessment,1,consultation
+348341,learning difficulties session,1,physiotherapy
+348342,leather diabetic shoes - (ms,1,other
+348358,left . calcenum lat and axial,1,imaging
+348359,left ankle three views,1,imaging
+348360,left ankle two views,1,imaging
+348361,left arm 2 views,1,imaging
+348362,left arm 3 views,1,imaging
+348363,left calcaneum two views,1,imaging
+348364,left cardiac catheterization + double vessels angioplasty + stenting,1,procedure
+348365,left cardiac catheterization + single vessel angioplasty + stenting,1,procedure
+348366,left cardiac catheterization with coronary angiogram,1,imaging
+348367,left elbow joint three views,1,imaging
+348368,left elbow joint two views,1,imaging
+348369,left foot three views,1,imaging
+348370,left foot two views,1,imaging
+348371,left fore arm 2 views,1,imaging
+348372,left fore arm 3 views,1,imaging
+348373,left hand 2 views,1,imaging
+348374,left hand 3 views,1,imaging
+348376,left heart catheterisation,2,procedure
+348377,left heart catheterization lhc left ventricu,1,procedure
+348379,left heart catheterisation + graft,1,procedure
+348380,left heel three views,1,imaging
+348381,left heel two views,1,imaging
+348383,left hip joint three views,1,imaging
+348384,left hip joint two views,1,imaging
+348385,left knee three views,1,imaging
+348386,left knee two views,1,imaging
+348388,left leg three views,1,imaging
+348389,left leg two views,1,imaging
+348390,left partial hepatectomy,1,procedure
+348391,left radical hemicolecolectomy,1,procedure
+348392,left sided colonoscopy,1,procedure
+348393,left thigh three views,1,imaging
+348394,left thigh two views,1,imaging
+348395,left thoracoscopy sympathectomy,1,procedure
+348396,left wrist joint three views,1,imaging
+348397,left wrist joint two views,1,imaging
+348398,left diagnostic thoracoscopy plueral,1,procedure
+348399,left heart catheterization,1,procedure
+348401,"left heart catheterization, retrograde, from the brachial artery: percutaneous",1,procedure
+348402,"left heart catheterization, retrograde, from the radial artery, brachial artery, axillary artery, or femoral artery percutaneous or by surgical cutdown",1,procedure
+348403,"left heart catheterization, retrograde, from the radial artery, brachial artery, axillary artery, or femoral artery: percutaneous or by surgical cutdown",1,procedure
+348404,"left heart catheterization, retrograde, from the radial artery, brachial artery, axillary artery, or femoral artery: percutaneous or by surgical cutdown-r",1,procedure
+348406,left shoulder joint three views,1,imaging
+348407,left shoulder joint two views,1,imaging
+348408,left/right lateral anal sphincterotomy,1,procedure
+348412,leg apl -2v,1,imaging
+348414,leg & ankle -3 views,1,imaging
+348415,leg & ankle 2 views -single,1,imaging
+348417,leg ( 2 v )-leg ( 2 v,1,other
+348418,leg (2 views,1,imaging
+348419,leg (2v,1,imaging
+348420,leg (a.p,1,lab_test
+348422,leg (tibia - fibula) unilateral x- ray 2 views,1,eyewear
+348423,leg (tibia fibula) unilateral x ray 1 view,1,imaging
+348424,leg (tibia fibula) unilateral x ray 2 views,1,imaging
+348427,leg (one views,1,supplies
+348428,leg (tibia / fibula) 2 views,1,imaging
+348430,leg (two views) x-ray,1,imaging
+348437,leg -both 4 views,1,imaging
+348439,leg 2 pos,1,other
+348440,leg 2 view (tibia & fibula,1,imaging
+348442,leg 2 views ????? ????? ?????,1,imaging
+348443,leg 2 views a.p and lateral,1,imaging
+348445,leg 2 view-(tibia&fibula,1,imaging
+348447,leg 2 views[15.38,1,imaging
+348449,leg 2f,1,imaging
+348454,leg ap lat vs,1,imaging
+348455,leg ap & lat 2 view,1,imaging
+348457,leg ap & lateral 2 view,1,imaging
+348458,leg ap & lateral view,1,imaging
+348460,leg apl - 2v,1,imaging
+348461,leg apl 2v,1,imaging
+348465,leg bone a p & lat-5032,1,imaging
+348467,leg bones a.p and lat,1,imaging
+348468,"leg cast water proof cover knee height reusable vinyl 1""s",1,supplies
+348469,"leg cast water proof cover thigh height reusable vinyl 1""s",1,supplies
+348471,leg lat. view,1,imaging
+348474,leg x-ray (ap & lat,1,imaging
+348475,leg x-ray (ap & lat) ???? ??? ?????,1,imaging
+348477,leg x-ray 2 view,1,imaging
+348479,leg ap&lat 2v,1,imaging
+348480,leg cast protector,1,supplies
+348481,leg joint 3 views,1,imaging
+348482,leg or ankle 2 views,1,imaging
+348483,leg or ankle 2-views,1,imaging
+348484,leg perforator ligation multiple,1,procedure
+348485,"leg splint system, thermoplastic",1,supplies
+348487,leg with ankle - a p + lateral,1,lab_test
+348488,leg xray,1,imaging
+348490,leg/2 views,1,imaging
+348491,leg1 view,1,imaging
+348492,legacy reduction screw 5.5mm,1,supplies
+348493,legacy reduction set screw,1,supplies
+348501,legalon forte meda 30cap,1,other
+348504,"legend 8 cm , 2.3 mm tapered for footed a",1,other
+348505,legend 8cm 2.3mm tapered #f2/8ta23,1,other
+348507,legionella antibody send out un,1,lab_test
+348508,"legionella direct eia, urine",1,lab_test
+348509,legionella pneumonia ag in urine,1,lab_test
+348510,legionella pneumophila serogroup 1 antigen,1,lab_test
+348511,legionella pneumphila ag,1,lab_test
+348513,"legionella, direct ifa",1,other
+348514,leguron-m(brn,1,other
+348515,leguron-m(gun,1,other
+348517,leigeonella direct,1,other
+348518,leiomyoma,1,other
+348520,leishmania ab send out un,1,lab_test
+348525,leishmaniasis - confirmation serology - serum,1,lab_test
+348526,leishmaniasis pcr,1,lab_test
+348527,"leiter international performance scale, third edition",1,lab_test
+348537,lemilan 100 fr c:3,1,eyewear
+348538,lemilan 100 fr c:4,1,eyewear
+348539,lemilan 102 fr c:2,1,eyewear
+348540,lemilan 105 fr c:2,1,eyewear
+348541,lemilan 106 fr c:1,1,eyewear
+348542,lemilan 109 fr c:1,1,eyewear
+348543,lemilan 109 fr c:4,1,eyewear
+348544,lemilan 111 fr c:2,1,eyewear
+348545,lemilan 111 fr c:5,1,eyewear
+348546,lemilan 117 fr c:1,1,eyewear
+348547,lemilan 117 fr c:3,1,eyewear
+348548,lemilan 118 fr c:2,1,eyewear
+348549,lemilan 120 fr c:4,1,eyewear
+348550,lemilan 121 fr c:1,1,eyewear
+348551,lemilan 121 fr c:2,1,eyewear
+348552,lemilan 121 fr c:3,1,eyewear
+348553,lemilan 121 fr c:4,1,eyewear
+348554,lemilan 122 fr c:3,1,eyewear
+348555,lemilan 127 fr c:4,1,eyewear
+348556,lemilan 132 fr c:2,1,eyewear
+348557,lemilan 132 fr c:4,1,eyewear
+348558,lemilan 133 fr c:1,1,eyewear
+348559,lemilan 133 fr c:2,1,eyewear
+348560,lemilan 133 fr c:3,1,eyewear
+348561,lemilan 133 fr c:5,1,eyewear
+348562,lemilan 134 fr c:1,1,eyewear
+348563,lemilan 135 fr c:1,1,eyewear
+348564,lemilan 137 fr c:3,1,eyewear
+348565,lemilan 137 fr c:4,1,eyewear
+348566,lemilan 139 fr c:1,1,eyewear
+348567,lemilan 139 fr c:4,1,eyewear
+348568,lemilan 140 fr c:2,1,eyewear
+348569,lemilan 141 fr c:1,1,eyewear
+348570,lemilan 141 fr c:2,1,eyewear
+348571,lemilan 142 fr c:1,1,eyewear
+348572,lemilan 143 fr c:1,1,eyewear
+348573,lemilan 143 fr c:2,1,eyewear
+348574,lemilan 143 fr c:3,1,eyewear
+348575,lemilan 143 fr c:4,1,eyewear
+348588,lemilan 166 fr c:1,1,eyewear
+348589,lemilan 166 fr c:2,1,eyewear
+348590,lemilan 166 fr c:3,1,eyewear
+348591,lemilan 167 fr c:2,1,eyewear
+348592,lemilan 168 fr c:2,1,eyewear
+348593,lemilan 168 fr c:3,1,eyewear
+348594,lemilan 169 fr c:1,1,eyewear
+348595,lemilan 169 fr c:2,1,eyewear
+348596,lemilan 171 fr c:1,1,eyewear
+348597,lemilan 171 fr c:3,1,eyewear
+348600,lemilan 3077 wx fr c:1,1,eyewear
+348601,lemilan 3080 wx fr c:3,1,eyewear
+348602,lemilan 3083 wx fr c:3,1,eyewear
+348603,lemilan 66172 fr c:1,1,eyewear
+348604,lemilan 66240 fr c:3,1,eyewear
+348605,lemilan 66273 fr c:4,1,eyewear
+348618,lenamid,1,other
+348622,lengthening of achilles' tendon,1,procedure
+348623,lengthening of tendon achilles (unilateral,1,procedure
+348624,"lengthening of tendon, nec, unilateral",1,procedure
+348625,"lengthening of tendon, not elsewhere classified, unilateral",1,procedure
+348626,"lengthening or shortening of flexor or extensor tendon, forearm and/or wrist, single, each tendon",1,procedure
+348627,lengthening/shortening flexor/extensor tendon (each,1,procedure
+348628,lenova,1,other
+348630,lens aspiration with anterior vitrectomy,1,eyewear
+348631,lens cr-39 1.50 cy -0.25/-0.25,1,eyewear
+348632,lens cr-39 1.50 cy -0.25/-0.50,1,eyewear
+348633,lens cr-39 1.50 cy -0.25/-2.00,1,eyewear
+348634,lens cr-39 1.50 cy -0.25/-2.25,1,eyewear
+348635,lens cr-39 1.50 cy -0.50/-0.00,1,eyewear
+348636,lens cr-39 1.50 cy -0.50/-0.75,1,eyewear

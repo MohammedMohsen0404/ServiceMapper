@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+229533,first class accommodation - 238,1,eyewear
+229534,first class accommodation - 239,1,eyewear
+229535,first class accommodation - 307b,1,eyewear
+229536,first class accommodation - 314,1,eyewear
+229537,first class accommodation - 317,1,eyewear
+229538,first class accommodation - 318,1,eyewear
+229539,first class accommodation - 319,1,eyewear
+229540,first class accommodation - 320,1,eyewear
+229541,first class accommodation - 322,1,eyewear
+229542,first class accommodation - 323,1,eyewear
+229543,first class accommodation - 329a,1,eyewear
+229544,first class accommodation - 331c,1,eyewear
+229545,first class accommodation - 401,1,eyewear
+229546,first class accommodation - 402,1,eyewear
+229547,first class accommodation - 403,1,eyewear
+229548,first class accommodation - 405,1,eyewear
+229549,first class accommodation - 412,1,eyewear
+229550,first class accommodation - 413,1,eyewear
+229551,first class accommodation - 416,1,eyewear
+229552,first class accommodation - 417,1,eyewear
+229553,first class accommodation - 424-aa,1,eyewear
+229554,first class accommodation - 424-cc,1,eyewear
+229555,first class accommodation - 427-aa,1,eyewear
+229556,first class accommodation - 428-aa,1,eyewear
+229557,first class accommodation - 429-aa,1,eyewear
+229558,first class accommodation - 430,1,eyewear
+229559,first class accommodation - 431-aa,1,eyewear
+229560,first class accommodation - 432-aa,1,eyewear
+229561,first class accommodation - 433-aa,1,eyewear
+229562,first class accommodation - 434-aa,1,eyewear
+229563,first class accommodation - 435-aa,1,eyewear
+229564,first class accommodation - 439,1,eyewear
+229565,first class accommodation - 444,1,eyewear
+229566,first class accommodation - bed-07,1,eyewear
+229567,first class accommodation - bed-09,1,eyewear
+229568,first class accommodation - bed-12,1,eyewear
+229569,first class accommodation - bed-24,1,eyewear
+229570,first class accommodation - d1,1,eyewear
+229571,first class accommodation - day case 11,1,eyewear
+229572,first class accommodation - day case 16,1,eyewear
+229573,first class accommodation - day case 9,1,eyewear
+229574,first class accommodation - dcw-01,1,eyewear
+229575,first class accommodation - dr-dr12,1,eyewear
+229576,first class accommodation - er-exam,1,eyewear
+229577,first class accommodation- 206a,1,eyewear
+229578,first class accommodation- 207a,1,eyewear
+229579,first class accommodation- 221,1,eyewear
+229580,first class accommodation- 235,1,eyewear
+229581,first class accommodation- 240,1,eyewear
+229582,first class accommodation- 314,1,eyewear
+229583,first class accommodation- 318,1,eyewear
+229584,first class accommodation- 424-cc,1,eyewear
+229585,first class accommodation- 427-aa,1,eyewear
+229586,first class accommodation- 430,1,eyewear
+229587,first class accommodation- 431-aa,1,eyewear
+229588,first class accommodation- bed-09,1,eyewear
+229589,first class accommodation- day case 11,1,eyewear
+229590,first class accomodation,2,other
+229591,first class accomodation ws00520002,1,other
+229592,first class facilities - 207a,1,consultation
+229593,first class medical supervision,1,consultation
+229595,first class nursing care,1,consultation
+229596,first class paediatric room - medical care,1,consultation
+229597,first class room,2,consultation
+229598,first class room (per day / day case,1,consultation
+229599,first class room + 1 guest,1,consultation
+229600,first class room- 236a,1,consultation
+229601,first class room-including consumables,1,consultation
+229602,first class- 226,1,other
+229603,first class- 402,1,other
+229604,first cosmetic suturing stitch,1,procedure
+229605,first deep stitch,1,procedure
+229606,first degree burn ( small,1,other
+229607,first degree burn dressing(small,1,supplies
+229608,first dental examination - company,1,dental
+229609,first dental visit - includes examination / charting/ treatment plan / cost estimation and the necessary x-rays,1,dental
+229610,first dental examination,1,dental
+229611,first e.n.t. examination - cash,1,consultation
+229612,first e.n.t. examination - company,1,consultation
+229613,first elastic bandage 10cm,1,supplies
+229614,first eye examination,1,consultation
+229615,first eye examination - cash,1,consultation
+229616,first eye examination - company,1,consultation
+229617,first eye examination - net price,1,consultation
+229618,first eye examination - specialist,1,consultation
+229619,first eye examination consultant,1,consultation
+229620,first hour (operating room,1,consultation
+229621,first implant -open flap,1,supplies
+229622,first internal medicine examination,1,consultation
+229623,first meta tarso phalangeal front debridement (cheilectomy,1,procedure
+229624,first metatarsophalangeal joint fusion,1,procedure
+229625,first metatarsophalangeal joint fusion (implant not included,1,supplies
+229626,first nutrition consultation (new,1,consultation
+229627,first nutriton consultaion (new,1,other
+229628,first pass mini left suture pass,1,supplies
+229629,first pass mini right suture passer,1,supplies
+229630,first rib resection-5days pkg,1,procedure
+229631,"first semister - ultrasound, pregnant uterus, real time with image documentation, 1 or more fetuses",1,imaging
+229632,first specialist,3,consultation
+229633,first stage flap release - unilateral,1,procedure
+229634,first stage of total knee revisionimplant not included,1,other
+229635,first step cohesive bandage 7.5cm*4.5m,1,supplies
+229636,first step endodontic treatment,2,dental
+229637,first step fix non-woven dres,1,other
+229638,first step plus bandage 5 cm,1,supplies
+229639,first step swimming ear plug,1,other
+229640,first step pregnancy test pen,1,lab_test
+229641,first superficial stitch,1,procedure
+229642,first trim. abort. 1-3 mon,1,other
+229643,first trimaster pregnency - usg,1,imaging
+229644,first trimester obstetric ultrasound,1,imaging
+229645,first trimester screening - pregnancy associated plasma protein (papp,1,lab_test
+229646,first trimester ultrasound,1,imaging
+229647,first visit,2,consultation
+229648,first visit - consultant,2,consultation
+229649,first visit - consultantincluding (visual acuity intraocular pressure with puff autorefration with autorefractor and undilated fundoscopy,1,diagnostic
+229650,first visit - lenses - optometrist,1,eyewear
+229651,first visit - ocuplastic,1,consultation
+229652,first visit - pediatric,2,consultation
+229653,first visit - specialist,2,consultation
+229654,first visit - specialist including (visual acuity intraocular pressure with puff autorefration with autorefractor and undilated fundoscopy,1,diagnostic
+229655,first visit -utorefration with autorefractor an consultantincluding (visual acuity intraocular pressure with puff ad undilated fundoscopy,1,diagnostic
+229656,first visit consultant,1,consultation
+229657,first visit gp,1,consultation
+229658,first visit lenses optometrist,1,eyewear
+229659,first visit pediatric,1,consultation
+229660,first visit resident,1,consultation
+229661,first visit senior consultant,1,consultation
+229662,first visit specialist,1,consultation
+229663,first visit- consultant,1,consultation
+229664,first visit- specialist,1,consultation
+229665,first visit-consultant,1,consultation
+229666,first visit/specialist,1,consultation
+229667,firstclass,2,other
+229668,firstclass - accommodation,1,eyewear
+229669,firstclass - medical supervision,2,consultation
+229671,firstclass- medical supervision,1,consultation
+229672,"firstpass, needle and suture, capture, 22-4036",1,supplies
+229673,fish - slides s -(send-out tests,1,lab_test
+229674,fish (cod) food allergen,1,lab_test
+229675,fish (flourescence in-situ bybridi sation,1,lab_test
+229676,fish (one probe,1,lab_test
+229677,fish (three probes,1,lab_test
+229678,fish (two probes,1,lab_test
+229679,fish - blood s -(send-out tests,1,lab_test
+229680,fish b-cell chronic lymphocytic leukemia,1,lab_test
+229681,"fish bcr / abl1, translocation (9:22), bone marrow or whole",1,imaging
+229682,fish bcr/abl1 translocation,1,lab_test
+229683,fish for cll (blood,1,lab_test
+229684,fish for philadelphia chromosome (bcr-abl,1,lab_test
+229685,fish for pml-rara promyelocytic leukemia,1,lab_test
+229686,fish her2-neu,1,lab_test
+229688,fish oil rich in omega-3-acids|refined soybean oil|refined olive oil|medium chain triglycerides,1,lab_test
+229689,fish panel for acute myeloid leukemia (aml,1,lab_test
+229690,fish panel for all (full panel,1,lab_test
+229691,fish philadelphia chromosome,1,lab_test
+229692,fish screening+amniotic fluid,1,lab_test
+229693,"fish, b-cll panel (q",1,lab_test
+229694,"fish, mds/myeloid panel, -5/5q-, -7/7q-, +8,20q",1,lab_test
+229695,fisher & paykell humidifier/day use,1,other
+229696,fisher paykell humidifier/day use,1,other
+229697,fisher price,1,consultation
+229698,fisher price frm fpv19/527/15/36,1,eyewear
+229699,fisher price frm kids 023/680,1,eyewear
+229700,fisher price kids frm,1,eyewear
+229701,fisher price kids frm 30/520/38/14,1,eyewear
+229702,fisher price kids frm fpv28 520/43/13,1,eyewear
+229703,fisher price opt fpv11 ful pls 36 pnk k,1,eyewear
+229704,fisher pricefpv11 c414 = 07/2017,1,other
+229705,fisher pricefpv25 330=2/2013,1,other
+229706,fisher pricefpv25 380=2/2013,1,other
+229707,fisher pricepv29 520,1,other
+229734,fisrt visit - ocu,1,consultation
+229735,fisrt visit glaucoma,1,consultation
+229736,fissur sealant for one teeth,1,dental
+229737,fissure and/or surface sealing; per tooth,2,dental
+229741,fissure sealant,3,procedure
+229742,fissure sealant (each jaw,1,procedure
+229743,fissure sealant (per tooth,1,dental
+229744,fissure sealant application,1,procedure
+229745,fissure sealant per tooth,4,dental
+229747,"fissure sealant, per tooth",2,dental
+229748,fissure sealants/tooth,1,dental
+229749,fissure sealent teeth,1,dental
+229750,fissure sealing in decidous teeth,1,dental
+229751,fissure sealing per tooth (paedo,1,dental
+229752,fissure.sealant /quqdrant,1,procedure
+229753,fissure/fistula,1,procedure
+229754,fissurectomy,3,procedure
+229755,fissurectomy (excision of anal fissure,2,procedure
+229757,fissurectomy (excision of anal fissure). - 2 days,1,procedure
+229758,fissurectomy + fistulectomy,1,procedure
+229759,fissurectomy + haemorrhoidectomy,1,procedure
+229760,fissurectomy + haemorroidectomy,1,procedure
+229761,fissurectomy + hemorrhoidectomy,1,procedure
+229762,fissurectomy - lateral internal sphinecterotomy,1,procedure
+229763,fissurectomy -package,1,procedure
+229764,fissurectomy anus [2,1,procedure
+229765,fissurectomy plus sphinctrotomy under g.a,1,procedure
+229766,fissurectomy w/out sphinectorotomy,1,procedure
+229767,fissurectomy with lateral sphincterotomy,1,procedure
+229768,fissurectomy with or without sphincterotomy,2,procedure
+229769,fissurectomy with sphincterotomy,1,procedure
+229770,fissurectomy with sphincterotomy lat.-posterior +anaplasty,1,imaging
+229771,fissurectomy(anal,1,procedure
+229772,fissurectomy(excision of anal fissure,1,procedure
+229774,fissurectomy+sphinctrotom,1,procedure
+229775,fissurectomy+sphinctrotom.(pkg,1,procedure
+229776,"fissurectomy, with or without sphincterotomy",3,procedure
+229777,fistelo gram,1,lab_test
+229778,fistula,1,other
+229779,fistula - in - ano excision - high,3,procedure
+229780,fistula - in - ano excision - low,3,procedure
+229782,fistula - in - ano excision - high - 3 days,1,procedure
+229784,fistula - in - ano excision - low - 3 days,1,procedure
+229785,fistula - in ano excision (low) - 2 days pkg,1,procedure
+229786,fistula / surgical revision,1,procedure
+229787,fistula ? in ? ano ? excision ? low,1,procedure
+229788,fistula ? in ? ano excision - low,2,procedure
+229789,fistula angiography,1,imaging
+229790,fistula angioplasty,1,procedure
+229791,fistula arteriovenous repair,1,procedure
+229792,fistula in - ano excision - high,1,procedure
+229793,fistula in - ano exsicion - low,1,other
+229794,fistula in -ano excision,1,procedure
+229795,fistula in -ano excision high,3,procedure
+229796,fistula in -ano excision low,3,procedure
+229797,fistula in -ano- excision -low,1,procedure
+229798,fistula in ano excision (high,1,procedure
+229799,fistula in ano excision (low,1,procedure
+229800,fistula in ano excision - high,1,procedure
+229801,fistula in ano excision -low,1,procedure
+229802,fistula in ano excision high stage onebupa,1,procedure
+229803,fistula in ano excision high stage twobupa,1,procedure
+229804,fistula in ano excision low,4,procedure
+229805,fistula in ano excision lowbupa,1,procedure
+229806,fistula in ano excisionlow malath,1,other
+229807,fistula in ano high,1,other
+229808,fistula in anoexcision high,1,other
+229809,fistula in-ano excision low - pkg 2 days,2,procedure
+229810,fistula in-ano excision high,1,procedure
+229811,fistula in-ano excision high - pkg 3 days,2,procedure
+229814,fistula in-ano high,1,other
+229815,fistula in-ano-excision- high,2,procedure
+229816,fistula inano excision low,1,procedure
+229819,fistula operation redo,1,procedure
+229820,fistula perianal excision,1,procedure
+229821,fistula plug-2days pkg,1,other
+229822,fistula probe fiber 400m # 270758s,1,supplies
+229823,fistula probe fiber 600m # 270514s,1,supplies
+229824,fistula test with pump,1,lab_test
+229825,fistula tract laser closure (filac) - 1day pkg,1,procedure
+229826,fistula tract laser closure (filac) procedure,1,procedure
+229828,"fistula, arteriovenous repair",1,procedure
+229829,"fistula, tracheo-esophageal, congenital",1,other
+229830,"fistula, tracheo-esophageal, congenital - 4 days pkg",1,other
+229831,fistula- in- ano excision low,1,procedure
+229832,fistula- in- ano excision- high,2,procedure
+229833,fistula-in - ano excision -high,1,procedure
+229834,fistula-in-ano excision-high-stage two,1,procedure
+229835,fistula-in-ano excision-low,3,procedure
+229836,fistula-in-ano excision-low -a,1,procedure
+229837,fistula-in-ano excision-low 3 days -b,1,procedure
+229838,fistula-in-ano excission---high,1,other
+229839,fistula-in-ano-exc. low [2,1,procedure
+229840,fistulainano excisionhighstage one globemed,1,supplies
+229841,fistulectomy,2,procedure
+229842,fistulectomy ( high,1,procedure
+229843,fistulectomy (high anal) + endoanal surgery + colostomy,1,procedure
+229844,fistulectomy (low anal,1,procedure
+229845,fistulectomy (middle anal) + endoanal surgery,1,procedure
+229846,fistulectomy high perianel,1,procedure
+229847,fistulectomy low perianal(pkg,1,procedure
+229848,fistulectomy reconstruction,1,procedure
+229849,"fistulectomy,low perianal",1,procedure
+229850,fistulectomyperianal,1,other
+229851,fistulgram/sinogram,1,other
+229852,fistulogram,2,other
+229853,fistulogram / sinogram,1,other
+229854,fistulogram diagnostic,1,other
+229855,fistulogram for perianal fistula,1,other
+229856,fistulogram sinogram,1,other
+229857,fistulogram/sinogram,1,other
+229859,fistulotomy,1,procedure
+229860,fistulotomy (perianal,1,procedure
+229861,fistulotomy + sphincter repair,2,procedure
+229863,fistulotomy anal-low-package,1,procedure
+229864,fistuplasty (multiple narrowing,1,procedure
+229865,fistuplasty (one narrowing,1,supplies
+229866,"fit (fecal immunochemical test), qualitative",1,lab_test
+229867,fit - fecal immunochemical test (hb / hb+hp,1,lab_test
+229868,fit - ltw fecal immunochemical test- (fit,1,lab_test
+229869,fit test for colon cancer screening,1,lab_test
+229870,fit test,2,lab_test
+229871,fit test (fecal immunochemical test,1,lab_test
+229873,fitila,1,other
+229874,fitness prog e.c.g with report,1,lab_test
+229875,fitness prog. glucose random bld sugar,1,lab_test
+229876,"fito gauzes, advance 10's",1,other
+229877,"fito gauzes, advance 10s - per pcs",1,other
+229878,fitrite arm sling blue child,1,procedure
+229879,fitrite armsling blue fabric xs-xl 8202,1,other
+229880,fitrite finger splint - l,1,supplies
+229881,fitriyah fathoni aslah,1,other
+229882,"fitting & insertion, pessary/other intravaginal support device",1,supplies
+229883,fitting hard contact lens (both eyes,1,eyewear
+229884,fitting hearing aid audioflex 120,1,supplies
+229885,fitting of contact lens,1,eyewear
+229886,fitting of contact lens for tratment,1,eyewear
+229887,fitting of contact lenses,2,eyewear
+229888,fitting of implant abutment per abutment,1,supplies
+229889,fitting of signia hearing aid,1,supplies
+229890,"fitting/ testing of hearing aid, bilateral",2,lab_test
+229892,fittings of hard contact lenses,1,eyewear
+229893,fittydent cushions super 15 strips,1,supplies
+229894,five class filling,1,dental
+229897,five stitch,1,procedure
+229898,five surfaces amalgam filling,1,dental
+229903,fix angle w/pop w/o anesthesia,1,supplies
+229905,fix.peri.cath.for acute peritoneal dialy,1,supplies
+229906,fixation,1,procedure
+229907,fixation - k-wire for fracture / prolonged skin traction,1,supplies
+229908,"fixation access system, optical, 5mm x 100mm, applled usa, cfr03",1,eyewear
+229909,fixation catheter - ruptured urethra,2,supplies
+229910,"fixation device abs 30 tacks #abstack30 , covidien",1,lab_test
+229911,fixation device hernia mesh 5mm with 25 absorbable strap sterile disposable,1,supplies
+229912,fixation device hernia mesh 5mm with 30 absorbable fastener sterile disposable,1,supplies
+229913,fixation device hernia mesh permanent 5mm 37cm with 30 absorbable fastener sterile disposable,1,supplies
+229914,fixation dressing for drainage tube (flexi-track,1,supplies
+229915,fixation of comminuted fracture with ext. fixator in leg/arm (w/o fixator price,1,procedure
+229916,fixation of dj stent for obstructive uropathy,1,supplies
+229917,fixation of external device forearm & leg (w/o fixator price,1,procedure
+229918,fixation of finger of hand,1,procedure
+229919,fixation of fractured mandible by plates and screws and removal of wisdom tooth under ga,1,dental
+229920,fixation of fx metatarsals / phalanges,1,procedure
+229921,fixation of mallete finger with anchor suture-1d,1,supplies
+229922,fixation of mallete finger with anchor suture-1d - 1 day(s,1,supplies
+229923,fixation of mandible (open,1,procedure
+229924,fixation of metalic post,1,procedure
+229925,fixation of naso-gastric tube,1,supplies
+229926,fixation of patellar fracture,1,procedure
+229927,fixation of recurrent shoulder dislocation,1,procedure
+229928,fixation of silicon cather,1,supplies
+229929,fixation of spine,2,procedure
+229931,fixation of spine fracture ( without implants,1,supplies
+229932,fixation of spine with dynamic screw including implant - 2 days,1,supplies
+229933,fixation of spondylolethesis,1,procedure
+229934,fixation of urinary catheter(f,1,supplies
+229935,fixation or removal of k wire under g.a,1,supplies
+229936,fixation repeat patellar dislocation,1,procedure
+229937,fixed angle cervical screw 4mm,1,imaging
+229938,fixed angled cervical screw 4.5mm spincraft,1,imaging
+229939,fixed appl.for corr.by pal.exp,1,other
+229940,fixed appliance of each arch,1,dental
+229941,fixed applinc ( metallic breake,1,other
+229942,fixed implant prosthodontics,1,supplies
+229943,fixed lingual retainers,1,other
+229944,fixed nail extraction,1,dental
+229945,fixed nails removal l.a,1,procedure
+229946,fixed palatal or lingual arch appliance,3,dental
+229947,fixed retainer(per arch,1,dental
+229948,fixed space maintainer,1,other
+229949,fixed space maintainer placement uni,1,other
+229950,fixed tooth extraction,2,dental
+229951,fixed zircon each unite,1,other
+229952,fixing crown,1,dental
+229953,fixing of peritoneal catheter - open,1,supplies
+229954,fixing of spiral in uterus,1,other
+229955,fixing or changing urethral catheter,1,supplies
+230146,fixit abdominal binder*105,1,supplies
+230147,fixit abdominal binder*110,1,supplies
+230148,fixit ankle support *30,1,supplies
+230149,fixit arm sling,1,procedure
+230150,fixit arm sling nylon,1,procedure
+230151,fixit atheletic support,1,supplies
+230155,fixit cervical collar,1,imaging
+230159,fixit elastic ankle support color white,1,supplies
+230160,fixit elastic elbow support beige,1,supplies
+230161,fixit elastic knee supports color b,1,supplies
+230162,fixit elastic wrist splint,1,supplies
+230163,fixit elastic wrist support,1,supplies
+230164,fixit elbow support *30,1,supplies
+230165,fixit heel pad,1,supplies
+230166,fixit hernia aid,1,procedure
+230167,fixit insole full pad,1,supplies
+230168,fixit insole heel pad ????? ??????? ?????,1,supplies
+230169,fixit knee support *30,1,supplies
+230170,fixit knee support *50,1,supplies
+230171,fixit knee support *70,1,supplies
+230172,fixit lumbar support,1,supplies
+230173,fixit silicone full insole pad,1,supplies
+230174,fixit wrist elastic support*30,1,supplies
+230175,fixit wrist neoprene support*55,1,supplies
+230176,fixit wrist splint with thumb*80,1,supplies
+230177,fixit wrist thumb splint one size,1,supplies
+230178,fixit wrist weaving splint*60,1,supplies
+230180,fixit150 mg 28cap,1,other
+230182,fixit150mg 28cap,1,other
+230183,fixit150mg 28cap. nizatidine,1,other
+230184,fixomull / box,1,other
+230186,fj,1,other
+230196,fl u,1,other
+230198,flagel,1,other
+230199,flagel - metronidazol,1,other
+230200,flagel 500,1,other
+230203,flagil,2,other
+230205,flagle i.v,1,lab_test
+230206,flagyel,1,other
+230519,flagyl250mg20tab,2,other
+230522,flagylcash,1,other
+230523,flagyle,3,other
+230524,flagyle drip,1,other
+230526,flagyle iv,1,supplies
+230530,flagy\metr,1,other
+230532,flair f2557,1,other
+230533,flair f2592,1,other
+230534,flajel,1,other
+230538,flamazin cr,1,other
+230719,flamex200 mg,1,other
+230720,flaminal forte,1,other
+230726,flaminal hydro,1,other
+230731,flaminga frm fm005,1,eyewear
+230732,flamingo dorsolumbar brace,1,supplies
+230733,flamingo f.035 51 4,1,other
+230736,flange stomahesive ostomy 70mm,1,procedure
+230737,flange with barrier 12-57mm 10/box,1,other
+230738,flap closure of positerior anal fissure,1,procedure
+230739,flap coverage (small) - dsu pkg. (old)-package,1,other
+230740,flap coverage (small) -1day pkg,1,other
+230741,flap coverage - minor,1,other
+230742,flap gum,1,dental
+230743,flap operation,1,procedure
+230744,flap operation - quadrant,1,procedure
+230745,flap operation per quadrant,1,procedure
+230746,flap pedicled major - 2days pkg,1,other
+230747,flap pedicled routine - 1day pkg,1,other
+230748,flap reposition ? cleaning (outside,1,procedure
+230749,flap repositioning (outside patient one eye,1,supplies
+230750,flap rotation,1,other
+230751,flap surgery,1,procedure
+230752,flap; island pedicle - 3 days pkg,1,other
+230753,"flashglucosemonitoringsystemdevice,1peice/device",1,other
+230754,flat foot re-construction,1,other
+230755,flat foot re-construction (implant not included,1,supplies
+230756,flat foot insole #44,1,supplies
+230757,flat foot insoles,1,other
+230758,flat foot reconstruction (calcanial osteotomy + tal) 1 day-pkg,1,procedure
+230759,flat foot reconstruction - package,1,procedure
+230766,flatam plus chew 30tab,1,other
+230769,flatam-plus chewable 30tabs,1,other
+230771,flatfoot full silicone insole,1,supplies
+230774,flaticon 40,2,other
+230795,flaticon 40/30tab,1,other
+230847,flaticon 60,1,other
+230848,flaticon 60 30tab,1,other
+230937,flaticon40mg30tab,1,other
+230938,flaticon60mg chewable30tab,1,other
+230939,flaticon60mgchewtab,1,other
+230942,flatto normal,1,other
+230943,flattop - multicoat,1,other
+230944,flattop multicoat,1,other
+230945,flattop normal,1,other
+230946,flattop-multicoat,1,other
+230947,flattop-multicoated,2,other
+230948,flattop-normal,1,other
+230949,flattopmulticoat,1,other
+230951,flaxble naso laryngoscopy,1,procedure
+230953,flayway,1,other
+231254,flcs (serum,2,lab_test
+231264,flector,1,other
+231265,flector ep garnules,1,other
+231268,flector e p 5 tissugel,1,lab_test
+231269,flector ep 5 medicated plasters,2,other
+231294,flector ep tissuegel - 5 patch,1,supplies
+231296,flector ep tissugel,2,other
+231297,flector ep tissugel /5,1,other
+231325,flector ep tissugel 5 plaster,1,supplies
+231326,flector ep tissugel 5's,1,other
+231327,flector ep tissugel 5med.plasters,1,other
+231328,flector ep tissugel 5plarters,1,other
+231334,"flector ep patch /1patch, 5patch/box",1,supplies
+231337,flector patch 5 plasters,1,supplies
+231338,flector ptc 5s,1,other
+231339,flector patch (b/5,1,supplies
+231343,flector tissugel 5 pk,1,other
+231344,flector tissugel 5 pls,1,other
+231345,flector tissugel 5patches,1,other
+231347,fleecy boots large,1,other
+231348,fleecy boots medium,1,other
+231349,fleecy boots small,1,other
+231554,fleetenema ( pead,1,other
+231555,fleetenemaadult,1,other
+231556,fleetenemachildren,1,other
+231558,flex shoulder system diff.size,1,other
+231559,flex tend repair hand/foot,1,procedure
+231560,flex. tendon repair,2,procedure
+231563,flexable nails tibia & femur p/d,1,other
+231564,flexable nasopharyngolaryngoscopy under la,1,procedure
+231565,flexable urethroscope 7.5 pusen,1,other
+231566,flexable urethroscope 7.5fr,1,other

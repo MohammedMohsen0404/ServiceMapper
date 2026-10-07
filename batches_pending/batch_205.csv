@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+407221,"o;bvlgari;bv50022u, 58, 028",1,eyewear
+407222,"o;bvlgari;bv50023i, 52, 001",1,eyewear
+407223,"o;bvlgari;bv50023i, 52, 052",1,eyewear
+407224,"o;bvlgari;bv50026i, 52, 001",1,eyewear
+407225,"o;bvlgari;bv50029i, 52, 001",1,eyewear
+407226,"o;bvlgari;bv50029i, 52, 069",1,eyewear
+407227,"o;bvlgari;bv50032i, 52, 001",1,eyewear
+407228,"o;bvlgari;bv50034i, 55, 001",1,eyewear
+407229,"o;bvlgari;bv50035i, 54, 002",1,eyewear
+407230,"o;calvin klein;23127, 50, 717",1,eyewear
+407231,"o;calvin klein;23127, 50, 770",1,eyewear
+407232,"o;calvin klein;23541, 53, 008",1,eyewear
+407233,"o;calvin klein;23543, 54, 023",1,eyewear
+407234,"o;calvin klein;23543, 54, 240",1,eyewear
+407235,"o;calvin klein;23544, 53, 004",1,eyewear
+407236,"o;calvin klein;23544, 53, 240",1,eyewear
+407237,"o;calvin klein;24102, 52, 770",1,eyewear
+407238,"o;calvin klein;24513, 52, 605",1,eyewear
+407239,"o;calvin klein;24524, 54, 413",1,eyewear
+407240,"o;calvin klein;ck18108, 50, 600",1,eyewear
+407241,"o;calvin klein;ck19119, 49, 001",1,eyewear
+407242,"o;calvin klein;ck19119, 49, 780",1,eyewear
+407243,"o;calvin klein;ck19119, 49, 781",1,eyewear
+407244,"o;calvin klein;ck19529, 54, 001",1,eyewear
+407245,"o;calvin klein;ck19711, 53, 001",1,eyewear
+407246,"o;calvin klein;ck19711, 53, 240",1,eyewear
+407247,"o;calvin klein;ck20525, 53, 001",1,eyewear
+407248,"o;calvin klein;ck20525, 53, 235",1,eyewear
+407249,"o;calvin klein;ck20525, 53, 662",1,eyewear
+407250,"o;calvin klein;ck20527, 49, 001",1,eyewear
+407251,"o;calvin klein;ck20527, 49, 270",1,eyewear
+407252,"o;calvin klein;ck20527, 49, 405",1,eyewear
+407253,"o;calvin klein;ck20530, 53, 001",1,eyewear
+407254,"o;calvin klein;ck20530, 53, 515",1,eyewear
+407255,"o;calvin klein;ck20705, 53, 653",1,eyewear
+407256,"o;calvin klein;ck21303, 49, 269",1,eyewear
+407257,"o;calvin klein;ck21303, 49, 605",1,eyewear
+407258,"o;calvin klein;ck21500, 52, 210",1,eyewear
+407259,"o;calvin klein;ck21503, 52, 001",1,eyewear
+407260,"o;calvin klein;ck21503, 52, 239",1,eyewear
+407261,"o;calvin klein;ck21519, 53, 001",1,eyewear
+407262,"o;calvin klein;ck21519, 53, 220",1,eyewear
+407263,"o;calvin klein;ck21521, 56, 220",1,eyewear
+407264,"o;calvin klein;ck21524, 55, 1",1,eyewear
+407265,"o;calvin klein;ck21710, 51, 033",1,eyewear
+407266,"o;calvin klein;ck21710, 51, 221",1,eyewear
+407267,"o;calvin klein;ck22101, 54, 072",1,eyewear
+407268,"o;calvin klein;ck22101, 54, 213",1,eyewear
+407269,"o;calvin klein;ck22117, 51, 717",1,eyewear
+407270,"o;calvin klein;ck22118, 52, 002",1,eyewear
+407271,"o;calvin klein;ck22118, 52, 200",1,eyewear
+407272,"o;calvin klein;ck22119, 53, 002",1,eyewear
+407273,"o;calvin klein;ck22119, 53, 604",1,eyewear
+407274,"o;calvin klein;ck22125ta, 50, 200",1,eyewear
+407275,"o;calvin klein;ck22125ta, 50, 272",1,eyewear
+407276,"o;calvin klein;ck22125tc, 55, 272",1,eyewear
+407277,"o;calvin klein;ck22125td, 52, 001",1,eyewear
+407278,"o;calvin klein;ck22500, 54, 001",1,eyewear
+407279,"o;calvin klein;ck22500, 54, 220",1,eyewear
+407280,o;calvin klein;ck22500/ 54/ 001,1,eyewear
+407281,"o;calvin klein;ck22501, 51, 001",1,eyewear
+407282,"o;calvin klein;ck22501, 51, 237",1,eyewear
+407283,"o;calvin klein;ck22501, 51, 663",1,eyewear
+407284,"o;calvin klein;ck22501, 54, 237",1,eyewear
+407285,"o;calvin klein;ck22504, 52, 001",1,eyewear
+407286,"o;calvin klein;ck22504, 52, 235",1,eyewear
+407287,"o;calvin klein;ck22505, 53, 001",1,eyewear
+407288,"o;calvin klein;ck22505, 53, 601",1,eyewear
+407289,"o;calvin klein;ck22506, 52, 001",1,eyewear
+407290,"o;calvin klein;ck22506, 52, 605",1,eyewear
+407291,"o;calvin klein;ck22506, 54, 001",1,eyewear
+407292,"o;calvin klein;ck22506, 54, 605",1,eyewear
+407293,"o;calvin klein;ck22508, 55, 002",1,eyewear
+407294,"o;calvin klein;ck22509, 52, 001",1,eyewear
+407295,"o;calvin klein;ck22539, 54, 001",1,eyewear
+407296,"o;calvin klein;ck22539, 54, 609",1,eyewear
+407297,"o;calvin klein;ck22541, 53, 001",1,eyewear
+407298,"o;calvin klein;ck22541, 53, 235",1,eyewear
+407299,"o;calvin klein;ck22542, 56, 001",1,eyewear
+407300,"o;calvin klein;ck22542, 56, 317",1,eyewear
+407301,"o;calvin klein;ck22545, 54, 001",1,eyewear
+407302,"o;calvin klein;ck22546, 51, 001",1,eyewear
+407303,"o;calvin klein;ck22546, 51, 235",1,eyewear
+407304,"o;calvin klein;ck23107, 52, 200",1,eyewear
+407305,o;calvin klein;ck23107/ 52/ 200,1,eyewear
+407306,"o;calvin klein;ck23511, 49, 001",1,eyewear
+407307,"o;calvin klein;ck23511, 49, 240",1,eyewear
+407308,"o;calvin klein;ck23512, 52, 001",1,eyewear
+407309,"o;calvin klein;ck23512, 52, 240",1,eyewear
+407310,"o;calvin klein;ck23512, 52, 616",1,eyewear
+407311,"o;calvin klein;ck23513, 54, 001",1,eyewear
+407312,"o;calvin klein;ck23513, 54, 601",1,eyewear
+407313,o;calvin klein;ck23513/ 54/ 001,1,eyewear
+407314,"o;calvin klein;ck23515, 50, 001",1,eyewear
+407315,"o;calvin klein;ck23515, 50, 240",1,eyewear
+407316,"o;calvin klein;ck23516, 52, 220",1,eyewear
+407317,"o;calvin klein;ck23516, 52, 662",1,eyewear
+407318,"o;calvin klein;ck23516, 54, 035",1,eyewear
+407319,"o;calvin klein;ck23516, 54, 200",1,eyewear
+407320,"o;calvin klein;ck23516, 54, 662",1,eyewear
+407321,"o;calvin klein;ck23518, 52, 002",1,eyewear
+407322,"o;calvin klein;ck23518, 52, 200",1,eyewear
+407323,"o;calvin klein;ck23523, 54, 414",1,eyewear
+407324,"o;carolina herrera;ch 0012, 56, fwm",1,eyewear
+407325,"o;carolina herrera;ch 0027, 55, lhf",1,eyewear
+407326,"o;carolina herrera;ch 0028, 53, 807",1,eyewear
+407327,"o;carolina herrera;ch 0028, 53, 86",1,eyewear
+407328,"o;carolina herrera;ch 0031, 55, noa",1,eyewear
+407329,"o;carolina herrera;ch 0031, 55, rhl",1,eyewear
+407330,"o;carolina herrera;ch 0033, 53, noa",1,eyewear
+407331,"o;carolina herrera;ch 0033, 53, rhl",1,eyewear
+407332,"o;carolina herrera;ch 0038, 54, rhl",1,eyewear
+407333,"o;carolina herrera;ch 0040, 54, rhl",1,eyewear
+407334,"o;carolina herrera;ch 0040, 54, yk9",1,eyewear
+407335,"o;carolina herrera;ch 0043, 55, fwm",1,eyewear
+407336,"o;carolina herrera;ch 0047, 52, 3h2",1,eyewear
+407337,"o;carolina herrera;ch 0047, 52, xae",1,eyewear
+407338,"o;carolina herrera;ch 0048, 55, 3h2",1,eyewear
+407339,"o;carolina herrera;ch 0057, 53, kdx",1,eyewear
+407340,"o;carolina herrera;ch 0059, 55, lks",1,eyewear
+407341,"o;carolina herrera;ch 0059, 55, rhl",1,eyewear
+407342,"o;carolina herrera;ch 0064, 55, kdx",1,eyewear
+407343,"o;carolina herrera;ch 0064, 55, rtc",1,eyewear
+407344,"o;carolina herrera;ch 0065, 52, kdx",1,eyewear
+407345,"o;carolina herrera;ch 0071, 54, fwm",1,eyewear
+407346,"o;carolina herrera;ch 0071, 54, pjp",1,eyewear
+407347,"o;carolina herrera;ch 0073, 53, fwm",1,eyewear
+407348,"o;carolina herrera;her 0097, 54, 807",1,eyewear
+407349,"o;carolina herrera;her 0097, 54, 86",1,eyewear
+407350,"o;carolina herrera;her 0110, 54, kdx",1,eyewear
+407351,"o;carolina herrera;her 0110, 54, o63",1,eyewear
+407352,"o;carolina herrera;her 0224, 52, o63",1,eyewear
+407353,"o;carolina herrera;her 0224, 52, tcb",1,eyewear
+407354,"o;carolina herrera;her 0228, 51, 6x4",1,eyewear
+407355,"o;carolina herrera;her 0228, 51, o63",1,eyewear
+407356,"o;carolina herrera;her 0231, 55, 807",1,eyewear
+407357,"o;carolina herrera;her 0231, 55, fwm",1,eyewear
+407358,"o;carolina herrera;her 0235, 54, rhl",1,eyewear
+407359,"o;carolina herrera;her 0235, 54, s0d",1,eyewear
+407360,"o;carolina herrera;her 0239, 55, 82u",1,eyewear
+407361,"o;carolina herrera;her 0239, 55, o63",1,eyewear
+407362,"o;carolina herrera;her 0240, 55, 80s",1,eyewear
+407363,"o;carolina herrera;her 0240, 55, o63",1,eyewear
+407364,"o;carolina herrera;her 0260/g, 55, lhf",1,eyewear
+407365,"o;carrera 4009/cs, 54, 807",1,eyewear
+407366,"o;carrera kids;2043t, 49, 807",1,eyewear
+407367,"o;carrera kids;2043t, 49, r6s",1,eyewear
+407368,"o;carrera;1137, 55, j5g",1,eyewear
+407369,"o;carrera;1137, 55, kj1",1,eyewear
+407370,"o;carrera;225, 54, kb7",1,eyewear
+407371,"o;carrera;253, 53, 003",1,eyewear
+407372,"o;carrera;253, 53, 2m2",1,eyewear
+407373,"o;carrera;270, 52, kb7",1,eyewear
+407374,"o;carrera;282, 53, 2m2",1,eyewear
+407375,"o;carrera;282, 53, kj1",1,eyewear
+407376,"o;carrera;283, 54, 003",1,eyewear
+407377,"o;carrera;283, 54, 2m2",1,eyewear
+407378,"o;carrera;284, 49, 807",1,eyewear
+407379,"o;carrera;284, 49, kb7",1,eyewear
+407380,"o;carrera;310, 48, 807",1,eyewear
+407381,"o;carrera;310, 48, kb7",1,eyewear
+407382,"o;carrera;320, 51, 08a",1,eyewear
+407383,"o;carrera;320, 51, yql",1,eyewear
+407384,"o;carrera;322, 50, 09q",1,eyewear
+407385,"o;carrera;322, 50, r80",1,eyewear
+407386,"o;carrera;322, 50, rzz",1,eyewear
+407387,"o;carrera;323, 51, 8oq",1,eyewear
+407388,"o;carrera;323, 51, j5g",1,eyewear
+407389,"o;carrera;326, 55, 003",1,eyewear
+407390,"o;carrera;326, 55, 807",1,eyewear
+407391,"o;carrera;326, 57, 003",1,eyewear
+407392,"o;carrera;326, 57, 1qa",1,eyewear
+407393,"o;carrera;336, 57, 6lb",1,eyewear
+407394,"o;carrera;8069/cs, 53, blx",1,eyewear
+407395,"o;carrera;8897, 55, 7c5",1,eyewear
+407396,"o;carrera;8897, 55, blx",1,eyewear
+407397,"o;carrera;ca 297/cs, 48, 807",1,lab_test
+407398,"o;carrera;ca 332/cs, 50, 807",1,lab_test
+407399,"o;carrera;carduc 039, 56, aoz",1,eyewear
+407400,"o;carrera;carduc 039, 56, r81",1,eyewear
+407401,"o;carrera;victory c 04, 55, 086",1,eyewear
+407402,"o;carrera;victory c 05, 57, 003",1,eyewear
+407403,"o;cartier;balica, 50, t8101033",1,eyewear
+407404,"o;cartier;bolon,51,bpf ct0045o-00151",1,eyewear
+407405,"o;cartier;combined, 53,blk ct0048o-00253",1,eyewear
+407406,"o;cartier;corbetti, 53, ct0061o-00353",1,eyewear
+407407,o;cartier;corbetti/ 53/ ct0061o-00353,1,eyewear
+407408,"o;cartier;ct0020o, 47, 001",1,eyewear
+407409,"o;cartier;ct0039o, 57, 002",1,eyewear
+407410,"o;cartier;ct0039o, 57, 003",1,eyewear
+407411,"o;cartier;ct0039o, 57, 004",1,eyewear
+407412,"o;cartier;ct0052o, 53, 005",1,eyewear
+407413,"o;cartier;ct0073o-001, 55, black",1,eyewear
+407414,"o;cartier;ct0087o-00153, 53, silver",1,eyewear
+407415,"o;cartier;ct0087o-003, 53, gold",1,eyewear
+407416,"o;cartier;ct0148o, 56, 001",1,eyewear
+407417,o;cartier;ct0148o/ 56/ 001,1,eyewear
+407418,"o;cartier;ct0162o, 56, 002",1,eyewear
+407419,"o;cartier;ct0164o, 50, 001",1,eyewear
+407420,"o;cartier;ct0164o, 50, 004",1,eyewear
+407421,"o;cartier;ct0218oa, 54, 002",1,eyewear
+407422,"o;cartier;ct0222o, 54, 001",1,eyewear
+407423,"o;cartier;ct0222o, 54, 002",1,eyewear
+407424,"o;cartier;ct0254o, 57, 002 sliver",1,eyewear
+407425,"o;cartier;ct0257o, 53, 001",1,eyewear
+407426,"o;cartier;ct0259o, 55, 002 gold",1,eyewear
+407427,"o;cartier;ct0281o, 54, 001 gold",1,eyewear
+407428,"o;cartier;ct0281o, 54, 002 silver",1,eyewear
+407429,"o;cartier;ct0283o, 54, 002",1,eyewear
+407430,o;cartier;ct0283o/ 54/ 002,1,eyewear
+407431,"o;cartier;ct0284o, 56, 001",1,eyewear
+407432,"o;cartier;ct0287o, 54, 002",1,eyewear
+407433,"o;cartier;ct0287o, 54, 004",1,eyewear
+407434,o;cartier;ct0287o/ 54/ 002,1,eyewear
+407435,"o;cartier;ct0290o, 53, 001",1,eyewear
+407436,"o;cartier;ct0290o, 53, 002",1,eyewear
+407437,"o;cartier;ct0291o, 54, 001",1,eyewear
+407438,"o;cartier;ct0309o, 52, 001",1,eyewear
+407439,"o;cartier;ct0312o, 50, 001",1,eyewear
+407440,"o;cartier;ct0313o, 53, 002",1,eyewear
+407441,"o;cartier;ct0315o, 53, 001",1,eyewear
+407442,"o;cartier;ct0315o, 53, 005",1,eyewear
+407443,o;cartier;ct0315o/ 53/ 001,1,eyewear
+407444,"o;cartier;ct0319o, 55, 001",1,eyewear
+407445,"o;cartier;ct0319o, 55, 002",1,eyewear
+407446,"o;cartier;ct0320oa, 56, 001",1,eyewear
+407447,"o;cartier;ct0336o, 58, 001 gold",1,eyewear
+407448,"o;cartier;ct0336o, 58, 002 silver",1,eyewear
+407449,"o;cartier;ct0337o, 52, 001 gold",1,eyewear
+407450,"o;cartier;ct0340o, 51, 001 black",1,eyewear
+407451,"o;cartier;ct0340o, 51, 002 havana",1,eyewear
+407452,"o;cartier;ct0342o, 52, 001 silver",1,eyewear
+407453,"o;cartier;ct0344o, 53, 001 gold",1,eyewear
+407454,"o;cartier;ct0344o, 53, 002 silver",1,eyewear
+407455,"o;cartier;ct0347o, 55, 002 silver",1,eyewear
+407456,"o;cartier;ct0348o, 55, 001 gold",1,eyewear
+407457,"o;cartier;ct0348o, 55, 002 silver",1,eyewear
+407458,"o;cartier;ct0349o, 55, 001 gold",1,eyewear
+407459,"o;cartier;ct0351o, 56, 001 black",1,eyewear
+407460,"o;cartier;ct0351o, 56, 003 burgundy",1,eyewear
+407461,"o;cartier;ct0352o, 56, 001",1,eyewear
+407462,"o;cartier;ct0368o, 52, 003",1,eyewear
+407463,"o;cartier;ct0369o, 54, 001",1,eyewear
+407464,"o;cartier;ct0373o, 51, 001",1,eyewear
+407465,"o;cartier;ct0373o, 51, 003",1,eyewear
+407466,"o;cartier;ct0382o, 53, 002",1,eyewear
+407467,"o;cartier;ct0384o, 54, 001",1,eyewear
+407468,"o;cartier;ct0384o, 54, 002",1,eyewear
+407469,"o;cartier;ct0384o, 54, 003",1,eyewear
+407470,"o;cartier;ct0407o, 57, 001",1,eyewear
+407471,"o;cartier;ct0407o, 57, 002",1,eyewear
+407472,"o;cartier;ct0408o, 53, 001",1,eyewear
+407473,"o;cartier;ct0408o, 53, 002",1,eyewear
+407474,"o;cartier;ct0409o, 57, 001",1,eyewear
+407475,"o;cartier;ct0409o, 57, 002",1,eyewear
+407476,"o;cartier;ct0417o, 57, 001",1,eyewear
+407477,"o;cartier;ct0420o, 53, 001",1,eyewear
+407478,"o;cartier;ct0420o, 53, 004",1,eyewear
+407479,o;cartier;ct0420o/ 53/ 004,1,eyewear
+407480,"o;cartier;ct0441o, 51, 001",1,eyewear
+407481,"o;cartier;ct0441o, 51, 002",1,eyewear
+407482,o;cartier;ct0441o/ 51/ 001,1,eyewear
+407483,"o;cartier;ct0442o, 53, 002",1,eyewear
+407484,"o;cartier;ct0443oa, 54, 002",1,eyewear
+407485,"o;cartier;ct0444o, 52, 001",1,eyewear
+407486,"o;cartier;ct0444o, 52, 004",1,eyewear
+407487,o;cartier;ct0444o/ 52/ 001,1,eyewear
+407488,"o;cartier;ct0445o, 55, 001",1,eyewear
+407489,"o;cartier;ct0445o, 55, 002",1,eyewear
+407490,"o;cartier;ct0448o, 60, 001",1,eyewear
+407491,"o;cartier;ct0450o, 54, 002",1,eyewear
+407492,"o;cartier;ct0450o, 54, 004",1,eyewear
+407493,"o;cartier;ct0452oa, 53, 001",1,eyewear
+407494,"o;cartier;ct0478o, 53, 002",1,eyewear
+407495,"o;cartier;ct0479o, 54, 002",1,eyewear
+407496,"o;cartier;ct0481o, 53, 002",1,eyewear
+407497,"o;cartier;ct0483o, 56, 002",1,eyewear
+407498,"o;cartier;ct0487o, 57, 001",1,eyewear
+407499,"o;cartier;ct0490o, 55, 001",1,eyewear
+407500,"o;cartier;ct0492o, 57, 001",1,eyewear
+407501,"o;cartier;ct0493o, 55, 001",1,eyewear
+407502,"o;cartier;ct0493o, 55, 003",1,eyewear
+407503,"o;cartier;ct0494o, 55, 001",1,eyewear
+407504,"o;cartier;ct0494o, 55, 002",1,eyewear
+407505,"o;cartier;harmattan,53,gf ct0050o-00153",1,eyewear
+407506,"o;cartier;panther,52,gd ct0058o-00252",1,eyewear
+407507,o;cartier;panther/52/gd ct0058o-00252,1,eyewear
+407508,"o;cartier;river, 54, eye00048",1,eyewear
+407509,o;cartier;river/ 54/ eye00048,1,eyewear
+407510,"o;cartier;t8101090, 56, black",1,eyewear
+407511,"o;cartier;t8101222, 55, black",1,eyewear
+407512,"o;cartier;t8101224, 55, black",1,eyewear
+407513,"o;cartier;t8101227, 57, brown",1,eyewear
+407514,"o;celine;cl50036u, 50, 030",1,eyewear
+407515,"o;celine;cl50086i, 51, 001",1,eyewear
+407516,"o;celine;cl50094i, 55, 072",1,eyewear
+407517,"o;celine;cl50098i, 50, 001",1,eyewear
+407518,"o;celine;cl50098i, 50, 052",1,eyewear
+407519,"o;celine;cl50099i, 55, 001",1,eyewear
+407520,"o;celine;cl50099i, 55, 056",1,eyewear
+407521,"o;celine;cl50099i, 55, 069",1,eyewear
+407522,"o;celine;cl50102u, 51, 001",1,eyewear
+407523,"o;celine;cl50102u, 51, 052",1,eyewear
+407524,"o;celine;cl50103i, 54, 001",1,eyewear
+407525,"o;celine;cl50109i, 51, 001",1,eyewear
+407526,"o;celine;cl50109i, 51, 072",1,eyewear
+407527,"o;celine;cl50110u, 52, 001",1,eyewear
+407528,"o;celine;cl50112i, 52, 001",1,eyewear
+407529,"o;celine;cl50116i, 52, 001",1,eyewear
+407530,"o;celine;cl50116i, 52, 057",1,eyewear
+407531,"o;celine;cl50117i, 54, 001",1,eyewear
+407532,"o;celine;cl50124i, 50, 074",1,eyewear
+407533,"o;celine;cl50127i, 52, 001",1,eyewear
+407534,"o;celine;cl50127i, 52, 025",1,eyewear
+407535,"o;celine;cl50140u, 53, 016",1,eyewear
+407536,"o;celine;cl50140u, 53, 030",1,eyewear
+407537,"o;chanel;2032, 54, 173",1,eyewear
+407538,"o;chanel;2062b, 53, 265",1,eyewear
+407539,"o;chanel;2184, 50, c395",1,eyewear
+407540,"o;chanel;2186, 51, c395",1,eyewear
+407541,"o;chanel;2192, 53, c395",1,eyewear
+407542,"o;chanel;2195, 52, c395",1,eyewear
+407543,"o;chanel;2198, 53, c395",1,eyewear
+407544,"o;chanel;2204, 53, c134",1,eyewear
+407545,"o;chanel;2208b, 51, c101",1,eyewear
+407546,"o;chanel;2208b, 53, c269",1,eyewear
+407547,"o;chanel;2209, 50, c101",1,eyewear
+407548,"o;chanel;2209, 50, c108",1,eyewear
+407549,"o;chanel;2209, 50, c124",1,eyewear
+407550,"o;chanel;2209, 50, c226",1,eyewear
+407551,"o;chanel;2209, 50, c395",1,eyewear
+407552,"o;chanel;2210q, 54, c395",1,eyewear
+407553,"o;chanel;2210q, 56, c395",1,eyewear
+407554,"o;chanel;2211qh, 49, c395",1,eyewear
+407555,"o;chanel;2212, 53, c101",1,eyewear
+407556,"o;chanel;2212, 53, c395",1,eyewear
+407557,"o;chanel;2213, 53, c261",1,eyewear
+407558,"o;chanel;2213, 53, c395",1,eyewear
+407559,"o;chanel;2214, 53, c395",1,eyewear
+407560,"o;chanel;2214, 53, c429",1,eyewear
+407561,"o;chanel;2215, 52, c395",1,eyewear
+407562,"o;chanel;2216, 56, c437",1,eyewear
+407563,"o;chanel;2216j, 53, c395",1,eyewear
+407564,"o;chanel;3043h, 53, 501",1,eyewear
+407565,"o;chanel;3217, 52, c714",1,eyewear
+407566,"o;chanel;3221q, 51, 1512",1,eyewear
+407567,"o;chanel;3281, 52, 1651",1,eyewear
+407568,"o;chanel;3281, 52, c714",1,eyewear
+407569,"o;chanel;3282, 52, c501",1,eyewear
+407570,"o;chanel;3305b, 54, c714",1,eyewear
+407571,"o;chanel;3315, 53, c714",1,eyewear
+407572,"o;chanel;3317, 52, 1517",1,eyewear
+407573,"o;chanel;3327hb, 52, c501",1,eyewear
+407574,"o;chanel;3330h, 53, c714",1,eyewear
+407575,"o;chanel;3333, 52, 1525",1,eyewear
+407576,"o;chanel;3341, 52, 1561",1,eyewear
+407577,"o;chanel;3361, 52, 1604",1,eyewear
+407578,"o;chanel;3365, 54, 1609",1,eyewear
+407579,"o;chanel;3372, 48, 1026",1,eyewear
+407580,"o;chanel;3372, 50, 1090",1,eyewear
+407581,"o;chanel;3390, 53, c714",1,eyewear
+407582,"o;chanel;3392, 51, c501",1,eyewear
+407583,"o;chanel;3392, 53, 1712",1,eyewear
+407584,"o;chanel;3392, 53, 1794",1,eyewear
+407585,"o;chanel;3392, 53, c501",1,eyewear
+407586,"o;chanel;3393, 52, 1711",1,eyewear
+407587,"o;chanel;3393, 52, 1712",1,eyewear
+407588,"o;chanel;3393, 54, 1682",1,eyewear
+407589,"o;chanel;3393, 54, c622",1,eyewear
+407590,"o;chanel;3393, 54, c714",1,eyewear
+407591,"o;chanel;3401, 51, 1534",1,eyewear
+407592,"o;chanel;3402, 52, c714",1,eyewear
+407593,"o;chanel;3408q, 52, c622",1,eyewear
+407594,"o;chanel;3408q, 54, c622",1,eyewear
+407595,"o;chanel;3408q, 54, c714",1,eyewear
+407596,"o;chanel;3409, 50, c622",1,eyewear
+407597,"o;chanel;3409, 50, c888",1,eyewear
+407598,"o;chanel;3409, 52, c714",1,eyewear
+407599,o;chanel;3409/ 50/ c622,1,eyewear
+407600,"o;chanel;3410, 52, c714",1,eyewear
+407601,"o;chanel;3411, 47, c622",1,eyewear
+407602,"o;chanel;3412, 51, 1673",1,eyewear
+407603,"o;chanel;3412, 51, 1709",1,eyewear
+407604,"o;chanel;3412, 51, c501",1,eyewear
+407605,"o;chanel;3412, 51, c714",1,eyewear
+407606,"o;chanel;3412, 53, 1673",1,eyewear
+407607,"o;chanel;3412, 53, c660",1,eyewear
+407608,"o;chanel;3413, 51, 1709",1,eyewear
+407609,"o;chanel;3413, 51, c714",1,eyewear
+407610,"o;chanel;3413, 51, c942",1,eyewear
+407611,"o;chanel;3413, 53, 1673",1,eyewear
+407612,"o;chanel;3413, 53, 1709",1,eyewear
+407613,"o;chanel;3413, 53, c501",1,eyewear
+407614,"o;chanel;3413, 53, c660",1,eyewear
+407615,o;chanel;3413/ 51/ c714,1,eyewear
+407616,o;chanel;3413/ 53/ c660,1,eyewear
+407617,"o;chanel;3414, 52, 1709",1,eyewear
+407618,"o;chanel;3414, 52, 1723",1,eyewear
+407619,"o;chanel;3414, 52, c501",1,eyewear
+407620,"o;chanel;3414, 52, c660",1,eyewear
+407621,"o;chanel;3414, 52, c714",1,eyewear
+407622,"o;chanel;3414, 54, 1673",1,eyewear
+407623,"o;chanel;3414, 54, 1709",1,eyewear
+407624,"o;chanel;3414, 54, c501",1,eyewear
+407625,"o;chanel;3417, 53, 1695",1,eyewear
+407626,"o;chanel;3417, 53, c622",1,eyewear
+407627,"o;chanel;3420qb, 54, 1460",1,eyewear
+407628,"o;chanel;3420qb, 54, c501",1,eyewear
+407629,"o;chanel;3420qb, 54, c714",1,eyewear
+407630,o;chanel;3420qb/ 54/ c501,1,eyewear
+407631,o;chanel;3420qb/ 54/ c714,1,eyewear
+407632,"o;chanel;3422, 54, 1698",1,eyewear
+407633,"o;chanel;3422, 54, 1700",1,eyewear
+407634,"o;chanel;3422, 54, c501",1,eyewear
+407635,"o;chanel;3423, 53, c714",1,eyewear
+407636,"o;chanel;3428q, 53, c622",1,eyewear
+407637,o;chanel;3428q/ 53/ c622,1,eyewear
+407638,"o;chanel;3429q, 52, c622",1,eyewear
+407639,"o;chanel;3429q, 54, c622",1,eyewear
+407640,o;chanel;3429q/ 52/ c622,1,eyewear
+407641,"o;chanel;3431b, 50, c714",1,eyewear
+407642,"o;chanel;3431b, 52, 1705",1,eyewear
+407643,"o;chanel;3431b, 52, c622",1,eyewear
+407644,o;chanel;3431b/ 52/ 1705,1,eyewear
+407645,o;chanel;3431b/ 52/ c622,1,eyewear
+407646,"o;chanel;3432, 50, 1295",1,eyewear
+407647,"o;chanel;3432, 50, 1673",1,eyewear
+407648,"o;chanel;3432, 50, 1708",1,eyewear
+407649,"o;chanel;3432, 50, 1709",1,eyewear
+407650,"o;chanel;3432, 50, 1723",1,eyewear
+407651,"o;chanel;3432, 50, c501",1,eyewear
+407652,"o;chanel;3432, 50, c503",1,eyewear
+407653,"o;chanel;3432, 50, c714",1,eyewear
+407654,o;chanel;3432/ 50/ 1709,1,eyewear
+407655,o;chanel;3432/ 50/ 1723,1,eyewear
+407656,o;chanel;3432/ 50/ c503,1,eyewear
+407657,"o;chanel;3433, 54, 1709",1,eyewear
+407658,"o;chanel;3433, 54, c501",1,eyewear
+407659,"o;chanel;3435q, 52, c622",1,eyewear
+407660,"o;chanel;3436, 53, 1404",1,eyewear
+407661,"o;chanel;3436, 53, c622",1,eyewear
+407662,"o;chanel;3436, 53, c714",1,eyewear
+407663,o;chanel;3436/ 53/ c714,1,eyewear
+407664,"o;chanel;3437, 50, c501",1,eyewear
+407665,"o;chanel;3438, 52, c622",1,eyewear
+407666,"o;chanel;3439h, 52, 1716",1,eyewear
+407667,"o;chanel;3440h, 51, 1717",1,eyewear
+407668,"o;chanel;3440h, 51, c622",1,eyewear
+407669,"o;chanel;3440h, 51, c888",1,eyewear
+407670,"o;chanel;3440h, 53, 1717",1,eyewear
+407671,"o;chanel;3440h, 53, c622",1,eyewear
+407672,o;chanel;3440h/ 53/ c622,1,eyewear
+407673,"o;chanel;3441qh, 52, c622",1,eyewear
+407674,"o;chanel;3441qh, 54, 1461",1,eyewear
+407675,"o;chanel;3441qh, 54, c622",1,eyewear
+407676,o;chanel;3441qh/ 54/ c622,1,eyewear
+407677,"o;chanel;3442, 51, 1461",1,eyewear
+407678,"o;chanel;3442, 51, 1656",1,eyewear
+407679,"o;chanel;3442, 53, 1077",1,eyewear
+407680,"o;chanel;3442, 53, c760",1,eyewear
+407681,"o;chanel;3443, 51, 1656",1,eyewear
+407682,"o;chanel;3443, 51, c622",1,eyewear
+407683,"o;chanel;3443, 51, c714",1,eyewear
+407684,"o;chanel;3443, 51, c760",1,eyewear
+407685,"o;chanel;3443, 53, c714",1,eyewear
+407686,o;chanel;3443/ 51/ c622,1,eyewear
+407687,"o;chanel;3444, 49, 1719",1,eyewear
+407688,"o;chanel;3444, 51, c622",1,eyewear
+407689,"o;chanel;3445, 52, 1077",1,eyewear
+407690,"o;chanel;3445, 52, c760",1,eyewear
+407691,"o;chanel;3445, 54, c760",1,eyewear
+407692,"o;chanel;3446, 50, 1719",1,eyewear
+407693,"o;chanel;3446, 50, c622",1,eyewear
+407694,"o;chanel;3446, 52, 1723",1,eyewear
+407695,"o;chanel;3446, 52, c660",1,eyewear
+407696,"o;chanel;3447, 51, 1732",1,eyewear
+407697,"o;chanel;3447, 51, c622",1,eyewear
+407698,"o;chanel;3447, 53, 1732",1,eyewear
+407699,"o;chanel;3447, 53, 1733",1,eyewear
+407700,"o;chanel;3448, 51, 1733",1,eyewear
+407701,"o;chanel;3448, 51, c622",1,eyewear
+407702,"o;chanel;3449b, 53, c622",1,eyewear
+407703,"o;chanel;3450b, 49, c622",1,eyewear
+407704,"o;chanel;3450b, 51, 1737",1,eyewear
+407705,"o;chanel;3450b, 51, c622",1,eyewear
+407706,"o;chanel;3451b, 51, c888",1,eyewear
+407707,"o;chanel;3451b, 53, 1727",1,eyewear
+407708,"o;chanel;3451b, 53, c622",1,eyewear
+407709,"o;chanel;3451b, 53, c888",1,eyewear
+407710,"o;chanel;3455, 52, c622",1,eyewear
+407711,"o;chanel;3455, 52, c714",1,eyewear
+407712,o;chanel;3455/ 52/ c622,1,eyewear
+407713,o;chanel;3455/ 52/ c714,1,eyewear
+407714,"o;chanel;3457, 53, 1461",1,eyewear
+407715,"o;chanel;3457, 53, c622",1,eyewear
+407716,"o;chanel;3458, 54, c622",1,eyewear
+407717,"o;chanel;3459, 51, c622",1,eyewear
+407718,"o;chanel;3460, 52, 1665",1,eyewear
+407719,"o;chanel;3460, 52, 1667",1,eyewear
+407720,"o;chanel;3460, 52, c622",1,eyewear

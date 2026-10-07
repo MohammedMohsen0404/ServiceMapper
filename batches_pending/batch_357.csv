@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+561152,surgery to salivary duct,1,procedure
+561153,surgery with five stitches,1,procedure
+561154,surgery with four stitches,2,procedure
+561155,surgery with more than five stitches,2,procedure
+561156,surgery with three stitches,2,procedure
+561157,surgery with two stitches,1,procedure
+561158,surgeryextractionofincludedtooth,1,other
+561159,surgial exposure of impacted toth for orthodontic,1,dental
+561160,surgicai extraction,1,dental
+561164,surgical extraction- complex -1,2,dental
+561167,surgical extraction of impacted wisdom tooth(2nd operation 50%,1,dental
+561169,surgical 4 sutuers or less,1,procedure
+561170,"surgical adrenalectomy, laparoscopic",1,procedure
+561171,surgical appendectomy,1,procedure
+561172,"surgical arthroscopy: synovectomy, menesectomy, abrasion arthroplastic p/d",1,procedure
+561174,"surgical biopsy,medium",1,procedure
+561175,"surgical biopsy,small",1,procedure
+561176,surgical biopsy: a. small specimens : 44593 cassettes,1,procedure
+561177,surgical biopsy: b. medium specimens : 44684 cassettes,1,procedure
+561178,surgical biopsy: c. large specimens : > 5 cassettes (blocks,1,procedure
+561179,surgical blade 11,2,supplies
+561180,"surgical blade 15, box 100 piece",1,supplies
+561181,surgical blade 20,2,supplies
+561182,"surgical blade 20, box 100 piece",1,supplies
+561183,surgical blade 21,2,supplies
+561184,surgical blade 22,1,supplies
+561185,"surgical blade 3m,9660 pk/50",1,supplies
+561186,surgical blade size 11 new,1,supplies
+561187,"surgical blade sterile # 11, feather",1,supplies
+561188,"surgical blade sterile # 15, feather",1,supplies
+561189,surgical brush w/ chlorehedine 4%,1,procedure
+561190,surgical clipper blade,1,supplies
+561192,surgical crown lengthening (hard tissue) - one toot,1,dental
+561193,surgical curettage for gum one jaw,1,dental
+561194,surgical curettage for periodontal pocket - each jaw,1,procedure
+561196,surgical dressig large,1,procedure
+561197,surgical dressig large - insurance,1,procedure
+561198,surgical dressig medium,1,procedure
+561199,surgical dressig medium - insurance,1,procedure
+561200,surgical dressig small,1,procedure
+561201,surgical dressig small - insurance,1,procedure
+561203,surgical dressing under lia,1,supplies
+561207,"surgical ex, of impact/wisdom",1,dental
+561208,surgical ex. deep tooth,1,dental
+561209,surgical ex. deep tooth407,1,procedure
+561210,surgical ex. medium impacted tooth,1,dental
+561211,surgical ex. medium impacted tooth406,1,procedure
+561212,surgical ex. of impact/wisdom,1,dental
+561213,surgical ex. remaining roots,1,procedure
+561214,surgical ex. remaining roots403,1,procedure
+561215,surgical excietion lipoma,1,procedure
+561217,surgical excision of beningnmass,1,procedure
+561218,surgical excision of ganglion cyst under ga,1,procedure
+561219,surgical excision of lipoma,1,procedure
+561220,surgical exctraction of a tooth,1,dental
+561221,surgical exploration,1,procedure
+561223,surgical exposer of impacted canine with bracket orthodontic,1,dental
+561224,surgical exposer of impacted canine with bracket ( orthodontic)ِ,1,dental
+561225,surgical exposure for non-erupted tooth,1,dental
+561227,surgical exposure of impacted tooth for orthodontic,1,dental
+561229,surgical ext for impacted tooth,1,dental
+561230,surgical ext for impacted tooth horizontal,1,dental
+561231,surgical ext for impacted tooth partial,1,dental
+561232,surgical ext for impacted tooth vertical,1,dental
+561233,surgical ext of tooth- not elsewhere specfied,1,dental
+561236,surgical ext. of imp.tooth,1,dental
+561237,surgical ext. posterior,1,procedure
+561240,surgical ext.posterior,1,procedure
+561241,surgical extaction - impacted tooth (complex,1,dental
+561242,surgical extaction for full impacted wisdom teeth,1,dental
+561244,surgical extrd13:o13acted - complex,1,procedure
+561247,surgical extraction 324,1,dental
+561249,surgical extraction of erupted molar - in o.r,1,dental
+561251,surgical extraction # 28,1,dental
+561252,surgical extraction ( impacted ) complex,1,dental
+561255,surgical extraction ( impacted ) wisdom tooth,1,dental
+561256,surgical extraction ( impacted )- complex,1,dental
+561257,surgical extraction (acute 2) - ??? ????? (acute 2,1,dental
+561259,surgical extraction (medium,1,dental
+561263,surgical extraction + follow up,1,dental
+561264,"surgical extraction , erupted tooth or exposed root",1,dental
+561266,surgical extraction - complex - 1 ??? ????? ???? ????,1,dental
+561267,surgical extraction - difficult,1,dental
+561268,surgical extraction - impacted tooth (simple,1,dental
+561270,surgical extraction - simple (any tooth except wisdom,1,dental
+561271,surgical extraction - simple-1 ??? ????? ???? ????,1,dental
+561272,surgical extraction - impacted wisdom tooth,1,dental
+561274,surgical extraction -complex -2,1,dental
+561275,surgical extraction -complex -involving bone removal stitches,1,imaging
+561276,surgical extraction -semi complicated case,1,dental
+561277,surgical extraction -semi complicted case,1,dental
+561279,surgical extraction -simple -use of - elevator dissecting,1,dental
+561280,surgical extraction -simple case,1,dental
+561282,surgical extraction -complicated cas,1,dental
+561283,surgical extraction -complicated case,1,dental
+561285,surgical extraction /root / tooth,1,dental
+561287,surgical extraction 2,1,dental
+561288,surgical extraction 3056,1,dental
+561289,surgical extraction ???? ??,1,dental
+561290,surgical extraction ankylosed tooth,1,dental
+561291,surgical extraction ankylosed tooth - insurance,1,dental
+561293,surgical extraction complex involving bone removal & stitches,1,imaging
+561294,surgical extraction complex with suture,1,dental
+561295,surgical extraction difficult,1,dental
+561298,surgical extraction for impacted canine,3,dental
+561299,surgical extraction for palatal impaction,1,dental
+561300,surgical extraction for partially impacted 3rd molar,4,dental
+561306,surgical extraction for tooth or remaning root,1,dental
+561307,surgical extraction for tooth(or remaining root,1,dental
+561308,surgical extraction for totally impacted tooth molar,2,dental
+561309,surgical extraction fully erupted,2,dental
+561310,surgical extraction fully erupted tooh,1,dental
+561312,surgical extraction ii,1,dental
+561313,"surgical extraction impacted , wisdom tooth",1,dental
+561314,surgical extraction impacted - complex,1,dental
+561316,surgical extraction impacted molar canin,1,dental
+561321,surgical extraction impactedwisdom tooth,1,dental
+561322,surgical extraction molar,1,dental
+561323,surgical extraction non wisdom,1,dental
+561324,surgical extraction of 3rd molar,1,dental
+561325,surgical extraction of bony impacted tooth,1,dental
+561328,surgical extraction of deep retained root,1,dental
+561329,surgical extraction of fully impacted-bupa,1,dental
+561330,surgical extraction of fully impacted-including ga bupa,1,dental
+561333,surgical extraction of impacted /wisdom,1,dental
+561336,surgical extraction of impacted tooth- bony tissue - ??? ??? ????? ?? ?? ????? - ????,1,dental
+561337,surgical extraction of impacted wisdom,2,dental
+561343,surgical extraction of other tooth-bupa,1,dental
+561344,surgical extraction of partial impacted teeth,1,dental
+561345,surgical extraction of partially erupted tooth,2,dental
+561347,surgical extraction of partially impacted w/o ga bupa,1,dental
+561348,surgical extraction of permanent retained root,1,dental
+561349,surgical extraction of remaining root (simple) - ??? ??? ????? ????,1,dental
+561350,surgical extraction of remaining root-bupa,1,dental
+561352,surgical extraction of retained root fragment,1,dental
+561353,surgical extraction of root,1,dental
+561354,surgical extraction of root apex,1,dental
+561356,surgical extraction of tooth with bone removal,1,imaging
+561357,surgical extraction of totally embedded tooth,1,dental
+561359,surgical extraction of wisdom tooth (horizontal impaction,1,dental
+561360,surgical extraction of wisdom tooth (vertical impaction,1,dental
+561361,surgical extraction of wisom tooth,1,dental
+561362,surgical extraction partial implanted,1,dental
+561363,surgical extraction per tooth not wisdom,1,dental
+561364,surgical extraction posterior teeth,1,dental
+561365,surgical extraction remain,1,dental
+561368,surgical extraction the third molar,2,dental
+561369,surgical extraction tooth full,1,dental
+561370,surgical extraction tooth partial,1,dental
+561372,surgical extraction wisdom fully impacted-bupa,1,dental
+561373,surgical extraction wisdom then stitches,1,dental
+561375,surgical extraction wisdom tooth/impacted,1,dental
+561377,surgical extraction with cut roots,2,dental
+561378,surgical extraction with elevators,1,dental
+561379,surgical extraction with elevators - insurance,1,dental
+561381,surgical extraction for impacted tooth - complex,1,dental
+561389,surgical extraction for tooth - or remaining root,1,dental
+561392,surgical extraction for totally impacted 3rd molar - complex,1,dental
+561393,surgical extraction for wisdom teeth (impacted,1,dental
+561395,surgical extraction for impacted,1,dental
+561400,surgical extraction for teeth(or remaining root,1,dental
+561405,surgical extraction for totally impacted tooth,1,dental
+561407,surgical extraction for wisdom root,1,dental
+561409,surgical extraction impacted tooth (complex,3,dental
+561410,surgical extraction impected,2,dental
+561411,surgical extraction lmpacted molar or canin,1,dental
+561413,surgical extraction of - 1 rooted tooth - in o.r,1,dental
+561416,surgical extraction of fully erupted tooth,1,dental
+561417,surgical extraction of horizontal impactedwisdom,1,dental
+561420,surgical extraction of impacted / wisdom,1,dental
+561421,surgical extraction of impacted /wisdon tooth,1,dental
+561422,surgical extraction of impacted cannie,1,dental
+561429,surgical extraction of impaction tooths,1,dental
+561430,surgical extraction of implant tooth,2,dental
+561431,surgical extraction of milk tooth,1,dental
+561433,surgical extraction of partially im[acted tooth,1,dental
+561437,surgical extraction of remaining,1,dental
+561438,surgical extraction of remaining - root,1,dental
+561440,surgical extraction of tooth with,1,dental
+561443,surgical extraction of totally impacted 3rd mandibular molar complex,1,dental
+561444,surgical extraction of totally impacted tooth - complex,1,dental
+561445,surgical extraction of wisdom tooth (simple case,1,dental
+561451,surgical extraction of impacted tooth /root,1,dental
+561452,surgical extraction of impacted/wisdom t,1,dental
+561455,surgical extraction of partially or fully impacted tooth,1,dental
+561458,surgical extraction of tooth ( ot remaining root,1,dental
+561459,surgical extraction of tooth / root,1,dental
+561460,surgical extraction of tooth root,1,dental
+561461,surgical extraction of tooth root?,1,dental
+561462,surgical extraction of tooth with the root - adult,1,dental
+561463,surgical extraction of widom tooth/impacted,1,dental
+561465,surgical extraction of? partially or fully impacted tooth,1,dental
+561467,surgical extraction widom tooth,1,dental
+561469,surgical extraction with root separation,1,dental
+561470,surgical extraction with remove bone,2,imaging
+561471,surgical extraction(impacted wisdom tooth,1,dental
+561472,surgical extraction(impacted) wisdom tooth,1,dental
+561474,"surgical extraction, complex",3,dental
+561476,"surgical extraction, simple",3,dental
+561479,surgical extraction- impacted teeth,1,dental
+561481,surgical extraction- simple- use of elev,1,dental
+561482,surgical extraction-(no wisdom,1,dental
+561483,surgical extraction-7019,1,dental
+561484,surgical extraction-complex (involving,1,dental
+561490,surgical extraction-simple use of elev,1,dental
+561494,surgical extraction. complex,1,dental
+561495,surgical extraction. simple,1,dental
+561496,surgical extraction1255,1,procedure
+561497,surgical extractionof palatal impaction,1,procedure
+561498,surgical extraon,1,procedure
+561499,surgical extration - impacted tooth (simple,1,dental
+561500,surgical extration for impacted toot,1,procedure
+561501,surgical extraxtion,3,procedure
+561503,surgical fixation left testis with torsion,1,procedure
+561504,surgical fixation right testis with torsion,1,procedure
+561505,surgical flap curettage with suture - per one tooth,1,dental
+561506,surgical fully impacted tooth under ga,1,dental
+561507,surgical glove p / free red size 6.5 / 1 box =50 pcs,1,procedure
+561508,surgical glove p / free red size 7 box=50 pcs,1,procedure
+561509,surgical glove p / free red size 7.5 box=50 pcs,1,procedure
+561510,surgical glove p / free red size 8 box=50 pcs,1,procedure
+561511,surgical glove size 8.5 p / free red box=50 pcs,1,procedure
+561512,surgical gloves 6.0,1,supplies
+561513,surgical gloves 6.5,1,supplies
+561514,surgical gloves 7.0,1,supplies
+561516,surgical gloves 8.0,1,supplies
+561518,surgical gloves sterile pf size # 6.0,1,supplies
+561519,surgical gloves sterile pf size # 6.5,1,supplies
+561520,surgical gloves sterile pf size # 7.0,1,supplies
+561521,surgical gloves sterile pf size # 7.5,1,supplies
+561522,surgical gloves sterile pf size # 8.0,1,supplies
+561523,surgical gloves sterile pf size # 8.5,1,supplies
+561525,surgical gown sterile medium,2,supplies
+561526,surgical gown compel large,1,supplies
+561527,surgical gown compel x large,1,supplies
+561528,surgical gown l,1,supplies
+561529,surgical gown reinforced xl,1,supplies
+561530,surgical gown sterile large,2,supplies
+561531,surgical gown sterile x-large,1,supplies
+561532,surgical gown sterile xx-large,1,supplies
+561535,surgical gown size xl elite,1,supplies
+561536,surgical head cover - female,1,procedure
+561537,surgical head cover - male,1,procedure
+561538,surgical icu - isolation room - medical care,1,procedure
+561539,surgical icu - isolation room - nursing care,1,procedure
+561541,surgical icu - nursing care,1,procedure
+561542,surgical impacted tooth exposure - complex,2,dental
+561543,surgical impacted tooth exposure - simple,2,dental
+561546,surgical impacted tooth exposure / simple,2,dental
+561549,surgical impacted tooth,1,dental
+561550,surgical incision of chalazion / acut,1,procedure
+561551,surgical insision of abscess ? local anathesea,1,procedure
+561552,surgical male cirumcision,1,procedure
+561553,surgical management of anal fissure p/d,1,procedure
+561554,surgical management of anal fissure,1,procedure
+561555,surgical mandibular osteotomy and fixation - including plates and screws,1,supplies
+561557,surgical navigation system,1,procedure
+561558,surgical oncology and upper gi follow-up,1,procedure
+561559,surgical p. i. or s. i,1,procedure
+561561,surgical partially impacted tooth,1,dental
+561562,surgical partially impacted tooth extraction,1,dental
+561563,surgical pathology consultation (kfsh,1,procedure
+561564,surgical pathology consultation (mayo clinic,1,procedure
+561565,surgical percutaneous pleural biopsy,1,procedure
+561566,surgical permanent tooth ext. diffi,1,dental
+561567,surgical permenant remaning root (difficult,1,procedure
+561568,surgical permenant remaning root - difficult,1,procedure
+561569,surgical permenant remaning root - moderate,1,procedure
+561570,surgical permenant remaning root - simple,1,procedure
+561571,surgical permenant tooth ext/ canine&bicuspid impacted- mod,1,dental
+561572,surgical permenant tooth ext/ canine&bicuspid impacted- simple,1,dental
+561573,surgical permenant tooth ext/ molar not wisdom - impacted,1,dental
+561574,surgical permenant tooth extraction /canine&bicupid erupted,1,dental
+561575,surgical permenant tooth extraction /molar erupted,1,dental
+561576,surgical permenant tooth extraction/canine-bicuspid (impacted)mod,1,dental
+561578,surgical posterior capsulotomy ( done inside your facility,1,procedure
+561579,surgical procedure with anaesthesia - medium,1,procedure
+561580,surgical rectal biopsy under g.a,1,procedure
+561582,surgical removal of big chlezion in upper eye lid,1,procedure
+561583,surgical removal of erupted,1,procedure
+561586,surgical removal of impacted unerupted tooth,1,dental
+561587,surgical removal of one tooth requiring both removal of bone and tooth -bup,1,imaging
+561588,surgical removal of one tooth requiring removal of bone and tooth-bupa,1,imaging
+561600,surgical removal of erupted tooth/r.r,1,dental
+561601,surgical removal of gum - polyp,1,dental
+561607,surgical removal of root fragment rrs,1,procedure
+561608,surgical removal of small cyst,1,procedure
+561611,surgical removal of impacted tooth with x-ray,1,imaging
+561612,surgical removal of the wisdom tooth,1,dental
+561614,surgical removal root,1,procedure
+561615,surgical removal/foreign body - in o.r,1,procedure
+561616,surgical repair of neglected lig. tear,1,procedure
+561617,"surgical repair for cleft lip and palate disorders, minor complexity",1,procedure
+561618,surgical root ext - ??? ???? ?????,1,procedure
+561619,surgical scaling one jaw,2,dental
+561620,surgical scaling one jaw with bone graft,1,imaging
+561621,surgical scaling for gingival pockets,1,dental
+561622,surgical specialist consultation,1,procedure
+561623,surgical sterile marking pens,1,supplies
+561624,surgical stitch per each one,1,supplies
+561625,surgical stitch/1to 5,1,procedure
+561627,surgical stitches for a lacrated wound less than10 stiches,1,procedure
+561628,surgical stitches for a lacrated wound more than 10stiches,1,procedure
+561629,surgical stitches for a lacrated wound more than10 stiches,1,procedure
+561630,surgical stitches for a simple of moderate cut wound,1,procedure
+561631,surgical stitches for a simple of moderate cut wound (per se,1,procedure
+561632,surgical stitches for a simple cut wound/ stich,1,procedure
+561633,surgical suture,1,supplies
+561634,surgical suture grade 1,1,supplies
+561635,surgical suture up to 4 stitch,2,supplies
+561639,surgical suturing (one,1,supplies
+561648,surgical totally impacted tooth extraction,1,dental
+561649,"surgical treatment of benigntumours of bone + bone grafting, 3 days",1,imaging
+561651,surgical treatment of benign tumors of the bone + bone grafting (casts or splints not included,1,imaging
+561653,surgical treatment of simple mandibular fracture,1,procedure
+561654,surgical wisdom tooth ext. erupted,1,dental
+561655,surgical wisdom tooth ext. horizontaly impacted,1,dental
+561656,surgical wisdom tooth ext. particially erupted,1,dental
+561657,surgical wisdom tooth ext. vertically impacted,1,dental
+561658,surgical wisdom tooth extraction or super (erupted,1,dental
+561659,surgical wisdom tooth extraction or super (vertically impacted,1,dental
+561660,surgical access and flap elevation of the peri-implant soft tissues to access th,1,supplies
+561661,surgical access and flap elevation of the peri-implant soft tissues to access the implant surface f,1,supplies
+561662,surgical access and flap elevation of the peri-implant soft tissues to access the implant surface for decontamination. the procedure includes the removal of inflammatory tissue. grafting or regenerative materials where placed should be itemised separately,1,supplies
+561663,surgical access of an unerupted tooth,1,dental
+561664,"surgical adhesive/sealant, microbe-derived",1,supplies
+561665,"surgical anti-adhesion material, implantable, bioabsorbable",1,procedure
+561666,surgical arthroscopy,1,procedure
+561668,"surgical capillary wound drain, luminal, hevea-latex",1,procedure
+561669,surgical clip rack,1,supplies
+561670,"surgical clip remover, reusable",1,supplies
+561671,surgical drape adhesive,1,supplies
+561673,surgical dressing/drape kit,1,supplies
+561674,surgical drill chuck,1,procedure
+561675,surgical drill guide obturator,1,procedure
+561676,surgical ectraction,2,procedure
+561677,surgical enucleation of cystic lesion,1,procedure
+561678,surgical evacuation biopsy,2,procedure
+561681,surgical excision of ectopic pregnany by laparatomy,1,procedure
+561682,surgical exposure and attach device for orthodonti,1,procedure
+561683,surgical exposure and attachment of device for,1,procedure
+561685,surgical exposure and manipulation of an unerupted tooth to correct its position but not t,1,dental
+561686,surgical exposure and manipulation of an unerupted tooth to correct its position but not to detach the tooth from its supporting tissues,1,dental
+561687,surgical exposure of an unerupted tooth to encourage its eruption,2,dental
+561689,surgical exposure of impacted (unerupted) tooth,1,dental
+561690,surgical exposure of impacted (unerupted) tooth and placement of an orthodontic appliance,1,dental
+561691,surgical exposure of impacted (unerupted) tooth with stimulation and packing,1,dental
+561692,surgical exposure of the apical section of the roo,1,procedure
+561694,surgical exposure of the apical section of the root of a pulpless or endodontically treate,1,procedure
+561695,surgical exposure of the apical section of the root of a pulpless or endodontically treated tooth t,2,dental
+561696,surgical exposure of the apical section of the root of a pulpless or endodontically treated tooth to,1,dental
+561698,"surgical exposure of the apical section of the root of a pulpless or endodontically treated tooth to remove the apical portion of the root, including curettage of the region",1,dental
+561707,surgical ext. of badly decayed tooth or r.r,1,dental
+561709,surgical extension,1,procedure
+561712,surgical extraction (( hard tissue impaction,3,dental
+561713,surgical extraction (( soft tissue impaction,3,dental
+561714,surgical extraction - (no wisdom,1,dental
+561715,surgical extraction 3rd molar (bony impaction,1,dental
+561716,surgical extraction complicated (impacted) wisdom tooth,1,dental
+561719,surgical extraction by splitting,1,dental
+561720,surgical extraction f/impacted,1,dental
+561721,surgical extraction for impacted 3 rd molar,1,dental
+561727,surgical extraction for root apex,1,dental
+561729,surgical extraction fully impacted tooth,1,dental
+561732,surgical extraction impacted tooth (simple,1,dental
+561733,surgical extraction of impacted wisdom teeth,1,dental
+561734,surgical extraction of impacted wisdom teeth to mandibular nerve,1,dental
+561737,surgical extraction of a buried molar,1,dental
+561738,surgical extraction of an apparent molar,1,dental
+561739,surgical extraction of apparent tooth or root,1,dental
+561740,surgical extraction of badly decayed wisdom tooth,1,dental
+561741,surgical extraction of complete impaction,1,dental
+561742,surgical extraction of erupted molar,2,dental
+561743,surgical extraction of erupted tooth,1,dental
+561744,surgical extraction of fully impacted - incl ga per tooth,1,dental
+561745,surgical extraction of fully impacted - including ga per tooth,1,dental
+561747,surgical extraction of impacted third molar,1,dental
+561749,surgical extraction of impacted tooth completely bony,1,dental
+561750,surgical extraction of impacted tooth partielly bony,1,dental
+561751,surgical extraction of impacted tooth soft tissue,1,dental
+561752,surgical extraction of impacted tooth with x-ray,1,imaging
+561753,surgical extraction of impacted tooth-partial,1,dental
+561754,surgical extraction of impacted tooth/root,1,dental
+561755,surgical extraction of impacted wisdom position b,1,dental
+561756,surgical extraction of impacted wisdom position c,1,dental
+561758,surgical extraction of normal tooth,1,dental
+561759,surgical extraction of partaily impacted molar,1,dental
+561760,surgical extraction of partial impaction,1,dental
+561761,surgical extraction of partially impacted - not req ga per t,1,dental
+561762,surgical extraction of partially impacted - not req. ga per tooth,1,dental
+561763,surgical extraction of remnant root,1,dental
+561764,surgical extraction of remnant root with glanuloma,1,dental
+561765,surgical extraction of single rooted-tooth,1,dental
+561767,surgical extraction of tooth or molar(embedded,1,dental
+561768,surgical extraction of tooth(wisdom-impacted,1,dental
+561769,surgical extraction of upper wisdom tooth with closed relationship to the maxillary sinus with high risk of oro-antral opening,1,dental
+561771,surgical extraction of wisdom 2,1,dental
+561772,surgical extraction of wisdom 3,1,dental
+561773,surgical extraction of wisdom teeth,1,dental
+561775,surgical extraction or remaning root extraction,1,dental
+561776,surgical extraction partly bonny impacted tooth,1,dental
+561779,surgical extraction tooth or tooth fragment,1,dental
+561780,surgical extraction with difficwlties,1,dental
+561781,surgical extraction-sa,1,dental
+561782,surgical extraction: 3rd molar (partially impacted,1,dental
+561783,surgical extractionof remaining root with x-ray,1,imaging
+561784,surgical eye pressure shield,1,procedure
+561785,surgical fluid heating plate,1,supplies
+561786,surgical fluid/gas irrigator,1,procedure
+561787,surgical fluid/smoke waste management system,1,procedure
+561789,surgical glove lubricant,1,procedure
+561791,"surgical gown, single-use",1,supplies
+561792,surgical guide for an immediate denture,1,dental
+561793,surgical hair clippers,1,procedure
+561794,surgical hair clippers blade,1,supplies
+561795,surgical hair clippers suction system,1,supplies
+561796,surgical hood,1,procedure
+561799,"surgical instrument assist arm system, manually-adjusted",1,procedure
+561800,surgical instrument clip,1,supplies
+561801,"surgical instrument containment holder, single-use, sterile",1,supplies
+561802,surgical instrument seal/seal maintenance set,1,procedure
+561803,"surgical instrument/endoscope cleaning brush/tool, reusable",1,procedure
+561804,"surgical instrument/endoscope cleaning brush/tool, single-use",1,procedure
+561805,surgical irrigation handpiece nozzle,1,procedure
+561806,"surgical irrigation tubing set, single-use",1,supplies
+561807,surgical irrigation/aspiration tubing set,1,supplies
+561808,surgical laser system fibreoptic cable,1,supplies
+561809,surgical lung transplant follow-up,1,procedure
+561810,surgical lung transplant new follow-up,1,procedure
+561811,surgical mesh t fastener,1,supplies
+561812,surgical mesh laparoscopic delivery/positioning device,1,supplies
+561813,surgical mesh/graft awl,1,supplies
+561814,surgical odontectomy of impacted tooth,1,dental
+561815,surgical of wisdom tooth simple case,1,dental
+561816,surgical osteotomy of impacted wisdom tooth with high risk of nerve injury,1,dental
+561818,"surgical pathology - level iii , gross and microscopic examination abortion, induced abscess aneurysm - arterial/ventricular anus, tag appendix, other than incidental artery, atheromatous plaque bartholin's gland cyst bone fragment(s), inflammatory - nasa",1,imaging
+561819,"surgical pathology - level iii , gross and microscopic examination abortion, induced abscess aneurysm - arterial/ventricular anus, tag appendix, other than incidental artery, atheromatous plaque bartholins gland cyst bone fragment(s), inflammatory - nasa",1,imaging
+561820,"surgical pathology - level vi , gross and microscopic examination bone resection breast, mastectomy - with regional lymph nodes colon, segmental resection for tumor colon, total resection esophagus, partial/total resection extremity, disarticulation fetus",1,imaging
+561821,"surgical pathology - level vi , gross and microscopic examination bone resection breast, mastectomy - with regional lymph nodes colon, segmental resection for tumor colon, total resection esophagus, partial/total resection extremity, disarticulation fetus, with dissection larynx, partial/total resection - with regional lymph nodes lung - total/lobe/segment resection pancreas, total/subtotal resection prostate, radical resection small intestine, resection for tumor soft tissue tumor, extensive resection stomach - subtotal/total resection for tumor testis, tumor tongue/tonsil -resection for tumor urinary bladder, partial/total resection uterus, with or without tubes and ovaries, neoplastic vulva, total/subtotal resection",1,imaging
+561822,"surgical pathology -level ii , gross and microscopic examination appendix, incidental fallopian tube, sterilization fingers/toes, amputation, traumatic foreskin, newborn hernia sac, any location h",1,lab_test
+561823,"surgical pathology -level ii , gross and microscopic examination appendix, incidental fallopian tube, sterilization fingers/toes, amputation, traumatic foreskin, newborn hernia sac, any location hydrocele sac nerve skin, castration vaginal mucosa, inciden",1,lab_test
+561824,"surgical pathology -level ii , gross and microscopic examination appendix, incidental fallopian tube, sterilization fingers/toes, amputation, traumatic foreskin, newborn hernia sac, any location hydrocele sac nerve skin, castration vaginal mucosa, incidental vas deferens, sterilization",1,lab_test
+561826,surgical pathology level 2,1,lab_test
+561827,"surgical pathology- level v , gross and microscopic examination adrenal, resection bone - biopsy/curettings bone fragment(s), pathologic fracture brain, biopsy brain/meninges, tumor resection breast, excision of lesion, requiring microscopic evaluation of surgical margins breast, mastectomy other than for tumor soft tissue mass (except lipoma) - biopsy/simple excision stomach - subtotal/total resection, other than for tumor testis, biopsy thymus, tumor thyroid, total/lobe ureter, resection urinary bladder, tur uterus, with or without tubes and ovaries, other than neoplastic/prolapse",1,imaging
+561828,"surgical pathology- level v , gross and microscopic examination adrenal, resection bone - biopsy/curettings bone fragment(s), pathologic fracture brain, biopsy brain/meninges, tumor resection breast, excision of lesion, requiring microscopic evaluation of",1,imaging
+561830,"surgical pathology-level iv , gross and microscopic examination abortion - spontaneous/missed artery, biopsy bone marrow, biopsy bone exostosis brain/meninges, other than for tumor resection breast, b",1,imaging
+561831,"surgical pathology-level iv , gross and microscopic examination abortion - spontaneous/missed artery, biopsy bone marrow, biopsy bone exostosis brain/meninges, other than for tumor resection breast, biopsy, not requiring microscopic evaluation of surgical",1,imaging
+561832,surgical patient underpants,1,procedure
+561833,surgical placement of implant body : endosteal implant,2,supplies
+561835,surgical plume evacuation system,1,procedure
+561836,surgical plume evacuation system tube,1,supplies
+561837,surgical power tool hand-switch,1,procedure
+561838,"surgical power tool system handpiece, reaming, pneumatic",1,procedure
+561839,"surgical power tool system handpiece, rotary, non-rechargeable battery-powered, reusable",1,procedure
+561840,surgical probe/cannula bending tool,1,supplies
+561842,surgical removal removal of impacted tooth soft tissue,1,dental
+561843,surgical removal deep wart,1,procedure
+561844,surgical removal for complicated fractured tooth,1,dental
+561845,surgical removal of 1 tooth not requiring removal of bone or tooth division,2,imaging
+561846,surgical removal of 1 tooth requiring both removal,1,dental
+561847,surgical removal of 1 tooth requiring both removal of bone and tooth division,1,imaging
+561848,surgical removal of 1 tooth requiring both removal of bone and tooth division (includes elevation of mucoperiosteal flap,1,imaging
+561850,surgical removal of sc lipoma,1,procedure
+561853,surgical removal of a lotion (a tooth,1,dental
+561854,surgical removal of a molar and wisdom tooth,1,dental
+561855,surgical removal of a too,1,procedure
+561857,surgical removal of a tooth or,2,dental
+561858,surgical removal of a tooth or no fragment,1,dental
+561859,surgical removal of a tooth or fragment in removal,1,dental
+561860,surgical removal of a tooth or fragment in removal of bone,1,imaging
+561861,surgical removal of a tooth or fragment in removal of bone - ncci,1,imaging
+561862,surgical removal of a tooth or t. f. r. b. r. o. b. a. t. d,1,dental
+561864,surgical removal of a tooth or tooth fragment not,2,dental
+561865,surgical removal of a tooth or tooth fragment not requiring,2,dental
+561866,surgical removal of a tooth or tooth fragment not requiring both removal of bone and tooth division,1,imaging
+561867,surgical removal of a tooth or tooth fragment not requiring remov,1,dental
+561870,surgical removal of a tooth or tooth fragment not requiring removal of bone o,1,imaging
+561873,surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth divis,1,imaging
+561875,surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth division ( no:4,1,imaging
+561876,surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth division ( cani,1,imaging
+561877,surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth division (no: 2,1,imaging
+561878,surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth division (no: 3,1,imaging
+561881,surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth division[322,1,imaging
+561882,surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth division|الاستئصال الجراحي للسن أو جزء السن الذي لا يتطلب إزالة العظام أو تقسيم الأسنان,1,imaging
+561883,surgical removal of a tooth or tooth fragment not requiring removal orf bone or tooth division,1,imaging
+561884,surgical removal of a tooth or tooth fragment req,1,dental
+561885,surgical removal of a tooth or tooth fragment requ,2,dental
+561887,surgical removal of a tooth or tooth fragment requiring both removal,1,dental
+561889,surgical removal of a tooth or tooth fragment requiring both removal of bone,1,imaging
+561890,surgical removal of a tooth or tooth fragment requiring both removal of bone an,1,imaging
+561892,surgical removal of a tooth or tooth fragment requiring both removal of bone and tooth div,1,imaging
+561893,surgical removal of a tooth or tooth fragment requiring both removal of bone and tooth divisio,1,imaging
+561898,surgical removal of a tooth or tooth fragment requiring both removal of bone and tooth division|الاستئصال الجراحي للسن أو جزء السن الذي يتطلب إزالة العظام وانقسام الأسنان,1,imaging
+561899,surgical removal of a tooth or tooth fragment requiring remo,1,dental
+561900,surgical removal of a tooth or tooth fragment requiring removal,1,dental
+561902,surgical removal of a tooth or tooth fragment requiring removal of bone ( no.38,1,imaging
+561903,surgical removal of a tooth or tooth fragment requiring removal of bone ( no: 48,1,imaging
+561904,surgical removal of a tooth or tooth fragment requiring removal of bone (18,1,imaging
+561905,surgical removal of a tooth or tooth fragment requiring removal of bone (28,1,imaging
+561906,surgical removal of a tooth or tooth fragment requiring removal of bone (38,1,imaging

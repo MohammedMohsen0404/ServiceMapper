@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+338654,liver function test (full,1,lab_test
+338655,liver function test (l f t,1,lab_test
+338657,liver function test (lft)[8 test,1,lab_test
+338658,liver function test (profile,2,lab_test
+338659,liver function test (to/dir bil sgot sgpt alk.ph,2,lab_test
+338661,"liver function test (to/dir bil, sgot, sgpt, alk.ph",1,lab_test
+338662,"liver function test (to/dir bil, sgot, sgpt, alk.ph)(500096",1,lab_test
+338663,"liver function test (total/dir bil, sgot, sgpt, alk.ph)-profile",1,lab_test
+338664,liver function test -9085,1,lab_test
+338665,liver function test lft,3,lab_test
+338666,liver function test panel,1,lab_test
+338667,liver function test sgpt,1,lab_test
+338668,liver function test to dir bil sgot sgpt alkph,1,lab_test
+338669,liver function test(lft,3,lab_test
+338671,liver function test-lft,1,lab_test
+338672,"liver function test= c bil ,u bil ,alb , sgot , alkph",1,lab_test
+338673,liver function tests,4,lab_test
+338674,liver function tests (lft,3,lab_test
+338675,liver function tests (tb-d5 ?sgpt-sgot-g.g.t-alk-ph-tp-a/g,1,lab_test
+338676,liver function tests (tb-d5 sgpt-sgot-g.g.t-alk-ph-tp-a/g,1,lab_test
+338677,liver function tests (tb-d5 usgpt-sgot-g.g.t-alk-ph-tp-a/g,1,lab_test
+338678,liver function tests - (l f t,1,lab_test
+338679,liver function tests - lab test,1,lab_test
+338680,liver function tests - lft,1,lab_test
+338681,"liver function tests - lft(dbil,inbil,tbil,prot,alb,ast,alt,alkphos",2,lab_test
+338683,liver function tests - lft(dbil.inbil.tbil.prot.alb.ast.alt.alkphos,1,lab_test
+338684,liver function tests - lft(dbilinbiltbilprotalbastaltalkphos,1,lab_test
+338685,"liver function tests -lft(dbil,inbil,tbil,prot,alb,ast,alt,alkphos",1,lab_test
+338686,liver function tests including bilirubin,1,lab_test
+338687,liver function tests la00410191,1,lab_test
+338688,liver function tests lft(dbil,1,lab_test
+338690,liver functions,2,other
+338691,liver gall bladder and spleen,1,other
+338692,liver haemangioma (rbc labelling,1,lab_test
+338693,liver imaging static with delayed image (hida,1,other
+338694,liver kidney microsomal ab,2,lab_test
+338697,liver kidney microsomal abs (lkm,1,lab_test
+338698,liver kidney microsomal abs @,1,lab_test
+338699,liver kidney microsomal abs. (lkm,1,lab_test
+338700,liver kidney microsomal antibodies,1,lab_test
+338701,liver kidney microsomal antibodies (lkm,1,lab_test
+338702,liver kidney microsomal antibodies serum,1,lab_test
+338703,liver kidney microsomal antibodies(524058,1,lab_test
+338704,liver membrane abs,1,lab_test
+338706,"liver profile (alb,bil,alt,ast,tp,alp",2,lab_test
+338707,liver profile - 044-20127,1,lab_test
+338708,liver profile lft,1,lab_test
+338709,liver profile(sgot sgpt alp t.bililrubin,1,lab_test
+338710,liver profile?????????? ??????,1,lab_test
+338711,liver protein abs,1,lab_test
+338712,liver resection (complex)-6 days pkg,1,procedure
+338713,liver resection (segmentectomy,1,procedure
+338714,liver screening package,1,lab_test
+338715,liver specific protein abs,1,lab_test
+338716,liver test,1,lab_test
+338717,liver transplant,1,other
+338718,liver transplant - live recipient package (icu up to 7 days ward 21 days) excluding pre admission screening cost and after discharge follow up cost,1,lab_test
+338719,liver transplant pharmacotherapy follow-up,1,consultation
+338720,liver transplant pharmacotherapy new follow-up,1,consultation
+338721,liver w/o & w/ contrast,1,imaging
+338722,liver and spleen scan,1,imaging
+338723,liver&g.b u/s,1,imaging
+338724,liver-kidney microsomal antibody (lkm,1,lab_test
+338725,liver-kidney microsome igg antibody (anti-lkm,1,lab_test
+338726,liver.f.t,1,lab_test
+338727,liver/kidney membrane abs[lkm,2,lab_test
+338728,liver/kidney microsomal abs,1,lab_test
+338729,liver/kidney microsomal abs[lkm,2,lab_test
+338730,liverkidney microsomal ab,1,lab_test
+338735,living donor kidney transplant surgery (donor) - 4days pkg,1,procedure
+338736,living donor kidney transplant surgery (recipient) - 7days pkg,1,procedure
+338738,livostin,1,other
+338770,livostin ey,1,other
+338794,livostin n spry,1,other
+338826,livador 500,2,other
+338907,lj2705,1,other
+338908,lkm,1,other
+338909,lkm ( liver and kidney microsomal antibody,2,lab_test
+338910,lkm ( liver kidney microsomal antibodies,1,lab_test
+338912,lkm (liver kidney microsmal ab,1,lab_test
+338913,lkm 1 & 2,1,other
+338914,lkm ab,1,lab_test
+338916,lkm antibodies (liver kidney microsomal,1,lab_test
+338917,"lkm abs (iif), serum",1,lab_test
+338918,"lkm abs (liver, kidney muscle) - ?????",1,lab_test
+338919,lkm1 - abs,1,lab_test
+338920,"lkma (liver, kidney, microsomal type 1 abs - igg) - s.o",1,lab_test
+338921,lkp,1,other
+338922,lkp by wave light,1,other
+338923,llariety 2013,1,other
+338924,llariety ua005,1,other
+338925,lliac artery recanalization,1,other
+338926,lm-4001b-f-betitmarcel,1,other
+338927,lm301 endo pouch retival bag 10mm 75*150mm,1,supplies
+338928,lm712 - endo clinch double action ratheted 5mm,1,other
+338929,lma anaesthesia,1,procedure
+338930,lmbar puncture,1,procedure
+338931,lncs disposable sensor,1,supplies
+338932,lncs pediatric adhesive sensor for masimo pulse oximeter #2318,1,supplies
+338933,lnet dermacell330m accellular dm for breast 10x20cm,1,other
+338934,lnet pcan 15 410 crushed cancellous chips 15cc # 1000151576,1,other
+338935,lnet pcan 30 14 cancellous chips 1- 4mm # 1000171059,1,other
+338936,lnet pcan 30 410 crushed cancellous chips # 1000151577,1,other
+338937,lnet pcan15 410 crushed cancellous chips #lnet pcan15 410,1,other
+338938,lnet pcan30 410 cancellous chips 30cc preservon #1000151577,1,other
+338939,lnet pcan30 410 cancellous chips 30cc# 1000151577,1,other
+338940,lnet pcan5 14 crushed cancellous chips 5cc # 1000191807,1,other
+338941,lnet pcan5 cancrllous chips 5 cc # sku id,1,other
+338942,lnet pcane 30 14 cancellous # 1000171059,1,other
+338943,lnet pcane 30 1710 cancellous chips 30cc# 1000013264,1,other
+338944,lnet tput01 optium dbm putty 1cc # 1000151598,1,other
+338945,lnet tput01 optium dbm putty 1cc 1000151596,1,other
+338946,lng.toe nail operation,1,supplies
+338949,lo-3311-f - lookino,1,other
+338950,lo-3322-f - lookino,1,other
+338951,lo-3758-f - lookino,1,other
+338952,lo-3770-f - lookino,1,other
+338953,lo-3810-f - lookino,1,other
+338954,lo-6415-f-lookino,1,other
+338955,lo-6416-f-lookino,1,other
+338956,lo2618/602/f,1,other
+338957,load drug delv device oth & unsp agt,2,other
+338958,"loader, express sew, iii, depuy mitek, 288234",1,supplies
+338959,loading unit for gia staplers gia 75-3.8 sin,1,other
+338960,loading unit tri2.0 siglu60a 60#medtroni -siglu60a,1,other
+338961,"loading unit, stapler, gia, push bar, knife, staple 3 x 3.8 mm, blue, tyco, gia6038l",1,supplies
+338963,loai sameer s basloom,1,other
+338964,lobectomy,1,procedure
+338965,lobectomy & pneumonectomy,1,procedure
+338966,"lobectomy (general consideration) by thoracotomy (5 days ward , first day icu",1,consultation
+338967,"lobectomy and radical mediastinal lymph node dissection for lung cancer (5 days ward, first day icu",1,consultation
+338968,lobectomy bronchoplastic and/or angioplasty with radical mediastinal lymph node dissection for lung,1,procedure
+338969,lobectomy lung,1,procedure
+338970,lobectomy of liver->c50.3,1,procedure
+338971,lobectomy of lung,1,procedure
+338972,lobectomy of lung - 8 days pkg,1,procedure
+338973,"lobectomy, lung",1,procedure
+338974,"lobectomy, lung - 7 days pkg (3 icu + 4 ward",1,consultation
+338975,lobectomy of liver - general surgery,1,procedure
+338976,lobster food allergen,1,lab_test
+338977,"loc ex and rem dev hp and fmr, majc",1,procedure
+338978,"loc ex and rem dev hp and fmr, minc",1,procedure
+338979,"loc ex and rem int dev-hp and fmr,majc",1,procedure
+338980,"loc ex and rem int dev-hp and fmr,minc",1,procedure
+338981,"loc ex&rem dev hp&fmr, majc",1,procedure
+338982,"loc ex&rem dev hp&fmr, minc",1,procedure
+338983,"loc ex&rem int dev-hp&fmr,majc",1,procedure
+338984,"loc ex&rem int dev-hp&fmr,minc",1,procedure
+338985,loc injec,1,other
+338986,loc. exc. or destr. ovarian lesion or tiss.(exc. o->c65.2,1,procedure
+338987,loc. exc. or destr. ovarian lesion or tiss.(exc. o-c65.2,1,procedure
+338988,"loc. exc./ destruc. of multiple lesions of skin, sub",1,procedure
+338989,loc. exc.or destr.of les. of facial bone(mandib.)e->c76.2,1,imaging
+338990,"loc.exc./destruc.of multiple lesions of skin, sub",2,procedure
+338992,"loc.exc./destruc.of multiple lesions of skin, subcutan",1,procedure
+338993,loc.exc.or.destr.ovarian lesion or tiss,1,procedure
+338994,loc.treat.of oral lesion small,1,other
+338995,locagel,1,other
+338996,locagel 0.01 sr 4.4,1,other
+338997,local excision of lesion of breast (lumpectomy or( o-51-c85.21,1,procedure
+338999,local advancement for rotation flap,1,other
+339000,local advancement or rotation flap,1,other
+339001,local anaesth esia large area,1,other
+339002,local anaesth esia small area,1,other
+339003,local anaesth. of minor operation,1,procedure
+339004,local anaesthesia,5,procedure
+339005,local anaesthesia ( if no procedure,1,procedure
+339006,local anaesthesia (if no,1,procedure
+339007,local anaesthesia (if no procedur,1,procedure
+339008,local anaesthesia (if no procedure,8,procedure
+339010,local anaesthesia (if no procedure) price :30.00,1,procedure
+339015,local anaesthesia (inlcluded with in any surgery / urology procdure,1,procedure
+339016,local anaesthesia - big,1,procedure
+339017,local anaesthesia - for 15 min,1,procedure
+339018,local anaesthesia - for 30 min,1,procedure
+339019,local anaesthesia - for 45 min,1,procedure
+339020,local anaesthesia - for 60 min,1,procedure
+339021,local anaesthesia - large area,1,procedure
+339022,local anaesthesia - small,1,procedure
+339023,local anaesthesia - small area,1,procedure
+339024,local anaesthesia 15 minutes,1,procedure
+339025,local anaesthesia 30 minutes,1,procedure
+339026,local anaesthesia assistant/hr,1,procedure
+339027,local anaesthesia dental,1,dental
+339028,local anaesthesia fee / big cases w/medicine,1,procedure
+339029,local anaesthesia fee / medium cases w/ medicine,1,procedure
+339030,local anaesthesia fee / small cases w/ medicine,1,procedure
+339031,local anaesthesia fee / small cases with medicine,1,procedure
+339032,local anaesthesia fees small area,1,procedure
+339033,local anaesthesia fees - large area,1,procedure
+339034,local anaesthesia fees - small area,1,procedure
+339035,local anaesthesia for a wide area,1,procedure
+339036,local anaesthesia haematoma evacuation,1,procedure
+339037,local anaesthesia if no procedure,1,procedure
+339038,local anaesthesia in opd,1,procedure
+339039,local anaesthesia infilt,1,procedure
+339042,local anaesthesia is included with,1,procedure
+339043,local anaesthesia is included with any procedur above,1,procedure
+339047,local anaesthesia large area(10506,1,procedure
+339048,local anaesthesia of small region,1,procedure
+339054,local anaesthesia [large area,1,procedure
+339055,local anaesthesia [small area,1,procedure
+339056,local anaesthesia _ big wound,1,procedure
+339057,local anaesthesia _ small wound,1,procedure
+339058,local anaesthesia( if no procedure,1,procedure
+339059,local anaesthesia(if no procedure,1,procedure
+339060,local anaesthesia- big wound,1,procedure
+339061,local anaesthesia- small wound,1,procedure
+339062,local anaesthesia/den0002,1,procedure
+339063,local anaesthesia/hr,1,procedure
+339064,local anaesthesia/large outside or,1,procedure
+339065,local anaesthesia/medium outside or,1,procedure
+339066,local anaesthesia/minor outside or,1,procedure
+339067,local anaesthetic infiltration/astreatme,1,other
+339068,local anaesthetic infiltro,1,other
+339069,local anaesthsia,1,other
+339070,local anaethesia,2,other
+339071,local anasthesia,3,other
+339072,local anasthesia - large wound,1,other
+339073,local anasthesia - small wound,2,other
+339074,local anasthesia large region,1,other
+339075,local anasthesia small region,1,other
+339076,local anasthesia small wound,1,other
+339077,local anasthisia for large area,1,other
+339078,local anathesia,2,other
+339079,local aneasthesia in opd,1,consultation
+339080,local aneasthesia inju,1,other
+339081,local aneasthesia inju.-232,1,other
+339082,local aneshesia,1,other
+339085,local anesthesia (gen surgery,1,procedure
+339086,local anesthesia (if no dental procedure,1,dental
+339087,local anesthesia (if no procedure,2,procedure
+339088,local anesthesia (if no procedure) - تخدير موضعي,1,procedure
+339089,local anesthesia (large-sized area,1,procedure
+339090,local anesthesia (medium-sized area,1,procedure
+339091,local anesthesia (o.p.d,1,procedure
+339092,local anesthesia (small-sized area,1,procedure
+339093,local anesthesia (big area,1,procedure
+339094,local anesthesia - big wound,1,procedure
+339095,local anesthesia - large area,2,procedure
+339096,local anesthesia - small area,2,procedure
+339097,local anesthesia . large area,1,procedure
+339098,local anesthesia 1125,1,procedure
+339100,local anesthesia for small area,1,procedure
+339103,local anesthesia large,3,procedure
+339105,local anesthesia large area,1,procedure
+339106,local anesthesia minor,1,procedure
+339107,local anesthesia mor/2*2cc,1,procedure
+339108,local anesthesia small,1,procedure
+339109,local anesthesia(skin,1,procedure
+339110,local anesthesia- small area,1,procedure
+339111,local anesthesia-l. area,1,procedure
+339112,local anesthesia-s.area,1,procedure
+339113,local anesthesia. small area,1,procedure
+339114,local anesthetic infiltration,1,other
+339115,local anesthsia,2,other
+339116,local anesthsia/suture,1,supplies
+339117,local anethesia,1,other
+339118,local ansthesia large,1,other
+339119,local ansthesia small,1,other
+339120,local anth small wound,1,other
+339121,local antibiotics (ear,1,other
+339122,local antifungal drugs (ear,1,other
+339123,local application treatment,1,other
+339130,local curretage of gum,1,dental
+339131,local excesion of lesion of breast lumpectomy,1,procedure
+339132,local excesion or destruction ovarian lesion or tissue,1,other
+339133,local excision of esophageal diverticulum->c42.31,1,procedure
+339134,local excision of lesion of bone (osteochondroma or exostosis,1,imaging
+339135,local excision of lesion of bone (osteochondroma or exostosis) - 1 day pkg,1,imaging
+339136,local excision of lesion of bone(osteochondroma,2,imaging
+339137,local excision of lesion of bone(osteochondroma or exostosis)- package,1,imaging
+339138,local excision of lesion of bone(osteochondroma or->c77.65,1,imaging
+339140,local excision of lesion of breast,1,procedure
+339141,local excision of lesion of breast (lumpectomy or,1,procedure
+339142,local excision of lesion of breast (lumpectomy or fibroad,1,procedure
+339143,local excision of lesion of breast (lumpectomy or fibroadenosis) - 1 day pkg,1,procedure
+339144,local excision of lesion of breast(lumpectomy or f->c85.21,1,procedure
+339145,local excision of lession or,1,procedure
+339146,local excision or destruction of multiple lesions of skin subcutan - 1 day pkg,1,procedure
+339147,local excisn or destruction oflesion or tissue of rectum,1,other
+339148,local excixionvof lession of breaat (lumpectomy,1,procedure
+339149,local excn./leison bone small,1,imaging
+339150,local eye dressing,1,supplies
+339151,local fasciocutaneous flap,1,other
+339152,local flap (large,1,other
+339153,local flap and skin graft in hand injury,1,procedure
+339154,local flap finger reconstruction,1,procedure
+339155,local flap finger reconstruction (2nd operation 50%,1,procedure
+339156,local flap in the face,1,other
+339157,local flap reconstruction,1,procedure
+339158,local flap reconstruction large,1,procedure
+339159,local flap reconstruction large los 2days,1,procedure
+339160,local flap reconstruction los 1 day,1,procedure
+339161,local flap reconstruction los dpu,1,procedure
+339162,local flap reconstruction medium,1,procedure
+339163,local flap reconstruction medium-pkg,1,procedure
+339164,local flaps,2,other
+339165,local flaps mediumbupa,1,other
+339166,local gum treatment,1,dental
+339167,local infiltration of steroid,1,other
+339168,local infiltration with steroid,1,other
+339169,local infiltrative anesthetic (small,1,other
+339174,local injec,2,other
+339248,local knee injec,1,other
+339249,local nerve block (upper/lower limb,1,procedure
+339253,local skin plasty,1,procedure
+339256,local steroid injections - service charge,1,consultation
+339261,local tendon and ligament infiltration,2,other
+339263,local treat. oral lesion large,1,other
+339264,local treat. oral lesion med,1,other
+339265,local treatment,1,other
+339266,local treatment of oral lesion small,1,other
+339267,local%20injection%20%2f%20with%20med,1,imaging
+339268,local%20injection%20to%20(joint%20or%20tendon%20%2f%20intra%20lesional%20%2f%20subconjunctival%20%2f%20intra-corporal%20%2f%20heel,1,imaging
+339270,local-anaesthesia,1,procedure
+339271,local-anaesthesia / infil.small,1,procedure
+339272,localaneastehsia,1,other
+339273,localanesthesia(o.p.d,1,lab_test
+339274,localin jection halqan,1,other
+339275,localin jection steroid,1,other
+339276,"localisation of lesion of breast, unilateral",2,other
+339277,localised bone study,2,imaging
+339278,localised bone study with spect,1,imaging
+339279,localised joint study with spect,1,consultation
+339280,localised study nec with pet,1,imaging
+339281,localised study using gallium with spect,1,consultation
+339282,localiser insertion for one breast lesion,1,supplies
+339283,localization of foreign body,1,other
+339284,localized pain injuction,1,other
+339285,localized retinal detachment,1,other
+339307,locasone 0.1% cream0.1%,1,other
+339343,"locasone m cream2,0.1%",1,other
+339368,locaste,1,other
+339372,loceryl 5 nail lacquer,1,supplies
+339373,loceryl 5% nail lacquer,3,supplies
+339374,loceryl 5% nail lacquer (amorolfine,1,supplies
+339375,loceryl 5% nail lacquer - 5 % x 1 bottle,1,supplies
+339383,loceryl nail lacquer,2,supplies
+339384,loceryl nail lacquer 5%,1,supplies
+339390,loceryl nail laquer(morolfine,1,supplies
+339391,loceryl nail laquer,1,supplies
+339394,lock screw,1,supplies
+339395,lock screw star 5x34 04.005.524,1,supplies
+339396,locked distal radius plate,1,supplies
+339397,locked intramedullary nailing of fractured long bone,1,imaging
+339398,locked plate,1,supplies
+339399,locked plating long bones,1,imaging
+339400,locked titanium calcaneal 3.5 plate,1,supplies
+339401,"lockedscrew2.4torxdiam2.7 1-10,1-01-209-10",1,other
+339402,"locking plate diff.size , synthes",1,supplies
+339403,locking screw 3.5 x 14mm-auxien,1,supplies
+339404,locking bone screw 4.8mm x 35 mm,1,imaging
+339405,locking compreesion plate,1,supplies
+339406,"locking compression plate 3 ,5titanium,8 holes",1,supplies
+339407,locking cortex screw(any sizes)-per pcs,1,supplies
+339408,locking cortical screw (self-tapping) 5.0mm,1,supplies
+339409,locking cortical self-tapping screw 2.4*22mm - normmed,1,supplies
+339410,locking cortical self-tapping screw ti 2.4*16mm - normmed,1,supplies
+339411,locking cortical self-tapping screw ti 2.4*18mm - normmed,1,supplies
+339412,locking cortical self-tapping screw ti 2.4*20mm - normmed,1,supplies
+339413,locking fusion plate 2.5mm,1,supplies
+339414,locking l plate,1,supplies
+339415,locking plate,2,supplies
+339416,locking plate 5 hole distal postero-lateral.osteonic#h1d.35030,1,supplies
+339417,locking plate 5 narrow 10h,1,supplies
+339418,"locking plate 5.0 narrow 8h, l4c.50051",1,supplies
+339419,"locking plate diff. size , osteonic",1,supplies
+339420,locking plate long bones,1,imaging
+339421,"locking plate, broad, 4.5mm, 14holes",1,supplies
+339422,"locking plate, humerus, femur, tibia fracture",1,supplies
+339423,locking scr,1,other
+339424,locking screw,1,supplies
+339425,locking screw 5 x 30 f / nail tan green,1,supplies
+339426,locking screw 5 x 32 f / nail tan green,1,supplies
+339427,locking screw 5 x 34 f / nail tan green,1,supplies
+339428,locking screw 5 x 38 f / nail tan green,1,supplies
+339429,locking screw 5 x 40 f / nail tan green,1,supplies
+339430,locking screw 5 x 44 f / nail tan green,1,supplies
+339431,locking screw 5 x 50 f / nail tan green,1,supplies
+339432,locking screw 5 x 54 f / nail tan green,1,supplies
+339433,locking screw 5 x 56 f / nail tan green,1,supplies
+339434,locking screw 5 x 60 f / nail tan green,1,supplies
+339435,locking screw 1.5*11 mm auxien,1,supplies
+339436,locking screw 1.5*14 mm-auxien,1,supplies
+339437,locking screw 1.5x24mm,1,supplies
+339438,locking screw 1.5x7mm auxien ti.1130.07,1,supplies
+339439,locking screw 2.0 all sizes,1,supplies
+339440,locking screw 2.0mm x 10mm,1,supplies
+339441,locking screw 2.0x10mm auxien ti.1131.10,1,supplies
+339442,locking screw 2.0x14mm-auxien#ti-1131.14,1,supplies
+339443,locking screw 2.0x9mm auxien c no ti 1131 09,1,supplies
+339444,locking screw 2.4 mm all sizes,1,supplies
+339445,locking screw 2.4mmx18mm big .24180,1,supplies
+339446,locking screw 2.4x14mm ti-1145.14,1,supplies
+339447,locking screw 2.4x16mm,1,supplies
+339448,locking screw 2.4x16mm #t1-1145.14,1,supplies
+339449,locking screw 2.4x16mm #t1-1145.16,1,supplies
+339450,locking screw 2.4x16mm #t1-1145.20,1,supplies
+339451,locking screw 2.4x16mm auxien t1-1145.16,1,supplies
+339452,locking screw 2.4x16mm ti-1145.16,1,supplies
+339453,locking screw 2.4x18 mm-auxien,1,supplies
+339454,locking screw 2.4x18mm,1,supplies
+339455,locking screw 2.4x18mm auxien t1-1145.18,1,supplies
+339456,locking screw 2.4x18mm auxien#ti-1145.18,1,supplies
+339457,locking screw 2.4x20 mm-auxien,1,supplies
+339458,locking screw 2.4x20mm auxien # ti-1145.20,1,supplies
+339459,locking screw 2.4x20mm auxien ti-1145.20,1,supplies
+339460,locking screw 2.4x22mm,1,supplies
+339461,locking screw 2.4x24 mm-auxien,1,supplies
+339462,locking screw 2.4x24mm auxien ti-1145.24,1,supplies
+339463,locking screw 2.4x26mm #ti-1145.26,1,supplies
+339464,locking screw 2.4x26mm auxien ti-1145.26,1,supplies
+339465,locking screw 2.4x26mm ti-1145.26,1,supplies
+339466,locking screw 2.7 x 14 mm auxien,1,supplies
+339467,locking screw 2.7 x 18mm-auxien,1,supplies
+339468,locking screw 2.7 x 20 mm /mikromed poland,1,supplies
+339469,locking screw 2.7 x 22 mm /mikromed poland,1,supplies
+339470,locking screw 2.7*14 mm - auxien,1,supplies
+339471,locking screw 2.7*16 mm - auxien,1,supplies
+339472,locking screw 2.7x12mm-auxien #ti-118.012,1,supplies
+339473,locking screw 2.7x14mm-auxien,1,supplies
+339474,locking screw 2.7x14mm-auxien ti-118.014,1,supplies
+339475,locking screw 2.7x16mm,2,supplies
+339476,locking screw 2.7x16mm-auxien,1,supplies
+339477,locking screw 2.7x16mm-auxien ti-118.016,1,supplies
+339478,locking screw 2.7x18mm,1,supplies
+339479,locking screw 2.7x18mm - chm poland #3.5165.018,1,supplies
+339480,locking screw 2.7x18mm-auxien,1,supplies
+339481,locking screw 2.7x18mm-auxien #ti-118.018,1,supplies
+339482,locking screw 2.7x18mm-auxien ti-118.018,1,supplies
+339483,locking screw 2.7x20mm,2,supplies
+339484,locking screw 2.7x20mm-auxien ti-118.020,1,supplies
+339485,locking screw 2.7x20mm-auxien- ti-118.020,1,supplies
+339486,locking screw 2.7x22mm-auxien - ti-118.022,1,supplies
+339487,locking screw 2.7x24mm-auxien - ti-118.024,1,supplies
+339488,locking screw 2.7x24mm,1,supplies
+339489,locking screw 2.7x26mm-auxien ti-118.026,1,supplies
+339490,locking screw 2.7x30mm -auxien ti-118.030,1,supplies
+339491,locking screw 2.7x 20mm- auxin,1,supplies
+339492,locking screw 2.8 18 ti,1,supplies
+339493,locking screw 2x8mm,1,supplies
+339494,locking screw 2mm,1,supplies
+339495,locking screw 3.5,1,supplies
+339496,locking screw 3.5 all sizes,1,supplies
+339497,locking screw 3.5 size 28 l,1,supplies
+339498,locking screw 3.5 x 12 mm,1,supplies
+339499,locking screw 3.5 x 14 mm,1,supplies
+339500,locking screw 3.5 x 16mm-auxien,1,supplies
+339501,locking screw 3.5 x 18mm-auxien,1,supplies
+339502,locking screw 3.5 x 20 mm,1,supplies
+339503,locking screw 3.5 x 22,1,supplies
+339504,locking screw 3.5 x 22 mm,1,supplies
+339505,locking screw 3.5 x 24 mm - auxien,1,supplies
+339506,"locking screw 3.5 x 28,#s1b.35280",1,supplies
+339507,"locking screw 3.5 x26mm t1-117.026"",""type"":17",1,supplies
+339508,locking screw 3.5*14mm,1,supplies
+339509,"locking screw 3.5*14mm, #s1b.35140",1,supplies
+339510,locking screw 3.5*30mm auxien,1,supplies
+339511,locking screw 3.5/2.7/2.4 all sizes,2,supplies
+339512,locking screw 3.5/4.0x36mm-auxien,1,supplies
+339513,locking screw 3.5mm 35mm 40070,1,supplies
+339514,locking screw 3.5mm 45mm 40070,1,supplies
+339515,locking screw 3.5x12mm-auxien,1,supplies
+339516,locking screw 3.5x12mm-auxien ti-117.012,1,supplies
+339517,locking screw 3.5x14mm-auxien ti-117.014,1,supplies
+339518,locking screw 3.5x16mm - auxien,1,supplies
+339519,locking screw 3.5x16mm -auxien ti-117.016,1,supplies
+339520,locking screw 3.5x16mm-auxien ti-117.016,1,supplies
+339521,locking screw 3.5x18mm,1,supplies
+339522,locking screw 3.5x18mm auxien,1,supplies
+339523,locking screw 3.5x20mm auxien,1,supplies
+339524,locking screw 3.5x30mm - auxien ti-117.030,1,supplies
+339525,locking screw 3.5x30mm-auxien,1,supplies
+339526,locking screw 3.5x35mm - auxien ti-117.035,1,supplies
+339527,locking screw 3.5x35mm auxien ti.117.035,1,supplies
+339528,locking screw 3.5x40mm auxien ti.117.040,1,supplies
+339529,locking screw 3.5x40mm-auxien,1,supplies
+339530,locking screw 3.5x50mm - auxien ti-117.050,1,supplies
+339531,locking screw 3.5x55mm-auxien#ti-117.055,1,supplies
+339532,locking screw 5.0 x 18mm-auxien,1,supplies
+339533,locking screw 5.0 x 25 mm-chm poland,1,supplies
+339534,locking screw 5.0 x 34mm - auxien,1,supplies
+339535,locking screw 5.0 x 36mm,1,supplies
+339536,locking screw 5.0 x 40 mm-chm poland,1,supplies
+339537,locking screw 5.0 x 50mm - auxien,1,supplies
+339538,"locking screw 5.0mm titanium self tapping 14-75mm, 1159-50014-75",1,supplies
+339539,locking screw 5.0mm x 80mm,1,supplies
+339540,locking screw 5.0x20mm,1,supplies
+339541,locking screw 5.0x26mm-auxien,1,supplies
+339542,locking screw 5.0x28mm-auxien,1,supplies
+339543,locking screw 5.0x28mm-auxien #ti-119.028,1,supplies
+339544,locking screw 5.0x30mm-auxien #ti-119.030,1,supplies
+339545,locking screw 5.0x34mm - auxien ti-119.034,1,supplies
+339546,locking screw 5.0x36mm-auxien #ti-119.036,1,supplies
+339547,locking screw 5.0x38mm-auxien #ti-119.038,1,supplies
+339548,locking screw 5.0x40mm-auxien #ti-119.040,1,supplies
+339549,locking screw 5.0x42mm-auxien #ti-119.042,1,supplies
+339550,locking screw 5.0x44mm-auxien #t1-119.044,1,supplies
+339551,locking screw 5.0x52mm-auxien#ti-119.052,1,supplies

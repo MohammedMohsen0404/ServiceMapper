@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+481579,psychiatry child and adolescent new follow-up,1,consultation
+481580,psychiatry child and adolescent virtual,1,other
+481582,psychiatry consultation 1st visit,1,consultation
+481583,psychiatry consultation liaison follow-up,1,consultation
+481584,psychiatry obsessive compulsive disorder new follow-up,1,consultation
+481585,psychiatry urgent add-on new follow-up,1,consultation
+481586,psychiatry urgent add-on virtual follow-up,1,consultation
+481587,psychiatry virtual follow-up,1,consultation
+481588,psychiatry walk-in follow-up,1,consultation
+481589,"psychiatry emergency, consultation specialist",1,consultation
+481590,psychiatry examination fees (specialist,1,consultation
+481591,psychiatry fees ( ipd - opd,1,consultation
+481592,psycho and neuropsycho assessment new follow-up,1,consultation
+481593,psychological / behavior therapy session half hour,1,physiotherapy
+481594,psychological / behaviour therapy,1,physiotherapy
+481595,psychological behavior evaluation/????? ?????? ??????,1,consultation
+481596,psychological behavior session,1,physiotherapy
+481597,psychological behavior session/???? ?????? ??????,1,physiotherapy
+481598,psychological counseling rehab program,2,physiotherapy
+481599,psychological counseling rehab program 12 sessions,1,physiotherapy
+481602,"psychological evaluation and measurements including (iq, cars, gars, ados, vinland",1,consultation
+481603,psychological evaluation and measurements,1,consultation
+481604,psychological skills training,2,other
+481605,psychological and behavior treatment session,1,physiotherapy
+481606,"psychological and behavior treatment session iq,cars,gars,ados,vinaland",1,physiotherapy
+481607,psychological and behavioral treatment session,1,physiotherapy
+481609,psychological evaluation and measurements including (iqcarsgarsadosvinland,1,consultation
+481610,psychological session,1,physiotherapy
+481611,psychological session specialist,1,physiotherapy
+481613,psychologist evaluation/visit & session,1,physiotherapy
+481614,psychologist evaluation/visit & session up to 45 minutes,1,physiotherapy
+481615,psychology evaluation,2,consultation
+481616,psychology assessment,1,consultation
+481617,psychology consultation 1st visit,1,consultation
+481618,psychology consultation fee,1,consultation
+481620,psychology evaluation & screening,1,lab_test
+481621,psychology session,2,physiotherapy
+481623,psychology specialized counseling follow-up,1,consultation
+481625,psychology behavior assessment session iq cars garsadosvinland,1,physiotherapy
+481626,psychology session(assesment-evaluation-management plan-psychology management assurance advice trea,1,physiotherapy
+481627,psychology therapy,1,physiotherapy
+481629,psychology/behavioural therapy session -30 min,1,physiotherapy
+481630,psychometrics,1,other
+481633,psychotherapy - session,1,physiotherapy
+481634,psychotherapy check up,1,consultation
+481635,psychotherapy cons fee-dr/ragda-executive-member,1,consultation
+481636,psychotherapy consultation - specialist,1,consultation
+481637,psychotherapy inpatient \ per session,1,physiotherapy
+481638,psychotherapy out patient \ per session,1,physiotherapy
+481639,psychotherapy out patient 5 sessions,1,physiotherapy
+481642,psychotherapy by clinical psychologist i,1,consultation
+481643,psychotherapy counseling session,1,physiotherapy
+481645,psychotherapy session (45 min,1,physiotherapy
+481646,psychotherapy session?,1,physiotherapy
+481647,psychotherapy sessions,1,physiotherapy
+481648,psychotherapy w/ patient - 30 minutes,1,consultation
+481649,psychotherapy w/ patient - 40 minutes,1,consultation
+481650,psychotherapy w/ patient - 45 minutes,1,consultation
+481651,psychotherapy w/ patient- 30 minutes,1,consultation
+481652,psychotherapy with patient,1,consultation
+481656,psychotherapy with patient- 30 minutes,1,consultation
+481657,psychotherapy with patient-30 minutes,1,consultation
+481658,"psychotherapy, incorporating other modalities with patient (eg, insight oriented, behavior modifying",1,consultation
+481659,"psychotherapy, with patient",1,consultation
+481660,"psychotherapy, with patient - 45 minutes",1,consultation
+481661,"psychotherapy, with patient - 75 to 80 minutes",1,consultation
+481662,psychotherspy,1,other
+481663,psycological assesment category 1(iq test) adult/child,1,lab_test
+481667,pt @ 1,1,lab_test
+481670,pt actvd ambulatory ecg 30 after actvn,1,diagnostic
+481671,pt actvd impl card event monitoring,1,consultation
+481672,"ptca (percutaneous transluminal coronary agioplasty) ? sv + stent , (price is wi",1,eyewear
+481686,pterygium (primary) la - pterygium with conj auto graft,1,procedure
+481687,pterygium + conjunctival autograph ( 1 eye,1,other
+481688,pterygium + recurrent ptertgium ga pterygium + recurrent ptertgium ga,1,other
+481691,pterygium excision + conj. flap. local anesthesia,1,procedure
+481692,pterygium excision + autograft,1,procedure
+481694,pterygium excision g.a. p/d,1,procedure
+481695,pterygium excision with mytomycin,1,procedure
+481696,pterygium excision with conjunctival autograff,1,procedure
+481697,pterygium excision with conjunctival autograft,1,procedure
+481699,pterygium g.a. ( price as per approval,1,consultation
+481702,pterygium removal l.a. with auto graft,1,procedure
+481703,"pterygium with conjunctival flap / conjunctival flap over cornea, unilateral",1,other
+481704,pterygium+recurrent pterygium ga,1,other
+481707,ptit7001/c2/55/f,1,eyewear
+481708,ptosis correction (1 lid) a,1,other
+481710,ptosis correction (2 lids) a,1,other
+481711,ptosis correction (2 lids) b,1,other
+481712,ptosis correction / surgery ( 1 eye,1,procedure
+481713,ptosis correction / surgery ( 2 eyes,1,procedure
+481714,ptosis repair one (1) eye,1,supplies
+481715,ptosis surgery,1,procedure
+481716,ptosis correction under g a,1,lab_test
+481717,ptrygium excision (microscopic,1,procedure
+481720,"public face mask, reusable",1,supplies
+481721,"public face mask, single-use",1,supplies
+481723,pulled elbow reduction,2,procedure
+481725,"pulled elbow, reduction",1,procedure
+481726,pullthrough (swenson procedure,1,other
+481727,"pullup, regular",1,other
+481728,"pullup, xl",1,other
+481729,"pullup, cortical tunnel, different size",1,other
+481732,pulmecort inhalir once,1,other
+481734,pulmicor nebulizer,1,supplies
+481861,pulmicort005mg mlsoln20x2ml,1,other
+481937,pulmocort + o2,1,other
+481941,pulmocort inhalation - one dose,1,supplies
+481944,pulmocortef (vail,1,other
+481945,"pulmonary balloon valvuloplasty consumable (catheter, balloon, wires, sheath) 30",1,supplies
+481946,pulmonary bronchiectasis follow-up,1,consultation
+481947,"pulmonary embolism, major complexity",1,inpatient
+481948,"pulmonary embolism, minor complexity",1,inpatient
+481949,pulmonary fibrosis follow-up,1,consultation
+481950,pulmonary fibrosis new follow-up,1,consultation
+481952,pulmonary function test ( pft,1,lab_test
+481953,pulmonary function test (diffusing capacity,1,lab_test
+481956,pulmonary function test (simple spirometry,1,lab_test
+481957,pulmonary function test (simple spirometry and reversibility,1,lab_test
+481958,pulmonary function test spirometry,2,lab_test
+481960,pulmonary ild virtual follow-up,1,consultation
+481961,pulmonary intervention follow-up,1,consultation
+481962,pulmonary intervention new follow-up,1,consultation
+481963,pulmonary medicine specialist,1,consultation
+481964,"pulmonary oedema and respiratory failure, major complexity",1,inpatient
+481965,"pulmonary oedema and respiratory failure, minor complexity",1,inpatient
+481966,pulmonary pleural procedure new follow-up,1,consultation
+481967,pulmonary severe asthma follow-up,1,consultation
+481968,pulmonary severe asthma new follow-up,1,consultation
+481969,pulmonary severe asthma new patient,1,other
+481970,pulmonary stress testing,1,lab_test
+481971,pulmonary urgent add-on follow-up,1,consultation
+481972,pulmonary urgent add-on virtual follow-up,1,consultation
+481973,pulmonary valvuloplasty - including supplies,1,procedure
+481974,pulmonary virtual follow-up,1,consultation
+481977,pulmonary function testing filter/mouthpiece,1,lab_test
+481978,pulmonary heart valve bioprosthesis,1,other
+481979,"pulmonary rehabilitation, fm physician role - medical management part per session",1,physiotherapy
+481980,"pulmonary resuscitator, manual, reusable",1,supplies
+481981,"pulmonary resuscitator, manual, single-use",1,supplies
+481982,pulmonaryfunctiontest,1,other
+481985,pulmtropic,2,other
+481986,pulmunary function test,1,lab_test
+481987,pulotomy,1,procedure
+481988,pulotomy / pulectomy ( both for children below 12 years,1,procedure
+481989,pulotomy p + filling,1,dental
+481990,pulotomy without filling,1,dental
+481993,pulp caping without filling,1,dental
+481996,pulp capping / filling,1,dental
+481999,pulp extirpation 2 canals,1,dental
+482000,pulp protection,1,dental
+482001,pulp t. 3 cannal and more,1,dental
+482007,pulp capping + composite rest,1,dental
+482008,pulp capping with composite filling,1,dental
+482009,"pulp capping, pulpotomy, pulpectomy",1,dental
+482010,pulp coping,1,dental
+482011,pulp excerbation,1,dental
+482013,pulp extirpation + tf - 1 canal,1,dental
+482014,pulp extirpation + tf - 2 canal,1,dental
+482015,pulp otomy,1,dental
+482016,pulp testing,1,lab_test
+482019,"pulp testing, 1 tooth",1,lab_test
+482020,"pulp vitality test, per tooth",1,lab_test
+482021,pulp vitality tests,1,lab_test
+482022,pulp-testing-per appointment,1,lab_test
+482023,pulp. t. 2 cannal,1,dental
+482024,pulpcapping with temporary filling,1,dental
+482026,pulpal therapy (resorbable filling) - posterior primary tooth (excluding final restoration,3,dental
+482027,pulpal therapy (resorbable filling,1,dental
+482029,"pulpal therapy (resorbable filling) - anterior, primary tooth (excluding final restoration",1,dental
+482030,pulpal therapy (resorbable filling) - posterior primary tooth (excluding final r,1,dental
+482032,"pulpal therapy (resorbable filling) - posterior, primary too",1,dental
+482033,"pulpal therapy (resorbable filling) - posterior, primary tooth (excluding final restoration",3,dental
+482036,pulpal therapy poterior primary icluding final filling,2,dental
+482037,pulpal therapy poterior primary including final filling,1,dental
+482039,pulpal therapy resorbable filling - anterior primary tooth excluding final restoration,1,dental
+482040,pulpatomy + filling,1,dental
+482041,pulpatomy with composite filling,1,dental
+482042,pulpcapping under filling,2,dental
+482045,pulpctomy بتر دوائي سن لبني,1,other
+482046,pulpctomy for milk tooth,1,dental
+482047,pulpecotomy,1,procedure
+482048,pulpecotomy w/ filling,1,dental
+482051,pulpectomy - one visit,1,dental
+482052,pulpectomy ????? ??? ?? ?????,1,dental
+482053,pulpectomy for decidous tooth w . final filling,1,dental
+482054,pulpectomy primary tooth,1,dental
+482055,pulpectomy w\ filling,1,dental
+482060,pulpectomy for posterior primary tooth,1,dental
+482061,pulpectomy in 1ry teeth,1,dental
+482063,pulpectomy in multi try tooth,1,dental
+482064,pulpectomy in multi try tooth w/f,1,dental
+482066,pulpectomy with overfilling,1,dental
+482067,pulpectomy+filling,1,dental
+482068,"pulpectomy, four canals",1,dental
+482069,"pulpectomy, single canal",1,dental
+482070,"pulpectomy, three canals",1,dental
+482071,"pulpectomy, two canals",1,dental
+482072,pulpectony,1,other
+482074,pulpex exterpation,1,other
+482075,pulpitis,1,other
+482077,pulpoctomy,2,other
+482078,pulpoctomy deciduous tooth,1,dental
+482080,pulpoectomy for anterior primary tooth,1,dental
+482081,pulpoectomy for posterior primary tooth,1,dental
+482082,pulpotmy - under 12 years of age,1,other
+482084,pulpotomy apicectomy,1,dental
+482085,pulpotomy with out last filling,1,dental
+482087,pulpotomy & pulpectomy,1,dental
+482088,pulpotomy & pulpectomy with filling,1,dental
+482090,pulpotomy (children) for 1 tooth - ???? ??? ???? ??? ????,1,dental
+482091,pulpotomy (excluding final restoration,1,dental
+482096,pulpotomy - insurance,1,dental
+482097,pulpotomy - pulp amputation,1,dental
+482098,pulpotomy - under 12 years old,1,dental
+482099,pulpotomy -pulp amputation,1,dental
+482101,pulpotomy / filling,1,dental
+482105,pulpotomy / pulpectomy ( both for children below 12 years,1,dental
+482106,pulpotomy / pulpectomy (both for children below 12,1,dental
+482108,pulpotomy / pulpectomy (both for childern below 12 years,1,dental
+482110,pulpotomy / pulpectomy (both for children below 12 yrs,1,dental
+482111,pulpotomy / pulpotomy ( both for children below 12years,1,dental
+482112,pulpotomy / both for children below 12 years,1,dental
+482114,pulpotomy ??? ? ?? ???? + ??? ?????,1,dental
+482115,pulpotomy ??? ?? ?? ???? ????? ????? ??? ????,1,dental
+482116,pulpotomy child,1,dental
+482117,pulpotomy deciduous teeth,2,dental
+482118,pulpotomy for children under 12 y including fillng bupa,1,dental
+482119,pulpotomy for children under 12 y including fillng-bupa bupa,1,dental
+482120,pulpotomy for children under 12 yerars,1,dental
+482121,pulpotomy for children under 12 yerars with resto,1,dental
+482122,pulpotomy for decidous tooth w . final filling,1,dental
+482123,pulpotomy for primory tooth with final filling,1,dental
+482124,pulpotomy for temporary tooth,2,dental
+482126,pulpotomy in anterior or posterior tooth - adult (bupa,1,dental
+482128,pulpotomy in anterior or posterior tooth - child (bupa,1,dental
+482130,pulpotomy multi visit 414,1,dental
+482131,pulpotomy multi-visit,1,dental
+482132,pulpotomy multi-visit 414,1,dental
+482138,pulpotomy permenant tooth,1,dental
+482139,pulpotomy post,1,dental
+482140,pulpotomy posterior,1,dental
+482142,pulpotomy primary tooth(pcn-07,1,dental
+482144,pulpotomy w + filling,1,dental
+482145,pulpotomy w / filling,2,dental
+482148,pulpotomy with filling for decidious tooth,1,dental
+482149,pulpotomy with out filling,1,dental
+482151,pulpotomy and root canal filling of deciduous teeth,1,dental
+482154,pulpotomy filling,2,dental
+482157,pulpotomy for children under 12/y including filling and xray,1,imaging
+482158,pulpotomy for decidous tooth,1,dental
+482160,pulpotomy for children - bupa,1,dental
+482161,pulpotomy for children under 12 y/o - including filling,1,dental
+482162,pulpotomy for children under 12 y/o including filling,1,dental
+482164,"pulpotomy for immature permanen, primary dentition",1,dental
+482165,pulpotomy for immature permanent,2,dental
+482166,pulpotomy for immature permanent primary dentition,1,dental
+482167,"pulpotomy for immature permanent, primary dentition",1,dental
+482168,pulpotomy for permanent teeth,1,dental
+482169,pulpotomy for primary teeth,1,dental
+482170,pulpotomy in anterior or posterior tooth child,2,dental
+482173,pulpotomy of deciduous tooth without the final restoration,1,dental
+482174,pulpotomy one vist,1,dental
+482176,pulpotomy under 12 years old,1,dental
+482177,pulpotomy under ga,1,dental
+482179,pulpotomy w filling,2,dental
+482181,"pulpotomy w/o restoration, r/of pulp coronal to dentinocemental&appl. medicine",1,dental
+482182,pulpotomy with tooth composite filling,1,dental
+482186,pulpotomy with temporary filling,1,dental
+482187,pulpotomy with amalgam filling,1,dental
+482189,pulpotomy with filling for kinds,1,dental
+482190,pulpotomy with overfilling,1,dental
+482192,pulpotomy without filling (milky tooth)380,1,dental
+482202,pulpotomy+ filling,1,dental
+482204,pulpotomy+filling,2,dental
+482205,pulpotomy- pulp amputation,1,dental
+482206,pulpotomy-tawunya,1,dental
+482209,pulpotomy/pulpectomy,1,dental
+482210,pulpotomy/pulpectomy (both for children below 12 years old,1,dental
+482211,pulpotomy/pulpectomy under 12 years,2,dental
+482212,pulpoyomy for posterior milk tooth,1,dental
+482214,pulptomy=removal of coronal pulp + application medicine for primary tooth excluding final restoratio,1,dental
+482215,pulputomy - ??? ??,1,other
+482216,"pulse co-oximeter probe, single-use",1,supplies
+482225,pulse oximeter overnight study,1,supplies
+482230,pulse oximetry patient/ system assessment,1,consultation
+482232,pulse oxymeter(finger type,1,other
+482233,"pulse oximeter probe, reprocessed",1,supplies
+482234,"pulse oximeter probe, single-use",1,supplies
+482235,"pulse oximeter, battery-powered",1,supplies
+482236,"pulse oximeter, line-powered",1,supplies
+482238,pulse oximeter/observation room,1,supplies
+482239,pulse oximetry telemetric monitoring system transmitter,1,consultation
+482240,pulsed electromagentic field,1,other
+482241,pulsed lavage system,1,procedure
+482242,pulsed radiofrequency,1,other
+482243,puma 0031 fr 010 49,1,eyewear
+482244,puma 0045 fr 005,1,eyewear
+482245,puma frm 0010/51 red,1,eyewear
+482246,puma frm 00240/005/55,1,eyewear
+482247,puma frm 00290/001/56/18,1,eyewear
+482248,puma frm 00300/53 blk/red,1,eyewear
+482249,puma frm 00320/003/21/53,1,eyewear
+482250,pump analysis with programming (opd,1,supplies
+482251,pump iv per day,1,supplies
+482252,pump refilling (opd,1,supplies
+482253,"pump refilling, maintenance/ feeding /day",1,supplies
+482255,"pump, patient controlled analgesic (pca",1,supplies
+482258,punched or stab avulsion of varicosities,1,other
+482259,punctal dilatation both eyes,1,procedure
+482260,punctal occlusion ( one eye ) - clinic,1,supplies
+482261,punctal plugs - each,1,supplies
+482264,punctal plugs bilate,1,supplies
+482265,punctal plugs( 1 pair ) one eye,1,supplies
+482266,punctal reconstruction - 3 snip,1,procedure
+482268,punctoplasty + stent (one eye,1,supplies
+482269,punctoplasty + stent (one eye)- under la,1,supplies
+482270,punctual plug insertion,1,procedure
+482272,punctum plug - m,1,other
+482273,punctum plug implant - one eye - 1 day,1,supplies
+482274,punctum plug implant - two eyes - 1 day,1,supplies
+482275,punctum plug- bilateral,1,other
+482276,punctum plug- unilateral,1,other
+482277,puncture dilatation,1,procedure
+482278,pupil dilation,1,other
+482280,pupituing,1,other
+482281,puplectomy treatment,1,procedure
+482282,puralid lipogel,1,other
+482287,"pure beauty antiperspirant deodorant stick unscented 1""s",1,supplies
+482291,pure compressor nebulizer - granzia,2,supplies
+482303,pure tone audiometry;air and bone,1,imaging
+482304,pure tone audiometry;air only,1,eyewear
+482305,pure tone tympanometry,1,diagnostic
+482310,"pure tone audiometry, child technique, standard",1,diagnostic
+482311,pure wool pillow,1,other
+482312,pure wool rehabilitation boot/slipper,1,other
+482313,pure.optics 7086 fr 06 53 clip,1,eyewear
+482316,"purever canada multivit.+minerals+omega 3 kids gummy, 60/btl (1+1",1,other
+482319,purex hmc emi 1.53,1,eyewear
+482320,purge,1,other
+482321,puri-m(blk,1,other
+482322,puri-m(brn,1,other
+482323,puri-m(brn) - hss1608brn,1,other
+482356,pus c/s ????? ???? ??????? ??????,1,lab_test
+482359,pus culture ( c-s,1,lab_test
+482360,pus culture ( c-s ) - absces s,1,lab_test
+482361,pus culture ( c-s ) - ??absces??s,1,lab_test
+482362,pus culture ( c-s ) - abscess,1,lab_test
+482368,pus culture c/s ( ??absces??s,1,lab_test
+482369,pus culture c/s ( abscess,3,lab_test
+482372,pus culture c/s abscess,2,lab_test
+482373,pus culture c/s _ abscess _,1,lab_test
+482374,pus discharge culture / ????? ????????? ????????,1,lab_test
+482377,pus removal-tonsills,1,procedure
+482381,pus swab fresh smear(09092,1,lab_test
+482382,pus c&s,1,lab_test
+482386,pus culture and sensitivtiy,1,lab_test
+482389,pus for anaerobic culture &sensitivity (c/s) - ?????,1,lab_test
+482390,pus for arobic culture &sensitivity (c/s) - ?????,1,lab_test
+482393,pus%20c%5cs,1,lab_test
+482394,pusen disposable flexible ureteroscope p,1,supplies
+482395,pusen disposable flexible ureteroscope pu3022a,1,supplies
+482398,put / kub -1 view,2,imaging
+482400,put/kub- 1 view,1,imaging
+482401,putty bone graft 5cc,1,imaging
+482402,"putty syringe 10cc, novabone #771610",1,supplies
+482403,"putty syringe 1cc, novabone, #771601",1,supplies
+482404,"putty syringe 5cc, novabone #771605",1,supplies
+482405,pvlmonay function test,1,lab_test
+482409,pyelonephrolithotomy p/d,1,procedure
+482411,"pyeloplasty (foley y-pyeloplasty), with plastic operation on ureter, nephropexy, nephrostomy, pyelos",1,eyewear
+482412,"pyeloplasty (foley y-pyeloplasty), plastic operation on renal pelvis, with or without plastic operation on ureter, nephropexy, nephrostomy, pyelos",1,eyewear
+482413,"pyelotomy; with removal of calculus (pyelolithotomy, pelviolithotomy, including coagulum pyelolithotomy",1,procedure
+482420,pyloric dilatation stent insertion,1,supplies
+482422,pyloric us,1,imaging
+482424,"pyloromyotomy, cutting of pyloric muscle (fredet-ramstedt type operation",1,procedure
+482458,pyridoxine,1,other
+482469,pyruvate,1,other
+482470,pyruvate kinase enzyme,1,other
+482471,pyruvate kinase so un,1,other
+482472,pyruvate so un,1,other
+482474,q bhcg,1,lab_test
+482475,q fever (coxiella burnetii abs) - s.o,1,lab_test
+482476,q fever (coxiella burnetti abs,1,lab_test
+482477,q fever (coxiella burnetti igg and igm abs,1,lab_test
+482478,q fever ab,1,lab_test
+482479,q h c g,1,lab_test
+482480,q-fem vaginal wash,1,procedure
+482481,q-fever (coxiella burnetti abs,1,lab_test
+482482,"q-fix anchor disp. kit diff.size, s&n",1,other
+482483,q-fix anchors,1,other
+482484,q-fix anchors 1.8mm disposable kit (drill guide \u0026 obturat,1,supplies
+482485,q-fix anchors 2.8mm all suture implant with magnum wire suture blue and black cobraid,1,supplies
+482486,"q-fever antibody, serum",1,lab_test
+482487,q.marines,1,other
+482492,q.v cream100gm,1,lab_test
+482493,q10 omega 30cap,1,other
+482494,"q61a (drg) red blood cell disorders, major complexity (3 days alos",1,lab_test
+482495,"q61b (drg) red blood cell disorders, intermediate complexity (1 days alos",1,lab_test
+482496,"q61c (drg) red blood cell disorders, minor complexity (1 days alos",1,lab_test
+482516,qbhcg - quantitative bhcg,1,lab_test
+482519,qf - pcr prenatal test (amniotic fluid & cvs) - s.o,1,lab_test
+482520,qnt. bcr/abl t(9;22) by pcr,1,lab_test
+482521,"qnt. bcr/abl, t(9;22) by pcr",1,lab_test
+482522,qomega,1,other
+482528,qu145,1,other
+482529,quad cane 4 legs (l,1,other
+482530,quad cane deluxe large,1,eyewear
+482531,quadrant scaling,1,dental
+482532,quadrecips tendon repair,1,procedure
+482533,quadrectomy +wide lcl axillary clearance,1,procedure
+482534,quadriceps bench,1,other
+482535,quadriceps plasty,1,procedure
+482536,quadriceps plasty/patella realignment- 3 days pkg,1,procedure
+482537,quadricepsplasty,1,procedure
+482538,quadripod aluminium adjustable (taiwan)false,1,other
+482541,qualcox,3,other
+482559,qualitative,1,other
+482560,qualitative (pregnancy test,1,lab_test
+482563,qualitative analysis of chorionic gonadotropin hcg,2,lab_test
+482564,qualitative hcg (chorionic gonadotropin,1,lab_test
+482565,qualitative hcg in serum,1,lab_test
+482566,qualitative hcg in urine,1,lab_test
+482567,qualitative molecular bcr/abl diagnostics,1,other
+482568,qualitative molecular blr/abl diagnostics,1,other
+482569,qualitative pregnancy test,1,lab_test
+482570,qualitative troponin (protein) analysis,3,lab_test
+482571,qualitive hcg in serum ( pregnancy test,2,lab_test
+482572,qualtitative hcg in urine,1,lab_test
+482573,quantative hcg,1,lab_test
+482574,quantiferon,2,other
+482578,quantiferon (tb gold,3,nutrition
+482580,quantiferon (tb gold) (so,1,nutrition
+482581,quantiferon - tb,1,other
+482582,quantiferon - tb gold,1,nutrition
+482583,quantiferon - tb gold plus test,2,lab_test
+482584,quantiferon - tb gold test,1,lab_test
+482585,quantiferon gold tb,1,nutrition
+482586,quantiferon tb gold,3,nutrition
+482587,quantiferon tb gold plus test,1,lab_test
+482588,quantiferon tb gold serum test,1,lab_test
+482589,quantiferon tb gold test,2,lab_test
+482590,quantiferon tb-gold (qft,1,nutrition
+482591,quantiferon tbgold plus,1,other
+482592,quantiferon test,1,lab_test
+482593,quantiferon-tb gold,2,nutrition
+482594,quantiferon-tb gold plus test,1,lab_test
+482595,quantiferon-tb gold test,2,lab_test
+482596,quantiferone,1,other
+482600,quantitativ crp,1,lab_test
+482603,quantitative beta hcg,1,lab_test
+482604,quantitative beta hcg ( qbhcg,1,lab_test
+482605,quantitative bhcg,1,lab_test
+482606,quantitative crp,1,lab_test
+482607,quantitative hcg in urine,2,lab_test
+482608,quantitative immunochemical fecal occult blood fit,1,lab_test
+482609,quantitative immunoglobulins (immunonephlometric,1,other
+482612,quantitative molecular bcr abl diagonostics,1,other
+482613,quantitative molecular bcr/abl diagnostics,1,other
+482614,quantitative molecular bcr/abl diagonostics,1,other
+482615,quantitative sbhcg,1,other
+482617,quantitative troponin (protein) analysis,3,lab_test
+482618,quantitative troponin protein analysis,2,lab_test
+482619,quantitative/semi quantitative urinalysis,2,lab_test
+482620,quantitativeitative hcg in urine,1,lab_test
+482621,quantitive fecal calprotection,1,other
+482622,quarrant scaling,1,dental
+482623,quartet bte(9channels).si,1,other
+482624,quartet ite(9channels).si,1,other
+482625,quation-occupational md ex working at heights,1,other
+482626,quebec,1,other
+482627,queen royal gelly 2000/30caps,1,other
+482628,queens suit,1,other
+482631,quersa,2,other
+482640,quest-x87701,1,other
+482644,questran sachetes,1,other
+482665,quetiapine,1,other
+482704,quetiapine fumarate,1,other
+482721,quetiapine-seroquel 100,1,other
+482722,quetiapine-seroquel 200,1,other
+482735,quetta xr,2,imaging
+482816,qufix,1,other
+482820,qufix 30cap,1,other
+482827,quick 4 frm 6251/32/49,1,eyewear
+482828,quick ankor plus,1,other
+482829,quick fill for medrad syringe,1,supplies
+482831,quick infusion set (6mm) 110cm 10/box,1,supplies
+482832,quick infusion set (6mm) 60cm 10/box,1,supplies
+482833,quick infusion set (9mm) 110cm 10/box,1,supplies
+482834,quick infusion set (9mm) 60cm 10/box,1,supplies
+482835,quick infusion set 6mm/60cm,1,supplies
+482838,quick pilory,1,other
+482839,quick set 6mm cannula 10/box,1,supplies
+482840,quick set 9mm cannula 10/box,1,supplies
+482841,quick-set 9 mm,1,other
+482842,quick-set infusion set,1,supplies
+482847,quickfolate,1,other
+482849,quincy i & d,1,other
+482869,quinox 500,1,other
+482936,quinox 750,1,other

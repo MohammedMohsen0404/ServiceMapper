@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+671283,rame type 600,1,eyewear
+671284,rame type 610,1,eyewear
+671285,rame type 620,1,eyewear
+671286,rame type 630,1,eyewear
+671287,rame type 640,1,eyewear
+671288,rame type 650,1,eyewear
+671289,rame type 660,1,eyewear
+671290,rame type 670,1,eyewear
+671291,rame type 680,1,eyewear
+671292,rame type 690,1,eyewear
+671293,rame type 700,1,eyewear
+671294,rame type 710,1,eyewear
+671295,rame type 720,1,eyewear
+671296,rame type 750,1,eyewear
+671297,rame type 760,1,eyewear
+671298,rame type 770,1,eyewear
+671299,rame type 790,1,eyewear
+671300,rame type 800,1,eyewear
+671301,rame type 810,1,eyewear
+671302,rame type 830,1,eyewear
+671303,rame type 840,1,eyewear
+671304,rame type 850,1,eyewear
+671305,rame type 880,1,eyewear
+671306,rame type 890,1,eyewear
+671307,rame type 910,1,eyewear
+671308,rame type 990,1,eyewear
+671322,random blood sugar/ ppbs,1,lab_test
+671325,random blood sugar (e.r,1,lab_test
+671327,random blood sugar measurement,1,lab_test
+671328,random blood sugare,1,lab_test
+671329,random blood sugare -er,1,lab_test
+671331,randum blood suger rbs,1,lab_test
+671363,raptormite3.0w/needlesand2#0ultrabraidwhiteandcor,1,other
+671367,rastor 20,1,other
+671383,rayban s/g sharq 400 sr,1,eyewear
+671395,rbs by glucomerter,1,lab_test
+671398,rbs/ p.p. suger,1,lab_test
+671399,rct ( 1 canal,1,dental
+671400,rct ( 2 canal,1,dental
+671401,rct (root canal filling,1,dental
+671402,rct (root canal filling) 1,1,dental
+671403,rct (root canal filling) 2,1,dental
+671404,rct (root canal filling) 3,1,dental
+671406,rct + filling 1root,1,dental
+671410,rct 1 root withfilling with abcess,1,dental
+671412,rct 2 root canals,1,dental
+671413,rct 2 root canals with filling,1,dental
+671416,rct 3 root canals with filling,1,dental
+671418,rct 3 roots molar,1,dental
+671420,rct anterior ( specialist,1,dental
+671421,rct anterior (speialist,1,dental
+671422,rct bl rooted,1,dental
+671423,rct filling - per root,1,dental
+671426,rct for infected ( non vital )) canals with periapical lestions (posterior tooth) with filling,1,dental
+671427,rct for infected ( non vital )) canals without per,1,dental
+671428,rct for infected ( non vital )) canals without periapical lestions ( anterior tooth ) with filling,1,dental
+671430,rct for infected (non vital) canal with periapical lestion poeterior tooth with filling,1,dental
+671431,rct for infected non vital canals with peria,1,dental
+671432,rct for infected root canal ?????? ?? ????? +????? ????,1,dental
+671433,rct for infected single roots,1,dental
+671434,rct for infected three or four roots,1,dental
+671435,rct for infected two roots,1,dental
+671437,rct multi - roots,1,dental
+671438,rct multi root with abscess and amf,1,dental
+671439,rct multi root with amf,1,dental
+671441,rct multi-roots,1,dental
+671442,rct multiroot with filling with abcess,1,dental
+671443,rct one root. a,1,dental
+671445,rct one root canal,1,dental
+671446,rct one root canal with filling,1,dental
+671455,rct with abcess wtih filling,1,dental
+671458,rct with absecess with filling,1,dental
+671461,rct without crown filling ?????? ??? ???? ????,1,dental
+671462,rct witn abscess with filling,1,dental
+671465,rct/one canals with filling,1,dental
+671466,rct/tow canal with filling,1,dental
+671467,re - rct (( 1 root,1,dental
+671468,re - rct (( 2 root,1,dental
+671469,re - rct (( multy roots,1,dental
+671471,re cementation,1,other
+671472,re clich 001,1,other
+671476,re root canal treatment (( 3 canals )) without fil,1,dental
+671479,re root canal treatment (( 4 canals )) without fil,1,dental
+671484,re treatment of endodontic treatment,1,dental
+671485,re treatment of root canal anterior icluding final filling,1,dental
+671486,re treatment of root canal bicuspid icluding final filling,1,dental
+671487,re trt molar,1,dental
+671488,re trt pm,1,other
+671494,re-rct fro 2 roots with filling,1,dental
+671495,re-root canal-premolars without restoration fillin,1,dental
+671501,re-cementation crown,1,dental
+671502,re-enforced filling,1,dental
+671507,re-rct-1canal,1,dental
+671508,re-rct-2 canal,1,dental
+671509,re-rct-3 canal,1,dental
+671510,re-t of rct ( 1 canal,1,dental
+671511,re-treatment for four roots,1,other
+671512,re-treatment of rct ( 2 canal,1,dental
+671513,re-treatment of rct ( ≥3 canal,1,dental
+671524,reapir of elbow dislocation (pedia 6years. below,1,procedure
+671526,reberto cafly,1,other
+671528,recementation of crown/bridge,1,dental
+671529,"recementation/rebonding of inlay,crown",1,dental
+671536,reconsultation,1,other
+671547,recugel 1,1,other
+671554,recurrent unilateral varicocele embolization,1,procedure
+671555,recurrent c s,1,lab_test
+671561,redo endo treatment for anterior,1,other
+671562,redo endo treatment for molar,1,dental
+671565,redoxoe eff,1,other
+671567,redoxon 15 orange,1,other
+671574,reduction for compound fracture of the upper limp with cast,1,supplies
+671575,reduction for shoulder dislocation,1,procedure
+671576,reduction of elbow dislocation,1,procedure
+671577,reduction of fracture small1311,1,procedure
+671578,reduction of fracture/hand-foot/ula,1,procedure
+671579,reduction of puled elbow,1,procedure
+671582,reduction pulled elbow,1,procedure
+671583,reduction small jt dislocation,1,procedure
+671584,refer,1,other
+671589,referral requst,1,other
+671591,refractio by consultant pedia,1,consultation
+671596,refraction teast,1,eyewear
+671599,refraction test of glsses,1,lab_test
+671601,refraction&,1,eyewear
+671604,refractive surgery (prk) / 2 eyes,1,procedure
+671606,refractive surgery for vision for both eyes by femto lasik,1,eyewear
+671607,refractive surgery for vision for both eyes by femto lasik/dr. 01 adel rushood,1,eyewear
+671608,refractive surgery for vision for both eyes by femto lasik/dr. mohanna al jindan,1,eyewear
+671609,refractive surgery for vision for both eyes by femto lasik/dr. muath alrushood,1,eyewear
+671610,refractive surgery for vision for one eye by femto lasik/dr. mohanna al jindan,1,eyewear
+671643,regular admission(1st -4th day,1,consultation
+671644,regular extraction,1,dental
+671645,regular insole,1,supplies
+671647,reiculocyte,1,other
+671648,rein composite compound,1,dental
+671649,reinferced amailgum filing,1,dental
+671650,reinforcement of plaster,1,supplies
+671653,related conditions,1,other
+671689,relexib 200,1,other
+671725,remaining root extraction - r.r,1,dental
+671726,remaining root extraction -non surgical,1,dental
+671727,remains root extraction,1,dental
+671732,remiove,1,other
+671733,remomval foreign body(corneal or conjunctiva,1,other
+671734,remov bod,1,other
+671735,removable inner part with quick-release connection 26.00.0016,1,procedure
+671740,removal fb ear - complicated,1,procedure
+671742,removal exision chalzion,1,procedure
+671743,removal exision chalzion 316,1,procedure
+671746,removal f.b. deep ( cornea,1,procedure
+671747,removal f.b. from the ear,1,procedure
+671749,removal for foreign body,1,procedure
+671751,removal foreign body nose,1,procedure
+671752,removal impacted cerumen (separate procedure) one or both ears,1,supplies
+671754,removal molluscum cont/session,1,physiotherapy
+671756,removal of f.b(supre ficial,1,procedure
+671759,removal of f.b. under g.a,1,procedure
+671760,removal of trichiasis,1,procedure
+671770,removal of a tooth or tooth fragment where both removal of bone and sectionung of the tooth are requ,1,imaging
+671773,removal of anail,1,procedure
+671774,removal of atoloth or part (s) thereof,1,procedure
+671775,removal of atooth or part(s) thereof,1,procedure
+671776,removal of benign masses or cyst under local anesthesia,1,procedure
+671777,removal of benign odontogenic cyst or tumor - lesi,1,procedure
+671778,removal of benign odontogenic cyst or tumor - lesion diameter up to 1.25 cm,1,procedure
+671784,removal of calculus -second appointment,1,procedure
+671793,removal of calcus 1st appointment,1,procedure
+671794,removal of calcus first appointment,1,procedure
+671795,removal of calcus subsequent appointment,1,procedure
+671798,removal of cast/gyps,1,supplies
+671799,removal of cervical cerclage in opd,1,imaging
+671803,removal of cyst or wart,1,procedure
+671804,removal of cyst or wart (including anesthesia and cosultation,1,procedure
+671806,removal of dental plaque and/or stain from the surfaces of all teeth and/or implants this item is i,1,dental
+671809,removal of dermal or venereal wart,1,procedure
+671810,removal of ear f b,1,procedure
+671811,removal of ear foreign body under la (opd,1,procedure
+671812,removal of ear foreign body without la (opd,1,procedure
+671813,removal of eye lash,1,procedure
+671814,removal of f. body,1,procedure
+671818,removal of foreign body ( nose - ear,1,procedure
+671820,"removal of foreign body (cornea , conjunctiva",1,procedure
+671824,removal of foreign body (package deal,1,procedure
+671835,removal of foreign body from the eye,1,procedure
+671836,removal of foreign body from the nose,1,procedure
+671838,removal of foreign body in nose,1,procedure
+671840,removal of foreign body nose ear throat,1,procedure
+671841,removal of foreign body nose. ear or throat,1,procedure
+671842,removal of foreign body under ( l.a,1,procedure
+671843,removal of foreign body under l.a. p/d,1,procedure
+671845,removal of foreign body under local anaesthesia,1,procedure
+671846,removal of foreign body without incision,1,procedure
+671849,removal of foreign body(corneal,1,procedure
+671856,removal of foreign bodynose 256,1,procedure
+671857,removal of foriegn body[superficial,1,procedure
+671858,removal of forigen body in corenal conjunctiva,1,procedure
+671859,removal of forigen body in laryngopharynx,1,procedure
+671861,removal of froeign body,1,procedure
+671862,removal of full impacted tooth,1,dental
+671864,removal of hair from eyelids,1,procedure
+671869,removal of impacted tooth advanced,1,dental
+671870,removal of impacted tooth moderate,1,dental
+671871,removal of impacted tooth simple,1,dental
+671874,removal of indwelling urethral catheter,1,supplies
+671877,removal of ingrowing toe nail,1,supplies
+671878,removal of internal fixator,1,procedure
+671881,removal of large abscess,1,procedure
+671882,removal of large sebaceous cyst by local anesthesia,1,procedure
+671883,removal of larynx foreign body without la (opd,1,procedure
+671887,removal of mass/cyst,1,procedure
+671888,removal of medium lipoma by local anesthesia,1,procedure
+671889,removal of medium sebaceous cyst by local anesthesia,1,procedure
+671890,removal of minor tumor,1,procedure
+671891,removal of minor tumors,1,procedure
+671892,removal of molluscum contagisum ( 4-5,1,procedure
+671895,removal of nose f b,1,procedure
+671896,removal of one suture,1,supplies
+671897,removal of operculum /wisd tooth,1,dental
+671900,removal of part.im to.o,1,procedure
+671903,removal of planrat warts,1,procedure
+671906,"removal of planter warts, deep warts, skintags, nerus",1,procedure
+671908,removal of plaque -or stain,1,procedure
+671913,removal of plaque and/or stain stain,1,procedure
+671914,removal of plaque or stain,1,procedure
+671918,removal of pulp or necrotic debris,1,dental
+671919,removal of pulp or necrotic debris from a can,1,dental
+671924,removal of root filling from previously obturated canal,1,dental
+671926,removal of sand,1,procedure
+671927,removal of sebaceous cyst under local anaesthesia,1,procedure
+671929,removal of small abscess,1,procedure
+671930,removal of small lipoma u.l.a,1,procedure
+671934,removal of stitches ( up to 3,1,procedure
+671935,removal of stitches (mor than 3,1,procedure
+671937,removal of stitches per one7014,1,procedure
+671939,removal of supefacial f.b,1,procedure
+671940,removal of superficial co,1,procedure
+671941,removal of superficial corneal fb,1,procedure
+671942,removal of superficial fo.bo,1,procedure
+671949,removal of superficial foreign body local anesthesia,1,procedure
+671950,removal of surgical sutures,1,supplies
+671951,removal of surgical sutures - ophthal,1,supplies
+671960,removal of tooth or part,1,dental
+671961,removal of tooth or parts thereof,1,dental
+671965,removal of wart - per wart,1,procedure
+671966,removal of wart(for each,1,procedure
+671967,removal of wisdom tooth,1,dental
+671968,removal or repair of soft tissue (not elsewhere,1,procedure
+671971,removal the ingrain nail of the foot to on finger with,1,supplies
+671974,"removal, fb, conjunctival, w/ slit lamp",1,procedure
+671975,"removal, fb, corneal, w/ slit lamp",1,procedure
+671976,removalof foreign body e.n.t,1,lab_test
+671977,remove 2 : 3 warts electro,1,other
+671978,remove 4 :6 face wart electro,1,other
+671979,remove 4 :6 wart electro,1,other
+671980,remove plaster,1,supplies
+671981,remove athaleil the avrege,1,other
+671983,remove cast,1,supplies
+671984,remove deposits from the teeth or implants,1,dental
+671985,remove nerve with filling backwarrd,1,dental
+671986,remove nerve with filling frontal,1,dental
+671988,remove of one stetch,1,supplies
+671989,remove of simple tooth,1,dental
+671990,remove planter wart electro,1,other
+671991,remove single wart,1,other
+671992,remove stitches,1,procedure
+671993,remove wart electro,1,other
+671994,remove weird body,1,other
+671995,removel of catheter,1,supplies
+671996,removing of stain,1,other
+672016,renal (bun cr,1,lab_test
+672017,renal and pelvic u/s,1,imaging
+672018,renal chemistry screen,1,other
+672019,"renal function test(urine analysis, s.urea, creatinine & u",1,lab_test
+672020,renal function profile ( rft,1,lab_test
+672026,renal profile test : rft,1,lab_test
+672027,renal profile test:rft,1,lab_test
+672029,renegade 150x10c,1,other
+672030,renegade hi-flo 135cm x 10cm,1,eyewear
+672031,renegade hi-flokit 135-10cm,1,eyewear
+672042,renolithotripsy+di insertion,1,procedure
+672043,reoperation/exploration one muscle (pkg,1,supplies
+672064,repadermgel n,1,other
+672068,repair 1 digit amputation,1,procedure
+672069,repair complete denture,1,dental
+672070,repair of flexor tendon of hand u. g / a,1,procedure
+672071,repair of laceration,1,procedure
+672143,repeat pedcad adult,1,other
+672145,repetitive behavioral session,1,physiotherapy
+672146,replay,1,other
+672147,requiring both removal of bone and tooth division,1,imaging
+672148,requiring removal of bone or tooth division,1,imaging
+672150,resien based (composit or gi)one surface,1,supplies
+672161,resin based composite four or more surfaces poster,1,dental
+672162,resin based composite one surface anterior,1,dental
+672163,resin based composite one surfaces posterior,1,dental
+672164,"resin based composite three surfaces,posterior",1,dental
+672165,"resin based composite two surfaces,posterior",1,dental
+672180,resin-based composite - two surfaces. posterior,1,dental
+672204,respiratory exercise,1,other
+672206,respiratory medication administered by nebuliser (nebulizer or oxygen per hour,1,supplies
+672238,retnopathy photography (i care device,1,other
+672246,retreatment r.c.t 1-2 canals,1,dental
+672247,retreatmet of root canals,1,other
+672248,"retrobulbar or peribulbar administration of anaesthetic agent, unilateral",1,consultation
+672253,rf (reheumatic factor,1,lab_test
+672266,rheumatiod.factor.serum.or body fluid,1,lab_test
+672267,rheumatod factor,1,lab_test
+672268,rheumatoid,1,lab_test
+672273,rheumatoid f. 528,1,lab_test
+672281,rhinase,1,other
+672330,rhineas,1,other
+672333,rhinocort aqua 64/mcg/dose,1,other
+672345,rhoumatoid factor,1,lab_test
+672346,rhumatoid fa,2,other
+672426,riazolin 0.1 % 1,1,other
+672430,riazolin eye dp,1,other
+672447,ribs (1 view,1,imaging
+672448,ribs (2 view,1,imaging
+672453,ribs - 3 view,1,imaging
+672455,ribs - abo,1,lab_test
+672456,ribs - abo 1627,1,lab_test
+672457,ribs /1 side,1,other
+672462,ribs oblique-one side,1,supplies
+672463,ribs plaster,1,supplies
+672464,ribs two view,1,imaging
+672466,ribs- 2 views (bupa,1,insurance
+672467,ribs- 3 views (bupa,1,insurance
+672468,ribs/oblique(one side,1,supplies
+672474,rifampin,1,other
+672476,riglycerides,1,other
+672590,risekcapsuls,1,other
+672728,rofinac((service fee,1,consultation
+672740,roll gauze 36 yrd,1,supplies
+672746,roneza 10/10,1,other
+672749,roneza 5/10,1,other
+672750,roneza10/20,1,other
+672751,rool canal treatment for two,1,dental
+672754,root .anterior extraction,1,dental
+672760,root canal - 3 - roots,1,dental
+672762,root canal -additional root,1,dental
+672763,root canal 810,1,dental
+672765,root canal : more than 1 root,1,dental
+672766,root canal tx.(2canals,1,dental
+672767,"root canal tx.(3,4canals",1,dental
+672769,root canal and filling 2 root,1,dental
+672771,root canal ant,1,dental
+672772,root canal ant.teeth,1,dental
+672775,root canal filling(one canal,1,dental
+672779,root canal infected tooth,1,dental
+672781,root canal mono rtd 1st visit,1,dental
+672782,root canal mono rtd 2nd visit,1,dental
+672783,root canal multi rtd 1st visit,1,dental
+672784,root canal multi rtd 2nd visit,1,dental
+672785,root canal multi rtd 3rd visit,1,dental
+672787,root canal multiple tooth posterior,1,dental
+672788,root canal obturatiom additiona canal,1,dental
+672789,root canal obturatiom one canal,1,dental
+672798,"root canal obturation, 3 canal",1,dental
+672801,root canal obturaton -each additional canal,1,dental
+672802,root canal one tooth anterior,1,dental
+672805,root canal re-cleaning,1,dental
+672806,root canal retreatment,1,dental
+672807,root canal retretment,1,dental
+672812,root canal therapy with root canal filling,1,dental
+672818,root canal traitement,1,dental
+672821,root canal treat ment an terior teeth,1,dental
+672822,root canal treat ment posterior teeth,1,dental
+672823,root canal treat ment premolar teeth,1,dental
+672826,root canal treatment for infected single root,1,dental
+672827,root canal treatment ( 2 canal,1,dental
+672833,root canal treatment (( 1 root,1,dental
+672834,root canal treatment (( 2 roots,1,dental
+672835,root canal treatment (( multy roots,1,dental
+672837,root canal treatment (adult,1,dental
+672838,root canal treatment (endo) 2 roots كاش فقط,1,dental
+672839,root canal treatment (endo) 3 roots,1,dental
+672840,root canal treatment (endo) one roots,1,dental
+672841,root canal treatment (front teeth) w-out filling,1,dental
+672842,root canal treatment (multi root) with abscess,1,dental
+672843,root canal treatment (one root) with abscess,1,dental
+672844,root canal treatment (pedia) = (pulpectomy with filling,1,dental
+672846,root canal treatment +filling,1,dental
+672847,root canal treatment - one canal,1,dental
+672858,root canal treatment 1 canals,1,dental
+672859,root canal treatment an terior teeth,1,dental
+672861,root canal treatment anterior- علاج عصب لسن ذو قناه عصبيه واحدة,1,dental
+672862,root canal treatment first appointament,1,dental
+672863,root canal treatment for 1 canal (r.c.t,1,dental
+672864,root canal treatment for 2 roots,2,dental
+672868,root canal treatment for anterior tooth with out filling,1,dental
+672869,root canal treatment for antiror,1,dental
+672871,root canal treatment for infected three or four roots,1,dental
+672872,root canal treatment for infected two roots,1,dental
+672873,root canal treatment for molar tooth with out filling,1,dental
+672874,root canal treatment for mor than 2 roots,1,dental
+672875,root canal treatment for more,1,dental
+672876,root canal treatment for more than 2 canals,1,dental
+672877,root canal treatment for more than 2 roots,1,dental
+672879,root canal treatment for multiple rootet tooth,1,dental
+672882,root canal treatment for posterior,1,dental
+672884,root canal treatment for posterior teeth - مداواة لبية,1,dental
+672885,root canal treatment for posterior tooth,1,dental
+672887,root canal treatment for premolar tooth with out filling,1,dental
+672889,root canal treatment for three,1,dental
+672890,root canal treatment for two,1,dental
+672892,root canal treatment fot mor,1,dental
+672893,root canal treatment in one visit,1,dental
+672894,root canal treatment many root with abcesses,1,dental
+672896,root canal treatment molar - ???????? ?????? ???????? ???? 3 ?????????? ??????,1,dental
+672897,root canal treatment molar - علاج عصب لضرس به 3 قنوات عصب,1,dental
+672898,root canal treatment of 1 root,1,dental
+672899,root canal treatment of 2 roots,1,dental
+672900,root canal treatment of 3 roots,1,dental
+672901,root canal treatment one root vital,1,dental
+672904,root canal treatment premolar - علاج عصب لضرس به 2 قناه عصب,1,dental
+672906,root canal treatment single rooted with filling,1,dental
+672907,root canal treatment three canals,1,dental
+672909,root canal treatment three root vital,1,dental
+672910,root canal treatment three surfaces,1,dental
+672912,root canal treatment two root vital,1,dental
+672914,root canal treatment two rooted with filling,1,dental
+672915,root canal treatment w-out final filling mollar,1,dental
+672916,root canal treatment with abcess,1,dental
+672919,root canal treatment with filling (two canal,1,dental
+672925,root canal treatment with filling -three roots rct,1,dental
+672930,root canal treatment with filling -two roots rct premolar infectedporcalin crown,1,dental
+672931,root canal treatment with filling for single root,1,dental
+672932,root canal treatment with filling multi root,1,dental
+672935,root canal treatment - more than two roots,1,dental
+672936,root canal treatment - one (1) root,1,dental
+672937,root canal treatment- one canal,1,dental
+672938,root canal treatment- three canal,1,dental
+672939,root canal treatment- two canal,1,dental
+672941,root canal tretment + filling tow roots,1,dental
+672944,root canal tretment posterior,1,dental
+672945,root canal tretment with amalgam w/composite filling,1,dental
+672948,root canals treatment/three,1,other
+672952,root extraction / tooth,1,dental
+672954,root extruction,1,other
+672956,root removal -exposed roots,1,procedure
+672957,root removal surgical,1,procedure
+672968,rossmax nebulizer%,1,supplies
+672986,rota test,1,lab_test
+672987,rota v ab,2,lab_test
+673002,routine f.x. s.g.o.t,2,lab_test
+673004,routine f.x. s.g.o.t. 514,1,lab_test
+673005,routine f.x. s.g.p.t,2,lab_test
+673007,routine f.x. s.g.p.t. 515,1,lab_test
+673056,royal junior,1,other
+673079,rubbing lash epilation,1,procedure
+673081,rubell igm,1,lab_test
+673084,rubella igg-1313,1,lab_test
+673089,rubella abs - igm,1,lab_test
+673090,rubella abs. ( screening ) igg,1,lab_test
+673100,rubella igg 606,1,lab_test
+673105,rubelle igg,1,lab_test
+673108,rumafen 1 % 1,1,other
+673147,ryles - tube 14,1,supplies
+673157,s cortisol,1,lab_test
+673160,s adenosine,1,other
+673161,s alfuzosin hcl,1,other
+673163,s amisulpiride,1,other
+673169,s aripiprazole,1,other
+673170,s atomoxetine,1,other
+673173,s baclofen,1,other
+673174,s beclomethasone/formoterol,1,other
+673175,s betahistine,1,other
+673176,s bisacodyl,1,other
+673178,s brexpiprazole,1,other
+673186,s cefdinir,1,other
+673188,s celecoxib,1,other
+673192,s cinacalcet,1,other
+673195,s co-amoxiclav,1,other
+673200,s degludec,1,other
+673203,s desvenlafaxine,1,other
+673204,s dexlansoprazole,1,other
+673206,s duloxetine,1,other
+673207,s edoxaban,1,other
+673209,s entecavir,1,other
+673212,s eszopiclone,1,other
+673214,s ezetimibe,1,other
+673215,s ezetimibe+simvastatin,1,other
+673217,s fenofibrate,1,other
+673219,s fingolimod,1,other
+673220,s fluconazole,1,other
+673221,s fluphenazine/nortriptyline,1,other
+673226,s glargine,1,other
+673227,s glargine+lixisenatide,1,other
+673228,s gliclazide,1,other
+673229,s glucosamine+ginkgo biloba,1,other
+673230,s haloperidol,1,other
+673233,s imiquimod,1,other
+673234,s ipratropium bromide,1,other
+673240,s lamotrigine,1,other
+673241,s lercanidipine hcl,1,other
+673243,s levetiracetam,1,other
+673248,s lithium carbonate,1,other
+673249,s lornoxicam,1,other
+673251,s loxoprofen,1,other

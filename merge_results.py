@@ -17,6 +17,23 @@ SNOMED_PATH = r"D:\Tuba\TubaCode\Source\SNOMED-CT.csv"
 
 BATCH_SIZE = 500
 
+import re as _re
+
+# User directive: ALL eyewear rows (frames/glasses/sunglasses/spectacles,
+# any brand SKU) resolve to HCPCS:V2020 at merge time — they are removed
+# from the batch agent workload and are counted as processed here.
+# Walking frames / frameworks are mobility devices, NOT eyewear.
+_EYEWEAR_PAT = _re.compile(
+    r"\b(eyewear|eye wear|frames?|glasses|sunglasses?|spectacles?|eye glasses)\b", _re.I)
+
+
+def is_eyewear(wording):
+    if not wording:
+        return False
+    if _re.search(r"walking frame|framework", wording, _re.I):
+        return False
+    return bool(_EYEWEAR_PAT.search(wording))
+
 
 def load_valid_codes():
     achi_ids = set()
@@ -65,6 +82,8 @@ def is_valid_code(code, valid):
         if ":" not in part:
             return False
         source, cid = part.split(":", 1)
+        if source == "MS-DRG":
+            source = "DRG"  # agents emit MS-DRG:nnn; the valid-dict key is DRG
         if source not in valid or cid not in valid[source]:
             return False
     return True
@@ -105,6 +124,7 @@ def main():
     mapped = 0
     unk = 0
     skip = 0
+    eyewear = 0
 
     for row in source_rows:
         cid = row["canonical_id"]
@@ -113,12 +133,17 @@ def main():
 
         entry = results_by_id.get(cid)
         if entry is None:
-            missing_files += 1
-            issues.append({
-                "batch": "",
-                "canonical_id": cid,
-                "problem": "not_yet_processed",
-            })
+            if is_eyewear(row["service_normalized"]):
+                # eyewear directive: auto-coded, no issue entry, counted mapped
+                code = "HCPCS:V2020"
+                eyewear += 1
+            else:
+                missing_files += 1
+                issues.append({
+                    "batch": "",
+                    "canonical_id": cid,
+                    "problem": "not_yet_processed",
+                })
         else:
             batch_n, r = entry
             candidate = (r.get("code") or "UNK").strip()
@@ -171,7 +196,7 @@ def main():
         writer.writeheader()
         writer.writerows(issues)
 
-    print(f"rows={n} nb={nb} missing_files={missing_files} mapped={mapped} UNK={unk} SKIP={skip} issue_log_rows={len(issues)}")
+    print(f"rows={n} nb={nb} missing_files={missing_files} mapped={mapped} UNK={unk} SKIP={skip} EYEWEAR={eyewear} issue_log_rows={len(issues)}")
 
 
 if __name__ == "__main__":

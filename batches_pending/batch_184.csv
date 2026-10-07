@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+385724,nasopharynx lat.view,1,imaging
+385725,nasopharynx lateral,2,other
+385726,nasopharynx lateral view,3,imaging
+385727,"nasopharynx or larynx lat , view",1,imaging
+385728,nasopharynx or larynx lat view,1,imaging
+385729,"nasopharynx or larynx lat, view",1,imaging
+385730,nasopharynx or larynx lat. view,1,imaging
+385731,nasopharynx soft tissue lateral view,1,imaging
+385732,nasopharynx view,1,imaging
+385733,nasopharynx x-ray,3,imaging
+385734,nasopharynx xr (adenoid) view,1,imaging
+385735,nasopharynx single view,1,imaging
+385736,nasopharynx xray,1,imaging
+385737,nasopharynx(adenoid,1,other
+385738,nasopharynx(adenoid) lateral view,1,imaging
+385739,nasopharynx+neck ct multisectionw contrast iv,1,imaging
+385740,nasopharynx- additinal view,1,imaging
+385741,nasopharynx-1 view,1,imaging
+385742,nasopharynx-1view-1 film,1,other
+385743,nasopharynx-one view,1,supplies
+385744,"nasopharynx/oropharynx, biopsy",1,procedure
+385745,nasopharynxj (adenoids,1,other
+385746,nasopharynyx - lat,1,imaging
+385747,nasophayngeal soft tissue x ray,1,imaging
+385748,nasophryngoscopic exc,1,procedure
+385749,nasophrynx 1 view,1,imaging
+385750,nasophrynx x-ray(lat,2,imaging
+385752,"nasopore 8cm std # nd01-025/08b, polyganics",1,other
+385759,nasopure n/wash refill kit 40's,1,procedure
+385765,nasopure adult bottle,1,supplies
+385768,nasoscope rigid,1,other
+385769,nasosinoscopy & laryngeal examination,1,consultation
+385770,nasotracheal suctioning,3,procedure
+385771,nasser aljohani,1,other
+385772,nasser ghattar alqahtani,2,other
+385774,nasser refa alotaibi,1,other
+385778,"nat for (hbv,hcv&hiv",1,lab_test
+385779,nat testing,1,lab_test
+385798,natalizumab,2,other
+385802,natalya yuriy vitaliy maslenikova,1,other
+385803,natejah covid-19 antigen rapid test,1,lab_test
+385804,national newborn program,1,other
+385805,natreurtic peptide (heart failure,1,lab_test
+385860,natrilix s.r,1,lab_test
+385862,natrilix sr,2,other
+385893,natrilix sr 30tab,2,other
+385898,natrilix sr( tier1,2,insurance
+385900,natrilix sr( tier2,1,insurance
+385901,natrilix sr*30tab,1,other
+385914,natrilix-sr 30tabs,1,other
+385933,natriuretic peptide,1,lab_test
+385934,natriuretic peptide (bnp,1,lab_test
+385944,natura vigor ferrovit 30 table,1,other
+385945,natura2 bte(9 channels).si,1,other
+385946,natural brewers yeast,1,other
+385947,natural ce,1,other
+385950,natural collagen mask 5s,1,supplies
+385952,natural e 400,1,other
+385953,natural e 400 30cap,1,other
+385969,natural purified salts,1,other
+385972,natural streps lemon-hony int 24 cup,1,other
+385973,natural undiluted seawater hypertonic concentration of mineral salts,1,other
+385984,nature made multi complete,1,other
+385985,nature made multi prenatal,1,other
+385988,nature report mask,1,supplies
+386009,"navicross diff.size, terumo",1,other
+386019,naviena\u002b,1,other
+386020,navigated fess,1,other
+386021,navigated fess-pkg,1,other
+386022,navigation,1,other
+386023,nawaf abdelelah selayem,2,other
+386024,nawaf masaad almutairi,1,other
+386025,nawaf raja alshammari,1,other
+386026,nawal abdelrahman fadl allah,2,other
+386039,naxone 400 micgm.1amp,1,other
+386040,nayef sulaiman alkhazi,1,other
+386042,nayera radey,1,other
+386043,nayera shehata shehata,1,other
+386046,nazir a mousseli,1,other
+386052,"nb profile (cbc,abo-rh,rbs,tsh, sbr",1,lab_test
+386053,nb profile (cbcabo-rhrbstsh sbr,1,lab_test
+386054,nb uvb therapy,1,physiotherapy
+386055,nb-uvb therapy (one session,1,physiotherapy
+386056,nbd central line insertion,1,procedure
+386060,nbuvb full body - package 20 sessions,1,physiotherapy
+386061,nc balloon different sizes nc sapphire,1,supplies
+386062,nc coronary dilat'n baloon cath sapphire ii cat# 117 open sizes-ikar,1,supplies
+386063,nc coronary non - compliant balloon #rd3-xx-xxx,1,supplies
+386064,nc deb portege drug eluting balloon,1,supplies
+386065,nc sapphire pro ballon,1,other
+386066,nc xperience ballon dilatation 5.0x6,1,procedure
+386068,"nc-, anios wipes excel, 2446655y7",1,supplies
+386069,"nc-, bag, bio-hazard, 8 x 8"" pk/10, box100 zipin",1,other
+386070,"nc-, bag, emesis, 330x159mm, hcl, 047-7631 / gcg305001",1,other
+386071,"nc-, band aid, spot size, water proof",1,other
+386072,"nc-, bracket,long wire, suction, cainster, 2 ltr, abbott, 43426-05",1,supplies
+386073,"nc-, chart, paper, ctg, coromatrics sys, 4305bao",1,diagnostic
+386074,"nc-, container, multipurpose, plastic, laboratory, 16oz, premium pl 640/r1",1,eyewear
+386075,"nc-, container, multipurpose, plastic, laboratory, 32oz, premium pl 670/r2",1,eyewear
+386077,"nc-, cover, probe, 1000 cs, welch allyn, 05031-101",1,supplies
+386078,"nc-, cover, probe, tympanic thermometer, welch allyn, 06000-800/lf 40",1,supplies
+386079,"nc-, cover, shoe, regular duty, kimberly / halyard, 69251",1,other
+386080,"nc-, cup, medicine, amsino, as1975v/dyn d, 80000",1,other
+386081,"nc-, depressor, tongue, adult & ped, channelmed",1,other
+386082,"nc-, dishkidneydispo500 cc pack/50refs 2150",1,supplies
+386083,"nc-, electrode, ecg, adult, fiab italy, f9089/100",1,diagnostic
+386084,"nc-, filter, ""tpn"", 0.2 micron,pall, eld96 llce /hospira, hs 11600-48/ ic-b9061/mc9013",1,supplies
+386090,"nc-, mask, face, surgical, elastic, earloop type, kbm, 033-0140",1,supplies
+386091,"nc-, needle, dispo. 18ga x 1.5 "" luer,box 100, kbm",1,supplies
+386092,"nc-, needle, dispo. g 19 x 1.5, luer, box 100, kbm,3-1560",1,supplies
+386093,"nc-, needle, dispo. g 22 x 1.5"" luer, box 100, kbm",1,supplies
+386094,"nc-, needle, dispo. g 23 x 1"" luer, box100, kbm / nn*2325r",1,supplies
+386095,"nc-, needle, dispo. g 25 x 1"" luer, box100, kbm",1,supplies
+386096,"nc-, needle, dispo. g 25 x 1.5 luer, box100, kbm, 1-003-158",1,supplies
+386098,"nc-, needle, disposible g 25 x 5 8"" luer, box100, kbm",1,supplies
+386099,"nc-, needle, filter, 5micro, 18ga, bd, box/100, 305211",1,supplies
+386100,"nc-, pads, adhesive, remover, medline, msd090855 / convatec, 37443",1,supplies
+386101,"nc-, paper sheet, clinical exam, c108",1,other
+386102,"nc-, swab, alcohol, prep pad, ch",1,lab_test
+386103,"nc-, swab, alcohol, prep pad, ch🚩🚩200",1,lab_test
+386112,"nc-, tape, measuring, dispo. new born, 24"", box 1000",1,supplies
+386113,"nc-, tourniquet, blood, collection, vacutainer, dispo. box25, bd, 367204",1,lab_test
+386114,"nc-, wash cloth, disposable, 10x13, white, medline industries, nonx26361",1,supplies
+386115,"nc-, wipes, minuten, disinfection,120/140 wipes, apmd, 8062",1,supplies
+386116,nc-5512 thorametrix chest drainage system,1,procedure
+386118,ncb pre-employment checkup,1,consultation
+386119,ncci incision of vulvar lesion or perineum,1,procedure
+386120,ncci ophthalmology consultation,1,consultation
+386121,ncci- regular admission 3rd - 4th day ( private room,1,consultation
+386122,ncci-- abscess incision with dressing,1,supplies
+386123,ncci-- root canal treatment three root canal) - including filling,1,dental
+386124,ncci-- complete chemo-mechanical preparation of root canal each additional canal,1,dental
+386125,"ncci-- excision of benign lesion, complicated",1,procedure
+386126,ncci-- extirpation of pulp or debridement of root canal(s) - emergency or palliative,1,dental
+386127,ncci-icu admission 1st - 2nd day,1,consultation
+386128,ncci-icu admission 3rd - 4th day,1,consultation
+386129,ncci-icu admission 5th day onward,1,consultation
+386130,ncci-nicu admission 1st - 2nd day,1,consultation
+386131,ncci-nicu admission 3rd - 4th day,1,consultation
+386132,ncci-nicu admission 5th day onward,1,consultation
+386133,ncci-picu admission 1st - 2nd day,1,consultation
+386134,ncci-picu admission 3rd - 4th day,1,consultation
+386135,ncci-regular admission 1st - 2nd day ( private room,1,consultation
+386136,ncci-regular admission 5th day onward ( private room,1,consultation
+386137,nccls gp15-a.(papanicolaou te,1,other
+386138,ncct abdomen,1,other
+386139,ncct brain/head (non contrast,1,imaging
+386140,ncct chestorthorax,1,other
+386141,ncct hip joint,1,imaging
+386142,ncct limb,1,other
+386143,ncct orbit,1,other
+386144,ncct pns,1,imaging
+386145,ncct spine,1,other
+386146,ncision & drainage of abscess,1,procedure
+386147,ncs,2,other
+386148,ncs ( one (1) nerve,1,supplies
+386149,ncs (nerve conduction studies,1,consultation
+386150,ncs - nerve conduction studies,1,consultation
+386151,ncs / emg lt . upper limb,1,diagnostic
+386152,ncs / emg lt . lower limb,1,diagnostic
+386153,ncs / emg right lower extremity - rle,1,diagnostic
+386154,ncs / emg right upper extremity - rue,1,diagnostic
+386155,ncs / emg rt . lower limb,1,diagnostic
+386156,ncs / emg rt . upper limb,1,diagnostic
+386157,ncs /emg left lower extremity - lle,1,diagnostic
+386158,ncs /emg left upper extremity - lue,1,diagnostic
+386159,ncs 1 limb,1,other
+386160,ncs 3 limb,1,other
+386161,ncs both upper and lower limbs,1,other
+386162,ncs emg,1,diagnostic
+386163,ncs facial,1,other
+386164,ncs lower limbs only,1,other
+386165,ncs nerve conduction - lower limb,1,other
+386166,ncs nerve conduction - upper limb,1,other
+386167,ncs nerve conduction studies,1,consultation
+386168,ncs upper limbs only,1,other
+386170,ncs-portable/nerve,1,other
+386171,ncs/limb,1,other
+386172,ncv - motor nerve conduction velocity,1,other
+386173,ncv - nerve conduction velocity,2,other
+386175,ncv - sensory nerve conduction velocity,2,other
+386180,ncv and emg (full test,1,lab_test
+386181,ncv four or more nerves,2,other
+386183,ncv full test,1,lab_test
+386184,ncv one nerve,2,supplies
+386190,ncv three nerves,2,other
+386192,ncv&emg full test,1,lab_test
+386193,ncv(m & s)w/ned. emg. u/l limb (2 sides,1,diagnostic
+386194,ncv(m & s)w/needle emg. l/limb (2 sides,1,diagnostic
+386195,ncv(m & s)w/needle emg. l/limb (one side,1,diagnostic
+386196,ncv(m & s)w/needle emg. u/limb (one side,1,diagnostic
+386197,ncv(m & s)w/needle emg.u/limb,1,diagnostic
+386198,nd specialist surgery (dressing,1,supplies
+386199,nd-pk-normal delivery + normal baby care + episiotomy,1,procedure
+386201,ndotracheal tube,1,supplies
+386203,ne - c28p omron,1,supplies
+386204,ne urobion 20tab,1,other
+386205,ne-c102 2x1 comp-nebulizer,1,supplies
+386206,ne-c102 2x1 comp-omron nebulizer,1,supplies
+386207,"ne-c102 e, nebulizer, omron",1,supplies
+386208,ne-wborn-f - como baby,1,other
+386209,ne. with flexotaid,1,other
+386211,neal splint 5 inches 5m-per pcs,1,supplies
+386212,neamt alsouofi,2,other
+386213,neaonatal picc placement kit vygon 80199.519,1,other
+386214,near refraction test,1,lab_test
+386215,near total thyroidectomy (2d,1,procedure
+386216,neb,1,other
+386217,neb bronch 6 session,1,physiotherapy
+386226,neb. broncho. tx:1 sess. | ???? ????? ??? ?????? ??????? ( 1,1,other
+386227,neb. broncho. tx= 1 sess (er,1,other
+386228,neb. broncho. tx=1 sess,1,other
+386229,neb. by machine,1,supplies
+386239,neb./oxy. per hour,1,other
+386240,neb.brocho 1 session,1,physiotherapy
+386242,neb.vent+ pulm,1,other
+386246,neb/oxy.per hour,1,other
+386378,nebilet5mg tablest,1,other
+386379,nebilet5mg28tab,2,other
+386380,nebilet5mgtab(b/28,1,other
+386408,neblizier,1,other
+386411,nebolizer,1,other
+386412,nebolizer o2,1,other
+386415,nebuilizer or oxygen per hour ????,1,supplies
+386416,nebulaisor,1,other
+386417,nebulaizar or o2 per hour,1,other
+386418,nebulaization + adrenalin,1,other
+386419,nebulaization session,1,physiotherapy
+386421,nebulaization+other medication,1,other
+386422,nebulaizer or oxygen per hour,1,supplies
+386425,nebulisation,4,other
+386426,nebulisation (pulmicrot,2,other
+386427,nebulisation + o2,1,other
+386430,nebulisation - adult,2,other
+386431,nebulisation - paed,2,other
+386432,nebulisation combivent,1,other
+386433,nebulisation combivent with oxygen,1,supplies
+386434,nebulisation or oxygen therapy w/comp.air/hour,1,eyewear
+386441,nebulisation service charge,1,consultation
+386443,nebulisation with n\s,1,other
+386448,nebulisation+o2,1,other
+386449,nebulisation/hour,1,other
+386451,nebuliser (beurer,1,supplies
+386454,nebuliser + o2 oxygen / inhalation therapy,2,physiotherapy
+386456,nebuliser 220 v,1,supplies
+386457,nebuliser for vent res,1,supplies
+386458,nebuliser full,1,supplies
+386459,"nebuliser ih, 18, inhalation compressor,(beurer",1,supplies
+386460,nebuliser inhalation,6,supplies
+386461,nebuliser machine (omron)???? ???? ??????,1,supplies
+386462,nebuliser or o2 oxygen / inhalation therapy,2,physiotherapy
+386464,nebuliser per hour,1,supplies
+386465,nebuliser set machine,2,supplies
+386467,nebuliser treatment,1,supplies
+386468,nebuliser treatment - 086-12590,1,supplies
+386469,nebuliser treatment per hour,1,supplies
+386470,nebuliser treatment per hour - 148-12590,1,supplies
+386471,nebuliser with euphylline,1,supplies
+386472,nebuliser with medication,1,supplies
+386474,nebuliser with salime,1,supplies
+386476,nebuliser yuwell,1,supplies
+386477,nebuliser(miss bib,1,eyewear
+386482,nebulizar 2 componets,1,other
+386484,nebulizar dexamethazone,1,other
+386488,nebulization fee,1,procedure
+386489,nebulization hour,1,procedure
+386490,nebulization icu,1,procedure
+386491,nebulization mw,1,procedure
+386493,nebulization & o2 therapy (per hour,1,physiotherapy
+386494,nebulization & suctioning (service + disposables + kits,2,procedure
+386496,nebulization ( plain ven,1,procedure
+386497,nebulization ( ven+atro+pul,1,procedure
+386500,nebulization (a.v,1,procedure
+386503,nebulization (adult-er,1,procedure
+386504,nebulization (full,1,procedure
+386505,nebulization (p,1,procedure
+386506,nebulization (p.a,1,procedure
+386507,nebulization (p.v,1,procedure
+386508,nebulization (pedia-er,1,procedure
+386510,nebulization (service fees,1,procedure
+386511,nebulization (v,1,procedure
+386520,nebulization (w/o medicine,2,procedure
+386521,nebulization inclusive,1,procedure
+386522,nebulization inclusive (service,1,procedure
+386524,nebulization + o2 theraphy (per hour,3,procedure
+386525,nebulization + items(disposable,1,supplies
+386527,nebulization + o2 theraphy(per hour,1,procedure
+386532,nebulization / hour,1,procedure
+386533,nebulization / items(disposable,1,supplies
+386534,nebulization / oxygen inhalation set,1,supplies
+386535,nebulization / session,1,physiotherapy
+386537,nebulization 1 session,1,physiotherapy
+386539,nebulization 1 set,1,procedure
+386540,nebulization 1139,1,procedure
+386541,nebulization 15/20 mins,2,procedure
+386542,nebulization 1m,1,procedure
+386543,nebulization 2 sets,1,procedure
+386544,nebulization 3 sets,1,procedure
+386545,nebulization ???? ???????,1,procedure
+386546,nebulization for adult,1,procedure
+386547,nebulization for aramco per session,1,physiotherapy
+386548,nebulization for pedia,1,procedure
+386549,nebulization inhalation,3,procedure
+386552,nebulization oxygen adult,1,supplies
+386553,nebulization oxygen ped,1,supplies
+386554,nebulization per hour,1,procedure
+386555,nebulization per session,1,physiotherapy
+386556,nebulization per session (service fees,1,physiotherapy
+386559,nebulization service,3,procedure
+386560,nebulization service (68,1,procedure
+386561,nebulization service(01012,1,procedure
+386562,nebulization session,3,physiotherapy
+386563,nebulization session including nebulization medicine,2,physiotherapy
+386565,nebulization therapy,1,physiotherapy
+386566,nebulization tx: 1 session,1,physiotherapy
+386567,nebulization tx: 1 session | ????? ?????? ??? ????,1,physiotherapy
+386568,nebulization tx= 1 session,2,physiotherapy
+386569,nebulization tx= 1 session (er,1,physiotherapy
+386571,nebulization upto 1 hr,1,procedure
+386589,nebulization via o2 therapy w/cpt,1,physiotherapy
+386594,nebulization with atr &pulm (er,1,procedure
+386597,nebulization with drugs and oxygen,1,supplies
+386598,nebulization with medications,2,procedure
+386599,nebulization with medications (home visit,1,procedure
+386600,nebulization with medications with service,1,procedure
+386601,nebulization with multi drugs (1set,1,procedure
+386603,nebulization with ns,1,procedure
+386604,nebulization with o2,2,procedure
+386605,nebulization with o2 (excluding med,1,procedure
+386606,nebulization with oxygen,2,supplies
+386610,nebulization with racemic epinephrin,1,procedure
+386611,nebulization with ultrasound for 24 hrs,1,imaging
+386612,nebulization with vent0lin only,1,procedure
+386618,nebulization with vevtolin,1,procedure
+386623,nebulization(steam,1,procedure
+386628,"nebulization, service charge",1,procedure
+386635,nebulizaztion (w/o medicine,1,other
+386640,nebulizer ( philips,1,supplies
+386641,nebulizer 1 day,2,supplies
+386642,nebulizer 2,1,supplies
+386643,nebulizer adult (disp.o2,1,supplies
+386644,nebulizer c80 kids version ne-c801s-kde,1,supplies
+386645,nebulizer machine (beurer) (dev) ^^,1,supplies
+386646,nebulizer machine (beurer,1,supplies
+386647,nebulizer mask adult,5,supplies
+386648,nebulizer paediatric. w/mask&tubing,1,supplies
+386649,nebulizer pedia (disp.o2,1,supplies
+386650,nebulizer set (beurer,1,supplies
+386651,nebulizer & spirometer 02 1/ 2-1,1,supplies
+386652,nebulizer & spirometer 02 1/2-1,1,supplies
+386654,nebulizer ( bs plug220-50/60 hz,1,supplies
+386658,nebulizer (adult,2,supplies
+386659,nebulizer (air cube,1,eyewear
+386661,nebulizer (b.well) med-120,1,supplies
+386662,nebulizer (b.well) pro-115,1,supplies
+386663,nebulizer (feelife) mesh air mask,1,eyewear
+386664,nebulizer (h,1,supplies
+386665,nebulizer (omron,1,supplies
+386667,nebulizer (sfv,1,supplies
+386668,nebulizer (steam inhalation)/session,1,physiotherapy
+386669,nebulizer (steam or medication ultrasound for 24 hrs,1,imaging
+386670,nebulizer (steam or medication,4,supplies
+386678,nebulizer (with or without medication,1,supplies
+386683,nebulizer + pulmocort,1,supplies
+386689,nebulizer +oxygen,1,supplies
+386691,"nebulizer , full , kit adult w/ aerosol mask ,intersurgical , 1453015",1,supplies
+386692,"nebulizer , large , volume for adult, , non",1,supplies
+386694,nebulizer - 8009,1,supplies
+386695,nebulizer - steam,2,supplies
+386696,nebulizer - without medication,1,supplies
+386697,nebulizer -per session,1,physiotherapy
+386700,nebulizer / oxygen inhalation per hour,1,supplies
+386701,nebulizer / oxygen per hour,1,supplies
+386702,nebulizer / session *excluding drugs,1,physiotherapy
+386703,nebulizer / session excluding drugs,1,physiotherapy
+386704,nebulizer / session o2,1,physiotherapy
+386706,nebulizer /day,1,supplies
+386708,nebulizer 1 sess,1,supplies
+386709,nebulizer 1/day,1,supplies
+386710,nebulizer 2 sessions,1,physiotherapy
+386711,nebulizer ?,1,supplies
+386713,"nebulizer adult cirrus w/mask+tubing , (n",1,supplies
+386714,nebulizer adult w/aerosal mask elastic headstrap & tubing - per each,1,supplies
+386715,nebulizer aerofamily,2,supplies
+386716,nebulizer aerofamily philips,1,supplies
+386718,nebulizer air cube bs plug 220-50/60 hz bx/1,1,eyewear
+386719,nebulizer amcare mesh nebulizer portable,1,supplies
+386720,nebulizer and / or oxygen per hour,1,supplies
+386721,nebulizer at emergency,1,supplies
+386723,nebulizer beco family cpmpressor,1,supplies
+386724,nebulizer bermed bd 5002,1,supplies
+386725,nebulizer beurer,1,supplies
+386726,nebulizer beurer portable in 50,1,supplies
+386727,nebulizer beurer ih-18,1,supplies
+386728,nebulizer bisolvan,1,supplies
+386729,nebulizer bremed bd 5002,1,supplies
+386730,nebulizer by pulmocort,1,supplies
+386731,nebulizer c28 omron - compressor,1,supplies
+386732,"nebulizer cirrus w/mask+tubing , adult",1,supplies
+386733,"nebulizer cirrus w/mask+tubing , adult , nebulizer cirrus w/mask+tubing , adult",1,supplies
+386734,nebulizer compressor,1,supplies
+386736,nebulizer cup pedia f/nebucare in-line electrical nebulizer gentec #a63201601,1,supplies
+386737,nebulizer device,4,supplies
+386739,nebulizer easy,1,supplies
+386740,nebulizer elect (apparecchio,1,supplies
+386741,nebulizer eolo 220v 50/60 hz usa plug 21002,1,supplies
+386742,nebulizer eolo flo 220v,1,supplies
+386743,nebulizer eolo flo 220v (comp mist) ???? ????,1,supplies
+386744,nebulizer eolonflo 220v,1,supplies
+386745,nebulizer euro family,1,supplies
+386746,nebulizer face mask extra large,1,supplies
+386747,nebulizer face mask large,1,supplies
+386748,nebulizer face mask medium,1,supplies
+386749,nebulizer feel life air pro 3 mesh,1,eyewear
+386750,nebulizer feel life air pro mesh,1,eyewear
+386751,nebulizer for adult,1,supplies
+386752,nebulizer for baby,1,supplies
+386753,nebulizer for child,1,supplies
+386754,nebulizer for home use (appl.scien.)-per each,1,supplies
+386755,nebulizer for the first 15 minutes,1,supplies
+386756,nebulizer full kit adult w/ aerosol mask,1,supplies
+386757,nebulizer feel life mesh air pro 9,1,eyewear
+386758,nebulizer glomete compresser,1,supplies
+386759,nebulizer glomete nb-610,1,supplies
+386760,nebulizer hand-held chamber non-sterile disposable,1,supplies
+386761,nebulizer humidifier w/o b/day,1,supplies
+386762,nebulizer i care,1,supplies
+386763,nebulizer i care (compressor,1,supplies
+386764,nebulizer i care cnb 69010,1,supplies
+386765,nebulizer ih 21 inhalation,1,supplies
+386766,nebulizer ih 50,1,supplies
+386767,nebulizer including medication (single dose)at home,1,supplies
+386768,nebulizer inhalation,5,supplies
+386769,nebulizer inhalation er,2,supplies
+386771,nebulizer inhalation therapy,4,physiotherapy
+386772,nebulizer inhalation therapy (per setting,2,physiotherapy
+386774,nebulizer inhalation trea (oxygen 1 hr,1,supplies
+386775,nebulizer inhaler,1,supplies
+386776,nebulizer intal,1,supplies
+386777,nebulizer jar with t-piece (breathwell) for ventilator,1,supplies
+386778,nebulizer kit,1,supplies
+386779,nebulizer kit with oxygen tube and mouth piece #neb-0,1,supplies
+386780,"nebulizer kit, w/tube, adult, disposable",1,supplies
+386781,"nebulizer kit, w/tube, pediatric, disposable",1,supplies
+386782,nebulizer machine,5,supplies
+386783,nebulizer machine (miss bibi,1,eyewear
+386785,nebulizer machine -microlife compressor,1,supplies
+386786,nebulizer machine / day,1,supplies
+386787,nebulizer machine b,1,supplies
+386788,nebulizer machine basic,1,supplies
+386789,nebulizer machine flo miko #1025,1,supplies
+386790,nebulizer machine made in italy 220v,1,supplies
+386791,nebulizer machine mesh portable m103 yuwell,1,supplies
+386792,nebulizer machine miko,1,supplies
+386793,nebulizer machine ne-c28p (adult/pedia,1,supplies
+386794,nebulizer machine w/n4(2in 1 cup) btl child + adult mask 1.5m rossmax,1,supplies
+386795,nebulizer machine(pic air cube,1,eyewear
+386796,nebulizer machine-per pcs,1,supplies
+386797,nebulizer mask,4,supplies
+386799,nebulizer mask ( m,1,supplies
+386800,nebulizer mask ( s,1,supplies
+386801,nebulizer mask (adult,2,supplies
+386802,nebulizer mask (adult) nebulizing adaptor,1,supplies
+386803,nebulizer mask (pedia,2,supplies
+386804,nebulizer mask (pediatric) nebulizing adaptor,1,supplies
+386806,nebulizer mask - adult,1,supplies
+386807,nebulizer mask - size - pedia,1,supplies
+386808,nebulizer mask adul,1,supplies
+386810,nebulizer mask adult (l,1,supplies
+386811,nebulizer mask adult 100/ bx,1,supplies
+386812,nebulizer mask adult large,1,supplies
+386813,nebulizer mask adult w/ tubing 50/bx,1,supplies
+386814,nebulizer mask adults 1s,1,supplies
+386815,nebulizer mask infant,2,supplies
+386816,nebulizer mask infant w/tubing -s,1,supplies
+386817,nebulizer mask kit adult,1,supplies
+386818,nebulizer mask large,1,supplies
+386819,nebulizer mask m,1,supplies
+386820,nebulizer mask medium,1,supplies
+386821,nebulizer mask neonat,1,supplies
+386822,nebulizer mask paed cat,1,supplies
+386823,nebulizer mask pedia,3,supplies
+386824,nebulizer mask pedia 100/bx,1,supplies
+386825,nebulizer mask pedia medium,1,supplies
+386826,nebulizer mask pedia w/ tubing 50/bx,1,supplies
+386827,nebulizer mask pediaric standard w/7 feet tube,1,supplies
+386828,nebulizer mask pediatric,1,supplies
+386829,nebulizer mask pediatric (m,1,supplies
+386830,nebulizer mask pediatric 1s,1,supplies
+386831,nebulizer mask size large,1,supplies
+386832,nebulizer mask small,1,supplies
+386833,nebulizer mask sterile adult,1,supplies
+386834,nebulizer mask sterile pedia,1,supplies
+386836,nebulizer mask w/tube (adult,1,supplies
+386837,nebulizer mask w/tube (pedia,1,supplies
+386838,nebulizer mask w/tube adult,1,supplies
+386839,nebulizer mask w/tube pediatric,1,supplies
+386840,nebulizer mask size= adult,1,supplies
+386841,"nebulizer mask, adult",1,supplies
+386842,"nebulizer mask, pediatric",1,supplies

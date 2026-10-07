@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+660461,i.v with outmedcation,1,lab_test
+660463,i.v. canulla insertion,1,procedure
+660465,i.v. canulla inserrtion,1,lab_test
+660466,i.v. drip,1,lab_test
+660468,i.v. fluid without drugs,1,lab_test
+660480,i.v. soluotion external,1,lab_test
+660508,i.v.ing,1,lab_test
+660523,icross 0.2% ed sdu 30s,1,other
+660527,istat_ chem 8 + panel,1,lab_test
+660528,istat_blood urea nitrogen (bun,1,lab_test
+660529,istat_calcium in serum (ionized,1,lab_test
+660531,istat_chloride in serum,1,lab_test
+660532,istat_creatinine in serum,1,lab_test
+660533,istat_glucose in plasma (random,1,lab_test
+660535,istat_measurement of arterial blood gas (abg,1,lab_test
+660536,istat_measurement of hemoglobin (hgb,1,lab_test
+660537,istat_potassium (k) in serum,1,lab_test
+660538,istat_prothrombin time (pt,1,lab_test
+660539,istat_sodium (na) in serum,1,lab_test
+660540,istat_troponin i,1,lab_test
+660541,ialist physician consultation,1,consultation
+660557,icare blood glucose monitor,1,lab_test
+660558,icare finger splint,1,supplies
+660560,ice assessment for diagnosis treatment and counselling of a new or established patient by speciali,1,consultation
+660561,ice fermentation,1,other
+660566,iclinc,1,other
+660571,icu (room and board) ( bed + nurse administration + dr. round + supplies + ven,1,supplies
+660572,icu (room and board) ( bed + nurse administration + dr. round +supplies+ventil,1,supplies
+660573,icu (room and board) ( bed + nurse administration + dr. round +supplies+ventila,1,supplies
+660574,id intera oral abscess,1,procedure
+660575,idarubicin 10,1,other
+660581,iga. quantitative,1,lab_test
+660586,ige inhalent&ingestant,1,lab_test
+660589,ige specific allergen -food panel,1,lab_test
+660594,igg for mumps,1,lab_test
+660599,ilgf-1,1,other
+660600,ilizarov external fixator kit,1,other
+660611,"im intramuscular administration of pharmacological agent, other and unspecified pharmacological age",1,consultation
+660612,im nefalgic,1,other
+660613,im without medicine,1,other
+660618,im/iv injections,1,supplies
+660619,imaging abd.&pelvis 1005,1,other
+660620,imaging any ( area / organ ) with/without contrast,1,imaging
+660621,imaging kub with preparation,1,imaging
+660622,imaging panoramic,1,dental
+660623,imaging upper abdomen,1,other
+660624,imaging guided core biopsy & histopathology small specimen,1,lab_test
+660625,imaging guided core biopsyandhistopathology smal specimen,1,dental
+660645,imipenem-cilastatin,1,other
+660650,immunoglobulin a - iga,1,lab_test
+660652,immunoglobulin g - igg,1,lab_test
+660678,impact canine extraction,1,dental
+660679,impact surgical extraction,1,dental
+660680,impacted wesdom tooth extraction surgical,1,dental
+660686,impacted tooth surgical extraction,1,dental
+660687,impacted tooth surgical extraction ????? ????? ?? ?????,1,dental
+660688,impacted wisdom extraction,1,dental
+660689,impacted wisdom mild,1,dental
+660690,impacted wisdom severe case,1,dental
+660691,impactedtooth surgical extraction,1,dental
+660702,in-direct pulp capping,1,dental
+660708,incision & drainage samll,1,procedure
+660709,incision & dressing larg,1,supplies
+660710,incision & derainage with removal of abscess,1,procedure
+660712,incision & drainage ( ???? ????? (?????,1,procedure
+660713,incision & drainage (dental,1,dental
+660714,incision & drainage (large,1,procedure
+660716,incision & drainage larg,1,procedure
+660717,incision & drainage big,1,procedure
+660719,incision & drainage of abscess (m,1,procedure
+660720,incision & drainage of abscess (s,1,procedure
+660724,incision & drainage of abscess under l.a. p/d,1,procedure
+660728,incision & drainage with removal of abscess,1,procedure
+660730,incision &drainage med,1,procedure
+660732,incision and drainage of abcess (large,1,procedure
+660734,incision and drainage of abcess -large,1,procedure
+660735,incision and drainage of abcess -small,1,procedure
+660736,incision and drainage of abcess under la( large,1,procedure
+660737,incision and drainage of abcess under la(medium,1,procedure
+660738,incision and drainage of abcess under la(small,1,procedure
+660740,incision and drainage of abscess (complicated or multiple,1,procedure
+660748,incision and drainage of abscess under general anesthesia,1,procedure
+660749,incision and drainage of big abscess under general anasthesia,1,procedure
+660750,incision and drainage of ear furuncle,1,procedure
+660751,incision and drainage of ewxternal ear abcess,1,procedure
+660753,incision and drainage of haematoma of skin,1,procedure
+660757,incision and drainage of skin abcess,1,procedure
+660759,incision and drainage- large abscess,1,procedure
+660760,incision and dranaige big size abscess,1,procedure
+660762,incision fo abscess,1,procedure
+660766,incision of ear fruncle,1,procedure
+660767,incision of intraoral abcess,1,procedure
+660769,incision of lacrimal abscess,1,procedure
+660770,incision of lid abscess,1,procedure
+660773,incision%20and%20drainage%20of%20abscess%20under%20general%20anesthesia%c2%a0%20,1,eyewear
+660776,incision&drainage of abscess under l.a.-p/d,1,procedure
+660777,include pressure ulcer cushion into seating surface 26.00.0012,1,procedure
+660815,indirect laryngeal endoscopy,1,procedure
+660817,indirect ophthalmoscopy examination,1,consultation
+660834,infected r.c.t,1,imaging
+660838,infected rct - filling,1,dental
+660840,infected rct with filling,1,dental
+660841,infected rct+final filling,1,dental
+660842,infected root canal treatment (( 1 root)) without,1,dental
+660844,infected root canal treatment (( 3 roots)) without,1,dental
+660846,infected root canal treatment ((2 roots)) without,1,dental
+660849,infected root canal treatment ((3 roots)) without,1,dental
+660851,infected root canal treatment ((more than 3 roots,1,dental
+660853,infected tooth treatment ( posterior,1,dental
+660855,infection\soft tissue\ drainage,1,procedure
+660856,infectious agent antigen detection by enzyme immunoassay technique qualitative or semiquantitative m,1,lab_test
+660858,"infectious antigen by immunoassay( eia,elisa,imca) technique ;hepatitis b",1,lab_test
+660860,infective collection drainage,1,procedure
+660868,influenza viruses a and b,1,other
+660869,influenza viruses b,1,other
+660871,infrared massage 15 min,1,physiotherapy
+660874,infusion - syring pump - day,1,supplies
+660876,infusion iv,1,supplies
+660877,infusion of chemotherapy through pumb,1,supplies
+660879,infusion set for pump ref ti pu200l,1,supplies
+660882,ingrowing nail excesion,1,supplies
+660885,ingrowing nail s128,1,supplies
+660886,ingrowing toe ula,1,other
+660889,ingrown toe nail big toe removal,1,supplies
+660931,inject of varicose veins,1,procedure
+660975,injectioni.i.v,1,lab_test
+660976,injectioni.m,1,other
+660978,injections from clinic 2,1,consultation
+660979,injusion pump/session,1,physiotherapy
+660980,innactive1,1,other
+660981,inorg. phosphprus,1,other
+660982,inorg. phospprus in serum,1,lab_test
+660984,inr &prothrompin time,1,lab_test
+660985,ins seton anal fist inv low half sphc under ga spinal anasthesia,1,other
+660987,insferoglobin 30cap,1,other
+660989,insnizoral shampo,1,other
+660990,inssuprax400mg 6cap,1,other
+660991,inscision and drainage of abscess under general anasthesia,1,procedure
+660992,insertion loop,1,procedure
+660993,insertion of d.jstent one side,1,supplies
+660994,insertion of breast tissue expander,1,procedure
+660995,insertion of i.u.c.d with novat device,1,procedure
+660998,"insertion of tunneled centrally inserted central venous catheter without subcutaneous port or pump, age 5 years or older",1,supplies
+661000,"insertion of ventricular assist device , percutaneous including radiological supervision and interpretation , left heart , arterial access only",1,procedure
+661066,insuline regular,1,other
+661067,insuln.subc,1,other
+661071,intense regulated pulse light therapy (irpl) for chronic dry eye syndrome (one session ) one eye,1,physiotherapy
+661072,interanal consultation,1,consultation
+661075,interim therapeutic restoration primary dentitio,1,dental
+661076,interim therapeutic restoration-primary dentition,1,dental
+661077,internal vaginal ultrasound,1,imaging
+661079,internal haemorrhoid artery ligation,1,procedure
+661088,internal medicine consult,1,consultation
+661096,internist conulatation,1,other
+661097,internist- consultation,1,consultation
+661098,internist-check-up,1,other
+661101,interpreting an extraoral radiograph presenting a panoramic,1,imaging
+661102,intra - uterine device,1,other
+661111,intra lesionanl steroid,1,other
+661115,intra muscular 106,1,other
+661127,intra-articular dipropos,1,other
+661135,intra-ocular pressure check up,1,other
+661136,intra-ocular pressure measurment,1,other
+661139,intraarticular cortisone,1,other
+661144,intralesion triamcinolone acetonide,1,other
+661152,intramusaular needle,1,supplies
+661153,intramusaular%20needle,1,other
+661155,intramuscular administration of pharmacoliogical and unspecified,1,consultation
+661158,intramuscular administration of pharmacological agent other and unspecified pharmacological,1,consultation
+661166,intramuscularinjection,1,other
+661169,intraocular lens implantation ( i o l ) exchang coplicated,1,eyewear
+661170,intraocular lens implantation ( i o l ) explantation,1,eyewear
+661174,intraocular tension (tonometry)&,1,diagnostic
+661175,intraocular tension tonometry,1,diagnostic
+661183,intraoral periapical or bitewing radio graph - per exposure,1,dental
+661186,intraoral periapical or bitewing radiograph - per,1,imaging
+661190,"intraoral radiograph - occlusal, maxillary, mandib",1,imaging
+661231,introducer braided,1,other
+661233,invalid,1,other
+661235,invisalign moderate,1,other
+661237,ion erupted tooth or exposed root (elevation and/or forceps re,1,dental
+661244,iop. measurement,1,diagnostic
+661260,ipratropium bromide (atrosol,1,other
+661266,ips/e. max crown (porcelain,1,dental
+661267,ipv+dtap+hb+hib+pcv(prev)pnemoc-rota(4m,1,lab_test
+661268,ipv+dtap+hb+hib+pcv+rota(2m,1,lab_test
+661270,irbetel 150,1,other
+661273,"irect restoration, using an adhesive technique and a tooth-coloured material, involving one surface of a posterior tooth",1,dental
+661300,"irregular allo ab for blood typing abo, rhesus typing, s/o un",1,lab_test
+661301,irrigation of anterior chamber,1,procedure
+661306,isoptin,1,other
+661324,isobide20mg,1,other
+661325,isokintic measurement using (cybex) joint 3 speed,1,other
+661326,isolation fees per day additional charges to primary package,1,consultation
+661327,isolation gown blue -- pkt /10 pc,1,supplies
+661329,isolation gown yellow -- pkt /10pc,1,supplies
+661375,iucd fixation inlcuding price of it,1,procedure
+661376,iucd removel,1,other
+661378,iv - intra venousin,1,supplies
+661388,iv cannula+insertion,1,supplies
+661391,iv drip,1,supplies
+661394,iv fluid محلول وريد,1,supplies
+661400,iv fluied salin,1,supplies
+661402,iv infussion 500cc,1,supplies
+661404,iv injction,1,supplies
+661405,iv injecation with fluid,1,supplies
+661411,iv injecton,1,supplies
+661418,iv without medicine,1,supplies
+661419,iv-intra venousinjection,1,supplies
+661420,iv-intra venousinjection&حقن بالوريد,1,supplies
+661437,ivarin 20,1,other
+661454,iver function panel,1,lab_test
+661456,ivl in funsion,1,other
+661464,jabor,1,other
+661465,jagour,1,other
+661610,jast cafly,1,other
+661612,jaw bone xray(2side,1,imaging
+661616,jean,1,other
+661619,jedcocal - c effer granu,1,other
+661652,joint aspairation,1,other
+661654,joint aspiration 707,1,procedure
+661660,joint taping / aspiration medium joint,1,procedure
+661661,joint x-ray two view,1,imaging
+661692,jp melatonin,1,other
+661712,julmentin 1.2 gram,1,lab_test
+661726,junior suite rooms ward 5,1,consultation
+661738,k wire removal under ga,1,supplies
+661740,k u b 1631,1,lab_test
+661741,k u p,1,lab_test
+661744,k-actor,1,other
+661745,k. u. b. film,1,other
+661748,k.u.b one view,1,supplies
+661765,kafo without joint 7-12y,1,other
+661766,kafosed,1,other
+661773,kafosed 2.5,1,other
+661778,kafosed syrp,1,other
+661794,kanda 003 fr 100 48,1,eyewear
+661809,kapron 500,1,other
+661826,kata,1,other
+661835,kena cort,1,other
+661872,ketac - fil,1,other
+661883,ketamine 500,1,other
+661894,ketoconazole top 2% crm,1,other
+661906,kidney function follow-up program,1,lab_test
+661907,kidney function test kft,1,lab_test
+661911,"kidney profile( crea.bun,uric a",1,lab_test
+661914,kiensology tape,1,supplies
+661915,kinacourt,1,other
+661916,kindergarten check up,1,other
+661918,kisbady,1,other
+661920,kisswani,1,other
+661923,kiva gms,1,other
+661924,kiva omega,1,other
+661925,kiva omega+multivitamin,1,other
+662092,klavox625tab,1,other
+662115,knee 2 view unilateral,1,imaging
+662119,knee 2view,1,other
+662120,knee 3 views-560,1,imaging
+662121,knee 3 view,1,imaging
+662123,knee 3views,1,other
+662124,knee a.p and lateral,1,lab_test
+662125,knee a.p and lateral skyline,1,lab_test
+662126,knee ap & lat 3v,1,imaging
+662127,knee ap &lat 2v,1,imaging
+662128,knee ap/lat (standing) views,1,imaging
+662129,knee ap/lat views,1,imaging
+662130,knee ap/lat/axial views,1,imaging
+662132,knee immobilizer x large,1,supplies
+662134,knee jiont,1,other
+662135,knee jiont x-ray,1,imaging
+662137,knee joint (3views,1,imaging
+662140,knee joint - apl,1,imaging
+662141,knee joint - apl 1590,1,imaging
+662142,knee joint 1 film,1,imaging
+662143,knee joint 2 film,1,imaging
+662144,knee joint 2 flim,1,imaging
+662145,knee joint 2 shots,1,imaging
+662148,knee joint ap lateral,1,imaging
+662152,knee joint bilateral (standing ap/lat,1,imaging
+662156,knee joint skyline 1 view 30 deg. patella,1,imaging
+662160,knee joint x ra,1,lab_test
+662161,knee joint xray(2side,1,imaging
+662162,knee joint1 film,1,imaging
+662163,knee jt (incl intercondylar,1,other
+662164,"knee jt 4f(ap lat sky,1",1,imaging
+662167,"knee support ""close",1,supplies
+662168,knee support siz large,1,supplies
+662169,knee support siz medium,1,supplies
+662170,knee support size xx large,1,supplies
+662171,knee support size xl,1,supplies
+662173,"knee system , partial femur cemented , left medial size 2 , persona biomet ,42-5580-002-01",1,other
+662174,knee triple bandage,1,supplies
+662175,knee u.s,1,imaging
+662179,knee- 2 view,1,imaging
+662180,knees ap.& lat,1,imaging
+662181,knees ap/lat (rt&lt) views,1,imaging
+662182,knees joint 2f,1,imaging
+662185,koh ( fungal smear,1,lab_test
+662193,korea bifocal multicoat,1,eyewear
+662194,korea progressive multicoat,1,eyewear
+662195,korea progressive photo multic,1,eyewear
+662219,kub + pelvic u/s,1,imaging
+662220,kub - x ray,1,imaging
+662224,kub with pelvic ultrasound,1,imaging
+662226,kub x ray,1,imaging
+662228,kub/ abdomen (1 view,1,imaging
+662234,kub/abdomen -2views,1,imaging
+662235,kub/abdomen(2views)(supine&erect views,1,imaging
+662240,kulax surup,1,other
+662241,l - s 1 views,1,imaging
+662242,l - s 2 views,1,imaging
+662243,l ciinic,1,other
+662244,l c,1,lab_test
+662257,l-s spine ap x-ray,1,imaging
+662266,l.h. 542,1,lab_test
+662267,l14 r factor,1,lab_test
+662268,l18 vdrl r p a,1,lab_test
+662269,l23 h pylori,1,lab_test
+662275,llocking metal t.plates/ any size/ each,1,supplies
+662277,lvf (infusion set,1,supplies
+662278,la ocst,1,other
+662294,lab,1,other
+662295,lab cervical smear,1,imaging
+662296,lab chol hdl,1,lab_test
+662297,lab growth hormone gh,1,lab_test
+662303,lab triglycerides,1,lab_test
+662304,lab urine na,1,lab_test
+662305,lab extract 1 visit,1,procedure
+662309,lab-ft4,1,lab_test
+662314,lab-rubella igm antibodies,1,lab_test
+662321,labial abscess ula,1,procedure
+662324,lacostics,1,other
+662325,lacrifresh ocu-dry liquigel,1,other
+662326,lacrimal duct probing (unilateral,1,procedure
+662339,lactated%20ringer%20ivf,1,other
+662345,"lactonic ease 2 go milk, 80 spoon/bottle",1,supplies
+662346,"lactonic ease 3 go 3 spoon milk, 80 spoon/bottle",1,supplies
+662350,lactotic,1,other
+662351,lactotic biotic 10 vail,1,other
+662368,lamber x ray ii,1,imaging
+662369,lambo - sacral support,1,supplies
+662371,lambosacral 2 views,1,imaging
+662372,lambosacral 4 views,1,imaging
+662424,lamifen1%cr15gm,1,other
+662468,lancet caremed 100 peices,1,supplies
+662469,lancet flat,1,supplies
+662471,lancets 200sterile tip lancets,1,supplies
+662499,lap. assisted orchiopexy,1,procedure
+662501,laparascopic cholecystecomy,1,other
+662503,laparoscopic sleeve gastrectomy (credit,1,procedure
+662504,laparoscopic sleeve gastrectomy los 1 day,1,procedure
+662506,laparoscopic ovarian cystectomy unilateral,1,procedure
+662507,laparoscopic rectal pull through for pediatric,1,procedure
+662510,laparoscopic%20cholecystectomy,1,procedure
+662511,laproscopic repair incsional hernia,1,procedure
+662512,larag dressing,1,supplies
+662514,larg enuclleation under ga,1,other
+662515,large .w. dressing,1,supplies
+662519,large qwix fixation dia 7.5xl 60mm,1,procedure
+662520,large w dressing,1,supplies
+662521,large abscess drain under local anesthesia,1,procedure
+662530,large crepe bandage,1,supplies
+662534,large dressing -5013,1,supplies
+662537,large finger /toe splint,1,supplies
+662538,large lipoma excision,1,procedure
+662541,large slap,1,procedure
+662542,large surgical dressing,1,supplies
+662544,large wound dressing ???? ?????? ?????? (??? ????,1,supplies
+662545,large.w. dressing,1,supplies
+662546,laryngeal examination using sinoscope,1,consultation
+662548,laryngoscopy rigid,1,procedure
+662549,laryngoscopy rigied,1,procedure
+662550,laryngscopy,1,procedure
+662551,laryngscopy under local anaesthesia,1,procedure
+662553,laser pt 1 session,1,physiotherapy
+662556,laser hair removal axillae per session,1,physiotherapy
+662558,laser pain killer,1,procedure
+662559,laser photo coagulation ( one session,1,physiotherapy
+662560,lasex,1,other
+662561,lasex40mg,1,other
+662562,lashes removal one eye,1,supplies
+662605,lat.soft tissue neck 1f,1,imaging
+662611,lateral neck (soft tissue) x-ray,1,imaging
+662612,lateral neck (soft tissue,2,other
+662614,latex - r a (rh .f,1,lab_test
+662615,latex gloves,1,supplies
+662616,latex gloves l,1,supplies
+662617,latex gloves m,1,supplies
+662618,latex gloves s,1,supplies
+662619,latex gloves size s -- box/100pc,1,supplies
+662620,lavage,1,procedure
+662628,lavoxin,1,other
+662642,laxocodyl adult supp10mg,1,other
+662644,laxodyl ped,1,other
+662651,lbc (pap smear,1,lab_test
+662657,ldh ( total,1,lab_test
+662659,ldh inzime,1,lab_test
+662662,ldh. isoenzymes,1,lab_test
+662667,ldl - cholesterol 535,1,lab_test
+662668,ldl - cholesterol test,1,lab_test
+662672,ldl(cholesterol,1,lab_test
+662675,ldl. cholester,1,lab_test
+662676,ldl.-cholesterol,1,lab_test
+662678,ldld cholesterol,1,lab_test
+662679,ldld- cholesterol,1,lab_test
+662682,left trigeminal neurologia for balloon compression,1,supplies
+662688,leg bones (2 view,1,imaging
+662689,leg & ankle,1,other
+662690,leg (two view,1,imaging
+662694,leg - apl,1,other
+662695,leg - apl 1593,1,other
+662696,leg -2 view,1,imaging
+662698,leg 2 film,1,other
+662703,leg 3 views-565,1,imaging
+662704,leg and ankle . unilateral,1,other
+662705,leg and ankle x-ray,1,imaging
+662706,leg ap & lat 2v,1,imaging
+662708,leg ap/lat views,1,imaging
+662710,leg apl 2 v,1,other
+662711,leg bone ( 2views,1,imaging
+662712,leg bones (2 views,1,imaging
+662715,leg2film,1,other
+662719,leishmaniasis abs igg,1,lab_test
+662724,lenda faraow,1,other
+662727,lenses 1,1,eyewear
+662728,lenses 2,1,eyewear
+662729,lenses 3,1,eyewear
+662730,lenses 4,1,eyewear
+662731,lenses 5,1,eyewear
+662732,lenses 6,1,eyewear
+662737,leucocytes alkaline phosphatase,1,lab_test
+662738,leucovorin,1,other
+662742,leukair 10,1,other
+662753,leukair10mg 28t,1,other
+662814,levetiracetam 47300,1,other
+662885,"levocetrizinehcl5mg,20tablet/bx",1,procedure
+662992,levozyrt5 mg f.c.t,1,imaging
+662996,lezal oral new sulo,1,other
+663003,lgg (total,1,other
+663009,liberto,1,other
+663010,librty,1,other
+663041,ligament reconstruction tendon interposition arthroplasty & cmc joint - excluding supplies,1,procedure
+663042,light cure comp.fil,1,other
+663045,light cure composite filling 3 sur,1,dental
+663046,light cure composite filling 809,1,dental
+663047,light cure compsite filling 1,1,dental
+663048,light cure compsite filling 2,1,dental
+663049,light cure compsite filling3,1,other
+663053,limitless fortalase,1,other
+663068,linet hospital bed 8 movements,1,supplies
+663069,lingual fixed retainer,1,other
+663070,lingual orthodontics (( one arch,1,dental
+663093,lip profile,1,lab_test
+663134,lipase.serum,1,lab_test
+663135,lipd profile,1,lab_test
+663148,lipid p,1,other
+663149,lipid panel this panel must include the following,1,lab_test
+663150,"lipid panel this panel must include the following: cholesterol, serum, total (82465) lipoprotein, d",1,lab_test
+663152,lipid profil (ldl,1,lab_test
+663153,lipid profil 1,1,other
+663155,lipid profile (chol - tg- ldl-hdl,1,lab_test
+663157,lipid profile (serum choltrighdlldl,1,lab_test
+663158,lipid profile (tot chol trig ldl hdl,1,lab_test
+663159,lipid profile 520,1,lab_test
+663162,"lipid profile(chol,lipids,hdl,triglycerides",1,lab_test
+663191,lipoma,1,other
+663192,lipoma 932,1,other
+663193,lipoma excission under l.a (large,1,lab_test
+663194,lipoma excission under la,1,other
+663195,"lipoprotein , direct measurement ; ldl cholesterol",1,lab_test
+663196,"lipoprotein ,direct measurement ;high density cholesterol (hdl cholesterol",1,lab_test
+663198,liquifilm tears,1,other
+663201,lisino 10m,1,other
+663234,livador500 gm,1,other
+663236,liver ( alt ast alp total bilirubin,1,lab_test
+663242,liver function follow-up program,1,lab_test
+663243,liver function panel (lft,1,lab_test
+663248,liver function proile,1,lab_test
+663250,liver function test ( alt - ast,1,lab_test
+663252,liver function test 512,1,lab_test
+663254,liver function test lft (tb+db+alt+ast+ggt+alk ph,1,lab_test
+663255,liver function test lft (tb+db+alt+ast+ggt+alk ph+tp+a/g,4,lab_test
+663256,liver function test lft _tb+db+alt+ast+ggt+alk ph+tp+a/g_,1,lab_test
+663261,liver profile & hepatitis virus,1,lab_test
+663262,"liver profile (ast,alt,tb,alp",1,lab_test
+663263,liver/function,1,lab_test
+663275,lmmunoglobulin e (lge ) total,1,other
+663276,lnjection im,1,other
+663277,lnjection opd,1,consultation
+663278,lnjection opd at home,1,consultation
+663279,lntramuscular abministration of pharmacological agent other and unspecified phamracological agent,1,other
+663280,lntravenous abministration of pharmacological agent other and unspecified phamracological agent,1,other
+663283,local anaesthesia - big wound,1,procedure
+663286,local anaesthesis-small wound,1,other
+663288,local anaethesia ( big wound,1,other
+663289,local anaethesia ( small wound,1,other
+663294,local anethesia(1-3 suture,1,supplies
+663296,local ing,1,other
+663319,local injection889,1,other
+663324,locala injec,1,other

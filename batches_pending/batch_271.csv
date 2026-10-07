@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+470082,psa(free,1,lab_test
+470083,psa(procedural sedation analgesia,1,procedure
+470084,psa(total,3,lab_test
+470087,psa(prostate specific antigen,1,lab_test
+470091,"psa, free prostatic specific antigen",1,lab_test
+470092,"psa, free",1,lab_test
+470093,"psa, total",1,lab_test
+470094,"psa, total prostatic specific antigen",1,lab_test
+470095,"psa,free/total ratio",1,lab_test
+470096,psa- free,1,lab_test
+470097,psa- prostatic specific antigen,1,lab_test
+470098,psa-free,1,lab_test
+470099,psa-profi atic specific antigen (local,1,lab_test
+470100,psa-prostate specific antigen (local,1,lab_test
+470101,psa-prostatic specific ag. local,1,lab_test
+470102,psa-prostatic specific ant (local,1,lab_test
+470103,psa-prostatic specific antigen,4,lab_test
+470108,psa-prostatic specific antigen (total,1,lab_test
+470109,psa-prostatic specific antigen (free,1,lab_test
+470110,psa-prostatic specific antigen l,1,lab_test
+470111,psa-prostatic specific antigen local,1,lab_test
+470112,psa-prostatic specific antigen total,1,lab_test
+470113,psa-prostatic specific antigen(local,1,lab_test
+470115,"psa-prostatic specific ag,total",1,lab_test
+470116,psa-prostatic%20specific%20antigen%20(local,1,lab_test
+470118,psa-t,1,lab_test
+470119,psa-total (prostate specific ntigen,1,lab_test
+470120,psa-total,1,lab_test
+470121,psa-tumor marker,1,lab_test
+470123,psa.tumor markert(total,1,lab_test
+470124,psaprostatic specific antigen local,1,lab_test
+470125,psaqualitative,1,other
+470126,psaquantitaive,1,other
+470127,psatotal,1,other
+470128,pscycho therapy 1 session,1,physiotherapy
+470129,pscycho therapy 4 sessions,1,physiotherapy
+470130,pseudocholinesterase,1,other
+470153,"pseudophedrine hydrochloride,loratidine",1,other
+470156,psma pet/ct,1,imaging
+470157,psn asf ps 10mm ply 3-5 ab # 42-5114-002-10,1,lab_test
+470158,psn asf ps 10mm ve r 3.5 cd # 42-5224-004-10,1,other
+470159,"psn articular surface c/d - 3/5, 14mm zimmerbiomet 1""s #42522400414",1,other
+470160,psn fem ps cmt ccr nrw sz 4 r # 42500605602,1,other
+470161,psn fem ps cmt ccr std sz 4 l # 42500605601,1,other
+470162,psn fem ps cmt ccr std sz 5 l # 42500605801,1,other
+470163,psn fem ps cmt ccr std sz 5 r # 42500605802,1,other
+470164,psn fem ps cmt ccr std sz 7 l # 42500606201,1,other
+470165,psn fem ps cmt ccr std sz 8 l # 42500606401,1,other
+470166,psn fem ps cmt ccr std sz 9 l # 42500606601,1,other
+470167,psn femoral ps cmt ccr sz. 6 r # 42500606002,1,other
+470168,psn tib cmt stm 5 deg size. e r # 42532007102,1,lab_test
+470169,psn tib cmt stm 5 deg sz c r # 42532006402,1,lab_test
+470170,psn tib cmt stm 5 deg sz d l # 42532006701,1,lab_test
+470171,psn tib cmt stm 5 deg sz d r # 42532006702,1,lab_test
+470172,psn tib cmt stm 5deg size. c l 42532006401,1,lab_test
+470173,psn tib cmt stm 5deg sz f l # 42532007501,1,lab_test
+470174,psn tib cmt stm 5deg sz f r # 42532007502,1,lab_test
+470175,psn tib cmt stm 5deg sz g l # 42532007901,1,lab_test
+470176,psn tpr st 14 x 30mm persona # 42-5570-001-14,1,other
+470177,psn tpr st 14x+30mm 42-5570-001-14,1,other
+470178,psn. tib stm.5 dgr.sz bl # 42-5320-061-01,1,other
+470179,psoralen ultra-v. (puva,1,other
+470180,psoralen ultra-v. (puva)/one session,1,physiotherapy
+470181,psy playtheraphy,1,other
+470182,psychaitric treatment session,1,physiotherapy
+470183,psychaitric treatment session - consultant,1,physiotherapy
+470184,psychaitric treatment session - resident,1,physiotherapy
+470185,psychia specialist fee,1,consultation
+470186,psychiatric fee-specialist,1,consultation
+470187,psychiatric specialist fee,2,consultation
+470188,psychiatric consultancy fee,1,consultation
+470189,psychiatric consultant consultation,1,consultation
+470190,psychiatric consultation,2,consultation
+470191,psychiatric consultation (1st visit,1,consultation
+470192,psychiatric consultation - consultant,1,consultation
+470193,psychiatric consultation fee,1,consultation
+470194,psychiatric consultation-in-pt,1,consultation
+470195,psychiatric fee,1,consultation
+470196,psychiatric fee-consultan,1,consultation
+470197,psychiatric follow-up visit,1,consultation
+470199,psychiatric spesialist consultation,1,consultation
+470200,psychiatrist visit,1,consultation
+470201,psychiatry admission kit,1,consultation
+470202,psychiatry adult follow-up,1,consultation
+470203,psychiatry adult new follow-up,1,consultation
+470204,psychiatry child follow-up,1,consultation
+470205,psychiatry cons fee,1,consultation
+470206,psychiatry consultant fee,1,consultation
+470207,psychiatry consultation,2,consultation
+470208,psychiatry mood disorder follow-up,1,consultation
+470209,psychiatry mood disorder new follow-up,1,consultation
+470210,psychiatry obsessive compulsive disorder follow-up,1,consultation
+470211,psychiatry package i (8 sessn,1,other
+470212,psychiatry package ii (8 sesn,1,other
+470213,psychiatry spec fee,1,consultation
+470214,psycho therapy interactive,1,physiotherapy
+470215,psychoeducation,1,other
+470216,psychological / behaveior therapy session half hour,1,physiotherapy
+470217,psychological and speech battery,1,other
+470218,psychological assessment category 1 iq adult child,1,consultation
+470219,psychological assessment category 1- iq test (adult/child,1,lab_test
+470220,psychological assessment category 3 other scales,1,consultation
+470221,psychological assessment- category 1 - i.q. - adult / child,1,consultation
+470222,psychological assessment- category 2 - anxiety,1,consultation
+470223,psychological assessment- category 2 - depression,1,consultation
+470224,psychological assessment- category 2 - ocd,1,consultation
+470225,psychological assessment- category 2 - organicity,1,consultation
+470226,psychological assessment- category 2 - panic & phobia,1,consultation
+470227,psychological assessment- category 2 - panic and phobia,1,consultation
+470228,psychological assessment- category 2 - personality,1,consultation
+470229,psychological assessment- category 2 - schizophrenia,1,consultation
+470230,psychological assessment- category 3 - other scales,1,consultation
+470231,psychological assessment- category 3 - psychosocial,1,consultation
+470232,psychological assessment- category 3 - self satisfaction,1,consultation
+470233,psychological assessment- category 3 - sleep,1,consultation
+470234,psychological assessment- i.q,1,consultation
+470235,psychological brief or screening assessment (wechsler intelligence scale,1,lab_test
+470236,psychological brief or screening assessment language test (spl,1,lab_test
+470237,"psychological brief or screening assessment, psychology( illinois",1,lab_test
+470238,psychological evaluation,3,consultation
+470239,psychological test,1,lab_test
+470240,"psychological testing evaluation services by physician or other qualified health care professional, including integration of patient data, interpretation of standardized test results and clinical data, clinical decision making, treatment planning and report and interactive feedback to the patient, f",1,lab_test
+470241,psychological testing face to face by technician 1 hour,1,lab_test
+470242,"psychological testing, interpretation and reporting per hour by a psychologist / mmpi",1,lab_test
+470243,psychological therapy (3 sessions) - pkg,1,physiotherapy
+470244,psychological therapy - per sessions,1,physiotherapy
+470245,psychologicaltesting face to face by technician 1 hour,1,other
+470246,psychologicaltesting face to face by technician half hour,1,other
+470247,psychologist consultation fee,1,consultation
+470248,psychologist fee,1,consultation
+470249,psychology consultation,1,consultation
+470250,psychology session (group,1,physiotherapy
+470251,psychology session (individual,1,physiotherapy
+470252,psychology stanford binet (version 4) iq allied health intervention,1,consultation
+470253,"psychology stanford binet (version 4) iq,allied health intervention",1,consultation
+470254,"psychology stanford binet (version 5) iq,allied health intervention",1,consultation
+470255,psychology therapy session,3,physiotherapy
+470256,psychometric testing & report,1,lab_test
+470257,psychometry (max.50 minutes,1,other
+470258,psychopathic deviation,1,other
+470259,psychosocial assessment,2,consultation
+470260,psychotherap,1,other
+470261,psychotheraphy whth pt theraphist fee,1,consultation
+470262,psychotherapy,3,consultation
+470263,psychotherapy (3 sessions) 30 minutes,1,physiotherapy
+470264,psychotherapy (6 sessions) 30 minutes,1,physiotherapy
+470265,psychotherapy (behaviour) per session,1,physiotherapy
+470266,psychotherapy (cognitive) per session,1,physiotherapy
+470267,psychotherapy (couple) per session,1,physiotherapy
+470268,psychotherapy assessment,1,consultation
+470269,psychotherapy brief (behaviour) per session,1,physiotherapy
+470270,psychotherapy brief (cognitive) per session,1,physiotherapy
+470271,psychotherapy brief (couple) per session,1,physiotherapy
+470272,psychotherapy brief behavior per session,1,physiotherapy
+470273,psychotherapy brief cognitive per session,1,physiotherapy
+470274,psychotherapy brief couple per session,1,physiotherapy
+470275,psychotherapy brief per session,1,physiotherapy
+470276,psychotherapy by consultant - 8 sessions,1,physiotherapy
+470277,psychotherapy by consultant - half an hour session,1,physiotherapy
+470278,psychotherapy by specialist adult,1,consultation
+470279,psychotherapy by specialist children,1,consultation
+470280,psychotherapy for crisis; first 60 minutes,1,consultation
+470281,psychotherapy per session,1,physiotherapy
+470282,psychotherapy session,3,physiotherapy
+470283,psychotherapy session (minor,1,physiotherapy
+470284,psychotherapy session - per session,1,physiotherapy
+470285,psychotherapy session specialist,1,physiotherapy
+470286,psychotherapy session w/ consultant,1,physiotherapy
+470287,psychotherapy session w/ junior,1,physiotherapy
+470288,psychotherapy session-counseling,1,physiotherapy
+470289,psychotherapy treatment - per session,1,physiotherapy
+470290,psychotherapy with patient - 30 minutes,2,consultation
+470291,psychotherapy with patient - 45 minutes,2,consultation
+470292,psychotherapy with patient - 60 minutes,2,consultation
+470293,psychotherapy x 4,2,consultation
+470294,psychotherapy x 8,1,consultation
+470295,psychotherapy(1)session,1,physiotherapy
+470296,"psychotherapy, 5 sessions",1,physiotherapy
+470297,"psychotherapy, 60 minutes with patient when performed with an evaluation and management service (list separately in addition to the code for primary procedure",1,consultation
+470298,psychp. cons.including prnts. disturbed behavior 1 session,1,physiotherapy
+470299,psycotherapy brief (cognitive) per session,1,physiotherapy
+470300,psycotherapy inter personal,1,other
+470302,pt inr,2,lab_test
+470303,pt (per session,1,physiotherapy
+470304,pt session,6,physiotherapy
+470305,pt & i.n.r,1,lab_test
+470306,pt & inr,1,lab_test
+470307,pt & inr ( prothrombin time,1,lab_test
+470308,pt & ptt,1,lab_test
+470310,pt ( inr,2,lab_test
+470312,pt (inr,1,lab_test
+470318,pt (prothrombin time)-inr,1,lab_test
+470319,pt (prothrombin time)/ inr,1,lab_test
+470320,pt (prothrombin time)inr,1,lab_test
+470321,pt (prothrombine time,1,lab_test
+470322,pt (prothrombin )time,1,lab_test
+470325,pt (prothrombin time) - ?????,1,lab_test
+470326,pt (prothrombin time) - مختبر,1,lab_test
+470327,pt (serum,2,lab_test
+470329,pt + inr,1,lab_test
+470330,pt + ptt + mixed study,1,lab_test
+470331,pt - coevaluation,1,lab_test
+470332,pt - inr,1,lab_test
+470333,pt - prothomein time,1,lab_test
+470334,pt - prothrombin time,4,lab_test
+470337,pt - prothrombin time - insurance,1,lab_test
+470339,pt / inr,1,lab_test
+470340,pt / inr - tat (8 duty hrs) stat(1 hr,1,lab_test
+470341,pt / inr prothrombin time,1,lab_test
+470342,pt / inr prothrombin time (l13,1,lab_test
+470343,pt / prothrombin time,1,lab_test
+470344,pt 1 session 2 area,1,physiotherapy
+470345,pt actvd ecg 20 prior & 15 sec aft actvn,1,diagnostic
+470346,pt and aptt,1,lab_test
+470347,pt and inr,2,lab_test
+470348,pt assessment and examination,1,consultation
+470349,pt chest,1,lab_test
+470350,pt consultation,1,consultation
+470351,pt ds removal,1,procedure
+470352,pt eval / assessment 20 minutes,1,consultation
+470353,pt eval / assessment 30 minutes,1,consultation
+470354,pt eval / assessment 45 minutes,1,consultation
+470355,pt evaluation,2,consultation
+470357,pt follow up,1,consultation
+470358,pt including inr,1,lab_test
+470360,pt multiple areas (3 procs,1,lab_test
+470361,pt multiple areas one session,1,physiotherapy
+470362,pt mixing study,1,consultation
+470363,pt or inr,2,lab_test
+470364,pt prepara- open-heart surgery,1,procedure
+470365,pt prothrom8in time,1,lab_test
+470366,pt prothrombin time,2,lab_test
+470367,pt ptt inr,1,lab_test
+470368,pt price :55.00,1,consultation
+470370,pt prothrombine time,1,lab_test
+470372,pt session (mod 3,1,physiotherapy
+470373,pt session (modality 1,1,physiotherapy
+470374,pt session all modulities,1,physiotherapy
+470375,pt session for back pain,1,physiotherapy
+470376,pt session in-patient (individual,1,physiotherapy
+470377,pt session multiple area,1,physiotherapy
+470378,pt session opd (individual,1,physiotherapy
+470379,pt session opd gym (group,1,physiotherapy
+470380,pt single area (3 procs,2,lab_test
+470382,pt session(all modules,1,physiotherapy
+470383,pt test,2,lab_test
+470384,pt test / pt test,1,lab_test
+470385,pt two areas (3 procs,1,lab_test
+470387,pt w/ inr & ptt,1,lab_test
+470388,pt with inr & ptt profile,2,lab_test
+470390,"pt one area, per session: any 3 modalities (therapeutic exer",1,physiotherapy
+470393,pt with inr,1,lab_test
+470395,"pt""s prep -angioply - mult. vess",1,lab_test
+470396,"pt""s prepar- angioplasty - sing ves",1,procedure
+470397,pt(inr,1,lab_test
+470398,pt(mhl lab,1,lab_test
+470400,pt+ptt+ inr,1,lab_test
+470401,pt+ptt+mixed study,1,lab_test
+470402,"pt,ptt,inr",1,lab_test
+470403,pt- 6 op session package,1,physiotherapy
+470404,pt- aquatic therapy 1/4 hr,1,physiotherapy
+470405,pt- basic seating & positioning assessment (1/4 hour,1,consultation
+470406,pt- prothirombin time,1,lab_test
+470407,pt-1145,1,lab_test
+470408,pt-co-tx (grp) 1/4 hr (>2 patients,1,lab_test
+470409,pt-co-tx (ind) 1/4 hr,1,lab_test
+470410,pt-evaluation 1/4 hr,1,consultation
+470411,pt-group tx 1/4 hr (>2 patients,1,lab_test
+470412,pt-hand therapy intervention (1/4 hour,1,physiotherapy
+470413,pt-hippotherapy per session,1,physiotherapy
+470414,pt-inr,2,lab_test
+470415,pt-inr & ptt,1,lab_test
+470416,pt-inr (prothrombin time,1,lab_test
+470417,pt-inr bupa,1,lab_test
+470418,pt-inr medgulf,1,lab_test
+470420,pt-manual therapy 1/4 hr,1,physiotherapy
+470421,pt-op group package 1 hr,1,lab_test
+470423,pt-patient/family train 1/4 hr,1,lab_test
+470425,pt-ther. exercise and train 1/4 hr,1,lab_test
+470426,pt. session three machines,1,physiotherapy
+470428,pt/ inr with anticoagulant intake,1,lab_test
+470429,pt/inr,1,lab_test
+470430,pt/inr 73100-08-60 plasma fractions clotting time,1,lab_test
+470431,pt/inr no anticoagulant intake,1,lab_test
+470432,pt212,1,other
+470433,pta,1,other
+470434,pta pure tone average test,1,lab_test
+470435,pta (percutaneous transluminal angioplasty) of the aorta +/- stenting,1,procedure
+470436,pta balloon dilatation cathete,1,supplies
+470437,"pta perc w stenting, multiple stents",1,other
+470438,"pta perc w stenting, single stent",1,supplies
+470439,"pta single carotid artery, mult stents",1,other
+470440,"pta single carotid artery, single stent",1,supplies
+470441,ptaballoondilatationcatheter50cm,1,other
+470442,ptaryguium excis+conj aut graft,1,procedure
+470443,ptb pcr quantitative,1,lab_test
+470444,ptc & drainage,1,procedure
+470445,ptc & ptd drainage-pkg,1,procedure
+470446,ptc (percutaneous transhepatic cholangiography,1,other
+470447,"ptc angioplasty,single major coronary artery",1,procedure
+470448,"ptc atherectomy, w/coronary angioplasty when performed;single major coronary artery",1,procedure
+470449,ptc percutaneous transhepatic cholangiography,1,other
+470450,ptc tube insertion + internal drain,1,supplies
+470451,ptca double vessels plus 1 stent des,1,supplies
+470452,ptca single vessel sv plus 1 stent des,2,eyewear
+470453,ptca (percut. translu. coronary angioplasty) dv/1 stent (implant not included,1,supplies
+470454,ptca (percut. translu. coronary angioplasty) dv/3 stents (implant not included,1,supplies
+470455,ptca (percut. translu. coronary angioplasty) sv/1 stent (implant not included,1,eyewear
+470456,ptca (percut. translu. coronary angioplasty) sv/2 stents (implant not included,1,eyewear
+470457,ptca (percut. translu. coronary angioplasty) sv/3 stents (implant not included,1,eyewear
+470458,ptca (percut. translu. coronary angioplasty) sv/4 stents (implant not included,1,eyewear
+470459,"ptca (percut.translu. coronary angiopl.) ? dv / 5 stents , (excluding implants",1,supplies
+470460,"ptca (percut.translu. coronary angiopl.) ? dv with stents, (excluding implants",1,supplies
+470461,ptca (percutaneous transluminal coronary agioplasty) ? sv + stent (price is with stent,1,eyewear
+470462,ptca (percutaneous transluminal coronary agioplasty) ? sv + stent (price is without stent,1,eyewear
+470463,ptca (percutaneous transluminal coronary agioplasty) sv + stent,2,eyewear
+470464,"ptca (percutaneous transluminal coronary agioplasty) sv + stent , (price is without stent) (one da",3,eyewear
+470465,"ptca (percutaneous transluminal coronary agioplasty) sv with ,(implant not included",1,eyewear
+470466,ptca (percutaneous transluminal coronary agioplasty) sv with stent (implant not included,1,eyewear
+470467,"ptca (percutaneous transluminal coronary agioplasty) sv with stent ,(implant not included",1,eyewear
+470468,ptca (percutaneous transluminal coronary agioplasty) - sv stent (price is without stent,1,eyewear
+470469,ptca (percutaneous transluminal coronary angioplasty) ? dv,1,procedure
+470470,ptca (percutaneous transluminal coronary angioplasty) ? dv + 2 stent (price is with stent,1,supplies
+470471,ptca (percutaneous transluminal coronary angioplasty) ? dv + 2 stent (price is without stent,1,supplies
+470472,"ptca (percutaneous transluminal coronary angioplasty) ? dv + 2 stent , (price is",2,supplies
+470473,ptca (percutaneous transluminal coronary angioplasty) ? dv + 3 stent (price is without stent,1,supplies
+470474,ptca (percutaneous transluminal coronary angioplasty) ? dv + 5 stents (price is without sents,1,procedure
+470475,ptca (percutaneous transluminal coronary angioplasty) ? dv + stent (price is without stent,1,supplies
+470476,ptca (percutaneous transluminal coronary angioplasty) ? dv with 4 stents,1,procedure
+470477,ptca (percutaneous transluminal coronary angioplasty) ? sv,1,eyewear
+470478,ptca (percutaneous transluminal coronary angioplasty) ? sv + 2 stent (price is with stent,1,eyewear
+470479,ptca (percutaneous transluminal coronary angioplasty) ? sv + 2 stent (price is without stent,1,eyewear
+470480,ptca (percutaneous transluminal coronary angioplasty) dv + 2 stent,2,supplies
+470481,ptca (percutaneous transluminal coronary angioplasty) dv + 3 stent,2,supplies
+470482,"ptca (percutaneous transluminal coronary angioplasty) dv + 3 stent , (price is without stent) (one",3,supplies
+470483,ptca (percutaneous transluminal coronary angioplasty) dv + 4 stents,2,procedure
+470484,ptca (percutaneous transluminal coronary angioplasty) dv + stent,1,supplies
+470485,"ptca (percutaneous transluminal coronary angioplasty) dv with 2 , (price is without",1,procedure
+470486,ptca (percutaneous transluminal coronary angioplasty) dv with 2 stent (price is without stent,1,supplies
+470487,"ptca (percutaneous transluminal coronary angioplasty) dv with 2 stent , (price is without stent",1,supplies
+470488,"ptca (percutaneous transluminal coronary angioplasty) dv with 3 ,(implant not included",1,supplies
+470489,"ptca (percutaneous transluminal coronary angioplasty) dv with 3 stent ,(implant not included",1,supplies
+470490,ptca (percutaneous transluminal coronary angioplasty) dv with stent (implant not included,1,supplies
+470491,ptca (percutaneous transluminal coronary angioplasty) sv,1,eyewear
+470492,ptca (percutaneous transluminal coronary angioplasty) sv + 2 stent,2,eyewear
+470493,ptca (percutaneous transluminal coronary angioplasty) sv + 3 stent,2,eyewear
+470494,ptca (percutaneous transluminal coronary angioplasty) sv + double stenting (stents not included) one regular balloon is included,1,eyewear
+470495,ptca (percutaneous transluminal coronary angioplasty) sv -#1ccu &1ward,1,eyewear
+470496,"ptca (percutaneous transluminal coronary angioplasty) sv with 2 ,(implant not included",1,eyewear
+470497,ptca (percutaneous transluminal coronary angioplasty) sv with 2 stent (implant not included,1,eyewear
+470498,"ptca (percutaneous transluminal coronary angioplasty) sv with 2 stent ,(implant not included",1,eyewear
+470499,ptca (percutaneous transluminal coronary angioplasty) sv with 3 stent (implant not included,1,eyewear
+470500,ptca (percutaneous transluminal coronary angioplasty) sv with 4 stents (implant not included,1,eyewear
+470501,"ptca (percutaneous transluminal coronary angioplasty) - dv 2 stent , (price is without stent",1,supplies
+470502,"ptca (percutaneous transluminal coronary angioplasty) - dv 3 stent , (price is without stent",1,supplies
+470503,ptca (percutaneous transluminal coronary angioplasty) - dv 4 stents (price is without stent,1,supplies
+470504,"ptca (percutaneous transluminal coronary angioplasty) - dv stent , (price is without stent",1,supplies
+470505,"ptca (percutaneous transluminal coronary angioplasty) - sv 2 stent , (price is without stent",1,eyewear
+470506,"ptca (percutaneous transluminal coronary angioplasty) - sv 3 stent , (price is without stent",1,eyewear
+470507,ptca (percutaneous transluminal coronary angioplasty) - sv 4 stents (price is without stent,1,eyewear
+470508,"ptca (percutaneous transluminal coronary angioplasty) - tv 3 stent , (price is without stent",1,supplies
+470509,ptca (percutaneous transluminal coronary angioplasty) - tv 4 stents (price is without stent,1,supplies
+470510,ptca (percutaneous transluminal coronary angioplasty) - tv 5 stents (price is without stent,1,supplies
+470511,ptca (per.cor. intervention) double vessel + 2 drug eluting stents (des) package(900058,1,procedure
+470512,ptca (per.cor. intervention) double vessel 2 drug eluting stents (des) package,1,procedure
+470513,ptca (per.cor. intervention) single vessel + 1 drug eluting stent (des,1,supplies
+470514,ptca (per.cor. intervention) single vessel + 1 drug eluting stent (des) package(900056,1,supplies
+470515,ptca (per.cor. intervention) single vessel + 2 drug eluting stent (des) package(900057,1,supplies
+470516,ptca (per.cor. intervention) single vessel 1 drug eluting stent (des,1,supplies
+470517,"ptca (percutaneous transluminal coronary agioplasty) ? sv stent , (price is without stent) (one d",1,eyewear
+470520,"ptca (percutaneous transluminal coronary agioplasty) - sv + stent , (price is without stent) (one d",1,eyewear
+470521,"ptca (percutaneous transluminal coronary agioplasty) - sv stent , (price is without stent) (one d",1,eyewear
+470522,ptca (percutaneous transluminal coronary agioplasty) sv + stent (one day ccu + one day ward,1,eyewear
+470523,ptca (percutaneous transluminal coronary angioplasty,1,procedure
+470524,ptca (percutaneous transluminal coronary angioplasty) - dv + double stenting (stents not included) one regular balloon is included,1,supplies
+470525,ptca (percutaneous transluminal coronary angioplasty) - dv + multiple stenting (stents not included) one regular balloon is included,1,supplies
+470526,ptca (percutaneous transluminal coronary angioplasty) - dv + stenting (stents not included) one regular balloon is included,1,supplies
+470527,ptca (percutaneous transluminal coronary angioplasty) - dv one regular balloon is included,1,supplies
+470528,ptca (percutaneous transluminal coronary angioplasty) - sv +one regular balloon is included,1,eyewear
+470529,ptca (percutaneous transluminal coronary angioplasty) - tv + double stenting (stents not included) one regular balloon is included,1,supplies
+470530,ptca (percutaneous transluminal coronary angioplasty) / sv + multiple stenting (stents not included) one regular balloon is included,1,eyewear
+470531,ptca (percutaneous transluminal coronary angioplasty) / sv + single stenting (stent not included) one regular balloon is included,1,eyewear
+470532,ptca (percutaneous transluminal coronary angioplasty) / tv + multiple stenting (stents not included) one regular balloon is included,1,supplies
+470534,"ptca (percutaneous transluminal coronary angioplasty) ? sv + 2 stent , (price is",2,eyewear
+470535,"ptca (percutaneous transluminal coronary angioplasty) ? sv ,(one day ccu + one d",1,eyewear
+470536,"ptca (percutaneous transluminal coronary angioplasty) ? sv 2 stent , (price is without stent) (on",1,eyewear
+470538,"ptca (percutaneous transluminal coronary angioplasty) dv + 2 stent , (price is without stent) (one",2,supplies
+470539,ptca (percutaneous transluminal coronary angioplasty) dv + 2 stents-r,1,procedure
+470542,ptca (percutaneous transluminal coronary angioplasty) dv + 3 stents,1,procedure
+470543,ptca (percutaneous transluminal coronary angioplasty) dv + 3 stents-r,1,procedure
+470545,"ptca (percutaneous transluminal coronary angioplasty) dv + 4 stents , (price is without stent) (on",1,supplies
+470546,"ptca (percutaneous transluminal coronary angioplasty) dv + 5 stents , (one day ccu + four days war",1,supplies
+470547,"ptca (percutaneous transluminal coronary angioplasty) dv + stent , (price is without stent) (one d",1,supplies
+470548,"ptca (percutaneous transluminal coronary angioplasty) dv , (one day ccu + one day ward",2,supplies
+470549,ptca (percutaneous transluminal coronary angioplasty) sv + 1 stent-r,1,eyewear
+470551,"ptca (percutaneous transluminal coronary angioplasty) sv + 2 stent , (price is without stent) (one",2,eyewear
+470552,ptca (percutaneous transluminal coronary angioplasty) sv + 2 stents-r,1,eyewear
+470554,"ptca (percutaneous transluminal coronary angioplasty) sv + 3 stent , (price is without stent) (one",2,eyewear
+470555,ptca (percutaneous transluminal coronary angioplasty) sv + 4 stents,1,eyewear
+470556,ptca (percutaneous transluminal coronary angioplasty) sv + stent,1,eyewear
+470557,"ptca (percutaneous transluminal coronary angioplasty) sv ,(one day ccu + one day ward",2,eyewear
+470558,"ptca (percutaneous transluminal coronary angioplasty) tv + 2 stent , (price is without stent) (one",1,supplies
+470559,ptca (percutaneous transluminal coronary angioplasty) tv + 3 stents-r,1,procedure
+470560,ptca (percutaneous transluminal coronary angioplasty) tv + 5 stents,1,procedure
+470561,"ptca (percutaneous transluminal coronary angioplasty) tv + 5 stents , (price is without stent) (on",1,supplies
+470562,ptca (percutaneous transluminal coronary angioplasty) tv with 3 stent,1,supplies
+470563,"ptca (percutaneous transluminal coronary angioplasty) - dv + 3 stent , (price is without stent) (on",1,supplies
+470564,"ptca (percutaneous transluminal coronary angioplasty) - dv , (one day ccu one day ward",1,supplies
+470565,"ptca (percutaneous transluminal coronary angioplasty) - dv 2 stent , (price is without stent) (on",1,supplies
+470566,"ptca (percutaneous transluminal coronary angioplasty) - dv 3 stent , (price is without stent) (on",1,supplies
+470567,"ptca (percutaneous transluminal coronary angioplasty) - dv 4 stents , (price is without stent) (o",1,supplies
+470568,"ptca (percutaneous transluminal coronary angioplasty) - dv 5 stents , (one day ccu four days war",1,supplies
+470569,"ptca (percutaneous transluminal coronary angioplasty) - dv stent , (price is without stent) (one",1,supplies
+470570,"ptca (percutaneous transluminal coronary angioplasty) - sv ,(one day ccu one day ward",1,eyewear
+470571,"ptca (percutaneous transluminal coronary angioplasty) - sv 2 stent , (price is without stent) (on",1,eyewear
+470572,"ptca (percutaneous transluminal coronary angioplasty) - sv 3 stent , (price is without stent) (on",1,eyewear
+470573,"ptca (percutaneous transluminal coronary angioplasty) - sv 4 stents , (price is without stent) (o",1,eyewear
+470574,"ptca (percutaneous transluminal coronary angioplasty) - tv 3 stent , (price is without stent) (on",1,supplies
+470575,"ptca (percutaneous transluminal coronary angioplasty) - tv 4 stents , (price is without stent) (o",1,supplies
+470576,ptca (percutaneous transluminal coronary angioplasty) dv + 2 stent (one day ccu + three days ward,1,supplies
+470577,ptca (percutaneous transluminal coronary angioplasty) dv + 3 stent (one day ccu + three days ward,1,supplies
+470578,ptca (percutaneous transluminal coronary angioplasty) dv + stent (one day ccu + three days ward,1,supplies
+470579,ptca (percutaneous transluminal coronary angioplasty) sv (one day ccu + one day ward,1,eyewear
+470580,ptca (percutaneous transluminal coronary angioplasty) sv + 2 stent (one day ccu + three days ward,1,eyewear
+470581,ptca (percutaneous transluminal coronary angioplasty) sv + 3 stent (one day ccu + four days ward,1,eyewear
+470582,"ptca (transcatheter placement of an intracoronary stent ) percutaneous, with or without other therapeutic intervention, any method: single vessel - pkg",1,supplies
+470583,"ptca , balloon , various sizes ( meril),biosensors , ncb-25010",1,supplies
+470584,ptca - dv without stents,1,procedure
+470585,ptca - dv without stents - 3 days pkg (2 icu + 1 mw,1,procedure
+470586,ptca - dv without stents - 3 days pkg (2 icu + 1 ward,1,procedure
+470587,ptca - sv without stents,1,eyewear
+470588,ptca - sv without stents - 3 days pkg (1 icu + 2 mw,1,eyewear
+470589,ptca - sv without stents - 3 days pkg (1 icu + 2 ward,1,eyewear
+470590,ptca - tv without stents,1,procedure
+470591,ptca - tv without stents - 3 days pkg (2 icu + 1 mw,1,procedure
+470592,ptca 2 vessel w/o stent (pk,1,supplies
+470593,ptca =>2 coronary arteries,1,procedure
+470594,ptca additional stent des,2,supplies
+470595,ptca baloon dilatation -i vascular - oceanus,1,procedure
+470596,ptca double vessel (dv) with stent (s,1,supplies
+470597,ptca double vessels plus 2 stent des,1,supplies
+470598,ptca double vessels plus 2 stents des,1,procedure
+470599,ptca double vessels plus 3 stents,1,procedure
+470600,"ptca dv + 1 stent (d. eluting), sr13270 will be charged other stent (1 day ccu + 1 day ward",1,supplies
+470601,ptca dv + 2 tent,1,procedure
+470602,"ptca dv + 3 stent , (price is without stent",1,supplies
+470603,ptca dv + 5 stent,1,supplies
+470604,ptca dv + one stent (drug eluting) sr.12500 will be charged every other stent,2,supplies
+470605,ptca dv + one stent (drug eluting) sr.12500 will be charged every other stent (one day,1,supplies
+470606,ptca dv + one stent (drug eluting)+sr.12500 for the other stent,1,supplies
+470607,"ptca dv + one stent (drug eluting), sr.13270 will be charged every other stent (one day",1,supplies
+470608,ptca dv + onetent (drug eluting)r.12500 will be charged every othertent,1,procedure
+470610,"ptca dv + one stent (drug eluting), sr.12,500 will be charged every other stent",1,supplies
+470611,ptca dv without stent,1,supplies
+470612,ptca dv without stent 1 (one day ccu + one day ward,2,supplies
+470614,ptca double vessels 2 stents des,1,procedure
+470615,ptca for multi-vessels ca00381226,1,procedure
+470616,"ptca guidewire hi-torque .014"" (various sizes",1,eyewear
+470617,ptca guiding wire additional each,1,supplies
+470618,ptca one vessel,2,supplies
+470619,ptca one vessel +one stent (including diagnostic cath) + stent prices,1,supplies
+470620,ptca only - using more than one baloon,1,supplies
+470621,ptca only - using one baloon,1,supplies
+470622,ptca pertrcoronory angioplasty dv 2 stents,1,procedure
+470623,ptca pertrcoronory angioplasty sv 3 stents,1,eyewear
+470624,ptca percutaneous transluminal coronary agioplasty sv stent one day ccu one day ward,1,eyewear
+470625,ptca percutaneous transluminal coronary angioplasty dv 2 stent one day ccu three days ward,1,supplies
+470626,ptca percutaneous transluminal coronary angioplasty dv 3 stent one day ccu three days ward,1,supplies
+470627,ptca percutaneous transluminal coronary angioplasty dv 4 stents one day ccu four days ward,1,supplies
+470628,ptca percutaneous transluminal coronary angioplasty sv 2 stent one day ccu three days ward,1,eyewear
+470629,ptca percutaneous transluminal coronary angioplasty sv 3 stent one day ccu four days ward,1,eyewear
+470630,ptca percutaneous transluminal coronary angioplasty tv 3 stent one day ccu three days ward,1,supplies
+470631,ptca set merit #k09-05166a,1,procedure
+470632,"ptca set with drapes,manifold, gown bowls #k09-05166a/5011303",1,supplies
+470633,ptca single vessel & drug eluting balloon (price is with drug eluting balloon,1,supplies
+470634,ptca single vessel & drug eluting balloon (price is without drug eluting balloon,1,supplies
+470635,ptca single vessel (sv) with stent (s,1,eyewear
+470636,ptca single vessel drug eluting balloon,1,supplies
+470638,ptca single vessel sv plus 2 stent des,1,eyewear
+470639,ptca single vessel sv plus 2 stents des,1,eyewear
+470640,"ptca single vessel with drug eluting balloon , excluding the price of the drug eluting balloon",1,supplies
+470641,ptca single vessel and drug eluting balloon (price is without drug eluting balloon,1,supplies
+470642,ptca sv,1,eyewear
+470643,"ptca sv + 1 stent (d. eluting), sr13270 will be charged other stent (1 day ccu + 1 day ward",1,eyewear
+470644,ptca sv + 2 stents,1,eyewear
+470645,ptca sv + 2 stents1 icu + 3 wards,1,eyewear
+470646,ptca sv + 3 stents,1,eyewear
+470647,ptca sv + one stent (drug eluting) + 12500 sr charged for other stent,1,eyewear
+470648,ptca sv + one stent (drug eluting) sr.12500 will be charged every other stent (one day c,1,eyewear
+470649,"ptca sv + one stent (drug eluting), sr.12500 will be charged every other stent",3,eyewear
+470650,"ptca sv + one stent (drug eluting), sr.12500 will be charged every other stent 1 icu + 1 ward",1,eyewear
+470651,"ptca sv + one stent (drug eluting), sr.13270 will be charged every other stent (one day c",1,eyewear
+470652,ptca sv + one stent (normal stent )(one day ccu + one day ward,2,eyewear
+470653,ptca sv + one stent (normal stent,2,eyewear
+470656,"ptca sv + one stent (drug eluting), sr.12,500 will be charged every other stent",1,eyewear
+470657,ptca sv + stent,2,eyewear
+470659,ptca sv + stent1 icu + 1 ward,1,eyewear
+470660,ptca sv + stents,1,eyewear
+470662,ptca sv without stent (one day ccu + one day ward,1,eyewear
+470663,ptca sv without stent 1 (one day ccu + one day ward,2,eyewear

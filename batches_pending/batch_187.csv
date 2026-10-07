@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+390121,neuromuscular peds new patient,1,other
+390122,neuromuscular per session inp,1,physiotherapy
+390123,neuromuscular stimualtion,2,other
+390124,neuromuscular/session -on call,1,physiotherapy
+390125,neuromyelitis optica (nmo) aqp4 antibodies igg,1,lab_test
+390126,neuromyelitis optica (nmo)- serum (aquaporine) ( so,1,lab_test
+390127,neuromyelitis optica abs (nmo abs,1,lab_test
+390128,neuromyelitis optica- csf abs (nmo abs,1,lab_test
+390129,neuron select catheter 130 (ber) brand: penumbra,1,supplies
+390130,neuron specific enolase (nse,1,other
+390131,neuronavigation guided brain biopsy,1,procedure
+390132,neuronavigtion assistance in cranial or spinal surgery - added to major surgery,1,procedure
+390133,neuronbine,1,other
+390134,neuronbion ampules,1,other
+390135,neurone specific enolase,1,other
+390136,neurone specific enolase (nse,1,other
+390137,neurone specific enolase (nse)-serum - s.o,1,lab_test
+390138,neurontin,1,other
+390166,neuropatch 12x14cm - per pcs,1,other
+390167,neuropion,1,other
+390168,neuropion ampoules,1,other
+390169,"neuroplasty &/or transposition, median nerve at carpal tunnel",1,procedure
+390170,neuroplasty of brachial plexus->c04.79,1,procedure
+390171,"neuroplasty; digital, one or both, same digit",2,supplies
+390172,neuroplasty;nerve of hand or foot,1,procedure
+390210,neuropsychiatric connsultation day,1,other
+390211,neuropsychiatry consultant fee,1,consultation
+390212,neuropsychiatry speacialist,1,other
+390213,neuropsychiatry specialist fee,1,consultation
+390214,neuropsyshiatry consultant fee day,1,consultation
+390218,neurorubian forte 20tab,1,other
+390220,neurorubin,1,other
+390225,neurorubin forte,1,other
+390227,neurorubin-forte 20tab,1,other
+390228,neurorubina fort 20tab,1,other
+390360,neurorubineforte,1,other
+390362,neuroscience urgent add-on clinic follow-up,1,consultation
+390363,neurosonography - infant head,1,other
+390364,"neurostimulator, verify external, medtronics, 353101",1,other
+390365,neurosurg consultant fee,1,consultation
+390366,neurosurgeon check up specialist,1,consultation
+390367,neurosurgeon consultant,1,consultation
+390368,neurosurgeon inpatient visit,1,consultation
+390369,neurosurgeon specialist,1,consultation
+390370,neurosurgery adult follow-up,1,consultation
+390371,neurosurgery adult new follow-up,1,consultation
+390372,neurosurgery adult new patient,1,other
+390373,neurosurgery consultant,3,consultation
+390374,neurosurgery consultant fee,1,consultation
+390375,neurosurgery consultant fee day,2,consultation
+390377,neurosurgery consultant on call,1,consultation
+390378,neurosurgery consultatant on duty,1,other
+390379,neurosurgery consultation,1,consultation
+390380,neurosurgery peds follow-up,1,consultation
+390381,neurosurgery peds new follow-up,1,consultation
+390382,neurosurgery peds new patient,1,other
+390383,neurosurgery specialist,1,consultation
+390384,neurosurgery specialist 2,1,consultation
+390385,neurosurgery strata ii valve small single use,1,other
+390386,neurotology caloric test,1,lab_test
+390387,neurotology electro nystogram,1,other
+390390,neurotone 30tab (ginkgo+b complex )نيرتون حبوب,1,other
+390399,neurotupine,1,other
+390400,neuroubion,1,other
+390402,neurovascaular depressive procedure,2,other
+390403,neurovascular surgical follow-up,1,procedure
+390404,neurovascular surgical new patient,1,procedure
+390576,neurovit20tab,1,other
+390579,neurovitan 30tab,2,other
+390589,neurovitpoule,1,other
+390590,neurovitpoules,1,other
+390591,neurovitablet,1,other
+390595,neururobine,1,other
+390596,neururobine/3-5410-19,1,other
+390597,neutral electrode 90 cm splite #816-092,1,supplies
+390600,neutrobion,1,other
+390602,neutrophil cytoplasmic abs,1,lab_test
+390603,"neutrophil cytoplasmic, abs (anca",1,lab_test
+390605,nevanac,1,other
+390626,neven galal twala,1,other
+390627,nevoleen (nor epinephrine,1,other
+390671,nevotic 500,1,other
+390729,nevotic 500( non,1,other
+390730,nevotic 500( tier1,1,insurance
+390778,nevre conduction study (ncs,1,consultation
+390780,new born (saesarean section,1,other
+390782,new born 17 ohprogesterme,1,other
+390783,new born amino acids,1,other
+390784,new born auto aquestic emision,1,other
+390785,new born baby general care,1,other
+390786,new born baby medical disposable,1,supplies
+390787,new born baby package ped1700,1,other
+390788,new born baby screening .cs,1,lab_test
+390789,new born baby.screening cs,1,lab_test
+390790,new born bed (nursery,1,supplies
+390791,new born error metabolism screening,1,lab_test
+390792,new born galt confirmatory,1,other
+390793,new born hearing screening automated auditory brainstem response (a.a.b.r,1,lab_test
+390794,new born hearing screening otoacoustic emissions(o.a.e,1,lab_test
+390795,new born icu (nicu,2,consultation
+390796,new born icu (nicu) - 14,1,consultation
+390797,new born icu (nicu) - 26,1,consultation
+390798,new born icu (nicu) - crib12,1,consultation
+390799,new born icu (nicu) - crib13,1,consultation
+390800,new born icu (nicu) - incubator 18,1,consultation
+390801,new born icu (nicu) - incubator 5,1,consultation
+390802,new born icu (nicu) - incubator10,1,consultation
+390803,new born icu (nicu) - incubator12,1,consultation
+390804,new born icu (nicu) - incubator13,1,consultation
+390805,new born icu (nicu) - incubator14,1,consultation
+390806,new born icu (nicu) - incubator15,1,consultation
+390807,new born icu (nicu) - incubator17,1,consultation
+390808,new born icu (nicu) - incubator18,1,consultation
+390809,new born icu (nicu) - nicu13,1,consultation
+390810,new born icu (nicu) - nicu15,1,consultation
+390811,new born icu (nicu) - nicu27,1,consultation
+390812,new born icu (nicu)- incubator11,1,consultation
+390813,new born icu (nicu)- incubator12,1,consultation
+390814,new born icu (nicu)- incubator14,1,consultation
+390815,new born icu (nicu)- incubator16,1,consultation
+390816,new born icu (nicu)- incubator8,1,consultation
+390817,new born icu - crib12,1,consultation
+390818,new born icu - incubator14,1,consultation
+390819,new born icu - incubator17,1,consultation
+390820,new born icu - nicu4,1,consultation
+390821,new born icu - picu2a,1,consultation
+390822,new born metabolic disease screening,1,lab_test
+390823,new born metabolic profile,1,lab_test
+390824,new born metabolic screening,1,lab_test
+390825,new born metabolic screening test,1,lab_test
+390826,new born organic acids screening,1,lab_test
+390827,new born package,1,other
+390828,new born package-c/s,1,lab_test
+390829,new born profile,3,lab_test
+390830,new born resuscitation,1,procedure
+390832,new born screening,2,lab_test
+390833,new born screening (dried blood spot,1,lab_test
+390834,new born screening for tsh,1,lab_test
+390835,new born screening test,1,lab_test
+390836,new born screning,1,other
+390837,new borne screen test,1,lab_test
+390838,new cons ultation s pecialis,1,consultation
+390839,new consultation,2,consultation
+390840,new consultation consultant,1,consultation
+390841,new consultation consultant done once per patient,1,consultation
+390842,new consultation consultant done once per patient for assessment and treatment plan,1,consultation
+390843,new consultation general practitioner,2,consultation
+390844,new consultation specialist,1,consultation
+390845,new consultation specialist done once per patient,1,consultation
+390846,new consultation specialist done once per patient for assessment and treatment plan,1,consultation
+390850,new hire / iqama checkup,1,consultation
+390851,new hire staff check up ( female,1,other
+390852,new hire staff check up ( male,1,other
+390853,new mannm233 12=06/2014 (00.00,1,other
+390854,new mannm403 12=03/2014 (00.00,1,other
+390855,new mannm423 12b,1,other
+390856,new mannm432 12=03/2014 (00.00,1,other
+390857,new mannm432 7a=03/2014 (00.00,1,other
+390858,new mannm513 7a=03/2014 (00.00,1,other
+390860,new modified barium swallow,1,imaging
+390861,new opsite op dressing 20cm x 10cm 20 pcs,1,supplies
+390862,new optic 1250 57 1,1,other
+390866,new optic 7655 001 sil blk 46,1,other
+390867,new orthoptic evaluation,1,consultation
+390868,new patient assesment and therapy,1,physiotherapy
+390869,new socket for aka,1,supplies
+390870,new star frm mod.204,1,eyewear
+390871,new ultrasound followup,1,imaging
+390872,new ultrasound scan,1,imaging
+390874,new visit (consultant,1,consultation
+390875,new visit (sepcialist,1,consultation
+390876,new visit (visitor,1,consultation
+390877,new visit( er,1,consultation
+390878,new york,1,other
+390880,new yorkny aa014 c28=5/2013 (0,1,other
+390881,new yorkny aa033 c01=04/2015,1,eyewear
+390882,new yorkny mg006 c01=5/2013 (0,1,eyewear
+390883,new yorkny mm026 c01=5/2013 (0,1,eyewear
+390884,new yorkny mm028 c02=5/2013 (0,1,other
+390885,new yorkny mm046 c01=04/2015,1,eyewear
+390886,new yorkny mr010 c17=5/2013 (0,1,other
+390887,new yourkmm028 c07,1,other
+390888,new yourkmm028 c17,1,other
+390889,new yourkny aa011 c01=04/2015,1,eyewear
+390890,newborn (single bottle) blood culture & sensitivitiy,1,lab_test
+390891,newborn and neonate circumcision,1,procedure
+390892,newborn blood group,2,lab_test
+390893,newborn care package,1,other
+390896,newborn hearing screening,1,lab_test
+390897,newborn hearing test,1,lab_test
+390898,newborn hearng screening test-nicu,1,lab_test
+390899,newborn isolation,1,other
+390900,newborn isolation - medical supervision,1,consultation
+390901,newborn metabolic screening,1,lab_test
+390902,newborn profile,1,lab_test
+390903,newborn profile c/s(3 samples,1,lab_test
+390904,newborn resuscitation,1,procedure
+390905,newborn screeening metabolic diseases,1,other
+390906,newborn screen,2,other
+390907,newborn screening,2,lab_test
+390908,newborn screening ( 17 test ) nst,1,lab_test
+390909,newborn screening (kfsh,1,lab_test
+390910,newborn screening (tandom mass spectrometry,1,lab_test
+390911,newborn screening (test pad,1,lab_test
+390912,newborn screening / metabolic filter paper,1,lab_test
+390913,newborn screening clinic new follow-up,1,lab_test
+390914,newborn screening for congenital anomalies profile,1,lab_test
+390915,newborn screening lab test,1,lab_test
+390916,newborn screening package,1,lab_test
+390917,newborn screening profile,1,lab_test
+390918,newborn screening for metabolic disorders,1,lab_test
+390919,newborn special care/consum & dispo./day,1,other
+390920,newborn tsh screening (dbs,1,lab_test
+390921,newborne rescucitation (1004,1,other
+390922,newgel 1 sheets brown ng-101,1,other
+390923,newgel 1 sheets clear ng-301,1,other
+390927,"newgel+ silicon sheet 5""*6""(beige",1,supplies
+390928,"newgel+ silicon sheet 5""*6""(clear",1,supplies
+390929,newgel+beige silicone sheet 12.7x15.2cm,1,supplies
+390930,newgel+beige silicone sheet 5x6,1,supplies
+390936,newsept vaginal douch,1,other
+390938,newyorknyaa036 c01 =,1,eyewear
+390939,newyorknyaa036 c01 = 07/2015,1,eyewear
+390940,newyorknyaa036 c07,1,other
+390941,newyorknyaa037 c06,1,other
+390942,newyorknyaa037 c07 = 07/2015,1,other
+390943,newyorknyaa037 c92 = 07/2015,1,other
+390944,newyorknyam010 c93 = 09/2015,1,other
+390945,newyorknyam011 c17 = 09/2015,1,other
+390947,nex clorex 2% chlorhexidine / 70 % alcohol prep applicator,1,other
+390956,nexcare 518-60 active band 60s (556-24dp,1,other
+390957,nexcare 572-30 active band 1in*3in,1,other
+390958,nexcare 656-100 ban.plas s.new,1,eyewear
+390959,nexcare active band assortd 44s (516-44,1,other
+390960,nexcare active knee elbow band 10s (510-10,1,other
+390961,nexcare athletic wraps black (aw-3bk,1,other
+390962,nexcare athletic wraps blue (aw-3b,1,other
+390963,nexcare athletic wraps tan (aw-3t,1,other
+390964,nexcare aw-3b athletic wrap blue,1,other
+390965,nexcare aw-3t athletic wrap brown tan,1,other
+390966,nexcare blood stop band assortd 14s,1,lab_test
+390967,nexcare cold hot maxi pad n157,1,supplies
+390968,nexcare durable fabric band 30s (665-30,1,other
+390969,nexcare family set eng/fr/ar fs-20,1,eyewear
+390970,nexcare happy kids animals 20,1,other
+390971,nexcare heat patch hp-15,1,supplies
+390972,nexcare kids soft design band 20s,1,other
+390973,nexcare micropore tape 12.5mm * 5m (2205-6 paprtpe,1,supplies
+390974,nexcare micropore tape 25mm * 5m (2206-4 paprtpe,1,supplies
+390975,nexcare n1570g cold hot classi,1,other
+390976,nexcare opticlude 20 regular 1,1,other
+390977,nexcare sheer band 100s (656-100,1,other
+390978,nexcare sheer band 10s (656-10,1,other
+390979,nexcare sheer band 20s (656-20,1,other
+390980,nexcare sheer band 50s (656-50,1,other
+390981,nexcare sheer band assortd 100s (658-100,1,other
+390982,nexcare sheer band assortd 20s (658-20,1,other
+390983,nexcare sheer band assortd 50s (658-50,1,other
+390984,nexcare steri strip 8s,1,supplies
+390985,nexcare transpore tape 25mm * 5m (2208-0cler,1,supplies
+390986,nexcare water proof band 20s (586-20,1,other
+390987,nexcare watr prf band 10s (582-10,1,other
+390988,nexcare watr prf band assortd 30s (588-30,1,other
+390989,"nexgen legacy posterior stabilized flex prolong option femoral,f.right",1,other
+391623,nexium20/mg/14tab,1,other
+391624,nexium20mg 14tab,1,other
+391625,nexium20mg 14tab( non,1,other
+391626,nexium20mg14tab,2,other
+391627,nexium20mg28cap,1,other
+391629,nexium40mg14tab,2,other
+391630,nexium40mg28cap,1,other
+391631,nexiym ( 40 vail,1,other
+391649,next generation sequencing panel (for inherited disease or cancer,1,lab_test
+391650,next plst,1,other
+391651,"next-generation sequencing analysis of genes for breast and ovarian cancer risk such as atm, bard1",1,procedure
+391652,nezar bahabri,1,other
+391666,nfla - nerve fiber layer analysis - bilateral,1,procedure
+391667,nfla - nerve fiber layer analysis - unilateral,1,procedure
+391668,nfla - nerve fiber layer analyzer,1,other
+391669,nfla-nerve fiber layer analyzer,1,other
+391670,nf_abilify maintena,1,other
+391674,ng feeding,1,supplies
+391675,ng feeding 24 hours,2,supplies
+391676,ng feeding 24 hrs,3,supplies
+391678,ng feeding pump compat nestle,1,supplies
+391680,ng tube (blue line,1,supplies
+391681,ng tube feeding,1,supplies
+391682,ng tube insertion,1,supplies
+391695,ngs cancer panel- send out,1,lab_test
+391696,ngs myeloid panel,1,lab_test
+391697,ngs single gene analysis + cnv,1,lab_test
+391698,ngt,1,other
+391699,ngt ( nasogastric tube ) insertion - hhc,1,supplies
+391700,ngt ( nasogastric tube ) feeding - hhc,1,supplies
+391701,ngt ( nasogastric tube ) insertion,1,supplies
+391702,ngt (nasogastric tube ) insertion - under sedation - in o.r,1,supplies
+391703,ngt (ryles tube 12,1,supplies
+391704,ngt (ryles tube 14,1,supplies
+391705,ngt (ryles tube 16,1,supplies
+391706,ngt (ryles tube 6,1,supplies
+391707,ngt (ryles tube 8,1,supplies
+391708,ngt (all sizes,1,other
+391709,ngt (naso-oro gastric tube insertion,1,supplies
+391710,ngt / ryles f16,1,other
+391711,ngt /1 pc,1,other
+391712,ngt /1 pc - 086-93202,1,other
+391713,ngt continuous feeding pump,1,supplies
+391714,ngt feeding,1,supplies
+391715,ngt feeding per day,1,supplies
+391716,ngt feeding per feed,1,supplies
+391717,ngt feeding per general ward,1,supplies
+391718,ngt insertion,1,procedure
+391719,ngt insertion & bag,1,procedure
+391720,ngt insertion (er,1,procedure
+391721,ngt insertion by ap,1,imaging
+391722,ngt insertion kit,2,procedure
+391723,ngt insertion-nicu,1,procedure
+391724,ngt insrtion by nurse,1,consultation
+391725,ngt intubation,1,procedure
+391727,ngt insertion and consumables,1,procedure
+391728,ngt ryles tube 14fr,1,supplies
+391729,ngt ryles tube 16,1,supplies
+391730,ngt ryles tube 18,1,supplies
+391731,ngt feeding (24hrs,1,supplies
+391732,ngt(naso-gastric tube,1,supplies
+391733,ngt/riles f18,1,other
+391734,ng tube insertion in ccu,1,supplies
+391735,ng tube insertion in icu,1,supplies
+391736,nhl vs. classical hodgkin lymphoma panel,1,lab_test
+391741,nhs thiocap 45cap,1,other
+391744,ni-5002-f-nike,1,eyewear
+391745,ni-5047-f-nike,1,eyewear
+391746,ni-cu tip holder,1,supplies
+391747,ni7034/002/f,1,other
+391748,ni7034/003/f,1,other
+391749,ni7034/401/f,1,other
+391750,niacin,1,other
+391751,niagara cath 12x15cm str 5553150,1,supplies
+391752,niagara slim cath short term dialysis f,1,supplies
+391753,nibal radwanshawakfah,1,other
+391754,"nibp cuff,neonatal #4,arm circum 7-13cm",1,other
+391755,nibp neo #3 cuff 5.8 x 10.9cm,1,other
+391756,nibp neo #4 cuff 7.1 x 13.1cm,1,other
+391757,nibp neo #5 cuff 8.3 x 15cm,1,other
+391758,nibp neo# 2cuff 4.3-8cm 2870199,1,other
+391759,nibp neo# 3cuff 5.8-10.9cm 2870207,1,other
+391760,nibp neo# 4cuff 7.1-13.1cm 2870215,1,other
+391761,nibulization + items (disposable,2,supplies
+391763,"nice basic nipt (t13, t9, t16, t18, t21, t22, sex chromosomes with 8 microdeletions",1,other
+391764,nice premium - all chromosomes,1,other
+391766,nickel (blood) - s.o,1,lab_test
+391767,nicola marcello agostino portinaro,1,other
+391768,nicotinamide (niacin,1,other
+391771,nicotine,1,other
+391773,nicotine - s.o,1,lab_test
+391774,nicotine in urine,1,lab_test
+391775,nicotine urine,1,lab_test
+391778,nicotinell tts 10,1,other
+391779,nicotinell tts 10 ptc 7s,1,other
+391780,nicotinell tts 20,1,other
+391781,nicotinell tts 30,1,other
+391782,nicotinell tts-10,1,other
+391784,nicotinell tts-20,1,other
+391786,nicotinell tts-30,1,other
+391788,nicu,3,consultation
+391789,nicu icu picu per day package 1st 3 days,1,consultation
+391790,nicu (4th - 7th day,2,consultation
+391791,"nicu (8th day onwards, including ltc",1,consultation
+391792,nicu /day,1,consultation
+391793,nicu accomodation - ( first - 3rd day,1,consultation
+391794,nicu per day,2,consultation
+391795,nicu per diem(4th to 7th day,1,consultation
+391796,nicu ( 4th - 7th day,2,consultation
+391797,nicu ( 4th 7th day,2,consultation
+391800,nicu ( 8th day onwards) or ltc of stable cases,1,consultation
+391801,nicu ( first - 3rd day,2,consultation
+391802,nicu ( first 3rd day,2,consultation
+391805,nicu ( package with its inclusions,1,consultation
+391806,nicu (1st -4th day,1,consultation
+391807,nicu (2nd week,1,consultation
+391808,nicu (4th - 7 day,1,consultation
+391810,nicu (4th -7th day,1,consultation
+391811,nicu (4th-7th day,1,consultation
+391812,nicu (8th day onwards,2,consultation
+391813,nicu (8th day onwards)(sr 1000 x days,1,consultation
+391815,nicu (first - 3rd day,1,consultation
+391816,nicu (first - 3rd day)(sr 2000 x days,1,consultation
+391817,nicu (first - 3rd day)(sr 2000 x days) undefined,1,consultation
+391818,nicu (first week,1,consultation
+391819,nicu (frist - 3rd day,1,consultation
+391820,nicu (first - 3 rd day,1,consultation
+391821,nicu (first-3rd day,1,consultation
+391822,nicu (neonatal intensive care unit,1,consultation
+391823,nicu (per day,1,consultation
+391824,nicu (sr 2000 x days,1,consultation
+391825,nicu (room and board) ( bed + nurse administration + dr. round + supplies + ven,1,supplies
+391826,nicu (w/ ventilation) from day (10) onwards/each,1,consultation
+391827,nicu + monitor,1,consultation
+391828,nicu - accommodation,2,eyewear
+391829,nicu - crib15,1,consultation
+391830,nicu - first week,1,consultation
+391831,nicu - incubator7,1,consultation
+391832,nicu - isolation per day,1,consultation
+391833,"nicu - isolation per day (including accomodation, board, nursing fees & bed",1,supplies
+391834,"nicu - isolation per day (including accomodation, board, nursing fees and bed",1,supplies
+391835,nicu - isolation per day-bed only,1,supplies
+391836,nicu - isolation room - nursing care,1,consultation
+391837,nicu - level 1,1,lab_test
+391838,nicu - level 3,1,lab_test
+391839,nicu - medical supervision,2,consultation
+391840,nicu - per day,1,consultation
+391841,"nicu - per day (including accomodation, board, nursing attandance fees & bed",1,supplies
+391842,nicu - per day (baby incubator+ medical care+nursing care+daily disposables,1,consultation
+391843,"nicu - per day (including accomodation, board, nursing fees & bed",1,supplies
+391844,"nicu - per day (including accomodation, board, nursing fees and bed",1,supplies
+391845,nicu - picu admission 1st to 3rd day - each day,1,consultation
+391846,nicu - picu admission 4th to 7th day - each day,1,consultation
+391847,nicu - picu admission 8th day onward - each day,1,consultation
+391848,nicu - phototherapy per day,1,procedure
+391849,nicu -bed only,1,supplies
+391850,nicu -per diem - 1-2 days,1,consultation
+391851,nicu -per diem - 1-2 days (pkg,1,consultation
+391852,nicu -per diem - 2-4 days,1,consultation
+391853,nicu -per diem - 2-4 days (pkg,1,consultation
+391854,nicu -per diem -5 th day and above,1,consultation
+391855,nicu / day with ventilator,1,supplies
+391856,nicu / icu / ccu,1,consultation
+391857,nicu / picu (1st - 3rd day,1,consultation
+391858,nicu / picu (4th - onwards,1,consultation
+391859,nicu / picu admission 1st to 3rd days,1,consultation
+391860,nicu / picu admission 4th to 7th days,1,consultation
+391861,nicu /day with ventilator,1,supplies
+391862,nicu 1 - 3 days,1,consultation
+391863,nicu 1st (2) days,1,consultation
+391864,nicu 1st (3) days,1,consultation
+391865,nicu 1st (3) days (w/ ventilation,1,consultation
+391866,nicu 1st 3 days,1,consultation
+391867,nicu 1st week,1,consultation
+391868,nicu 2nd 3 days,2,consultation
+391869,nicu 2nd (2) days,1,consultation
+391870,nicu 2nd (3) days,1,consultation
+391871,nicu 2nd (3) days (w/ ventilation,1,consultation
+391873,nicu 2nd week,1,consultation
+391874,nicu 3rd (3) days,1,consultation
+391875,nicu 3rd (3) days (w/ ventilation,1,consultation
+391876,nicu 3rd 3 days,1,consultation
+391877,nicu 3rd week,1,consultation
+391878,nicu 3rd-4th days,1,consultation
+391879,nicu 4 - 7 days,1,consultation
+391880,nicu 4th week,1,consultation
+391881,nicu 5th day&onforeard,1,consultation
+391882,nicu 8 -or more days,1,consultation
+391883,nicu accommodation,1,eyewear
+391884,nicu accomodation,2,consultation
+391885,nicu admission,1,consultation
+391886,nicu admission 1 & 2 day,1,consultation
+391887,nicu admission + ventilation 1 day,1,consultation
+391888,nicu admission 1 day,2,consultation
+391889,nicu admission 1st - 2nd day,2,consultation
+391890,nicu admission 1st- 2nd day,1,consultation
+391891,nicu admission 1st-2nd day,1,consultation
+391892,nicu admission 24 hours,1,consultation
+391893,nicu admission 2nd + 3rd day (collectively,1,consultation
+391894,nicu admission 3 & 4 days,1,consultation
+391895,nicu admission 3rd - 4th day,2,consultation
+391896,nicu admission 3rd-4th day,1,consultation
+391897,nicu admission 3st- 4nd day,1,consultation
+391898,nicu admission 4th + 5th day (collectively,1,consultation
+391899,nicu admission 5th day & onrward,1,consultation
+391900,nicu admission 5th day onward,2,consultation
+391901,nicu admission 6th day onward,1,consultation
+391902,nicu admission ist -2nd day,1,consultation
+391903,nicu admission one day,1,supplies
+391904,nicu admission per day,1,consultation
+391906,nicu admission (1 day,1,consultation
+391907,nicu bed,1,supplies
+391908,nicu bed /day charges,1,supplies
+391909,"nicu bed 1st day (inclusive of incubator, monitor fees",1,supplies
+391910,nicu bed day charges,1,supplies
+391911,nicu bed only,1,supplies
+391912,"nicu bed subsequent day (inclusive of incubator, monitor fees",1,supplies
+391913,"nicu bed, vetilated patient",1,supplies
+391914,nicu bed / day,1,supplies
+391915,nicu cons. treat. team per day,1,consultation
+391916,nicu cons. treat. team per day-2-3-1,1,consultation
+391917,nicu consultation treating team / day,1,consultation
+391918,nicu consultation treating team / day-10-300-2017,1,consultation
+391919,nicu consultation - critical unit visit,1,consultation
+391920,"nicu days 1,2,3",1,consultation
+391921,"nicu days 4,5,6",1,consultation
+391922,nicu disposable per day,1,supplies
+391923,nicu disposables/d,1,consultation
+391924,nicu doctor fee/day,1,consultation
+391925,nicu doctor feeday,1,consultation
+391926,nicu day 10 onwards,1,consultation
+391927,nicu extra days(after three days admiss,1,consultation
+391928,nicu fee / day w/medical equipments (monitor + capnogram oximeter suction inf,1,supplies
+391929,nicu fee / day w/medical equipments,1,consultation
+391930,nicu fee / day with medical equipments,1,consultation
+391931,nicu first 3 days,1,consultation

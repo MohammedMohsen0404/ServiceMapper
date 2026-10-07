@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+534763,skin grafting finger tip,1,procedure
+534764,skin grafting l.a,1,procedure
+534765,skin grafting of big area,2,procedure
+534766,skin grafting of big area (without graft price,1,procedure
+534767,skin grafting small area,1,procedure
+534768,skin grafting w/debridement- 1 day pkg,2,procedure
+534770,"skin grafting, large",1,procedure
+534771,"skin grafting, small",1,procedure
+534772,skin grafting- lagre,1,procedure
+534773,skin grafting- medium,1,procedure
+534774,skin grafting- meduim,1,procedure
+534775,skin grafting- small,2,procedure
+534776,skin grafting,1,procedure
+534777,skin immunofluorescence antibodies: c3,1,lab_test
+534778,skin immunofluorescence antibodies: iga,1,lab_test
+534779,skin immunofluorescence antibodies: igg,1,lab_test
+534780,skin immunofluorescence stains package,1,other
+534781,skin immunofluorescent stain- c3 fitc,1,eyewear
+534782,skin immunofluorescent stain- fibrinogen fitc,1,lab_test
+534783,skin immunofluorescent stain- iga fitc,1,lab_test
+534784,skin immunofluorescent stain- igg fitc,1,lab_test
+534785,skin immunofluorescent stain- igm fitc,1,lab_test
+534786,skin incision & curettage,2,procedure
+534787,skin lasertherapy minor course,1,other
+534788,"skin lesion ,excision (small) , l.a",1,procedure
+534789,skin lesion - (local) large,1,other
+534790,skin lesion - (local) small,1,other
+534791,skin lesion exicision - la,2,other
+534793,"skin lesion, excision d.c",1,procedure
+534794,skin lession removal,1,procedure
+534795,"skin malignancy, majc",1,inpatient
+534796,"skin malignancy, minc",1,inpatient
+534797,skin marker (1*25,1,other
+534798,skin marker with ruler 25/bx,1,procedure
+534799,skin marking pen #1400-100,1,other
+534800,skin mass u/s,1,imaging
+534801,skin or any mass blopsy g.a,1,lab_test
+534802,skin or any mass blopsy l. a,1,other
+534803,skin patch,1,supplies
+534804,skin patch test,1,lab_test
+534805,skin patch test ( epicutanous allergy skin test,3,lab_test
+534806,skin perick test food allergy,1,lab_test
+534807,skin ployp - wfg1295,1,other
+534808,skin polyp,1,other
+534809,skin preparation,1,other
+534810,skin preparation for operation,1,procedure
+534811,skin prepshaving,1,other
+534812,skin prick allergy test,1,lab_test
+534813,skin prick test,1,lab_test
+534814,skin prick test of allergy (spt,1,lab_test
+534815,skin scraoing koh preparation,1,other
+534816,skin scrape,1,other
+534817,skin scraping,1,other
+534818,skin scraping (koh,1,other
+534819,skin scraping for fungus,3,lab_test
+534820,skin scraping for fungus / sc,1,lab_test
+534821,skin scraping fungal culture test,2,lab_test
+534822,skin scrapings for fungus,3,lab_test
+534823,skin scrapings for fungus(pas,1,lab_test
+534824,skin scrapping,2,other
+534825,skin scrapping (koh microscopy,1,procedure
+534826,skin scrapping for fungal examination,1,consultation
+534827,skin scrapping for fungus,3,lab_test
+534828,skin scrapping koh microscopy,1,procedure
+534829,skin scrappings for fungus,1,lab_test
+534830,skin scrubing for fungi,1,other
+534831,skin senitivity tests,1,lab_test
+534832,skin senitivity tests - 086-11219,1,lab_test
+534833,skin sensetivity test,1,lab_test
+534834,skin sensitivity test,5,lab_test
+534835,skin sensitivity test usg <= 20 allrgn,2,imaging
+534837,skin sensitvity test,2,lab_test
+534838,skin sesitivity test,1,lab_test
+534839,skin shaving,1,other
+534840,skin smear :afb staining,1,lab_test
+534841,skin smear for leishmaniasis,1,lab_test
+534842,skin smear for leishmania,1,lab_test
+534843,skin soap investigation,2,other
+534844,skin stabler remover,1,other
+534845,skin staple extractors proximate ethicon #psx,1,supplies
+534846,skin staple remover - per each,1,other
+534847,skin staple remover sterile disposable,1,supplies
+534848,skin stapler,2,supplies
+534849,skin stapler (dssw-35,1,supplies
+534850,skin stapler .#054887,1,supplies
+534851,skin stapler 35mm q pw-35,1,supplies
+534852,skin stapler 35w,1,supplies
+534853,"skin stapler 35w appose ulc, 8886-803712",1,supplies
+534854,"skin stapler disposable, 35 regular staples",1,supplies
+534855,skin stapler-per pcs,1,supplies
+534856,skin stappler - mds-00291,1,other
+534857,skin stappling,1,other
+534858,skin stitch,1,procedure
+534859,skin surgery 4,1,procedure
+534860,skin suture,2,supplies
+534861,skin suture - simple wound/stitch,1,supplies
+534862,skin swab,2,lab_test
+534864,skin swab culture & sensitivity,1,lab_test
+534865,skin swab culture and sensitivities,1,lab_test
+534868,skin tag,1,eyewear
+534869,skin tag cautery per one,1,eyewear
+534870,skin tag excision,2,eyewear
+534871,skin tag excision (per unit,1,eyewear
+534872,skin tag excision -per one,1,eyewear
+534873,skin tag excision or biopsy,1,eyewear
+534874,skin tag excision per unit,1,eyewear
+534875,"skin tag excision, (each",1,eyewear
+534876,skin tag removal,3,eyewear
+534877,skin tags cauterize up to 5,2,other
+534878,skin tags cautry,1,other
+534879,skin tags excision general anethesia,1,procedure
+534880,skin tags removal,1,procedure
+534882,skin test (not including medicine price,1,lab_test
+534883,skin test (nurse care,1,lab_test
+534884,skin test ;candida,1,lab_test
+534885,skin test fee (nurse care,1,lab_test
+534886,skin test for allergy,1,lab_test
+534887,skin test im/iv,1,lab_test
+534890,skin test+hypo-senstivation,1,lab_test
+534892,skin test; tuberculosis intradermal,1,lab_test
+534893,"skin test; tuberculosis, intradermal (ppd",1,lab_test
+534894,"skin test; tuberculosis, intradermal (ppd) w/ doctor",1,lab_test
+534895,"skin test;tuberculosis, intradermal",1,lab_test
+534896,skin tract.kit adl n/adhes.pad.spread.plate cord retain.band,1,supplies
+534897,skin tract.kit adult non-adhes.tensoplast sn #0458,1,other
+534898,skin traction,2,procedure
+534899,skin traction adhesive adult-per pcs,1,supplies
+534900,skin traction kit,2,procedure
+534901,skin traction kit (set,1,procedure
+534902,skin traction kit - adult,1,procedure
+534903,skin traction kit adh. child,1,procedure
+534904,skin traction kit adhesive adult,1,supplies
+534905,skin traction kit adult adhesive tensoplast #5611/66000456,1,supplies
+534906,skin traction kit adult non-adhes.tensoplast sn 0458,1,procedure
+534907,skin traction kit adult non-adhesive foam padding,1,supplies
+534908,skin traction kit child adhesive elastoplast s&n #5612/66000457,1,supplies
+534909,skin traction kit child non-adhesive sn tensoplast #4389,1,supplies
+534910,"skin traction kit non adhesive adult, damad, 872 011\9,dyna, 1520-002 /tant 394",1,supplies
+534911,skin traction kit pead non-adhesive form padding,1,supplies
+534912,skin traction kit [ one set,1,supplies
+534913,skin traction of adult fracture,1,procedure
+534914,skin traction of adult frakcuture,1,procedure
+534915,skin traction of small fracture,1,procedure
+534916,skin traction of small frakcuture,1,procedure
+534917,skin traction to the limbs (for procedure,1,procedure
+534918,skin traction w/ thomas splint,1,supplies
+534919,"skin ulcers, intc",1,other
+534920,"skin ulcers, majc",1,inpatient
+534921,"skin ulcers, minc",1,inpatient
+534922,skin wart-713,1,other
+534923,skin) scrap (koh,1,other
+534924,"skin, other than cyst/tag/debridement/plastic repair",1,eyewear
+534925,skin-patch test,1,lab_test
+534926,skin-scrapings for fungus,1,lab_test
+534927,skin/patch test,1,lab_test
+534928,sking graft moderate,1,procedure
+534929,sking sensitivity test,1,lab_test
+534957,skinoren cream30g,1,other
+534959,skinoren%2020%25%20cream,1,other
+534963,skintag excision multiple,1,procedure
+534964,skling test,1,lab_test
+534965,"skn ulcers in circ dis, majc",1,inpatient
+534966,"skn ulcers in circ dis, minc",1,inpatient
+534967,"skn,tis and brst plastic gi, majc",1,eyewear
+534968,"skn,tis and brst plastic gi, minc",1,eyewear
+534969,"skn,tis&brst plastic gi, majc",1,eyewear
+534970,"skn,tis&brst plastic gi, minc",1,eyewear
+534971,"skn,tisbrst plastic gi, minc",1,eyewear
+534972,skul 1 view,1,imaging
+534973,skul orbit - 2 views,1,imaging
+534974,skul x-ray,1,imaging
+534975,skull,3,other
+534976,skull (1 views) -x-ray,2,imaging
+534977,skull (one view,4,supplies
+534978,skull (pa,2,imaging
+534979,skull (pa+lat,1,imaging
+534980,skull (three views,1,imaging
+534981,skull - 4 view,3,imaging
+534982,skull 1 view,6,imaging
+534983,skull 1post,1,other
+534984,"skull 2 f , pa& lat",2,imaging
+534985,skull 2 views,8,imaging
+534986,skull 2post,1,other
+534987,skull 3 positions,4,imaging
+534988,skull 3 views,5,imaging
+534989,skull 4 views,4,imaging
+534990,skull ap/lat (2 films,1,imaging
+534991,skull four views,1,imaging
+534992,skull if lat,2,imaging
+534993,skull mastoid,1,procedure
+534994,skull pns 1 view,2,imaging
+534995,skull pns 2 views,1,imaging
+534996,skull three views,3,imaging
+534997,skull two views,3,imaging
+534998,skull x -ray (3 views,1,eyewear
+534999,skull ( 1 view,1,imaging
+535000,skull ( 2 position,1,imaging
+535001,skull ( 2 v,1,imaging
+535002,skull ( 4 position,1,imaging
+535003,skull ( lat.) (1 view,1,imaging
+535004,skull ( one views,1,supplies
+535005,skull ( two views,2,imaging
+535006,skull (1 f,1,other
+535007,skull (1 view,1,imaging
+535009,skull (1)view,1,imaging
+535010,skull (2 films) x-ray,1,imaging
+535011,skull (2 pos,1,other
+535012,skull (2 positions,1,imaging
+535013,skull (2 view,2,imaging
+535014,skull (2 views,3,imaging
+535015,skull (2 views)-x-ray,1,imaging
+535016,skull (2) views,1,imaging
+535017,skull (2view,1,other
+535018,skull (3 f,1,other
+535019,skull (3 views,4,imaging
+535020,skull (4 f,1,other
+535021,skull (4 pos,1,other
+535023,skull (ap)ِ,1,imaging
+535024,skull (ap+lat,3,imaging
+535026,skull (ap-lat)ِ,1,imaging
+535027,skull (complete) - 3 views,1,imaging
+535028,skull (complete) - 3v,2,imaging
+535030,skull (four views,1,imaging
+535031,skull (i view,1,imaging
+535032,skull (lat & pa,2,imaging
+535033,skull (lat)ِ,1,imaging
+535034,skull (limited) - 2 views,1,imaging
+535035,skull (limited) - 2v,1,imaging
+535036,skull (mastoid,1,procedure
+535037,skull (o.m,2,lab_test
+535039,skull (p.a.l,1,lab_test
+535040,skull (pa & lat .& obl,1,imaging
+535041,skull (pa & lat,2,imaging
+535042,skull (two position,1,other
+535043,skull (two view,2,imaging
+535044,skull (two views,1,imaging
+535045,"skull , 2 views",1,imaging
+535046,skull - (2 films,1,other
+535047,skull - 1 view,2,imaging
+535048,skull - 1 view ap,1,imaging
+535049,skull - 1 view(300006,1,imaging
+535050,skull - 2 film,1,other
+535051,skull - 2 position,1,imaging
+535052,skull - 2 position -6-1-110402,1,imaging
+535053,skull - 2 view,3,imaging
+535055,skull - 2 views(300008,1,imaging
+535056,skull - 2v,1,imaging
+535057,skull - 3 film,1,other
+535058,skull - 3 position,1,imaging
+535059,skull - 3 position -6-1-110403,1,imaging
+535060,skull - 3 positions (ap/lat/towns,1,imaging
+535064,skull - 4 film,1,other
+535065,skull - 4 position,1,imaging
+535070,skull - 4v,1,imaging
+535071,skull - additional view,1,imaging
+535072,skull - additional view ( &gt; 4,1,imaging
+535073,skull - additional view ( > 4,2,imaging
+535075,skull - ap,1,imaging
+535076,skull - ap & lat,1,imaging
+535077,skull - ap & lat 2 film,1,imaging
+535078,skull - towns view only,1,imaging
+535079,skull -2 views ap/lat,1,imaging
+535080,skull -2-views,1,imaging
+535081,skull -3 views,2,imaging
+535082,skull -3-views,1,imaging
+535083,skull -4 views,1,imaging
+535084,skull -ap-lat.-smv-sinuses,1,imaging
+535085,skull lat,2,imaging
+535086,skull 1 f,1,other
+535087,skull 1 film,2,other
+535088,skull 1 position,2,imaging
+535089,skull 1 position / towne s view / water s view / orbits / pns,1,imaging
+535090,skull 1 position / townes view / waters view / orbits / pns,2,imaging
+535092,skull 1 position / towne's view / water's view / orbits / pns,1,imaging
+535093,skull 1 position townes view waters view orbits pns,1,imaging
+535094,skull 1 v,1,imaging
+535096,skull 1 view (lat view (sella,1,imaging
+535097,skull 1 view lateral,1,imaging
+535098,skull 1 views,1,imaging
+535100,skull 1- film,1,other
+535101,skull 1v,1,imaging
+535102,skull 2 f,1,other
+535104,skull 2 film,2,other
+535105,skull 2 position,2,imaging
+535106,skull 2 positions,4,imaging
+535107,skull 2 v,1,imaging
+535108,skull 2 vews,1,other
+535109,skull 2 view,2,imaging
+535111,skull 2 views (322,1,imaging
+535112,skull 2 views (ap/lat,1,imaging
+535113,skull 2 views (x-ray,1,imaging
+535114,skull 2 views 2f,1,imaging
+535115,skull 2 views(03013,1,imaging
+535117,skull 2 views-1301,1,imaging
+535119,skull 2f,2,imaging
+535120,skull 2f x-ray,1,imaging
+535121,skull 2view,1,other
+535122,skull 2vs,1,other
+535123,skull 3 f,1,other
+535124,"skull 3 f pa , lat townes /smv",2,imaging
+535128,skull 3 v,1,imaging
+535129,skull 3 view,2,imaging
+535131,skull 3 views (x-ray,1,imaging
+535132,skull 3 views-1302,1,imaging
+535133,skull 3- views,1,imaging
+535134,skull 3f,1,other
+535135,skull 3f x-ray,1,imaging
+535136,skull 3views,2,other
+535137,skull 4 position,1,imaging
+535138,skull 4 positions,3,imaging
+535140,skull a /l ????,1,other
+535141,skull a-p,2,other
+535142,skull a.p,1,lab_test
+535143,skull a.p and lateral,1,lab_test
+535144,skull a.p&lateral or oblique neo,1,lab_test
+535145,skull a.p. & lateral,1,lab_test
+535146,skull a.p. & lateral views,1,imaging
+535147,skull a.p. other view (base of skull townes etc,1,imaging
+535148,skull aditional view 4,1,imaging
+535149,skull ap,4,imaging
+535151,skull ap & lat ( 2 vs,1,imaging
+535152,skull ap & lat 2 f,1,imaging
+535153,skull ap &lat,1,imaging
+535154,skull ap &lateral view,1,imaging
+535155,skull ap (1 view,1,imaging
+535156,skull ap + lat,1,imaging
+535157,skull ap -x-ray,1,imaging
+535158,skull ap / lat,1,imaging
+535159,skull ap / pa,2,imaging
+535160,skull ap / pa medium,1,imaging
+535162,skull ap and lat left,1,imaging
+535163,skull ap and lat right,1,imaging
+535164,skull ap and lateral,3,imaging
+535165,skull ap lat,1,imaging
+535166,skull ap lat (2v,1,imaging
+535167,skull ap or lateral view,1,imaging
+535168,skull ap townes lat. 2 views,1,imaging
+535170,skull ap+ l,2,imaging
+535171,skull ap+lat,1,imaging
+535172,skull ap. lateral,1,imaging
+535173,skull ap/ lat view,1,imaging
+535174,skull ap/lat,2,imaging
+535175,skull ap/lat/obl,1,imaging
+535176,skull ap/lateral ????,1,imaging
+535177,skull ap/pa left,1,imaging
+535178,skull ap/pa right,1,imaging
+535179,skull b/v,1,other
+535180,skull base,1,other
+535181,skull base (iv,1,supplies
+535182,skull base revision for csf fistula,2,procedure
+535183,skull base revision for csf fistula - 5 days pkg (2 icu + 3 ward,1,procedure
+535184,skull base tumour,1,other
+535185,skull bone a.p&lateral,1,imaging
+535186,skull bones a.p,1,imaging
+535187,skull caliper traction fractre,1,procedure
+535188,skull complete,1,other
+535189,skull facial bones,1,imaging
+535190,skull for facial bones,2,imaging
+535191,skull for paranasal sinuses,1,other
+535192,"skull fractures, majc",1,inpatient
+535193,"skull fractures, minc",1,inpatient
+535194,skull i view,5,imaging
+535198,skull imaging (cranial ultrasound,1,imaging
+535199,skull lat ( 1 v,1,imaging
+535200,skull lat view 1f,1,imaging
+535201,skull lateral,4,imaging
+535202,skull lateral left,1,imaging
+535203,skull lateral medium,1,imaging
+535204,skull lateral right,1,imaging
+535205,skull lateral small,1,imaging
+535206,skull lateral view,1,imaging
+535207,skull lateral-x-ray,1,imaging
+535208,skull medium lipoma excision,1,procedure
+535209,skull one position,2,supplies
+535210,skull one view,2,supplies
+535211,skull one view lateral,1,supplies
+535212,skull orbit - 2 view,1,imaging
+535217,skull orbit -2 view,4,imaging
+535219,skull orbit -2 views,2,imaging
+535220,skull orbit -2view,1,other
+535221,skull orbit 2 view,1,imaging
+535222,skull orbit 2 views,2,imaging
+535223,skull orbit- 2 views,1,imaging
+535224,skull orbit-2 view,1,imaging
+535225,skull orbit-2 views,1,imaging
+535226,skull orbit-2views,1,imaging
+535227,skull p.a,2,lab_test
+535228,skull pa,3,imaging
+535229,skull pa& lat,1,imaging
+535231,skull pns(2 views,1,imaging
+535232,skull pos,1,other
+535233,skull positions,1,other
+535234,skull scanning-child under 8mo,1,other
+535235,skull series,1,other
+535236,skull three (3) views,1,imaging
+535238,"skull towne""s view",1,imaging
+535239,skull townes view right,1,imaging
+535240,skull transorbital view petrous bone,1,imaging
+535241,skull tumors excision - benign,1,procedure
+535242,skull two positions,2,other
+535243,skull two view,2,imaging
+535246,skull water and lateral,1,imaging
+535247,skull water view,2,imaging
+535248,skull waters,1,other
+535249,skull x -ray lat view,1,imaging
+535250,skull x ray 1 v,1,imaging
+535251,skull x ray 2 v,1,imaging
+535252,skull x ray 4 position,1,imaging
+535253,skull x-ray,3,imaging
+535254,skull x-ray ( one film,3,imaging
+535255,skull x-ray ( three films,3,imaging
+535256,skull x-ray ( two films,3,imaging
+535257,skull x-ray (1 film,1,imaging
+535258,skull x-ray (2 films,2,imaging
+535260,skull x-ray (2 view,1,imaging
+535261,skull x-ray (2views,2,imaging
+535262,skull x-ray (pa&lat,1,imaging
+535263,skull x-ray (two positions,1,imaging
+535264,skull x-ray - 3 views,1,imaging
+535265,skull x-ray - 4 views,1,imaging
+535266,skull x-ray 1 view,1,imaging
+535267,skull x-ray 2 views,3,imaging
+535268,skull x-ray ap / lat,1,imaging
+535269,skull x-ray one view,2,imaging
+535270,skull x-ray(1 view,1,imaging
+535271,skull x-ray(4 positions,1,imaging
+535272,skull x-ray2views,1,other
+535273,skull xr,1,imaging
+535274,skull xr views 2,1,imaging
+535275,skull xr views 3,1,imaging
+535276,skull xr views 4,1,imaging
+535278,skull(2 views,1,imaging
+535279,skull(2)views,1,imaging
+535280,skull(ap+lat,1,imaging
+535281,skull(pns view,1,imaging
+535282,skull(three position,1,other
+535283,"skull, 1 view",1,imaging
+535284,"skull, 2 view",1,imaging
+535285,skull-1f,1,imaging
+535286,skull-2 views,2,imaging
+535287,skull-3 views,2,imaging
+535288,skull-3views,1,other
+535289,skull-ap & lat,1,imaging
+535290,skull-ap & lat & obil,1,imaging
+535291,skull-ap-lat,1,imaging
+535292,skull-p.a 0,1,lab_test
+535293,skull.base ct multisection^w contrast iv,1,imaging
+535294,skull: 2 positions,1,imaging
+535295,skull<p.a.&lat.>0,1,imaging
+535296,skull_ap_&_lat,1,other
+535297,"sky 1,53 trilogy",1,other
+535298,"sky 1,59 poly",1,other
+535299,"sky 1,74",1,other
+535300,skyline both view x ray,1,imaging
+535301,skyline view for patella,2,imaging
+535302,skyline view of patella,1,imaging
+535303,skyrizi,2,other
+535323,sl 114 002-55-saint laurent,1,eyewear
+535324,sl 139 slim 002-47-saint laurent,1,eyewear
+535325,sl 168 005-50-saint laurent,1,eyewear
+535326,sl694 - polysorb 3.0 cutting,1,other
+535327,sla (soluble liver ag,1,lab_test
+535328,sla abs. (soluble liver antigen abs) (send out,1,lab_test
+535329,sla abs. (soluble liver antigen abs) - s.o,1,lab_test
+535330,sla abs,2,lab_test
+535331,slab,1,supplies
+535332,slab above elbow or knee,1,supplies
+535333,slab below elbow or knee,1,supplies
+535334,slab (below or above elbow,1,supplies
+535335,slab (below or above knee,1,supplies
+535336,slab (hand or foot,1,supplies
+535337,slab a.e. adult - dynacast,1,supplies
+535338,slab a.k. pedia,1,supplies
+535339,slab above elbow,2,supplies
+535340,slab above knee,1,supplies
+535341,slab b.e. adult - dynacast,1,supplies
+535342,slab b.e. pedia - dynacast,1,supplies
+535343,slab b.k. adult - dynacast,1,supplies
+535344,slab b.k. pedia,1,supplies
+535345,slab below elbow,2,supplies
+535346,slab below knee,3,supplies
+535347,slab big bone & joint,1,imaging
+535348,slab elbow adult,1,supplies
+535349,slab elbow pedia,1,supplies
+535350,slab elebow & knee jont,1,supplies
+535351,slab for fissure,1,supplies
+535352,slab for hand,1,supplies
+535353,slab long bone (adult,1,imaging
+535354,slab long bone (child,1,imaging
+535355,slab lower limbs,1,supplies
+535356,slab short bone (adult,1,imaging
+535357,slab short bone (child,1,imaging
+535358,slab upper limbs,1,supplies
+535359,slab wrist adult,1,supplies
+535360,slab wrist pedia,1,supplies
+535361,slap,1,procedure
+535362,slap a.e. adult - dynacast,1,supplies
+535363,slap a.e. pedia - dynacast,1,supplies
+535364,slap a.k. adult,1,procedure
+535365,slap b.e. adult - dynacast,1,supplies

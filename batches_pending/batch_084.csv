@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+266827,glucose body fluid - other than blood (csf,1,lab_test
+266828,glucose by glucometer,1,lab_test
+266829,glucose by glucometer test,1,lab_test
+266830,glucose challenge,1,lab_test
+266833,glucose challenge test,2,lab_test
+266836,glucose challenge test(gct,1,lab_test
+266837,glucose check,1,lab_test
+266838,glucose check / urine deep stick,1,lab_test
+266839,glucose csf,1,lab_test
+266840,glucose drip,3,lab_test
+266842,glucose f.b.s (fasting blood sugar,2,lab_test
+266844,glucose fasting fbs,2,lab_test
+266845,glucose fasting & post prandial,3,lab_test
+266846,glucose fasting ( fbs,1,lab_test
+266847,glucose fasting ( s,1,lab_test
+266848,glucose fasting (fbs,1,lab_test
+266849,glucose fasting - fbs,2,lab_test
+266850,glucose fasting blood sugar,1,lab_test
+266852,glucose fasting plasma,1,lab_test
+266853,glucose fasting random,1,lab_test
+266854,glucose fasting urine,1,lab_test
+266855,"glucose fasting, random & post prandial",1,lab_test
+266856,glucose fasting- fbs,1,lab_test
+266857,glucose fasting-201,1,lab_test
+266858,glucose fasting-fbs,1,lab_test
+266859,glucose fasting-serum,1,lab_test
+266860,glucose fasting-serum-5-4-120101,1,lab_test
+266862,glucose fasting/ random,1,lab_test
+266863,glucose fbs,4,lab_test
+266865,glucose for poct test,1,lab_test
+266868,glucose in csf,1,lab_test
+266869,glucose in plasma (2hrs postprandial,2,lab_test
+266870,glucose in plasma (fasting,3,lab_test
+266871,glucose in plasma (random,4,lab_test
+266872,glucose in pleural fluid,1,lab_test
+266873,glucose in serum (( 2hrs postprandial,1,lab_test
+266874,glucose in urine,1,lab_test
+266875,glucose lancet pack/30 pcs.- medisafe terumo,1,lab_test
+266876,glucose lancet pack/30 pcs.- medisafe terumo-ayh,1,lab_test
+266877,glucose level,1,lab_test
+266878,glucose measurement,1,lab_test
+266879,glucose monitoring,1,lab_test
+266880,glucose monitoring (one touch,1,lab_test
+266882,glucose monitoring cont,1,lab_test
+266883,glucose monitoring machine,1,lab_test
+266884,glucose monitoring strip,1,lab_test
+266885,glucose monitoring system (per strip,1,lab_test
+266886,glucose monitoring system (per strip)(10170,1,lab_test
+266887,glucose monitoring system (strips,1,lab_test
+266889,glucose or cbs,1,lab_test
+266890,glucose other fluid,1,lab_test
+266891,glucose p .p,1,lab_test
+266892,glucose p.p,2,lab_test
+266893,glucose p.p.b.s (post prandial blood sugar,2,lab_test
+266894,glucose pericardial,1,lab_test
+266895,glucose peritoneal fluid,1,lab_test
+266896,glucose phosphate isomerase,1,lab_test
+266897,glucose pleural fluid,2,lab_test
+266898,glucose pleural or other fluid,1,lab_test
+266899,glucose post 75 grams glucose,1,lab_test
+266900,glucose post parandial,2,lab_test
+266902,glucose post prandial,3,lab_test
+266903,glucose post prandial (+75 grams,1,lab_test
+266904,glucose post prandial 2 hours,1,lab_test
+266905,glucose post prandial 2 hr,1,lab_test
+266906,glucose post prandial 2hrs,1,lab_test
+266907,glucose post prandial-serum,1,lab_test
+266908,glucose post prandial-serum-5-4-120107,1,lab_test
+266909,glucose post-prandial,3,lab_test
+266910,glucose postprandial test (50gms,1,lab_test
+266911,glucose pp,2,lab_test
+266912,glucose pp ppbs,1,lab_test
+266913,glucose pp 1 hours,1,lab_test
+266914,glucose pp 2 hours,1,lab_test
+266915,glucose pp 3 hours,1,lab_test
+266916,"glucose ppbs post prandial blood sugar, 2hours pp",1,lab_test
+266917,glucose r,2,lab_test
+266920,glucose random (rbs,1,lab_test
+266922,glucose random - rbs,1,lab_test
+266923,glucose random -rbs,1,lab_test
+266924,glucose random blood sugar,1,lab_test
+266925,glucose random plasma,1,lab_test
+266927,glucose random rbs procedure,1,lab_test
+266928,glucose random-rbs,1,lab_test
+266929,glucose random-rbs - procedure,1,lab_test
+266930,glucose random-serum,1,lab_test
+266931,glucose random-serum-5-4-120188,1,lab_test
+266933,glucose randome,1,lab_test
+266934,glucose rapid test system reagent,2,lab_test
+266936,glucose rbs by accuecheck,1,lab_test
+266937,glucose reflomate,1,lab_test
+266938,glucose report,1,lab_test
+266943,glucose screen,2,lab_test
+266945,glucose serum (fasting,1,lab_test
+266946,glucose serum (ppbs,1,lab_test
+266947,glucose serum 2hpp,1,lab_test
+266948,glucose serum fasting,1,lab_test
+266949,glucose serum random,1,lab_test
+266950,glucose strip,1,lab_test
+266951,glucose strip pack 30 pcs. medisafe fit terumo,1,lab_test
+266952,glucose strip pack/30 pcs. - medisafe fit terumo-ayh,1,lab_test
+266953,glucose strips (optium,1,lab_test
+266954,glucose strips freeestyle optiium,1,lab_test
+266955,glucose strips pack of 50pec,1,lab_test
+266956,glucose strips-inpatient nova-stat strips,1,lab_test
+266957,glucose synovial fluid,2,lab_test
+266958,glucose t,1,lab_test
+266959,glucose test (rbs/fbs,1,lab_test
+266960,glucose test - urine - (each time,1,lab_test
+266961,glucose test at emergency,2,lab_test
+266962,glucose test strip for statstrip/xpress glucose meter - per strip,1,lab_test
+266963,glucose test strips,1,lab_test
+266964,glucose test strips pk/100,1,lab_test
+266965,glucose test-(glucometer,1,lab_test
+266966,"glucose toerance test,1hr",1,lab_test
+266967,"glucose toerance test,2hr",1,lab_test
+266968,glucose tolarance test,1,lab_test
+266969,glucose toler test,1,lab_test
+266970,glucose toler. test (gtt,1,lab_test
+266971,glucose toler. test(gtt,1,lab_test
+266972,glucose tolerance,3,lab_test
+266974,glucose tolerance curve,4,lab_test
+266977,glucose tolerance test ( gtt,3,lab_test
+266979,glucose tolerance test ( g.t.t,1,lab_test
+266981,glucose tolerance test (75 grams) plasma,1,lab_test
+266983,glucose tolerance test (curve) (gtt,2,lab_test
+266984,glucose tolerance test (five samples,1,lab_test
+266985,glucose tolerance test (g.t.t,2,lab_test
+266986,glucose tolerance test (gtt for pregnant women,1,lab_test
+266987,glucose tolerance test (gtt,5,lab_test
+266988,"glucose tolerance test (gtt) ""gestational",1,lab_test
+266989,glucose tolerance test (gtt) # 036-20722,1,lab_test
+266990,glucose tolerance test (gtt) - 036-20722,1,lab_test
+266992,"glucose tolerance test (gtt,male",1,lab_test
+266993,glucose tolerance test (non pregnant,1,lab_test
+266994,glucose tolerance test (ogtt,1,lab_test
+267001,glucose tolerance test glucose tolerance test,1,lab_test
+267002,glucose tolerance test gtt,2,lab_test
+267003,glucose tolerance test gtt (pregnant,2,lab_test
+267007,glucose tolerance test gtt pregnant,1,lab_test
+267008,glucose tolerance test long (gtt long,1,lab_test
+267013,glucose tolerance test plasma,1,lab_test
+267014,glucose tolerance test short (gttshort,1,lab_test
+267015,glucose tolerance test [ g.t.t,1,lab_test
+267016,glucose tolerance test(500008,1,lab_test
+267017,glucose tolerance test(g.t.t,1,lab_test
+267018,"glucose tolerance test,long",1,lab_test
+267019,glucose tolerance test- 2 hr,2,lab_test
+267021,glucose tolerance test- 3 hr,2,lab_test
+267024,glucose tolerance test-5-4-120102,1,lab_test
+267025,glucose tolerance test-glucose tolerance test,1,lab_test
+267031,glucose tolerence test ( gtt,2,lab_test
+267033,glucose tolerence test(gtt,1,lab_test
+267034,glucose tt,1,lab_test
+267036,glucose urine test,5,lab_test
+267037,glucose [serum] fasting,1,lab_test
+267038,glucose _ fbs _,1,lab_test
+267039,glucose _ ppbs _ post prandial blood sugar 2hours pp,1,lab_test
+267040,glucose _ rbs _,1,lab_test
+267042,glucose( rbs,1,lab_test
+267043,glucose(1 hpp,1,lab_test
+267044,glucose(ascitic/peritoneal fluid,1,lab_test
+267045,glucose(cerebrospinal fluid,1,lab_test
+267046,glucose(fasting,1,lab_test
+267047,glucose(pp,2,lab_test
+267049,glucose(ppbs,1,lab_test
+267050,glucose(random,2,lab_test
+267052,"glucose, 2hpp",1,lab_test
+267054,"glucose, blood, fasting",1,lab_test
+267055,"glucose, blood, using reagent strip",3,lab_test
+267056,"glucose, body fluid, csf",1,lab_test
+267057,"glucose, body fluid, other than blood",2,lab_test
+267058,"glucose, fasting",2,lab_test
+267059,"glucose, fasting ( s",1,lab_test
+267060,"glucose, fasting (s",1,lab_test
+267061,"glucose, fbs",2,lab_test
+267062,"glucose, glucomete test",1,lab_test
+267063,"glucose, glucometer test",1,lab_test
+267064,"glucose, ppbs",2,lab_test
+267065,"glucose, protein and acetone in urine",1,lab_test
+267066,"glucose, quantitative (u) csf",1,lab_test
+267067,"glucose, random",2,lab_test
+267068,"glucose, random plasma",1,lab_test
+267069,"glucose, rbs",2,lab_test
+267070,"glucose, serum (fasting",1,lab_test
+267071,"glucose, serum (ppbs",1,lab_test
+267072,"glucose, serum random",1,lab_test
+267073,"glucose, serum random (rbs",1,lab_test
+267074,"glucose, tolerance test",1,lab_test
+267075,"glucose, tolerance test (gtt) modified",1,lab_test
+267076,"glucose, tolerance test (gtt) three specimens (includes glucose",1,lab_test
+267077,"glucose, urine",1,lab_test
+267079,"glucose,2hpp",2,lab_test
+267080,"glucose,blood by glucose (point of care",1,lab_test
+267081,"glucose,blood by glucose monitoring device(s) for home use",1,lab_test
+267082,"glucose,urine",1,lab_test
+267084,glucose- random ( s,1,lab_test
+267085,glucose- random ( s ) rbs,1,lab_test
+267086,glucose- random (s,2,lab_test
+267087,glucose- serum (random,1,lab_test
+267088,glucose- serum(fasting,1,lab_test
+267089,"glucose-6-phosphate dehydrogenase (g6pd), quantitative",1,lab_test
+267090,glucose-6-phosphate dehydrogenase (g6pd); quant,1,lab_test
+267091,glucose-6-phosphate dehydrogenase (g6pd); quantitative,1,lab_test
+267092,glucose-6-phosphate dehydrogenase (g6pd);screen,1,lab_test
+267093,glucose-6pd (qualitative,1,lab_test
+267094,glucose-6pd (quantitative,1,lab_test
+267095,glucose-t-t,1,lab_test
+267096,glucose. glucometer test,1,lab_test
+267099,glucose/ketones in urine,1,lab_test
+267102,glucose25%,2,other
+267103,glucose2hr pp,1,other
+267106,"glucose; blood, reagent strip",1,lab_test
+267107,glucose; post glucose dose (includes glucose,2,lab_test
+267109,"glucose; quantitative, blood (except reagent strip",2,lab_test
+267110,glucose; tolerance test (gtt) three specimens (includes glucose,1,lab_test
+267112,"glucose; tolerance test (gtt), 3 specimens (includes glucose",1,lab_test
+267113,"glucose;blood, reagent strip",1,lab_test
+267114,glucose;post glucose dose (includes glucose,1,lab_test
+267115,"glucose;tolerance test (gtt), three specimens (includes glucose",1,lab_test
+267117,glucoseppbs,1,other
+267118,glucoserandom -rbs,1,lab_test
+267120,glucoses 25% infusion,1,supplies
+267121,glucoses 5%,1,other
+267122,glucoses 5% infusion,1,supplies
+267125,glucosett,1,other
+267126,glucostick for glucometer,1,supplies
+267127,glucostick test strips,1,lab_test
+267128,glucostrip,2,other
+267129,glucostrips elite ( top,1,other
+267130,glucosylated haemoglbin,1,other
+267131,glucosylated hb,2,lab_test
+267132,glucotest,2,other
+267133,glucotest inside,1,other
+267134,glucotrend strips,1,supplies
+267135,glucotrend blood glucose testing strips,1,lab_test
+267136,glucova0.5 2.5/500,1,other
+267137,glucova0.5 5/500,1,other
+267138,glucova1 2.5/500,1,other
+267139,glucova1 5/500,1,other
+267140,glucovan 5/500,1,other
+267443,glucovance500-2.5,1,other
+267444,glucovance500-5,1,other
+267450,glucuse in serum,1,lab_test
+267452,glue closure of wound (large) - doctor fee only,1,procedure
+267453,glue closure of wound (medium) - doctor fee only,1,procedure
+267454,glue closure of wound (small) - doctor fee only,1,procedure
+267455,glue onyx kit18 f/embolization medtronic #ev-105-7000-060,1,supplies
+267459,glukoter test - one bottle (test strips,1,lab_test
+267465,gluocoma cyclo photo - coagulation ( cbc,1,lab_test
+267466,gluovance 5/500,1,other
+267468,glusose(r,1,other
+267471,glutamate decarboxylase (gad,1,other
+267472,glutamate decarboxylase abs,3,lab_test
+267473,glutamate decarboxylase abs (gad65,1,lab_test
+267474,glutamate decarboxylase abs serum,1,lab_test
+267475,glutamate decarboxylase abs(gad abs,2,lab_test
+267476,glutamate decarboxylase abs(gd,1,lab_test
+267478,glutamate decarboxylase abs. (gad abs,1,lab_test
+267479,glutamate-decarboxylase abs,1,lab_test
+267480,glutamate-decarboxylase abs (gad abs,1,lab_test
+267481,glutamate-decarboxylase abs (gad,1,lab_test
+267482,glutamate-decarboxylase abs (gad) ( so,1,lab_test
+267483,glutamate-decarboxylase abs (s,1,lab_test
+267484,glutamate-decarboxylase abs (serum,1,lab_test
+267485,glutamate-decarboxylase abs s -(send-out tests,1,lab_test
+267488,glutamyl pyruvate tran,1,other
+267489,glutamyltransferase gamma (ggt,1,lab_test
+267490,"glutamyltransferase, gamma (ggt",2,lab_test
+267491,glutathione - s.o,1,lab_test
+267492,gluteal abscess i & d,1,procedure
+267493,gluteal abscess large i&d ula,1,procedure
+267494,gluten (f79) allergen,1,lab_test
+267495,gluten abs,2,lab_test
+267496,gluten abs s -(send-out tests,1,lab_test
+267497,gluten sp ige,1,lab_test
+267498,glutethimide,1,other
+267500,glvoes surgeon p.f ansell diff.sizes,1,lab_test
+267502,glwocose 2 hr post prandial,1,lab_test
+267503,glwocose fasting,1,other
+267504,glwocose random,1,other
+267506,gly.hb.a1c,2,lab_test
+267508,gly.hba1,1,other
+267510,"glyc osylated hb, hbaic",1,lab_test
+267511,glyc. hb,2,lab_test
+267512,glyc.hb,1,lab_test
+267513,glycated hb (hba1c,4,lab_test
+267515,glycated hb hba1c,1,lab_test
+267516,glycated hemoglobin ( hbaic,5,lab_test
+267517,glycated haemoglobin (hba1c,6,lab_test
+267518,glycated haemoglobin - hba 1c,2,lab_test
+267519,glycated haemoglobin - hba1c,1,lab_test
+267520,glycated hb,8,lab_test
+267521,glycated hb (hb a1c,2,lab_test
+267523,glycated hb (hba1c) ?????????????????? ??????,2,lab_test
+267524,glycated hb (hbai,1,lab_test
+267525,"glycated hb (hbai,c",1,lab_test
+267526,glycated hb (hbaic,1,lab_test
+267527,glycated hb 30005,1,lab_test
+267528,glycated hb hba1,4,lab_test
+267529,glycated hba1c,2,lab_test
+267530,glycated hemoglobin,4,lab_test
+267532,glycated hemoglobin ( hba1c,1,lab_test
+267533,glycated hemoglobin (hb a1c,1,lab_test
+267534,glycated hemoglobin (hba ic,2,lab_test
+267541,glycated hemoglobin hba1c,3,lab_test
+267542,glycated hemoglobin hb a1c,2,lab_test
+267544,glycated hemoglobin(hba1c,2,lab_test
+267545,glycated hemoglzobin,1,other
+267547,glycated hb hba 1,1,lab_test
+267550,glycated protein,1,lab_test
+267551,glycated random one touch,1,supplies
+267552,glycated-hb,1,lab_test
+267553,glyccated hemoglobin (hba1c,1,lab_test
+267671,glycerin,1,other
+267675,glycerin (glycerol,1,other
+267680,glycerin (glycerol)|camphor|calamine,1,other
+267704,glycerin liquid.bp (lab,1,eyewear
+267711,glycerin suppositories infants,1,other
+267712,glycerin suppositories for children 5s,1,other
+267713,glycerin suppositories for children 5's,1,other
+267716,glycerin swap,1,other
+267719,glycerine mouth swab sticks pouch pkt/3,1,lab_test
+267721,glycerinerythromycinsodium hyaluronatecarboxymethylcellulose sodium,1,lab_test
+267722,glycerol (glycerin,1,other
+267726,glyceryl trinitrate,2,other
+267732,glyceryl trinitrate (nitroderm) tts-10 system,1,other
+267757,glyceryl trinitrate tts 10,1,other
+267758,glyceryl trinitrate tts 5,1,other
+267763,glyceryne supposittaries infant,1,other
+267764,glycine,1,other
+267776,glycine irrigation 3lit abbott,1,procedure
+267778,glycine receptor abs spec. igg (csf) - s.o,1,lab_test
+267779,glycine receptor abs spec. igg (serum) - s.o,1,lab_test
+267780,glycisylated h b,1,lab_test
+267781,glyco hb(hba1c) - 212,1,lab_test
+267782,glyco hb-0005,1,lab_test
+267783,glyco syllated hemoglobin,2,lab_test
+267784,glyco-hb,2,lab_test
+267785,glyco-hb ( hb a1c,1,lab_test
+267786,glyco-hb (hb a1c,2,lab_test
+267788,glyco. hb,2,lab_test
+267789,glyco. hgb. hb a1c,1,lab_test
+267790,glyco.hb,1,lab_test
+267791,glyco.hb (hba1c,1,lab_test
+267792,glyco.hb ( hba1c,1,lab_test
+267793,glycocylated hb,1,lab_test
+267794,glycocylated hb (hba1c,1,lab_test
+267795,glycocylated hemoglobin (hba 1c,1,lab_test
+267796,glycocylated hemoglobin(hba1c,1,lab_test
+267797,glycohemoglobin test,1,lab_test
+267802,glycolyated hemoglobin,1,lab_test
+267803,glycolyated hemoglobin (ha1c,2,lab_test
+267804,glycolyated hemoglobin (hba1c,1,lab_test
+267805,glycolysated hb,1,lab_test
+267871,glycosalenated hemoglobin,1,lab_test
+267872,glycosaleted hb,1,lab_test
+267873,glycosated hb,2,lab_test
+267874,glycoselated hb (hba1c,1,lab_test
+267875,glycoselated hemoglobin (hba ic,1,lab_test
+267876,glycoside hemoglobin hba 1c (human,1,lab_test
+267877,glycosilated haemoglobin (hba1c,1,lab_test
+267883,glycosilated hb (hbaic,1,lab_test
+267884,glycosilated hb /a1c,2,lab_test
+267885,glycosilated hb hba1c,2,lab_test
+267886,glycosilated hb hbaic,1,lab_test
+267887,glycosilated hb _hba1c_,1,lab_test
+267888,glycosilated hb/a1c,1,lab_test
+267889,glycosilated hemoglobin h b a i c,1,lab_test
+267890,glycoslated hb % a,2,lab_test
+267891,glycosolated hb,1,lab_test
+267892,glycosulated hgb,1,other
+267893,glycosuria ketonuria strip test,1,lab_test
+267894,glycosyla hb,2,lab_test
+267895,glycosylatde hemoglobin,1,lab_test
+267896,glycosylated,2,lab_test
+267897,glycosylated haemoglobin,8,lab_test
+267898,glycosylated hemoglobin (hb a1c,6,lab_test
+267899,glycosylated ( hba1c,1,lab_test
+267900,glycosylated 5629,1,lab_test
+267901,glycosylated h b,2,lab_test
+267903,glycosylated haemoglobin # 036-20723,1,lab_test
+267904,glycosylated haemoglobin # 037-20723,1,lab_test
+267905,glycosylated haemoglobin (hb aic,2,lab_test
+267907,glycosylated haemoglobin (hbaic,2,lab_test
+267912,glycosylated haemoglobin - 036-20723,1,lab_test
+267913,glycosylated haemoglobin / hba1c,2,lab_test
+267914,glycosylated haemoglobin a1c,2,lab_test
+267915,glycosylated haemoglobin a1c (hba1c,1,lab_test
+267916,glycosylated haemoglobin hba1c blood,1,lab_test
+267917,glycosylated haemoglobin(hba1c,1,lab_test
+267919,glycosylated haemoglobin- hba1,1,lab_test
+267920,glycosylated haemoglobin-4180-lab,1,lab_test
+267921,glycosylated hb,11,lab_test
+267922,glycosylated hb ( hba1c,2,lab_test
+267924,glycosylated hb (hb a1c,2,lab_test
+267925,glycosylated hb (hba1c,4,lab_test
+267927,glycosylated hb / hbaic,1,lab_test
+267928,glycosylated hb aic,1,lab_test
+267929,glycosylated hb hba1c,2,lab_test
+267930,glycosylated hb home device,1,lab_test
+267931,glycosylated hb(hba 1c) - lab test,1,lab_test
+267932,glycosylated hb(hba1) glycosylated hb(hba1,1,lab_test
+267933,glycosylated hb(hba1c,1,lab_test
+267936,glycosylated hb. (hba1c,1,lab_test
+267937,glycosylated hb.( hba1,2,lab_test
+267938,glycosylated hb.( hba1)-glycosylated hb.( hba1,1,lab_test
+267939,glycosylated hb.(hba1c,1,lab_test
+267940,glycosylated hba1c,2,lab_test
+267941,glycosylated hemoglobi,1,lab_test
+267942,glycosylated hemoglobin,7,lab_test
+267944,glycosylated hemoglobin (hb a1c)(502036,1,lab_test
+267945,glycosylated hemoglobin (hb ai,1,lab_test
+267946,glycosylated hemoglobin (hb aic,2,lab_test
+267948,glycosylated hemoglobin (hb1ac,1,lab_test
+267951,glycosylated hemoglobin (hba1c %,1,lab_test
+267953,glycosylated hemoglobin / hba1c,1,lab_test
+267954,glycosylated hemoglobin a1c (hba1c,1,lab_test
+267955,glycosylated hemoglobin hb a1c,3,lab_test
+267956,glycosylated hemoglobin hba 1c,1,lab_test
+267957,glycosylated hemoglobin hba1c,3,lab_test
+267959,glycosylated hemoglobin test (hba1c,3,lab_test
+267960,glycosylated hemoglobin ahba1c,1,lab_test
+267961,glycosylated hemoglobin(hba1c,1,lab_test
+267963,glycosylated hemoglobin- hba1c,1,lab_test
+267966,glycosylated hemoglobin-hba1c-5-4-120104,1,lab_test
+267969,glycosylated hemoglobin. (hba1c,1,lab_test
+267970,glycosylated hemoglobin.(hba1c,1,lab_test
+267971,glycosylated hemoglobinhba1c,1,lab_test
+267972,glycosylated hemowaobin,1,lab_test
+267973,glycosylated hgb,10,lab_test
+267974,glycosylated hgb (hba1c,1,lab_test
+267979,glycosylated hb.( hba1c,2,lab_test
+267981,glycosylated sylated hb,1,lab_test
+267982,glycosylated-hba1c,1,lab_test
+267983,glycosylatedhb,1,other
+267984,glycosylayted hemoglobin,1,lab_test
+267985,glycoylated hb,1,lab_test
+267986,glycusylated hb,2,lab_test
+267987,glycusylated hb-1483,1,lab_test
+267988,glycusylated hb-1490,1,lab_test
+267992,glyhba1,1,other
+267993,glypican 3,1,other
+267994,glypressin,1,other
+268003,glysine set - irrigation set - two way,1,procedure
+268004,glysolated hemoglobinhba1c,1,other
+268007,glyxambi,4,other
+268022,"glyxambi 10,5",1,other
+268027,glyxambi 10/5,2,other
+268065,glyxambi 10x5mg 30tab,1,other
+268076,"glyxambi 25,5",1,other
+268081,glyxambi 25/5,2,other
+268119,glyxambi 25x5mg 30tab,1,other
+268120,glyxambi 5/10 30tab,1,other
+268125,glyxambi 5/25 30tab,1,other
+268140,"glucose,fasting",2,lab_test
+268144,gm pl ph di 4321,1,eyewear
+268146,gm1 abs (igg and igm) {q},1,lab_test
+268147,gmaan ali alzhrani,2,other
+268148,gmd-citizen digital blood pressure monitor,1,lab_test
+268149,gmdn,1,other
+268150,gmdn code,1,other
+268151,gmrs proximal fem comp std 6495-1-001,1,other
+268163,gnrh for (lhrh testing)-ferring,1,lab_test
+268164,gnrh stimulation test - day case,1,lab_test
+268165,goat milk food allergen,1,lab_test
+268167,god ast glutoxaloacetic transa glutamate oxaloacet transaminase,1,lab_test
+268169,goggle eye glass protector,1,eyewear
+268170,goggle fram,1,eyewear
+268171,goggles plastic,1,eyewear
+268173,gold,2,nutrition
+268174,gold crown,1,dental
+268175,gold in-lay 2 surfaces,1,nutrition
+268176,gold plasma treatment - 1 session,1,lab_test
+268178,gold t 375 norma iud,1,nutrition
+268179,gold t375 normal iucd 1s,1,nutrition
+268180,gold t375 normal iud 1s,1,nutrition
+268181,gold weight lid implantation,1,nutrition
+268182,golden ceramic crown facing only,1,dental
+268183,golden crown,1,dental
+268184,golden eye optical,1,eyewear
+268185,golden eye optical - golv0602 53 c2,1,eyewear
+268186,golden eye optical - golv114 53 c1,1,eyewear
+268187,golden eye optical - golv1331 52 c2,1,eyewear
+268188,golden eye optical - golv1336 52 c1,1,eyewear
+268189,golden eye optical - golv1361 54 c6,1,eyewear
+268190,golden eye optical - golv1383 54 c4,1,eyewear
+268191,golden eye optical - golv1414 53 c4,1,eyewear
+268192,golden eye optical - golv1426 52 c1,1,eyewear
+268193,golden eye optical - golv18 bl,1,eyewear
+268194,golden eye optical - golv292 52 c1,1,eyewear
+268195,golden eye optical - golv292 52 c4,1,eyewear
+268196,golden eye optical - golv296 53 c1,1,eyewear
+268197,golden eye optical - golv3666 55 c2,1,eyewear
+268198,golden eye optical - golv4072 54 w44,1,eyewear
+268199,golden eye optical - golv4078 54 c002,1,eyewear
+268200,golden eye optical - golv4166 54 2001,1,eyewear
+268201,golden eye optical - golv5171 53 2001,1,eyewear
+268202,golden eye optical - golv5413 51 c3,1,eyewear
+268203,golden eye optical - golv6001 51 c3,1,eyewear

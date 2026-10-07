@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+392932,nm - hepato biliary scintigraphy (hida scan,1,imaging
+392933,nm - kidney scan - dmsa,1,imaging
+392934,nm - kidney scan - dtpa,1,imaging
+392935,nm - lung perfusion and ventilation scintigraphy,1,imaging
+392936,nm - lymphangio scintigraphy,1,imaging
+392937,nm - meckels diverticulum scintigraphy,1,imaging
+392938,nm - mibg scintigraphy,1,imaging
+392939,nm - nanocoll preparation in sentinel node localization,1,imaging
+392940,nm - parathyroid scan,1,imaging
+392941,nm - parathyroid scintigraphy (sestamibi,1,imaging
+392942,nm - persant thalium heart stress,2,imaging
+392944,nm - post rai whole body scintigraphy (for report use only,1,imaging
+392945,nm - renal cortical scintigraphy (dmsa scan,1,imaging
+392946,nm - renogram (diuretic) scintigraphy (dtpa,1,imaging
+392947,nm - renogram mag3 scan (erpf,1,imaging
+392948,nm - resting thallium scan(early+delay,1,imaging
+392949,nm - tectnetium-99m octreoide scintigraphy (octreoscan,1,imaging
+392950,nm - thyroid gland scintigraphy (tc-99m or iodine 131,1,imaging
+392951,nm - thyroid scan - tc04,1,imaging
+392952,nm - thyroid whole body scintigraphy (iodine 131,1,imaging
+392953,nm - tc-99m psma-spect/ct,1,imaging
+392954,nm - tc-99m pyrophosphate (pyp) cardiac amyloidosis,1,imaging
+392955,nm 1-131 graves therapy - pkg,1,imaging
+392956,nm 1-131 thyroid carcinoma ptc therapy - 3days pkg,1,imaging
+392957,nm acute gi blood loss imaging,1,imaging
+392958,"nm adrenal imaging, cortex or medulla",1,imaging
+392959,nm bone marrow imaging; whole body,1,imaging
+392960,nm bone scan imaging; whole body,1,imaging
+392961,nm bone scan whole body/head,1,imaging
+392962,nm bone whole body,1,imaging
+392963,nm brain imaging perfusion evaluation,1,imaging
+392964,"nm csf flow, imaging cisternography",1,imaging
+392965,nm csf leakage detection and local,1,imaging
+392966,nm gallium (67) whole body scan,1,imaging
+392967,nm gastric emptying study,2,imaging
+392968,nm gastroesophageal reflux study,2,imaging
+392969,nm gallium scan,1,imaging
+392972,nm hepatobiliary ductal system image w/ gall bladder (hida scan,1,imaging
+392973,nm i 123 scan,1,imaging
+392975,nm kidney imaging dmsa,1,imaging
+392976,nm kidney imaging with mag3 or dtpa,1,imaging
+392977,nm kidney imaging w/flow and function,1,imaging
+392978,nm liver and spleen imaging; w/ vasc flow,1,imaging
+392979,nm lymph scintigraphy,1,imaging
+392980,nm lymphatics and lymphnode imaging,1,imaging
+392981,nm mibg scan 1-123,1,imaging
+392982,"nm myocard image, infarct avid, planar; spect with thalium",1,imaging
+392983,"nm myocard image,pet. stress rest",1,imaging
+392984,nm myocard perf; study rest/stress - pkg,1,imaging
+392985,nm myocard. perf/thallium stress and delay s,1,imaging
+392986,"nm myocardial perfusion/mibi, stress and delayed spect",1,imaging
+392987,nm octreotide scan,1,imaging
+392988,nm parathyroid imaging,1,imaging
+392989,nm pet w/ ct; ct brain (f18-dopa,1,imaging
+392990,nm pet w/ ct; whole body,1,imaging
+392991,nm pet w/ ct; whole body (f18-choline,1,imaging
+392992,nm pet w/ ct; whole body (ga-68-dota-tata,1,imaging
+392993,nm pet w/ ct; whole body (ga-68-psma,1,imaging
+392994,nm pet w/ ct;brain,1,imaging
+392995,"nm pulm perf image, part. w/ vent image, aerosol (lung scan) vq scan",1,imaging
+392996,nm parathyroid scan,1,imaging
+392997,nm parathyroid scan w/spect,1,imaging
+392998,nm parathyroid scan spect ct,1,imaging
+392999,nm planar; single area imaging,1,imaging
+393000,nm planar; whole body imaging,1,imaging
+393001,nm pulmonary ventilation and perfusion,1,imaging
+393002,nm pulmonary ventilation imaging,1,imaging
+393003,nm quant pulmonary perfusion,1,imaging
+393004,nm rna study,1,imaging
+393005,nm radiopharma therapy - intra-arterial admin,1,imaging
+393006,nm radiopharma therapy - oral admin,1,imaging
+393007,nm radiopharma therapy- oral admin,1,imaging
+393008,nm renal (mag3 or hipp) delay,1,imaging
+393009,nm renogram,1,imaging
+393010,nm renogram with diuretic,1,imaging
+393011,nm salivary gland function study,1,imaging
+393012,nm sentinel lymph node scintigraphy (bilateral) - pkg,1,imaging
+393013,nm sentinel lymph node scintigraphy (unilateral) - pkg,1,imaging
+393014,nm spect-ct; single area,1,imaging
+393015,nm spect; single area imaging,1,imaging
+393017,"nm thyroid image, w/ uptake; multi determinations with 1-123",1,imaging
+393018,nm thyroid imaging; only with tc-99m,1,imaging
+393019,nm three phase bone scan,1,imaging
+393020,nm thyroid ca metastasis imaging wb,1,imaging
+393021,nm thyroid scan,1,imaging
+393022,nm thyroid technetium mibi,1,imaging
+393023,nm thyroid uptake scan,1,imaging
+393024,nm urea breath test c14: acquisition for analysis,1,imaging
+393025,nm urea breath test,1,imaging
+393026,"nm whl bld rbc vol detrm,w/sep msrmt plasma/red cell",1,imaging
+393027,nm whole body wbc for infection study,1,imaging
+393028,nm- gastric emptying study,1,imaging
+393029,nm- iodine 131 wholebody scan (or tl201/tetrofosmin) ra00421036,1,imaging
+393030,nm- renogram (diuretic) scintigraphy (dtpa) ra00421010,1,imaging
+393031,nm- radionuclide imaging of cardiac amyloidosis,1,imaging
+393032,nm-100 mci oral i-131 therapy for ca thyroid (isolation,1,imaging
+393033,nm-150 mci oral i-131 radioactive therapy for thyroid cancer (isolation) -ablative dose single ses,2,imaging
+393034,nm-30 mci oral i-131 therapy for ca thyroid (outpatient,1,imaging
+393035,nm-50 mci oral i-131 therapy for ca thyroid (isolation,1,imaging
+393036,nm-80 mci oral i-131 therapy for ca thyroid (isolation,1,imaging
+393037,nm-bone densitormetry (dexa) spine and hip,1,imaging
+393038,nm-dtpa dynamic renal scintigraphy with gfr,1,imaging
+393039,nm-dacryocysto scintigraphy,1,imaging
+393040,nm-dynamic hepatobiliary scintigraphy for biliary atresia in neonates,1,imaging
+393041,nm-dynamic hepatobillary scintigraphy in adults,1,imaging
+393042,nm-dynamic meckels diverticulum scintigraphy,1,imaging
+393043,nm-dynamic renogram mag-3 scintigraphy with diuretic stress,1,imaging
+393044,nm-gallium whole body survey for infection and oncology,1,imaging
+393045,nm-gated spect myocardial perfusion scintigraphy (stress/rest,1,imaging
+393046,nm-gated spect myocardial perfusion scintigraphy rest study,1,imaging
+393047,nm-i-131 diagnostic whole body scintigraphy,1,imaging
+393048,nm-i-131-mibg whole body scintigraphy sequential images,1,imaging
+393049,nm-lung ventilation scintigraphy,1,imaging
+393050,nm-lung ventilation/spect-perfusion (v/q) scintigraphy,1,imaging
+393051,nm-lymphoscintigraphy for lymphedema,1,imaging
+393052,nm-oral i-131 therapy for thyrotoxicosis,1,imaging
+393053,nm-renal cortical scintigraphy with dmsa,1,imaging
+393054,nm-sestamibi parathyroid scintigraphy,1,imaging
+393055,nm-tc-99m octreotide imaging,1,imaging
+393056,nm-tagged rbc dynamic scintigraphy for active lower gi bleed,1,imaging
+393057,nm-three phase dynamic skeletal scintigraphy,1,imaging
+393058,nm-thyroid scintigraphy with uptake,1,imaging
+393059,nm-whole body skeletal scintigraphy,1,imaging
+393060,nm. bone scan (3 phase scan,2,imaging
+393061,nm. bone scan (3 phase scan) + spect/ct,1,imaging
+393062,nm. bone scan (whole body 1 phase,2,imaging
+393063,nm. bone scan (whole body 2 phase,2,imaging
+393067,nm. cardiac (stress & rest myocardial perfusion scan,2,imaging
+393069,nm. cardiac (viability scan,1,imaging
+393070,nm. gallium scan (whole body,1,imaging
+393071,nm. lower limb lymphoscintigraphy,1,imaging
+393072,nm. meckel's scan,1,imaging
+393073,nm. parathyroid scan (tc99m,2,imaging
+393074,nm. parathyroid scan (tc99m) + spect/ct,2,imaging
+393075,nm. pet scan whole body,2,imaging
+393077,nm. pet/ct whole body,3,imaging
+393081,nm. renal (dmsa scan,2,imaging
+393082,nm. renal (dmsa scan) + spect/ct,1,imaging
+393083,nm. renal (dtpa + dmsa scan,2,imaging
+393085,nm. renal (dtpa scan standard protocol,2,imaging
+393086,nm. renal (mag3 scan,2,imaging
+393092,nm. sentinal lymph node scan,1,imaging
+393093,nm. thyroid (diagnostic i-123,1,imaging
+393094,nm. thyroid (diagnostic i-131 - 5 mci,2,imaging
+393095,nm. thyroid (diagnostic tc99m scan and uptake,2,imaging
+393096,nm. thyroid (theraputic i-131 - 10 mci,2,imaging
+393097,nm. thyroid (theraputic i-131 - 30 mci,2,imaging
+393098,nm. thyroid (theraputic i-131 - 50 mci,1,imaging
+393102,nm. thyroid (theraputic i-131 - 100 mci,1,imaging
+393103,nm. thyroid (theraputic i-131 - 120 mci,1,imaging
+393104,nm. thyroid (theraputic i-131 - 15 mci,1,imaging
+393105,nm. thyroid (theraputic i-131 - 20 mci,1,imaging
+393106,nm. thyroid (theraputic i-131 - 25 mci,1,imaging
+393108,nm. upper limb lymphoscintigraphy,1,imaging
+393109,nm. v/q lung (perfusion & ventillation,2,imaging
+393110,nm. v/q lung scan (ventillation only,2,imaging
+393112,nm. v/q lung (perfusion & ventillation) + spect/ct,1,imaging
+393113,nm. v/q lung scan (perfusion only,1,imaging
+393115,nmd - breast mammoscintigraphy,1,other
+393117,nmda receptor abs,1,lab_test
+393118,nmda receptor abs (csf,1,lab_test
+393119,"nmda receptor abs (csf, s",1,lab_test
+393120,nmda receptor abs (s,1,lab_test
+393121,nmda receptor abs (serum,1,lab_test
+393122,nmda receptor abs (serum) - s.o,1,lab_test
+393123,nmda receptor abs csf,1,lab_test
+393124,nmda receptor ab (glutamate receptor abs) (csf,1,lab_test
+393125,nmda receptor ab (glutamate receptor abs) (s,1,lab_test
+393126,nmda receptor ab (s,1,lab_test
+393127,nmda receptor ab in csf,1,lab_test
+393128,nmda receptor abs csf {bs},1,lab_test
+393129,nmo aquaprin 4,2,other
+393131,nmo- aquaporin -4 csf,1,other
+393132,nmo- aquaporin -4 serum,2,lab_test
+393134,nmo- aquaporin -4 {bs},1,other
+393135,nmo-aquaporin 4 - serum,1,lab_test
+393136,"nmo/aqp4 facs, serum bs",1,lab_test
+393137,nmr - mri,1,imaging
+393138,nmr / mri,1,imaging
+393139,nmt - thyroid cancer dose (100-149mci,1,other
+393140,nmt - thyroid cancer dose (150-200mci,1,other
+393141,nmt - thyroid cancer dose (30 mci,1,other
+393142,nmt - skeletal (onc.) - bone metastasis,1,imaging
+393143,nmt - thyrotoxicosis,1,other
+393144,nn1003-kids/c5/f,1,eyewear
+393145,nn1004-kids/c4/f,1,eyewear
+393146,nn1004-kids/c5/f,1,eyewear
+393147,nn1005-kids/c11/f,1,other
+393148,nn1005-kids/c4/f,1,eyewear
+393149,nn1005-kids/c5/f,1,eyewear
+393150,nn1005-kids/c7/f,1,other
+393151,nn1006-kids/c15/f,1,other
+393152,nn1006-kids/c4/f,1,eyewear
+393153,nn1008-kids/c1/f,1,eyewear
+393154,nn1008-kids/c2/f,1,eyewear
+393155,nn1008-kids/c3/f,1,eyewear
+393156,nn1009-kids/c1/f,1,eyewear
+393157,nn1009-kids/c17/f,1,other
+393158,nn1009-kids/c20/f,1,other
+393159,nn1009-kids/c4/f,1,eyewear
+393160,nn1009-kids/c8/f,1,other
+393161,nn1010-kids/c4/f,1,eyewear
+393162,nn1010-kids/c7/f,1,other
+393163,nn1011-kids/c4/f,1,eyewear
+393164,nn8013/c2/f,1,eyewear
+393165,nneurobion 30tab,1,other
+393166,nnjection intramusclar,1,other
+393167,nnn-cot,1,other
+393168,nnsp,1,other
+393169,no,2,other
+393173,no gmdn code,2,other
+393175,no name,1,other
+393180,no uric 100,1,lab_test
+393209,no uric 100tab,1,lab_test
+393244,no uric100,1,other
+393245,no uric100mg 50tab,1,other
+393247,no-ava,1,other
+393343,no-uric 100mg50tabs,1,lab_test
+393498,no-uric100mg 50tab,1,other
+393501,no-uric300mg 20tab,1,other
+393503,no2/hour,1,other
+393504,no222-s brn,1,other
+393505,noce ear f.b removal,1,procedure
+393506,noego,1,other
+393507,noha abdelmohdy moustafa,1,other
+393509,noha mostafa elgamal,2,other
+393549,non - hdl cholesterol,1,lab_test
+393550,non adhesive bandage,2,supplies
+393551,non breather o2 mask adult,1,supplies
+393552,non contrast ct any arera of body,1,imaging
+393553,non emergency ambulance service for a non- acute patient,1,supplies
+393554,non exc debridement skin & sbc tissue,2,procedure
+393555,non formulary drug,1,other
+393556,non gyanecological cytology,1,lab_test
+393557,non hormonal i.u.c.d insertion,1,procedure
+393558,non invasive prenatal testing (nipt) - s,1,lab_test
+393559,"non invasive prenatal testing (nipt), so",1,lab_test
+393561,non ionic or gastrografin study for gi tract (follow thru,1,consultation
+393562,non ionic or gastrografin study for gi tract (meal,1,consultation
+393563,non ionic or gastrografin study for gi tract (swallow,1,consultation
+393564,non locking screw different sie,1,supplies
+393565,non locking screw size 26,1,supplies
+393566,non precious crown with porcelain facing,1,dental
+393567,non precious metal crown pontic acrylic facing,1,dental
+393568,non precious metal rrot canal post,1,dental
+393569,non pyrogenic acetate f4(3-004-010) i.v,1,lab_test
+393570,non re-breathing mask pedia pvc oxygen mask sta,1,supplies
+393571,non re-breathing mask pvc oxygen mask standard medium/large,1,supplies
+393572,non rebreather mask,1,supplies
+393573,non rebrether mask-pediatric -c,1,supplies
+393574,non sterile gauze swab (4*x4*) 10x10cm,1,lab_test
+393575,non sterile gauze swab 5x5cm 8 ply (2x2,1,lab_test
+393576,non stress test (opd,1,lab_test
+393577,non surgical admission (nw,1,procedure
+393578,non surgical ext of permenant tooth,1,dental
+393579,non surgical extraction,2,dental
+393581,non surgical periodontal treatment,1,procedure
+393582,non surgical treatment of hemorrhoids (banding,1,procedure
+393583,non surgical treatment of peri implant disease per implant,1,supplies
+393584,non verbal iq,1,other
+393585,non vital pulpotomy,3,dental
+393586,non vital pulpotomy (partially approved,1,dental
+393588,non vital pulpotomy partially apprioved,1,dental
+393589,non vital pulpotomy partially approved,1,dental
+393590,non woven boot cuff ds041,1,other
+393591,non woven l calf cuff ds023,1,other
+393592,non woven l thigh cuff ds013,1,other
+393593,non woven m calf cuff ds022,1,other
+393594,non woven m thigh cuff ds012,1,other
+393595,non woven s calf cuff ds021,1,other
+393596,non woven s thigh cuff ds011,1,other
+393597,non woven xl calf cuff ds024,1,other
+393598,non woven xl thigh cuff ds014,1,other
+393599,non- hdl cholesterol (vldl+idl+ldl+lp(a)-c,1,lab_test
+393600,non- stress test (ctg,2,lab_test
+393601,non-breathing mask ( adult,1,supplies
+393602,non-breathing mask ( pedia,1,supplies
+393603,non-compliant ptca balloon diff.size,1,supplies
+393604,non-gynacological cytology,1,lab_test
+393605,non-hdl cholesterol,1,lab_test
+393606,non-invasive mechanical ventilation / day,1,other
+393607,non-invasive monitoring,1,consultation
+393608,non-invasive physiological studies of upper & lower limb arteries,1,consultation
+393609,non-invasive pre-natal testing (nipt) any method,1,lab_test
+393610,non-invasive prenatal diagnosis,1,other
+393611,non-invasive prenatal test ( nipt,2,lab_test
+393613,non-invasive prenatal test (nipt,1,lab_test
+393614,non-invasive prenatal testing (nipt) - centogene,1,lab_test
+393615,non-invasive ventilation per 12 hrs (icu/picu/nicu,1,consultation
+393616,non-invasive ventilation per day (icu/picu/nicu,1,consultation
+393617,non-invasive ventilation(mask,1,supplies
+393618,non-invasive ventilation(mask) - 148-93362,1,supplies
+393619,"non-malignant breast dis, majc",1,inpatient
+393620,"non-malignant breast dis, minc",1,inpatient
+393624,non-precious metal crown/pontic full cast,1,dental
+393625,non-precious metal post,1,other
+393626,non-rebreathing mask child,1,supplies
+393627,non-rebreathing oxygen mask,1,supplies
+393628,non-routine bl draw > 3 yrs,1,other
+393630,non-sterile gloves latex size. large (box/100,1,supplies
+393631,non-sterile gloves latex size. medium (box/100,1,supplies
+393632,non-sterile gloves latex size. small (box/100,1,supplies
+393633,non-stock supplies a,1,other
+393634,non-stock supplies b,1,other
+393635,non-stock supplies c,1,other
+393636,non-stress test,1,lab_test
+393637,"non-surg spinal dis, majc",1,inpatient
+393638,"non-surg spinal dis, minc",1,inpatient
+393639,non-surgical extraction,1,dental
+393640,non-surgical extraction of wisdom tooth,3,dental
+393642,non-surgical medical supervision,1,procedure
+393643,"non-surgical root canal retreatment- molar , complicated",1,dental
+393644,non-tunnled line placement,1,other
+393645,non-vented full face mask #acu care resmed,1,eyewear
+393646,non-vital pulpectomy,1,dental
+393647,non-vital pulpotomy / deciduous tooth,1,dental
+393648,non-woven adhesive tape 10x10cm (neofix,1,supplies
+393649,non-woven adhesive tape 15cmx10m (neofix,1,supplies
+393650,non-woven single use calf cuff size large,1,other
+393651,non-woven single use calf cuff size x-larg,1,other
+393653,nonabsorbable anchor suture size 2.0 with needle#103.72201881,1,supplies
+393654,nonemergent/noninvasive positive pressure ventilation (nppv) / hour,1,other
+393655,nonexcisional debridement of skin and subcutaneous tissue,1,procedure
+393656,nonincisional drainage of respiratory tract,2,procedure
+393657,noninvasive ear or pulse oximetry (separate procedure) stand alone setup,1,other
+393658,noninvasive ear or pulse oximetry for oxygen saturation; by continuous overnight monitoring,1,supplies
+393659,noninvasive ear or pulse oximetry for oxygen saturation; single determ,1,supplies
+393660,noninvasive ear or pulse oximetry for oxygen saturation;by continuous,1,supplies
+393661,noninvasive ear/pulse oximetry single deter,1,other
+393662,noninvasive prenatal screening (nips,1,lab_test
+393663,noninvasive prenatal testing (nipt) (egcrr-nip,1,lab_test
+393664,nonprecious casted crown zircon sirona,1,dental
+393665,nonprecious metal crown pontic full cast,1,dental
+393666,nonsurgical wound swab culture,1,lab_test
+393667,"nontraumatic stupor and coma, majc",1,inpatient
+393668,"nontraumatic stupor&coma, majc",1,inpatient
+393669,"nontraumatic stupor&coma, minc",1,inpatient
+393670,nonvital bleaching/per tooth,1,dental
+393671,"nonwoven dressing,surgical urgoderm/surgifix 20cmx5mtr 501683/640201",1,supplies
+393672,nonwoven surgical dressing 10 x 10 cm,1,supplies
+393673,nonwoven surgical dressing 10 x 15 cm,1,supplies
+393674,nonwoven surgical dressing 10 x 20 cm,1,supplies
+393675,nonwoven surgical dressing 10x15 cm,1,supplies
+393676,nonwoven surgical dressing 10x25 cm,1,supplies
+393677,nonwoven surgical dressing 10x7 cm,1,supplies
+393678,nonwoven tape 10 x 10 m,1,supplies
+393679,nonwoven tape 15 x 10 m,1,supplies
+393680,nonwoven tape 20 x 10 m,1,supplies
+393681,nonwoven tape 5 x 10 m,1,supplies
+393682,non_cont,1,other
+393694,nooratinex,2,other
+393699,nooratinex 60cap,1,other
+393706,nootropil,2,other
+393763,nootropil iv 3gms(e.r medication charges,1,supplies
+393764,nootropil iv 6gms(e.r medication charges,1,supplies
+393779,noractone,3,other
+393862,noradrenaline (urine,1,lab_test
+393873,noraml index white,1,other
+393874,noraml index white p1,1,other
+393877,norditalia aerosol nebulizer,1,supplies
+393878,norditalia nebulizer meganeb,1,supplies
+393896,norepinephrine,3,other
+393897,norepinephrine ( nevoleen ) ampule,1,other
+393898,norepinephrine (noradrenaline,1,other
+393900,norepinephrine (noradrenaline) bitartrate,1,other
+393906,norepinephrine bitartrate,1,other
+393944,norm locking cancellous screw diff.size,1,supplies
+393951,normal,1,other
+393952,normal extraction,8,dental
+393955,normal 1.5,1,other
+393957,normal anterior tooth extraction,1,dental
+393958,normal baby care ( one baby) 1 day,1,supplies
+393959,normal baby care ( one baby) 2 days,1,supplies
+393960,normal baby care for ceasarian section,2,procedure
+393961,normal baby care for normal delivery,2,procedure
+393962,normal baby crib - accommodation,1,eyewear
+393963,normal baby crib - medical supervision,1,consultation
+393964,normal baby nursery care,1,other
+393965,normal belivery twins + normal baby,1,other
+393966,normal car or home delivery (at er / car / home,1,procedure
+393967,normal care for 2nd new born & further(twin)-per day (p.d,1,lab_test
+393968,normal catheter,2,supplies
+393969,normal coated ( sph,1,eyewear
+393970,normal consultant charge,1,consultation
+393971,normal consultation charges,1,consultation
+393972,normal delivary multigravida,1,other
+393973,normal delivery,4,procedure
+393974,normal delivery (no follow up,2,procedure
+393975,normal delivery & normal baby care ( one baby,1,supplies
+393976,normal delivery & normal baby care ( one baby) undefined,1,supplies
+393977,normal delivery & normal baby care (twins,1,procedure
+393978,normal delivery & normal baby care(one baby,1,supplies
+393979,normal delivery &' normal baby care ( one baby,1,supplies
+393980,normal delivery ' normal baby care ( one baby,1,supplies
+393981,normal delivery ' normal baby care ( one baby) 1 day,1,supplies
+393982,normal delivery ' normal baby care ( one baby) 2 days,1,supplies
+393983,normal delivery '&' normal baby care ( one baby,1,supplies
+393984,normal delivery (clinic,1,procedure
+393985,normal delivery (fetal death,2,procedure
+393986,normal delivery (n.s.v.d,1,procedure
+393988,normal delivery (o / s hospital,1,procedure
+393989,normal delivery (painless-epidural anaethesia,1,procedure
+393990,normal delivery (un booked) case,1,procedure
+393991,normal delivery (with normal baby,3,procedure
+393992,normal delivery + baby care,4,procedure
+393993,normal delivery + baby care ( not inclusive of bicu or phototherapy,1,procedure
+393994,normal delivery + baby care ( one day hospital stay &baby neonatal care,2,supplies
+393995,normal delivery + baby care (2 day hospital stay + neonatal care) + circumcissio,1,procedure
+393996,normal delivery + baby care (2 day hospital stay + neonatal care) - 2 days,1,procedure
+393997,normal delivery + baby care (one day hospital stay & neonatal care) - 1 day,1,supplies
+393998,normal delivery + baby care (two day hospital stay & neonatal,1,procedure
+393999,normal delivery + baby care + removal placenta under g.a,1,procedure
+394000,normal delivery + baby care - 1 day,1,procedure
+394001,normal delivery + baby care - 1 day (a,1,procedure
+394002,normal delivery + baby care - 1 days,1,procedure
+394003,normal delivery + baby care - 2 days,1,procedure
+394004,normal delivery + baby care 2 days -b,1,procedure
+394005,normal delivery + baby care 2 days,1,procedure
+394006,normal delivery + baby care- 1 day (+ sr 500 baby care,1,procedure
+394007,normal delivery + baby care- 2 days (+ sr 500 baby care,1,procedure
+394009,normal delivery + epidural,2,procedure
+394010,normal delivery + normal baby care,2,procedure
+394011,normal delivery + normal baby care (one baby only,1,supplies
+394012,normal delivery + normal baby care(one baby) - first class,1,supplies
+394014,normal delivery +/- episiotomy 1d,1,procedure
+394015,normal delivery +baby care-2da,1,procedure
+394016,normal delivery - 2 days pkg,1,procedure
+394017,normal delivery - epidural anastheasia,1,procedure
+394018,normal delivery - shared,1,procedure
+394019,normal delivery 2days,1,procedure
+394020,normal delivery and baby care,1,procedure
+394021,normal delivery and normal baby care ( one baby) 1 day,2,supplies
+394022,normal delivery and normal baby care ( one baby) 2 days,2,supplies
+394023,normal delivery baby care,1,procedure
+394024,normal delivery baby care ( one baby,1,supplies
+394025,normal delivery bleeding+sutur,1,lab_test
+394026,normal delivery doctor fees,1,procedure
+394027,normal delivery fetal death,1,procedure
+394028,normal delivery for iufd,1,procedure
+394029,normal delivery for previous scar,1,procedure
+394030,normal delivery for previous scar (vbac,1,procedure
+394031,normal delivery for twin babies,1,procedure
+394032,normal delivery for twins,1,procedure
+394033,normal delivery for twins babies,1,procedure
+394034,normal delivery multi gravida,1,procedure
+394035,normal delivery multigravida,1,procedure
+394036,normal delivery normal baby care ( one baby,1,supplies
+394037,normal delivery normal baby care ( one baby) 2 days,1,supplies
+394038,normal delivery of iufd,1,procedure
+394039,normal delivery or assited + baby care,2,procedure
+394040,normal delivery or assited + baby care [80% of package,1,procedure
+394041,normal delivery or vacuum deli,1,procedure
+394042,normal delivery or vacuum delivery,1,procedure
+394043,normal delivery package,2,procedure
+394044,normal delivery pd,1,procedure
+394045,normal delivery primigavidarum,1,procedure
+394046,normal delivery primigravidarum,1,procedure
+394047,normal delivery single baby,2,procedure
+394048,normal delivery single baby with induction of labour- (pkg.dl,1,procedure
+394049,normal delivery twins,1,procedure
+394050,normal delivery twins - 2 days pkg,1,procedure
+394051,normal delivery w/episiotomy,1,procedure
+394052,normal delivery w/o epesiotomy,1,procedure
+394053,normal delivery with baby care,3,procedure
+394054,normal delivery with baby general care,1,procedure
+394055,normal delivery with epesiotomy,1,procedure
+394056,normal delivery with episotomy,1,procedure
+394057,normal delivery with exploration and suturing of vaginal or - 2 days pkg,1,procedure
+394058,normal delivery with exploration and suturing of vaginal or cervical tear with,1,imaging
+394059,normal delivery with forceps or vacum,1,procedure
+394060,normal delivery with newborn screening package (shared room) - 2days pkg,1,lab_test
+394061,normal delivery with normal baby - booked patient- (p.d,1,procedure
+394062,normal delivery with normal baby- unbooked- p.d,1,procedure
+394063,normal delivery with removal of placenta under ga - 2 days pkg,1,procedure
+394064,normal delivery with vaccum-forceps-episiotomy with baby care - 2 days,1,procedure
+394065,normal delivery with/without eoisiotomy,1,procedure
+394066,normal delivery without a.n.c. - 1 day pkg,1,procedure
+394067,normal delivery without episiotomy - 952005,1,procedure
+394068,normal delivery and normal baby care ( one baby,1,supplies
+394071,normal delivery(pkg,1,procedure
+394073,normal delivery+ normal baby care (one baby)1-2 days,1,supplies
+394075,normal delivery+baby care (one day hospital stay & neonatal care,1,supplies
+394076,normal delivery+baby care(2 days hospital stay&neonatal care,2,procedure
+394077,normal delivery+baby care(two day hospital stay& neonata l c,1,procedure
+394078,normal delivery+normal baby care,1,procedure
+394079,normal delivery+normal baby care (1baby,1,procedure
+394080,normal delivery-additional baby born with newborn screening package,1,lab_test
+394082,normal delivery/ga,1,procedure
+394083,normal dental extraction,1,dental
+394084,normal dentist charge,2,consultation
+394086,normal dressing,2,supplies
+394087,normal ext. lower 3rd molar,1,dental
+394088,normal ext. lower third molar,1,dental
+394089,normal ext. upper 3rd molar,1,dental
+394090,normal external lower 3rd molar,1,dental
+394091,normal external upper 3rd mollar,1,other
+394093,normal extraction (anterior adult,1,dental
+394094,normal extraction (pedo,1,dental
+394095,normal extraction (posterior adult,1,dental
+394098,normal extraction lower third molar,1,dental

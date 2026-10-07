@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+640505,zxgami zx 1023,1,other
+640509,zygmatic maxillary complex fracture,1,other
+640510,zygomatic arch,3,dental
+640511,zygomatic arch 2 views,2,dental
+640513,zygomatic arch or maxilla,1,dental
+640514,zygomatic arch unilateral x-ray 2 views,1,imaging
+640515,zygomatic arches - 2 views,3,imaging
+640516,zygomatic archs - 1 view,1,imaging
+640517,zygomatic archs - 2 views,1,imaging
+640518,zygomatic bone fracture,1,imaging
+640539,zylone,3,other
+640653,zyloric,1,other
+640749,zymoforte (dietary supplement,1,other
+640751,zymoforte dietary supplement,1,other
+640752,zymoilight,1,other
+640754,zymolight 30tab,1,other
+640755,zymolight chew 30tab,2,other
+640831,zyrcon crown per unit,1,dental
+640834,zyrosa 10 28tab,1,other
+641194,zakaria habib,1,other
+641220,zantacinj,1,other
+641237,zeihl neelsen stain,1,other
+641239,zeiss 1.50 light d short dvs,1,eyewear
+641240,zeiss 1.50 s.v dv blue protect 5676,1,eyewear
+641241,zeiss 1.50 s.v dvd 5816,1,eyewear
+641242,zeiss 1.50 s.v dvs 2460,1,eyewear
+641243,zeiss 1.50 s.v lt (1406,1,eyewear
+641244,zeiss 1.50 s.v sph dvs rx (1395,1,eyewear
+641245,zeiss 1.50 sv dv blue protect 5676,1,eyewear
+641246,zeiss 1.50photofusion sph(+3.00/-4.00)cyl( -0.25/-3.00) s-extra,1,eyewear
+641247,zeiss 1.53 fsv as dvp uv,1,eyewear
+641248,zeiss 1.53 s.v sph dvs 5673,1,eyewear
+641249,zeiss 1.60 s.v dv drive.safe,1,eyewear
+641250,zeiss 1.60 s.v dvs,1,eyewear
+641251,zeiss 1.60 s.v lt,1,eyewear
+641252,zeiss 1.60 s.v sph dvs 1401,1,eyewear
+641253,zeiss 1.60 sv dv blue protect 5677,1,eyewear
+641254,zeiss 1.67 s.v dvs,1,eyewear
+641255,zeiss blue cot1.56 sph(+4.00/-6.00)cyl (-0.25/-2.00 ) bcc,1,eyewear
+641256,zeiss plastic hmc 1.5 up to group 62,1,eyewear
+641257,zeiss sv 1.50clearview blueguard dvp uv st,1,eyewear
+641258,zeiss sv 1.50clearview dvc uv st,1,eyewear
+641259,zeiss sv 1.6 clearview optical lenses,1,eyewear
+641260,zeiss sv 1.60clearview blueguard dvp uv st,1,eyewear
+641261,zeiss sv 1.67 clearview optical lenses,1,eyewear
+641262,zeiss germany multicoat,1,eyewear
+641263,zeiss germany1.6 multicoat,1,eyewear
+641264,zeiss-1.53-trivex hd,1,eyewear
+641265,zeiss-1.53-trivex individual dvs,1,eyewear
+641266,zeiss-blue-1.5-protect,1,eyewear
+641267,zeiss-prog 1.5 classic dvs,1,eyewear
+641268,zeiss-prog 1.6 classic dvs,1,eyewear
+641269,zeiss-prog-1.53-trivex individual 2 dvs,1,eyewear
+641270,zeiss-prog-1.53-trivex superb dvs,1,eyewear
+641271,zeiss1.56 sph(+4.00/-6.00)cyl (-0.25/-2.00 ) hcc,1,eyewear
+641282,zen-o portable oxygen concentrator,1,supplies
+641285,zenasif 1.5,1,other
+641286,zencin,1,other
+641299,zencin blister (3,1,supplies
+641316,zercom crown,1,dental
+641320,zercone crown,2,dental
+641321,zero tip nitinol retrieval basket f1.9,1,other
+641322,zeroconsultation,1,other
+641324,zersa,1,other
+641375,zertazine10mg20tab,2,other
+641377,zertazine10mg10tabs,1,other
+641378,zertazinesyrup100ml,1,other
+641406,zestril10mg28tab,1,other
+641407,zestril5mg28tab,1,other
+641471,zetron250mg6cap,1,other
+641477,zeyad bdelaziz elsayed elmasry,1,other
+641488,ziehil-nielsen stain (afb,1,lab_test
+641489,ziehl-neelsen stain for afb,1,lab_test
+641490,ziess lototic,1,other
+641491,ziess rx s.v 1.5 blue guard,1,eyewear
+641492,ziess rx s.v 1.5 clear view dv silver blue guard,1,eyewear
+641493,ziess rx s.v 1.5 smart life dv silver blue guard,1,eyewear
+641494,ziess rx s.v 1.5 clear,1,eyewear
+641495,ziess rx s.v 1.5 clear clear view dv silver,1,eyewear
+641496,ziess rx s.v 1.5 clear digital smart life dv silver,1,eyewear
+641497,ziess rx s.v 1.5 clear smart life dv silver,1,eyewear
+641498,ziess rx s.v 1.53 clear,1,eyewear
+641499,ziess rx s.v 1.6 clear view dv silver blue guard,1,eyewear
+641500,ziess rx s.v 1.6 clear,1,eyewear
+641501,ziess rx s.v 1.6 clear clear view dv silver,1,eyewear
+641502,ziess rx s.v 1.67 clear view dv silver blue guard,1,eyewear
+641503,ziess rx2 in.d 1.74 clear office lens ind dv silver clear,1,eyewear
+641504,ziess rx2 s.v 1.5 blue guard,1,lab_test
+641505,ziess rx2 s.v 1.5 digital smart life dv silver blue guard,1,lab_test
+641506,ziess rx2 s.v 1.5 clear,1,lab_test
+641507,ziess rx2 s.v 1.5 clear clear view dv silver,1,imaging
+641508,ziess rx2 s.v 1.5 clear digital smart life dv silver,1,lab_test
+641509,ziess rx2 s.v 1.5 clear digital smart life ind dv silver,1,lab_test
+641510,ziess rx2 s.v 1.5 clear smart life dv silver,1,lab_test
+641511,ziess rx2 s.v 1.5 clear smart life ind dv silver,1,lab_test
+641512,ziess rx2 s.v 1.53 clear clear view dv silver,1,imaging
+641513,ziess rx2 s.v 1.53 clear smart life dv silver,1,lab_test
+641514,ziess rx2 s.v 1.6 clear,1,lab_test
+641515,ziess rx2 s.v 1.6 clear clear view dv silver,1,imaging
+641516,ziess rx2 s.v 1.6 clear smart life dv silver,1,lab_test
+641517,ziess rx2 s.v 1.67 smart life ind dv silver blue guard,1,lab_test
+641518,ziess stock s.v 1.5 clear view dv platinum blue guard,1,imaging
+641519,ziess stock s.v 1.5 clear clear view dv chrome,1,imaging
+641520,ziess stock s.v 1.5 clear clear view dv silver,1,imaging
+641521,ziess stock s.v 1.53 clear dv platinum,1,lab_test
+641522,ziess stock s.v 1.6 clear view dv platinum blue guard,1,imaging
+641523,ziess stock s.v 1.6 clear clear view dv chrome,1,imaging
+641524,ziess stock s.v 1.6 clear clear view dv silver,1,imaging
+641525,ziess stock s.v 1.67 clear view dv platinum blue guard,1,imaging
+641526,ziess stock s.v 1.67 clear clear view dv chrome,1,imaging
+641527,ziess stock s.v 1.67 clear clear view dv silver,1,imaging
+641528,ziess stock s.v 1.74 clear view dv platinum blue guard,1,imaging
+641529,ziess stock s.v 1.74 clear clear view dv chrome,1,imaging
+641530,zika hemorrhagic fever screen moh,1,other
+641581,zimax200mgsusp15ml,1,other
+641582,zimax250mg6cap,1,other
+641664,zinc963,1,other
+641671,zink in serum,1,lab_test
+641710,zinnat500mg10tab,1,other
+641711,zinnat500mgtab,1,other
+641712,zinnat500mg10tabs*new,1,other
+641734,zinoxime,1,other
+641786,zinoximor500mg14tab,1,other
+641787,zinoximor500mg14tabs,1,other
+641797,zircon,2,other
+641800,zircon crown + 1 for 20 sar,1,dental
+641801,zircon crown per unit,1,dental
+641802,zircon crown for one unit,1,dental
+641804,zircon implant,1,supplies
+641807,zirconia crown & veneer (full package per tooth)-bupa,1,dental
+641808,zirconia crown@,1,dental
+641809,zirconia post & core,1,dental
+641811,"zirconium fused to ceramic crown, indirect",2,dental
+641813,zirconium crown 1,1,dental
+641814,zirconium crown-7028,1,dental
+641816,zirconium crown / birdge (each unit,1,dental
+641817,zirconium crown / bridge (each unit,1,dental
+641818,zirconium crown /bridge) each unit,1,dental
+641819,"zirconium crown, indirect",1,dental
+641820,zirconium fused ceramic crown. indirect,1,dental
+641822,zirconium fused to ceramic crown indirect,1,dental
+641823,zirconium fused to ceramic crown indirect; per crown,1,dental
+641825,"zirconium fused to ceramic crown, indirect per crown",1,dental
+641827,zirecon crown,1,dental
+641828,ziricon crowun,1,other
+641916,zithromax200mgsusp15ml,2,other
+641918,zithromax250mg6cap,2,other
+641922,zithromax400mg10mlsusp30ml,1,other
+641923,zn,1,other
+641927,"zn stain (afb detection) x 3 sample,iqma",1,lab_test
+641944,zocin250mg6cap,2,other
+641950,zocor20mg28tab,1,other
+642019,zoom 3 bleaching technique,1,dental
+642021,zoren,1,other
+642067,zostivr,1,other
+642188,zovirax200mg5mlsusp125ml,2,other
+642189,zovirax200mg25tab,1,other
+642191,zovirax200mg25tabs lasa,1,other
+642192,zovirax400mg70tab,1,other
+642193,zovirax400mg70tabs*new lasa,1,other
+642194,zovirax5%cream10g,1,other
+642195,zovirax5%cream2gm.lip,1,other
+642196,zovirax5%skincream10gm,1,other
+642197,zoviraxcreamtube2g,1,other
+642198,zoxta,1,other
+642199,zufran,1,other
+642325,zygmatic bones 2 views,1,imaging
+642329,zygomatic arch 2 fs townes & water,2,dental
+642330,zygomatic view,1,imaging
+642332,zylocaine for local anasthesca (med,2,other
+642334,zylocaine for local anasthesca (med)-zylocaine for local anasthesca (med,1,other
+642350,zylone 0.3,1,other
+642358,zylone 15,1,other
+642416,zymolight (zymolight,1,other
+642497,zyrtec0.1%syrup75ml,1,other
+642499,zyrtec10mg10tab,2,other
+642501,zyrtec10mg10tabs*new,1,other
+642511,b u n [urea,1,lab_test
+642512,cholesterol [ h d l,1,lab_test
+642513,hcg [quantitative,1,lab_test
+642514,obstetric u.s.[repeated,1,consultation
+642515,preg. test [serum,1,lab_test
+642516,stool [occutt blood,1,lab_test
+642517,urine [bilirubin,1,lab_test
+642518,wbc [total,1,lab_test
+642519,wbc [total (5216,1,lab_test
+642527,110-276-13] rotarix,1,other
+642529,12-828-20] prevenar,2,other
+642535,124-276-15] boostrix,1,other
+642536,1406210789] vaxigriptetra,1,other
+642544,"3-20-19] - measles, mumps, rubella (mmr) vaccine",1,lab_test
+642545,3-20-19] measels,2,other
+642547,"30055-00-30] - dressing of wound, large",1,supplies
+642551,"73050-30-40] - measurement of total protein in serum, plasma or blood",1,lab_test
+642552,73050-41-10] - quantitative urine culture and colony count for bacteria,1,lab_test
+642553,73050-42-80] - culture and typing by other methods,1,lab_test
+642554,73100-00-90] - automated complete blood count (cbc,1,lab_test
+642555,"83600-01-90] - assessment by practitioner in alternative medicine, examples - homeopathy, acupuncture",1,consultation
+642556,"83620-00-00] - include all medical services and transportation - supportive services, home care : includes physiotherapy, speech therapy, occupational therapy, respiratory therapy. exclude medication, consumables and equipment which will be paid separately. billed on daily basis each day is for 8 hours work (nurses fixed fee for a day time",1,physiotherapy
+642557,83620-00-60] - home assessment for diagnosis treatment and counselling of a new or established patient by specialist-1,1,consultation
+642559,90067-00 c] intacs corneal ring (one ring,1,supplies
+642562,91-276-12] havrix,1,other
+642563,92150-00-00] opv,1,other
+642566,94-276-12] priorix,1,other
+642567,95-276-12] varilirix,3,other
+642570,96028-00-00] - home management assessment,1,consultation
+642572,blood suger [one touch,1,lab_test
+642573,c.c.duplex us of arterial system [one limb,1,supplies
+642574,c.c.duplex us of veinous system [both limbs,1,imaging
+642575,c.c.duplex us of veinous system [one limb,1,supplies
+642576,car0003] continous ecg monitoring,1,diagnostic
+642577,che0005] albumi,1,other
+642578,che00082] ferriti,1,other
+642579,che00119] psa-prostatic specific antigen (local,1,lab_test
+642580,che00130] tsh,1,lab_test
+642582,che0013] bun (urea,1,lab_test
+642584,che0017] cholesterol total,1,lab_test
+642585,che0021] creatinine,1,lab_test
+642586,che0030] hbaic - glycoselated haemoglobi,1,lab_test
+642587,che0031] hdl ( high density lipoprotein,1,lab_test
+642588,che0035] ldl ( low density lipoprotein,1,lab_test
+642590,che0048] sgot/ast,1,lab_test
+642591,che0049] sgpt/alt,1,lab_test
+642592,che0050] sodium,1,lab_test
+642594,cn001] er / gp physician,1,consultation
+642595,cn002] gp physician,1,consultation
+642596,cn003] gastro specialist physician,1,consultation
+642597,cn003] specialist physician,1,consultation
+642598,cn004] dental consultation,1,dental
+642599,cn005] consultant physician,1,consultation
+642600,cn006] cardiology sr specialist physician,1,consultation
+642601,cn006] senior consultant physician,1,consultation
+642602,cholesterol [ l d l,1,lab_test
+642603,cholesterol [ total,1,lab_test
+642604,cholesterol [ total (5016,1,lab_test
+642605,"dr. fees] fine surgeries | pelvic adhesiolysis,excessiv",1,consultation
+642606,dr. fees] major surgeries | endoscopic dilatatn of ureter,1,procedure
+642607,dr. fees] minor surgeries | biopsy of soft tissue,1,procedure
+642608,dr. fees] minor surgeries | enucleation of small cyst,1,consultation
+642609,dr. fees] minor surgeries | extraction of impacted roots,2,dental
+642610,dr. fees] minor surgeries | impacted third molar mild case,1,dental
+642611,dr. fees] minor surgeries | impacted third molar moderate case,1,dental
+642612,dr. fees] minor surgeries | induction of labour,1,consultation
+642613,dr. fees] minor surgeries | removal of teeth (partialy bony,1,dental
+642614,dr. fees] minor surgeries | removal of tooth (partially bony,1,dental
+642615,dr. fees] minor surgeries |incision and drainage intraoral abcess - adult,1,procedure
+642616,"dr. fees] moderate surgeries | gastrostomy , colostomy",1,procedure
+642617,ear suction [one ear (122,1,supplies
+642618,ear suction [one ear,1,supplies
+642619,hem0004] cbc - complete blood count,1,lab_test
+642620,"hhc4] home visit , gp + nurse",1,consultation
+642621,"hhc6] home visit , physiotherapist",1,consultation
+642622,haemobiobin [hgb,1,other
+642624,"ort0003] physiotherapy session inclusive(massag,shortwaive",1,physiotherapy
+642625,protein [total,1,lab_test
+642626,pulpectomy for decidous [two stages,1,dental
+642627,ser0021] c-reactive protein - qualitative,1,lab_test
+642628,sgot [ ast,1,lab_test
+642629,sgpt [alt,1,lab_test
+642630,sgpt [alt (5013,1,lab_test
+642631,ultrasound [1 organ,1,imaging
+642632,urine [albumin,1,lab_test
+642633,wbc [diff,1,lab_test
+642634,xry0040] chest - 1 view,1,imaging
+642641,_dextrose_5%_normal_saline,1,other
+642642,_symbicort(80/4.5)turbuhaler_,1,other
+642655,`,1,other
+642656,`cbc,1,lab_test
+642658,`sgot,1,lab_test
+642659,a amylase,1,lab_test
+642660,a big replace for wound,1,other
+642662,a general item to describe surgical procedures for removal or repair of soft tissues not necessaril,1,procedure
+642663,a lax 30tab,1,other
+642664,a limited evaluation of the dentition mouth and associated structures performed on a patient. this m,1,consultation
+642665,a lka-ur eff 10 sachites,1,other
+642667,a non-invasive test used to determine the clinical status of the pulp. it involves the application,1,lab_test
+642668,a physiotherapy session,1,physiotherapy
+642675,a procedure where an exposed pulp is directly covered with a protective dressing or cemen,1,dental
+642676,a root canal or at the time of extraction,1,dental
+642678,a superficial filling for 1 tooth,1,dental
+642681,a-g ratio - albumin - globulin,1,lab_test
+642682,a-lax,1,other
+642685,a.b.o group+rh,1,lab_test
+642686,a.e pop slab,1,supplies
+642687,a.e. plaster cast,1,supplies
+642688,a.f,1,lab_test
+642689,a.k. plaster cast,1,supplies
+642698,a.s.o.t. 526,1,lab_test
+642701,a.v fistula angioplasty using 3 balloon,1,supplies
+642711,aaaaaaaaaaa,1,other
+642712,abass drainage,1,procedure
+642714,abbottmasculararmad,1,other
+642716,abcess (i.d)+ dressing,1,supplies
+642717,abcess (i.d)+ dressing 253,1,supplies
+642718,abcess (id) + dressing,1,supplies
+642719,abcess drain,1,other
+642721,abcess drainage/irrigation,1,procedure
+642724,abcess incision with ga,1,procedure
+642725,abcess opening - dental,1,dental
+642727,abcesses drainage operation,1,procedure
+642728,"abd upper(liver,gall bladder, pancreas",1,other
+642731,abdo-pelvic u.s,1,imaging
+642736,abdomen & pelvis 1550,1,other
+642739,abdomen (x ray,2,imaging
+642740,abdomen (ap and lateral) or (supine & erect) 2 vie,1,imaging
+642743,abdomen (erect) 1 view,1,imaging
+642747,abdomen - erect,1,imaging
+642748,abdomen - upper,1,other
+642749,abdomen / supine& erect,1,other
+642754,abdomen 2 view(kub,1,imaging
+642756,abdomen and plvis ultrasound,1,imaging
+642759,abdomen erect 1634,1,imaging
+642763,abdomen one view(kub,1,imaging
+642764,abdomen one view-k.u.b,1,supplies
+642769,abdomen ultra songraphy,1,other
+642771,abdomen upper-abdomen upper,1,other
+642772,abdomen upricht 1v,1,imaging
+642776,abdomen& pelvis u/s,1,imaging
+642777,abdomen- x ray for one view,1,imaging
+642778,abdomen/erect/1f,1,other
+642780,abdomencompleteincluding decubitus & erect,1,other
+642788,abdominal fibroid excesion,1,other
+642789,abdominal pelvic u/s,1,imaging
+642790,abdominal pelvic pregnancy,1,other
+642793,abdominal u/s upper,1,imaging
+642796,abdominal uls,1,other
+642803,abdominal-ultrasound,1,imaging
+642804,abdominalu/s,1,other
+642806,abdominol pelvic u/s,1,imaging
+642810,abo grouping,1,lab_test
+642811,abo grouping and rho (d) typing,1,lab_test
+642815,above elbow or foot cast(adult,1,supplies
+642816,above elbow or foot cast(chil,1,supplies
+642817,above elbow or foot slap(adult,1,procedure
+642818,above elbow or foot slap(chil,1,procedure
+642820,above below slap,1,procedure
+642822,above elbow cast (dynacast,1,supplies
+642823,above elbow cast (ace) children,1,supplies
+642824,above elbow cast (aec) adult,1,supplies
+642825,above elbow cast (aec) children,1,supplies
+642826,above elbow cast - children,1,supplies
+642828,above elbow cast dyna,1,supplies
+642830,above elbow fiber blast,1,other
+642833,above elbow p.o.p- gibsona,1,lab_test
+642834,above elbow p.o.p. - gysona,1,lab_test
+642835,above elbow p.o.p. gibsona,1,lab_test
+642836,above elbow plaster splint - children ( gypsona,1,supplies
+642837,above elbow plastic slab,1,eyewear
+642839,above elbow pop.gibsona,1,supplies
+642840,above elbow post slap adult,1,procedure
+642844,above elbow splint - adult,1,supplies
+642845,above elbow splint - child,1,supplies
+642847,above knee cast (akc) adult,1,supplies
+642848,above knee cast ??? ??? ?????? (????????,1,supplies
+642850,above knee cast(child,1,supplies
+642851,above knee fiber-plast,1,other
+642855,above knee slab(adult,1,supplies
+642856,above knee slab(child,1,supplies
+642858,above knee splint - adult,1,supplies
+642859,above knee splint - child,1,supplies
+642860,above the elbow normal,1,other
+642861,above the knee cast - children,1,supplies
+642862,above-elbow cast,1,supplies
+642863,above-knee cast,1,supplies
+642864,absces incission,1,other
+642870,abscess drain in vital erea - 471,1,procedure
+642871,abscess drain in vital erea - 472,1,procedure
+642873,abscess drainage large abscess,1,procedure
+642874,abscess drainage under local anaethesia,1,procedure
+642876,abscess drainage- large,1,procedure
+642877,abscess drainage-dental,1,dental
+642878,abscess drainege,1,procedure
+642881,abscess draninage under local anesthsia,1,procedure
+642883,abscess evac,1,procedure
+642884,abscess evac.(l.a,1,procedure
+642885,abscess excision la,1,procedure
+642887,abscess incision & drainage (i & d) intraoral,1,procedure
+642888,abscess incision intraoraly,1,procedure
+642889,abscess incisioness intraoraly,1,procedure
+642892,abscess pubic region ( incision & drainage)& فتح خراج فى مناطق نسائية,1,procedure
+642894,abscess therapy ( surgical,1,physiotherapy
+642895,absess draing with dressing,1,supplies
+642896,absess drainge,1,procedure
+642897,absess incision l.a,1,procedure
+642906,according to the case there is many culture and sensitivity,1,lab_test
+642907,accu check inestant strips,1,supplies
+642908,accu check active,1,supplies
+642909,accu check inestant instrument,1,supplies
+642911,accu chek instant strips 50pk,1,supplies
+642912,accu chek instant system,1,supplies
+642913,accu chek lancet,1,supplies
+642914,accu chek safe-pro uno200pcs,1,supplies
+642915,accu instant strips,1,supplies
+642916,accu- check fastclix 102 performa,1,supplies
+642917,accu-chek activ 50strep,1,supplies
+642919,accu-chek instant 50strep,1,supplies
+643010,acretin .05%,1,other
+643011,acretin 0.025 cr,1,other
+643027,acrylic complete denture (two arches,1,dental
+643029,actacell,1,other
+643031,acth (am pm,1,lab_test
+643032,acth (am-pm,1,lab_test
+643037,activated p. t,1,other
+643040,active non-surgical periodontal therapy - per quad,1,physiotherapy
+643076,acuvue moist,1,eyewear
+643077,acv oasys,1,eyewear
+643081,ad,1,other
+643089,adapalene 0.1% (surecure,1,other
+643090,add filling for fracture port,1,dental
+643091,add metal post,1,other
+643092,added acrylic tooth,1,dental
+643093,addional biopsy,1,procedure
+643094,additional one post per tooth filling,1,dental
+643095,additional one post per tooth filling ????? ??? ??????,1,dental
+643096,additional plain film,1,other
+643097,additional x ray,1,imaging
+643099,adenodectomy,1,procedure
+643102,adenomyosis of plural,1,other
+643104,adh(antidiuretic horm1,1,other
+643106,adhesive elastic bandage for ankle,1,supplies
+643111,adhesive restoration four surfaces anterior tooth directan adhesive technique and a tooth-colo,1,dental
+643114,adhesive restoration four surfaces posterior tooth directn adhesive technique and a tooth-colo,1,dental
+643117,adhesive restoration one surface anterior tooth directan adhesive technique and a tooth-colour,1,dental
+643121,adhesive restoration one surface posterior tooth directn adhesive technique and a tooth -colou,1,dental
+643123,adhesive restoration one surfaces posterior,1,dental
+643124,adhesive restoration three surfaces anterior,1,dental
+643127,adhesive restoration three surfaces anterior tooth directree surfaces anterior tooth direct,1,dental
+643132,adhesive restoration two surfaces posterior,1,dental
+643138,adhesive restoration 3 surfaces anterior tooth direct,1,dental
+643139,adhesive restoration 4 surfaces anterior tooth direct,1,dental
+643141,adhesive restoration four surface anterior,1,dental
+643142,adhesive restoration four surface anterior tooth d,1,dental
+643143,adhesive restoration four surface posterior,1,dental
+643146,"adhesive restoration of posterior tooth, 1 surfac",1,dental
+643147,"adhesive restoration of posterior tooth, 2 surfac",1,dental
+643148,adhesive restoration one surface anteirior,1,dental
+643152,adhesive restoration three surface anterior,1,dental
+643154,adhesive restoration three surface posterior,1,dental
+643155,adhesive restoration tow surface anteirior,1,dental
+643156,adhesive restoration tow surface posterior,1,dental
+643161,adhesive restoration - four surfaces - posterior tooth - direct,1,dental
+643168,adhesive restorationh three surfaces anterior tooth direct,1,dental
+643169,adhesive technique - tooth-coloured material involving one surface of an anterior tooth,1,dental
+643174,adiography chest 1 view,1,imaging
+643175,adiography chest 2 view,1,imaging
+643176,adiography of ribs unilateral,1,imaging
+643177,"adjustment of a denture to improve comfort, function or aesthetics. this item does not apply to rou",1,lab_test
+643179,"admin therapeutic agt in post chamber , unilateral",1,consultation
+643180,admin%20of%20mmrv%20vaccine,1,consultation
+643181,admin%20of%20poliomyelitis%20vaccine,1,consultation
+643182,administered by nebuliser,1,supplies
+643183,administration of iv fulid,1,supplies
+643186,admission 24 hours,1,consultation
+643187,admission screening profile (rectal - candida auris,1,lab_test
+643188,admission screening profile (rectal - candida auris - mrsa,1,lab_test
+643189,admission request regular 1,1,consultation
+643302,adol100mg drops15ml,1,other
+643320,adrenlin.subct,1,other
+643321,adrenln.subct,1,other
+643324,advanced extraction,1,dental
+643325,advanced life support ambulance response,1,supplies
+643326,advanced surgical extraction,1,dental
+643339,advil cold &sinus tap,1,procedure
+643342,advil cold and sinus caplet 20tab,1,procedure
+643370,aerocahamber infant orenge plus small,1,other
+643372,aerochamber with mask for children,1,supplies
+643373,aerofamily nebulizer,1,supplies
+643374,aerosol therapy,1,physiotherapy
+643382,afo kids 7 - 12 y/o,1,other
+643384,after duty consultation,1,consultation
+643386,aggressive surgical debridement,1,procedure
+643443,agout40mg 30tab,1,other
+643444,agout80,1,other
+643445,agyl,1,other
+643446,ahkle 2view,1,other
+643450,aids examination/ hiv i&ii,1,consultation
+643454,aip,1,other
+643503,airfast10mg,1,other
+643506,alanine amino transferase (alt) (sgpt,1,lab_test
+643507,alanine aminotransferase gpt (alt,1,lab_test
+643524,albumin /creatinine ratio acr,1,lab_test
+643525,albumin 582,1,lab_test
+643528,albumin human 20%,1,lab_test
+643531,albumin in 24 hour urine,1,lab_test
+643534,albumin/globulin ratio(a/g ratio,1,lab_test
+643535,albumina urine,1,lab_test
+643536,albumon,1,other
+643541,alcohol swab 70%,1,lab_test
+643542,alcohol pads 100pcs,1,supplies
+643545,alcohol swab 100 pcs pmc,1,lab_test
+643547,alcohol swab 200 amext,1,lab_test
+643549,alcohol swab pads 100 pcs ( bupa,1,lab_test
+643550,alcohol swab pads 200 pcs ( bupa,1,lab_test
+643553,alcohol swabs mocare,1,other
+643554,alcohol swahs box,1,other
+643556,alcohol swap m,1,other
+643612,alfosin xr,1,imaging
+643623,algesal cr,1,other
+643624,alierfen ((service fee,1,consultation
+643626,alk. phosephatase,1,other

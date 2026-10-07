@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+282671,histo-cd25,1,other
+282672,histo-cd33,1,other
+282673,histo-cd63,1,other
+282674,histo-cd71,1,other
+282675,histo-ck10,1,other
+282676,histo-ck17,1,other
+282677,histo-ck19,1,other
+282678,histo-ck5,1,other
+282679,histo-ck5/6,1,other
+282680,histo-diagnostic - biopsy,2,procedure
+282681,histo-gata-3,1,other
+282682,histo-glut-1,1,other
+282683,histo-glycophorin-a,1,other
+282684,histo-large excision spec,1,procedure
+282685,histo-medium excision spec,1,procedure
+282686,histo-melanoma triple cocktail,1,other
+282687,histo-muc-4,1,other
+282688,histo-muc-6,1,other
+282689,histo-mum-1,1,other
+282690,histo-myo d-1,1,other
+282691,histo-olig 2,1,other
+282692,histo-p40,1,other
+282693,histo-path ( largel,1,other
+282694,histo-path ( small,1,other
+282695,histo-podoplamin d2-40,1,other
+282696,histo-psma,1,other
+282697,histo-small excision spec,1,procedure
+282698,histo-sox-11,1,other
+282699,histo-tp53,1,other
+282700,histoacryl blue for f.var 0.5mi-per pcs,1,other
+282701,histochemistry,1,other
+282702,histofen,3,other
+282746,histofen syrp,1,other
+282773,histological stain - s.o,1,lab_test
+282774,histology & histochemistry strainin,1,other
+282775,histology exam,1,other
+282776,histology processing only for tissues (outside ref,1,other
+282777,histology special stain,1,other
+282778,histology- frozen section,1,other
+282779,histology- large specimen,1,other
+282780,histology- lymph node ( ihc,1,other
+282782,histone ab,1,lab_test
+282783,histone ab. - s.o,1,lab_test
+282784,histone abs,2,lab_test
+282785,histone abs (anti histone,1,lab_test
+282786,histone abs( so,1,lab_test
+282816,histop 20tab,4,other
+282817,histop 20tab (03561,1,other
+282818,histop 20tab chloropheniramine,1,other
+282819,histop 20tablet,1,other
+282820,histop 20tablets,1,other
+282821,histop 20tabs,1,other
+282914,histop sy,1,other
+282947,histop syrup100ml,2,other
+283007,histop x20tabs,1,other
+283009,histopat,1,other
+283010,histopath,1,lab_test
+283011,histopath (small,1,lab_test
+283012,histopath / biopsy,1,lab_test
+283013,histopath 2 small specimen,1,lab_test
+283014,histopath large specimen,1,lab_test
+283015,histopath med.specimen,1,lab_test
+283016,histopath resected large specimen,1,lab_test
+283017,histopath soft tissu.lrg.spec,1,lab_test
+283018,histopath soft tissu.lrg.spec-5-7-120403,1,lab_test
+283019,histopath soft tissu.sml spec,1,lab_test
+283020,histopath soft tissu.sml spec-5-7-120402,1,lab_test
+283021,histopath soft tissue medium,1,lab_test
+283022,histopath soft tissue medium-5-7-120435,1,lab_test
+283023,histopath staining,1,lab_test
+283025,histopath-small,1,lab_test
+283026,"histopath., lrge specimen",1,lab_test
+283027,histopath/biopsy,2,lab_test
+283028,histopath/biopsy (large specimen,2,lab_test
+283029,histopath/biopsy (small specimen,2,lab_test
+283030,histopath/biopsy large specm,1,lab_test
+283031,histopath/biopsy multiple specm,1,lab_test
+283032,histopath/biopsy small specm,2,lab_test
+283035,histopath>4 specimen,1,lab_test
+283036,histopatholigy,1,other
+283037,histopathologhy & cytology,1,lab_test
+283038,histopathological analysis,2,procedure
+283039,histopathology,1,lab_test
+283040,histopathology (price per ah no. on report,2,lab_test
+283041,histopathology (price per ah no. on report ) - 333-40434,1,lab_test
+283042,histopathology of biobsy,2,lab_test
+283043,histopathology ( complate organ,1,lab_test
+283044,histopathology ( large specimen,1,lab_test
+283045,histopathology ( medium,1,lab_test
+283046,histopathology ( send out,1,lab_test
+283047,histopathology ( small) of excised mass,1,lab_test
+283049,histopathology (gynae,1,lab_test
+283050,histopathology (gynae)-5-7-120401,1,lab_test
+283053,histopathology (large,1,lab_test
+283054,histopathology (lrg.spec.)tpw ksd[d,1,lab_test
+283055,histopathology (medium,1,lab_test
+283056,histopathology (middle sized specimen,1,lab_test
+283058,histopathology (second opinion,1,lab_test
+283059,histopathology (small specimen,3,lab_test
+283060,histopathology (small,1,lab_test
+283061,histopathology (per ah no.on report,1,lab_test
+283062,histopathology - bony tissue,1,lab_test
+283063,histopathology - each add. bx,1,lab_test
+283064,histopathology - large,1,lab_test
+283065,histopathology - med,1,lab_test
+283066,histopathology - small,1,lab_test
+283067,histopathology - soft tissue,1,lab_test
+283068,histopathology / biopsy more than 5 slides,1,lab_test
+283069,histopathology / biopsy up to 5 slides,1,lab_test
+283070,histopathology / in - p,1,lab_test
+283071,histopathology 1 specimen,1,lab_test
+283072,histopathology 2 small biopsy,1,lab_test
+283073,histopathology 2 specimen (same patient,1,lab_test
+283074,histopathology 3 specimen (same patient,1,lab_test
+283075,histopathology any site,1,lab_test
+283076,histopathology big specim en,1,lab_test
+283077,histopathology big specimen,3,lab_test
+283078,histopathology biopsy ( middle,1,lab_test
+283079,histopathology biopsy (10 to 15 blocks,1,lab_test
+283080,histopathology biopsy (15 to 20 blocks0,1,lab_test
+283081,histopathology biopsy (big or more than 5 blocks,2,lab_test
+283082,histopathology biopsy (big or more than 5 blocks)(15130,1,lab_test
+283083,histopathology biopsy (large,3,lab_test
+283085,histopathology biopsy (mediam,1,lab_test
+283086,histopathology biopsy (medium 5 or more than 5 blocks,1,lab_test
+283087,histopathology biopsy (medium or more than 5 blocks,1,lab_test
+283088,histopathology biopsy (medium,1,lab_test
+283089,histopathology biopsy (single slide,1,lab_test
+283090,histopathology biopsy (small or less than 5 blocks,3,lab_test
+283092,histopathology biopsy (small or less than 5 blocks ??? ???????? ???? ?? ??? ?????,1,lab_test
+283094,histopathology biopsy (small,2,lab_test
+283095,histopathology biopsy 10 to 15 blocks,1,lab_test
+283096,histopathology biopsy 15 to 20 blocks0,1,lab_test
+283097,histopathology biopsy frozen section,1,lab_test
+283098,histopathology biopsy large,1,lab_test
+283099,histopathology biopsy medium,1,lab_test
+283100,histopathology biopsy medium or more than 5 blocks,1,lab_test
+283101,histopathology biopsy small,1,lab_test
+283102,histopathology biopsy small or less than 5 blocks,2,lab_test
+283104,histopathology biopsy-large,1,lab_test
+283105,histopathology biopsy-medium,1,lab_test
+283106,histopathology biopsy-small,1,lab_test
+283107,histopathology bx (15 to 20 blocks0,1,lab_test
+283109,histopathology by special stain,1,lab_test
+283110,histopathology colon or g.i. resection/hysterectomy/mastectomy,1,lab_test
+283111,histopathology complete organ la00410231,1,lab_test
+283112,histopathology core specimen adequacy assessment,1,lab_test
+283113,histopathology for big size biopsy,2,lab_test
+283115,histopathology for cytology smear,2,lab_test
+283117,histopathology for large specimen,1,lab_test
+283118,histopathology for medium specimen,1,lab_test
+283119,histopathology for moderate size biopsy,2,lab_test
+283121,histopathology for pap smear,2,lab_test
+283123,histopathology for small size biopsy,2,lab_test
+283125,histopathology for small specimen,1,lab_test
+283126,histopathology gross only,1,lab_test
+283127,histopathology gynae,1,lab_test
+283128,histopathology jon large.sp + immunohistochimistry,1,lab_test
+283129,histopathology jon small.sp + immunohistochimistry,1,lab_test
+283131,histopathology large,1,lab_test
+283132,histopathology large biopsy,1,lab_test
+283133,histopathology large specimen,2,lab_test
+283134,histopathology large specimen (h.l.s,2,lab_test
+283135,histopathology level1 gross examination only,1,lab_test
+283136,histopathology medicum specimen (h.m.s,2,lab_test
+283137,histopathology medium,1,lab_test
+283138,histopathology medium biopsy,1,lab_test
+283139,histopathology medium specimen,4,lab_test
+283140,histopathology more than 4 specimens,1,lab_test
+283141,histopathology one specimen,1,lab_test
+283142,histopathology one specimen (kfh,1,lab_test
+283143,histopathology radical specimn,1,lab_test
+283144,histopathology report (second opinion,1,lab_test
+283145,histopathology review (slides & blocks,1,lab_test
+283146,histopathology routine large specimen,1,lab_test
+283147,histopathology routine medium specimen,1,lab_test
+283148,histopathology routine small specimen,2,lab_test
+283149,histopathology second opinion,1,lab_test
+283150,histopathology skin biop,1,lab_test
+283151,histopathology skin biopsy,1,lab_test
+283152,histopathology slide reading each specim,1,lab_test
+283153,histopathology small,1,lab_test
+283154,histopathology small biopsy,1,lab_test
+283155,histopathology small specim,2,lab_test
+283156,histopathology small specimen,2,lab_test
+283157,histopathology small specimen (h.s.s,2,lab_test
+283158,histopathology sml. spec,1,lab_test
+283159,histopathology soft tissue,1,lab_test
+283160,"histopathology, gross only",1,lab_test
+283161,histopathology-second opinion,1,lab_test
+283163,histopathology/biopsy large,1,lab_test
+283164,histopathology/biopsy more than 5 slides,2,lab_test
+283165,histopathology/biopsy up to 5 slides,2,lab_test
+283166,histopattological biopsy,1,procedure
+283167,histopattological biopsy 2,1,procedure
+283169,histoplasma galactomannan antigen (urine,1,lab_test
+283170,histoplasmosis - s.o,1,lab_test
+283171,hit (heparin induced thrombocytopenia,1,other
+283172,hit(heparin induced thronbocytopenia,1,other
+283174,hiv 1 + 2,1,lab_test
+283177,hiv ( aids,2,lab_test
+283178,hiv 1 ( w.b. & if,1,lab_test
+283179,hiv 1 antigen ( p24,2,lab_test
+283180,hiv 1 antigen ( p24 ) - 333-40436,1,lab_test
+283181,hiv 1.2,3,lab_test
+283182,hiv 1/2 abs,4,lab_test
+283183,hiv ab (aids) تحليل الأجسام المضادة للإيدز,1,lab_test
+283184,hiv ag/ab 1and2 (aids) [elisa,1,lab_test
+283185,hiv ab's,1,lab_test
+283186,hiv ag/ab,3,lab_test
+283187,hiv confirmation,1,lab_test
+283188,hiv i & ii,3,lab_test
+283190,hiv quant pcr,1,lab_test
+283191,hiv ( 1 & 2) aids test 3rd generation,2,lab_test
+283192,hiv ( 1+2 screening,1,lab_test
+283194,hiv ( elisa,3,lab_test
+283196,hiv ( human immunodeficiency virus,1,lab_test
+283197,hiv (1+2,1,lab_test
+283198,hiv (1+2) ab,1,lab_test
+283199,"hiv (1,2",1,lab_test
+283200,hiv (aids,1,lab_test
+283201,hiv (aids) - elisa,2,lab_test
+283203,hiv (aids) screen,2,lab_test
+283204,hiv (aids) ultra quantitative - pcr,1,lab_test
+283205,hiv (aids) ab's,1,lab_test
+283206,hiv (aids) by elisa,1,lab_test
+283207,"hiv (aids), confirmation",1,lab_test
+283208,"hiv (aids), confirmation(524104",1,lab_test
+283209,"hiv (aids),screen",1,lab_test
+283210,"hiv (aids),screen ??? ????????",1,lab_test
+283211,"hiv (aids),screen(510038",1,lab_test
+283212,hiv (aids)screen,1,lab_test
+283213,hiv (abs 1& 2,1,lab_test
+283214,hiv (eia) # 034-20640,1,lab_test
+283215,hiv (elisa,1,lab_test
+283216,hiv (i&ii,1,lab_test
+283217,"hiv (p24&1,2 abs) combo test",1,lab_test
+283218,hiv (p24,1,lab_test
+283219,hiv (pregnant) (ag+ab,1,lab_test
+283220,hiv (renew iqama) (42016,1,lab_test
+283222,hiv - (1+2) p24 antigen,1,lab_test
+283223,hiv - (human immunodeficiency virus,1,lab_test
+283224,hiv - 1 pcr - s.o,1,lab_test
+283225,hiv - ab,2,lab_test
+283226,hiv - ab (ante natal,1,lab_test
+283227,hiv - aids (elisa,1,lab_test
+283228,hiv - antibodies,1,lab_test
+283230,hiv - combo,1,lab_test
+283231,hiv - elisa,2,lab_test
+283232,hiv - hbs ag - hcv ab,1,lab_test
+283233,hiv - i & ii,2,lab_test
+283234,hiv - i & ii 32020,1,lab_test
+283235,hiv - i and ii,1,lab_test
+283236,"hiv -1 , hiv-2",1,lab_test
+283237,"hiv -1 rna quant(rt-pcr,taqman",1,lab_test
+283238,hiv -1 rna quntitative pcr,1,lab_test
+283239,hiv -1/h i v -2 aids test,1,lab_test
+283240,hiv -1/hiv -2,1,lab_test
+283241,"hiv 0,1,2 (combi ) eelisa - ?????",1,lab_test
+283242,"hiv 0,1,2 (human immunodeficiency virus) - ?????",1,lab_test
+283243,hiv 012 (combi ) eelisa,1,lab_test
+283244,hiv 1,1,lab_test
+283245,hiv 1 and 2,3,lab_test
+283246,hiv 1 & 1,1,lab_test
+283247,hiv 1 & 2,5,lab_test
+283248,hiv 1 & 2 ( qualitative ) test,1,lab_test
+283249,hiv 1 & 2 (elisa,1,lab_test
+283250,hiv 1 & 2 - 030-18001,1,lab_test
+283251,hiv 1 & 2 ab,1,lab_test
+283252,hiv 1 & 2 abs,3,lab_test
+283253,hiv 1 & 2 abs (screen,1,lab_test
+283254,hiv 1 & 2 abs meia,1,lab_test
+283255,hiv 1 & 2 ag/ab,1,lab_test
+283256,hiv 1 & 2 antibodies,2,lab_test
+283257,hiv 1 & 2 antibodies (hiv 1 & 2 / p24 antigen) serum,1,lab_test
+283258,hiv 1 & 2 antibody sc,1,lab_test
+283260,hiv 1 & 2 ag & ab,1,lab_test
+283262,"hiv 1 & 2 antibody , ag",1,lab_test
+283263,hiv 1 & 2 elisa,2,lab_test
+283264,hiv 1 & 2 elisa ( human immunodeficiency virus,4,lab_test
+283267,hiv 1 & 2 screening,1,lab_test
+283268,hiv 1 & 2 screening test,1,lab_test
+283271,hiv 1 & 2-hiv 1 & 2,1,lab_test
+283272,hiv 1 & hiv 2,1,lab_test
+283273,hiv 1 -hiv 2 ag-ab combo test - human immunodeficiency virus,1,lab_test
+283274,hiv 1 / 2 (elisa) (aids,1,lab_test
+283275,hiv 1 / hiv 2,1,lab_test
+283276,hiv 1 / hiv 2 (hiv,1,lab_test
+283277,hiv 1 / hiv 2 - aids test,2,lab_test
+283279,hiv 1 /hiv 2 ag/ab combo test ( human immunodeficiency virus,3,lab_test
+283281,hiv 1 2,1,lab_test
+283282,hiv 1 2 (eliza,1,lab_test
+283283,hiv 1 2 ag/ab,1,lab_test
+283284,hiv 1 2 elisa human immunodeficiency virus,1,lab_test
+283285,hiv 1 2 screening,1,lab_test
+283286,hiv 1 abs,1,lab_test
+283287,hiv 1 ag,1,lab_test
+283288,hiv 1 and 2 antibody,3,lab_test
+283291,hiv 1 antigen (p24,1,lab_test
+283293,hiv 1 hiv 2 ab (aids,1,lab_test
+283294,hiv 1 hiv 2 ag ab combo test human immunodeficiency virus,1,lab_test
+283296,"hiv 1 and 2 , ab",1,lab_test
+283298,hiv 1 and 2 elisa - human immunodeficiency virus,1,lab_test
+283299,hiv 1 and 2 elisa human immunodeficiency virus,1,lab_test
+283300,hiv 1 and 2 screening,1,lab_test
+283301,hiv 1 || & || 2,1,lab_test
+283302,hiv 1& 2,2,lab_test
+283303,hiv 1& 2 ab & 1 ag-1107,1,lab_test
+283304,hiv 1& 2 ab-1106,1,lab_test
+283305,hiv 1& 2 screening,2,lab_test
+283306,hiv 1&2,3,lab_test
+283307,hiv 1&2 (elisa,2,lab_test
+283308,hiv 1&2 elisa[11.14,1,lab_test
+283309,hiv 1&2 abs,4,lab_test
+283310,hiv 1&2 (aids)test,2,lab_test
+283313,hiv 1&2 ab & ag,1,lab_test
+283315,hiv 1&2 ag & ab profile,1,lab_test
+283316,hiv 1&2 antibodies,3,lab_test
+283317,hiv 1&2 antigen & antibody,1,lab_test
+283318,hiv 1&2 ab,7,lab_test
+283326,hiv 1&2 abs (sfv,1,lab_test
+283329,hiv 1&2 antibodies(09088,1,lab_test
+283330,hiv 1&2 combo,1,lab_test
+283331,hiv 1&2 elisa,1,lab_test
+283332,hiv 1&2 qualitat,1,lab_test
+283333,hiv 1&2 by elisa,1,lab_test
+283334,hiv 1&2abs,1,lab_test
+283335,hiv 1&2s,1,lab_test
+283336,hiv 1+11,1,lab_test
+283337,hiv 1+2,1,lab_test
+283338,hiv 1+2 abs,1,lab_test
+283339,"hiv 1, 2 (eliza",2,lab_test
+283341,"hiv 1, 2 (eliza) 255",1,lab_test
+283342,"hiv 1, 2 (eliza)539",1,lab_test
+283343,"hiv 1,2",1,lab_test
+283344,"hiv 1,2 ab/p24 ag",1,lab_test
+283345,"hiv 1,2 antibodies , serum",1,lab_test
+283346,hiv 1-2,1,lab_test
+283347,hiv 1-2 ab,1,lab_test
+283348,hiv 1-2 antibody screen,1,lab_test
+283349,hiv 1-2-hiv 1-2,1,lab_test
+283350,hiv 1-hiv 2 ab (aids,1,lab_test
+283352,hiv 1.2 test,1,lab_test
+283353,hiv 1/2,1,lab_test
+283354,hiv 1/2 (w.b,1,lab_test
+283355,hiv 1/2 ?????,1,lab_test
+283357,hiv 1/2 abs / ag,1,lab_test
+283358,hiv 1/2 abs. (western blot) - s.o,1,lab_test
+283359,hiv 1/2 abs.(confirmation incl w.blo & i,1,lab_test
+283360,hiv 1/2 antibody screen,2,lab_test
+283363,hiv 1/2 abs & hiv-1 p24 ag,1,lab_test
+283364,hiv 1/2 abs (wb &if)-serum,1,lab_test
+283365,hiv 1/2 abs (westernblot,1,lab_test
+283367,hiv 1/2 antibody screen (hiv ag p24/ab combination assay,1,lab_test
+283368,hiv 1/2 antibody screen (hiv ag/ab combination assay,1,lab_test
+283369,"hiv 1/2 antibody screen,73100-23-50",1,lab_test
+283372,hiv 1/2abs (wb&if,1,lab_test
+283373,hiv 1/hiv 2 ab (aids,1,lab_test
+283374,hiv 1/hiv ii ab,1,lab_test
+283375,hiv 12,1,lab_test
+283376,hiv 12 -ab,1,lab_test
+283377,hiv 188 x2 ab,1,lab_test
+283378,hiv 1and2,1,lab_test
+283379,hiv 2 (w.b. & if,1,lab_test
+283380,hiv 2 wb,1,lab_test
+283381,hiv ???,1,lab_test
+283382,hiv ab,4,lab_test
+283383,hiv ab - ??? ??????? ????????,1,lab_test
+283384,hiv ab - inpatient,1,lab_test
+283385,hiv ab 1 & 2,1,lab_test
+283386,hiv ab 1 and 2,2,lab_test
+283388,hiv ab 4.30,1,lab_test
+283389,hiv ab analysis,1,lab_test
+283390,hiv ab analysis (l64,1,lab_test
+283391,hiv abs,2,lab_test
+283392,hiv abs i/ii,1,lab_test
+283393,hiv abs&ag,1,lab_test
+283394,hiv ag / ab,1,lab_test
+283395,hiv ag- ab antenatal,1,lab_test
+283396,hiv ag- abs screen (combo,1,lab_test
+283398,hiv ag/ab screening,2,lab_test
+283399,hiv aids,1,lab_test
+283400,hiv aidsscreen,1,lab_test
+283401,hiv antibodies,3,lab_test
+283402,hiv antibodies ( aids screening,1,lab_test
+283403,hiv antibody,3,lab_test
+283404,hiv antibody - hiv screening,1,lab_test
+283409,hiv antibody ab - human immunodeficiency virus,3,lab_test
+283411,hiv antibody ab human immunodeficiency virus,2,lab_test
+283413,hiv antibody screen (pathology test,2,lab_test
+283414,hiv antigen i serum,1,lab_test
+283416,hiv ab ( ????? ??? ???????,1,lab_test
+283417,hiv ab 1& 2 screening,2,lab_test
+283418,hiv ab 1&2,2,lab_test
+283419,hiv ab ag screening,1,lab_test
+283420,hiv ab ict,1,lab_test
+283421,hiv ab&ag,1,lab_test
+283422,hiv ab-ag (aids test) elisa,1,lab_test
+283423,"hiv ab1,2&ag (hiv combo test",1,lab_test
+283424,hiv abs (aids,1,lab_test
+283425,hiv abs aids,1,lab_test
+283426,hiv ag ab,1,lab_test
+283427,hiv ag & abs,1,lab_test
+283428,"hiv ag / ab 1,2 - (elfa",1,lab_test
+283429,hiv ag&ab,1,lab_test
+283430,hiv ag-ab combo,1,lab_test
+283432,hiv ag/ab (combo,1,lab_test
+283433,hiv ag/ab combo,1,lab_test
+283434,"hiv ag/ab combo (hiv p24 ag, hiv-1/2 ab",1,lab_test
+283437,hiv antibodies by elisa,1,lab_test
+283439,hiv antibody and hiv antigen (p24,1,lab_test
+283440,hiv antigen - antibody by elisa (4th generation,1,lab_test
+283441,hiv antigen p24,2,lab_test
+283443,hiv combi (ag+ab,1,lab_test
+283444,"hiv combi pt elecsys cobas e 200, v2 (8924180190",1,lab_test
+283445,hiv combo,2,lab_test
+283446,hiv confermation test (immunoblot,1,lab_test
+283447,hiv confirmatory test,1,lab_test
+283448,hiv combi,1,lab_test
+283450,hiv combo (mhl lab,1,lab_test
+283451,hiv combo antibodies,1,lab_test
+283452,hiv confirmation (western blot,1,lab_test
+283453,hiv elisa,2,lab_test
+283454,hiv examination ag & ab,1,lab_test
+283456,hiv genotyping/resistance( so,1,lab_test
+283458,hiv i & ii abs,2,lab_test
+283459,hiv i & ii anti bodies,1,lab_test
+283460,hiv i & ii antibodies / aids examination,1,lab_test
+283461,hiv i & ii antibody,1,lab_test
+283462,hiv i & ii ab,2,lab_test
+283464,hiv i and ii antibodies and protein 24,1,lab_test
+283465,hiv i ans ii antibodies,1,lab_test
+283466,hiv i&anti body,1,lab_test
+283467,hiv i&ii (aids examination,1,consultation
+283468,hiv i&ii (serum,1,lab_test
+283469,hiv i&ii - 248,1,lab_test
+283470,hiv i&ii ab,1,lab_test
+283471,hiv i&ii ab (aids examination,1,lab_test
+283472,hiv i&ii abs,1,lab_test
+283473,hiv i&ii abs screen for aids,1,lab_test
+283474,hiv i&ii ag & ab (combo,1,lab_test
+283475,hiv i&ii antibody,1,lab_test
+283476,"hiv i,ii&iii",1,lab_test
+283477,hiv i. ii type i. ii,2,lab_test
+283478,hiv i/hiv ii ab,1,lab_test
+283479,hiv i/hiv ii ab/ag,1,lab_test
+283480,hiv i/hiv ii antibody - 3rd gen,1,lab_test
+283481,hiv ihiv ii ab,1,lab_test
+283482,hiv iii test,2,lab_test
+283483,hiv p 24,1,lab_test
+283484,hiv p 24 ag,1,lab_test
+283485,hiv p24,1,lab_test
+283486,hiv p24 & abs (hiv combo,2,lab_test
+283488,hiv p24 ag,1,lab_test
+283489,hiv p24 ag & abs (hiv combo,2,lab_test
+283490,hiv p24 antigen,1,lab_test
+283492,hiv p24 ag & abs (hiv combo) (sfv,1,lab_test
+283493,hiv p24 ag and abs (hiv combo,1,lab_test
+283494,hiv p24ag&ab,1,lab_test
+283495,hiv pcr,1,lab_test
+283496,hiv pcr test (quantitative,1,lab_test
+283497,hiv prenatal test (antigen-antibody combo) - moh requirement,1,lab_test
+283498,hiv qual pcr,1,lab_test
+283499,hiv qualitative (pcr,1,lab_test
+283500,hiv qualitative pcr,2,lab_test
+283502,hiv screen,2,lab_test
+283503,hiv screening,4,lab_test
+283505,"hiv screening ( human immunodeficiency virus ), aids",3,lab_test
+283506,"hiv screening (human immunodeficiency virus), aids",1,lab_test
+283507,hiv screening -1-2 ab ag,1,lab_test
+283508,"hiv screening -1-2 ab, ag",2,lab_test
+283510,hiv screening -1-2 ab. ag,1,lab_test
+283513,hiv screening ( human immunodeficiency virus,1,lab_test
+283517,"hiv screening ( human immunodeficiency virus ), ai",2,lab_test
+283521,"hiv screening human immunodeficiency virus , aids",1,lab_test
+283522,hiv screening _ human immunodeficiency virus _ aids,1,lab_test
+283523,hiv test,3,lab_test
+283524,hiv test - aids ( aouit patient,1,lab_test
+283525,hiv test - aids test,1,lab_test
+283526,hiv type 2 (western blot) - s.o,1,lab_test
+283528,"hiv type -1and type -2 antibodies, serum",1,lab_test
+283529,hiv urgent,2,lab_test
+283531,hiv urgent1097,1,lab_test
+283532,hiv virus test,1,lab_test
+283533,hiv viral load - ?????,1,lab_test
+283534,hiv western blot,1,lab_test
+283537,hiv ab 1&2 price :68.00,1,lab_test
+283539,hiv ag,2,lab_test
+283540,hiv and antibodies,1,lab_test
+283542,hiv antibody (elisa 1&2,1,lab_test
+283543,hiv antibody 1&2 by elisa,1,lab_test
+283544,hiv p24 antigen and hiv-1/hiv-2 antibodies,1,lab_test
+283546,hiv western blot (shemeshi hospital) - send out tests,1,lab_test
+283547,hiv%20(abs%201%26%202%20,1,lab_test
+283548,hiv%201%20%26%202%20antibodies%09,1,lab_test
+283549,hiv( ????? ??? ???????)?,1,lab_test
+283550,hiv(aids) antibody 1&2,1,lab_test
+283551,hiv(aids) by elisa,2,lab_test
+283553,hiv(aids) screen,1,lab_test
+283554,hiv(elisa,1,lab_test

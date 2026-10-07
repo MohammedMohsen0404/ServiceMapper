@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+450481,physiotherapy one session tcs c d and resctricted policy,1,physiotherapy
+450482,physiotherapy others,1,physiotherapy
+450483,physiotherapy package 6 sessions,1,physiotherapy
+450484,physiotherapy pd per session,1,physiotherapy
+450485,physiotherapy per one session all modalities,2,physiotherapy
+450486,physiotherapy per seession,1,physiotherapy
+450487,physiotherapy per session,5,physiotherapy
+450488,physiotherapy per session (any modalities,1,physiotherapy
+450490,physiotherapy per session all modalities,5,physiotherapy
+450492,physiotherapy per session for all modalities,1,physiotherapy
+450493,physiotherapy per session for aramco,1,physiotherapy
+450494,physiotherapy per session for medgulf namar only,1,physiotherapy
+450495,physiotherapy per session for tawuniya namar only,1,physiotherapy
+450500,physiotherapy program 2,1,physiotherapy
+450501,physiotherapy program to a joint,1,physiotherapy
+450502,physiotherapy progtam2,1,physiotherapy
+450503,physiotherapy re - evaluation,1,physiotherapy
+450504,physiotherapy re- evaluation,1,physiotherapy
+450505,physiotherapy re-evaluation,1,physiotherapy
+450506,physiotherapy referral,1,physiotherapy
+450507,physiotherapy russian current,1,physiotherapy
+450508,physiotherapy seission,1,physiotherapy
+450509,physiotherapy services by session,1,physiotherapy
+450511,physiotherapy session (bupa,1,physiotherapy
+450512,physiotherapy session (massage s.w,1,physiotherapy
+450514,physiotherapy session (one session ) including all modaities,1,physiotherapy
+450515,physiotherapy session (package,1,physiotherapy
+450517,physiotherapy session + free consultation,1,physiotherapy
+450518,physiotherapy session - 1 area,1,physiotherapy
+450519,physiotherapy session - 2 areas,1,physiotherapy
+450520,physiotherapy session - more than 3 modalities,2,physiotherapy
+450521,physiotherapy session - multiple area,2,physiotherapy
+450522,physiotherapy session - multiple area - 3 procedures,1,physiotherapy
+450523,physiotherapy session - whole body - 4 procedures,1,physiotherapy
+450525,physiotherapy session for 45-60 minutes,1,physiotherapy
+450526,physiotherapy session for bell's palsy,1,physiotherapy
+450527,physiotherapy session for bells palsy,1,physiotherapy
+450528,physiotherapy session for disc prolapse and sciatica,1,physiotherapy
+450529,physiotherapy session for musciloskeletal disorders,1,physiotherapy
+450530,physiotherapy session for musculoskeletal disorders,1,physiotherapy
+450531,physiotherapy session for oa,1,physiotherapy
+450532,physiotherapy session for pediatric cases,1,physiotherapy
+450533,physiotherapy session for quadripleagia and hemorrhage,1,physiotherapy
+450534,physiotherapy session for stroke cases,1,physiotherapy
+450535,physiotherapy session in the clinic,1,physiotherapy
+450536,physiotherapy session inc,1,physiotherapy
+450537,"physiotherapy session including anything (massag,shortwaive",2,physiotherapy
+450539,physiotherapy session inclusiv e(massag shortwaiv e ) p\ d,1,physiotherapy
+450540,physiotherapy session inclusive,1,physiotherapy
+450541,"physiotherapy session inclusive (massage,tens,u/s",1,physiotherapy
+450542,physiotherapy session inclusive(massag shortwaive,4,physiotherapy
+450544,physiotherapy session inclusive(massag shortwaive) per session all modalities included,1,physiotherapy
+450546,"physiotherapy session inclusive(massag, shortwaive",1,physiotherapy
+450549,"physiotherapy session inclusive(massag,shortwaive ) p\d",1,physiotherapy
+450557,physiotherapy session inclusive(massag-shortwaive,1,physiotherapy
+450558,physiotherapy session inclusive(massagshortwaive,2,physiotherapy
+450560,"physiotherapy session inclusive.(massag,shortwaive",1,physiotherapy
+450561,"physiotherapy session inclusivemassag,shortwaive",1,physiotherapy
+450562,physiotherapy session inclusivemassagshortwaive,1,physiotherapy
+450563,physiotherapy session nerve illness,1,physiotherapy
+450564,physiotherapy session pakage,1,physiotherapy
+450565,physiotherapy session post-operative,1,physiotherapy
+450566,physiotherapy session revisit,1,physiotherapy
+450569,physiotherapy session-multiple services,2,physiotherapy
+450570,physiotherapy session-multiple services at home,2,physiotherapy
+450571,physiotherapy sessions,3,physiotherapy
+450572,physiotherapy set 6,1,physiotherapy
+450573,physiotherapy shortwave diathermy,1,physiotherapy
+450574,physiotherapy simple session,1,physiotherapy
+450575,physiotherapy sitting/ region,1,physiotherapy
+450576,physiotherapy six sessions,1,physiotherapy
+450577,physiotherapy spec fee,1,physiotherapy
+450578,physiotherapy steam inhalation,1,physiotherapy
+450579,physiotherapy tens,1,physiotherapy
+450580,physiotherapy traction,1,physiotherapy
+450581,physiotherapy treatment per session (all modalities,1,physiotherapy
+450582,physiotherapy ultra violet,1,physiotherapy
+450583,physiotherapy ultrasound,2,imaging
+450584,physiotherapy wax,1,physiotherapy
+450585,physiotherapy with high intensity laser // one area,1,physiotherapy
+450586,physiotherapy with high intensity laser // two areas,1,physiotherapy
+450587,physiotherapy with high intensity laser \ one area,1,physiotherapy
+450588,physiotherapy with high intensity laser \ two areas,1,physiotherapy
+450589,physiotherapy per session - for 1 apparatus,1,physiotherapy
+450590,physiotherapy per session (any/all modalities,2,physiotherapy
+450592,physiotherapy%20%20%20%20set%201,1,physiotherapy
+450593,physiotherapy%20%206%20%20set,1,physiotherapy
+450594,physiotherapy%20(per%20procedure,1,physiotherapy
+450595,physiotherapy%20session%20inclusive(massag%2cshortwaive%e2%80%a6,1,physiotherapy
+450596,physiotherapy& rehabilitation,1,physiotherapy
+450597,physiotherapy(one session,1,physiotherapy
+450598,physiotherapy(perprocedure,1,physiotherapy
+450600,"physiotherapy, all modalities (45 min",1,physiotherapy
+450601,"physiotherapy, multimodality, per session",1,physiotherapy
+450602,physiotherapy-1 session,1,physiotherapy
+450603,physiotherapy-laser therapy per session,1,physiotherapy
+450604,physiotherapy-one session,1,physiotherapy
+450605,physiotherapy-per session - service charge,1,physiotherapy
+450606,physiotherapy-six sessions,1,physiotherapy
+450607,physiotherapy-three sessions,1,physiotherapy
+450608,physiotherapy-twelve sessions,1,physiotherapy
+450609,physiotherapy/ 2 modalities/session,1,physiotherapy
+450610,physiotherapy/ 3 modalities (6 sessions,1,physiotherapy
+450611,physiotherapy/ 3 modalities/session,1,physiotherapy
+450612,physiotherapy/one modality/session,1,physiotherapy
+450613,physiotherapy/one session,1,physiotherapy
+450614,physiotherapy/six sessions,1,physiotherapy
+450615,physiotherapy/three sessions,1,physiotherapy
+450616,physiotherapy/twelve sessions,1,physiotherapy
+450617,physiotherapy: us + swd x 1,1,physiotherapy
+450618,physiotherapys pecialist consultation,2,consultation
+450620,physiotherapyset1,1,other
+450621,physiotherapyset6,1,other
+450622,physiotherapyعلاج للفقرات,1,physiotherapy
+450623,physiotheray session for any other condition,1,physiotherapy
+450626,physiotherpay session for insurance,1,physiotherapy
+450627,physiotherpy,1,other
+450628,physiotherpy (1 sittings) 3 types,1,other
+450629,physiotherpy session,1,physiotherapy
+450630,physitherapy (per procedures,1,other
+450631,physotherapy session,1,physiotherapy
+450632,phyto soya,1,other
+450636,phytomenadione,1,other
+450660,piano/2134/4lg/s,1,other
+450661,piano/black/p11111/60/s,1,other
+450662,piano/caesar/c249/61/s,1,other
+450683,piano/gold/p14444/53/f,1,nutrition
+450684,piano/p1000/blss2/f,1,other
+450685,piano/p1000/dblb3/f,1,other
+450686,piano/p2000/sbrw2/f,1,other
+450687,piano/p2000/sbss3/54/f,1,other
+450688,piano/p2000/sbss3/f,1,other
+450689,piano/p2000/sgun1/f,1,other
+450690,piano/p3000/msbb4/f,1,other
+450691,piano/p3000/msdb3/f,1,other
+450692,piano/p3000/mssb1/f,1,other
+450693,piano/p4000/brgu2/f,1,other
+450694,piano/p4000/bslg1/f,1,other
+450695,piano/p4000/sgss3/f,1,other
+450696,piano/p5000/mblc1/f,1,other
+450697,piano/p6000/sbmb3/f,1,other
+450698,piano/p6000/sguw1/f,1,other
+450699,piano/p7000/mbsg2/f,1,other
+450700,piano/p7000/sbsg4/f,1,other
+450701,piano/p7000/sgod3/f,1,other
+450702,piano/p7000/sgun1/f,1,other
+450703,piano/p9000/sgsi3/f,1,other
+450704,piano/p9000/sgss2/f,1,other
+450705,piano/p9000/ssbl1/f,1,other
+450706,piano/p9991/c01/f,1,eyewear
+450707,piano/p9991/c02/f,1,other
+450708,piano/p9991/c03/f,1,other
+450709,piano/p9991/c04/f,1,other
+450710,piano/pi1111/demi/60/f,1,other
+450711,piano/pi2222/black/62/f,1,other
+450712,piano/pi2222/brown/62/f,1,other
+450713,piano/pi2222/gum/60/f,1,dental
+450714,piano/pi3333/black/62/f,1,other
+450715,piano/pi3333/gold/62/f,1,nutrition
+450716,piano/pi3333/gun/62/f,1,other
+450717,piano/pi5555/black/63/f,1,other
+450718,piano/pi5555/brown/63/f,1,other
+450719,piano/pi5555/gum/63/f,1,dental
+450720,piano/pia883/c4/f,1,eyewear
+450721,piano/pia885/c1/f,1,eyewear
+450722,piano/pia885/c2/f,1,eyewear
+450723,piano/pia885/c3/f,1,eyewear
+450724,piano/pia885/c4/f,1,eyewear
+450725,piano/pia885/c5/f,1,eyewear
+450726,piano/pia887/c2/f,1,eyewear
+450727,piano/pia887/c3/f,1,eyewear
+450728,piano/pia893/c1/f,1,eyewear
+450729,piano/pia893/c2/f,1,eyewear
+450730,piano/pia893/c3/f,1,eyewear
+450731,piano/pia893/c4/f,1,eyewear
+450732,piano/pia893/c5/f,1,eyewear
+450733,piano/silver/p14444/53/f,1,other
+450734,piano/theador/c226/59/f,1,other
+450792,piap885/c1//f,1,eyewear
+450793,piap885/c2/f,1,eyewear
+450794,piap885/c3/50/f,1,eyewear
+450795,piap887/c1/f,1,eyewear
+450796,piap891/c1/56,1,eyewear
+450797,piap891/c2/56,1,eyewear
+450798,piap891/c4/56,1,eyewear
+450799,piap891/c5/56,1,eyewear
+450800,piap893/c1/f,1,eyewear
+450801,piap893/c3/f,1,eyewear
+450802,piap893/c5/f,1,eyewear
+450803,piap895/c4/f,1,eyewear
+450804,piap895/c5/f,1,eyewear
+450805,piap897/c3/49,1,eyewear
+450806,piap897/c4/49,1,eyewear
+450807,piap899/c1/f,1,eyewear
+450808,piap899/c2/f,1,eyewear
+450809,piap899/c3/f,1,eyewear
+450810,piap899/c6/f,1,eyewear
+450811,piap903/c4/f,1,eyewear
+450812,piap903/c5/49/f,1,eyewear
+450813,piap909/c5/53/f,1,eyewear
+450814,piap911/c2/f,1,eyewear
+450815,piap915/c3/f,2,eyewear
+450816,piap915/c4/f,1,eyewear
+450817,piap917/c3/f,1,eyewear
+450818,piap919/c4/49/f,1,eyewear
+450819,piap919/c6/49/f,1,eyewear
+450820,piap925/c2/f,1,eyewear
+450821,piap925/c4/f,1,eyewear
+450822,piap925/c6/f,1,eyewear
+450823,piap927/c2/f,1,eyewear
+450824,piap929/c2/f,1,eyewear
+450825,piap929/c3/f,1,eyewear
+450826,piap929/c5/f,1,eyewear
+450827,piap929/c6/f,1,eyewear
+450828,piap931/c5/f,1,eyewear
+450829,piap933/c3/f,1,eyewear
+450830,piap933/c5/f,1,eyewear
+450831,piap933/c6/f,1,eyewear
+450832,piap935/c1/f,1,eyewear
+450833,piap935/c5/f,1,eyewear
+450834,piap935/c6/f,1,eyewear
+450835,piap945/c1/f,1,eyewear
+450836,piap945/c3/f,1,eyewear
+450837,piap945/c4/f,1,eyewear
+450838,piap947/c1/f,1,eyewear
+450839,piap947/c2/f,1,eyewear
+450840,piap947/c3/f,1,eyewear
+450841,piap947/c5/f,1,eyewear
+450842,piap949/c2/f,1,eyewear
+450843,piap949/c3/f,1,eyewear
+450844,piap949/c5/f,1,eyewear
+450845,piap950/c1/f,1,eyewear
+450846,piap950/c3/f,1,eyewear
+450847,piap950/c4/f,1,eyewear
+450848,piap951/c1/f,1,eyewear
+450849,piap951/c3/f,1,eyewear
+450850,piap951/c4/f,1,eyewear
+450851,piap951/c5/f,1,eyewear
+450852,piap951/c6/f,1,eyewear
+450853,piap952/c1/f,1,eyewear
+450854,piap952/c3/f,1,eyewear
+450855,piap952/c4/f,1,eyewear
+450856,piap953/c2/f,1,eyewear
+450857,piap953/c6/f,1,eyewear
+450858,piap954/c4/f,1,eyewear
+450859,piap954/c5/f,1,eyewear
+450860,piap955/c1/f,1,eyewear
+450861,piap955/c2/f,1,eyewear
+450862,piap955/c3/f,1,eyewear
+450863,piap955/c5/f,1,eyewear
+450864,piap956/c1/f,1,eyewear
+450865,piap956/c2/f,1,eyewear
+450866,piap956/c3/f,1,eyewear
+450867,piap956/c4/f,1,eyewear
+450868,piap956/c5/f,1,eyewear
+450869,piap956/c6/f,1,eyewear
+450870,piap957/c4/f,1,eyewear
+450871,piap958/c2/f,1,eyewear
+450872,piap958/c3/f,1,eyewear
+450873,piap959/c4/f,1,eyewear
+450874,piap959/c6/f,1,eyewear
+450875,piap960/c1/f,1,eyewear
+450876,piap960/c4/f,1,eyewear
+450877,piap961/c2/f,1,eyewear
+450878,piap961/c4/f,1,eyewear
+450879,piap961/c5/f,1,eyewear
+450890,pic airstylo inhalator,1,other
+450891,pic -classic fix fabric plaster on spool 5cm,1,supplies
+450892,pic -classic fix fabric plaster on spool-600 1.5cm,1,supplies
+450893,pic -classic fix fabric plaster on spool-700 2.5cm,1,supplies
+450894,pic -sensitive fix silk plaster 1.25cm x 5m,1,supplies
+450895,pic -sensitive fix silk plaster on spool (2.5 cm x 5m,1,supplies
+450896,pic -sensitive fix silk plaster on spool 5cm x 5m,1,supplies
+450898,pic adesive eye pads optisoft comfort 10,1,supplies
+450899,pic air cube,1,eyewear
+450900,pic air cube nebulizer,1,eyewear
+450901,pic air cube nebulizer bs machine,1,eyewear
+450902,pic air cube nebulizer bs plug 220-50/60 hz,2,eyewear
+450903,pic air easy on nebulizer,1,eyewear
+450904,pic air stylo nebulizer machine,1,eyewear
+450905,pic aqua bloc 12cmx10cm 50-splaster,1,other
+450906,pic aqua bloc plaster 12cm x 10cm 5pcs,1,supplies
+450907,pic aqua bloc plaster 15cm x 10cm 5pcs,1,supplies
+450908,pic aqua bloc plaster 5cm x 7cm 5pcs,1,supplies
+450909,pic aqua bloc plaster 8cm x 10cm 5pcs,1,supplies
+450910,pic aquabloc 12x10cm,1,other
+450911,pic aquabloc plas 5x7cm 5's,1,other
+450912,pic aquabloc plaster - assorted 20 pcs,1,supplies
+450913,pic aquabloc plaster 10*10 cm 5s,1,supplies
+450914,pic aquabloc plaster 12x10 5-s,1,supplies
+450915,pic aquabloc plaster 15x10 5-s,1,supplies
+450916,pic aquabloc plaster 5*7 cm 5s,1,supplies
+450917,pic aquabloc plaster medium 20s,1,supplies
+450918,pic aquabloc plaster mix 20s,1,supplies
+450919,pic aquabloc plaster w/chg 25*10 cm 25s,1,supplies
+450920,pic aquabloc plaster w/proof (large,1,supplies
+450921,pic bende a rete tubular net chest 1s,1,other
+450922,pic blood pressure clear,1,lab_test
+450923,pic blood pressure maxi,1,lab_test
+450924,pic blood presure m. clear r,1,lab_test
+450925,pic bpm arm t1,1,other
+450926,pic cardio simple blood pressure machine,1,lab_test
+450927,pic cardiosimple bp monitor,1,eyewear
+450928,pic classic finger plaster anti-bac 6's,1,supplies
+450929,pic classic joint plaster anti-bac 4's,1,supplies
+450930,pic classic plaster anti-bac medium 20's,1,supplies
+450931,pic clear rapid arm blood pressure,1,lab_test
+450932,pic clear rapid arm,1,other
+450933,pic clear rapid arm bp monitor,1,eyewear
+450934,pic clear rapid bpm arm,1,other
+450935,pic clear rapid monitor,1,other
+450936,pic co fix self adh 10cm * 5m 1s,1,other
+450937,pic co fix self adh 8cm * 5m 1s,1,other
+450938,pic co fix self adhesive bandage 12cmx5m,1,supplies
+450939,pic co fix self adhesive high compression bandage 10cm x 5m,1,supplies
+450940,pic co fix self adhesive high compression bandage 12cm x 5m,1,supplies
+450941,pic co fix self adhesive high compression bandage 6cm x 5m,1,supplies
+450942,pic co fix self adhesive high compression bandage 8cm x 5m,1,supplies
+450943,pic delicate boy plaster 1.9*7.2 cm 24s,1,supplies
+450944,pic delicate boy&girl 24's,1,other
+450945,pic delicate girl plaster 1.9*7.2 cm 24s,1,supplies
+450946,pic elastic bandage 10cm*4.5m,1,supplies
+450947,pic elastic bandage 15cm*4.5m,1,supplies
+450948,pic elastic bandage 6cm*4.5m,1,supplies
+450949,pic elastic bandage self fix 10cm*4m,1,supplies
+450950,pic elastic bandage self fix 12cm*4m,1,supplies
+450951,pic elastic bandage self fix 4cm*4m,1,supplies
+450952,pic elastic bandage self fix 6cm*4m,1,supplies
+450953,pic elastic bandage self fix 8cm*4m,1,supplies
+450954,"pic flexa box bandage cm 6x4,5m",1,supplies
+450955,pic flexa box bandage elastic cm12x4.5m,1,supplies
+450956,pic flexa box bandage elastic cm8x4.5m,1,supplies
+450957,pic hot water bag double laminated 1 pcs,1,other
+450958,pic hot water bottle double laminated with cover,1,supplies
+450983,pic insupen 33gx4mm pen needle,1,supplies
+450989,pic insupen needles 34gx3.5mm 100 pcs,1,supplies
+450990,pic insupen pen needles 4mm,1,supplies
+450991,pic insupen pen needles 6mm,1,supplies
+450992,pic insupen pen needles g32 *4 mm,1,supplies
+450993,pic insupen st.needles g31x5mm 100pcs,1,supplies
+450995,pic lite rapid bp arm,1,eyewear
+450996,pic lite rapid bp machine,1,eyewear
+450997,pic lite rapid bpm,1,other
+450998,pic lite rapid bpm arm,1,other
+450999,pic literapid (bloob pressure monitor,1,other
+451000,"pic literapid blood pressure device, pic",1,lab_test
+451001,pic literapid blood pressure monitor arm type,2,lab_test
+451002,pic literapid pressure minitor,1,other
+451003,pic litrapid bp monitor,1,eyewear
+451004,"pic liter rapid wrist blood pressure monitor 1""s #29-000206",1,lab_test
+451005,pic maxi rapid bpm,1,other
+451006,pic maxi rapid bpm arm,1,other
+451007,pic miss bibi children nebulizer,1,eyewear
+451008,pic mr 8 children nebulizer,1,supplies
+451009,"pic maxi rapid automatic blood pressure monitor 1""s #29-000215",1,lab_test
+451010,pic nebulizer air cube,1,eyewear
+451011,pic nebulizer air easy,1,eyewear
+451012,pic nebulizer aireasy on wearable,1,supplies
+451013,"pic nebulizer air easy on exp 1""s",1,eyewear
+451019,pic optisoft comfort eye pad adhesive edge 10 pads,1,supplies
+451020,pic optisoft comfort eye pad adhesive edge 10's,1,supplies
+451021,pic optisoft comfort eye pads,1,supplies
+451022,pic optisoft comfort eye pads 10s,1,supplies
+451023,pic opti-soft comfort eye pad adhesive edge,1,supplies
+451024,pic pen needles g32x4mm 100's,1,supplies
+451025,pic pen needles g32x4mm 100s,1,supplies
+451026,pic plaster aquabloc adhesive 10*10cm,1,supplies
+451027,pic plaster aquabloc adhesive 10*6cm,1,supplies
+451028,pic plaster aquabloc adhesive 10*8cm,1,supplies
+451029,pic plaster aquabloc adhesive 12*10cm,1,supplies
+451030,pic plaster aquabloc adhesive 15*10cm,1,supplies
+451031,pic plaster aquabloc adhesive 5*7cm,1,supplies
+451032,pic plaster classic fix 5m*2.5cm,1,supplies
+451033,pic plaster classic fix 5m*5cm,1,supplies
+451034,pic plaster sensitive fix silk 5m*2.5cm,1,supplies
+451035,pic plaster sensitive fix silk 5m*5cm,1,supplies
+451036,pic plastic strip plaster assorted,1,eyewear
+451037,pic rapid blood pressure monitor arm 395,1,lab_test
+451038,pic self fix 10cm * 4m 1s,1,other
+451039,pic self fix 6cm * 4m 1s,1,other
+451040,pic self fix elastic band.8cmx,1,supplies
+451041,pic self-fix self adhesive bandage 6cm x 4m,1,supplies
+451042,pic self-fix self adhesive bandage 8cm x 4m,1,supplies
+451043,pic sensitive fix 2.5cm * 5m 1s,1,other
+451044,pic sensitive fix 5cm * 5m 1s,1,other
+451045,pic simple blood pressure monitor arm 270,1,lab_test
+451046,pic soffix med 12*10 cm 5s,1,other
+451047,pic soffix med 8*10 cm 5s,1,other
+451048,pic soffix med plaster 10cx15c box 50,1,supplies
+451049,pic soffix med plaster 10cx8c box 50,1,supplies
+451054,pic thermo diary head thermo,1,other
+451055,pic thermo diary head thermometer,1,supplies
+451060,pic thermogel 10cmx26,1,other
+451061,pic thermogel 30cm x 20cm w/ cover,1,other
+451063,pic thermometer head,1,supplies
+451064,"pic thermogel 10cm x 26cm hot/cold thermal pack 1""s",1,supplies
+451065,pic vedo clear dig.thermometer,1,supplies
+451066,pic vedo clear flexible digital thermometer,1,supplies
+451067,pic vedo color digital thermometer,1,supplies
+451068,pic vedo clear (flexable,1,other
+451069,pic vedo family,1,other
+451070,pic- aqua bloc plaster 10cm x 10cm 5pcs,1,supplies
+451071,pic- aqua bloc plaster 12cm x 10cm 5pcs,1,supplies
+451072,pic- aqua bloc plaster 15cm x 10cm 5pcs,1,supplies
+451073,pic- aqua bloc plaster 8cm x 10cm 5pcs,1,supplies
+451074,pic- aqua bloc plaster large 10's,1,supplies
+451075,"pic- air stylo nebulizer 1""s",1,eyewear
+451077,"pic- thermogel 10cm x 26cm 1""s",1,other
+451078,pic-aqua bloc plaster 5cm x 7cm 5pcs,1,supplies
+451079,pic-aquabloc strip assorted 20pcs,1,supplies
+451080,pic-aquabloc strip plaster rounded 20pcs,1,supplies
+451081,pic-aquabloc strip plaster medium 20pcs,1,supplies
+451082,"pic-aquabloc 10x10 cm adhesive post-operative plasters 5""s",1,supplies
+451083,pic-eye pad with adheive edge,1,supplies
+451085,pic-thermogel 10cmx26,1,other
+451086,"pic-thermodiary head infrared connected thermometer 1""s #29-000032",1,physiotherapy
+451088,picasso frm pi1014,1,eyewear
+451089,picc (peripherally inserted central catheter,1,supplies
+451090,"picc , set , venous catheter sz 5fr, double lumen 60cm power injectable,iso med",1,supplies
+451091,picc 5 fr single lumen polyurethane catheter #3165355 bard,1,eyewear
+451092,"picc catheter 1fr, 20cm, vygon - 1261-20",1,supplies
+451093,picc catheter,1,supplies
+451094,picc catheter 5f x 55,1,supplies
+451095,picc insertion,1,procedure
+451096,picc line #2 fr -- nicu,1,eyewear
+451097,picc line (4x60cm double or 3x60cm single) w/ cuff l/cath - per pcs,1,supplies
+451098,picc line bioflo pasv mst (various sizes,1,other
+451099,picc line catheter double lumen,1,supplies
+451100,picc line inseration,1,other
+451101,picc line insertion,4,procedure
+451102,picc line insertion-nicu,1,procedure
+451103,picc line pack,1,supplies
+451105,picc line pro 4frx55cm single lumen catheter set medcomp mr17034101,1,supplies
+451106,picc line pro 5frx55cm double lumen catheter set medcomp mr17035201,1,supplies
+451107,picc line pro 6frx60cm double lumen catheter set medcomp mr17036201,1,supplies
+451108,picc line vascu 3frx60cm single lumen catheter set medcomp mr17013101,1,supplies
+451109,picc line vascu 3frx60cm with cuff single lumen catheter set medcomp,1,supplies
+451110,picc line vascu 4frx60cm double lumen catheter set medcomp mr17014201,1,supplies
+451111,picc line xcela with pasv valve (various sizes,1,other
+451112,picc line,1,other
+451113,picc line daily maintenance,1,other
+451115,picc line placement - peripherally inserted central catheter,1,supplies
+451117,picc placement kit neonatal,1,other
+451118,picc preferaly inserted central catheter,1,supplies
+451120,piching of ptds in one lid,2,supplies
+451121,pick operation(chalazion,1,procedure
+451122,pick.post-trachom. conc.1,1,other
+451123,pick.post-trachom.conc.2,1,other
+451124,picking of p. t. cs,1,other
+451125,picking of p.t.d. surg both upper eye,1,lab_test
+451126,picking of p.t.d.s,1,lab_test
+451127,picking of post trachoma concretions,1,other
+451128,picking of post trachomatus,1,other
+451129,picking of ptd,1,other
+451130,picking of ptd's & scraping g,1,other
+451131,picking of ptd's/eye,1,other
+451132,picking of ptds,1,other
+451133,picking of ptds one eys,1,supplies
+451134,picking of ptds two eys,1,other
+451135,picking of ptds& scraping,1,other
+451136,picking of ptds& scraping (715,1,other
+451137,picking off ptd's & scraping,2,other
+451138,picking off ptd's and scraping,1,other
+451139,picking p.t.ds,1,lab_test
+451140,picking ptd's & scraping one eye,1,supplies
+451141,picking ptd's & scraping/one eye,1,supplies
+451142,"picking ptd, s and scraping /one eye",1,supplies
+451143,"picking ptd, s &scraping - one eye",1,supplies
+451144,"picking, post trachomatous",1,other
+451171,pico drops30ml,1,other
+451193,picoprep pdr sac 2s,1,other
+451214,pictures 1 pieces,1,other
+451215,picu,2,other
+451216,picu (baby cot) 24 hours,1,other
+451217,picu (w/ ventilation) from day (10) onwards/each,1,other
+451218,picu + monitor,1,other
+451219,picu - accommodation,1,eyewear
+451220,picu - medical supervision,2,consultation
+451221,picu / day,1,other
+451222,picu / day with out ventilator,1,supplies
+451223,picu / nicu package,1,consultation
+451224,picu 1st 3 days,2,other
+451225,picu 1st (2) days,1,other
+451226,picu 1st (3) days,1,other
+451227,picu 1st (3) days (w/ ventilation,1,other
+451229,picu 2nd 3 days,2,other
+451230,picu 2nd (2) days,1,other
+451231,picu 2nd (3) days,1,other
+451232,picu 2nd (3) days (w/ ventilation,1,other
+451234,picu 3rd (3) days,1,other
+451235,picu 3rd (3) days (w/ ventilation,1,other
+451236,picu 3rd 3 days,1,other
+451237,picu 5 isolation room,1,consultation
+451238,picu accommodation,1,eyewear
+451239,picu admission,1,consultation
+451240,picu admission + isolation 1 day,1,consultation
+451241,picu admission + ventilation 1 day,1,consultation
+451242,picu admission 1 day,2,consultation
+451243,picu admission 1st - 2nd day,2,consultation
+451244,picu admission 1st-2nd day,1,consultation

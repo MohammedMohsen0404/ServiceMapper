@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+538172,soft tissue: extraction of deep foreign body,1,dental
+538173,soft tissue: secondary suture a wound after debridement,1,supplies
+538174,soft tissues u/s,2,imaging
+538175,soft tissues ultrasound,1,imaging
+538176,soft tissues w/o & w/ contrast,1,imaging
+538177,soft tissus u/s,1,imaging
+538178,soft ureterall jj stent diff sizes,1,supplies
+538179,soft-tissue,1,other
+538180,softban 10cm,1,other
+538181,softban 15cm,1,other
+538182,softban 20cm,1,other
+538183,softban 5cm,1,other
+538184,softban 7.5cm,1,other
+538185,softban natural 10cmx2.7m,1,other
+538186,softban natural 10cmx2.7m 7224,1,other
+538187,softban natural 12.5cm,1,other
+538188,softban natural 15cmx2.7m,1,other
+538189,softban natural 20cmx2.7m,1,other
+538190,softban natural 5cmx2.7m,1,other
+538191,softban natural 5cmx2.7m 7222,1,other
+538192,softban natural 7.5cmx2.7m,1,other
+538193,softban natural 7.5cmx2.7m 7223,1,other
+538194,softec genu titan r sz 4,1,other
+538195,softi flex/sof1623/c2/f,1,eyewear
+538196,softi flex/sof1623/c4/f,1,eyewear
+538197,softi flex/sof1732/c5/f,1,eyewear
+538198,softi flex/sof1733/c1/f,1,eyewear
+538199,softi flex/sof1734/c2/f,1,eyewear
+538200,softi flex/sof3015e/c8/f,1,other
+538201,softi flex/sof3015e/c9/f,1,other
+538202,softi flex/sof3335/c1/f,1,eyewear
+538203,softi flex/sof3335/c2/f,1,eyewear
+538204,softi flex/sof3335/c3/f,1,eyewear
+538205,softi flex/sof3335/c4/f,1,eyewear
+538206,softi flex/sof3335/c5/f,1,eyewear
+538207,softi flex/sof3340/c1/f,1,eyewear
+538208,softi flex/sof3340/c2/f,1,eyewear
+538209,softi flex/sof3340/c3/f,1,eyewear
+538210,softi flex/sof3340/c4/f,1,eyewear
+538211,softi flex/sof3340/c5/f,1,eyewear
+538212,softi flex/sof3345/c2/f,1,eyewear
+538213,softi flex/sof3345/c3/f,1,eyewear
+538214,softiflex/1736/c2/f,1,eyewear
+538215,softiflex/1736/c4/f,1,eyewear
+538216,softiflex/1743/c7/f,1,other
+538222,softiflex/sof1500/c2/f,1,eyewear
+538223,softiflex/sof1520/c2/f,1,eyewear
+538224,softiflex/sof1722/c3/f,1,eyewear
+538225,softiflex/sof1722/c4/f,1,eyewear
+538226,softiflex/sof1724/c5/f,1,eyewear
+538227,softiflex/sof1726/c2/f,1,eyewear
+538228,softiflex/sof1730/c3/f,1,eyewear
+538229,softiflex/sof1739/c2/f,1,eyewear
+538230,softiflex/sof1739/c5/f,1,eyewear
+538231,softiflex/sof1741/c2/f,1,eyewear
+538232,softiflex/sof1940/c1/f,1,eyewear
+538233,softiflex/sof1940/c2f,1,other
+538234,softiflex/sof1940/c3/f,1,eyewear
+538235,softiflex/sof1940/c4f,1,other
+538236,softiflex/sof1940/c5/f,1,eyewear
+538237,softiflex/sof1940/c6f,1,other
+538238,softiflex/sof1940/c7/f,1,other
+538239,softiflex/sof1940/c8/f,1,other
+538240,softiflex/sof3014/c1/f,1,eyewear
+538241,softiflex/sof3014/c13/f,1,other
+538242,softiflex/sof3014/c15/f,1,other
+538243,softiflex/sof3014/c3/f,1,eyewear
+538244,softiflex/sof3014/c5/f,1,eyewear
+538245,softiflex/sof3014/c6/f,1,eyewear
+538246,softiflex/sof3014/c7/f,1,other
+538247,softiflex/sof3015/c1/f,1,eyewear
+538248,softiflex/sof3015/c3/f,1,eyewear
+538249,softiflex/sof3015e/c7/f,1,other
+538250,softiflex/sof3016/c1/f,1,eyewear
+538251,softiflex/sof3016/c2/f,1,eyewear
+538252,softiflex/sof3330/c1/f,1,eyewear
+538253,softiflex/sof3330/c2/f,1,eyewear
+538254,softiflex/sof3330/c3/f,1,eyewear
+538255,softiflex/sof3330/c4/f,1,eyewear
+538256,softiflex/sof3330/c5/f,1,eyewear
+538257,softiflex/sof3340/c5/f,1,eyewear
+538258,softiflex/sof7770/c1/f,1,eyewear
+538259,softiflex/sof7770/c2/f,1,eyewear
+538260,softiflex/sof7770/c3/f,1,eyewear
+538261,softiflex/sof7770/c4/f,1,eyewear
+538262,softiflex/sof 3018e/c1/f,1,eyewear
+538263,softiflex/sof 3018e/c2/f,1,eyewear
+538264,softiflex/sof 3018e/c3/f,1,eyewear
+538265,softiflex/sof 3018e/c4/f,1,eyewear
+538266,softiflex/sof 3018e/c5/f,1,eyewear
+538267,softiflex/sof 3018e/c6/f,1,eyewear
+538268,softiflex/sof 3018e/c7/f,1,other
+538269,softiflex/sof 3018e/c8/f,1,other
+538270,softiflex/sof3014e/c9/f,1,other
+538271,softtissue tumor large levelexcision,1,other
+538272,softtissue tumor large levelexcision 1,1,other
+538273,sofy anti bacterial musk healthy skin slim large 6x28pads(4223) - 400608,1,other
+538274,sofy gentle to skin 30 pad,1,supplies
+538290,soha moneir aboelleil,1,other
+538292,soicarby,2,other
+538321,sojo,1,eyewear
+538324,sojourn 100% vapour liquid for inhalatio,1,other
+538362,solano,1,other
+538363,solano opt 90019 ful pls 51 e blu m,1,eyewear
+538364,solarice balloon stent from medtronic,1,supplies
+538365,soleral multiaxial screw 6.5 x 45,1,supplies
+538366,soleral set screws,1,supplies
+538467,solid tumor gene profile (guardant 360,1,lab_test
+538468,solid tumor profile pan cancer fore-sentia (221 genes + msi & tmb) - s.o,1,lab_test
+538469,solid tumors tissue gene fusion profiling ngs panel (foundation one cdx,1,lab_test
+538471,solifenacin,1,other
+538476,solifenacin succinate,2,other
+538482,solifenacin succinate 10 /mg,1,other
+538491,solifenacin succinate 5 /mg,1,other
+538514,solinitrina,1,other
+538538,soliqua 10-40 pen,1,other
+538553,soliqua 30-60 pen,1,other
+538626,soliqua solostar100u bax,1,other
+538635,solis cervical cage #h6mm l12mm (c.c)-inma,1,imaging
+538636,"solis cervical cage size h 5mm , l 14mm (lot no 12e429-inma",1,imaging
+538637,soliter mc,1,eyewear
+538638,solittaire platinum stent 4mm x 20 mm,1,supplies
+538639,soliu cortif,1,other
+538642,solmed pca infusion pump,1,supplies
+538643,solo,2,eyewear
+538644,solo 411 bte,1,eyewear
+538648,solocartif,1,other
+538649,solocortef,1,other
+538650,solocortif,2,other
+538652,solotica y,1,other
+538704,solpadein soluble 24,1,other
+538705,solpadein soluble 24tabs,1,other
+539016,solpadeinecap(b/20,1,other
+539017,solpaden 20cap,1,other
+539020,solpadene soluble 20tab,1,other
+539021,solpadiene 24cap,1,other
+539023,solpadiene eff 24tab,1,other
+539025,solpadin efff,1,other
+539027,solpadine effervescent( tier1,1,insurance
+539032,solpadine 24capsules,1,other
+539042,solpadine eff,1,other
+539047,solpadine soluble 20tab eff,1,other
+539242,solu cortif,2,other
+539273,solu medrol40mg,1,other
+539274,solu set (microdrip,1,other
+539275,solu set - (burette,1,other
+539282,solu- cortif250mg,1,other
+539286,solu- set,1,other
+539377,solu-cortef100 mg via,1,other
+539378,solu-cortef250mg1vial,1,other
+539379,solu-cortif,2,other
+539390,solu-cortif vial100 mg,2,other
+539391,solu-cortif vial250 mg,2,other
+539395,solu-cotrtef250,1,other
+539517,solu-set,1,other
+539518,solu-set-11-6-276110,1,other
+539528,solu.iv chlorhexidine 2% large antiseptic swab-per pcs,1,lab_test
+539529,soluble liver ag,2,lab_test
+539530,soluble liver antigen,1,lab_test
+539531,soluble liver antigen ( sla) abs,1,lab_test
+539532,soluble liver antigen (sla) abs,1,lab_test
+539533,soluble liver antigen abs,1,lab_test
+539534,soluble liver antigen abs serum,1,lab_test
+539535,soluble liver antigen abs( so,1,lab_test
+539536,soluble liver antigen antibodies,1,lab_test
+539537,soluble liver antigen _ sla_ abs,1,lab_test
+539538,soluble transferrin receptor,2,lab_test
+539539,soluble transferrin receptor - s.o,1,lab_test
+539543,solucoprtef,1,other
+539544,solucoritef 100,1,other
+539545,solucort iv,1,supplies
+539547,solucort-f,1,other
+539635,solucortef100 m,1,other
+539636,solucortef100mg,1,other
+539640,solucortif,3,other
+539654,solucortif i m,1,lab_test
+539655,solucortif i v,1,lab_test
+539656,solucortif inject,1,other
+539657,solucortif via,1,other
+539662,solucortiv 100 m/g,1,other
+539667,solumedrol,2,other
+539668,solumedrol (i.v,1,lab_test
+539677,solumedrol 40,1,other
+539688,solumedrol i.v,1,lab_test
+539697,soluo kortif,1,other
+539698,soluprep swab,1,lab_test
+539700,soluset,2,other
+539701,soluset ( iv-burette set,1,supplies
+539703,soluset 100 x 60mm,1,other
+539704,soluset 100*50 (bl00d ciring,1,other
+539705,soluset 100x60.#ab-4965-20,1,lab_test
+539708,soluset 150p,1,other
+539710,soluset plain,1,other
+539712,soluset with cassette,1,other
+539713,soluset with i.v pump,1,supplies
+539714,soluset without i.v pump,1,supplies
+539805,solvay medical checkup,1,consultation
+539880,solvex sy,2,other
+539911,somatomedin (growth factor) level,2,lab_test
+539912,somatomedin c,1,other
+539913,somatomedin c (igf1,2,other
+539915,"somatomedine c, (igf-1",1,other
+539916,"somatosensory evoked potentials, upper limbs",1,other
+539919,somatropin,1,other
+539948,somaya tawfiq hanafi,1,other
+539949,somega 30cap,1,other
+539950,somnoplasty - inferior turbinates,1,procedure
+539951,somnoplasty - soft palate,1,procedure
+539952,sonar,2,imaging
+539953,sonar of preganancy,1,imaging
+539954,sonar on breast - 503,1,imaging
+539955,sonar u/s - abdomen,1,imaging
+539956,sonar x-ray,1,imaging
+539957,songha night,1,other
+539958,sonic aid paper meridian 8400,1,other
+539959,sonogram,1,imaging
+539960,"sonogram , scrotum",1,imaging
+539961,"sonogram , upper and lower abdomen",1,imaging
+539962,"sonogram , upper & lower abdomen",1,imaging
+539963,sonogram kidneys and others,2,imaging
+539964,sonogram lower abdomen,1,imaging
+539965,sonogram pelvis,1,imaging
+539966,sonogram scrotum,2,imaging
+539967,sonogram thyroid and others,2,imaging
+539968,sonogram thyroid soft tissue breast,1,imaging
+539969,sonogram thyroid or soft tissue or breast,1,imaging
+539970,sonogram upper & lower abdomen,1,imaging
+539971,sonogram upper abdomen,1,imaging
+539972,"sonogram, kidneys and others",1,imaging
+539973,"sonogram, lower abdomen",1,imaging
+539974,"sonogram, pelvis",1,imaging
+539975,"sonogram, scrotum",1,imaging
+539976,"sonogram, thyroid and others",1,imaging
+539977,"sonogram, upper and lower abdomen",2,imaging
+539978,"sonogram, upper & lower abdomen",1,imaging
+539979,"sonogram, upper abdomen",1,imaging
+539981,sonogram- kidneys and others,1,imaging
+539982,sonohysterography,1,other
+539983,sonopet iq irrigating suction cassette#55005730001,1,supplies
+539987,sony 21l(box 4cartridge + 200 sheetx6,1,other
+540061,soothie newborn sterile disposable,1,supplies
+540062,soothie notched for babies 30-34 weeks sterile disposable,1,supplies
+540067,soporidex,1,other
+540072,soporidex 100 micrograms/ml,1,other
+540075,soporidex 100 / ml,1,other
+540093,sopt,1,other
+540094,sor+ ilm peeling +sf6,1,other
+540100,"sorbafix,absorbable hernia fixation system-per pcs",1,procedure
+540655,soturing of deep wound under l a,1,lab_test
+540657,soufeia,1,other
+540662,souna only 15 days,1,other
+540666,sowl,1,other
+540667,sox-10,1,other
+540669,"soya oil,triglycerides medium chain,olive oil,fish oil",1,lab_test
+540674,sp cons,1,consultation
+540675,sp consultation,3,consultation
+540676,sp consulttion,1,other
+540678,sp dentist examination,2,consultation
+540680,sp gravity in urine,1,lab_test
+540681,sp-m10-f-spiderman,1,other
+540682,sp. consultation,1,consultation
+540683,sp.cons.fees,1,consultation
+540684,sp.consultation,1,consultation
+540685,sp.correct.of kyph(post)w/fix,1,other
+540686,sp.correction of scoliosis,1,other
+540687,sp.dec(cx)ant-disc+fix and fus 1lv,1,other
+540688,sp.dec(d-l)post+ w/o fix mult,1,other
+540689,sp.dec(d-l)post+fix and fus 1 levl,1,other
+540690,sp.dec(d-l)post+w/o fix 1 lvl,1,other
+540691,sp.dec+plif by bone+fix mult,1,imaging
+540692,sp.ige,1,lab_test
+540693,sp1 consultation,2,consultation
+540695,sp106 jill 001,1,other
+540696,sp106 jill 006,1,other
+540697,sp106 jill 015,1,other
+540698,sp106 jill 019,1,other
+540699,space maint- fixed bilat (direct,1,other
+540700,space maint- fixed bilat lab made,1,other
+540701,space maint- fixed unilat,1,other
+540702,space maint- fixed unilat (direct,1,other
+540703,"space maint., b+l/d. shoe",1,other
+540704,space maint.-fixed bilateral,1,other
+540705,space maintainer,3,other
+540706,space maintainer (band & loop,1,other
+540707,space maintainer (lingual arch,1,dental
+540708,space maintainer (transpalatal,1,other
+540709,space maintainer - fixed - unilateral,2,other
+540710,space maintainer for single side,1,other
+540711,space maintainer simple,1,other
+540712,"space maintainer,fixed unilateral",1,other
+540714,space maintainers - fixed or removable,1,other
+540715,space maintainers - removable bilateral,1,other
+540716,space mainteiner pedo (compound,1,other
+540717,space mentainer,1,other
+540718,space mmaintainer-fixed bliateral direct,1,other
+540719,space retainer - removable,1,other
+540720,spacemaker pro access and dissection system ref.smbttovlx,1,other
+540722,spacer 6068073 catalyft pl short 7mm medtronic,1,eyewear
+540723,spacer catalyft pl40 short 9mm 6069093,1,other
+540724,spacer for aerosol (medium,1,other
+540725,spacer for aerosol (small,1,other
+540726,spacer with mouthpiece,1,other
+540727,"spacer, expandablle interbody, device, extra lordotic, size l23 x h9 x w10, medtronic, sofamor danek, 8880923",1,supplies
+540728,"spacer, expandablle interbody, device, extra lordotic, size l28 x h8 x w10, medtronic, sofamor danek, 8880828",1,supplies
+540729,"spacer, rise, 8x22mm, 11-17mm, 15inches, globus, 193.041",1,other
+540730,spacers spinal cage peek 14x26mm capstone sofamor danek medtronic,1,supplies
+540731,spacialist consultant psycho,1,consultation
+540732,spacialist consultation orth,1,consultation
+540733,spacialist consultation pedia,1,consultation
+540734,spacialist phyiotherapy,1,other
+540735,spacilasit consultation opt,1,eyewear
+540737,spare pins for caliper,1,supplies
+540812,spasmopam,2,other
+540902,spasmotalin 20tabs,1,other
+540914,spasmotalin 20tab,1,other
+540916,spazmoban,1,other
+540917,spc-ige -f24( shrimps,1,lab_test
+540918,spc-ige f3 -( cod fish,1,lab_test
+540919,spc-ige i6 ( cockroach,1,lab_test
+540920,spc-ige e85 ( chicken feather,1,lab_test
+540921,spc-ige g2 cynodon dectylon ( bermda,1,lab_test
+540922,spc-ige g6 ( timothy,1,lab_test
+540923,spc-ige m3 ( aspergillus fumigatus,1,lab_test
+540924,spc-ige m5 ( candida albicans,1,lab_test
+540925,spc-ige t19 ( acacia,1,lab_test
+540926,spc-ige t20 ( mosquite,1,lab_test
+540927,spc-ige t3 ( common silver birch,1,lab_test
+540928,spc-ige w6 mugwort ( artemisia vulgoris,1,lab_test
+540929,spc-ige-f1( egg white,1,lab_test
+540930,spcialist,3,other
+540931,spcl tool final ball d:7.5mmm2:14att#14ba75d - per pcs,1,other
+540932,spcl tooll final ball d:7.5mmm2: 14att #14ba75d,1,other
+540933,spcs- sputum c/s,1,lab_test
+540934,spdium,1,other
+540935,spe consultaion,5,other
+540937,speacialist,1,other
+540938,speaclist consultion,1,other
+540939,speaking valve with oxygen supply port with 15mm coonector sterile disposable,1,supplies
+540940,"spears, surgical, merocel, box/18, medtronic, 400101, omni",1,supplies
+540941,spec oral surg treatment 1/4 h,1,other
+540942,spec.consultion,1,other
+540943,specailist,1,other
+540944,specailsit,1,other
+540945,specailst consultation,1,consultation
+540946,specalist consultation,3,consultation
+540947,specalist consultion,1,other
+540949,specalist gyn & obst,1,other
+540950,specalist opth,1,other
+540951,specalist peditric,1,other
+540952,specalist.cons,1,consultation
+540953,spech. consul,1,other
+540954,specia;ist,1,other
+540955,special nursing care,4,consultation
+540956,special additional elements (tpn,1,other
+540957,special anterior segment photography w/ fluorescein angiography- unilateral,1,imaging
+540958,special baby care,1,other
+540959,special base curve,1,other
+540960,special c operations,1,other
+540961,special care - ist to 3rd wk,1,other
+540962,special care 1,1,other
+540963,special care 2,1,other
+540964,special care for neoborn,1,other
+540965,special care from 4th week,1,other
+540966,special care nursery,1,other
+540967,special consultation,3,consultation
+540968,special consultation ??? ??????,1,consultation
+540970,special eye exam initial,1,other
+540971,special eye exam subsequent,1,other
+540975,special lab test,1,lab_test
+540976,special maturity test,1,lab_test
+540977,special nuese,1,other
+540978,special nurse,1,consultation
+540979,special nurse (24-hour,1,consultation
+540980,special nurse (per shift) - 099-20016,1,consultation
+540981,special nurse 24 hours,1,consultation
+540982,special nurse at home (8 hours public h,1,consultation
+540983,special nurse in room,1,consultation
+540984,special nurse in room per 12 hrs,2,consultation
+540985,special nurse in room per 12 hours,1,consultation
+540988,special nursing care per hour,1,consultation
+540989,special nursing fee per shift ws00520023,1,consultation
+540990,special panorama views,2,imaging
+540992,special physiotherapy session,1,physiotherapy
+540993,special plastic stitch,1,eyewear
+540994,special room per day,4,consultation
+540995,special room/day(single room,1,consultation
+540996,special screw and plate,1,supplies
+540997,special slap for big bones and joints,1,imaging
+540998,special stain,1,other
+540999,special stain (each,1,other
+541000,special stain - mdl,1,other
+541001,special staining procedure,1,lab_test
+541002,special stains histopathology each,2,lab_test
+541004,"special stains, group i;hema",1,other
+541005,"special stains, histopathology, each",1,lab_test
+541006,"special stains; group ii, all other, histochemical stains",1,other
+541007,special thickness,1,other
+541008,"special treatment procedure (total body irradiation,hemibody radiation, per oral, endocaviatary or intraoperative cone irradiation",1,physiotherapy
+541009,special wheel chair adult 22* (mafsal,1,supplies
+541010,special wheel chair pedia (mafsal,1,supplies
+541011,specialest consultation,1,consultation
+541012,specialest consultation?????? ????????????,1,consultation
+541013,specialest consultationكشف أخصائي,1,consultation
+541014,specialiist consultation,1,consultation
+541015,specialis%20cardio,1,other
+541016,specialisit consultaion,1,other
+541018,specialist specialist specialist,1,consultation
+541019,specialist chest,1,consultation
+541020,specialist consultion,3,consultation
+541021,specialist surgeon visit,1,consultation
+541022,specialist (1) doctor consultation fee,1,consultation
+541023,specialist (1) uj doctor consultation fee,1,consultation
+541024,specialist (2) consultation fee,1,consultation
+541025,specialist (2) doctor consultation fee,1,consultation
+541026,specialist (2) oph doctor consultation fee,1,consultation
+541027,specialist - 1,2,consultation
+541028,specialist - 1 consult,1,consultation
+541029,specialist - 1 consult ( chest,2,consultation
+541033,specialist - 1 consult ( ent,2,consultation
+541035,specialist - 1 consult ( obgyne,2,consultation
+541037,specialist - 1 consult ( obygyne,1,consultation
+541038,specialist - 1 consult ( optha,1,consultation
+541039,specialist - 1 consult ( opthalmologist,1,consultation
+541040,specialist - 1 consult ( opthalmology,1,consultation
+541041,specialist - 1 consult ( pedia,2,consultation
+541043,specialist - 1 consult ( tropical med,2,consultation
+541045,specialist - 1 consult (pedia,1,consultation
+541046,specialist - consultation,2,consultation
+541047,specialist - ent,1,consultation
+541048,specialist - internist,1,consultation
+541049,specialist - ortho,1,consultation
+541050,specialist - psychiatry,1,consultation
+541051,specialist - rehab,1,consultation
+541053,specialist -102,1,consultation
+541054,specialist -gyn &obst,1,consultation
+541055,specialist .examination,1,consultation
+541056,specialist / diff,1,consultation
+541057,specialist 150sr,1,consultation
+541058,specialist 200sr,1,consultation
+541059,specialist ??? ?????? ???????,1,consultation
+541060,specialist by ambulance w nurse,1,supplies
+541061,specialist by ambulance w/nurse (dammam,1,supplies
+541062,specialist by ambulance with nurse for hospital patients,1,supplies
+541063,specialist check up,1,consultation
+541064,specialist checkup consultation,1,consultation
+541065,specialist chick-up,1,consultation
+541066,specialist clinic visit,2,consultation
+541067,specialist clinic visit - 1010,1,consultation
+541068,specialist clinical examination (opd,1,consultation
+541069,specialist clniic visit,1,consultation
+541070,specialist con00,1,consultation
+541071,specialist cons,4,consultation
+541073,specialist consul,2,consultation
+541075,specialist consul. ?????? ????????????,1,consultation
+541076,specialist consult,2,consultation
+541079,specialist consultaion (opd,1,consultation
+541080,specialist consultant phy,1,consultation
+541081,specialist consultantion,3,consultation
+541082,specialist consultat,1,consultation
+541084,specialist consultation (pt,1,consultation
+541085,specialist consultation (sfv,1,consultation
+541087,specialist consultation - 13001,1,consultation
+541088,specialist consultation - 59002,1,consultation
+541089,specialist consultation - 8001,1,consultation
+541090,specialist consultation - credit,1,consultation
+541091,specialist consultation - ent,1,consultation
+541092,specialist consultation 6001,1,consultation
+541093,specialist consultation cardiology,1,consultation
+541094,specialist consultation chest,1,consultation
+541095,specialist consultation dental,1,dental
+541096,specialist consultation dentest,1,consultation
+541097,specialist consultation dentist,1,consultation
+541098,specialist consultation derm,1,consultation
+541099,specialist consultation dermatology,1,consultation
+541100,specialist consultation e.n.t,1,consultation
+541101,specialist consultation ent,3,consultation
+541102,specialist consultation fee,5,consultation
+541103,specialist consultation fee ( ex,1,consultation
+541104,specialist consultation fee -opd,1,consultation
+541105,specialist consultation for im,2,consultation
+541106,specialist consultation g.s,1,consultation
+541107,specialist consultation heart,1,consultation
+541108,specialist consultation im,1,consultation
+541109,specialist consultation internal medicin,1,consultation
+541110,specialist consultation nuro,1,consultation
+541111,specialist consultation ob / gynaecology,1,consultation
+541112,specialist consultation obg,1,consultation
+541113,specialist consultation opt,1,eyewear
+541114,specialist consultation opthalmology,1,consultation
+541115,specialist consultation orthopedic surgery,1,procedure
+541116,specialist consultation pediatric,1,consultation
+541117,specialist consultation pulmonologist,1,consultation
+541118,specialist consultation uro,1,consultation
+541119,specialist consultation urology,1,consultation
+541120,specialist consultation كشف أخصائى,1,consultation
+541121,specialist consultation-1202,1,consultation
+541123,specialist cunsultation visit,1,consultation
+541125,specialist daily/visit fee,1,consultation
+541126,specialist dental,3,dental
+541127,specialist dental consultation,1,dental

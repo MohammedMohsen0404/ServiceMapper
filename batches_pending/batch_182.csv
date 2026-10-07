@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+383160,multi root canal tooth tratment,1,dental
+383161,multi root canal tooth treatment,1,dental
+383162,multi root canal tooth treatment with filling,1,dental
+383169,multi root canal treatment with filling with abscess,1,dental
+383170,multi root canal treatmentw/filling,1,dental
+383172,multi root single,1,other
+383173,multi service treatment session,1,physiotherapy
+383174,multi slice c.t aortic angiography (msct-ao,1,imaging
+383175,multi slice c.t brain angio,1,imaging
+383176,multi slice c.t coronary angiography cmsct-ca,1,imaging
+383177,multi slice c.t lower limb angio,1,imaging
+383178,multi slice c.t pulmonary angiography msct.p.a,1,imaging
+383179,multi load loop 250,1,other
+383180,multi load loop 2501127,1,other
+383182,multi use syringe a-2000 cathlab,1,supplies
+383183,"multi-axial screw cancellous bone screw, 3.5x10mm imp. titanium, sofamor danek #6958710",1,imaging
+383184,multi-band ligator,1,other
+383185,multi-machines physiotherapy session,1,physiotherapy
+383186,multi-root canal treatment w/filling,1,dental
+383187,"multi-chamber venous compression system garment, reusable",1,other
+383188,"multi-modality therapeutic radiation phantom, test object",1,lab_test
+383189,multi-purpose diagnostic imaging table,1,other
+383190,multi-purpose invasive/noninvasive electrode kit,1,supplies
+383191,multi-purpose percutaneous abdominothoracic drainage catheter,1,supplies
+383194,"multi-purpose surgical mesh, biologic-polymer composite",1,dental
+383195,"multi-purpose surgical mesh, composite-polymer, antimicrobial",1,dental
+383196,"multi-purpose surgical mesh, metallic",1,supplies
+383197,"multi-purpose surgical mesh, silk, bioabsorbable",1,supplies
+383198,"multi-purpose surgical mesh, synthetic polymer, bioabsorbable",1,supplies
+383199,"multi-purpose surgical mesh, synthetic polymer, non-bioabsorbable, antimicrobial",1,supplies
+383200,"multi-purpose surgical power tool system, line-powered",1,procedure
+383201,"multi-purpose surgical power tool system, pneumatic",1,procedure
+383202,multi-purpose surgical skin adhesive tape,1,supplies
+383203,multidisciplinary team assessment ( face-to-face,1,consultation
+383204,multidisciplinary team assessment( face-to-face,1,consultation
+383207,"multipolar bipolar cup liner 28mm i.d for use with 47/48/49 mm, shells zimmer 1""s, #5001-47-28",1,lab_test
+383210,multichannel general-purpose infusion pump,1,supplies
+383211,multifire scorpion needle ar 13995n,1,supplies
+383212,"multifunction cardiac electrode, paediatric",1,supplies
+383214,multilind 60,1,other
+383215,"multimodalities physiotherapy, per session",1,physiotherapy
+383216,multimodalities per session - out patient,1,physiotherapy
+383217,"multimodalities, per session - neurologic",1,physiotherapy
+383218,"multimodalities, per session - orthopedic",1,physiotherapy
+383219,"multimodalities, per session - pediatric",1,physiotherapy
+383224,multiple molluscom contagiosa,1,other
+383225,"multiple (soft tissue, nerve, tendon and skin repair",1,procedure
+383226,multiple autoimmune reactivity screen (array 5,1,other
+383227,"multiple band ligator set, micro-tech endoscopy (ddss1540)#mbls-7f-nl",1,procedure
+383228,multiple cautery of warts ( 3,1,procedure
+383229,multiple chalazion removal,1,procedure
+383230,multiple discectomy and laminectomy,1,procedure
+383231,multiple food immune reactivity screen (array 10,1,other
+383232,multiple papilloma excision under local anesthesia,1,procedure
+383233,"multiple sclerosis profile, oligoclonal banding & csf igg index",1,lab_test
+383234,"multiple sclerosis and cerebellar ataxia, minor complexity",1,inpatient
+383235,multiple tendons repair,1,procedure
+383236,multiple wart excision ????? ????? ??????,1,procedure
+383237,multiple wound dressing,1,supplies
+383238,multiple z-plasty of the lip,1,procedure
+383239,multiple amino acids; qual,1,lab_test
+383240,"multiple coagulation factor ivd, control",1,lab_test
+383241,"multiple injections of varicose veins, unilateral",1,procedure
+383242,"multiple peripheral artery stent, bare-metal",1,supplies
+383243,multiple sclerosis,1,other
+383244,multiple-base walking stick,1,supplies
+383245,"multiple-piece intestinal ostomy bag, open-ended",1,procedure
+383247,"multiplex pcr cerebrospinal fluid csf (bacteria, virus and fungus",1,lab_test
+383248,"multiplex pcr gastrointestinal gi (bacteria, virus and parasites",1,lab_test
+383249,"multiplex pcr pneumonia plus 34 (bacterial, viral, resistance) tat 6h",1,lab_test
+383250,multiplex pcr positive blood culture bcid (bacterial and fungal,1,lab_test
+383251,multiplex pcr respiratory (rp2) 21 (viral and bacterial) tat 6h,1,lab_test
+383252,multiplex pcr respiratory 21 (viral and bacterial) tat 6h,1,lab_test
+383253,"multipolar bipolar cup liner 28mm, zimmer, #5001-44-28",1,other
+383254,"multipolar bipolar cup liner 28mm, zimmer, #5001-50-28",1,other
+383255,"multipolar bipolar cup liner 46mm, zimmer, #5001-46",1,other
+383256,"multipolar bipolar cup shell 45mm, zimmer, #5001-45",1,other
+383266,"multivitamin, omega3 - mothernest multivitamin - oral, gum",1,dental
+383271,"multivitamins (pregnancy care) oral strip orodispersible film, 30 oral strip/box",1,supplies
+383277,mumford's procedure (excision of acromioclavicular joint - excluding supplies,1,procedure
+383278,mumfords procedure (excision of acromioclavicular joint - excluding supplies,1,procedure
+383279,mumogram x.ray breast bilateral,1,eyewear
+383281,mumps - igm,1,lab_test
+383283,"mumps ab, igm and igg - send out",1,lab_test
+383285,mumps abs (igg & igm,1,lab_test
+383286,mumps abs (igg&igm) -{q},1,lab_test
+383287,mumps abs igg&igm,1,lab_test
+383288,mumps abs igm,1,lab_test
+383289,"mumps antibodies (igg,igm",1,lab_test
+383292,mumps igg antibodies,1,lab_test
+383293,mumps igg antibody,1,lab_test
+383295,"mumps virus antibodies igg and igm, serum",2,lab_test
+383296,"mumps virus antibodies igg, serum",1,lab_test
+383298,mumps virus antibody (igg,1,lab_test
+383299,mumps virus antibody (igm,1,lab_test
+383300,mumps virus antibody igm,1,lab_test
+383302,mumps virus antibodies igg and igm serum,1,lab_test
+383338,mundell ondanesteron,1,other
+383341,muneera abdulhakim alhammadi,1,other
+383349,murano 0400,1,other
+383351,muscle biopsy for histopathology,1,lab_test
+383352,muscle biopsy with ihc and special strains study (so,1,procedure
+383353,muscle biospy - lab (roya lab,1,other
+383354,muscle release,1,procedure
+383355,muscle biopsy lesion excision,1,procedure
+383356,muscle relaxation message - home visit,1,consultation
+383357,muscle training exercise (one day,1,supplies
+383358,"muscle-specific kinase (musk) autoantibody, serum",1,lab_test
+383359,muscles and skin flaps,1,other
+383360,musclo skeletat u/s,2,imaging
+383363,musculoskeletal(any region,1,other
+383364,muse i 1000 ric,1,other
+383366,muslim badawialmubarak,1,other
+383367,mustang,1,other
+383368,mustang balloon different sizes (boston scientific,1,supplies
+383369,mustang frm 6270/54/17 c4,1,eyewear
+383370,mustang frm 6491 c1,1,eyewear
+383371,mustang frm 6497 c3,1,eyewear
+383372,mustang frm 6598 c1,1,eyewear
+383382,mutars genux mk stem ha 16-125mm,1,supplies
+383383,"mutars, proximal tibia",1,other
+383384,"muvu diabetic socks milos , white , height h5, m",1,other
+383385,"muvu diabetic socks milos , white , height h5, xl",1,other
+383386,"muvu diabetic socks milos , white, height h5, l",1,other
+383387,"muvu diabetic socks milos , white, height h5, s",1,other
+383388,muxava,1,other
+383393,myasthenia gravis panel,1,lab_test
+383396,mycotox profile - so nordic,1,lab_test
+383397,mycobacteria tuberculosis; direct probe,1,supplies
+383400,"mycobacterial culture, urine",1,lab_test
+383401,mycobacterial culture definitive identification each isolate,1,lab_test
+383402,"mycobacterial culture, definitive identification, each isolate",1,lab_test
+383403,mycobacteric id; biochemical test,1,lab_test
+383404,mycobacterium tb complex pcr,1,lab_test
+383405,mycobacterium tuberculosis (mtb) pcr,1,lab_test
+383407,mycobacterium tuberculosis complex and mycobacterium other than tuberculosis detection by pcr,1,lab_test
+383408,mycobacterium tuberculosis complex detection by pcr,1,lab_test
+383409,mycobacterium tuberculosis pcr,1,lab_test
+383411,"mycobacterium tuberculosis complex, molecular detection, pcr, paraffin",1,lab_test
+383412,mycobacteriun t.b by pcr,1,lab_test
+383414,mycoheal,1,other
+383452,mycoheal400mg3vagsupp,1,other
+383453,mycohealoralgel40g,1,other
+383456,mycology culture,1,lab_test
+383462,mycoplasma,1,other
+383464,mycoplasma pneumonia ab,1,lab_test
+383465,mycoplasma pneumonia abs igg,1,lab_test
+383467,mycoplasma pneumonia igg,1,lab_test
+383468,mycoplasma pneumonia igm,1,lab_test
+383469,"mycoplasma pneumoniae abs (igg, igm",1,lab_test
+383470,"mycoplasma pneumoniae antibodies, igg and igm, quantitative, serum",1,lab_test
+383471,mycoplasma serology,1,lab_test
+383473,mycoplasma any source culture,1,lab_test
+383474,mycoplasma culture,1,lab_test
+383475,mycoplasma hominis pcr,1,lab_test
+383477,"mycoplasma, antibody send out",1,lab_test
+383495,"myelin assoc. glycoprotein (mag) antibody, my 140 s/omy",1,lab_test
+383496,"myelin associated glycoprotein antibody (mag) (iga, igg, igm spec.) send out bs",1,lab_test
+383497,myelin oligodendrocyte glycoprotein (mog) antibody (igg,1,lab_test
+383498,myelin oligodendrocyte glycoprotein (so,1,other
+383499,myelin oligodendrocyte glycoprotein abs (mog,1,lab_test
+383500,myelin oligodendrocyte glycoprotein abs (mog){bs},1,lab_test
+383501,myelin oligodendrocyte glycoprotein igg fluorescence-activated cell sorting in serum (mog-facs) my s/omy,1,lab_test
+383502,myelin oligodendrocyte glycoprotein in serum,1,lab_test
+383503,myelin oligodendrocyte glycoprotien abs (mog) {bs},1,lab_test
+383504,myelin oligodendrocyte glycoprotienabs ( anti mog,1,other
+383505,myelogram,1,other
+383506,myelography,1,other
+383507,myelography total,1,other
+383508,myeloid tumor ngs panel (centogene,1,lab_test
+383509,myeloid tumor panel (somatic,1,lab_test
+383510,"myeloma fish panel (fgfr3,rb1,bcl1,p53,1q21",1,lab_test
+383511,"myelomeningocele repair, major defect",1,procedure
+383512,"myelomeningocele repair, minor defect",1,procedure
+383513,myeloperoxidase antibody (p-anca,1,lab_test
+383514,"myeloproliferative neoplasm (mpn), calr with reflex to mpl",1,other
+383515,myeomectomy,1,procedure
+383524,"myocardial perfusion, exercise stress, thallium / mibi",1,other
+383525,myocardial pharmacologic stress (thallium/mibi) persantin/dobutamin/adenosine,1,other
+383534,myoglobin (quantitative,1,other
+383535,myoglobin in urine-send out,1,lab_test
+383536,myoglobin urine my myou-39,1,lab_test
+383537,myoglobin in serum (quantitative,1,lab_test
+383538,myoglobin in serum (quantitative) {q} (sfv,1,lab_test
+383539,myoglobin in urine,1,lab_test
+383540,"myoglobin, serum",1,lab_test
+383541,"myoglobin, serum my myos-33",1,lab_test
+383543,myoglobin; quant,1,lab_test
+383547,"myoma screw, reusable",1,supplies
+383548,"myoma screw, single-use",1,supplies
+383550,myomectomy (4d,1,procedure
+383552,myomectomy abdominal p/d,1,procedure
+383553,myomectomy for multiple myoma,1,procedure
+383555,myomectomy excision of fibroid tumor(s) of uterus 1 to 4 intramural myoma(s) with total weight of 250 grams or less and/or removal of surface myom,1,procedure
+383556,myomectomy excision of fibroid tumor(s) of uterus 5 or more intramural myomas and/or intramural myomas with total weight greater than 250 grams ab,1,lab_test
+383559,"myomectomy, hysteroscopic",1,procedure
+383560,"myomectomy, laparoscopic",1,procedure
+383561,"myomectomy, single or multiple (separate procedure): any approach",1,procedure
+383562,"myomectomy, single or multiple, laparoscopic",1,procedure
+383566,"myorest plus patch, 3 patch/box",2,supplies
+383569,myoring +cxl (corneal cross linking one eye,1,lab_test
+383570,myorista ecg,1,diagnostic
+383573,myositis abs screen mi-2 ab tif1 mda5 nxp2 sae1 im50 pmscl 100 pmscl 75 jo1 srp pl7 pl12 ej oj ro-52,1,lab_test
+383574,myositis antibody panel,1,lab_test
+383575,"myositis specific autoantibody, mi-2",1,other
+383576,myotherm xp 4:1 with bridge cardiopl,1,dental
+383577,myotherm xp 4:1 with bridge cardiopl - 61399405331,1,dental
+383579,myringoplasty p/d,1,procedure
+383580,myringotomy - (bilateral)- in o.r,1,procedure
+383581,myringotomy - in o.r,1,procedure
+383583,myringotomy & fix of grom tube - uni,1,supplies
+383584,myringotomy & grommet tube insertion (bilateral,1,supplies
+383585,myringotomy & insertion of ear gromets - unilateral,1,procedure
+383586,myringotomy & insertion of ear gromets -bilateral,1,procedure
+383587,myringotomy & insertion of ear grommets p/d,1,procedure
+383588,myringotomy & grommets bilateral,1,procedure
+383589,myringotomy (local anaesthesia,1,procedure
+383590,myringotomy + gommet insertion as pd,1,procedure
+383592,myringotomy + grommet tube insertion,1,supplies
+383593,myringotomy + grommet tube insertion - (bilateral,1,supplies
+383594,myringotomy + grommet tube (1d) bilat,1,supplies
+383595,myringotomy - or - 1 day(s,1,procedure
+383596,myringotomy 2 sides with tube,1,supplies
+383598,myringotomy and insertion of ear grommets ( 50% for 2nd operation,1,procedure
+383599,myringotomy insertion ear grommet,1,procedure
+383600,myringotomy w tube insertion,1,supplies
+383601,myringotomy with insertion of ear grommets under g.a. bilateral,1,procedure
+383602,myringotomy with insertion of ear grommets under g.a. bilateral gig axa ayh,1,procedure
+383603,myringotomy with insertion of ear grommets under g.a. unilateral taw ayh,1,procedure
+383604,myringotomy and insertion of ear grommet under g.a,1,procedure
+383607,myringotomy including aspiration and/or eustachian tube inflation requiring general anesthesia,1,supplies
+383609,myringotomy w insertion of tube uni,2,supplies
+383612,"myringotomy w insertion of tube, uni",1,supplies
+383613,myringotomy with ventilation tube insertion - bilateral,1,supplies
+383614,myringotomy with ventilation tube insertion - unilateral,1,supplies
+383617,myringotomy with insertion of ear grommets unilateral,1,procedure
+383618,myringotomy with insertion of ear grommets under ga(1 side,1,procedure
+383620,myringotomy with insertion of tube unilateral,1,supplies
+383624,"myringotomy, unilateral, adenoidectomy without tonsillectomy",1,procedure
+383625,myringtomy%20%2b-%20insertion%20of%20ventilation%20tubes,1,other
+383632,n .i.c.u supervision consultant/day,2,consultation
+383635,n 10159/c7/50/18 =nikon,1,eyewear
+383642,n block lumbar/thoracic - 1 day pkg,1,procedure
+383643,n c c t brain/head(non contrast,1,imaging
+383644,n d ----- vaginal or cervical swab c & s,2,imaging
+383651,n g t insertion,1,procedure
+383652,n p l scope - dr. fee,1,procedure
+383653,n p l scope - hosp. charge,1,procedure
+383654,n s 9%,1,lab_test
+383655,n s s,1,lab_test
+383656,n terminal pro brain naturaitic peptide (nt-probnp,1,lab_test
+383657,n actate esterase,1,other
+383658,n delivery+baby care(2 day hospital stay&baby neon,1,procedure
+383659,n-acetyl glucosaminidase & creatinine,1,lab_test
+383660,n-acetylprocainamide (napa) / procainamide,1,other
+383661,n-myc amplification (fish) - s.o,1,lab_test
+383662,"n-terminal telopeptide (ntx), urine s.o",1,lab_test
+383665,n. bilirubin,1,lab_test
+383666,n. delivery w/ or w/o episiotomy with n. baby,1,procedure
+383667,n. i. c. u,1,other
+383668,n. resuscitation,1,procedure
+383669,n. s,1,other
+383673,n.95 fit test,1,lab_test
+383675,n.c.s (one limb,1,supplies
+383676,n.c.v,1,lab_test
+383677,n.c.v. - 2 nerves c.t.s,1,imaging
+383678,n.c.v. - 2 nerves/c.t.s,1,imaging
+383682,n.d-----urea breath test for h. pylori,1,lab_test
+383683,n.d---b hcg,1,lab_test
+383684,n.d---bhcg - hormone,1,lab_test
+383685,n.d---c p k,1,lab_test
+383686,n.d---cea,1,lab_test
+383687,n.d---cpk mb,1,lab_test
+383689,n.d---l d h,1,lab_test
+383690,n.d---lh,1,lab_test
+383691,n.d---lh . hormone,1,lab_test
+383692,n.d---lipase,1,lab_test
+383694,n.d---partial thromboplastin time (ptt,1,lab_test
+383695,n.d---potasium (k+,1,lab_test
+383696,n.d---prolactin,1,lab_test
+383697,n.d---prothrombin time (pt,1,lab_test
+383698,n.d---s . ferritin,1,lab_test
+383699,n.d---s. phosphorus,1,lab_test
+383700,n.d---sodium,1,lab_test
+383701,n.d---sodium (na+,1,lab_test
+383702,n.d---troponin - i,2,lab_test
+383703,n.d---tropanin - i ( quantative,1,lab_test
+383705,n.d---troponin - t (qualitative,1,lab_test
+383706,n.d.ct guided biopsy,1,imaging
+383708,"n.g,tube insertion",1,supplies
+383709,n.g. tube insertion_erm1009,1,supplies
+383710,n.g. tube with x-ray detection,1,imaging
+383711,n.g.feeding 24 hours,1,supplies
+383712,n.g.t insertion,2,procedure
+383713,n.g.t insertion - 148-10118,1,procedure
+383715,n.g.t,1,lab_test
+383716,n.g.t. insertion mw,1,procedure
+383717,n.g.t. insertion & bag,1,procedure
+383718,n.g.tube,1,supplies
+383719,n.i.c.u (neonatal intensive care,1,lab_test
+383720,n.i.c.u,1,lab_test
+383721,n.i.c.u. (baby,2,lab_test
+383722,n.i.c.u. bed ( non ventilator,2,supplies
+383723,n.i.c.u. bed ( ventilator,2,supplies
+383724,n.i.c.u. disposable (per day,1,supplies
+383726,n.i.c.u. - 099-14050,1,lab_test
+383727,n.i.c.u. - 24 hours,1,lab_test
+383730,n.i.c.u./ day,2,lab_test
+383732,n.i.c.u/consumables & disposables/day,1,lab_test
+383734,n.r.b,1,lab_test
+383735,n.ricci - n123sc07,1,other
+383736,n.ricci - n133c06,1,other
+383737,n.s,1,lab_test
+383738,n.s - ????? ???,1,other
+383746,n.s.v.d (normal spontaneous vaginal delivery,1,procedure
+383747,n.salaine,1,other
+383748,n.salin,1,other
+383753,n.star frm kids 1007/46/16/c1,1,eyewear
+383754,n.v.d + exploration under ga,1,procedure
+383755,n.v.d,1,lab_test
+383756,n.v.d. under ga,1,lab_test
+383759,n/d package 1day,1,other
+383761,n/s,1,other
+383763,n/s i.v,1,lab_test
+383764,"n09b (drg) other vagina, cervix and vulva procedures, minor complexity (1 days alos",1,inpatient
+383765,n10159/c7/50/18 =nikon,3,eyewear
+383767,n10159/c7/50/18=nikon,1,eyewear
+383768,n2 o2 inhalation sedation 1/2,1,procedure
+383769,n20 operating fee,1,consultation
+383770,"n62b (drg) menstrual and other female reproductive system disorders, minor complexity",1,inpatient
+383771,n95 mask 8210,1,supplies
+383772,n95 - 1804 (box of 50pcs,1,other
+383773,n95 - 1804s,1,other
+383774,n95 face mask (1860s) -s,1,supplies
+383775,n95 face mask (3m1805) -s,1,supplies
+383776,n95 health care respirator mask - 1860,1,supplies
+383777,n95 kimberly large (facemask) -- med/store,1,other
+383778,n95 mask,1,supplies
+383779,n95 mask 1860,1,supplies
+383780,n95 mask 1860s,1,supplies
+383781,n95 mask 9320+,2,supplies
+383782,n95 mask 9320+ aura,1,supplies
+383783,n95 mask regular size 1860 big bx/20,1,supplies
+383784,n95 mask small size 1860s bx/20,1,supplies
+383785,n95 maskregular size 1860 bigbx 20,1,other
+383786,n95 masksmall size 1860sbx 20,1,other
+383787,n95 mask 1804s 3m bx/50,1,supplies
+383789,na (s,1,lab_test
+383790,na (s) sodium,3,lab_test
+383791,"na (s) "" sodium",2,lab_test
+383792,"na (s) ""sodium",1,lab_test
+383795,na (sodium,2,lab_test
+383797,na (urinerandom,1,lab_test
+383798,na + k,1,lab_test
+383799,na 24 hrs. (urine,1,lab_test
+383803,na s sodium,1,lab_test
+383804,na sodium in serum,1,lab_test
+383805,na valproote,1,lab_test
+383806,"na _s_ "" sodium",1,lab_test
+383807,na(sodium,2,lab_test
+383808,"na(urine,random",1,lab_test
+383809,na+,2,lab_test
+383810,na- sodium,2,lab_test
+383811,na-airlineairforce-f-nano,1,lab_test
+383812,na-arcade-f - nano,1,lab_test
+383813,na-arcade3.0-f-nano,1,lab_test
+383814,na-arcadesc3.0-f-nano,1,lab_test
+383815,na-arkanoid-f - nano,1,lab_test
+383816,na-beat-f - nano,1,lab_test
+383817,na-bench-f - nano,1,lab_test
+383818,na-berlin-f - nano berlin,1,lab_test
+383819,na-berlin-f-nanoberlin,1,lab_test
+383820,na-birdie-f - nano birdie,1,lab_test
+383821,na-birdie-f-nanobirdie,1,lab_test
+383822,na-blogger-f - nano,1,lab_test
+383823,na-breakout-f - nano,1,lab_test
+383824,na-brio-f - nano,1,lab_test
+383825,na-bunny-f - nano,1,lab_test
+383826,na-burn-f - nano,1,lab_test
+383827,na-camper-f - nano,1,lab_test
+383828,na-camper3.0-f-nano,1,lab_test
+383829,na-campersc3.0-f-nano,1,lab_test
+383830,na-chat-f - nano,1,lab_test
+383831,na-clipping3.0-f-nano,1,lab_test
+383832,na-crew-f - nano,1,lab_test
+383833,na-crew3.0-f-nano,1,lab_test
+383834,na-crewsc3.0-f-nano,1,lab_test
+383835,na-fanboy-f-nano,1,lab_test
+383836,na-fanboy3.0-f-nano,1,lab_test
+383837,na-fangame-f - nano,1,lab_test
+383838,na-fangame3.0-f-nano,1,lab_test
+383839,na-fangamesc3.0-f-nano,1,lab_test
+383840,na-flicker3.0-f-nano,1,lab_test
+383841,na-flickersc3.0-f-nano,1,lab_test
+383842,na-follower-f - nano,1,lab_test
+383843,na-funlight-f - nano funlight,1,lab_test
+383844,na-gaikai-f - nano,1,lab_test
+383845,na-gaikai3.0-f-nano,1,lab_test
+383846,na-gig-f - nano metal,1,lab_test
+383847,na-gig-f-nanometal,1,lab_test
+383848,na-glitch-f - nano,1,lab_test
+383849,na-glitch3.0-f-nano,1,lab_test
+383850,na-glitchsc-f-nanosolarclip,1,lab_test
+383851,na-glitchsc3.0-f-nano,1,lab_test
+383852,na-glow flicker 3.0-fnano,1,lab_test
+383853,na-glowcamper3.0-f-nano,1,lab_test
+383854,na-glowfangame3.0-f-nano,1,lab_test
+383855,na-glowpixel3.0-f-nano,1,lab_test
+383856,na-hashtag-f-nano,1,lab_test
+383857,na-joey-f - nano joey,1,lab_test
+383858,na-kitten-f - nano kitten,1,lab_test
+383859,na-kitten-f-nanokitten,1,lab_test
+383860,na-love sc-fnano love,1,lab_test
+383861,na-magic-f-nanomagic,1,lab_test
+383862,na-mimi-f - nano,1,lab_test
+383863,na-mimisc3.0-f-nano,1,lab_test
+383864,na-na,1,lab_test
+383865,na-pixel3.0-f-nano,1,lab_test
+383866,na-pixelsc3.0-f-nano,1,lab_test
+383867,na-popping-f - nano,1,lab_test
+383868,na-post-f-nanopost,1,lab_test
+383869,na-power sc-fnano power,1,lab_test
+383870,na-quest3.0-f-nano,1,lab_test
+383871,na-questsc-f-nanosolarclip,1,lab_test
+383872,na-questsc3.0-f-nano,1,lab_test
+383873,na-replay3.0-f-nano,1,lab_test
+383874,na-replaysc3.0-f-nano,1,lab_test
+383875,na-silicon-f - nano,1,lab_test
+383876,na-sleekreplay3.0-f-nano,1,lab_test
+383877,na-spark-f-nanospark,1,lab_test
+383878,na-sprite3.0-f-nano,1,lab_test
+383879,na-sticker-f - nano sticker,1,lab_test
+383880,na-sydney-f - nano sydney,1,lab_test
+383881,na-sydney-f-nanosydney,1,lab_test
+383882,na-tag-f - nano,1,lab_test
+383883,na-trending-f - nano,1,lab_test
+383884,na-writer-f - nano,1,lab_test
+383885,na-zoner-f - nano,1,lab_test
+383892,nabeel mohammedali j shalabi,1,other
+383893,nabel farid badran,1,other
+383908,nabil abdelghanysarhan,1,other
+383909,nabil abubakr batheeb,2,other
+383910,nabil bassuoni shehata,1,other
+383913,nabolizer set / session,1,physiotherapy
+383914,nabulization (opd pro. room,1,consultation
+383915,nabulizer with oxygen tent,1,supplies
+383917,nace (nipt) - 24 chromosomes extended and 6 extra microdeletions s/o igx,1,other
+383918,nace 24 (non invasive prenatal test) - s.o,1,lab_test
+383919,nace 24 extended - s.o,1,lab_test
+383920,nace 5 - s.o,1,lab_test
+383921,"nace basic nipt (aneuploidies 21, 18, 13, x, y) 14 days send out igenomix",1,other
+383922,nacet ii,1,other
+383947,nada elkady,1,other
+383948,nada jamal abdulqader,1,other
+383951,nada saeed youssef yahya,1,other
+383952,nadeem ahmadqureshi,1,other
+383953,nader abduljalil mustafa alhasan,1,other
+383954,nader mohamedal dabash,1,other
+383957,nadol actifast film coated tablete,1,other
+383963,nagwa kamel hanafy,1,other
+383965,nahlah fahad s alreshidi,1,other
+383966,naida q 30 ric - per pcs,1,other
+383969,naif ahmad alfattani,1,other
+383970,naif fahad alsulaima,1,other
+383971,naif faisal alharbi,1,other
+383973,naif mahmoud alamry,1,other
+383974,nail extraction,5,dental
+383975,nail (tfna) navigator tfa interlocking 12x235mm l (irene) # s-t475312235yn,1,supplies
+383976,"nail , elastic , titanium sz 3.5x450mm, , na-1735-450",1,lab_test
+383977,"nail , proximal , femur sz 11x380mm tit. gamma, , 348836t",1,lab_test
+383978,"nail , reconstruction tibial 9x380mm , 2-08-58-380,medgal , 2-08-58-380",1,supplies
+383979,"nail , tibialsz. 9x300mm , chm 3.2652.300",1,supplies
+383980,"nail ,elastic 2.5mm nzf3.x120.030,7s medical , 21331540",1,supplies
+383981,nail 3.5mm diam. 440mm long (475.935) synthes,1,supplies
+383982,nail 4.0mm diam. 440mm long (475.940) synthes,1,supplies
+383983,nail 4.5mm x 490mm,1,supplies
+383984,"nail anatomical femoral right 11x400, chm # 3.5106.401",1,supplies
+383985,nail avulsion,2,supplies
+383986,nail avulsion (or,1,supplies
+383987,nail avulsion - er,1,supplies
+383988,nail avulsion removal,3,supplies
+383990,nail avultion (partial nail,2,supplies
+383992,nail bed repair,1,supplies
+383993,nail bed repair - index,1,supplies
+383994,nail bed repair - little,1,supplies
+383995,nail bed repair - ring,1,supplies
+383996,nail bed repair - thumb,1,supplies
+383997,nail bed repair los 1 day,1,supplies
+383998,nail cannulated 7.5x280mm humeral interlocking. irene # 6814,1,supplies
+384001,nail clipping for fungus,1,lab_test
+384002,nail clippings for fungus,1,lab_test
+384003,nail dnamic t femur 10x395 left #dt210395,1,supplies
+384004,nail elastic 2.0x 440 mm - baide china # 931891441,1,supplies
+384005,nail elastic 2.5x440mm #931901441,1,supplies
+384006,nail elastic 2.5x440mm (irene) # s-1301.02.2501yn,1,supplies
+384007,nail elastic 3.5x300mm titanium tipmed # 123323,1,supplies
+384008,nail elastic 3.5x440mm baide #931921441,1,supplies
+384009,nail elastic 4.0x440mm baide #931931441,1,supplies
+384010,nail elastic titanium different sizes & colour,1,supplies
+384011,nail elastic titanium different sizes colour,1,supplies

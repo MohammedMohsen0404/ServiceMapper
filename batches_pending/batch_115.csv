@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+297221,immunogloublin f - 1,1,other
+297222,immunogloublin g,1,other
+297223,immunogloublin m,1,other
+297224,immunohestocytology cd10,1,other
+297225,immunohestocytology cd3,1,other
+297226,immunohestocytology cd5,1,other
+297227,immunohestycytolgy lca,1,other
+297228,immunohisto - stain (special) - s.o,1,lab_test
+297229,immunohisto chemistory for i markers,1,lab_test
+297230,immunohisto chemistory for ii markers,1,lab_test
+297231,immunohisto chemistry,1,lab_test
+297232,immunohisto stain (special)(send out,1,lab_test
+297233,immunohistocgemistry for breast cancer,1,other
+297234,"immunohistochemical staining (cd34,ini-i,desmin,sma,cd163,erg) send out",1,lab_test
+297235,immunohistochemical staining for ck19,1,lab_test
+297236,immunohistochemistry,3,other
+297237,immunohistochemistry thyroglobulin ab,1,lab_test
+297238,immunohistochemistry ( each stain,1,other
+297239,immunohistochemistry (1 marker) pathology,1,other
+297240,immunohistochemistry (6 markers,1,other
+297241,immunohistochemistry (each,1,other
+297242,"immunohistochemistry (ihc), any marker, paraffin block",1,procedure
+297243,immunohistochemistry (pax5,1,other
+297244,immunohistochemistry (prostate specific antigen,1,lab_test
+297245,immunohistochemistry (single marker,1,other
+297246,"immunohistochemistry - small panel (up to 6 markers), tissue (so",1,lab_test
+297247,immunohistochemistry / cea,1,lab_test
+297248,immunohistochemistry 2 markers,1,other
+297249,immunohistochemistry 3,1,other
+297250,immunohistochemistry ck 7,1,lab_test
+297251,immunohistochemistry ck20,1,other
+297252,immunohistochemistry in tissue,1,other
+297253,immunohistochemistry panel,2,lab_test
+297254,immunohistochemistry panel (12 markers,1,lab_test
+297255,immunohistochemistry panel (15 markers,1,lab_test
+297256,immunohistochemistry panel(15 markers,2,lab_test
+297259,"immunohistochemistry stain (each antibody except er, pr,her2-neu & pd-l1), each antibody",1,lab_test
+297260,immunohistochemistry stain (esterogen receptor,1,other
+297261,immunohistochemistry stain (her2-neu receptor,1,other
+297262,immunohistochemistry stain (pdl-1 assay,1,lab_test
+297263,"immunohistochemistry stain mmr panel (mlh1,msh2,msh6,pms2",1,lab_test
+297264,immunohistochemistry with abs against ag,1,lab_test
+297265,immunohistochemistry with abs against iga,1,lab_test
+297266,immunohistochemistry ki-67,1,other
+297267,immunohistochemistry( multiple marker,1,other
+297268,"immunohistochemistry, ea antibody;toxicology",1,lab_test
+297269,immunohistochemistry-single,1,other
+297270,immunohistological marker (each,1,other
+297271,immunohistostain - mdl,1,other
+297272,immunology deficiency (2) follow-up,1,consultation
+297273,immunology deficiency (2) new follow-up,1,consultation
+297274,immunology deficiency (2) new patient,1,other
+297275,immunology stem cell transplant follow-up,1,supplies
+297276,immunophenotyping,2,other
+297277,immunophenotyping ( so,1,other
+297278,"immunophenotyping (bone marrow, prepheral blood ) with mrd",1,imaging
+297279,immunophenotyping (cll,1,other
+297280,immunophenotyping (paroxysmal nocturnal hemoglobinuria) - s.o,1,lab_test
+297281,immunophenotyping (peripheral blood/bone marrow) leukaemia (accute) or lymphocyte,1,imaging
+297282,immunophenotyping (peripheral blood/bone marrow) leukaemia (accute) or lymphocyte-(ext lab-moh,1,imaging
+297283,immunophenotyping - leukemia/lymphoma panel (bone marrow or peripheral blood,1,imaging
+297284,immunophenotyping by flowcytometry,1,other
+297285,"immunophenotyping comprehensive panel (leukemia, lymphoma, acute & chronic",1,lab_test
+297286,immunophenotyping for body fluid,1,other
+297287,immunophenotyping for chronic leukemia and lymphoma,1,other
+297288,immunophenotyping for leukemia lymphoma panel edta wb bone marrow,1,imaging
+297289,immunophenotyping for leukemia lymphoma panel whole blood bone marrow,1,imaging
+297290,immunophenotyping for leukemia / lymphoma panel (whole blood bone marrow,1,imaging
+297291,"immunophenotyping for leukemia / lymphoma panel (whole blood, bone marrow",1,imaging
+297292,"immunophenotyping for leukomia / lymphoma (whole blood, bone marrow",1,imaging
+297293,immunophenotyping panel for c.l.l,1,lab_test
+297294,immunophenotyping/leukemia panel/diagnosis,1,lab_test
+297295,immunoreactive trypsin - s.o,1,lab_test
+297296,immunostain iii,1,lab_test
+297297,immunotherapy pkg,1,other
+297298,immunotyping (flow cytometry,1,other
+297299,immuoflornce ana,1,lab_test
+297300,imn ( in mamedullar nailing - complex- (p.d,1,procedure
+297301,imn tibia,1,other
+297572,imotone stick 30's,1,supplies
+297573,"imotone stick 30's, dummy manf",1,supplies
+297574,"imotone stick 30's, general manufacturer",1,supplies
+297578,impac surgigal extraction,1,dental
+297579,impac. canine labio - palataly,1,other
+297583,impact tooth remov part bony,1,dental
+297584,impact tooth remov soft tiss,1,dental
+297585,"impacted 3rd molar ""mod. case",1,dental
+297586,"impacted 3rd molar ""mod.case",1,dental
+297587,"impacted 3rd molar ""sev. case",1,dental
+297588,"impacted 3rd molar ""severe case",1,dental
+297589,impacted 3rd molar (middle case,1,dental
+297590,impacted 3rd molar lower surface tissue,1,dental
+297591,impacted 3rd molar moderate case,1,dental
+297592,impacted 3rd molar severe case,1,dental
+297593,impacted canine/premolar labialy,1,dental
+297594,impacted ext,1,other
+297595,impacted palatal canine,1,other
+297596,impacted r r extraction,1,dental
+297597,impacted remaining root extraction,3,dental
+297598,impacted roots ext,2,other
+297599,impacted surgical,1,procedure
+297600,impacted surgical ext,1,procedure
+297601,impacted surgical extraction,2,dental
+297602,impacted tooth (l.a,1,dental
+297603,impacted tooth (l.a) partially approved,2,dental
+297604,impacted tooth (l.a) ( partially approved,1,dental
+297605,impacted tooth (l.a) (partially approved,1,dental
+297606,impacted tooth (l.a) partailly approved,1,dental
+297608,impacted tooth (l.a)(partially approved,1,dental
+297609,impacted tooth (la) - complex,2,dental
+297612,impacted tooth (surgical,1,dental
+297613,impacted tooth - dental,1,dental
+297614,impacted tooth exposur/complex,1,dental
+297615,impacted tooth exposure/simple,1,dental
+297616,impacted tooth extra inside bones,1,imaging
+297617,impacted tooth extraction,4,dental
+297618,impacted tooth extraction (comp,1,dental
+297619,impacted tooth need surgery,1,dental
+297620,impacted tooth removal,1,dental
+297621,impacted tooth surgical extraction (horizontal,1,dental
+297622,impacted tooth surgical extraction (mesioangular,1,dental
+297623,impacted tooth surgical extraction / wisdom,1,dental
+297624,impacted wax removal (ear,2,procedure
+297625,impacted wisdo w/o suture,1,supplies
+297626,impacted wisdom ?severe case?,1,dental
+297627,impacted wisdom mild case,1,dental
+297628,impacted wisdom tooth,2,dental
+297629,impacted wisdom tooth extration,1,dental
+297630,impaction,1,other
+297631,impaction - dental,1,dental
+297632,impaction . - 125,1,other
+297633,impaction c,1,other
+297634,impaction surgical operation,1,procedure
+297635,impaction(surgical removal,1,procedure
+297636,impala fr 4251,1,eyewear
+297637,impala fr 4308,1,eyewear
+297638,"impant insert size 3/12.5mm, mutars, 57210203",1,other
+297639,impedance,1,other
+297640,impedance audiometry,2,diagnostic
+297643,impedance meter ( tympanogram ) (unilateral,1,diagnostic
+297646,impedance meter (tymoanogram,1,supplies
+297647,impedance meter (tymoanogran)-462,1,supplies
+297648,impedance meter (tympanofrm,1,supplies
+297649,impedance meter (tympanogram,3,diagnostic
+297650,impedance meter - tympanogram,1,diagnostic
+297651,impedance meter tympano,1,supplies
+297652,impedance meter tympanogram,1,diagnostic
+297653,impedance meter(tympanogram,1,diagnostic
+297654,impedance test,1,lab_test
+297655,impedancemetry,1,other
+297656,impedancemetry study,1,consultation
+297657,impedence audiometry,1,diagnostic
+297658,impedence audiometry (tympanogram,1,diagnostic
+297659,impedence meter,1,supplies
+297660,impedence meter (tympanogram,2,diagnostic
+297662,impedence meter/tympanometry,1,diagnostic
+297663,impella - ventricular assist procedure,1,other
+297664,impella cp smart assist abiomed,1,other
+297665,imperforated anus - colostomy - 3 days,1,procedure
+297666,imperforated anus-perineal anoplasty,1,procedure
+297667,impingement sydrome of shoulder and repair of rotator cuff,1,procedure
+297668,impingement syndrome of shoulder and repair of rotator cuff (4 days,1,procedure
+297669,"impl/repl aicd, tot sys, majc",1,inpatient
+297670,"impl/repl aicd, tot sys, minc",1,inpatient
+297671,"impl/repl pm, tot sys, majc",1,inpatient
+297672,"impl/repl pm, tot sys, minc",1,inpatient
+297673,implacross 2m 44mm head 28 mm implant cast germany # 29052844,1,supplies
+297674,implaion insertion ( contraceptive implant,1,supplies
+297675,implanaon nxt,1,other
+297676,implannon insertion,1,procedure
+297677,implanon,1,other
+297678,implanon removal,3,procedure
+297685,implanon contraceptive implant with l.a,1,supplies
+297686,implanon implant with application,1,supplies
+297687,implanon insertion,4,procedure
+297688,implanon insertion (if provided by the patient,1,procedure
+297689,implanon insertion (including the cost of material,1,procedure
+297690,implanon insertion/ removal,1,procedure
+297691,implanon nxt,2,other
+297705,implanon nxt implant,1,supplies
+297715,implanoun insertion,1,procedure
+297716,implant,2,supplies
+297718,implant (intra aortic balloon pump) - 2 day pkg,1,supplies
+297719,implant (intra aortic balloon pump) - 2 days pkg,1,supplies
+297720,implant (intra aortic balloon pump) -procedure,1,supplies
+297721,implant - porcelain/pontic connected to implant # 014-7160,1,dental
+297722,implant - surgical (including material costs) (swiss technology,1,eyewear
+297723,implant agilon stem 10x90mm cemented- cast #38209010,1,supplies
+297724,implant as p2,1,supplies
+297725,implant bio & ora porcrown,1,supplies
+297726,implant capstone peek vbs 12 / 26 mm verte-stack medtronic # 2991226int,1,supplies
+297727,implant cardiac loop/event recorder,1,supplies
+297728,"implant cast bipolar head, diff sizes",1,supplies
+297729,"implant cast ecofit hip stem, diff sizes",1,supplies
+297730,implant cast femoral component diff. size,1,supplies
+297731,"implant cast head tatanium , diff.size",1,supplies
+297732,"implant cast mediullary plug, diff sizes",1,supplies
+297733,implant cast tibia diff.sizes,1,supplies
+297734,implant charges,1,supplies
+297735,implant charges 1,1,supplies
+297736,implant chondrotissue f/cartilage biotissue #ct20301,1,supplies
+297737,"implant compression plate 3.5mm scp plt, 10 hole 121mm length # 00493501000",1,supplies
+297738,implant cost,2,supplies
+297739,implant device cochlear kit #cn5-ci522+cn7-c1,1,eyewear
+297740,"implant femoral distal kri, mutars, 57200043",1,supplies
+297741,"implant femoral posterior stabilized assorted size ( smith & nephew), sn-714-xxx",1,supplies
+297742,implant femoral posterior stabilized cemented size 3 right depuy synthes sigma jj# 1960-50-300,1,supplies
+297743,implant for denture (per fixture,1,dental
+297744,implant for fixation of tendon&ligaments - 1 day pkg,1,supplies
+297745,implant for one tooth with crown,1,dental
+297746,implant insertion in lacrimal canalicule,2,supplies
+297747,implant insertion in lacrimal canlicule,2,supplies
+297748,implant insertion with device,1,supplies
+297749,"implant mesh incontinence 01cm x 50cm, dynamesh, pv471056f1",1,supplies
+297750,implant mutars head femoral diff.size,1,supplies
+297751,implant np lordo 8mmx15mmx12mm g6626528,1,supplies
+297752,implant of vena cava filter (surgeon fees,1,supplies
+297753,implant placement (dentium,1,supplies
+297754,implant placement unit 1,1,supplies
+297755,"implant plate bridge symphyseal 4.5mm x ,71mm #00-1179-002-02",1,dental
+297756,implant port of chemotheapy- including catheter-cath lab,1,supplies
+297757,"implant radial head, assorted size, stryker, 496h0xxxx",1,supplies
+297758,"implant radial stem, assorted size, stryker, 496s0xxxx",1,supplies
+297759,implant removal,1,supplies
+297760,implant removal from long bones and hip,1,imaging
+297761,implant removal from short bone,1,imaging
+297762,implant screw lag dhs/dcs 12.7mm threaded 85mm synthes 280.850,1,supplies
+297763,"implant stem pressfit lgn assorted size (smith & nephew), sn-714240xxxx",1,supplies
+297764,implant supported fpd one each,1,supplies
+297765,implant surgery (per implant used,1,supplies
+297766,implant surgical placement per unit,1,supplies
+297767,implant system biocomposite 4.75x19.1mm achilles speedbridge arthrex/smithnephew #ar-8928bc-cp/72203,1,supplies
+297768,implant system internal brace ligament augmentation repair ar-1678-cp,1,supplies
+297769,implant system mpfl w/biocomposite #ar-1360c-cp / or equivalent smith nephew #72203854,1,supplies
+297770,implant system mpfl w/biocomposite arthrex #ar-1360c-cp,1,supplies
+297771,"implant system, biocomposite, achilles speedbridge, arthrex , ar-8928bc-cp",1,supplies
+297772,"implant tibia base revestion lgn assorted size ( smith & nephew), sn-71424xxx",1,supplies
+297773,"implant tibia block assorted size (smith & nephew), sn-7142114xxx",1,supplies
+297774,"implant tibial insert assorted size ( smith & nephew), sn-7142-xxx",1,supplies
+297775,implant without crown,1,dental
+297776,"implant, adjustable system, standard, rigidloop, depuy mitek, 232447",1,supplies
+297786,"implant, chondrotissue, ag version, biotissue, 001-2016",1,lab_test
+297787,"implant, cortical fixation, 20mm, rigidloop, depuy mitek, 232011",1,supplies
+297788,"implant, cortical fixation, 25mm, rigidloop, depuy mitek, 232014",1,supplies
+297789,"implant, cortical, adjustable, long, rigidloop, depuy, 232448",1,supplies
+297790,"implant, offset modular dom patella, 29m, attune, depuy, 1518-20-029",1,supplies
+297791,"implant, offset modular dom patella, 32m, attune, depuy, 1518-20-032",1,supplies
+297792,"implant, offset modular dom patella, 35m, attune, depuy, 1518-20-035",1,supplies
+297793,implant..for procelain crown,1,dental
+297794,implantable cardioverter defibrillator (icd) dual chamber,1,other
+297795,implantable cardioverter defibrillator (icd) insertion-double chamber (with device) - 3 days pkg,1,procedure
+297796,implantable cardioverter defibrillator (icd) insertion-single chamber (with device) - 3 days pkg,1,procedure
+297797,implantable contact lens - pkg,1,eyewear
+297798,implantable loop recorder (ilr) (without device) - 1 day pkg,1,other
+297799,implantable loop recorder - medtronic reveal linq without device price,1,supplies
+297800,implantable loop recorder - medtronic reveal linq without device price los 1day,1,supplies
+297801,implantaion of icd - dual (implant not included,1,supplies
+297802,implantation of a.i.c.d,1,lab_test
+297804,implantation of crt - d,1,other
+297805,implantation of crtd (implant not included,1,supplies
+297806,implantation of expandable stent,1,supplies
+297807,implantation of icd - single (implant not included,1,supplies
+297808,implantation of icd double,2,other
+297809,implantation of icd double (price is without device price,1,consultation
+297810,implantation of icd single,2,other
+297811,implantation of icd single (price is without device price,1,consultation
+297812,implantation of intrastromal corneal ring segments / unilat,1,other
+297813,implantation of permanent pacemaker - dual(implant not included,1,supplies
+297814,implantation of permanent pacemaker - single(implant not included,1,supplies
+297815,implantation of plastic stent,1,eyewear
+297816,implantation of temp.pacemaker ca00381220,1,supplies
+297817,implantation of vagal nerve stimulator (vns) - 2days pkg,1,other
+297818,implantation or explantation of loop recorder (implant not included,2,supplies
+297820,implantation without crwon,1,other
+297821,implantatn of tissue expander,1,other
+297822,"implants / materials - (1,000 sr",1,supplies
+297823,implants / materials - (100sr,1,supplies
+297824,implants / materials - (200sr,1,supplies
+297825,"implants / materials - (5,000 sr",1,supplies
+297826,implants / materials - (500sr,1,supplies
+297827,implants / materials - (50sr,1,supplies
+297829,impoess crown,1,dental
+297830,"impress berenstein catheter 5f-038 guidewire , #56538ber",1,supplies
+297831,impress braided 5f 100cm berenstein ports .038\u0022 (0.97mm,1,other
+297832,"impress braided 5f.40#54038ka2, merit",1,other
+297833,"impress braided 5f.65cm#56538ka2, merit",1,other
+297834,impress peripheral cath diff.sizes,1,supplies
+297835,impression (2 jaws,1,other
+297836,impressions and panoramic view,1,dental
+297837,impressions panoramic view,1,dental
+297841,impulse generator,1,other
+297842,imrt or vmat intensity-modulated radiotherapy or volumetric modulated arc therapy per fraction (session,1,physiotherapy
+297843,imrt or vmat intensity-modulated radiotherapy or volumetric modulated arc therapy per fraction (session) - ip,1,physiotherapy
+297844,imrt or vmat radiotherapy session,1,physiotherapy
+297845,"imrt radiation therapy , one fractions - package",1,physiotherapy
+297846,imrt radiation therapy one fractions - package,1,physiotherapy
+297847,"imrt/tomo, imrt planning",1,other
+297851,imupro basic (90,1,other
+297852,imuran,3,other
+297910,in & out catheter,1,supplies
+297911,in admin,2,consultation
+297912,in and out catherization,1,other
+297913,in ceram,1,other
+297914,in growing nail,1,supplies
+297915,in home bleaching,1,dental
+297916,in iodine dressing 5 x 5,1,supplies
+297917,in ingection - im,1,other
+297918,in jction,1,other
+297919,in line suction catheter sz.12,1,supplies
+297920,in patient (inside icu,1,consultation
+297921,in patient consultation - consultant,2,consultation
+297922,in patient consultation - specialist,2,consultation
+297923,in patient consultation consultant,1,consultation
+297924,in patient consultation specialist,1,consultation
+297925,in situ hybridization studies -fish-cish any probe using paraffin block,1,lab_test
+297926,in vitro proces bone marrow/perph bl,1,imaging
+297927,in- patient disposable p/d,1,supplies
+297928,in-ceram,1,other
+297929,in-ceram crown,1,dental
+297930,in-growing toe nail extraction,2,dental
+297931,in-line suction catheter,1,supplies
+297932,in-one tibia nail 11x365mm,1,supplies
+297933,in-patient daily visit - consultant,1,consultation
+297934,in-patient chronic peritoneal dialysis,1,procedure
+297935,in-patient consultation,1,consultation
+297936,in-patient credit payment,1,other
+297937,in-patient physical therapy (each session,1,physiotherapy
+297938,in-patient physiotherapy,1,physiotherapy
+297939,in-patient retinal consultation for rop / inpatient consul. hosp care :detailed exam; high complexity,1,inpatient
+297940,in-patient visit - neonatology,1,consultation
+297941,in-patinet nursing care per day,1,consultation
+297942,in-rollerblade fm mod rb113-co,1,other
+297943,in-rollerblade fm mod rb116-co,1,other
+297948,inactive-changed to 1262509-biomil plus 1,1,other
+297949,inactive-changed to 1262510-biomil plus 2,1,other
+297950,inactive-changed to 1262512-biomil plu,1,other
+297955,inactive<<changed to 1206660>>bm51/bm 54 blood pressure monitor (beurer,1,lab_test
+297962,inactive<<changed to 1262560>>kabrita 1 baby milk (goat milk 0-6 months,1,nutrition
+297963,inactive<<changed to 1262561>>kabrita 2 baby milk (goat milk 6-12m,1,nutrition
+297964,inactive<<changed to 1262562>>kabrita 3 baby milk (goat milk over 12m,1,nutrition
+297965,inactive<<changed to 1262666>>similac gold hmo 1(2-ozbottle,1,nutrition
+297966,inactive<<changed to 1262668>>similac nipple and rings 1pcs,1,nutrition
+297984,inadine 5x5cm sterile,1,supplies
+297985,inadine 9.5cm x 9.5cm wound management - per pcs,1,other
+297986,inadine gauze dressing 9.5x9.5cm,1,supplies
+297987,inara cu 375,1,other
+297988,inara iucd 1s,1,other
+297989,inara iud 1s,1,other
+297990,inara iud loop,1,other
+297993,inass mostafa mohammad,1,other
+297994,"inborn err of metabolism, majc",1,inpatient
+297995,"inborn err of metabolism, minc",1,inpatient
+297996,inborn errors metabolsm (bld card,1,other
+297997,inborn errors of metabolism,1,other
+297998,inborn errors of metabolism - blood card,1,lab_test
+297999,inborn errors of metabolism(bioscientia,2,other
+298000,inborn errors-metabolsm(bld card,1,other
+298001,inc impltj periph nerve neurostimulator eltrd,1,other
+298002,inc. and drain of abscess (la)-simple,1,procedure
+298003,inc. & drain of abscess (la)-simple,1,procedure
+298004,inc. & drainge of small absc./local anaest,1,procedure
+298005,inc. drain of abscess extra/oral-la,1,procedure
+298006,inc. drainage of med. size abscess+dress,1,procedure
+298007,inc. of drainage / la - big,1,procedure
+298008,incent .spirometrry6-8 sess,1,other
+298009,incent spiro:6-8 sess. x 2 day,1,other
+298010,incent spiro=6-8 sess. x 2 day (deactivated,1,other
+298011,incent.spirometry 1sess,1,diagnostic
+298012,incentive spinometry,1,other
+298013,incentive spirmeter applicatio,1,other
+298014,incentive spirometer,3,other
+298016,incentive spirometer bw-5000,1,other
+298017,"incentive spirometer triflo,8884717301",1,other
+298018,incentive spirometry,2,diagnostic
+298019,incentive spirometry exrecises /pkg,1,diagnostic
+298020,incentive spirometry initial,1,diagnostic
+298021,incentive spirometry subsequent,1,diagnostic
+298025,inceram crown,4,dental
+298026,inceram each unit,1,other
+298027,inceram porcelain crown,1,dental
+298028,incession of soft tissue,1,other
+298029,inci.& drainage of abscess under l.a (l,1,procedure
+298030,inci.& drainage of abscess under l.a (m,1,procedure
+298031,inci.& drainage of abscess under l.a (s,1,procedure
+298032,inci.&drainage abscess,1,procedure
+298033,inci.drian.small abscess,1,procedure
+298034,inci.medium size abscess,1,procedure
+298035,inci.and of abscess under l.a (l,1,procedure
+298036,inci.and of abscess under l.a (m,1,procedure
+298037,inci.and of abscess under l.a (s,1,procedure
+298038,inciion & drainage of abce,1,procedure
+298039,incion &drianage of abcess,1,other
+298040,inciram crown,1,dental
+298041,incis of large abscess,2,procedure
+298042,incis of small abscess,1,procedure
+298044,incis. & drainage-small abcess,1,procedure
+298045,incise and drain bartholin's duct abcess,1,other
+298046,incisi.&evac.exter. ear absces,1,other
+298047,incisi./drain.perin.abces,1,other
+298048,incision,1,procedure
+298049,incision drainage of big abscess,2,procedure
+298050,incision drainage of medium abscess,1,procedure
+298052,incision & drainage of abscess under la large,1,procedure
+298053,incision & drainage of abscess under la medium,1,procedure
+298054,incision & drainage of abscess under la small,1,procedure
+298055,incision and drinage abscess,2,procedure
+298056,incision drainage intraoral abscess dental abcess,2,dental
+298059,incision drainage of external ear abscess,1,procedure
+298060,incision drainage of quinzy la,1,procedure
+298062,incision drainage under ga,1,procedure
+298063,incision drainage under la complicated,1,procedure
+298064,incision drainage under la minor,1,procedure
+298067,incision & curetage chalazion ga - day case,1,procedure
+298068,incision & curettage,2,procedure
+298069,incision & dainage of palmar or thenar space,1,procedure
+298070,incision & drain abscess soft tissue unilateral,2,procedure
+298071,"incision & drain abscess, soft tissue, unilateral",2,procedure
+298072,incision & drain for abscess,1,procedure
+298073,incision & drain of abscess l.a (m,1,procedure
+298074,incision & drain small abscess,1,procedure
+298075,incision & drain. of abscess l.a(s,1,procedure
+298076,incision & drainag of abscess under l.a,1,procedure
+298078,incision & drainage abscess; complicated/multipled/cdays,1,procedure
+298079,incision & drainage abscess; simple/single under g.a.d/cdays,1,procedure
+298080,incision & drainage ( i&d) - service charge,1,procedure
+298081,incision & drainage (i&d,1,procedure
+298082,incision & drainage (i&d) small,1,procedure
+298083,incision & drainage (major) for dental,1,dental
+298084,incision & drainage (minor,1,procedure
+298085,incision & drainage (minor) for (dental,1,dental
+298086,incision & drainage (moderate,1,procedure
+298087,incision & drainage (small,2,procedure
+298088,"incision & drainage , abscess , medium",1,procedure
+298089,incision & drainage - (breast-perianal,1,procedure
+298090,incision & drainage - 8014,1,procedure
+298091,incision & drainage - big abscess,1,procedure
+298092,incision & drainage - e.r. ped,1,procedure
+298093,incision & drainage - peritonsillar abcess under ga - 1 day pkg,1,procedure
+298094,incision & drainage - peritonsillar abcess under la - day case,1,procedure
+298095,incision & drainage - small abscess,1,procedure
+298096,incision & drainage - small area,2,procedure
+298098,"incision & drainage / asapiration, abscess/hematoma/bullae/cyst; simple/single",1,procedure
+298099,incision & drainage abcess,1,procedure
+298100,incision & drainage abscess,1,procedure
+298101,incision & drainage abscess - small,1,procedure
+298102,incision & drainage abscess complicated/multiple - er,1,procedure
+298104,incision & drainage abscess simple/single - er,1,procedure
+298105,incision & drainage big abcess under l.a,1,procedure
+298106,incision & drainage big abscess (la,1,procedure
+298107,incision & drainage bone abscess under general anesthesia,1,imaging
+298108,incision & drainage deep pararectal absce,1,procedure
+298109,incision & drainage external head&neck abcess ga - 1 day pkg,1,procedure
+298110,incision & drainage external head&neck abcess la - day case,1,procedure
+298111,incision & drainage for big abscess,2,procedure
+298112,incision & drainage for furuncle,1,procedure
+298113,incision & drainage for joints,1,procedure
+298114,incision & drainage ga,1,procedure
+298115,incision & drainage intra-oral abscess (children,1,procedure
+298116,incision & drainage intra-oral abscess (deep,1,procedure
+298117,incision & drainage intra-oral abscess (superficial,1,procedure
+298118,incision & drainage large abcess under l.a,1,procedure
+298119,incision & drainage large abcess-ga,1,procedure
+298120,incision & drainage large abscess,1,procedure
+298121,incision & drainage large abscess under ga - 1 day,1,procedure
+298122,incision & drainage large area,2,procedure
+298123,incision & drainage medium abcess under l.a,1,procedure
+298124,incision & drainage medium abscess,1,procedure
+298125,incision & drainage neck abscess,1,procedure
+298126,incision & drainage of abcess under l.a - p/d,1,procedure
+298127,incision & drainage of abcess / cyst / lipoma - l.a. - pkg d/c,2,procedure
+298129,incision & drainage of abcess large,1,procedure
+298130,incision & drainage of abcess under l.a.-p/d,1,procedure
+298131,incision & drainage of abcess under la,1,procedure
+298132,incision & drainage of absceess underl.a.-p/d,1,procedure
+298133,incision & drainage of abscess,6,procedure
+298134,incision & drainage of abscess la,1,procedure
+298135,incision & drainage of abscess (large,1,procedure
+298136,incision & drainage of abscess (medium,1,procedure
+298137,incision & drainage of abscess (small,1,procedure
+298138,incision & drainage of abscess - large,1,procedure
+298139,incision & drainage of abscess - medium,1,procedure
+298140,incision & drainage of abscess -l/a,1,procedure
+298141,incision & drainage of abscess any area as day case surgery,1,procedure
+298142,incision & drainage of abscess any area under ga as day case surgery,3,procedure
+298143,incision & drainage of abscess any area under ga as day case surgery [50% of package,1,procedure
+298144,incision & drainage of abscess any area under ga as day case surgery undefined,1,procedure
+298145,incision & drainage of abscess any area under ga,1,procedure
+298148,incision & drainage of abscess ga,1,procedure
+298149,incision & drainage of abscess of skin & subcutane,1,procedure
+298150,incision & drainage of abscess of ssct,6,procedure
+298152,incision & drainage of abscess or carbuncle,1,procedure
+298153,incision & drainage of abscess simple or single,1,procedure
+298154,incision & drainage of abscess small,2,procedure
+298155,incision & drainage of abscess unde,1,procedure
+298156,incision & drainage of abscess under l.a,6,procedure
+298157,incision & drainage of abscess under l.a (package,1,procedure
+298158,incision & drainage of abscess under l.a-p/d,1,procedure
+298161,incision & drainage of abscess under l.a.-p/d 5412,1,procedure
+298162,incision & drainage of abscess under l.a.-p/d small,1,procedure
+298167,incision & drainage of abscess under l.a.-p/d2073,1,procedure

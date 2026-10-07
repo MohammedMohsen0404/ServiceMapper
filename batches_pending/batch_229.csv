@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+426159,or if k-wire finger/toe-1d - 1 day(s,1,supplies
+426160,or intranasal splint ins. soft (60-204l,1,supplies
+426161,or minor disposables / major cases,1,other
+426162,or orthopedic pad,1,supplies
+426163,or pencil push botton,1,other
+426164,or profile,1,lab_test
+426165,or profile 1,1,lab_test
+426166,or profile 11,1,lab_test
+426167,"or profile a minor /moderate / day case (cbc,pt,inr,creatinine ,hcvab",1,lab_test
+426168,"or profile above 40 yrs (cbc,abo&rh,hcv,hbsag,hiv,urea,sgpt,alk.phos,crea,ggt,ldh,rbs,esr,na,k",2,lab_test
+426170,"or profile basic (hcv ab, hbsag, hiv, cbc, group, rh, ab, pt, ptt,crn, alt,rbs",1,lab_test
+426171,"or profile i (child up to 6 yrs) (cbc, abo gr & rh, na, k, bleeding time,clottingtime, hcv, hbs ag",2,lab_test
+426172,"or profile i (child up to 6 yrs) (cbc, abo gr & rh, na, k, rbs, pt, ptt, hcv, h",2,lab_test
+426173,"or profile i (child up to 6 yrs. [ cbc, abo gr & rh, na, k, bt, hcv, hbsag,hiv",1,lab_test
+426174,or profile ii (up to 40 years,1,lab_test
+426175,"or profile ii (up to 40 yrs.): [cbc, pt, esr, abo & rh, hbs ag, hiv, hcv",1,lab_test
+426176,"or profile ii below 40 yrs: [cbc, pt, blood group & rh, creatinine, na, k, hbs ag, hiv, hcv ab, rbs",2,lab_test
+426177,"or profile ii below 40 yrs: [cbc, pt, creatinine, alt, hbs ag, hiv, hcv ab, rbs",3,lab_test
+426178,or profile ii up to 40 yrs cbc k na hbsa,1,lab_test
+426179,"or profile ii up to 40 yrs cbc k,na,hbsa",1,lab_test
+426180,or profile ii up to 40 yrs cbc k`na`hbsa,1,lab_test
+426181,or profile iii-major (up to 40 years,1,lab_test
+426182,"or profile iii-major (up to 40 yrs): (cbc, abo&rh, pt, esr, k, na, rbs, sgpt, hiv, hcv, hbsag, antib",2,lab_test
+426184,"or profile iii-major (up to 40 yrs): (cbc, abo&rh, pt, esr, k, na, rbs,hiv, hcv, cross matching",2,lab_test
+426186,"or profile iii-major (up to 40 yrs): cbc,abo&rh,pt,esr,ab screen, k, na,glu,hiv, hbsag, hcv",2,lab_test
+426188,or profile iii-mjr up to 40yrs,1,lab_test
+426189,or profile iii-mjr up to 40yrs cbc k na,1,lab_test
+426190,"or profile iii-mjr up to 40yrs cbc,k,na",1,lab_test
+426191,or profile iv mjr(over 40 yrs) cbc k na,1,lab_test
+426192,"or profile iv mjr(over 40 yrs) cbc,k,na",1,lab_test
+426193,or profile iv mjr(over 40 yrs) cbc`k`na`,1,lab_test
+426194,"or profile iv(over 40 yrs):cbc,abo&rh,ab screen,hcv,hbsag,hiv,urea,gpt, crea,ggt, rbs,na,k",2,lab_test
+426196,"or profile iv(over 40 yrs):cbc,abo&rh,ab screen,hcv,hbsag,hiv,urea,gpt,alp,crea,ggt,ldh,rbs,na,k",1,lab_test
+426197,or profile one day surgery,1,lab_test
+426198,or profile v,1,lab_test
+426199,or proximate plus md skin stapler ( pmw35 ) box/12,1,supplies
+426204,or room charges per hour (major,1,consultation
+426205,or screening (hbsag quali/hcvab/hiv combo,1,lab_test
+426206,or screening (hbsag/hcvab/hiv combo) la00410758,1,lab_test
+426207,"or surgical patties 1"" x 3 "" pack/20 of 10",1,supplies
+426208,"or swab raytac ( w / x-ray thread ) ""4 x 4"" 16ply",1,imaging
+426209,or t-u-r irr 'y' type set n#6543 - 01,1,other
+426210,or thoracic catheter ( 32fr ) curved taper tip chest drainage,1,supplies
+426211,or screening elisa for virology (hivhbsaghcv,1,lab_test
+426212,or. for fracture dislocation of the ankle wrist or elbow,1,procedure
+426213,or.room fees for surgery from (3001 upto 5000) sr,1,procedure
+426214,or26,1,other
+426215,or5019-f/001/f/23,1,other
+426216,or5020/052/f/23,1,other
+426218,ora,1,other
+426228,oraal abscess treatment,1,procedure
+426233,oracare mouth wash,1,procedure
+426235,oracare mouthwash,1,other
+426237,oradent mouth wash (chlorhexadine,1,procedure
+426243,oragen plus sac 30s,1,other
+426245,oragen plus16 saches,1,other
+426247,oragin plus sct.16's,1,other
+426250,"oral and dental disorders, majc",1,dental
+426251,"oral and dental disorders, minc",1,dental
+426252,"oral & dental disorders, majc",1,dental
+426253,"oral & dental disorders, minc",1,dental
+426254,oral abcsess,1,other
+426255,"oral administration of pharmacological agent, anti-infective agent",1,consultation
+426256,"oral administration of pharmacological agent, antineoplastic agent",1,consultation
+426257,oral airways size 4.0 length 1.0cm - per pcs,1,supplies
+426258,oral b - denture brush,1,dental
+426259,oral b satin tape 25m,1,supplies
+426260,oral b t/b kids soft,1,lab_test
+426261,oral biopsy,2,procedure
+426262,oral biopsy (l.a,1,procedure
+426264,oral bivalent types 1 and 3 poliomyelitis vac,1,other
+426267,oral bivalent types 1 and 3 poliomyeliti,1,other
+426273,oral blend suspend (lab)-sm7865,1,other
+426275,oral c mouth wash,1,procedure
+426278,oral care,2,other
+426279,oral care kit advanced # 25928 avanos - halyard,1,other
+426280,oral care supplies: swab with suction port and brush with suction port,1,lab_test
+426281,"oral cares pack, sterile",1,supplies
+426282,oral cavity lesion excision biopsy - 1 day pkg,1,procedure
+426283,oral cavity lesion excisional biopsy l.a,1,procedure
+426284,oral cholecystogram/gall bladder,1,other
+426285,oral curved murph w cuff 5.5mm#cv-115-55,1,other
+426286,oral curved murph w cuff 7.0mm #cv-115-70,1,other
+426288,oral endotrachael tube holder (hollister) bx/12,1,supplies
+426289,oral exam-initial,1,other
+426290,oral examination (consultant,1,consultation
+426291,oral examination (specialist,1,consultation
+426292,oral examination by consultant,1,consultation
+426293,oral examination by gp,1,consultation
+426294,oral examination w/ file,2,consultation
+426295,oral examination with file,2,consultation
+426296,oral examinationspecialist,1,other
+426297,oral examiniton ( gp,1,consultation
+426298,oral excisional biopsy,1,procedure
+426299,oral g.t.t,1,lab_test
+426300,oral glucose challenge test,1,lab_test
+426301,oral glucose tolerance,2,lab_test
+426302,oral glucose tolerance test,3,lab_test
+426304,oral glucose tolerance test (fasting,1,lab_test
+426305,oral glucose tolerance test (fastng,1,lab_test
+426306,oral glucose tolerance test (first hour,1,lab_test
+426307,oral glucose tolerance test (for pregn,1,lab_test
+426310,oral glucose tolerance test (second hour,1,lab_test
+426311,oral gtt,1,lab_test
+426312,oral hygiene,1,other
+426313,oral hygiene instruction,2,other
+426314,oral hygiene instruction by appointment,1,consultation
+426315,oral hygiene instructions,1,other
+426316,oral hygiene periodontal and root therapy,1,physiotherapy
+426317,oral hygiene periodontal therapy,1,physiotherapy
+426318,oral medicene adminstration,1,other
+426319,oral mouth care ngt feeding day,1,supplies
+426321,oral panoramic x ray,1,imaging
+426322,oral panoramic x-ray,1,imaging
+426323,oral pharyngeal airway/day,1,supplies
+426347,oral prohylaxis,1,other
+426348,oral prophilaxis,1,other
+426349,oral prophlylactic treatments,1,other
+426350,oral prophy laxis,1,other
+426351,oral prophy. & gum treatment,1,dental
+426352,oral prophy. and gum treatment(removal of calculus,1,dental
+426353,oral prophylaxis,4,other
+426354,oral prophylaxis - scaling,1,dental
+426355,oral prophylaxis - with fluid,1,other
+426356,oral prophylaxis : scaling,2,dental
+426357,oral prophylaxis : with flouri,1,other
+426358,oral prophylaxis w/ fluoride,1,other
+426359,oral prophylaxis with flouride (2 visits children,1,other
+426360,oral prophylaxis with flouride (2 vists - children,1,other
+426361,oral prophylaxis with flouride 2 visitschildren,1,other
+426362,oral prophylaxis with fluoride,1,other
+426363,oral prophylaxis+ohi,1,other
+426364,oral prophylaxis: complex,1,other
+426365,oral prophylaxis: simple,1,other
+426366,oral prophylaxis: with flouride (2 visits-children,1,other
+426367,oral prophylaxis:simple,1,other
+426368,oral prophylaxix,1,other
+426372,oral single x-ray,2,imaging
+426374,oral surgical extraction,1,dental
+426375,oral surgical stitch,1,procedure
+426379,oral thermometer,1,supplies
+426380,oral thermometer probes,1,supplies
+426381,oral thermometer sheaths #20521,1,supplies
+426382,oral toilet,1,procedure
+426383,oral toileting procedur,1,other
+426385,oral abscess incision and drainage,1,procedure
+426387,oral%20admin%20of%20pharmac%20agent%20oth%20%26%20unsp%20(home%20care)%09,1,other
+426388,oral-antral fistula repair,1,procedure
+426389,oral-b all in one t/b 1+1free,1,supplies
+426390,oral-b dc 501.535.2 eetq cr box oral cente,1,other
+426391,oral-c,1,other
+426393,oral-c mouth freshner,1,other
+426450,oralph lauren6163 55 5003,1,other
+426464,orang,2,other
+426471,orasept mouth wash,1,procedure
+426498,oraxin mouth wash,1,procedure
+426500,oraxine 1% mouth wash,1,procedure
+426502,oraxine m wash,1,procedure
+426503,oraxine m.w. (chlorhexidine,1,lab_test
+426505,oraxine mouth wash,2,procedure
+426506,oraxine mouth wash # 1 ( h,1,procedure
+426514,oray ban2180v 47 5572,1,eyewear
+426515,oray ban2180v 49 5571,1,eyewear
+426516,oray ban3447v 47 2503,1,eyewear
+426517,oray ban3447v 50 2500,1,eyewear
+426518,oray ban3578v 50 2904,1,eyewear
+426519,oray ban3582v 51 2943,1,eyewear
+426520,oray ban3582v 51 2946,1,eyewear
+426521,oray ban3625v 58 2501,1,eyewear
+426522,oray ban3625v 58 2509,1,eyewear
+426523,oray ban3625v 58 3086,1,eyewear
+426524,oray ban3625v 58 3094,1,eyewear
+426525,oray ban4246v 49 2372,1,eyewear
+426526,oray ban4340v 50 2012,1,eyewear
+426527,oray ban4376v 55 5943,1,eyewear
+426528,oray ban5154 51 2000,1,eyewear
+426529,oray ban5154 51 5762,1,eyewear
+426530,oray ban5154 51 5909,1,eyewear
+426531,oray ban5154 51 5969,1,eyewear
+426532,oray ban5154 51 8230,1,eyewear
+426533,oray ban5154 51 8231,1,eyewear
+426534,oray ban5206 52 2034,1,eyewear
+426535,oray ban5228 53 5405,1,eyewear
+426536,oray ban5383 52 2000,1,eyewear
+426537,oray ban5383 52 5945,1,eyewear
+426538,oray ban5387 52 2000,1,eyewear
+426539,oray ban5387 52 5629,1,eyewear
+426540,oray ban5393 49 2012,1,eyewear
+426541,oray ban5397 50 2000,1,eyewear
+426542,oray ban5397 50 2012,1,eyewear
+426543,oray ban5405m 55 f601,1,eyewear
+426544,oray ban5406 52 2034,1,eyewear
+426545,oray ban5417 52 2034,1,eyewear
+426546,oray ban5421 53 2000,1,eyewear
+426547,oray ban5421 53 8254,1,eyewear
+426548,oray ban6335 54 3012,1,eyewear
+426549,oray ban6375 51 2981,1,eyewear
+426550,oray ban6375 53 2861,1,eyewear
+426551,oray ban6375 53 2890,1,eyewear
+426552,oray ban6375 53 3135,1,eyewear
+426553,oray ban6390i 53 2509,1,eyewear
+426554,oray ban6409i 53 2509,1,eyewear
+426555,oray ban6422 49 2997,1,eyewear
+426556,oray ban6444 53 2509,1,eyewear
+426557,oray ban6448 51 2501,1,eyewear
+426558,oray ban6448 51 2991,1,eyewear
+426559,oray ban6465 51 2509,1,eyewear
+426560,oray ban6466 51 2904,1,eyewear
+426561,oray ban6472 50 2943,1,eyewear
+426562,oray ban6472 52 2943,1,eyewear
+426563,oray ban6489 58 2500,1,eyewear
+426564,oray ban6489 58 2501,1,eyewear
+426565,oray ban6489 58 2502,1,eyewear
+426566,oray ban6489 58 2890,1,eyewear
+426567,oray ban6489 58 3094,1,eyewear
+426568,oray ban6509 51 2968,1,eyewear
+426569,oray ban6513 53 2890,1,eyewear
+426570,oray ban6513 53 3163,1,eyewear
+426571,oray ban7017 54 5196,1,eyewear
+426572,oray ban7046 51 8139,1,eyewear
+426573,oray ban7047 54 5196,1,eyewear
+426574,oray ban7047 54 5450,1,eyewear
+426575,oray ban7047 54 5768,1,eyewear
+426576,oray ban7047 54 5769,1,eyewear
+426577,oray ban7047 54 5943,1,eyewear
+426578,oray ban7047 54 8100,1,eyewear
+426579,oray ban7144 53 5916,1,eyewear
+426580,oray ban7169 52 2012,1,eyewear
+426581,oray ban7185 52 2000,1,eyewear
+426582,oray ban7185 52 5943,1,eyewear
+426583,oray ban7185 52 8083,1,eyewear
+426584,oray ban7185 52 8234,1,eyewear
+426585,oray ban7216 51 2000,1,eyewear
+426586,oray ban7216 51 8209,1,eyewear
+426587,oray ban7216 51 8210,1,eyewear
+426588,oray ban7230 52 5204,1,eyewear
+426589,oray ban8757 51 1193,1,eyewear
+426592,orbit,2,other
+426596,"orbit , 2 views",1,imaging
+426598,orbit - 2vs,1,other
+426599,orbit - 3 views optic foramina,2,imaging
+426601,orbit -4 views,2,imaging
+426602,orbit 2 f,1,other
+426603,orbit 2 view,1,imaging
+426605,orbit 2 views-1303,1,imaging
+426607,orbit 3 views,1,imaging
+426608,orbit both sides,1,other
+426609,orbit ct multisectionwo contrast,1,imaging
+426610,orbit ct multisection^wo contrast,1,imaging
+426611,orbit ct scan,1,imaging
+426612,orbit ct scan with contrast,1,imaging
+426613,orbit ct scan without contrast,1,imaging
+426614,orbit one side,1,supplies
+426615,orbit one sides,1,supplies
+426616,orbit one view,1,supplies
+426617,orbit single,1,other
+426618,orbit two view,1,imaging
+426619,orbit xr 2 views,1,imaging
+426620,orbit single view,1,imaging
+426621,"orbit, 1 view",1,imaging
+426622,orbit- 2 views,1,imaging
+426623,orbit- 3 views,1,imaging
+426624,orbit- pa- lat,1,imaging
+426625,orbit-2views,1,imaging
+426626,orbit/sella/inner ear w/ cont,1,other
+426627,orbit/sella/inner ear w/cont,1,other
+426628,orbit/sella/inner ear w/o cont,1,other
+426629,orbital exploration - 1 day pkg,1,procedure
+426630,orbital floor reconstruction,1,procedure
+426631,orbital floor reconstruction - dr.fee,1,procedure
+426632,orbital plate 6 hole diff.sizes,1,supplies
+426633,orbital reconstruction,1,procedure
+426634,orbital region,2,other
+426635,orbital tumour biopsy+histopathology analysis,1,lab_test
+426636,orbital tumour excision histopathology analysis,1,lab_test
+426637,orbital tumour excision+histopathology analysis,1,lab_test
+426638,orbital view,1,imaging
+426639,orbital views 2 views,1,imaging
+426640,orbital wall (lateral/medial) reconstruction under ga,1,procedure
+426641,"orbits 2 f pa , lat",2,imaging
+426642,"orbits 3f , pa , lat ,& om",2,imaging
+426643,orbits (without contrast) (mri,1,imaging
+426644,orbits - 2 views,1,imaging
+426645,orbits - 2v,1,imaging
+426646,orbits 2 f,1,other
+426648,orbits 2 positions,1,imaging
+426649,orbits 2 v,1,other
+426650,orbits 2 views,2,imaging
+426651,orbits 2f,1,imaging
+426652,orbits 2f pa lat open mouth,1,imaging
+426653,orbits 2f x-ray,1,imaging
+426654,orbits 3 positions,1,imaging
+426656,orbits 4 v,1,other
+426657,orbits ct scanning,1,imaging
+426658,orbits pa & parietoorbital,1,imaging
+426659,orbits without contrast,2,imaging
+426660,orbit\u002bface ct multisectionw contrast iv,1,imaging
+426661,orchdopexy under ga,1,other
+426662,orchedopexy bilateral,1,other
+426663,orchid./undescended tests,1,lab_test
+426664,orchidectomy,2,procedure
+426665,orchidectomy (ga) {ing. approach},2,procedure
+426666,orchidectomy (radical) uni or bilateral - pkg 2 days,1,procedure
+426667,orchidectomy (simple) unilateral,1,procedure
+426668,orchidectomy (unilateral,1,procedure
+426669,orchidectomy + histopathology (radical) unilateral,1,lab_test
+426670,orchidectomy -package,1,procedure
+426671,orchidectomy bilat,1,procedure
+426672,orchidectomy including - unilat. w/o histopathology,1,lab_test
+426673,orchidectomy including histopathology,2,lab_test
+426674,orchidectomy including histopathology unil,1,lab_test
+426676,orchidectomy of undescended testis with histopathology,1,lab_test
+426677,orchidectomy one side(pkg,1,supplies
+426678,orchidectomy radical by inguinal approch,1,procedure
+426679,orchidectomy unilateral,2,procedure
+426681,"orchidectomy with insertion of testicular prosthesis, unilateral",1,supplies
+426682,orchidectomy+ w/o histopathology (radical) bilateral,1,lab_test
+426683,orchidectomy+ w/o histopathology (subcapsule) bilateral,1,lab_test
+426684,orchidectomy+contralateral orchidopexy for torsion,1,procedure
+426685,orchidectomy+histopathology (radical) unilateral,2,lab_test
+426687,"orchidectomy, unilateral",2,procedure
+426688,orchidectomy- (p.d,1,procedure
+426689,orchido pexy bilateral- (p.d,1,lab_test
+426690,orchido pexy,1,other
+426691,orchidometer,1,other
+426692,orchidop./undesce.tests,1,lab_test
+426693,orchidopexy,2,procedure
+426694,orchidopexy (bilateral,1,procedure
+426695,orchidopexy (unilateral,1,procedure
+426696,orchidopexy (unilatreral,1,procedure
+426697,orchidopexy + ligation of ppv -1day pkg,1,procedure
+426698,orchidopexy - laparoscopic,1,procedure
+426699,orchidopexy above 12 yrs,1,procedure
+426700,orchidopexy above 12 yrs. - 1 day pkg,1,procedure
+426701,orchidopexy above 12 yrs.->c62.5,1,procedure
+426702,orchidopexy for torsion,1,procedure
+426703,orchidopexy for udt,1,procedure
+426704,orchidopexy for undecended teti (bil,1,procedure
+426705,orchidopexy for undescedded testis (one side,1,supplies
+426706,orchidopexy for undescended (testes- bilateral,2,procedure
+426707,orchidopexy for undescended testis ( bilateral,2,procedure
+426708,orchidopexy for undescended testis ( unilateral,1,procedure
+426709,orchidopexy for undescended testis (bilateral,2,procedure
+426710,orchidopexy for undescended testis (bilateral)2days,1,procedure
+426711,orchidopexy for undescended testis (one side,3,supplies
+426712,orchidopexy for undescended testis (unilateral,2,procedure
+426713,orchidopexy for undescended testis (unilateral) - pkg 2 days,1,procedure
+426714,orchidopexy for undescended testis bilateral,2,procedure
+426715,orchidopexy for undescended testis one side snc,1,supplies
+426716,orchidopexy for undescended testis(one side,1,supplies
+426717,"orchidopexy for undescended testis, bilateral",2,procedure
+426718,"orchidopexy for undescended testis, unilateral",1,procedure
+426719,"orchidopexy for undescended testis, unilateral ( up to 2 days package",1,procedure
+426720,"orchidopexy for undescended testis, unilateral (or",1,procedure
+426721,orchidopexy laparascopic-unilateral,1,procedure
+426722,orchidopexy laparoscopic (unilateral,1,procedure
+426723,orchidopexy less than 12 yrs,1,procedure
+426724,orchidopexy less than 12 yrs->c62.5-a,1,procedure
+426725,orchidopexy less than 12 yrs. - 1 day pkg,1,procedure
+426726,orchidopexy less than 12 yrs.- c62.5-a,1,procedure
+426727,orchidopexy less than 12 yrs.->c62.5-a,1,procedure
+426728,orchidopexy right,1,procedure
+426729,orchidopexy/orchidectomy unilateral,1,procedure
+426730,orchiectomy,2,procedure
+426731,"orchiectomy, radical, for tumor; inguinal approach",2,procedure
+426732,"orchiectomy, simple (including subcapsular), with or without testicula",1,procedure
+426733,"orchiectomy, simple, w/wo prosthesis, scrotal/inguinal approach",1,supplies
+426735,orchiedopexy (bilateral,1,other
+426736,orchiodopexy - inguinal exploration,1,procedure
+426737,orchiopexy,1,other
+426738,orchiopexy (bilateral,1,other
+426739,orchiopexy (ga,2,other
+426740,orchiopexy p/d,1,other
+426741,orchiopexy unilateral,1,other
+426742,"orchiopexy, inguinal approach, with or without hernia repair",2,procedure
+426743,orchipexy,1,other
+426744,"orchipexy, bilateral - 3 days pkg",1,other
+426745,orchodopexy - both sides - 2 days pkg,1,other
+426746,orchodopexy - one side - 2 days pkg,1,supplies
+426747,orchodopexy - one side p-deal,1,supplies
+426748,ordenary room,1,consultation
+426749,ordinary extraction,4,dental
+426750,ordinary burette,1,other
+426751,ordinary burette - 322-88505,1,other
+426752,ordinary cath,1,supplies
+426753,ordinary composite filling,1,dental
+426754,ordinary dressing,1,supplies
+426755,ordinary ext.adult,1,other
+426758,ordinary extractions,1,other
+426759,ordinary gloves,1,supplies
+426761,ordinary tooth extraction,1,dental
+426762,ordinary tooth extraction children,1,dental
+426763,orefraction with & without cycle,1,other
+426775,oreo cervical cage diff.size,1,imaging
+426776,oreo cervical cage system spine craft-inma,1,imaging
+426780,org,1,other
+426784,organ transplant material cost (additional,1,other
+426796,organic acids,1,other
+426797,organic acids urine,2,lab_test
+426798,organic acids (u,1,other
+426799,organic acids total qualitative each specimen,1,other
+426800,organic acids total quant,1,lab_test
+426801,"organic acids, total, quantitative",1,other
+426802,organic acids; qualitative,1,other
+426803,"organic acids; total, quantitative",1,other
+426804,organizer for capd 2,1,other
+426805,organs of the throat,1,other
+426806,orher culture &sen,1,lab_test
+426807,orif by plates / screws removal,1,supplies
+426808,orif & partial or total excision of patella,1,procedure
+426809,orif & partial or total excision of patella w/o implant price,1,supplies
+426810,orif ( radius & ulna or elbow =c79.32,1,procedure
+426811,orif + bone graft,1,imaging
+426812,orif + bone graft woithout implants,1,imaging
+426813,orif - femur (screw + bolts,1,supplies
+426814,orif - fibula with plates,1,supplies
+426815,orif - humerus with i.m. nail,1,supplies
+426816,orif - humerus with plates,1,supplies
+426817,orif - mandibular condyle fracture,1,procedure
+426818,orif - mandibular fracture - bilateral,1,procedure
+426819,orif - mandibular fracture - intra-oral post,1,procedure
+426820,orif - mandibular fracture - unilateral,1,procedure
+426821,orif - mandibular fracture -intra-oral post,1,procedure
+426822,orif - metacarpal,1,procedure
+426823,orif - middle phalenx,1,procedure
+426824,orif - midface fractures - bi-lateral,1,procedure
+426825,orif - open reduct of fract w/int fix at phalanges-hand including implant,1,supplies
+426826,orif - proximal phalenx,1,procedure
+426827,orif - tibia (srew + bolts,1,procedure
+426828,orif - ulna(screw + bolts,1,supplies
+426829,orif / revision recent and old neglected fracture dislocation of shoulder & hip joint w/o implant price,1,supplies
+426830,orif 5th mcb,1,procedure
+426831,orif a/c joint dislocation,1,procedure
+426832,orif alveolar fracture w/tooth stabilization,1,dental
+426833,orif at ankle,1,procedure
+426834,orif at tibial plataue left,1,procedure
+426835,orif at tibial plataue right,1,procedure
+426836,orif acetabulum,1,procedure
+426837,"orif b.b, forearm",1,procedure
+426838,orif bb forearm - im k wires,1,procedure
+426839,orif bimalleolar ankle fracture-2 days pkg,1,procedure
+426840,orif bimalleolar fx / pilon fx,1,procedure
+426841,orif bimalleolar pott's fracture ankle,1,procedure
+426842,orif by k.wire,1,supplies
+426843,orif by locked plate big bones p/d,1,imaging
+426844,orif by miniplates p/d,1,procedure
+426845,orif both bones forearm + implant,1,imaging
+426846,orif calcaneal bone,1,imaging
+426847,orif calcaneus fracture with special locked plate and screws and bone graft,1,imaging
+426848,orif carpal scapoid unilateral,1,procedure
+426849,orif child simple elbow fracture with k.wire,1,supplies
+426850,orif clavicle,1,procedure
+426851,orif clavicle (shoulder) - 2 days,1,procedure
+426852,orif clavicle (shoulder)-2 days pkg,1,procedure
+426853,orif comm fx d/e radius - locked plate,1,supplies
+426854,orif comm fx distal end radius-t plate,1,supplies
+426855,orif comm fx distal end radius-k wire,1,supplies
+426856,orif comm-frac + red + nerve exploration ga,1,procedure
+426857,orif comm.reduc.of ankle &repair of torn,1,procedure
+426858,orif comminuted or mal union fracture of femur tibia humeru,2,procedure
+426859,orif comminuted or malunited fracture long bones- (p.d,1,imaging
+426860,orif condyler neck fracture,1,procedure
+426861,orif displaced metacarpal bone / phalanges,1,imaging
+426862,orif distal radius comm fracture,1,procedure
+426863,orif distal radius fracture-2 days pkg,1,procedure
+426864,orif dislocation of elbow,1,procedure
+426865,orif elbow,1,procedure
+426866,orif elbow / olecranon,1,procedure
+426867,orif elbow / olecranon including implant,1,supplies
+426868,orif elbow undr c-arm+expl.ulnar nrve ga,1,procedure
+426869,orif femoral condyle fractures,1,procedure
+426870,orif fibula,1,procedure
+426871,orif finger,1,procedure
+426872,orif finger ps,1,procedure
+426873,orif for both together medial malleolous and lateral malleolous,1,procedure
+426874,orif for comm.fract-maj joints,1,procedure
+426875,orif for comminuted /malunited fractures of temur tibia and humerus,1,procedure
+426876,orif for comminuted or mal-united fracture of the femur w/o implant price,1,supplies
+426877,orif for comminuted or mal-united fracture of the femur w/o implant price los 4days,1,supplies
+426878,"orif for comminuted or mal-united fracture of the femur, tibia, hu",1,procedure
+426879,"orif for comminuted or mal-united fracture of the tibia , humerus w/o implant price",1,supplies
+426880,"orif for comminuted or mal-united fracture of the tibia , humerus w/o implant price los 4days",1,supplies
+426881,orif for dislocation of ankle w/o implant price,1,supplies
+426882,orif for dislocation of ankle w/o implant price los 3 days,1,supplies
+426883,"orif for dislocation of ankle, wrist and elbow",1,procedure
+426884,"orif for dislocation of, wrist or elbow w/o implant price",1,supplies
+426885,orif for double level # uina and # radiu,1,lab_test
+426886,orif for femour- tibia- humerus,1,procedure
+426887,orif for fracture of radius with screw and plates,1,supplies
+426888,orif for fracture of ulna with screw & plates,1,supplies
+426889,orif for fracture or radius with screw and plates,1,supplies
+426890,orif for fracture radius with screw and plates,1,supplies
+426891,orif for fractures of the radius with screws plates,1,supplies
+426892,orif for large bone (femur humerus or tibia,1,imaging
+426893,orif for mal-union of fracture,1,procedure
+426894,orif for medial malleolous or lateral malleolous,1,procedure
+426895,orif for medium bone ( fibula,1,imaging
+426896,orif for medium bone (radius ulna,1,imaging
+426897,orif for medium bone (tibia fibula,1,imaging
+426898,orif for recent old neglected fracture dislocation of shoulder hip joint,1,procedure

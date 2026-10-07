@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+303412,intra articuller and aspiration,2,procedure
+303414,intra cardiac device programming,1,other
+303415,intra corneal ring od,1,other
+303416,intra corneal ring os,1,other
+303417,intra coronary rotablator - 1day pkg,1,other
+303420,intra dermal ingection (one lesion)- inc- medecine-1122,1,supplies
+303423,intra gstric balloon insertion,1,supplies
+303429,intra lesional (il)ِ,1,other
+303449,intra med. nail femur,1,supplies
+303450,intra medullary nailing w/lock,1,procedure
+303451,intra muscular,2,other
+303455,intra muscular administration charge ( im,1,consultation
+303456,intra muscular im,1,other
+303464,intra occular fb removal (anterior segment,1,procedure
+303465,intra occular lens calculation / bilateral,1,eyewear
+303466,intra occular lens tecnis preloaded power amo all sizes,1,eyewear
+303467,intra occular pressure ( iop,1,diagnostic
+303468,intra occularb pressure,1,other
+303469,intra ocular lens,1,eyewear
+303470,intra ocular lens calculation iol both eye,1,eyewear
+303471,intra ocular lens calculation( iol ) two eyes,1,eyewear
+303472,intra ocular lens calculation( iol ) one eye,1,eyewear
+303473,intra ocular lens panoptix trifocal alcon tfnt00 (any power range) - per each,1,eyewear
+303474,intra ocular lens panoptix trifocal alcon tfnt30 (any power range) - per each,1,eyewear
+303475,intra ocular measurement with flourescein,2,other
+303476,intra ocular pressure,1,other
+303477,intra ocular pressure (i.o.p,1,lab_test
+303478,intra ocular pressure (i.o.p)(tonometry,1,diagnostic
+303479,intra ocular pressure (iop,3,diagnostic
+303480,intra ocular pressure measurement,2,other
+303481,intra ocular pressure measurement(iop,1,diagnostic
+303482,intra ocular presure,1,other
+303483,intra ocular toric unifocal lens implentation for hyperopia refractive surgery (left eye)/dr. mohanna al jindan,1,eyewear
+303484,intra ocular toric unifocal lens implentation for hyperopia refractive surgery (right eye)/dr. mohanna al jindan,1,eyewear
+303485,intra ocularpressurmeasurement,1,other
+303486,intra operative cholangiogram - 1day pkg,1,other
+303487,intra operative repair of bladder injuiry,1,procedure
+303488,intra operative tubal ligation,1,procedure
+303489,intra oral x- ray,1,eyewear
+303490,intra oral x-ray,4,imaging
+303491,intra oral drainage abscess,1,procedure
+303492,intra oral i&d abscess,1,procedure
+303493,intra oral pariapical film,1,other
+303494,intra oral periapical x ray,2,imaging
+303495,intra oral single,1,other
+303497,intra oral x-ray /periapical,1,imaging
+303498,intra oral xray,1,imaging
+303499,intra periapical single first film,1,dental
+303504,intra uterine device insertion iud under g.a,1,procedure
+303505,intra uterine device removal,2,procedure
+303507,intra uterine insemination-iui,1,other
+303508,intra uterine insertion / rmvl /rmvl of uterine pack u.g.a,1,supplies
+303509,intra vascular (intra-coronary) diagnostic ultrasound (i.v.u.s.) - 1 day pkg,1,imaging
+303510,intra venous (iv) insertion / without iv fluids or medicines,1,supplies
+303511,intra venous administration charge (iv,1,supplies
+303512,intra venous drip,3,other
+303513,intra venous i.v plmids,2,lab_test
+303514,intra venous inf,1,other
+303518,"intra venous medications for acute headache or neuropatic pain ,sick",1,other
+303519,intra venus iv,1,supplies
+303520,intra vesicular cytotoxic drug admin,1,consultation
+303539,"intra-abdominal manipulation of intestine (torsion volvulus, intussusc.) - 3 day pkg",1,procedure
+303540,intra-abdominal manipulation of s. intestine (strangilated w/o r.a.) - 3 day pkg,1,procedure
+303541,intra-abdominal vein cath/cannulation,1,supplies
+303542,intra-aortic balloon insertion,2,supplies
+303544,intra-aortic baloon insertion,1,procedure
+303555,"intra-arterial administration of pharmacological agent, anti-infective",1,consultation
+303556,"intra-arterial administration of pharmacological agent, other and unsp",1,consultation
+303557,"intra-arterial cannuln, blood gas anlys",1,lab_test
+303558,intra-arterial chemotherapy,1,procedure
+303560,intra-articular and peri-articular fixation,1,procedure
+303580,"intra-articular injections by: chondro protective material, platelet rich plas",1,other
+303581,intra-articular injections to shoulder,1,other
+303583,intra-articular steroid nj,1,other
+303589,intra-costal drainage set,1,procedure
+303590,intra-cranial stenting,1,other
+303591,intra-derm or lesional infl,1,other
+303593,intra-lasik - two eyes,1,other
+303594,intra-lasik dr alaa- one eye,1,supplies
+303598,intra-lesional per site,1,other
+303599,intra-lipid infusion,1,supplies
+303602,intra-ocular pressure,3,other
+303603,intra-operat.cholangiography,1,other
+303604,intra-operative neurophysiology monitoring for additional per hour,1,consultation
+303605,intra-operative transesophagal echocardiograph,1,other
+303606,intra-operative use of microscope,1,other
+303607,intra-oral peri apical radiograph single view,1,imaging
+303608,intra-oral x ray,1,imaging
+303613,intra-venous pyelography (ivp,1,other
+303618,intra-vitreal injec of lucentis,1,other
+303619,intra-vitreal inject of avastin,1,other
+303622,intraaortic balloon insertion,1,supplies
+303624,intraarticular aspiration (orthopedic,1,procedure
+303634,intracath cover ( luer lock,1,other
+303635,intracerebral haematoma evacuation,1,procedure
+303636,intracerebral haematoma evacuation suprat,1,procedure
+303640,intracoronary thrombus aspiration,1,procedure
+303645,intracostal drainage set,1,procedure
+303646,intracranial aneurysm coiling (2 coils,1,other
+303647,intracranial aneurysm coiling ( 5 coils,1,other
+303648,intracranial angioplasty,1,procedure
+303649,intracranial angioplasty (major consumables not included,1,procedure
+303650,intracranial angioplasty for vasospasm + embolization + guiding cathers + wires + high flow catheter,1,supplies
+303651,intracranial decompression chiasma & optic nerve,1,procedure
+303652,"intracranial injuries, majc",1,inpatient
+303653,"intracranial injuries, minc",1,inpatient
+303654,"intracranial injuries, tr<5d",1,other
+303655,intracranial stenting,1,other
+303656,intracranial vessel revascularization,1,other
+303658,intracv admin of pharmac agent antidote,1,consultation
+303659,intracv admin pharmac agent oth & unsp,2,consultation
+303661,intradermal allergic skin test,1,lab_test
+303662,intradermal ingection,1,other
+303680,intradiscal therapy laser disc decompression,1,physiotherapy
+303681,intradural / extradural lipoma,1,other
+303682,intradural spinal tumor removal,1,procedure
+303683,intrafix primeline 15cm (infusion pump iv set) #d4062957e b.braun,1,supplies
+303684,intrafix set infusion jm-s2047,1,supplies
+303689,intralase cones (both eye,1,other
+303690,intralase cones (one eye,1,supplies
+303691,intrale.injec.(per lesion,1,other
+303696,intralesional corticoste,1,other
+303702,intralesional inject of alopecia,1,other
+303734,intralipid 10% (soybean oil,1,other
+303738,intramedullary nailing of femur,1,procedure
+303739,intramedullary nailing of tibia,1,procedure
+303740,intramedullary nancy nail,1,supplies
+303744,intramuscular,1,other
+303746,intramuscular & painkiller,1,other
+303749,intramuscular (im,1,other
+303751,intramuscular admini. of pharmacological agent other&unspe,1,other
+303752,intramuscular admini. of pharmacological agent other&unspecified,1,other
+303753,intramuscular admini. of pharmacological agent other&unspecified pharmacological agent,1,other
+303754,intramuscular admini.. of pharmacological agent other&unspecified pharmacological agent,1,other
+303755,intramuscular administration of pharmacological agent other,2,consultation
+303756,intramuscular administration of pharmacological agent other and unspecified phar,2,consultation
+303760,"intramuscular administration of pharmacological agent, anti-infective",1,consultation
+303761,"intramuscular administration of pharmacological agent, antidote",1,consultation
+303762,"intramuscular administration of pharmacological agent, antineoplastic",1,consultation
+303763,"intramuscular administration of pharmacological agent, electrolyte",2,consultation
+303765,"intramuscular administration of pharmacological agent, nutritional sub",1,consultation
+303766,"intramuscular administration of pharmacological agent, other and unspe",1,consultation
+303768,"intramuscular administration of pharmacological agent, thrombolytic ag",1,lab_test
+303769,intramuscular adminstration of pharmacological agent,1,other
+303771,intramuscular injec,1,other
+303781,intramuscular injections,3,other
+303784,intramuscular or subcuticular,1,other
+303786,intranasal antrostomy,3,procedure
+303787,intranasal antrostomy (bilateral,1,procedure
+303788,intranasal antrostomy bilat,1,procedure
+303789,intranasal antrostomy bilateral,1,procedure
+303790,intranasal antrostomy bilateral (sr if unilat,1,procedure
+303791,intranasal antrostomy including endoscopic and antral washout (including bilater,1,procedure
+303792,intranasal antrostomy uni bi/lateral,1,procedure
+303793,intranasal antrostomy unilat,1,procedure
+303794,intranasal antrostomy unilateral,2,procedure
+303796,intranasal ethmoidectomy,2,procedure
+303798,intranasal ethmoidectomy endoscopic ( unilateral,1,procedure
+303799,intranasal ethmoidey -endo-unilat,1,other
+303800,"intranasal maxillary antrostomy, bilateral",2,procedure
+303801,"intranasal maxillary antrostomy, unilateral",2,procedure
+303802,intranasal removal of polyp from ethmoidal sinus,1,procedure
+303803,intranasal removal of polyp from ethmoidal sinus - 2 days pkg,1,procedure
+303804,intranasal removal of polyp from frontal sinus,1,procedure
+303805,intranasal removal of polyp from maxillary antrum,1,procedure
+303806,intranasal splint(bivalve flouroplastic,1,supplies
+303807,intranasal/transmaxillary ethmoidectomy,1,procedure
+303808,intransal ethmoidectomy,1,procedure
+303809,intraocelar tension,1,other
+303810,intraocular contact lens (icl) (one eye) - icl,1,eyewear
+303811,intraocular gas (c3f8,1,diagnostic
+303812,intraocular gas c3f8-per each,1,diagnostic
+303817,intraocular lens calculation,1,eyewear
+303818,intraocular lens implantation under local /gen.anesth. - 1 day pkg,1,eyewear
+303819,"intraocular lens, multipiece foldable alcon, ma60 ac",1,eyewear
+303820,"intraocular lens, posterior chamber ,extended vision ,acrysof,vivity toric,different power, alcon , dft615",1,eyewear
+303821,"intraocular lens, posterior chamber ,extended vision ,acrysof,vivity,different power, alcon , dft015",1,eyewear
+303822,"intraocular lens, posterior chamber foldable acrysof, sn60wf diopter 6.0-34",1,eyewear
+303823,intraocular pressure measurement,2,diagnostic
+303824,intraocular tension ( tonometry,2,diagnostic
+303826,intraocular tension (tonometry,3,diagnostic
+303827,intraocular tension tenometry,1,diagnostic
+303828,intraocular toric unifocal lens implentation for hyperopia (both eyes)/dr. 01 adel rushood,1,eyewear
+303829,intraocular toric unifocal lens implentation for hyperopia (both eyes)/dr. z adel or,1,eyewear
+303830,intraocular toric unifocal lens implentation for myopia refractive surgery (both eyes)./dr. 01 adel rushood,1,eyewear
+303831,intraocular toric unifocal lens implentation for myopia refractive surgery (both eyes)./dr. z adel or,1,eyewear
+303832,intraocular toric unifocal lens implentation for myopia refractive surgery (both eyes)./dr. z mohanna or,1,eyewear
+303833,intraocular toric unifocal lens implentation for myopia refractive surgery (left eye)/dr. 01 adel rushood,1,eyewear
+303834,intraoperative biopsy of liver,1,procedure
+303835,intraoperative colonic lavage,1,procedure
+303836,intraoperative neurophysiology testing,1,lab_test
+303837,"intraoperative neurophysiology testing, per hour (list separately in a",1,lab_test
+303838,intraoperative screening,1,lab_test
+303839,intraoral - occlusal film,1,other
+303840,intraoral - periapical,1,dental
+303841,intraoral - periapical each additional film,1,dental
+303842,intraoral - periapical first film,2,dental
+303843,intraoral - periapical first radiographic image,8,dental
+303844,intraoral abcess drainage,1,procedure
+303845,intraoral bitewing film,1,other
+303846,intraoral complete series (including bitewings,1,other
+303847,intraoral film,1,other
+303848,intraoral incision and drainage,1,procedure
+303849,"intraoral incision and drainage of abscess, cyst, or hematoma of tongu",1,procedure
+303850,"intraoral incision& drainage,abscess/cyst/hematoma,tongue/ mouth floor,lingual",1,procedure
+303851,intraoral pa 1st film,1,imaging
+303852,intraoral periapical single first film,1,dental
+303853,intraoral periapical - single first film,3,dental
+303855,"intraoral periapical - single, first film",1,dental
+303856,"intraoral periapical - single, first film(702006",1,dental
+303857,intraoral periapical film,2,dental
+303858,intraoral periapical or bitewing radiograph -per exposure,2,imaging
+303863,intraoral periapical or bitewing radiograph ? per exposure,2,imaging
+303864,intraoral periapical or bitewing radiograph ? per exposure (ncci,1,imaging
+303865,intraoral periapical or bitewing radiograph ?? per exposure,1,imaging
+303869,intraoral periapical or bitewing radiograph per exposure x-ray,1,imaging
+303870,intraoral periapical or bitewing radiograph-per exposure,2,imaging
+303871,"intraoral periapical or bitewing radiography, per exposure",2,dental
+303872,intraoral periapical radiograpgy per exp,1,dental
+303873,"intraoral periapical radiography, per exposure",3,dental
+303874,intraoral radiograph,2,imaging
+303875,"intraoral radiograph occlusal, maxillary, mandibular per exposure",6,imaging
+303879,intraoral suturing,1,procedure
+303880,intraoral x-ray,1,imaging
+303881,intraoral x-ray compl. series (incl. bitewings) adult,1,imaging
+303882,"intraoral, periapical, first film",1,dental
+303883,intraoral-periapical film,1,dental
+303884,intraoral-periapical first film,1,dental
+303885,intraoral-periapical first radiographic image,1,dental
+303886,intraoralpariapicalfilm,1,other
+303887,intraoralperiapical-single2cfirstfilm,1,other
+303888,intraorbital approach,1,other
+303889,intraorcal peri apical x-ray,1,imaging
+303890,intrapartum fetal us,1,imaging
+303891,intraperitoneal abscess,1,procedure
+303892,intraperitoneal medication,1,other
+303893,intrapulmonary surfactant administration by a physician through endotracheal tube,1,supplies
+303894,intrapulmonary surfactant administration by physician through endotracheal tube,1,supplies
+303895,intrapur lipid 1.2 mcm adult,1,other
+303896,intrapur lipid 1.2 mcm neonate,1,other
+303897,intrapur lipid 1.2 micron inf. filter,1,supplies
+303898,intrapur paed lipid filter 1.2 micron,1,supplies
+303899,intrapur plus 0.2 mcm neonate,1,other
+303900,intrapur plus paed filter 0.2,1,supplies
+303901,"intrapur plus, adult tpn infusion filter, 0.2 micron, (b.braun) # 4099800",1,supplies
+303902,intrapure lipid filter,1,supplies
+303903,intrapure neonat lipid filter,1,supplies
+303904,intrarenal aortic aneurysm repair,1,procedure
+303905,intrarosa-pessary,1,other
+303913,intrartrl admin of pharmac agt steroid,1,consultation
+303914,intrartrl admin of pharmac agt thrmblytc,1,consultation
+303915,intrartrl admin pharmac agt anti-infect,1,consultation
+303916,intrartrl admin pharmac agt electrolyte,2,consultation
+303938,intrathcl admin of pharmac agt antineopl,1,consultation
+303939,intrathcl admin of pharmac agt steroid,1,consultation
+303940,intrathcl admin pharmac agt oth & unsp,1,consultation
+303942,intrathecal chemotherapy,2,procedure
+303943,intrathecal chemotherapy administration,1,procedure
+303948,intratympanic infussion of corticostiroid or gentamicyn,1,other
+303951,intrauterine contraceptive device,2,other
+303952,intrauterine contraceptive device (i.u.c.d.) insertion,1,procedure
+303953,intrauterine contraceptive device (i.u.c.d.) removal,1,procedure
+303954,intrauterine device,1,other
+303955,"intrauterine device copper,metal-covered",1,other
+303956,intrauterine device insertion,1,procedure
+303957,intrauterine device removal,1,procedure
+303958,intrauterine device removal under la,1,procedure
+303959,intrauterine fetal blood transfusion (iut) - 3days pkg,1,lab_test
+303960,intrauterine/intravaginal ultrasound,1,imaging
+303961,intravascular (iv,1,supplies
+303962,intravascular imaging of non-coronary vessel(s) by optical coherence tomography [oct] - aramco,1,eyewear
+303963,intravascular ultrasound,1,imaging
+303964,intravascular ultrasound (ivus,2,imaging
+303966,intravascular ultrasound ivus - bedside or clinic,1,imaging
+303967,intraveineuse,1,other
+304057,intravenouse pump infusion the,1,supplies
+304058,intraventrial implant (local anesthesia) - pkg,1,supplies
+304059,intraventrial implant - 1day pkg,1,supplies
+304060,intravenus,1,other
+304094,intravitreal eylea injections,1,other
+304134,intravitreal injections (excluding medication,4,other
+304136,intravitreal injections of avastin,1,other
+304141,intravitreal lucentis,1,other
+304149,intravitreal lucentis los: 01 day,1,other
+304154,intravitreal silicon oil tamponade,2,supplies
+304157,intrensic factor abs,1,lab_test
+304158,intrepid phaco + iq iol,2,supplies
+304159,intrepid phaco + toric,1,procedure
+304160,intrepid phaco +iq iol,2,supplies
+304161,intrepid plus pack w/mini flared kelman tip 30 alcon #8065752086,1,supplies
+304162,intrinsic factor ab,2,lab_test
+304164,intrinsic factor abs,3,lab_test
+304165,intrinsic factor abs - s.o,1,lab_test
+304166,intrinsic factor abs( so,1,lab_test
+304168,intrinsic factor abs. d,1,lab_test
+304169,intrinsic factor antibodies,3,lab_test
+304171,intrinsic fartor abs,1,lab_test
+304174,"introducer , cardiological , femoral & radial sheath different sizes, , int*fkr",1,supplies
+304175,introducer 6 fr radial introducer radial,1,eyewear
+304176,introducer braided coil type diff.sizes,1,other
+304177,introducer fortress reinforces 4fr pre-curved biotronic#358813,1,other
+304178,introducer fortress reinforces 6fr straight 65 biotronic#444482,1,other
+304179,"introducer kit 10fr #407653, abbot",1,other
+304180,"introducer kit 12fr, 407655, abbot",1,other
+304181,introducer kit gastrostomy with 16fr dilator for use with mic/mic-key 12fr feeding tube (tube not included,1,supplies
+304182,introducer kit jejunal/gastric jejunal with 20fr dilator for use with mic/mic-key 16fr feeding tube (tube not included,1,supplies
+304183,"introducer radial set, kdl",1,other
+304184,introducer set accustick ii wire .038 j tip boston # 20702,1,supplies
+304185,introducer set all sizes,1,other
+304186,introducer set long sheath 9fr x 13cm cook # rcf-9.0-38-j,1,supplies
+304187,introducer set micro-stick 4fr regular with nitinol wire 7cm echo tip medcomp mr190421,1,imaging
+304188,introducer set micro-stick 4fr stiff with nitinol wire 7cm echo tip medcomp mr190411,1,imaging
+304189,introducer sheath,3,supplies
+304190,introducer sheath ( 6fr )w/punture needle femoral,1,supplies
+304191,"introducer sheath ( 7fr, 23cm",1,supplies
+304192,"introducer sheath 11cm,7fr # 573311",1,supplies
+304193,introducer sheath 14fr 28cm sentrant hydrophilic # sensh1428w,1,supplies
+304194,introducer sheath 5f ped,1,supplies
+304195,introducer sheath 6f adult,1,supplies
+304196,introducer sheath 6fr inner diameter hydrophilic,1,supplies
+304197,introducer sheath 7f adult,1,supplies
+304198,introducer sheath 7f ped,1,supplies
+304199,"introducer sheath avanti cath # 504-606x, cordis",1,supplies
+304200,introducer sheath avanti cath #504-606x,1,supplies
+304201,introducer sheath input ps 11cm (various sizes,1,supplies
+304202,introducer sheath kit 6fr 11cm / #563311/m001443861,1,supplies
+304203,introducer sheath kit 6fr 11cm hydrophilic type kdl #his-02,1,supplies
+304204,introducer sheath kit 6fr 11cm hydrophilic tyype kdl #his-02,1,supplies
+304205,introducer sheath kit 6fr 11cm medtronic/boston #563311/m001443861,1,supplies
+304206,"introducer sheath kit 6fr, 11cm",1,supplies
+304207,introducer sheath kit 8.5fr 10cm # ak-09801-a,1,supplies
+304208,"introducer sheath kit transradial 6fr, rm*rf6j10pq",1,supplies
+304209,introducer sheath transradial 5fr,1,supplies
+304210,introducer sheath transradial 6f,1,supplies
+304211,introducer sheath w/ hemostasis valve 6frx110mm cimplete set balton #int6f,1,supplies
+304212,"introducer sheath with hydrophilic coating, sentrant, medtronic, sensh1428w",1,supplies
+304213,introducer stent oasis radiopaque bands 8.5fr 208cm cook/marflow no.oa-8.5/ssis-8.5,1,supplies
+304214,"introducer system accustick ii with .038"" j tip & .018"" nitinol guidewire",1,supplies
+304215,introducer transradial sheath kit 6fr 10cm cordis #506610s,1,supplies
+304216,"introducer, sheath, 5fr, 11cm, box 10, arrow, cp07511",1,supplies
+304217,"introducer, sheath, 6fr, 11cm, box 10, arrow, cp07611",1,supplies
+304218,"introducer, sheath, 7fr, 11cm, box 10, arrow, cp07711",1,supplies
+304219,"introducer, steerable, 8.5f, 2.8mm, nxt, agilis, st. jude medical, 408310",1,other
+304220,introducerbraidedcoil6fx45,1,other
+304221,introduction of therapeutic substance into bladder,1,other
+304222,introduction of veginal passery,1,other
+304223,"introduction, cannula/needle/intracatheter, vein",1,supplies
+304224,"introduction, cannula/needle/intracatheter, veinous cut down",1,supplies
+304226,inttracranial angioplasty without stent price,1,supplies
+304227,intubasion - elective,1,other
+304228,intubating stylet 116-06 pedia,1,other
+304229,intubating stylet 116-14 adult,1,other
+304230,intubating stylet size 6 fr,1,eyewear
+304231,intubation,5,procedure
+304232,intubation fee,3,procedure
+304233,intubation (code 99,1,procedure
+304235,intubation - ccu/icu,1,procedure
+304236,intubation - elective,1,procedure
+304237,intubation endotracheal,1,supplies
+304238,intubation endotracheal emergency procedure,1,supplies
+304239,intubation endotracheal emergency procedure / rt,1,supplies
+304240,intubation endotrcheal,1,procedure
+304241,intubation ett (er,1,procedure
+304243,"intubation fees,emergency",1,procedure
+304244,intubation of respiratory tract,1,procedure
+304245,intubation oxygen 1 hour,1,supplies
+304246,intubation style adult portex #100/120/300,1,procedure
+304247,intubation stylet adult,2,procedure
+304249,intubation stylet adult portex #100/120/300,1,procedure
+304250,intubation stylet adult portex #100/120/300 mall#116-10,1,procedure
+304251,intubation stylet medium tracheal,1,procedure
+304252,intubation stylet od 4.2x335mm portex #100/120/200,1,procedure
+304253,intubation stylet pediatric #100/120/100//070-116-06,1,procedure
+304254,intubation stylet pediatric portex #100/120/100,1,procedure
+304255,intubation stylet size ( 14,1,procedure
+304256,intubation stylet size 10 fr ncs-713-63,1,eyewear
+304257,intubation stylet size 14,1,procedure
+304258,intubation stylet size 6 fr ncs-713-62,1,eyewear
+304259,intubation stylet tube 2.2mm-per pcs,1,supplies
+304260,intubation stylet tube 4.2mm-per pcs,1,supplies
+304261,"intubation tube stylet adult cat#100/120/200 , 4.0mm portex",1,supplies
+304262,"intubation tube stylet adult cat#100/120/300 , portex",1,supplies
+304263,"intubation tube stylet peadia 100/120/100,portex",1,supplies
+304264,"intubation, elective",1,procedure
+304265,"intubation, endotracheal, elective",1,supplies
+304266,"intubation, endotracheal, emergency proc",1,supplies
+304267,"intubation, endotracheal, emergency proc / icu",1,supplies
+304268,"intubation, endotracheal, emergency procedure",2,supplies
+304269,"intubation, endotracheal, emergency procedure / rt",1,supplies
+304270,"intubation, submental",1,procedure
+304271,intubation-elective,1,procedure
+304272,intubation-nicu,1,procedure
+304275,intubation..m-int1030,1,procedure
+304276,intussesception surgical reduction,1,procedure
+304277,inue balloon mvp ca00381230,1,supplies
+304278,invacare/meyra wheelchair service 18/20,1,supplies
+304279,"invalid ring cushion, closed cell foam, ( deroyal) # m10-070-c",1,other
+304297,invasive cardiac output monitoring daily care,1,consultation
+304298,invasive monitoring,1,consultation
+304299,invasive pressure monitoring,1,consultation
+304359,investigations cost more than sr.1000 per day,1,other
+304360,investigations entropion repair (one lid,1,supplies
+304361,investigations for corneal ulcer,1,procedure
+304362,invicta,1,other
+304363,invisalign lite,1,other
+304364,invisalign i7,1,other
+304365,invisible retainer (single arch,1,dental
+304366,invisible retainer two jaws,1,other
+304367,invisiknot ankle syndesmosis repair kit fracture sterile,1,supplies
+304368,invisiknot ankle syndesmosis repair kit non fracture steril,1,procedure
+304381,invotec easy splint 20-10500,1,supplies
+304382,inzone detachment system stryker # m00345100950,1,other
+304383,in_c cervical traction,1,imaging
+304385,iodine,1,other
+304386,iodine (total,1,other
+304387,iodine 123 whole body scan,1,imaging
+304388,iodine crystals(ki).bp (lab,1,eyewear
+304391,iodine serum,1,lab_test
+304395,iodine swab stick sterile bx/100,1,lab_test
+304396,iodine swabstick,1,other
+304397,iodine total (serum,1,lab_test
+304398,iodine total - serum - s.o,1,lab_test
+304399,iodine total serum,1,lab_test
+304400,iodine(s u,1,lab_test
+304401,iodine-131 treatment (15-29 mci,1,other
+304404,iol,1,supplies
+304405,iol calculation biometry,1,supplies
+304406,iol (intraocular lens ) repositioning,1,eyewear
+304407,iol 9.0 posterior,1,supplies
+304408,iol acrylic foldable acrysof alcon/tecnis all sizes,1,supplies
+304409,iol acrysof,1,supplies
+304410,iol acrysoft iq 19.5 (alcon,1,supplies
+304411,iol acrysoft iq 21.0 (alcon,1,supplies
+304412,iol acrysoft iq 27.5 (alcon,1,supplies
+304413,iol biometry (one eye,1,supplies
+304414,iol biometry,1,supplies
+304415,iol blue light filter lens,1,eyewear
+304416,iol calculation & pre hospitalization evaluation,2,supplies
+304417,iol calculation biometry (fc,1,supplies
+304418,iol calculation for one eye,2,supplies
+304419,iol calculation with iol master,1,supplies
+304420,iol calulation - 084-15982,1,supplies
+304421,iol calculation,2,supplies
+304424,iol exchange,2,supplies
+304425,iol exchange (done inside magrabi,1,supplies
+304426,iol exchange (done inside the center,1,supplies
+304427,iol exchange (done inside your facility,1,supplies
+304428,iol exchange (done outside magrabi,1,supplies
+304429,iol exchange (done outside,1,supplies
+304430,iol exchange (left eye)/dr. 01 adel rushood,1,supplies
+304431,iol exchange (left eye)/dr. 38 somali abdulaziz,1,supplies
+304432,iol exchange (left eye)/dr. mohanna al jindan,1,supplies
+304433,iol exchange (right eye)/dr. 01 adel rushood,1,supplies
+304434,iol exchange (right eye)/dr. 38 somali abdulaziz,1,supplies
+304435,iol exchange (right eye)/dr. mohanna al jindan,1,supplies
+304436,iol exchange (right eye)/dr. z mohanna or,1,supplies
+304437,iol exchange - day case,1,supplies
+304439,iol foldable 19.0 acrysof,1,supplies
+304440,iol foldable 19.5,1,supplies
+304441,iol lenstec,1,supplies
+304442,iol master (one eye) or (two eyes,1,supplies
+304443,iol master 1 eye,4,supplies
+304444,iol master biometry,1,supplies
+304447,"iol posterior -3.0 , 208u",1,supplies
+304448,iol rayner,1,supplies
+304449,iol repositioning ( done inside your facility,1,supplies
+304450,iol repositioning ( done outside magrabi,1,supplies
+304451,iol repositioning (done inside magrabi,1,supplies
+304452,iol repositioning (done outside magrabi,1,supplies
+304453,iol repositioning (done outside your facility,1,supplies
+304454,iol ultrasonography,1,imaging
+304455,iol aspherical lens,1,eyewear
+304457,"iol post cham sut iris sclera, bilateral",1,supplies
+304458,iol spherical lens,1,eyewear
+304472,ionized ca++,1,lab_test
+304491,ionized calcum (ca++,1,lab_test
+304492,iontoforesis,1,other
+304493,iop,3,diagnostic
+304494,iop (eye pressure test,1,lab_test
+304495,iop check applantion tonopen,1,diagnostic
+304496,iop examination,1,diagnostic
+304497,iop measure electrinically,1,diagnostic
+304498,iop measure electronicaly,2,diagnostic
+304499,iop measurement,5,diagnostic
+304500,iop measurement ( intra occular pressure,4,diagnostic
+304501,iop measurement - intra occular pressure,2,diagnostic
+304505,iop measurement intra occular pressure,1,diagnostic
+304506,iop measuring (tonometer indet,1,diagnostic
+304507,iop measurment,1,diagnostic
+304510,iop measure,1,diagnostic
+304512,iop measurement with applantion tonometer,1,diagnostic
+304514,iopa xray,1,imaging
+304515,iopa dental x-ray,1,imaging
+304519,iot measurement,1,other
+304522,ip consult - dermatology (dr. o. al amoudi,1,consultation
+304523,ip consult - endocrine ( dr.mohammad kattan,1,consultation
+304524,ip consult - endocrine (dr. may faisal semilan,1,consultation
+304525,ip consult - endocrine (dr. may faisal semilan)- follow up,1,consultation
+304526,ip consult - gastroenterology (dr. adeeb m. elghalayini,1,consultation
+304527,ip consult - gastroenterology (dr. adeeb m. elghalayini) - follow up,1,consultation

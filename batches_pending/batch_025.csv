@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+192771,ecg with report ??? ???,1,diagnostic
+192772,ecg with report by cardio,1,diagnostic
+192776,ecg with report ecg,1,diagnostic
+192777,ecg without report,1,diagnostic
+192781,ecg in cardiology dept,1,diagnostic
+192782,ecg in emergency dept,1,diagnostic
+192783,ecg in inpatient dept,1,diagnostic
+192784,ecg in medicine dept,1,diagnostic
+192786,ecg in the clinic[3.07,1,diagnostic
+192788,ecg paper l,1,diagnostic
+192789,ecg paper welch allyn,1,diagnostic
+192790,ecg recording,1,diagnostic
+192793,ecg with excersise ( stress )treadmill,2,diagnostic
+192794,ecg with excersise - stress treadmill,1,diagnostic
+192795,ecg with excersise - stress treadmill (02388,1,diagnostic
+192796,ecg with medical report,1,diagnostic
+192798,ecg with stress test,1,lab_test
+192801,ecg without effort,1,diagnostic
+192802,ecg تخطيط قلب,2,diagnostic
+192803,ecg تخطيط قلب اخصائى,1,diagnostic
+192804,ecg(01019,1,diagnostic
+192805,ecg(electrdiography,1,diagnostic
+192806,ecg(gp,1,diagnostic
+192812,ecg+ rhythm strip,1,diagnostic
+192813,"ecg, adult",1,diagnostic
+192814,ecg-cardio,1,diagnostic
+192815,ecg-electro cardio graph,1,diagnostic
+192817,ecg. effort,1,diagnostic
+192818,ecg/ ekg,1,diagnostic
+192819,ecg/ ekg with report,1,diagnostic
+192820,ecg/consultant,2,diagnostic
+192823,ecg/ekg,1,diagnostic
+192824,ecg/monitoring and analysis,1,diagnostic
+192825,ecg/prim. specialist,3,diagnostic
+192828,ecg/resident,2,diagnostic
+192829,ecg/review interpret only,1,diagnostic
+192831,ecg/resident - insurance,1,diagnostic
+192832,ecg/specialist,3,diagnostic
+192835,ecg/visiting consultant,2,diagnostic
+192837,ecg1,1,other
+192838,ecg monitoring in ccu,1,diagnostic
+192839,ecg monitoring in icu,1,diagnostic
+192840,echelon 14 micro catheter,1,supplies
+192841,echelon endopath staple reinfo,1,other
+192842,"echelon flex 60 powered plus articulating endoscopic linear cutter, standard length-staple line length 60mm, cut line",1,procedure
+192843,echelon flex 60mm reloads standard/thick gold ethicon no.ecr60d,1,supplies
+192844,"echelon flex powered plus articulating endoscopic linear cutter - staple rows, 1.5mm closed staple height, blue",1,procedure
+192845,"echelon reload white color,johnson & johnson",1,other
+192851,echinace,1,other
+192863,echinococcos antibody (hydatid abs,1,lab_test
+192864,echinococcosis (hemagglutination) casony,1,other
+192865,echinococcosis ab,1,lab_test
+192866,echinococcosis abs (iha,1,lab_test
+192867,echinococcosis confirmation serology,1,lab_test
+192868,echinococcus antibody,2,lab_test
+192869,echinococcus (hemagglutination) casony ab (hydatid disease,1,lab_test
+192870,echinococcus - ab,1,lab_test
+192871,echinococcus ab,1,lab_test
+192872,echinococcus ab (igg,1,lab_test
+192873,echinococcus abs,1,lab_test
+192874,echinococcus abs (hydatid ab,2,lab_test
+192876,echinococcus abs (hydatid serology,1,lab_test
+192877,echinococcus abs (iha,1,lab_test
+192878,echinococcus abs cf + iha @,1,lab_test
+192879,echinococcus abs iha multilocular,1,lab_test
+192880,echinococcus abs iha & multilocular,1,lab_test
+192881,echinococcus abs iha and multilocular,1,lab_test
+192882,echinococcus abs. cf +iha (h m,1,lab_test
+192883,echinococcus antibodies,2,lab_test
+192884,echinococcus antibodies (iha,1,lab_test
+192885,echinococcus antibodies (iha) (serum,1,lab_test
+192887,echinococcus granulosus abs,1,lab_test
+192888,echinococcus multilocularis,1,other
+192889,"echinococcus multilocularis, echinococcus antibodies (iha",1,lab_test
+192890,echinococcus qranulosus ha,1,other
+192891,echinococcus/hydatid antibodies,1,lab_test
+192892,echinocossu abs iha & multiloc,1,lab_test
+192893,echloen per pcs,1,other
+192894,echo,3,imaging
+192895,echo for adults,2,imaging
+192896,echo (2 dimension,1,imaging
+192897,echo (cardio clinic,1,imaging
+192898,echo (new,1,imaging
+192899,echo (new)- (color doppler echocardiography,1,imaging
+192900,echo (new)-(pedia,1,imaging
+192901,echo (pedia,1,imaging
+192902,echo (pedia) portable,1,imaging
+192903,echo - cardiography,2,imaging
+192904,echo - cardiology,1,imaging
+192905,echo - doppler examination,2,imaging
+192906,echo - follow up,1,imaging
+192907,echo - follow up - (pedia,1,imaging
+192908,echo - paedia-2d+doplr+col dplr,1,imaging
+192909,echo -cardiogram,1,imaging
+192910,echo 2 dimension + m mode,1,imaging
+192911,echo 2 dimension + m. mode,1,imaging
+192912,echo 2 dimension m. mode,1,imaging
+192913,echo 3d (med,1,imaging
+192914,echo 3d (med)-echo 3d (med,1,imaging
+192915,echo abdomen,1,imaging
+192916,echo and stress ecg services,1,imaging
+192917,echo car-m mode +2d+dopp+sp.s,1,imaging
+192918,echo car-m mode 2d dopp sp.s,1,imaging
+192919,echo car-m mode+2d+dopp+sp.s,1,imaging
+192920,echo card.(portable,1,imaging
+192921,echo cardigram 2d + m mode,1,imaging
+192922,echo cardio,1,imaging
+192923,echo cardio graphy,2,imaging
+192924,echo cardio-2d,1,imaging
+192925,echo cardioghraphy,1,imaging
+192926,echo cardiogram,3,imaging
+192927,echo cardiogram (2d + m mode,2,imaging
+192928,echo cardiogram - color doppler,1,imaging
+192929,echo cardiogram 2d + m mode,2,imaging
+192930,echo cardiogram 2d + m mode +,1,imaging
+192931,echo cardiogram 2d + m mode + doppler (full study,3,imaging
+192933,echo cardiogram 2d + m mode + fmcar-0005,1,imaging
+192935,echo cardiogram 2d + mpmode,1,imaging
+192936,echo cardiogram 2d +m mode,1,imaging
+192937,echo cardiogram 2d m mode doppler full study,1,imaging
+192938,echo cardiogram ???? ??? ????????? ???? ?????????,1,imaging
+192939,echo cardiogram for pediatric,1,imaging
+192940,echo cardiogram full study,1,imaging
+192941,echo cardiogram with contrast,1,imaging
+192942,echo cardiogram with doputamin,1,imaging
+192943,echo cardiogramme,2,imaging
+192944,echo cardiograph,3,imaging
+192945,echo cardiograph - 003-11206,1,imaging
+192947,echo cardiography (adult,1,imaging
+192948,echo cardiography (adult/portable,1,imaging
+192949,echo cardiography (pedia,1,imaging
+192950,echo cardiography (pedia/portable,1,imaging
+192951,echo cardiography full study,1,imaging
+192952,echo cardiography m.mode + 2d,1,imaging
+192953,echo cardiography pediatric,1,imaging
+192954,echo cardiography w/ doppler,1,imaging
+192955,echo cardiography with doppler,1,imaging
+192956,echo cardiography- m mode,1,imaging
+192957,echo colored doppler of the heart,1,imaging
+192960,echo doppler,4,imaging
+192961,echo doppler (adult,1,imaging
+192962,echo doppler (adult) with portable machine,1,imaging
+192963,echo doppler (new) +ecg pkg,1,imaging
+192964,echo doppler (paedia,1,imaging
+192965,echo doppler (paedia) with portable machine,1,imaging
+192966,echo doppler cardiography / adult,1,imaging
+192967,echo doppler cardiography / child,1,imaging
+192968,echo doppler paediatric study,1,imaging
+192969,echo doppler study,1,imaging
+192970,echo doppler trans thoracic full study,4,imaging
+192972,echo doppler trans trans thoracic full study,1,imaging
+192973,echo doppler with contrast,1,imaging
+192975,echo fetal,3,imaging
+192976,echo fetal heart with or without m-mode recording,1,imaging
+192977,echo follow up,1,imaging
+192979,echo full study,2,imaging
+192980,echo full study (pediatric,3,imaging
+192981,echo full study - im,2,imaging
+192982,echo full study - int,1,imaging
+192983,echo full study -cardiology,2,imaging
+192988,echo m-mode,2,imaging
+192989,echo m-mode + 2d,1,imaging
+192990,echo m-mode + 2d+doppler,2,imaging
+192991,echo m-mode 2d doppler,1,imaging
+192992,echo m-mode only,1,imaging
+192993,echo portable,1,imaging
+192994,echo portable (machine charges,1,imaging
+192995,echo repeat,1,imaging
+192996,echo repeat -im,1,imaging
+192997,echo scan,1,imaging
+192998,echo stress test,1,imaging
+192999,echo transesophageal tee complete,1,imaging
+193000,echo with bubble test,1,imaging
+193001,echo with contrast,1,imaging
+193002,echo(echocardiography) pediatric,1,imaging
+193003,echo-cardiogram,1,imaging
+193004,echo-cardiogram ( dr.jameel khattab,1,imaging
+193005,echo-cardiogram-3179,1,imaging
+193006,echo-cardiography,1,imaging
+193007,echo-cochleography,1,imaging
+193008,echo-doppler cardio./colo,1,imaging
+193009,echo-follow-up limited study,1,imaging
+193010,echo-mmode+2d echo +doplr,2,imaging
+193011,echo-mmode+2d echo w/o doplr,1,imaging
+193012,echo-paedia-2d doplr col dplr,1,imaging
+193013,echo-paedia-2d+doplr+col dplr,2,imaging
+193015,echo-virus abs in serum - s.o,1,imaging
+193016,echo.-m.mode 2d echo doplr,1,imaging
+193017,echo.-m.mode+2d echo +doplr,2,imaging
+193019,echocardiogram,3,other
+193020,echocardiogram (2d adult transthoracic echocardiography,1,imaging
+193021,echocardiogram (m-md+2-d,1,other
+193022,echocardiogram - color doppler,1,imaging
+193023,echocardiogram - color doppler(11300,1,imaging
+193024,echocardiogram - colour doppler,1,imaging
+193025,echocardiogram - conventional,1,other
+193026,echocardiogram - coulour doppler,1,imaging
+193027,echocardiogram - pediatric,1,other
+193028,echocardiogram - portable,1,other
+193029,echocardiogram - with color doppler,2,imaging
+193030,echocardiogram -echocardiography,1,imaging
+193031,echocardiogram -echocardiography(119014,1,imaging
+193032,echocardiogram / color doppler(11300,1,imaging
+193033,echocardiogram child-pkg,1,other
+193034,echocardiogram doppler,1,imaging
+193035,echocardiogram e'doppler col,1,imaging
+193036,echocardiogram pediatric,1,other
+193037,echocardiogram with contrast,1,imaging
+193038,echocardiogram with dobutamine,1,other
+193039,echocardiogram with report,1,other
+193040,echocardiogram-pkg,1,other
+193042,echocardiogramphy,1,other
+193043,echocardiograpgy,1,other
+193044,echocardiography,6,imaging
+193045,echocardiography & color doppler (tee) transesophageal,1,imaging
+193046,echocardiography & color doppler - (tte) transthoracic,2,imaging
+193047,echocardiography & color doppler - neonatal/infant,1,imaging
+193048,echocardiography & color doppler - transthoracic (tte,1,imaging
+193049,echocardiography (pediatric,1,imaging
+193050,echocardiography (portable,1,imaging
+193051,echocardiography - 2d echo,1,imaging
+193052,echocardiography - doppler colored,1,imaging
+193053,echocardiography - echocardiogram,2,imaging
+193054,echocardiography - echocardiogram(05260,1,imaging
+193059,echocardiography doppler,2,imaging
+193060,echocardiography doppler (medgulf,1,imaging
+193061,echocardiography doppler colored,1,imaging
+193062,echocardiography echocardiogram,1,imaging
+193063,echocardiography screening,1,imaging
+193064,echocardiography w doppler,1,imaging
+193065,echocardiography w/doppler,1,imaging
+193066,echocardiography with doppler,1,imaging
+193067,echocardiography with or w o doppler,1,imaging
+193068,echocardiography%20-%20%20doppler%20colored,1,imaging
+193069,echocardiography& duplex,2,imaging
+193070,"echocardiography, fetal, cardiovascular system, real time with image documentation (2d), with m-mode recording",1,imaging
+193071,"echocardiography, fetal, cardiovascular system, real time with image documentation (2d), with or without m-mode recording",1,imaging
+193072,"echocardiography, transesophageal, congenital anomalies; w/ image, interpretation & report",1,imaging
+193073,"echocardiography, transesophageal, real time with image documentation",1,imaging
+193074,"echocardiography, transthoracic, 2d w/wo m-mode recording ; black & white",1,imaging
+193075,"echocardiography, transthoracic, 2d w/wo m-mode recording ; complete",1,imaging
+193076,"echocardiography, transthoracic, real-time with image documentation (2",1,imaging
+193079,echocardiography-doppler colored(05260,1,imaging
+193082,echocardiographydoppler colored,1,other
+193083,echocardiogrpahy w or w out doppler,1,imaging
+193084,echoencephalography,1,other
+193085,"echoencephalography, b-scan and/or real time with image documentation",1,imaging
+193086,ecision biopsy of lymphnode,1,procedure
+193091,ecmo,1,other
+193092,ecmo (extracorporeal membrane oxygenation) insertion- in icu,1,procedure
+193093,ecmo (extracorporeal membrane oxygenation) insertion- in or,1,procedure
+193094,ecmo insertion,1,procedure
+193095,ecmo management per day,1,other
+193097,eco cadriogaphy,1,other
+193098,eco cardiography w/colored dopler,1,other
+193099,eco cardiology,1,other
+193100,eco doppler on the heart,1,imaging
+193101,eco fit hip stem standard 8.75 mm cementless # 30393087,1,supplies
+193102,eco silver diabetic socks black 43-45,1,other
+193103,eco. cardiology,1,other
+193104,ecofit 2m cup,1,other
+193105,ecofit 2m cup cemented 44/50 mm implant cast germany # 02201150,1,supplies
+193106,ecofit 2m cup cemented 48/42mm,1,other
+193107,ecofit hip stem 10 mm implant cast,1,supplies
+193108,ecofit hip stem 10mm,1,supplies
+193109,ecofit hip stem 10mm cementless implant cast germ,1,supplies
+193110,ecofit hip stem 12.5 mm cementless implantcast germany # 30393125,1,supplies
+193111,ecofit hip stem 12.5mm implant cast,1,supplies
+193112,ecofit hip stem 6.25mm cemented,1,supplies
+193113,ecofit hip stem 7.5mm cemented,1,supplies
+193114,ecofit hip stem diff size-implantcast germany,1,supplies
+193115,ecofit hip stem revision 14 x 180 mm-inma,1,supplies
+193116,ecofit hip stem standard 8.75mm cementless #30393087,1,supplies
+193117,ecofit hip/cub 46mm cementless#02200046,1,other
+193118,ecofit hip stem 6.25 mm cemented-implantcast germany #30396062,1,supplies
+193119,ecofit hip stem 7.5mm cemented-30396075 implantcast germany,1,supplies
+193120,ecofit-cup 56 mm cementless -implant cast germany # 02200056,1,supplies
+193121,ecoft 2m cup cemented 46mm/40mm impl.cast # 02201146,1,supplies
+193122,ecog electrocorticography,1,other
+193123,econazole,1,other
+193125,econazole nitrate,1,other
+193127,economy shoulder support,1,supplies
+193128,economy shoulder support (mafsal,1,supplies
+193129,ect (electro convulsive therapy,1,physiotherapy
+193130,ect (electroconvulsive therapy ) - inpatient - in o.r,1,physiotherapy
+193131,ect pckg ip w/ anaes. x 6 ses,1,other
+193132,ect pckg ip w/anaes x 6 ses,1,other
+193133,ect pkg - with anaesthesia - day care,1,procedure
+193134,ect with anaesthesia,2,procedure
+193135,ect with anesthesia 6 sessions,1,physiotherapy
+193137,ectg,1,other
+193143,ectollerg 1% eye derop 20 sdu,1,other
+193161,ectopic + pregnancy excision (laparotomy,1,procedure
+193162,ectopic eregnancy (laproscopic,1,other
+193163,ectopic preg-salpingectomy -package,1,procedure
+193165,ectopic pregnancy (disturbed,1,other
+193166,ectopic pregnancy (laparatomy,1,other
+193167,ectopic pregnancy (laparoscopy,1,procedure
+193168,ectopic pregnancy by laparosco,1,other
+193169,ectopic pregnancy by laparoscopy,1,procedure
+193170,ectopic pregnancy excision,1,procedure
+193171,ectopic pregnancy laparoscopic treatment. ( 59150,1,procedure
+193172,ectopic pregnancy operation,1,procedure
+193173,ectopic pregnancy salpingectomy,1,procedure
+193174,ectopic pregnancy surgical treatment. ( 59120,1,procedure
+193175,ectopic pregnancy_excision_[laparotomy,1,procedure
+193176,ectopic+pregnancy excesion by laparotomy,1,procedure
+193177,ectropion,1,other
+193178,ectropion repair,1,procedure
+193197,eczimer laser (large >10 pulses)-per session,1,physiotherapy
+193198,ecomplete chemo-mechanical preparation of root canal one canal,1,dental
+193199,ed consultation,1,consultation
+193200,ed consultation oncall consultant,1,consultation
+193201,ed consultation oncall specialist,1,consultation
+193331,edel&xexe44 ps=09/2006 (50.00,1,other
+193332,edema management,2,other
+193337,edenorm,1,other
+193344,"edge 111 ""daily wear",1,other
+193345,edm ventricular drainage kit,1,procedure
+193346,edoxaban,1,other
+193355,edsiii + ventricular catheter # 821730,1,supplies
+193356,edta tube,1,supplies
+193357,edta tubes 100's,1,other
+193358,edwards syndrome (trisomy 18) by fish,1,lab_test
+193360,edxr010605-abdulaziz alabdulaaly,1,other
+193361,edxr010605-abdulaziz ali emara mostafa emara,1,other
+193363,edxr010605-abdulwahab mohammad aldrees,1,other
+193365,edxr010605-mahmoud abdelhalim ali,1,other
+193368,edxr010605-neven galal twala,1,other
+193369,edxr010605-riyam fahad alanazi,1,other
+193371,eeg,3,diagnostic
+193372,eeg awake,2,diagnostic
+193373,eeg (awake and asleep,1,diagnostic
+193374,eeg (awake sleep,1,diagnostic
+193375,eeg (electroencephalogram,1,diagnostic
+193377,eeg - 003-70198,1,diagnostic
+193378,eeg - electroencephalogram,2,diagnostic
+193379,eeg - electroencephalogram with chloral hydrate,2,diagnostic
+193382,eeg - general surgery,1,diagnostic
+193383,eeg - internal medicine,1,diagnostic
+193384,eeg - portable,1,diagnostic
+193385,eeg 41-60 minutes,1,diagnostic
+193386,eeg >= 3 hours: asleep,2,diagnostic
+193387,eeg >= 3 hours: awake & asleep,1,diagnostic
+193388,eeg >= 3 hours: awake & drowsy,2,diagnostic
+193392,eeg awake and asleep,2,diagnostic
+193394,eeg awake repeat,1,diagnostic
+193395,eeg asleep ( with sedation,1,diagnostic
+193396,eeg comp,1,diagnostic
+193397,eeg electroencephalogram,1,diagnostic
+193398,eeg extended monitoring up to one hour,1,diagnostic
+193399,eeg extended monitoring 61 to 119 minutes,1,diagnostic
+193400,eeg for 30 minutes,1,diagnostic
+193401,eeg for 90 minutes,1,diagnostic
+193402,eeg icu,2,diagnostic
+193404,eeg intial (awake only,2,diagnostic
+193406,eeg long term eeg monitoring -24hours,1,diagnostic
+193407,eeg monitoring - package deal 12 hours,1,diagnostic
+193408,eeg monitoring - package deal 12 hours (9:00pm - 9:00am,1,diagnostic
+193409,eeg monitoring/videorecord,1,diagnostic
+193410,eeg monitoring 2-6 hrs w wo video,1,diagnostic
+193411,eeg monitoring 24 hrs with video,1,diagnostic
+193412,eeg monitoring 6-12 hrs w or wo video,1,diagnostic
+193413,eeg over 1 hour,1,diagnostic
+193414,eeg pt.video monitoring/day,1,diagnostic
+193415,eeg routine without sleep,2,diagnostic
+193417,eeg under anaesthesia,1,diagnostic
+193418,eeg under g.a,1,diagnostic
+193419,eeg under sedation,1,diagnostic
+193420,eeg under sedation + medicines,1,diagnostic
+193421,eeg under sedation medicines,1,diagnostic
+193422,eeg video monitoring,1,diagnostic
+193423,eeg w/ sedation-additional fee,1,diagnostic
+193424,"eeg with digital analysis (e.g., spike analysis",1,diagnostic
+193425,eeg with sedation,1,diagnostic
+193426,eeg under sedation (pediatric,1,diagnostic
+193427,"eeg, ambulatory",1,diagnostic
+193428,"eeg, awake & drowsy, include hyperventilation &/or photic stimulation",1,diagnostic
+193429,"eeg, electroencephalogram , with sleep deprivation",1,diagnostic
+193430,"eeg, electroencephalogram, including recording awake and drowsy, with hyperventilation and/or photic",1,diagnostic
+193431,eeg- bed side-once per admission,1,diagnostic
+193432,eeg- electroencephalogram,1,diagnostic
+193433,eeg-portable,1,diagnostic
+193434,eeg.routin,1,diagnostic
+193435,eemifenac-d 20tab,1,other
+193436,eer discharrge c/s,2,lab_test
+193437,eestrogen (e2)2,1,other
+193438,efat abdelsalam abdelghaffar,1,other
+193495,effect e-fa e2 hearing aid bte,1,supplies
+193496,effect e-fm e2 hearing aid bte,1,supplies
+193497,effect e-fp e2 hearing aid bte,1,supplies
+193498,effect ebb3d e2 hearing aid bte,1,supplies
+193505,effervit c,2,other
+193516,effervit c plus zink,1,other
+193520,efficort lipocream 0.127% (lipophilic,1,other
+193521,effusions and other fluids,1,supplies
+193552,eft (eustachian tube dysfunction test,1,lab_test
+193555,eg-duodenoscopy rx,1,eyewear
+193556,eg-duodenoscopy rx w/suct can,1,eyewear
+193557,eg-duodenoscopy rx wsuct can,1,eyewear
+193558,egc monitor,1,other
+193559,egd,1,other
+193560,egd (endoscopy,1,procedure
+193561,egd (esophago-gastro-duodenoscopy,1,procedure
+193562,egd + band ligation,1,procedure
+193563,egd + clo,1,other
+193564,egd + h-pylori,1,lab_test
+193565,egd + sclerotherapy,1,procedure
+193566,egd - diagnostic,1,other
+193567,"egd / upper gi endoscopy ; w/biopsy , single/multiple",1,procedure
+193568,egd band ligation for varices,1,procedure
+193569,"egd control bleeding (sclero,clips ,glue,apc",1,lab_test
+193570,egd diagnostic only,1,other
+193571,egd esophageal dilatation,1,procedure
+193572,egd esophago gastro duodenoscopy,1,procedure
+193574,egd polypectomy,1,procedure
+193575,egd stent,1,supplies
+193576,egd w/ bravo,1,other
+193577,egd w/ dilation of strictures,1,other
+193578,egd w/ eus fna bx,1,procedure
+193579,egd w/ gastrostomy tube,1,supplies
+193580,egd w/ polypectomy,1,procedure
+193581,egd w/banding,1,other
+193582,egd w/biopsy,1,procedure
+193583,"egd w/removal fb ,bib or stent removal",1,supplies
+193584,egd w/sclero,1,other
+193585,egd with biopsy,1,procedure
+193587,egd upper gi endoscopy,1,procedure
+193588,egd+biopsy (under g.a,1,procedure
+193590,egd- stretta,1,other
+193591,egd.+ band ligation of oes.varices,1,procedure
+193592,egd.+ gastric polypectomy,1,procedure
+193593,egd.+dilat.of oes./duod.strict.by tts rigilex,1,other
+193594,egd.+peg insertion,1,procedure
+193595,egd.+removal of foreign body,1,procedure
+193596,egd/upper gi endoscopy w/biops single/multiple,2,procedure
+193598,egd/upper gi endoscopy; diagnostic w/o biopsy,2,procedure
+193599,egd/upper gi endoscopy; diagnostic w/o biopsy - pkg d/c,2,procedure
+193601,egd/upper gi endoscopy; esophagial varieses sclerotherapy,1,procedure
+193602,"egd/upper gi endoscopy; esophagus, duodenum. stricture dilatation by balloon",1,supplies
+193603,egd/upper gi endoscopy; esophagus/duodenum stent placement. (implant not included,1,supplies
+193604,egd/upper gi endoscopy; hemostatic treatment by clipping (implant not included,1,supplies
+193605,"egd/upper gi endoscopy; w/ band ligation, esophagial",1,procedure
+193606,"egd/upper gi endoscopy; w/ band ligation, esophagial - pkg d/c",2,procedure
+193610,egd/upper gi endoscopy; w/ hemostatic treatment by clipping (implant not included,2,supplies
+193611,egd/upper gi endoscopy; w/ hemostatic treatment by clipping (implant not included) - pkg d/c,1,supplies
+193612,egd/upper gi endoscopy; w/ mucosal resection,1,procedure
+193613,egd/upper gi endoscopy; w/ mucosal resection = 2 cm,1,procedure
+193614,egd/upper gi endoscopy; w/biopsy single/multiple,1,procedure
+193615,"egd/upper gi endoscopy; w/biopsy, single/multiple",2,procedure
+193616,"egd/upper gi endoscopy; w/biopsy, single/multiple - pkg d/c",2,procedure
+193618,egd/upper gi endoscopy; w/foreign body extraction,1,dental
+193619,egd/upper gi endoscopy; w/foreign body extraction - pkg d/c,1,dental
+193620,egd/upper gi endoscopy; w/polypectomy,1,procedure
+193621,egd2bbiopsy,1,other
+193623,egds uodenum,1,other
+193624,egds colon & rectum,1,other
+193625,egds stomach,1,other
+193626,egfr,2,other
+193627,egfr (exon 18 to 21,1,other
+193628,egfr - t790m,1,other
+193629,egfr by fish,1,lab_test
+193630,egfr test,2,lab_test
+193632,egfr gene; variants,1,lab_test
+193633,egfr(estimated glomerular filtrationmrate,1,other
+193634,egg food allergen,1,lab_test
+193635,egg white food allergen,1,lab_test
+193636,egg yolk food allergen,1,lab_test
+193655,egycryl fast usp 0 tp1 2c 40mm,1,other
+193656,egyptian gauze bandage 15 cm,1,supplies
+193657,egyptian gauze bandage 5 cm,1,supplies
+193658,egyptian gauze bandage 7.5 cm,1,supplies
+193659,egyptian shash roll 10cm zigza,1,other
+193660,egyptian shash roll focus 10cm,1,other
+193661,egyptian shash roll focus 15cm,1,other
+193662,egyptian shash roll focus 7cm,1,other
+193663,egyption gauze roll 5cm 8259,1,supplies
+193664,egyption gauze roll 7cm 9259,1,supplies
+193665,egysilk - silk 2/0 ( md5267,1,other
+193666,egysorb - vicryl 2/0 ( md1273,1,supplies
+193668,ehab ismail sultan,1,other
+193669,ehab mahmoud othman ali,1,other
+193671,ehab mostafa a. elnakoury,1,other
+193672,ehab soltan,1,other
+193673,ehab wahdan ali elsayyad,1,other
+193674,ehec (enterohemorrhagic escherichia coli,1,other
+193675,"eia qualitative/semiquantitative, multiple step; clostridium difficile gdh and toxin a & b",1,other
+193676,"eia qualitative/semiquantitative, multiple step; hepatitis b surface antigen (hb",1,lab_test
+193677,eight plate 17mm-auxien,1,supplies
+193678,eighteen months vac. moh,1,other
+193679,"eit cerv. cage h7mm, cif hi h 7mm 8deg s, synthes #chi8070s",1,eyewear
+193680,ej10g : endo loop vicryl 0 45cm / ethicon (bx/1,1,supplies
+193681,ej10g : endo loop vicryl 0 45cm / ethicon (bx/12,1,supplies
+193689,ekavit b complex,1,other
+193690,ekavit b complex 30 ods,1,other
+193691,ekavit b complex 30 pcs,1,other
+193693,ekavit b-complex 30 odf,1,other
+193694,ekavit b-complex 30 pcs,1,other
+193695,ekavit b-complex 30's,1,other
+193696,ekavit b-complex oral odf strip x 30,1,supplies

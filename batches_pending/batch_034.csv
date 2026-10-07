@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+204140,estradiol,4,lab_test
+204141,estradiol ( e2,4,lab_test
+204142,estradiol male,1,lab_test
+204143,"estradiol ""e2",1,lab_test
+204144,estradiol ( e 2,1,lab_test
+204145,estradiol ( e 2 )-estradiol ( e 2,1,lab_test
+204147,estradiol (e 2) estradiol (e 2,1,lab_test
+204148,estradiol (e2,6,lab_test
+204150,estradiol (e2) (s,1,lab_test
+204151,estradiol (e2) serum,1,lab_test
+204152,estradiol (free,2,lab_test
+204153,estradiol (h,1,lab_test
+204154,estradiol (oestrogen,1,lab_test
+204155,estradiol - (e2) (s,1,lab_test
+204156,estradiol - e2,2,lab_test
+204157,estradiol - serum,1,lab_test
+204158,estradiol / e2 analysis,1,lab_test
+204159,estradiol / e2 analysis (l106,1,lab_test
+204160,estradiol / oestradiol (e2,1,lab_test
+204162,estradiol e2,3,lab_test
+204163,estradiol e2 - estradiol,1,lab_test
+204164,estradiol e2 estrogen,1,lab_test
+204165,estradiol female,1,lab_test
+204166,estradiol for i.v.f,1,lab_test
+204167,estradiol for ivf,1,lab_test
+204169,estradiol hormone,2,lab_test
+204170,estradiol hormone ( e2,1,lab_test
+204171,estradiol serum,2,lab_test
+204177,estradiol(e2,2,lab_test
+204178,"estradiol, e2",2,lab_test
+204179,estradiol- e2,1,lab_test
+204180,estradiol-(e2) (s,1,lab_test
+204181,estradiol-5-16-120818,1,lab_test
+204182,estradiol-801,1,lab_test
+204183,estradiol-e2,1,lab_test
+204184,estradiol/oestradiol,1,lab_test
+204186,estradiole,2,other
+204188,estrdiol,1,other
+204201,estrogen (e2: estradiol,4,lab_test
+204209,estrogen metabolism profile,1,lab_test
+204213,estrogen receptor (paraffin block) - s.o,1,procedure
+204215,estrogen receptor analysis,2,procedure
+204216,estrogen receptor assay,1,lab_test
+204219,estrogen serum,2,lab_test
+204226,estrogens total,1,other
+204229,estrogens; total,1,other
+204247,esw lithotripsy,2,other
+204249,"eswel 1st.session, 2nd session free",1,physiotherapy
+204250,eswl,1,procedure
+204251,eswl ( 1st session,1,physiotherapy
+204252,eswl ( lithotripsy) 2nd session- same calculus- same patient,1,physiotherapy
+204253,eswl (i) grade a,1,procedure
+204254,eswl (i) grade b,2,procedure
+204255,eswl (lithotripsy) 1st session- same calculus- same patient-r,1,physiotherapy
+204256,eswl (lithotripsy) 1st session- same calculus- same patient,1,physiotherapy
+204257,eswl (on one side combined with stone on the other side,1,supplies
+204258,eswl (package deal) - 1st session,1,physiotherapy
+204259,eswl (renal or uret) 1st sess,1,procedure
+204260,eswl - 1st session,1,physiotherapy
+204261,eswl - additional sessions,1,physiotherapy
+204262,eswl - ga (one session only,1,physiotherapy
+204263,eswl - succeeding sessions after 1st session,1,physiotherapy
+204264,eswl 1st session - pd,1,physiotherapy
+204265,eswl 1st session plus dj stent ( dj stent cost & application & c arm use,1,physiotherapy
+204266,eswl 1st session without dj stent,1,physiotherapy
+204267,"eswl 1st session, 2nd session free",1,physiotherapy
+204268,eswl 1st session,1,physiotherapy
+204269,eswl 1st session - extracorporeal shock wave lithotripsy,1,physiotherapy
+204270,eswl 1st session - extracorporeal shock wavelithotripsy,1,physiotherapy
+204271,eswl 1st session plus dj stent(dj stent cost @ application & c arm use,1,physiotherapy
+204272,eswl 2nd session & repeated sessions maximum 2 times & sr 1800 for each time,1,physiotherapy
+204273,eswl 2nd session &more addistional session,1,physiotherapy
+204274,eswl 2nd session - 1 day pkg,1,physiotherapy
+204275,eswl 2nd session - pd,1,physiotherapy
+204276,eswl 2nd session - extracorporeal shock wave lithotripsy,2,physiotherapy
+204278,eswl 2nd session - extracorporeal shock wavelithotripsy,1,physiotherapy
+204279,eswl 2nd session & repeated sessions maximum 2 times & sr1800 each time,1,physiotherapy
+204280,eswl 3rd session - 1 day pkg,1,physiotherapy
+204281,eswl 3rd session - extracorporeal shock wave lithotripsy,1,physiotherapy
+204282,eswl additional session,1,physiotherapy
+204283,eswl additional session - extracorporeal shock wave lithotripsy,1,physiotherapy
+204284,eswl first session,2,physiotherapy
+204285,eswl first session /per stone,1,physiotherapy
+204286,eswl for renal stone 0.5 cm - 1 cm,1,procedure
+204288,eswl for urinary tract stones,1,procedure
+204289,eswl for urinary tract stones (in patient,1,procedure
+204290,"eswl lithotripsy, 1 sessn",1,procedure
+204291,eswl monotherapy,1,procedure
+204292,eswl multiple session(package,1,physiotherapy
+204293,eswl of gallbladder,1,procedure
+204294,eswl of urinary tract,2,procedure
+204295,eswl second session,3,physiotherapy
+204296,eswl single stone 1 cm. or less,1,procedure
+204297,eswl stay horn clculas,1,procedure
+204298,eswl succeeding session (after 2nd) - pd,1,physiotherapy
+204300,eswl second session (in patient ) complicated,1,physiotherapy
+204303,eswl without stent 1st session,1,physiotherapy
+204304,eswl&dj stenting,1,procedure
+204305,"eswl(including invest.,admission, & follow up for 30 days/stone free",1,procedure
+204306,eswl-large stone,1,procedure
+204307,eswl-lithotripsy (first session-g.a) - 1 day pkg,1,physiotherapy
+204308,eswl-lithotripsy (first session-g.a) p.deal - 1 day pkg,1,physiotherapy
+204309,eswl-lithotripsy (first session-l.a)-p deal - 1 day pkg,1,physiotherapy
+204310,eswl-medium stone,3,procedure
+204312,eswl-small stone,2,procedure
+204314,eswl.first session,1,physiotherapy
+204331,"et button , attachable suture loop buttons - , rejoin 800900400",1,supplies
+204332,et button adjustable initial- rejoint-chin,1,other
+204333,et button adjustable initial-rejoin china,1,other
+204334,et button adjustable solid rejoin-china,1,other
+204335,et button adjustable sutu5re button 800900500,1,other
+204336,et button adjustable suture buttons-rejoin china,1,supplies
+204337,et button attachable 8x11mm -rejoin,1,other
+204338,et button adjustable solid-rejoin china,1,other
+204339,et intubation assist,3,procedure
+204340,et intubation pedia,1,procedure
+204343,et tube 103-40 4.0mm cuffed,1,supplies
+204344,et tube 107-45 cuffed plain,1,supplies
+204345,et tube 107-50 cuffed plain,1,supplies
+204346,et tube 107-55 cuffed plain,1,supplies
+204347,et tube 107-60 cuffed plain,1,supplies
+204348,et tube 107-65 cuffed plain,1,supplies
+204349,et tube 107-70 cuffed plain,1,supplies
+204350,et tube 107-75 cuffed plain,1,supplies
+204351,et tube 107-80 cuffed plain,1,supplies
+204352,et tube 107-85 cuffed plain,1,supplies
+204353,et tube 107-90 cuffed plain,1,supplies
+204354,et tube 111-2.0 plain,1,supplies
+204355,et tube 111-2.5 plain,1,supplies
+204356,et tube 111-3.0 plain,1,supplies
+204357,et tube 111-3.5 plain,1,supplies
+204358,et tube 111-4.0 plain,1,supplies
+204359,et tube 111-4.5 plain,1,supplies
+204360,et tube 111-5.0 plain,1,supplies
+204361,et tube 113-35 pref oral plain,1,supplies
+204362,et tube 113-40 pref oral plain,1,supplies
+204367,et tube 115-50 preform cuffed,1,supplies
+204368,et tube 115-55 preform cuffed,1,supplies
+204369,et tube 115-65 preform cuffed,1,supplies
+204370,et tube 115-70 preform cuffed,1,supplies
+204371,et tube 115-75 preform cuffed,1,supplies
+204372,et tube 115-80 preform cuffed,1,supplies
+204373,et tube 118-40 reinforced cuffed,1,supplies
+204374,et tube 118-45 reinforced cuffed,1,supplies
+204375,et tube 118-50 reinforced cuffed,1,supplies
+204376,et tube 118-70 reinforced cuffed,1,supplies
+204377,et tube 118-75 reinforced cuffed,1,supplies
+204380,et tube 2.5 uncuffed,1,supplies
+204381,et tube 3.5mm reinfored cuff 118,1,supplies
+204382,et tube 4 with cuff oral - medtra,1,supplies
+204383,et tube cuffed 6.5,1,supplies
+204384,et tube cuffed 7,1,supplies
+204385,et tube cuffed 7.5,1,supplies
+204386,et tube cuffed size 3,1,supplies
+204387,et tube cuffed size 3.5,1,supplies
+204388,et tube cuffed size 6.0,1,supplies
+204389,et tube extubation,1,supplies
+204390,et tube intr bouge 10fr solid,1,supplies
+204391,et tube intr bouge 15fr solid,1,supplies
+204392,et tube plain (any sizes) - per pcs,1,supplies
+204393,et tube plain 4.0 w.o.cuff pedia 111.40,1,supplies
+204394,et tube plain paed 3.0 un-cuffed,1,supplies
+204395,et tube plain paed.3.5 un-cuffed,1,supplies
+204396,et tube preformed oral cuffed(8mm)-per pcs,1,supplies
+204397,et tube reinforced with cuff size: 4.0# gt014-700-4.0,1,supplies
+204398,et tube spiral flexonsl cuffed (7.5mm)-per pcs,1,supplies
+204399,et tube uncuffed 3,1,supplies
+204400,et tube uncuffed 3.5,1,supplies
+204401,et tube re-stabilizing and positioning/ tie change,1,supplies
+204402,et-tube 118-80 reinforced cuffed,1,supplies
+204403,et. tube 6.0 cuffed,1,supplies
+204404,et. tube 6.5 cuffed,1,supplies
+204405,et. tube 7.0 cuffed,1,supplies
+204406,et. tube 8.5 cuffed,1,supplies
+204407,etamsylate,1,other
+204412,etamsylate (ethamsylate,1,other
+204437,"etbfxxxxcxxxee - main body abdominal aortic stent graft suprarenal fixation, sel",1,supplies
+204438,etbutton adjustable suture ref # 800900100,1,supplies
+204445,etf / refelex studies of the ear in opd,1,consultation
+204471,ethanol,2,other
+204472,ethanol (ethyl alchohol,1,other
+204473,ethibond 2 tc 45mm w4843,1,other
+204474,ethibond 2/0 rb w6767 / ticron 88863256,1,other
+204475,ethibond 5-4 x 75 mm,1,other
+204476,ethibond 5/0 # w 893 (box/12) - x893g,1,other
+204477,"ethibond excel grn 4x75cm m5usp2 s/a v-39, x4843g",1,lab_test
+204478,"ethibond excel grn 4x75cm m7usp5 s/a v-55, w4846g",1,lab_test
+204479,ethibond green 5 w/ndl # w4846,1,other
+204480,ethibond green 5 w/ndl#w4846 ethicon,1,supplies
+204481,ethibond suture,1,supplies
+204482,"ethibond, 2/0 round body with pledget w10b55",1,other
+204483,ethicon 2/0 temporaary cardiac pacing wi,1,supplies
+204484,ethicon er320 clip applier,1,supplies
+204485,ethicon ligamax clip applier el5ml,1,supplies
+204486,ethicon powered plus echelon flex 60m p,1,supplies
+204487,ethicon securestrap strap25,1,supplies
+204488,ethicon surgiflo hemos matrix ms0009,1,supplies
+204489,ethicon tvt obturator sys 810081,1,supplies
+204490,ethicon xcel trocar 11mm k11lt,1,supplies
+204491,ethicon xcel trocar 5mm k5lt,1,supplies
+204492,ethilon 10/0 spatulated # w 1770 (box/12,1,other
+204493,ethinc,1,other
+204494,ethinc - m -etnmsc131c1,1,other
+204495,ethinc m,1,other
+204496,ethinc m - 3etnj8005c12,1,other
+204516,ethinylestradiolgestodene,1,other
+204517,ethionamide,1,other
+204519,ethmoidal arteries - ligation,1,procedure
+204520,ethmoidal sinus endoscop,1,procedure
+204521,ethmoidectomy,2,procedure
+204522,"ethmoidectomy with sphenoidectomy, frontonasal approach",1,procedure
+204523,"ethmoidectomy, bilateral",2,procedure
+204524,"ethmoidectomy, frontonasal approach",2,procedure
+204525,"ethmoidectomy, unilateral",1,procedure
+204526,ethmoidectomy- intranasal,1,procedure
+204527,"ethmoidectomy; intranasal, anterior",1,procedure
+204528,ethmoidotomy,1,procedure
+204529,ethmoidotomy3days,1,other
+204530,ethnic,1,other
+204531,ethnic - ethnic,1,other
+204532,ethnic - ethnic - m,1,other
+204533,ethnic - ethnic - m3,1,other
+204534,ethnic - m -etnmsc114c6,1,other
+204535,ethnic baby medical,1,other
+204536,ethnic m,1,other
+204537,ethnic m - 3etn0644c12,1,other
+204538,ethnic m - 3etn20927c5,1,other
+204539,ethnic m - 3etn7069c5451,1,other
+204540,ethnic m - 3etn7720c1,1,other
+204541,ethnic m - 3etn9049c2,1,other
+204542,ethnic m - 3etnip580c3,1,other
+204543,ethnic m - 3etnjh1063c3,1,other
+204544,ethnic m - 3etnrb26768c5,1,other
+204545,ethnic m -3etnip0202c5,1,other
+204546,ethnic medical,1,other
+204547,ethnic medical - 3etn30002c15,1,other
+204548,ethnic medical - 3etn30002c2,1,other
+204549,ethnic medical - 3etn80000c5,1,other
+204550,ethnic medical - 3etnbc9009c1,1,other
+204551,ethnic-m(blk,2,other
+204552,ethosuximide (zaorntine,1,other
+204553,ethosuximide (zarontin) - s.o,1,lab_test
+204557,etimicol 10,2,other
+204558,etlwxxxxcxxx - stent graft endurant ii limb,1,supplies
+204559,etnia-s(gryred,1,other
+204560,etoh assay,2,lab_test
+204562,etoh biomarkers 1 or 2 assay,2,lab_test
+204569,etonogestrel (implanon nxt) implant,1,supplies
+204570,etonogestrel (implanon nxt) implant (dev) $,1,supplies
+204846,etoria120,1,other
+204847,etoria120( tier1,1,insurance
+204848,etoria120mg 7tab,1,other
+204849,etoria120mg7tab,1,other
+204956,etorucoxib,1,other
+204957,etoxa,1,other
+205103,etraction simple,1,other
+205110,etrivex 0.05% shampoo - 0.05 % x 1 bottle,1,supplies
+205124,etro,1,other
+205125,etro eto934848531,1,other
+205127,ett (tip) culture & sensitivity,1,lab_test
+205139,ett c/s,1,lab_test
+205140,ett extubation,1,other
+205141,ett for c/s,1,lab_test
+205142,ett suction,1,supplies
+205143,ett tip culture & sensitivity,1,lab_test
+205144,"ett tube (2.5,3,3.5)-per pcs",1,supplies
+205145,ett. endotracheal tube oral cuffed size 3.5,1,supplies
+205146,ett. endotracheal tube reinforced cuffed size 7,1,supplies
+205147,ett. endotracheal tube standard cuffed size 6.5,1,supplies
+205148,ett. endotracheal tube standard cuffed size 7,1,supplies
+205149,ett. endotracheal tube uncuffed size 2.5,1,supplies
+205150,etvab,1,other
+205151,eu-scope v2 flexible uretero-renoscope shaft 8.6 fr lateral working us31d-12-eu,1,eyewear
+205152,eua,1,other
+205153,eua (fundus+refraction,1,imaging
+205154,eua + closed reduction hip +/- adductor tenotomy + hip spica,1,procedure
+205155,eua / sigmoidoscopy with or without biopsy - 1 day pkg,1,procedure
+205156,eua and laser cauterization,1,procedure
+205157,eua nose/nasopharynx-w/ or w/out biopsy-1day pkg,1,procedure
+205158,eua of ears and suction clearance(unilateral,1,supplies
+205159,eua of pharynx&larynx&nasopharynx - 1 day pkg,1,other
+205160,eua and excision of perianal fistula-ga package,1,procedure
+205161,eua/ear& suction cleara,1,supplies
+205162,eua/nose&nasopharynx,1,other
+205327,eucerin aquaphor sothing skin balm110ml,2,other
+205333,eucerin dermopurifyer cleancer,1,other
+205334,eucerin dermopurifyer protective uv spf 30,1,other
+205339,eudodotic for child,1,other
+205342,euphelline,1,other
+205343,euphyllin,1,other
+205353,"europian - armani, rayban, gucci, versace etc",1,eyewear
+205354,europlate large 9.1/4x4 inch w 3m 8149f,1,supplies
+205355,europlate large9.1/4x4 inch w 3m 8149f,1,supplies
+205356,eus,1,other
+205357,eus (upper,1,other
+205358,eus (upper) dx,1,other
+205359,eus + fna & sigmoidoscopy including histopathology,1,lab_test
+205360,eus + fna (or aspiration) including histopathology,1,lab_test
+205361,eus + fna (under ga)(ssu,1,other
+205362,eus + fna and upper endoscopy (under g.a) (ssu,1,procedure
+205363,eus + fna and upper endoscopy excluding histopathology,1,lab_test
+205364,eus + fna and ercp,1,procedure
+205365,eus + fna and sigmoidoscopy excluding histopathology,1,lab_test
+205366,eus + sigmoidoscopy,1,procedure
+205367,eus + upper endoscopy under g.a,1,procedure
+205368,"eus - esophagogastroduodenoscopy, flexible, transoral; with endoscopic ultrasound examination, including the esophagus, stomach, and either the duodenum",1,imaging
+205369,"eus - esophagogastroduodenoscopy, flexible, transoral; with transendoscopic ultrasound-guided intramural or transmural fine-needle aspiration/biopsy(s), (includes endoscopic ultrasound examination limited to the esophagus, stomach or duodenum, and adjacent structures",1,imaging
+205370,eus examination ppc stenting excluding stent price,1,supplies
+205371,eust. tube function - وظائف قناة استاكيوس,1,lab_test
+205372,eustachean tube test,1,lab_test
+205373,eustachian catheterization,1,procedure
+205374,eustachian t.f.analy,1,lab_test
+205375,eustachian tube dysfunction test,2,lab_test
+205376,eustachian tube function,1,lab_test
+205377,eustachian tube function (etf,1,lab_test
+206262,euthyrox100/levothroxin sodium,1,lab_test
+206265,euthyrox100mg,1,other
+206266,euthyrox100mg 100tablet,1,other
+206268,euthyrox100mcgtab(b/100,1,other
+206269,euthyrox150,1,other
+206270,euthyrox150 mg 100tab,1,other
+206273,euthyrox25mcgtab(b/100,1,other
+206277,euthyrox50mcgtab(b/100,1,other
+206314,euvax b pead 10vial/box,1,other
+206316,euvax b pediatric (hepatitis b ped vac,1,lab_test
+206318,euvax b pediatric 1 vil,1,other
+206329,ev3 axium 6mmx20cm,1,other
+206330,ev3 axium prime 4mmx10cm,1,other
+206331,"eva -qu, adult suppositiry x 6",1,other
+206332,"eva -qu, children suppositiry x 6",1,other
+206333,eva / qu adult suppostitory 6pc,1,other
+206334,eva /qu children suppositry 6pc,1,other
+206340,eva qu adult suppositories,1,other
+206342,eva qu child suppositories,1,other
+206343,eva qu for adult suppositroy,1,other
+206344,eva qu for children suppositroy,1,other
+206345,eva qu pedia suppo 6 pcs,1,other
+206350,eva/qu adult suppositories,1,other
+206352,eva/qu adult sup 6s,1,other
+206353,eva/qu adults b/6 suppositories,1,other
+206355,eva/qu chidren b/6 suppositories,1,other
+206356,eva/qu child sup 6s,1,other
+206360,eva/qu children suppositories,1,other
+206361,eva/qu constipation adults' suppositories 6's,1,other
+206362,eva/qu constipation children suppositories 6's,1,other
+206365,eva/qu sup 6 s,1,other
+206366,eva/qu sup 6's,1,other
+206373,evac heama of vulva/vagina,1,other
+206374,evac ch sub d.h. thru burrhole-ga,1,lab_test
+206375,evac of hematoma-2 side (bh/crani,1,other
+206376,evac of hematoma-2 side (bh/cranio,1,other
+206377,evac xtra+nl integrated plasma wand forcoblator ii-per pcs,1,lab_test
+206378,evac. intracereb. h. and debrid,1,other
+206379,"evac. of hematoma (subdural), b.h",1,lab_test
+206380,evacu.uterus by d&c/sucat,1,other
+206381,evacu.uterus by d&c/sucat.cat,1,other
+206382,evacuation drainage pelvic abscess under ga,1,procedure
+206383,evacuation haematoma perineum vaginal - day case,1,procedure
+206384,evacuation / drainage large muscular hematoma - 2 days pkg,1,procedure
+206385,evacuation / drainage pelvic abscess,1,procedure
+206386,evacuation haematoma - medium,1,procedure
+206387,evacuation hematoma,1,procedure
+206388,evacuation of acute subdural haematoma,2,procedure
+206389,evacuation of acute subdural haematoma pkg deal,1,procedure
+206390,evacuation of acute subdural hematoma,1,procedure
+206391,evacuation of auricular haematoma (ga,1,procedure
+206392,evacuation of blood clot,1,lab_test
+206393,evacuation of chronic subdural haematoma,1,procedure
+206394,evacuation of chronic subdural haematoma p/d,2,procedure
+206395,evacuation of chronic subdural176,1,procedure
+206396,evacuation of conception,1,procedure
+206397,evacuation of contents gravid uterus,1,procedure
+206398,evacuation of extradurak hematoma (post fossa,1,procedure
+206399,evacuation of extradural haematoma - pkg deal,1,procedure
+206400,evacuation of faecal impaction,1,procedure
+206401,evacuation of haematoma,1,procedure
+206402,evacuation of haematoma urology,1,procedure
+206403,evacuation of haematoma - clinic,1,procedure
+206404,evacuation of haematoma - large/deep,1,procedure
+206405,evacuation of haematoma 1d - 1 day(s,1,procedure
+206406,evacuation of haematoma from vulva,1,procedure
+206407,evacuation of haematoma of perineum or vagina ga,1,procedure
+206408,evacuation of haematoma under l a,1,procedure
+206409,evacuation of haematoma_gsu7009,1,procedure
+206410,evacuation of hematoma,2,procedure
+206411,evacuation of hematoma (cranio,1,procedure
+206412,evacuation of hematoma la,1,procedure
+206413,evacuation of hematoma under general anesthesia - 1 day,1,procedure
+206414,evacuation of hematoma(bh,1,procedure
+206415,evacuation of hematoma-2days pkg,1,procedure
+206416,evacuation of hydatid cyst of liver,1,procedure
+206417,evacuation of intracranial hematoma,1,procedure
+206418,evacuation of lid cyst/stye,1,procedure
+206419,evacuation of lumbar epidural hematoma,1,procedure
+206423,evacuation of obs. incisional hematoma of perineum->,1,procedure
+206424,evacuation of obs. incisional hematoma of perineum->c75.91,1,procedure
+206425,evacuation of perineal haematoma (and/or) abcess (small,1,procedure
+206426,evacuation of perinial haematoma,1,procedure
+206427,evacuation of peritonsillar abscess,1,procedure
+206428,evacuation of placenta,1,procedure
+206429,evacuation of retained conceptual products (ercp,1,procedure
+206430,evacuation of retained product of conception,1,procedure
+206431,evacuation of rtnd prod. of conception,1,procedure
+206432,evacuation of sub dural hematoma bilateral,1,procedure
+206433,evacuation of subdural extradural haematoma,1,procedure
+206434,evacuation of subdural haematoma,1,procedure
+206435,evacuation of subdural hematoma,2,procedure
+206436,evacuation of subdural hematoma - by burr hole,1,procedure
+206437,evacuation of subdural hematoma - by craniotomy,1,procedure
+206438,evacuation of sublingual hematoma,1,procedure
+206439,evacuation of the uterus under ga,1,procedure
+206440,evacuation of thrombosed,1,procedure
+206441,evacuation of thrombosed partially approved,1,procedure
+206442,evacuation of uterus - day case,1,procedure
+206443,evacuation of uterus post partum or abortion,1,procedure
+206444,evacuation of uterus post partum or abortion. ( 58120,1,procedure
+206445,evacuation of vulvar hematoma,3,procedure
+206447,evacuation of wound haematoma,1,procedure
+206448,evacuation%20of%20nail%20hematoma,1,procedure
+206449,evacuationand curretage (e&c,1,other
+206450,evacution of extradural hematoma + decompressive craniotomy,1,procedure
+206451,"evaluation & management patient; observation 1 hr , self limited or minor severity- er gp",1,consultation
+206452,"evaluation & management patient; observation >3hrs, moderate severity",1,consultation
+206453,evaluation of student behavioral,1,consultation
+206454,evaluation%20speech%20therapy%20,1,consultation
+206458,evd insertion,1,procedure
+206459,"evds-extra venricular drainage sys # 58-00110, , aesculap",1,procedure
+206460,"evening meal, guest",1,other
+206465,evenity,2,other
+206480,event ventilator tubing,1,supplies
+206481,everflex entrust 5x80x150 medtronic # evx35-05-080-150,1,supplies
+206482,everflo opi 230 v 60 hz,1,other
+206483,everflo,1,other
+206484,everflooxygen concentrator 230v/60h - per pcs,1,other
+206489,everose,1,other
+206497,eversun eversun004 black,1,other
+206498,eversun eversun005 black,1,other
+206506,evertion of hydrocele,2,other
+206507,every appt. follow-up ortho,1,consultation
+206508,every appt.(u&lf.a,1,other
+206509,evisceration,1,other
+206510,evisceration - ocular contents w/implant,1,supplies
+206511,evisceration of eyeball - 1 day pkg,1,other
+206512,eviscertaion only,1,other
+206514,evit 400 30capsules,1,other
+206562,evlt (one leg,1,supplies
+206563,evlt / rf one vein,1,lab_test
+206564,evlt / rf two vein,1,lab_test
+206565,evoke e-fa 220 hearing aid bte,1,supplies
+206566,evoke e-fa 50 hearing aid bte,1,supplies
+206567,evoke e-fm 220 hearing aid bte,1,supplies
+206568,evoke e-fm 50 hearing aid bte,1,supplies
+206569,evoked auditory test limited,1,lab_test
+206570,evoked auditory tst complete,1,other
+206571,evoked otoacoustic emissions; limited,1,other
+206572,evoked potential,1,other
+206573,evoked potential - somatic (ser,1,other
+206574,evoked potential - visual (ver,1,other
+206575,evoked potential auditory (abr,1,other
+206576,evoked potentials (brainstorm auditory,1,other
+206577,evoked potentials (visual,1,other
+206578,evoked response audiometry,2,diagnostic
+206580,evoked response auditometry,1,other
+206581,evolocumab,1,other
+206589,"evolution, femoral component, primary, size/type 2 right, efsrn2pr",1,other
+206590,"evolution, insert thickness 10mm, size/type 2 right, eis2s10r",1,other
+206591,"evolution, tibial base, primary cemented, size/type 2+ right, etpkn2pr",1,other
+206592,evolv ai 1200 bte mini,2,other
+206593,evolv ai 1000 bte mini,1,other
+206595,evolv ai 1200 bte power,1,other
+206596,evolv ai 2000 bte mini,1,other
+206597,evolv ai 2400 bte mini,1,other
+206598,evolv ai 2400 cic,1,other
+206653,evra 3transdermal,1,other
+206654,evra 3transdermal (11008,1,other
+206655,evra patch,1,supplies
+206657,evra ptc 3s,1,other
+206658,evra trans dermal patchs,1,other
+206659,evra transdermal 3 patch,2,supplies
+206661,evra transdermal 3patches,1,other
+206662,evra transdermal patch,1,supplies
+206685,evy baby s1 60 pes,1,other
+206686,ex,1,other
+206687,ex under resistance (more than one gp,1,supplies
+206688,ex- dental consultation,1,dental
+206689,ex- mammogram 2v,1,imaging
+206690,ex. blood.v.per. doppler,1,imaging
+206691,ex. of l. lipoma,2,other
+206692,ex.fix application large bones implant returnable + f/ups,2,imaging
+206694,ex.fix application large bones implant returnables,1,imaging
+206695,ex307/l 128/col 1237/f,1,eyewear
+206696,exacto cold snare bx00711115,1,other
+206697,exalt cycle fr exazimut m153 store,1,eyewear
+206698,exalt cycle fr exline jr a350,1,eyewear
+206700,exalt cycle fm mod.exeva col.0,1,eyewear
+206701,exalt cycle/exbea/c1/f,1,eyewear
+206702,exalt cycle/excarlotta/c1/52,1,eyewear
+206703,exalt cycle/excarlotta/c2/52/f,1,eyewear
+206704,exalt cycle/exchamp/c3/50/f,1,eyewear
+206705,exalt cycle/exciro/c.2,1,other

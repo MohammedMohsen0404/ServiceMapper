@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+631602,xr hand -3v,1,imaging
+631603,xr hand 2 views (ap-oblique,1,imaging
+631604,xr hand 2 views (bilateral,1,imaging
+631605,xr hand 2 views (left,1,imaging
+631606,xr hand 2 views (right,1,imaging
+631607,xr hand 3 views (ap-lat-oblique,1,imaging
+631608,xr hand 3 views (bilateral,1,imaging
+631609,xr hand 3 views (left,1,imaging
+631610,xr hand 3 views (right,1,imaging
+631611,xr hand ap / lat / oblique,1,imaging
+631612,xr hand ap-lateral-oblique,1,imaging
+631613,xr hand ap-oblique,1,imaging
+631614,xr hand bone age (1 view,1,imaging
+631615,xr hand injury (2 views,1,imaging
+631616,xr hand lt 2 views,1,imaging
+631617,xr hand one view (ap,1,imaging
+631618,xr hand rt 2 views,1,imaging
+631619,xr hands (pa+obl) bilat,1,imaging
+631620,xr head injury (2 views,1,imaging
+631621,xr heel both 1 view,1,imaging
+631622,xr heel rt 2 views,1,imaging
+631623,xr heel-2v,1,imaging
+631624,xr heel/oscalsis (2 views,1,imaging
+631625,xr hip (bilateral,1,imaging
+631626,xr hip (left,1,imaging
+631627,xr hip (one side,1,imaging
+631628,xr hip (right,1,imaging
+631629,xr hip bilateral (both sides,1,imaging
+631630,xr hip bilateral(both sides,1,imaging
+631631,xr hip both with frog leg position,1,imaging
+631632,xr hip joint (2 views,1,imaging
+631633,xr hip joint both 2 views,1,imaging
+631634,xr hip lt 2 views,1,imaging
+631635,xr hip rt 2 views,1,imaging
+631636,xr hip unilateral (one side,1,imaging
+631637,"xr hip, ap & frog pos",1,imaging
+631638,xr hips (bilat,1,imaging
+631639,xr hips ap & frog position,1,imaging
+631640,xr humerus (2 or more views,1,imaging
+631641,xr humerus (2 views,1,imaging
+631642,xr humerus (ap&lat) (one side,1,imaging
+631643,xr humerus 2 views (ap-lateral,1,imaging
+631644,xr humerus 2 views (left,1,imaging
+631645,xr humerus 2 views (right,1,imaging
+631646,xr humerus ap-lateral,1,imaging
+631647,xr hand (ap & lat) one side,1,imaging
+631648,xr hand both,1,imaging
+631649,xr hand both pa,1,imaging
+631650,xr hand lt,1,imaging
+631651,xr hand lt pa,1,imaging
+631652,xr hand right,1,imaging
+631653,xr hand rt,1,imaging
+631654,xr hand rt lat,1,imaging
+631655,xr hand rt pa,1,imaging
+631656,xr hand and wrist,1,imaging
+631657,xr hand and wrist both,1,imaging
+631658,xr hand and wrist lt,1,imaging
+631659,xr hand and wrist lt lateral,1,imaging
+631660,xr hand and wrist rt,1,imaging
+631661,xr hand and wrist rt lateral,1,imaging
+631662,xr hand and wrist rt pa,1,imaging
+631663,xr hand and wrist for bone age,1,imaging
+631664,xr hip both,1,imaging
+631665,xr hip both lateral (frog's,1,imaging
+631666,xr hip lt,1,imaging
+631667,xr hip rt,1,imaging
+631668,xr humerus lt,1,imaging
+631669,xr humerus lt ap,1,imaging
+631670,xr humerus rt,1,imaging
+631671,xr humerus rt ap,1,imaging
+631672,xr knee,1,imaging
+631673,xr knee (+interco) bilat,1,imaging
+631674,xr knee (+intercon) one side,1,imaging
+631675,xr knee (+intercon) left,1,imaging
+631676,xr knee (2 views,1,imaging
+631677,xr knee (ap + lat+skyline patel) (bilateral,1,imaging
+631678,xr knee (ap + lat+skyline patel) oneside,1,imaging
+631679,xr knee (ap + lat+skyline patel) left,1,imaging
+631680,xr knee (ap + lat+skyline patel) right,1,imaging
+631681,xr knee - additional,1,imaging
+631682,xr knee 2 views (left,1,imaging
+631683,xr knee 2 views (right,1,imaging
+631684,xr knee 3 views (ap-lat-skyline,1,imaging
+631685,xr knee 3 views (left) skyline,1,imaging
+631686,xr knee 3 views (right) skyline,1,imaging
+631687,xr knee 3v,1,imaging
+631688,xr knee ap-lat-oblqe/sp view,1,imaging
+631689,xr knee ap-lateral,1,imaging
+631690,xr knee injury (2 views,1,imaging
+631691,xr knee joint - 3 view,1,imaging
+631692,xr knee joint 2v,1,imaging
+631693,xr knee joint ap & lat (single,1,imaging
+631694,xr knee joint bilateral(standing ap/lat) 4,1,imaging
+631695,xr knee joint rt 2 views,1,imaging
+631696,xr knee standing 2 views (left,1,imaging
+631697,xr knee standing 2 views (right,1,imaging
+631698,xr knee standing 2 views (bilateral,1,imaging
+631699,xr knees (ap stand+lat sup) (one side,1,imaging
+631700,xr knees (ap&lat) bilat,1,imaging
+631701,xr knees ap / lat both standing 3 views,1,imaging
+631702,xr knees bilateral,1,imaging
+631703,xr kub,1,imaging
+631704,xr kub (1 view,1,imaging
+631705,xr knee ap / lat both supine 3 views,1,imaging
+631706,"xr knee bilateral (ap,lat,obl",1,imaging
+631707,xr knee both,1,imaging
+631708,xr knee lt,1,imaging
+631709,xr knee lt ap,1,imaging
+631710,xr knee lt lateral,1,imaging
+631711,"xr knee right (ap,lat,obl",1,imaging
+631712,xr knee rt,1,imaging
+631713,xr knee joint lt 3 views ap/lat/skyline,1,imaging
+631714,xr l/s spine ap-lat/flex/ext,1,imaging
+631715,xr lateral neck,1,imaging
+631716,xr leftt hip (ap/lat,1,imaging
+631717,xr leg (tibia & fibula) ap-lat,1,imaging
+631718,xr leg 3 views,1,imaging
+631719,xr lower limb skeletal survey,1,imaging
+631720,xr ls / lumbo sacral spine .ap/lat+obli / 3 v,1,imaging
+631721,xr ls / lumbo-sacral spine ap/lat / 2 v,1,imaging
+631722,xr lumbar ap-lateral,1,imaging
+631723,xr lumbar ap-lateral oblqs,1,imaging
+631724,xr lumbar ap-lateral-obliques,1,imaging
+631725,xr lumbar sacral spine (2 or more views,1,imaging
+631726,xr lumbar spine ap/lat/ext./flex 4 views,1,imaging
+631727,xr lumbar spine (ap & lat,1,imaging
+631728,xr lumbar spine (ap&lat,1,imaging
+631729,"xr lumbar spine (ap, lat & obl",1,imaging
+631730,"xr lumbar spine (ap, lat, flex & ext",1,imaging
+631731,"xr lumbar spine (ap,lat&obl",1,imaging
+631732,"xr lumbar spine (lat,flex&ext",1,imaging
+631733,xr lumbar spine 2 views,1,imaging
+631734,"xr lumbar spine ap,lat,obl/flexion/extn",1,imaging
+631735,xr lumber spine- 3views,1,imaging
+631736,xr lumbo sasacra spine- 2 views,1,imaging
+631737,"xr lumbosac sp (l5/s1,ap&lat",1,imaging
+631738,"xr lumbosac sp(l5/s1,ap,lat&obl",1,imaging
+631739,xr lumbosacral spine (2 views,1,imaging
+631740,xr lumbosacral spine (4 views,1,imaging
+631741,xr lateral view nasopharynx,1,imaging
+631742,xr leg length measurement both,1,imaging
+631743,xr leg length measurement rt,1,imaging
+631744,xr lower extremities - ankle bilateral,1,imaging
+631745,xr lower extremities - ankle right / left,1,imaging
+631746,xr lower extremities - ankle right / left - أشعة,1,imaging
+631747,xr lower extremities - ankle stress views,1,imaging
+631748,xr lower extremities - calcaneal bilateral,1,imaging
+631749,xr lower extremities - calcaneum right / left,1,imaging
+631750,xr lower extremities - femur bilateral,1,imaging
+631751,xr lower extremities - femur right / left,1,imaging
+631752,xr lower extremities - foot right /left,1,imaging
+631753,xr lower extremities - foot right /left - أشعة,1,imaging
+631754,xr lower extremities - foot bilateral,1,imaging
+631755,xr lower extremities - knee bilateral,1,imaging
+631756,xr lower extremities - knee bilateral - أشعة,1,imaging
+631757,xr lower extremities - patella (skyline / sunrise) bilateral,1,imaging
+631758,xr lower extremities - patella right / left,1,imaging
+631759,xr lower extremities - pelvimetry,1,imaging
+631760,xr lower extremities - pelvis (a.p / frog leg position,1,imaging
+631761,xr lower extremities - right/ left ( tunnel view,1,imaging
+631762,xr lower extremities - tibia -fibula ( leg ) left / right,1,imaging
+631763,xr lower extremities - tibia -fibula (leg) bilateral,1,imaging
+631764,xr lower extremities - toes bilateral right / left,1,imaging
+631765,xr lower extremities - toes right / left,1,imaging
+631766,xr lower extremities -knee left / right,1,imaging
+631767,xr lumbar spine,1,imaging
+631768,xr lumbar spine ap,1,imaging
+631769,xr lumbar spine and pelvis,1,imaging
+631770,xr lumbar spine and sacroiliac joint,1,imaging
+631771,xr lumbar spine lateral,1,imaging
+631772,xr lumbosacral junction,1,imaging
+631773,xr lumbosacral junction ap,1,imaging
+631774,xr mammogram,1,imaging
+631775,xr mammograms (4 views,1,imaging
+631776,xr mandible,2,imaging
+631777,xr mandible (3 views,1,imaging
+631778,"xr mandible - (pa, lat & obl",1,imaging
+631779,xr mastoid 2 views,1,imaging
+631780,xr mastoids,1,imaging
+631781,xr mastoids (townes-stenvers,1,imaging
+631782,xr mastoids 3 views,1,imaging
+631783,xr miscellaneous portable charge,1,imaging
+631791,xr nasopharynx (lat view,1,imaging
+631792,xr nasopharynx lateral,1,imaging
+631793,xr neck - 2 views,1,imaging
+631794,xr neck soft tissue,2,imaging
+631795,xr neck soft tissue : lateral and ap views (thoracic inlet trachea) (chest,1,imaging
+631796,xr neck soft tissue lateral,1,imaging
+631798,xr nasopharynx,1,imaging
+631800,xr o.r. charge/30 minutes,1,imaging
+631801,xr o.r. fluoroscopy charge (1st one hour,1,imaging
+631802,xr orbits (2 views,1,imaging
+631803,xr os calcis (bilateral,1,imaging
+631804,xr os calcis (heel,1,imaging
+631805,xr os-calcis (heel,1,imaging
+631806,xr os-calcis(heel) 2 views one side,1,imaging
+631807,xr os-calsis(heel) one view(lat,1,imaging
+631808,xr panorama,1,imaging
+631809,xr panoramic,1,imaging
+631810,xr paranasal sinuses,1,imaging
+631811,xr paranasal sinuses (3 views,1,imaging
+631812,"xr paranasal sinuses (pa, lat & om",1,imaging
+631813,xr paranasal sinuses.2 v,2,imaging
+631814,xr paranasal sinuses.i v,1,imaging
+631815,xr paransl sin. pa-water-lat,1,imaging
+631816,xr patella bilateral (skyline,1,imaging
+631817,xr patella/skyline/tunnel (1 view,1,imaging
+631818,xr pelvis,2,imaging
+631819,xr pelvis & hips (2 views ) ap & frog position,1,imaging
+631820,xr pelvis &hips (2views,1,imaging
+631821,xr pelvis (1 view,1,imaging
+631822,xr pelvis (2 views,1,imaging
+631823,xr pelvis (a.p. one view,1,imaging
+631824,xr pelvis ap,1,imaging
+631825,xr pelvis-1 view,1,imaging
+631826,xr pns - 3 views,1,imaging
+631828,xr portable 'x-ray' charge (other site,1,imaging
+631829,xr portable charge,1,imaging
+631830,xr patella both,1,imaging
+631831,xr patella lt,1,imaging
+631832,xr patella rt,1,imaging
+631834,xr pelvis + hips infant/child,1,imaging
+631835,xr pelvis and hip lt,1,imaging
+631836,xr pelvis and hip rt,1,imaging
+631837,xr pelvis w/ judet views,1,imaging
+631838,xr retrograde pyelogram,1,imaging
+631839,xr retrograde urethrogram,1,imaging
+631840,xr ribs 2 views lt,2,imaging
+631841,xr ribs (2 views,1,imaging
+631842,xr ribs (bilateral,1,imaging
+631844,xr ribs 2 views rt,1,imaging
+631845,xr ribs 3 views (left,1,imaging
+631846,xr ribs 3 views (right,1,imaging
+631847,xr ribs bilateral (2 sides,1,imaging
+631848,xr ribs unilateral (1 side,1,imaging
+631849,xr ribs- 2 v,1,imaging
+631850,xr ribs/unilateral (1 side,1,imaging
+631851,xr right hip (ap/lat,1,imaging
+631852,xr radius and ulna distal lt,1,imaging
+631853,xr radius and ulna lt,1,imaging
+631854,xr radius and ulna lt ap,1,imaging
+631855,xr radius and ulna lt lateral,1,imaging
+631856,xr radius and ulna rt,1,imaging
+631857,xr ribs lt,1,imaging
+631858,xr ribs rt,1,imaging
+631859,xr sacro-iliac joints ap-ob,1,imaging
+631860,xr sacro-iliac jonts (ap & obl,1,imaging
+631861,xr sacro-iliac jonts (ap&obl,1,imaging
+631862,xr sacro-iliac jt. ap & oblique 2 views,1,imaging
+631863,xr sacroiliac joint (3 views,1,imaging
+631864,xr sacrum & coccyx (2 views,1,imaging
+631865,xr sacrum & coccyx (ap & lat,1,imaging
+631866,xr sacrum-2 views,1,imaging
+631867,xr sacrum/coccyx ap-lateral,1,imaging
+631868,xr salivary gland,1,imaging
+631869,xr scaphoid,1,imaging
+631870,xr scaphoid (3 views,1,imaging
+631871,xr scapula (2 views,1,imaging
+631872,xr scapula (left,1,imaging
+631873,xr scapula (right,1,imaging
+631874,xr scapula ap-lateral,1,imaging
+631875,xr scolio(bend bothside,1,imaging
+631876,xr scoliosis (ap,1,imaging
+631877,xr scoliosis study (whole spine,1,imaging
+631878,"xr scoliosis study ap ,lat,rt bending and lt bending",1,imaging
+631879,xr sella turcica-pit. fossa,1,imaging
+631880,xr shoulder,1,imaging
+631881,xr shoulder (ap & axial) one side,1,imaging
+631882,xr shoulder (ap & axial) right,1,imaging
+631883,xr shoulder 1 view,1,imaging
+631884,xr shoulder 2 views (left,1,imaging
+631885,xr shoulder 2 views (right,1,imaging
+631886,xr shoulder 3 views ap - lat-axial,1,imaging
+631887,xr shoulder ap-lat or int/ext r,1,imaging
+631888,xr shoulder ap/lat (2 views,1,imaging
+631889,xr shoulder ap/lat-int/ext rot.-outlet,1,imaging
+631890,xr shoulder joint lt 2 views,1,imaging
+631891,xr shoulder joint rt 2 views,1,imaging
+631892,xr shoulder one view ap only,1,imaging
+631893,xr shoulder scapula - 1 view,1,imaging
+631894,xr shoulder scapula - 3 views,1,imaging
+631895,xr shoulder&scapula one side,1,imaging
+631896,xr shoulder-2v,1,imaging
+631897,xr shouldr (ap&axial) bilat,1,imaging
+631898,xr shouldr int&ext rot one side,1,imaging
+631899,xr sij ap-oblq,1,imaging
+631900,xr sinusis 2 views,1,imaging
+631901,xr skeletal survey,2,imaging
+631902,xr skeletal survey (6 views,1,imaging
+631903,xr skull -2-views,1,imaging
+631904,xr skull -3-views,1,imaging
+631905,xr skull 2 views (pa & lat,1,imaging
+631906,"xr skull 3 views (pa, lat & townes",1,imaging
+631907,xr skull 4views comb.with sinuses,1,imaging
+631908,xr skull ap-lateral,1,imaging
+631909,xr skull ap/lat (2 views,1,imaging
+631910,xr skull ap/lat+2 other views,1,imaging
+631911,xr skull one view,1,imaging
+631912,xr spine scolosis study ap only,1,imaging
+631913,xr sterno-clavicular joints,1,imaging
+631914,xr sternum,2,imaging
+631915,xr sternum (2 views,1,imaging
+631916,xr sternum (multiple views,1,imaging
+631917,xr sternum (one view,1,imaging
+631918,xr sacro-iliac xray pa,1,imaging
+631919,xr sacrum,1,imaging
+631920,xr scaphoid anterior oblique ulnar deviation,1,imaging
+631921,xr scaphoid lt,1,imaging
+631922,xr scaphoid rt,1,imaging
+631923,xr scapula rt,1,imaging
+631924,xr scoliosis series ap lat,1,imaging
+631925,xr shoulder lt,1,imaging
+631926,xr shoulder lt ap,1,imaging
+631927,xr shoulder lt lateral,1,imaging
+631928,xr shoulder right,1,imaging
+631929,xr shoulder rt,1,imaging
+631930,xr shoulder rt axial,1,imaging
+631932,xr skull,1,imaging
+631933,xr skull - facial bones,1,imaging
+631934,xr skull - mandible,1,imaging
+631935,xr skull - mastoid,1,imaging
+631937,xr skull - paranasal sinuses standard,1,imaging
+631938,xr skull - skull series,1,imaging
+631939,xr skull - skull special view,1,imaging
+631940,xr spine - cervical spine (flexion/extension,1,imaging
+631941,xr spine - cervical spine ap-lat,1,imaging
+631942,xr spine - cervical spine series,1,imaging
+631943,xr spine - cervico-thoraco-lumbar spine ap-lat,1,imaging
+631944,xr spine - dorsal spine (a.p. and lateral,1,imaging
+631945,xr spine - lumbar-sacral spine (a.p. & lateral,1,imaging
+631946,xr spine - lumbar-sacral spine (a.p. & lateral) - أشعة,1,imaging
+631947,xr spine - lumbar-sacral spine (flexion/extention,1,imaging
+631948,xr spine - lumbar-sacral spine series,1,imaging
+631949,xr spine - sacro-illiac joint w. oblique,1,imaging
+631950,xr spine - sacrum & coccyx ap/lat,1,imaging
+631951,xr spine - scoliosis series 4 views,1,imaging
+631952,xr spine - scoliosis series ap lat,1,imaging
+631953,xr spine - skeletal survey plus long bones,1,imaging
+631954,xr spine - thoraco-lumbar ap-lat,1,imaging
+631955,"xr spine cervical (ap,lat,peg",1,imaging
+631956,"xr spine lumbar (ap,lat",1,imaging
+631957,xr spine thoracolumbar,1,imaging
+631958,xr spine for scoliosis,1,imaging
+631960,xr tarsal bones /ankle (2 views,1,imaging
+631961,xr tarsal bones/ankle (2 views,1,imaging
+631962,xr thoracic 4 views,1,imaging
+631963,xr thoracic ap-lat swimmers,1,imaging
+631964,xr thoracic inlet/outlet (2 views,1,imaging
+631965,xr thoracic spine (ap&lat,1,imaging
+631966,xr thoracolumbar (3 views,1,imaging
+631967,xr thoracolumbar sp (ap&lat,1,imaging
+631968,xr thoricic spine-2 view,1,imaging
+631969,xr thumb/finger/toe,1,imaging
+631970,xr thumb/finger/toe (2 views,1,imaging
+631971,xr tib & fib (left,1,imaging
+631972,xr tib & fib (one side,1,imaging
+631973,xr tib & fib (right,1,imaging
+631974,xr tibia & febula / leg (2 views,1,imaging
+631975,xr tibia & fibula (ap & lat) (left,1,imaging
+631976,xr tibia & fibula (ap & lat) (right,1,imaging
+631977,xr tibia / fibula both 1 view,1,imaging
+631978,xr tibia and fibula lt 2 views,1,imaging
+631979,xr tibia-fibula-2views,1,imaging
+631980,xr tibia/fibula ap-lateral,1,imaging
+631981,xr tmj (bilateral,1,imaging
+631982,xr toe(s) ap-lat oblique,1,imaging
+631983,"xr toe(s) ap-lat, oblique",1,imaging
+631984,xr toes (2 views,1,imaging
+631985,xr toes-2v,1,imaging
+631986,xr thoracic spine,1,imaging
+631987,xr thoracic spine ap,1,imaging
+631988,xr thoracolumbar spine,1,imaging
+631989,xr thumb lt,1,imaging
+631990,xr thumb rt,1,imaging
+631991,xr tibia and fibula both,1,imaging
+631992,xr tibia and fibula lt,1,imaging
+631993,xr tibia and fibula lt ap,1,imaging
+631994,xr tibia and fibula lt lateral,1,imaging
+631995,xr tibia and fibula rt,1,imaging
+631996,xr tibia and fibula rt ap,1,imaging
+631997,xr tibia and fibula rt lateral,1,imaging
+631998,"xr tibia/fibula left (ap,lat",1,imaging
+631999,"xr tibia/fibula right (ap,lat",1,imaging
+632000,xr toe great lt,1,imaging
+632001,xr toe great rt,1,imaging
+632002,xr toe great rt dorsiplantar,1,imaging
+632003,xr toes rt,1,imaging
+632004,xr u.t. plain (kub,1,imaging
+632005,xr upper extremities - bone age study,1,imaging
+632006,xr upper extremities - clavicle bilateral,1,imaging
+632007,xr upper extremities - clavicle bilateral weight bearing,1,imaging
+632008,xr upper extremities - clavicle left / right,1,imaging
+632009,xr upper extremities - elbow bilateral,1,imaging
+632010,xr upper extremities - elbow left / right,1,imaging
+632011,xr upper extremities - elbow left / right - أشعة,1,imaging
+632012,xr upper extremities - fingers ( specify,1,imaging
+632013,xr upper extremities - forearm bilateral,1,imaging
+632014,xr upper extremities - forearm left /right,1,imaging
+632015,xr upper extremities - hand bilateral,1,imaging
+632016,xr upper extremities - hand left / right,1,imaging
+632017,xr upper extremities - hand including wrist bilateral,1,imaging
+632018,xr upper extremities - hand including wrist right/ left,1,imaging
+632019,xr upper extremities - humerus (arm)right / left,1,imaging
+632020,xr upper extremities - humerus( arm) bilateral,1,imaging
+632021,xr upper extremities - scaphoid - one side,1,imaging
+632022,xr upper extremities - scaphoid series,1,imaging
+632023,xr upper extremities - shoulder bilateral,1,imaging
+632024,xr upper extremities - shoulder right /left,1,imaging
+632025,xr upper extremities - sternoclavicular joints,1,imaging
+632026,xr upper extremities - wrist right / left,1,imaging
+632027,xr upper extremities - wrist bilateral,1,imaging
+632028,xr venography (both legs,1,imaging
+632029,xr voiding cystourethrogram (vcug,1,imaging
+632030,xr whole limb (long film,1,imaging
+632031,xr whole spine (ap&lat,1,imaging
+632032,xr whole spine (ap-lat,1,imaging
+632033,xr with gastrografin ( follow thru,1,imaging
+632035,xr wrist & scaphoid left,1,imaging
+632036,xr wrist & scaphoid one side,1,imaging
+632037,xr wrist & scaphoid right,1,imaging
+632038,xr wrist (2 views,1,imaging
+632039,xr wrist (ap & lat) (left,1,imaging
+632040,xr wrist (ap & lat) (right,1,imaging
+632041,xr wrist (ap & lat) left,1,imaging
+632042,xr wrist (ap & lat) one side,1,imaging
+632043,xr wrist (ap & lat) right,1,imaging
+632044,xr wrist 2 views (ap-lateral,1,imaging
+632045,xr wrist 3 views (ap-lat-oblique,1,imaging
+632046,xr wrist ap-lateral,1,imaging
+632047,xr wrist ap-lateral-oblique,1,imaging
+632048,xr wrist ap/lat,1,imaging
+632049,xr wrist joint lt 2 views,2,imaging
+632050,xr wrist joint rt 2 views,1,imaging
+632051,xr wrist pa. lat. oblique,1,imaging
+632052,xr wrist scaphoid series (left,1,imaging
+632053,xr wrist scaphoid series (right,1,imaging
+632054,xr wrist-2view,1,imaging
+632055,xr wriste ap / lat /oblique 3 views,1,imaging
+632056,xr wrists ap only,1,imaging
+632057,xr whole spine,1,imaging
+632058,xr wrist both,1,imaging
+632059,"xr wrist left (ap,lat, obl",1,imaging
+632060,xr wrist lt,1,imaging
+632061,xr wrist rt,1,imaging
+632062,xr wrist rt lateral,1,imaging
+632063,"xr shoulder (frontal, y view, axillary, lateral",1,imaging
+632065,"xr- chest, pa",2,imaging
+632066,xr- both femur / thigh 1 view,2,imaging
+632067,xr- extremity ankel 2 views,1,imaging
+632068,xr- extremity leg 2view,1,imaging
+632069,xr- extremity ankle (2 views,1,imaging
+632070,xr- extremity calcaneus(heel,1,imaging
+632071,xr- extremity elbow (3views,1,imaging
+632072,xr- extremity femur 2view,1,imaging
+632073,xr- extremity foot (3 views,1,imaging
+632074,xr- extremity forearm,1,imaging
+632075,xr- extremity hand,1,imaging
+632076,xr- extremity hand 2view,1,imaging
+632077,xr- extremity heel 1view,1,imaging
+632078,xr- extremity heel 2view,1,imaging
+632079,xr- extremity hip 1view,1,imaging
+632080,xr- extremity hip 2view,1,imaging
+632081,xr- extremity humerus,1,imaging
+632082,xr- extremity shoulder,1,imaging
+632083,xr- extremity shoulder 1view,1,imaging
+632084,xr- extremity shoulder 2view,1,imaging
+632085,xr- extremity(tibia/fibula,1,imaging
+632086,xr- hip ap/lat bilateral,1,imaging
+632087,xr- abdomen 2view,1,imaging
+632088,xr- abdomen(single view,1,imaging
+632090,"xr- chest, pa & lateral",1,imaging
+632092,"xr- chest, lateral",1,imaging
+632093,xr- elbow 2views,1,imaging
+632094,xr- knee (lateral only,1,imaging
+632095,xr- knee 2view,1,imaging
+632096,xr- knee tunnel,1,imaging
+632097,xr- pelvis (frog leg,1,imaging
+632098,xr- pelvis 2veiw,1,imaging
+632099,xr- pelvis(ap,1,imaging
+632100,xr- skull paranasal sinus(standard,1,imaging
+632103,xr- spine cervical (ap &lateral,1,imaging
+632104,xr- spine cervical (flexion /extension,1,imaging
+632105,xr- spine dorsal(ap &lateral) 2view,1,imaging
+632107,xr-ankle joint (2 views,1,imaging
+632110,xr-abdomen (multiple views,1,imaging
+632111,xr-abdomen (single view,1,imaging
+632112,xr-abdomen multiple views,1,imaging
+632117,xr-both heel/calcaneus- 2 views,1,imaging
+632118,xr-bone age,1,imaging
+632119,xr-bone length (scanogram,1,imaging
+632120,xr-bone survey,1,imaging
+632121,xr-both knee (standing a.p,1,imaging
+632122,xr-chest(multiple views,1,imaging
+632123,xr-cervical,1,imaging
+632124,xr-chest (inspiration & expiration,1,imaging
+632125,xr-chest decubitus,1,imaging
+632126,xr-chest lateral,2,imaging
+632127,xr-chest multiple views,1,imaging
+632128,xr-chest p.a,1,imaging
+632129,xr-chest p.a. and lateral,1,imaging

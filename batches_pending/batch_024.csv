@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+192004,ear wash out/ wax removal,1,procedure
+192005,ear wash out/ wax removal unilateral,1,procedure
+192006,ear wash single,3,procedure
+192007,ear wash suction packing,1,supplies
+192008,ear wash two,1,procedure
+192009,ear wash two ears-451,1,procedure
+192010,ear wash two sides,3,procedure
+192011,ear wash unilatera,1,procedure
+192014,ear wash uninateral,1,procedure
+192015,ear wash [both,1,procedure
+192016,ear wash [one ear,1,supplies
+192017,ear wash two side,1,procedure
+192019,ear wash {each},2,procedure
+192020,ear wash( both ear,3,procedure
+192021,ear wash( one ear,1,supplies
+192022,ear wash( two ears,1,procedure
+192023,ear wash(1 ear,1,procedure
+192024,ear wash(2 ear,1,procedure
+192025,ear wash(460162,1,procedure
+192026,ear wash(bilateral,1,procedure
+192027,ear wash(one ear,1,supplies
+192028,ear wash(two ears,1,procedure
+192029,ear wash(unilateral,1,procedure
+192034,ear wash-both sides,1,procedure
+192035,ear wash-two,1,procedure
+192037,ear wash/??? ??? ?????,1,procedure
+192038,ear washing,7,procedure
+192039,ear washing & suction,1,supplies
+192040,ear washing (two side,1,procedure
+192042,ear washing one side,1,supplies
+192043,ear washing or wax removal,1,procedure
+192044,ear washout (bilateral,1,procedure
+192045,ear washout (one side,1,supplies
+192046,ear washout (unilateral,1,procedure
+192047,ear wax removal,1,procedure
+192048,ear wax removal/ear,1,procedure
+192049,ear weck,2,other
+192050,ear wick,1,other
+192051,ear wick ( one side,1,supplies
+192052,ear wick (one side,1,supplies
+192053,ear wick / one,1,supplies
+192054,ear wick / two,1,other
+192055,ear wick application,2,other
+192056,ear wick insertion,2,procedure
+192058,"ear wick insertion, unilateral",2,procedure
+192059,"ear wick otocell 15mm x 9mm,ew-0815 # boston medical usa",1,other
+192060,ear wick tow side,1,other
+192061,ear wick unilateral,1,other
+192062,ear wick/one,1,supplies
+192063,ear wound/biopsy/scar,1,procedure
+192064,ear wrek,1,other
+192065,ear swap culture,1,lab_test
+192066,ear%20wash,1,other
+192067,"ear,nose,mth and thrt malig, majc",1,inpatient
+192068,"ear,nose,mth and thrt malig, minc",1,inpatient
+192069,"ear,nose,mth&thrt malig, majc",1,inpatient
+192070,"ear,nose,mth&thrt malig, minc",1,inpatient
+192071,ear-swab c/s,1,lab_test
+192072,ear. dressing,1,supplies
+192073,ear20suction,1,other
+192197,"earcalm50,10%",1,other
+192198,earcalm5ml e.dps,1,other
+192199,earcalm5ml e.dps. 1,1,other
+192201,earcup kit infant sanibel #8516095,1,other
+192202,eareng,1,other
+192203,earflushing,2,other
+192205,earing,2,other
+192206,"earing for baby,cat#1002 pic , , studex",1,other
+192207,earing wash ( one side,1,supplies
+192208,earing wash (two sides,1,procedure
+192209,earing+fixation,1,procedure
+192210,earings,1,other
+192211,earing_fixed,1,other
+192212,earlobe piercing,1,procedure
+192213,early intervenation unit - 15 sessions for autism,1,physiotherapy
+192214,early intervenation unit - 6 sessions for autism,1,physiotherapy
+192215,early intervenation unit -\ one session for autism,1,physiotherapy
+192216,early pregnancy scan - nuchal translucency screening,2,imaging
+192218,early pregnancy scan for nuchal transluc,1,imaging
+192219,early pregnancy| early pregnancy,1,other
+192220,earlyce 5%,1,other
+192221,earmani ea5017 51 c98 male,1,other
+192222,earmedication/w ear packing,1,procedure
+192223,earpiercing,1,other
+192224,earpinna minor (stagged implantation,1,other
+192225,earring,2,other
+192226,"earring , hypoallergenic , ., , rb04y",1,other
+192227,earring f/baby girl w/different design caflon uk,1,other
+192228,earrings,1,other
+192229,earrings ab crystal october rose gold plated,1,lab_test
+192230,earrings baby short post july ruby april crystal daisy gold plated,1,nutrition
+192231,earrings cubic zirconia tiffany 3mm stainless steel,1,eyewear
+192232,earrings daisies ab crystal oct rose stainless steel,1,lab_test
+192233,earrings daisies april crystal july ruby gold plated,1,nutrition
+192234,earrings daisies april crystal september saphhire gold plated,1,nutrition
+192235,earrings f/ baby girl nickel safe gp 3mm ball diff. design studex,1,consultation
+192236,"earrings starlite 4mm gp, #7511- 5014-23",1,consultation
+192237,earrings starlite april crystal 4mm gold plated,1,nutrition
+192238,earrings sterilized,1,other
+192239,earrings white pearl 2mm tiffany gold plated,1,eyewear
+192240,earrings white pearl 3mm bezel gold plated,1,nutrition
+192241,earringwithcaflon,1,other
+192242,ears suction both side,2,supplies
+192243,ears syringing,1,other
+192244,ears wick or pack,1,supplies
+192245,eartip 3- 5mm red ( pk/100 ) oae 8012964,1,other
+192246,earwash,3,procedure
+192247,earwash (left,1,procedure
+192248,earwash - bileteral b/v,1,procedure
+192249,earwash 1 ear,1,procedure
+192250,earwash and cleaning,1,procedure
+192251,earwash both sides,2,procedure
+192252,earwash both sides (206,1,procedure
+192253,earwash both sides(07048,1,procedure
+192254,earwash bilateral,1,procedure
+192255,earwash one-side,1,supplies
+192256,earwash-out,1,procedure
+192257,earwash-out one side,1,supplies
+192258,earwash-out/bilateral,1,procedure
+192259,earwashout,1,other
+192260,easy life compressor nebulizer system,2,supplies
+192261,easy life mesh nebulizer,1,supplies
+192262,easy life mesh nebulizer (portable,1,supplies
+192263,easy life mesh nebulizer - s600b,1,supplies
+192264,easy life nablizer,1,other
+192265,easy life nublizer,1,other
+192266,easy max /accu check lancets,1,supplies
+192267,easy max 50 strips,2,supplies
+192268,easy max bgm twist lct 200s,1,other
+192269,easy max bgm voice dvc 1s,1,other
+192270,easy max bgm voice stp blue 50s,1,other
+192271,easy max blood glucose 50 strips,1,lab_test
+192272,easy max blood glucose machine,1,lab_test
+192273,easy max blood glucose meter,1,lab_test
+192274,easy max blood glucose meter- bupa,1,lab_test
+192275,easy max blood glucose monitor,1,lab_test
+192276,easy max blood glucose test strip,1,lab_test
+192277,easy max blood glucose test strips,2,lab_test
+192278,easy max device 2,2,other
+192279,easy max glocose device,1,other
+192280,easy max glucometer,1,supplies
+192281,easy max glucometer device,1,supplies
+192282,easy max glucometer device # 1,1,supplies
+192283,easy max glucometer device # 1 ( m,1,supplies
+192284,easy max glucose monitoring voice system,1,lab_test
+192285,easy max ivd pk/50,1,other
+192286,easy max lancet 200pcs,1,supplies
+192287,easy max lancet 200pcs ( m,1,supplies
+192288,easy max lancet sterilance,1,supplies
+192289,easy max lancets 200 pcs,1,supplies
+192290,easy max neu device,1,other
+192291,easy max self-monitoring blood glucose system,3,lab_test
+192292,easy max self-monitoring glucometer,1,supplies
+192293,easy max strip,1,supplies
+192294,easy max strip+,1,supplies
+192295,easy max strips,2,supplies
+192296,easy max sugar strips,1,supplies
+192297,easy max sugar test meter,1,lab_test
+192298,easy max suguar machine,1,supplies
+192299,easy max test strip blood glucose 50 pk,1,lab_test
+192301,easy max twist lancet 200,1,supplies
+192304,easy max twist lancets,2,supplies
+192305,easy max v 2 strips,1,supplies
+192306,easy max voice 50 strips,1,supplies
+192307,easy max voice blood glucose monitor,1,lab_test
+192308,easy max voice glucometer,1,supplies
+192309,easy max voice glucose 50 strip,1,lab_test
+192310,easy max voice self monitoring blood glucose system,1,lab_test
+192311,easy max voice strip #50,1,supplies
+192312,easy max voice strip #50 ( m,1,supplies
+192313,easy max voice strips,1,supplies
+192314,easy max voice test strip 50 blood glucose,1,lab_test
+192315,easy movable wheel chair,1,supplies
+192316,easy nebulzer machine,1,supplies
+192317,"easy pass suture , passer lasso standard , (catalog no. 810503400) rejoin",1,supplies
+192318,easy pass suture passer lasso standard-rejoin,1,supplies
+192319,easylife neb.machine,1,supplies
+192320,easymax strips,2,supplies
+192321,easymax b/glucose system (new,1,lab_test
+192322,easymax b/glucose system v2,1,lab_test
+192323,easymax blood glucose machine,1,lab_test
+192324,easymax blood glucose system device,1,lab_test
+192325,easymax blood glucose system s/m,1,lab_test
+192326,easymax blood glucose system v,1,lab_test
+192327,easymax blood glucose test strip,2,lab_test
+192328,easymax blood glucose test strips,1,lab_test
+192329,easymax blood glucose test strips bx/50,1,lab_test
+192330,easymax device,1,other
+192331,easymax glu strip,1,supplies
+192332,easymax glucometer,1,supplies
+192333,easymax glucometer machine,1,supplies
+192334,easymax glucometer-h,1,supplies
+192335,easymax glucose meter,1,lab_test
+192336,easymax glucose test strip,1,lab_test
+192337,easymax lancet,1,supplies
+192339,easymax neu kit,1,other
+192340,easymax safety lancets,1,supplies
+192341,easymax self-monitoring blood glucose system,1,lab_test
+192342,easymax set ar v2,1,other
+192343,easymax strip,2,supplies
+192345,easymax strips 50 pics,1,supplies
+192346,easymax strips 50's v2,1,supplies
+192347,easymax strips 50-h,1,supplies
+192348,easymax strips 50-s v2,2,supplies
+192349,easymax strips 50-s v2 (new,1,supplies
+192351,easymax strips b/50,2,supplies
+192352,easymax strips b/50 p,1,supplies
+192353,easymax test strips 50pcs,1,lab_test
+192354,easymax twist lancet,1,supplies
+192355,easymax twist lancet bx'200,1,supplies
+192356,easymax twist lancet(31.g)200.tips,1,supplies
+192357,easymax v-2 strips 50's,1,supplies
+192358,easymax v2 50strips,1,other
+192359,easymax v2 test strips/pc,1,lab_test
+192360,easymax voice blood glucose 50 test strips,1,lab_test
+192361,easymax voice blood glucose system,1,lab_test
+192362,easymax voice blood glucose test strips,1,lab_test
+192363,easymax voice kit set _ar-v2,1,other
+192364,easymax voice self-monitoring blood glucose system,1,lab_test
+192365,easymax voice set,1,other
+192366,easymax voice test strips 50,1,lab_test
+192367,"easypass needle , meniscus , 801303000 rejoin",1,supplies
+192368,easypass needle meniscus multifire,1,supplies
+192369,easypass needle meniscus multifire rejoin,1,supplies
+192370,easypass surg. needle multifire rejoin,1,supplies
+192371,easypass surgical instrument suture lasso wire loop rejoin,1,supplies
+192372,easypass surgical instrumentsuture lasso wire loop-rejoin,1,supplies
+192373,easyseal intubation stylet size #10 frncs-713-63,1,procedure
+192376,easy max strips v 2,1,supplies
+192377,eating disorder scale,1,lab_test
+192378,eating disorder test (e.d.t,1,lab_test
+192379,eb virus (epstein barr virus,1,other
+192380,eb virus(epstein barr virus) igm,1,lab_test
+192381,eb virus(epstein barr virus) igm if,1,lab_test
+192382,eb virus(epstein barr virus) igm ifa,2,lab_test
+192383,eb-830023-f - escenbach,1,other
+192386,eber stain,1,other
+192445,ebixa10mgtab(b/28,1,other
+192446,ebm collection-nicu,1,consultation
+192448,"ebstein barr virus, ebv pcr qualitative (so",1,lab_test
+192449,ebtesam ramadan farghaly,1,other
+192450,ebus - endoscopic bronchoscopy ultrasound,1,imaging
+192451,ebus - tbna (moderate sedation,1,procedure
+192452,ebus with fna,1,other
+192453,ebus-tbna (endobronchial ultrasounded guided transbronchial needle aspiration) - 1 day pkg,1,supplies
+192454,ebus-tbna (general anesthsia,1,other
+192455,ebv,1,other
+192456,ebv igm,6,lab_test
+192457,ebv ( pcr,2,lab_test
+192458,ebv (abs,2,lab_test
+192460,ebv (ebna igg,1,lab_test
+192461,ebv (epstein barr virus) - viral load - pcr - s.o,1,lab_test
+192462,ebv (epstein barr virus) pcr - s.o,1,lab_test
+192463,ebv (epstein barr virus) viral load pcr (send out,1,lab_test
+192464,ebv (igg,1,lab_test
+192465,ebv (igm,1,lab_test
+192466,ebv (vac igm,1,lab_test
+192467,ebv (vca igg,1,lab_test
+192468,ebv - igg,1,lab_test
+192469,ebv - igm,2,lab_test
+192471,ebv - vca i g g,1,lab_test
+192472,ebv - vca igm,1,lab_test
+192473,ebv - vca antibody - ?????,1,lab_test
+192476,ebv ab (epstein barr virus,1,lab_test
+192477,ebv ab igm,2,lab_test
+192478,ebv ab. (monospot,1,lab_test
+192479,ebv avidity (igg) epstein barr virus avidity,1,lab_test
+192480,ebv avidity (igg) epstein barr virus avidity - s.o,1,lab_test
+192481,ebv ab (epstein barr virus) igg,1,lab_test
+192483,ebv ab by latex agglutination (monospot test,1,lab_test
+192484,ebv abs (igm or igg,1,lab_test
+192485,ebv abs [igg or igm] (for each test) - tat (72 hrs s.o,1,lab_test
+192486,"ebv abs, epstein barr virus abs",1,lab_test
+192487,ebv dna ultraquant,1,lab_test
+192488,ebv early antigen,2,lab_test
+192489,ebv early antigen serum,1,lab_test
+192490,ebv early antigen(526038,1,lab_test
+192491,ebv early ags ab,1,lab_test
+192493,ebv early antigen - ?????,1,lab_test
+192494,ebv igg,4,lab_test
+192496,ebv igm - early antigen,1,lab_test
+192498,ebv igg - estern baur visus ab - ?????,1,lab_test
+192500,ebv igm - estern baur visus ab - ?????,1,lab_test
+192501,ebv igm antibody - ?????,1,lab_test
+192503,ebv nuclear ags ab,1,lab_test
+192504,ebv pcr tq,1,lab_test
+192505,ebv quantitative (viral load,1,other
+192506,ebv vca igm,3,lab_test
+192507,ebv vca igm antibody,1,lab_test
+192508,ebv vca igg,1,lab_test
+192511,ebv viral capsid ags ab,1,lab_test
+192512,ebv(epstein barr virus) igm ifa,1,lab_test
+192513,ebv- vca (igg,1,lab_test
+192514,ebv- vca (igm,1,lab_test
+192515,ebv-ab (epstein barr virus ab,1,lab_test
+192516,ebv-ab-ebv,1,lab_test
+192517,ebv-igg,1,lab_test
+192518,ebv-na-(ebna,1,lab_test
+192519,"ebv-vca , igg, igm abs",1,lab_test
+192520,ebv-vca antibody,1,lab_test
+192521,ebv-vca iga igg igm abs,2,lab_test
+192523,"ebv-vca iga, igg, igm abs",2,lab_test
+192525,ebv-vca-igg,1,lab_test
+192526,ebvvca iga igg igm abs,1,lab_test
+192527,ebvvca iga igg igm abs serum,1,lab_test
+192528,ec.g electrocardiogram,1,other
+192543,ecce,1,other
+192544,ecce ( extracapsular cataract extraction,1,dental
+192545,ecce + iol ( intraocular lens,1,eyewear
+192546,ecce pciol implantation procedure,1,other
+192547,ecce+iol+trab+mmc,1,supplies
+192548,ecchinococcus abs,2,lab_test
+192549,ecchinococcus antibody (hydatid abs,1,lab_test
+192550,ecchinococcus antibody hydatid abs,1,lab_test
+192552,ecg (ecg / interpretation + report,1,diagnostic
+192553,ecg car,1,diagnostic
+192554,ecg chest,1,diagnostic
+192555,ecg er,2,diagnostic
+192556,ecg mw,1,diagnostic
+192557,ecg sepci/ تحطيط قلب اخصائى,1,diagnostic
+192559,ecg # 002-18003,1,diagnostic
+192560,ecg & stress,1,diagnostic
+192561,ecg & stress - 002-49504,1,diagnostic
+192563,ecg ( 01015023,1,diagnostic
+192564,ecg ( e.c.g,1,diagnostic
+192565,ecg ( e.c.g screening,1,lab_test
+192566,ecg ( e.k.g only,1,diagnostic
+192567,ecg ( electrocardiogram,1,diagnostic
+192568,ecg (1002,1,diagnostic
+192569,ecg (30,1,diagnostic
+192570,ecg (aramco,1,diagnostic
+192571,ecg (e.c.g,1,diagnostic
+192572,ecg (e.k.g only) (pedia,1,diagnostic
+192573,ecg (electro cardio gram,2,lab_test
+192575,ecg (electro cardio graph,1,diagnostic
+192576,ecg (electro cardio graph)(ot015,1,diagnostic
+192577,ecg (electrocardiogram,2,diagnostic
+192578,ecg (electrocardiography,3,diagnostic
+192579,ecg (er,1,diagnostic
+192580,ecg (electro cardio graphy,1,diagnostic
+192581,ecg (electro-cardio-gram,1,lab_test
+192584,ecg (for outpatient,1,diagnostic
+192585,ecg (including report,1,diagnostic
+192586,ecg (including reporting,2,diagnostic
+192587,ecg (portable,1,diagnostic
+192588,ecg (pediatric,1,diagnostic
+192595,ecg + rhytm strip,1,diagnostic
+192596,ecg - 002-11213,1,diagnostic
+192597,ecg - 12 lead,3,diagnostic
+192599,ecg - 452,1,diagnostic
+192600,ecg - ?????? ??????,1,diagnostic
+192601,ecg - bed side monitor,1,diagnostic
+192602,ecg - check & printout,1,diagnostic
+192603,ecg - check and printout,1,diagnostic
+192604,ecg - electrocardiogram,2,diagnostic
+192606,ecg - nephrology,2,diagnostic
+192608,ecg - pediatrics,2,diagnostic
+192610,ecg - rest,1,diagnostic
+192611,ecg - rhythm strip 2 lead,3,diagnostic
+192612,ecg - رسم قلب,1,diagnostic
+192613,ecg -15,1,diagnostic
+192614,ecg -cardiology,3,diagnostic
+192617,ecg / ekg with report,1,diagnostic
+192618,"ecg / electrocardiogram, routine w/ at least 12 leads; w/ interpretation & report",1,diagnostic
+192619,ecg / other electrocardiography [ecg,1,diagnostic
+192620,ecg / prim. specialist - insurance,1,diagnostic
+192621,ecg / specialist - insurance,1,diagnostic
+192622,ecg 12 lead-ucc,1,diagnostic
+192623,ecg 3,1,diagnostic
+192624,ecg 33,1,diagnostic
+192625,ecg 4010,1,diagnostic
+192626,ecg ???? ????? ???,1,diagnostic
+192627,ecg ????? ???,1,diagnostic
+192628,ecg after 1st time,1,diagnostic
+192629,ecg at home,1,diagnostic
+192630,ecg by monitor less than 1hr,2,diagnostic
+192631,ecg charges,3,diagnostic
+192632,ecg done by nurse on the ward,1,diagnostic
+192633,ecg done on the ward,1,diagnostic
+192634,ecg effort,1,diagnostic
+192635,ecg elctrodes,1,diagnostic
+192636,ecg electa (a) 519,1,diagnostic
+192637,ecg electa (p,1,diagnostic
+192638,ecg electro,2,diagnostic
+192639,ecg electrocardiogram complete,1,diagnostic
+192640,ecg electrode (adult) r-oo-s,1,diagnostic
+192641,ecg electrode (pediatric,1,diagnostic
+192642,ecg electrode adult,2,diagnostic
+192643,ecg electrode adult for stress test (fs-50 / leh-36,1,lab_test
+192644,ecg electrode adult sx-50,1,diagnostic
+192645,ecg electrode blue sensor r-00-s/25 (ambu,1,diagnostic
+192646,"ecg electrode paedia, fiab",1,diagnostic
+192647,ecg electrode pedia,2,diagnostic
+192648,ecg electrode r-00s blue senso,1,diagnostic
+192649,ecg electrodes,2,diagnostic
+192650,ecg electrodes (3 pcs,1,diagnostic
+192651,ecg electrodes (term,1,diagnostic
+192652,ecg electrodes -inactive,1,diagnostic
+192653,ecg electrodes / pc,1,diagnostic
+192654,ecg electrodes adult,2,diagnostic
+192655,ecg electrodes adults (sat,1,diagnostic
+192656,ecg electrodes ambu adult # roos,1,diagnostic
+192657,ecg electrodes disp pedia,1,diagnostic
+192658,ecg electrodes f/mri cat#2700-030 conmed,1,imaging
+192659,ecg electrodes paediatric,1,diagnostic
+192660,ecg electrodes pedia,2,diagnostic
+192661,ecg electrodes pedia (sat,1,diagnostic
+192662,ecg electrodes pedia/neonatal # f0958n / kfs140,1,diagnostic
+192663,"ecg electrodes, adult",1,diagnostic
+192664,ecg emergency,1,diagnostic
+192666,ecg event recorder - wireles per each 1 month,2,diagnostic
+192667,ecg event recorder - wireles per each 1 week,1,diagnostic
+192668,ecg examination - service charge,1,diagnostic
+192669,ecg examination-service charge,1,diagnostic
+192670,ecg exercise,1,diagnostic
+192671,ecg exercise (h,1,diagnostic
+192672,ecg exercise cardiovascular stress test,1,lab_test
+192674,ecg electrocardiogram,1,diagnostic
+192675,ecg electrocardiography,1,diagnostic
+192676,ecg electrode (adult #1001,1,diagnostic
+192677,ecg electrode for premature #brs-50-k-eu-12,1,diagnostic
+192678,ecg electrode pediatric,1,diagnostic
+192680,ecg electrodes (adult,1,diagnostic
+192682,ecg electrodes for adults,1,diagnostic
+192683,ecg electrodes for premature #br-50-k-eu-12,1,diagnostic
+192686,ecg examination,1,diagnostic
+192687,ecg for baby,1,diagnostic
+192688,ecg globemed,1,diagnostic
+192689,ecg gp,2,diagnostic
+192690,ecg holter,1,diagnostic
+192691,ecg holter monitoring 24 hrs,1,diagnostic
+192692,ecg holter monitoring 24 hrs-pkg,1,diagnostic
+192693,ecg in icu,1,diagnostic
+192694,ecg in the clinic,2,diagnostic
+192695,ecg inpatient,1,diagnostic
+192696,ecg internal,2,diagnostic
+192697,ecg interpretation and report,2,diagnostic
+192698,ecg leads neonatal disp. 3m-per pcs,1,diagnostic
+192699,ecg machine,1,diagnostic
+192700,ecg monitering,1,diagnostic
+192701,ecg monitor,1,diagnostic
+192702,ecg monitor - per day,1,diagnostic
+192703,"ecg monitor/24 hrs, holter w/ monitor, data analysis, physician review & interpretation",1,diagnostic
+192704,"ecg monitor/24 hrs, holter w/ monitor, data analysis, physician review & interpretation - ( depost",1,diagnostic
+192705,"ecg monitor/48 hrs, holter w/ monitor, data analysis, physician review & interpretation",1,diagnostic
+192706,ecg monitor/day,1,diagnostic
+192708,ecg monitoring (inp,1,diagnostic
+192709,ecg monitoring / hour,1,diagnostic
+192710,ecg monitoring during infusion,1,diagnostic
+192711,ecg monitoring electrodes adult,1,diagnostic
+192712,ecg o/hospital,1,diagnostic
+192713,ecg opd,1,diagnostic
+192714,ecg paper 1 chanel 50mmx30mtr #8574,1,eyewear
+192715,ecg paper 1 channel 50mmx30mm,1,diagnostic
+192716,ecg paper 145*25,1,diagnostic
+192717,ecg paper 210*300*200 burdick 11560,1,diagnostic
+192718,ecg paper 50mm,1,diagnostic
+192719,ecg paper for mac 1200 a4 size 214x280x150 shts,1,diagnostic
+192720,ecg paper op-222 te 110x140x20m,1,diagnostic
+192721,ecg paper op69te 210x30 fukuda,1,diagnostic
+192722,ecg paper roll sc (112*30 11437,1,diagnostic
+192723,ecg paper size a4,1,diagnostic
+192724,"ecg papers thermal, for ecg machine cp200i,welch allyn",1,diagnostic
+192725,ecg portable,2,diagnostic
+192726,ecg procedure under er,2,diagnostic
+192728,ecg paper schiller at-2 (215sheets,1,diagnostic
+192729,ecg procedure,1,diagnostic
+192730,ecg record/review,1,diagnostic
+192731,ecg recording averaged,1,diagnostic
+192732,ecg recording paper 50x30,1,diagnostic
+192733,ecg repeated - pediatrics,2,diagnostic
+192734,ecg rest,1,diagnostic
+192735,ecg resting,1,diagnostic
+192736,ecg rhythm strip,4,diagnostic
+192737,ecg rhythym strip,1,diagnostic
+192738,ecg roll paper 63 30 for cardio machine,1,diagnostic
+192739,ecg routine,1,diagnostic
+192740,ecg rythym strip,2,diagnostic
+192743,ecg routine ecg w/least 12 lds i and r only non-or,1,diagnostic
+192744,ecg routine ecg w/least 12 lds i&r only non-or,1,diagnostic
+192746,ecg stnad cable marquette.3 lead aia,1,diagnostic
+192747,ecg strap,1,diagnostic
+192748,ecg stress test,1,lab_test
+192749,ecg telemetary,1,diagnostic
+192750,ecg test,2,lab_test
+192751,ecg w / exercise-med. attn(stress test,2,lab_test
+192753,"ecg w / exercise-med. attn(stress test),m-int0134",1,lab_test
+192754,ecg w / exercise-medical attn,1,diagnostic
+192755,ecg w / exercisemedical attn,1,diagnostic
+192756,ecg w /exercise-medical attn,1,diagnostic
+192757,ecg w/ reading,2,diagnostic
+192758,ecg w/ report,1,diagnostic
+192759,ecg w/-exercise-medical attn,2,diagnostic
+192761,ecg w/exercise & med.attention,1,diagnostic
+192762,ecg w/exercise (treadmill stress test,1,lab_test
+192763,ecg w/exercise under strict medical supervision,1,diagnostic
+192764,ecg w/report,1,diagnostic
+192765,ecg with ergometry,1,diagnostic
+192766,ecg with interperetion print,1,diagnostic
+192767,ecg with interpretation,2,diagnostic

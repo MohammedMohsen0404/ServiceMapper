@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+183924,"debridement of cut wound, tendon repair & skin graft p/d",1,procedure
+183925,"debridement of cut wound, tendon repair p/d",1,procedure
+183926,debridement of deep wound,1,procedure
+183927,debridement of deep wound (under l.a,1,procedure
+183928,"debridement of deep wound + split skingraft,under ga(small",1,procedure
+183929,debridement of diabetic foot infection - major,1,procedure
+183930,debridement of diabetic foot infection - minor,1,procedure
+183931,debridement of diabetic foot infection -major,1,procedure
+183932,debridement of diabetic foot p/d,1,procedure
+183933,debridement of gangreneous skin p/d,1,procedure
+183934,debridement of gangreneous skin,1,procedure
+183935,debridement of gangrenous skin p/d,1,procedure
+183936,debridement of skin lesion complex,1,procedure
+183937,debridement of skin lesion simple,1,procedure
+183939,debridement of subcutaneous tissue (diabetic foot) clinic or bedside,1,procedure
+183940,debridement of subcutaneous tissue (diabetic foot) in or,1,procedure
+183941,debridement of ulcer,1,procedure
+183942,debridement of wound & dressing under g.a,1,supplies
+183946,debridement of wound g. a. p/d,1,procedure
+183947,debridement of wound g.a. p/d,1,procedure
+183948,debridement of wound under la,1,procedure
+183950,debridement of burn < 5%,1,procedure
+183951,debridement of deep laceration (microscopic,1,procedure
+183952,debridement of deep wound with direct closure,1,procedure
+183953,debridement of diabetic foot(large)g.a,1,procedure
+183954,debridement of fingernail,1,procedure
+183955,debridement of fournier gangrene,1,procedure
+183956,"debridement of open fracture site, unilateral",1,procedure
+183957,debridement of small wound / ulcer,1,procedure
+183958,debridement of sternotomy wound,1,procedure
+183960,debridement of toenailunilateral,1,procedure
+183961,debridement open fracture carpals and metacarpals,1,procedure
+183962,debridement open fracture phalanges of hand,1,procedure
+183963,debridement small wound la,1,procedure
+183964,debridement small wound la pkg,1,procedure
+183965,debridement wound -large la,1,procedure
+183966,debridement wound or abscess,1,procedure
+183967,debridement || & || lavage peritoneal cavity,1,procedure
+183968,debridement: skin subcutaneous tissue muscle and bone,1,imaging
+183969,"debridement: skin, subcutaneous tissue, muscle, and bone",1,imaging
+183970,"debridement; skin, and subcutaneous tissue",1,procedure
+183971,debridementlargewound,1,other
+183972,debridment (large) pkg,1,procedure
+183973,debridment (med,1,procedure
+183974,debridment (med)-debridment (med,1,procedure
+183975,debridment (moderate) pkg,1,procedure
+183976,debridment major,1,procedure
+183978,debridment of diabetic foot under ga,1,procedure
+183979,debridment of necotizing fascitis,1,procedure
+183980,debridment of wound large under (ga,1,procedure
+183981,debridment of wound large under (ga) los dpu,1,procedure
+183982,debridment of wound large under (l.a,1,procedure
+183983,debridment or amputation finger or toe pd,1,procedure
+184000,debulking of ovarian cancer hbso + omentectomy + removal of antero abdominal wall,1,procedure
+184005,decadron i.v.1033,1,lab_test
+184015,decalcification of specimen,1,other
+184016,decalcification procedure for surgical pathology examination,1,procedure
+184025,deceased body transfer to madina,1,procedure
+184026,decidious tooth extrac with abscess,1,dental
+184027,decidious tooth extraction,2,dental
+184028,decidious tooth extraction - insurance,1,dental
+184029,decidous surgical extraction,1,dental
+184030,decidous teath extraction,1,dental
+184031,deciduase extraction children,1,dental
+184035,deciduous tooth extraction ( child,1,dental
+184036,deciduous tooth extraction ( child) milky,2,dental
+184037,deciduous tooth extraction (child) milky,1,dental
+184038,deciduous tooth extraction _ child_ milky,1,dental
+184040,deciduous tooth pulpotomy,1,dental
+184041,deciduous tooth restoration,1,dental
+184042,deciduous tooth restoration with endodontics,1,dental
+184043,deciduous root extraction,1,dental
+184045,deciduous tooth simple composite filling,1,dental
+184047,deciduous tooth filling,1,dental
+184049,declotting of a-v fistula,1,other
+184050,decoding stitches,1,procedure
+184051,decomoressive craniotomy,1,procedure
+184052,"decomp lmbr spinal cnl, 1lvl",1,other
+184053,"decomp lmbr spinal cnl, >= 2 lvl",1,other
+184054,decompression drx9000 (10 session,1,physiotherapy
+184056,"decompression fasciotomy of calf for acute compartment syndrome, unilateral",1,procedure
+184057,decompression of bullosa (unilateral,1,procedure
+184058,decompression of lumbar forminal using lumbar spacer - including instrumentation - 3 level - includi,1,lab_test
+184062,"decompression of cervical spinal cord, 2 or more levels",1,imaging
+184064,decompression of spinal nerve roots,1,procedure
+184066,"decompression of subacromial space, unilateral",1,procedure
+184067,decompression of the spine with arthrodesis (conclusive,1,procedure
+184068,"decompression, more than 2 vertebral segments; cervical , lumbar or thoracic",1,imaging
+184069,decompressive craniectomy,1,procedure
+184071,decong,1,other
+184075,decortication of pleural,1,other
+184076,"decortication, pulmonary, (separate procedure); total",1,other
+184187,decozal0.05% pead nd,1,other
+184188,decozal0.05%nasaldrops10ml,1,other
+184189,decozal0.1%nasaldrops10ml,1,other
+184203,decryst 80,1,other
+184214,decryst-40,1,other
+184215,decryst-80,1,other
+184216,decubitus (pressure) ulcer dressing small size,2,supplies
+184219,deep abcess incision and drainage under ga,1,procedure
+184220,deep abscess drainage under g.a,1,procedure
+184222,deep dental filling,1,dental
+184224,deep f.body removal g.a under screen,1,procedure
+184226,deep foreign body extraction,1,dental
+184229,deep freeze pain relief cold patch (4/box,1,supplies
+184231,deep freeze patch 4s,1,supplies
+184233,deep heat menthol-methyl salicylate-camphor 1.5/4,1,other
+184234,deep heat pain relief heat patch (4/box,1,supplies
+184235,deep heat pain relief heat patch 4s,1,supplies
+184237,deep large hematoma exploration,1,procedure
+184239,deep scaling & polishing,1,dental
+184242,deep scaling curettage & root planning full mouth 318,1,dental
+184243,deep scaling one jaw,1,dental
+184244,deep scaling one jaw (root planing,1,dental
+184245,deep scaling one tooth,1,dental
+184246,deep scaling one tooth (root planing,1,dental
+184250,deep scalling & polishing,1,dental
+184251,deep sclerectomy,1,procedure
+184253,deep sclerectomy with mmc,1,procedure
+184254,deep sclerotomy + healaflow + mmc,1,procedure
+184255,deep system u/s two legs,2,imaging
+184256,deep wound toilet,1,procedure
+184257,deep bony impaction,1,other
+184258,deep corneal f.b. with rust,1,lab_test
+184259,deep cornical fb removal,1,procedure
+184260,"deep cut wound large, more than 10 stitches",1,procedure
+184261,"deep cut wound medium, between 5-10 stitches",1,procedure
+184262,"deep cut wound small, less than 5 stitches",1,procedure
+184264,"deep laceration, debridement and closure, medium",1,procedure
+184265,"deep laceration, debridement and closure, large",1,procedure
+184266,deep root planning one quadrent,1,supplies
+184268,deep scaling & root planing,1,dental
+184269,deep scaling & root planning + curettage - single,1,dental
+184270,deep scalling,1,other
+184271,deep stitches,1,procedure
+184272,deep wound under ga,1,other
+184273,deep wounds dressing,1,supplies
+184284,default material service,1,other
+184287,defibrillator c.p.r adult,1,lab_test
+184288,definitive identification yeast fungi organism in culture,1,lab_test
+184337,deflatdrops40mg30ml,1,other
+184376,degasin 32 softcap,1,other
+184381,"degenerative nervous system disorders, intermediate complexity",1,inpatient
+184382,"degenerative nervous system disorders, minor complexity",1,inpatient
+184383,dehydroepiandosterone sulfate(dheas,1,other
+184384,dehydroepiandosterone sulphate(dhea-s) serum,1,lab_test
+184385,"dehydroepiandro sulphate (dhea-s), serum",1,lab_test
+184387,"dehydroepiandrosterone (dhea), serum",1,lab_test
+184391,dehydroepiandrosterone sulfate - ?????,1,other
+184392,dehydroepiandrosterone dhea (pathology test,1,lab_test
+184393,dehydroepiandrosterone sulfate,1,other
+184395,dehydroepiandrosterone sulphate level,1,lab_test
+184411,delayed suture of flexor tendon of hand,1,supplies
+184413,delayed milestone,1,other
+184414,deleboo green apple multibitamin,1,other
+184419,deleboo ora,1,other
+184421,deleted221005,1,other
+184422,deleted221015150,1,other
+184423,delica lancet,1,supplies
+184424,delica plus sterile lancets 100,1,supplies
+184425,"delirium, major complexity",1,inpatient
+184426,"delirium, minor complexity",1,inpatient
+184427,delivery / caeserian package4days,1,procedure
+184429,delivery by cesarean section,1,procedure
+184430,delivery consultation,1,procedure
+184432,delivery room resuscitation,1,procedure
+184433,delivery w/vaccum/forcepts/episiotomy(1d,1,procedure
+184434,"delivery by forceps/ventous+episitomy+normal baby care, one baby",1,supplies
+184436,delivery room excluding consumables,1,procedure
+184437,delivery room including consumables,1,procedure
+184438,"delivery, cesarean - including postpartum care and routine baby care",1,procedure
+184439,"delivery, cesarean, repeated - including postpartum care and routine baby care",1,procedure
+184440,"delivery, cesarean, triplets - including postpartum care and routine baby care",1,procedure
+184441,"delivery, cesarean, twins - including postpartum care and routine baby care",1,procedure
+184442,"delivery, normal ( w/o baby care) (1d",1,procedure
+184443,"delivery, vaginal - assisted with forceps or vacuum - including postpartum care and routine baby car",1,procedure
+184444,"delivery, vaginal - including postpartum care and routine baby care",1,procedure
+184445,"delivery, vaginal, non-viable fetus",1,procedure
+184446,"delivery,ceasarian section (3d",1,procedure
+184456,delux,1,other
+184457,deluxe accommodation (standard suite,1,eyewear
+184458,deluxe room (private,1,eyewear
+184466,"dementia and other chronic disturbances of cerebral function, minor complexity",1,lab_test
+184479,"demineralized bone fibers moldable, 2.5cc, 100%, life net #bl-1800-02",1,imaging
+184480,"demineralized bone matrix, 5cc",1,imaging
+184481,demineralzied strip,1,supplies
+184482,demodex lid scrubbing and parasite treatment,1,other
+184483,"demonstration and/or evaluation of patient utilization of an aerosol generator, nebulizer, metered d",1,supplies
+184484,"demonstration and/or evaluation of patient utilization of an aerosol generator, nebulizer, metered dose inhaler or ippb device",1,supplies
+184485,den- bitewings - single films,1,other
+184490,den-abscess drainage,1,procedure
+184491,den-amalgum fillining,1,other
+184492,den-composite filling,1,dental
+184493,den-extraction/tooth/root (any tooth,1,dental
+184494,den-local anaesthesia (if no procedure,1,procedure
+184495,den-multi rct tooth wit filling,1,dental
+184496,den-one rct tooth with filling,1,dental
+184497,den-surgical extraction of impacted/wisdom tooth,1,dental
+184498,den-surgical extraction-simple,1,dental
+184499,den-two rct tooth with filling,1,dental
+184533,denal consultation,1,consultation
+184534,dengo,1,other
+184536,dengue ab(igg & igm,1,lab_test
+184539,dengue antigen (nsi,1,lab_test
+184540,dengue antigen or abs,1,lab_test
+184542,dengue fever ab,1,lab_test
+184544,dengue fever antibody total antibodies,1,lab_test
+184545,dengue fever serology (igg/igm,1,lab_test
+184547,dengue fever test - ????? ??? ?????,1,lab_test
+184548,"dengue fever virus antibodies, igg and igm, serum",1,lab_test
+184550,dengue i.g.m,1,lab_test
+184552,dengue igg - igm test,1,lab_test
+184557,dengue ns1 & antibody combo,1,lab_test
+184558,dengue ns1 ag & igg/igm ab,1,lab_test
+184559,dengue ns1 ag (qualitative,1,lab_test
+184560,dengue ns1 ag; single-step,1,lab_test
+184566,dengue virus ab,1,lab_test
+184567,dengue virus ab. igg & igm,1,lab_test
+184569,dengue virus abs (igg & igm,1,lab_test
+184574,dengue virus igg,1,lab_test
+184575,"dengue virus rna, qualitative, real-time pcr{q}",1,lab_test
+184576,dengue virus test,1,lab_test
+184577,"dengue virus, abs-igm",1,lab_test
+184579,dengue fever igm/ igg,1,lab_test
+184580,dengue fever igg & igm,1,lab_test
+184583,dengue fever ab's (igg+igm,1,lab_test
+184584,dengue fever antibodies,1,lab_test
+184587,dengue rapid,1,other
+184590,dengue virus igm igg,1,lab_test
+184591,denguevvirus antibody,1,lab_test
+184592,dengur virus igg,1,lab_test
+184593,dengur virus igm /igg,1,lab_test
+184594,denis browne splints - (ms,1,other
+184595,denny,1,other
+184599,denque,1,other
+184600,dens (1v,1,imaging
+184608,dental specialist 1,1,dental
+184609,dental or booking,1,dental
+184610,dental & er consultation,1,dental
+184611,dental & er consultation - ??? ???? ??? ???????,1,dental
+184615,dental - maxillofacial surgeon (dr. kamal ravikumar,1,dental
+184616,dental c.t,1,dental
+184617,dental cleaining,1,dental
+184621,dental care,1,dental
+184623,dental cleaning (adult,1,dental
+184624,dental cleaning (child,1,dental
+184625,dental cleaning / moderate,1,dental
+184626,dental clinics_consultant fee,1,dental
+184627,dental comsultation,1,dental
+184628,dental con,2,dental
+184631,dental consulatation,2,dental
+184633,dental consulation and dignosis,1,dental
+184636,dental consultaiton,1,dental
+184638,dental consultant cons,1,dental
+184640,dental consultant consultation fee,1,dental
+184642,dental consultant on call,1,dental
+184644,dental consultation 014,1,dental
+184646,dental consultation - specialist without proceduer,1,dental
+184647,dental consultation - tawuniya,1,dental
+184648,dental consultation 2,1,dental
+184649,dental consultation during duty,1,dental
+184650,dental consultation fee (1,1,dental
+184652,dental consultation fee - ncci,1,dental
+184654,dental consultation service,1,dental
+184656,dental consultation and diagnosis,1,dental
+184658,dental consultation fee (8,1,dental
+184659,dental consultation without proceduer,1,dental
+184667,dental consultation-specialist,1,dental
+184668,dental consulting,1,dental
+184670,dental conultation,2,dental
+184671,dental cosultaion,1,dental
+184673,dental cyst - less than 15 mm,1,dental
+184679,dental extraction (paed,1,dental
+184680,dental extractions and restorations,1,dental
+184685,dental g p,1,dental
+184686,dental g.p consultation,1,dental
+184689,dental gp consultation fee,1,dental
+184691,dental general practitioner,1,dental
+184694,dental gp- fee,1,dental
+184695,dental gum treatment,1,dental
+184696,dental implant - simple case,1,dental
+184697,"dental implant, one implant (prosthetic part",1,dental
+184698,"dental implant, one implant (surgical part) - anthogyr implant system straumann group",1,dental
+184699,"dental implant, one implant (surgical part",1,dental
+184700,dental implants,1,dental
+184701,dental incission,2,dental
+184703,dental opg,1,imaging
+184704,dental or surgery - additional 1 hour,1,dental
+184706,dental panorama ???? ????????,1,imaging
+184709,dental procedure under anesthesia,1,dental
+184711,dental prophylxis for adult by hygienist - al rajhi takaful,1,dental
+184712,dental prophylxis for children by hygienist - al rajhi takaful,1,dental
+184713,dental rct,1,dental
+184714,dental specialist i exam,1,dental
+184716,dental senior registrar consultation,1,dental
+184717,dental senior specialist fee,1,dental
+184720,dental simple x-ray,1,imaging
+184722,dental specialist 1 cons,1,dental
+184723,dental specialist 2 cons,1,dental
+184725,dental specialist consultation fee,1,dental
+184727,dental specialist fee without servces,1,dental
+184728,dental specialist visit,1,dental
+184729,dental speclist,1,dental
+184733,dental surgery - 1 hour,1,dental
+184734,dental surgery - 2 hours,1,dental
+184735,dental surgery - 3 hours,1,dental
+184736,dental x ray one filim,3,imaging
+184738,dental x ray - ???? ?????,1,imaging
+184741,dental x ray one view,2,imaging
+184742,dental x ray film,1,imaging
+184744,dental x ray one view 022,1,imaging
+184749,dental x-ray one view,2,imaging
+184751,dental x-ray peri-apical,2,imaging
+184753,dental x-ray one view 022,1,imaging
+184757,dental xray one view,1,imaging
+184759,dental xray 1f,1,imaging
+184760,dental anchor,1,dental
+184761,dental cleaning( deep,2,dental
+184763,dental composite resin,1,dental
+184764,dental composite resin ( composite filling,1,dental
+184765,dental consaltaion,1,dental
+184766,dental conslt,1,dental
+184772,dental consultat,1,dental
+184774,dental consultation 01006,1,dental
+184775,dental consultation 1,1,dental
+184777,"dental consultation by referral, including examination 30 or more minutes",1,dental
+184778,dental consultation extended,1,dental
+184783,dental cotton roll,1,dental
+184784,dental dietary advice,1,dental
+184786,dental examination fees (consultant,1,dental
+184787,dental examination fees (specialist,1,dental
+184788,dental file,1,dental
+184789,dental hypersensitvity,1,dental
+184790,"dental impression material kit, single-use",1,dental
+184793,dental post,1,dental
+184794,"dental power tool system handpiece, remotely-driven",1,dental
+184795,dental procedures under general anesthesia/severe,1,dental
+184796,dental prophylaxis - complex,1,dental
+184797,dental prophylaxis - moderate,1,dental
+184798,dental prophylaxis - pedo - complex,1,dental
+184799,dental prophylaxis - pedo - simple,1,dental
+184800,dental prophylaxis - simple,1,dental
+184802,dental scaling polishing,1,dental
+184807,dental surgery,1,dental
+184808,"dental syringe needle, single-use",1,dental
+184809,"dental treatment involving removal or repair of soft tissue, not elsewhere classified",1,dental
+184810,dental tx inv rmvl or rep soft tissue nec,1,dental
+184811,dental unfilled resin sealant/coating,1,dental
+184813,dental visit in duty,1,dental
+184816,dental x ray flim,1,imaging
+184820,dentalfollow up,1,other
+184821,dentalbiteradiography,1,other
+184822,dentalconsultation,1,other
+184823,dentan examination,1,consultation
+184824,dentel comsultation,1,other
+184825,dentel consultation,2,consultation
+184826,dentel sp,1,other
+184827,"dentemp ora-guard super strong custom fit dental guard 1""s",1,dental
+184830,dentifrice localis,1,other
+184831,dentinox,1,other
+184846,dentinoxdrops100ml,1,other
+184848,dentist ( general,1,consultation
+184849,dentist ( specialist,1,consultation
+184850,dentist - consultation - ??? ???? ???????,2,consultation
+184852,dentist chek-up,1,supplies
+184853,dentist cons. fee,1,consultation
+184854,dentist consaltation,1,consultation
+184855,dentist consltn,1,consultation
+184856,dentist consult,1,consultation
+184857,dentist consultaion,1,consultation
+184863,dentist fees,1,consultation
+184864,dentist specialist consultation,1,consultation
+184865,dentist visit fee,1,consultation
+184866,dentist check up,1,consultation
+184868,dentist(general,1,consultation
+184869,dentonet sensetive teeth brush,1,dental
+184874,deoxyribonucleic%20acid%20(dna)%20antibody%3b%20single%20stranded,1,lab_test
+184875,dep impacted surgical ext,1,procedure
+184876,depaken,1,other
+184932,depakinechrono500mg30tab,1,other
+184933,deployment of biliary stent,2,supplies
+184999,depo-medrol40 mg,1,other
+185005,depomedrol (vail,1,other
+185006,depomedrol 1/m,1,other
+185007,depomedrol 40,1,other
+185047,depressed fracture of skull & decompression,1,procedure
+185051,depuy bipolar head,1,supplies
+185052,der-cautery up to 10 warts (electric,1,procedure
+185053,der-cautery up to 3 warts (electric,1,procedure
+185054,derapage frm stealth 26,1,eyewear
+185055,dergit,1,other
+185056,deriva bpo,1,other
+185157,dermattopicallotion30ml,1,other
+185158,dermattopicalsolution30ml,2,other
+185169,dermal anaesthesia applicator,1,procedure
+185170,dermal surgical adhesive/sealant applicator,1,supplies
+185183,dermatin cream12g,1,other
+185198,dermatin1%solution20ml,1,other
+185199,dermatologest consultation,1,consultation
+185200,dermatologist - ??? ??????? ???????,1,other
+185201,dermatologist cons. fee,1,consultation
+185204,dermatology,2,other
+185205,dermatology clinics_consultant fee,1,consultation
+185206,dermatology clinics_specialist fee,1,consultation
+185208,dermatology consultant cons,1,consultation
+185209,dermatology consultant dr. madallah alenazi,1,consultation
+185214,dermatology examinition,1,other
+185215,dermatology ms virtual follow-up,1,consultation
+185216,dermatology nurse,1,consultation
+185217,dermatology oncology follow-up,1,consultation
+185218,dermatology oncology new follow-up,1,consultation
+185220,dermatology specialist 1 cons,1,consultation
+185221,dermatology specialist 2 cons,1,consultation
+185222,dermatology specialist cons,1,consultation
+185224,dermatology vascular anomalies follow-up,1,consultation
+185225,dermatology vascular anomalies new follow-up,1,consultation
+185226,dermatology walk-in follow-up,1,consultation
+185229,dermatology examination fees (specialist,1,consultation
+185232,dermatology specialist . e x,2,consultation
+185234,"dermatome blade, single-use",1,supplies
+185235,dermatulle (10x20cm,1,other
+185236,dermis graft,1,procedure
+185238,dermo silicon size 18 i-401318,1,supplies
+185239,dermo silicon size 22 i-401322,1,supplies
+185240,dermo silicon size 23.5 i-401323.5,1,supplies
+185241,dermo silicon size 26.5 i-401326.5,1,supplies
+185242,dermo silicon size 28 i-401328,1,supplies
+185243,dermo silicon size 30 i-401330,1,supplies
+185244,dermo silicon size 32 i-401332,1,supplies
+185245,dermo silicon size 34 i-401334,1,supplies
+185246,dermo silicon size 36 i-401336,1,supplies
+185247,dermo silicon size 40 i-401340,1,supplies
+185252,dermoid cyst excision (l.a,1,procedure
+185253,dermoid cyst under local anaesthesia,1,procedure
+185254,dermoid excision,1,procedure
+185255,dermoid small p/d,1,other
+185258,dermoidcystexcision(g.a,1,lab_test
+185260,dermojet / session ( including medicine,1,physiotherapy
+185266,"dermosol vitiligo (skin blotches) 1""s",1,other
+185317,dermovatecream25g,1,other
+185318,dermovatecream25gm,1,other
+185319,dermovateointment,1,other
+185320,dermovateointment25g,2,other
+185325,descemet stripping automated endothelial keratoplasty (d.s.a.e.k,1,procedure
+185328,"describe proceduree in item 114 when,because of the extent or degree of calculus and additional",1,other
+185329,desenitising precedure - per appointment,1,consultation
+185330,desensitising,1,dental
+185334,desensitising procedure dental,1,dental
+185335,desensitising procedure dental (flouride,1,dental
+185338,"desensitising procedure, dental",1,dental
+185339,desensitising procedure-per appointment,1,dental
+185340,desensitizer/quadrant,1,other
+185341,desensitizing agent (per arch/at least 3 teeth,1,dental
+185342,desentisizing application/ tooth,1,dental
+185346,desipramine (norpramin) (pertofrane,1,other
+185347,desire 400,1,other
+185403,desloughing of ulcer/wound medium + dressing (med,1,supplies
+185404,desmopressin,1,other
+185408,desoxycorticosterone,1,other
+185409,despada 1016 fr c:2,1,eyewear
+185410,despada 1666 fr c:2 (clip,1,eyewear
+185411,despada 1781 fr c:4 (kids) (clip,1,eyewear
+185412,despada 1939 fr c:3 (clip,1,eyewear
+185413,despada 2027 fr c:1 m.blk (clip,1,eyewear
+185414,despada 5022 fr c:2,1,eyewear
+185415,despada 5023 fr c:2 (clip,1,eyewear
+185416,despada 5023 fr c:3 (clip,1,eyewear
+185417,despada 5030 fr c:3,1,eyewear
+185418,despada 5038 fr c:1,1,eyewear
+185419,despada 5042 fr c:2,1,eyewear
+185420,despada 5043 fr c:4,1,eyewear
+185421,despada 5044 fr c:2 (clip,1,eyewear
+185422,despada 5047 fr c:1 (clip,1,eyewear
+185423,despada 5047 fr c:3 (clip,1,eyewear
+185424,despada 5094 fr c:1 (clip,1,eyewear
+185425,despada 5108 fr c:2,1,eyewear
+185426,despada 5121 fr c:4,1,eyewear
+185427,despada 5127 fr c:1,1,eyewear
+185428,despada 5128 fr c:2,1,eyewear
+185429,despada 5234 fr c:2,1,eyewear
+185434,despada 869 fr c:4,1,eyewear
+185435,despada 903 fr c:1,1,eyewear
+185436,despada 903 fr c:3,1,eyewear
+185437,despada 925 fr c:2,1,eyewear
+185438,despada 931 fr c:1,1,eyewear
+185439,despada 953 fr c:3,1,eyewear
+185440,despada 985 fr c:3,1,eyewear
+185441,"dest proc on aqueous or vitreous, unilateral",1,other
+185442,"dest proc on retina choroid post chamber, bilateral",1,other
+185457,destroyed root extraction,1,dental
+185458,destruct proc retina choroid post chamber bil,1,other
+185459,destruct proc retina choroid post chamber uni,2,other
+185461,destruction (eg laser surgery electrosurgery cryos,1,procedure
+185462,destruction (eg laser surgery electrosurgery cryosurgery chemosurgery surgical curettement) all benign or premalignant lesions (eg actinic keratoses) other than skin tags or cutaneous vascular prolife,1,procedure
+185463,destruction (eg laser surgery electrosurgery cryosurgery chemosurgery surgical curettement) of flat warts molluscum contagiosum or milia; up to 14 lesions,1,procedure
+185464,destruction of 1-10 lesions body,1,other
+185465,destruction of 1-10 lesions body 1/3,1,other
+185466,destruction of 1-10 lesions body1/3,1,other
+185467,destruction of 1-10 lesions body2/3,1,other
+185468,"destruction by any method of flat warts, molluscum",1,other

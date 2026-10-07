@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+243116,free review,2,other
+243117,free secondary tratment for same condition gp,1,consultation
+243118,free secondary tratment for same condition specialist,1,consultation
+243119,free secondary treatment for same condition consultant,2,consultation
+243120,free secondary treatment for same condition gp,2,consultation
+243121,free skin graft (autogenous) small->c86.6-s,1,procedure
+243122,free skin graft (autogenous)large->c86.6-l,1,procedure
+243123,free skin graft (autogenous)medium->c86.6-m,1,procedure
+243124,free skin graft for extensive area,1,procedure
+243125,free skin graft-large,1,procedure
+243126,free skin graft-medium,1,procedure
+243127,free skin graft-small,1,procedure
+243128,free soft tissue graft per quadrant,1,procedure
+243129,free style optium strips,2,supplies
+243130,free style 2 glucose monitoring sensor,1,lab_test
+243131,free style 2 glucose monitoring system,1,lab_test
+243132,free style flash glucose monitoring system,1,lab_test
+243133,free style lancet - 100 s,1,supplies
+243134,free style lancet 200,1,supplies
+243135,free style libre 2 glucose monitoring system reader x 1,1,lab_test
+243136,free style libre 2 glucose monitoring system sensor x 1,1,lab_test
+243137,free style libre 2 reader,1,other
+243138,free style libre 2 reader device,1,other
+243139,free style libre 2 sensor,2,supplies
+243141,free style libre device,1,other
+243142,free style libre glucose monitoring system reader x 1,1,lab_test
+243143,free style libre glucose monitoring system sensor x 1,1,lab_test
+243144,free style libre reader,1,other
+243145,free style libre reader device,1,other
+243146,free style libre sensor,2,supplies
+243147,free style libre-2 b/g reader,1,other
+243148,free style libre-2 b/g sensor,1,supplies
+243149,free style libre2 sensor device,1,supplies
+243150,"free style libree 2 device , abbott",1,other
+243151,"free style libree 2 sensor , abbott",1,supplies
+243152,free style monitoring system reader,1,consultation
+243153,free style optium neo glucometer,1,supplies
+243154,free style optium strip,1,supplies
+243156,free style sensor,1,supplies
+243157,free style strips,1,supplies
+243158,free style sugar strips,1,supplies
+243159,free spiecal consultation,1,consultation
+243160,free t 3,2,other
+243161,free t 4,3,other
+243163,free t3 (ft3,2,lab_test
+243164,free t3 (ft3) - serum,1,lab_test
+243165,free t3 (ft3) - serum-5-16-120838,1,lab_test
+243166,free t3 (s,1,lab_test
+243167,free t3 (triiodothyronine,1,lab_test
+243169,free t3 - 312,1,lab_test
+243170,free t3 - lab,1,lab_test
+243171,free t3 - lab test,1,lab_test
+243172,free t3 - triiodothyronine,3,lab_test
+243174,free t3 da,1,lab_test
+243175,free t3 fpia,1,lab_test
+243178,free t3 or triiodothyronine,1,lab_test
+243180,free t3-lab test,1,lab_test
+243184,free t4 (ft4,3,lab_test
+243185,free t4 (ft4) - serum,1,lab_test
+243186,free t4 (ft4) - serum-5-16-120804,1,lab_test
+243188,free t4 - 265,1,lab_test
+243191,free t4 - lab test,1,lab_test
+243194,free t4 -lab,1,lab_test
+243195,free t4 /5.110,1,lab_test
+243196,free t4 fpia,1,lab_test
+243197,free t4 free tetraiodo thyronine,1,lab_test
+243198,free t4 _ free tetraiodo thyronine _,1,lab_test
+243199,free t4(14965,1,lab_test
+243200,free t4(ft4,1,lab_test
+243201,free t4(ft4)- serum,1,lab_test
+243203,free t4-lab test,1,lab_test
+243205,free tendon graft,1,procedure
+243206,free testerone,1,other
+243207,free testesterone,3,other
+243208,free testestrone,1,other
+243209,free testoserone,1,other
+243210,free testosteron,4,other
+243224,free testotsterone,1,other
+243225,free teststeron,1,other
+243226,free testtosterone,1,other
+243227,free thyroid index (fti,1,lab_test
+243228,free thyroxin (ft4,1,lab_test
+243234,free triiodothyronine (free t3,2,lab_test
+243235,free triiodothyronine (free t3)(518023,1,lab_test
+243236,free triiodothyronine(ft3,1,lab_test
+243237,free triiodthyronine (ft3,1,lab_test
+243238,free tsh,3,lab_test
+243239,free visit,1,consultation
+243241,free triiodothyronine (ft3,3,lab_test
+243242,free-testostorone,1,other
+243243,free. t3,1,lab_test
+243244,free.t3,2,lab_test
+243245,free.t4,2,lab_test
+243246,free/total psa ratio,1,lab_test
+243250,freedom frm f329,1,eyewear
+243251,"freedom stem 10.5 x75, (meril life) # rsuu2105-rk",1,supplies
+243252,freego 1.5 ltr topfill w / med port,1,other
+243253,freego 1.5ltr topfill with med port #ab-s810,1,lab_test
+243254,"freego feeding tube set 1.5 ltr, s810",1,supplies
+243255,"freego, enteral feeding set, (abbott) # s790",1,supplies
+243256,freeing of adhesions of peripheral nerve sac,1,other
+243257,freeing of adhesions of tongue - 071-f26.4,1,other
+243258,freesky frm 316,1,eyewear
+243259,freesky frm 317,1,eyewear
+243260,freestle optium neo meter,1,supplies
+243261,freestyl optium glucose stripes,1,lab_test
+243262,freestyl thin lancet 200 pcs,1,supplies
+243263,freestyle,1,other
+243264,freestyle blood glucose 50test strips,1,lab_test
+243265,freestyle blood glucose lanset box,1,lab_test
+243266,freestyle blood glucose test strip 12x50,1,lab_test
+243267,freestyle diabetic strips ketone 10stps,1,supplies
+243268,freestyle kit,2,other
+243269,freestyle libre,1,other
+243270,freestyle libre 2 b/g sensor,1,supplies
+243271,freestyle libre 2 cgm reader,1,other
+243272,freestyle libre 2 cgm sensor,1,supplies
+243273,freestyle libre 2 flash glucose monitoring system sensor,2,lab_test
+243274,freestyle libre 2 reader,2,other
+243275,freestyle libre 2 reader (dev) ^^,1,other
+243276,freestyle libre 2 reader-flash glu,1,other
+243277,freestyle libre 2 sensor,2,supplies
+243278,freestyle libre 2 sensor (1box=2weeks,1,supplies
+243279,freestyle libre 2 sensor (dev) ^^,1,supplies
+243280,freestyle libre 2 sensor (dev) ^^ (1box=2weeks,1,supplies
+243281,"freestyle libre 2 sensor box device, box",2,supplies
+243283,freestyle libre reader,2,other
+243284,freestyle libre readers,1,other
+243285,freestyle libre sensor,5,supplies
+243286,freestyle libre sensor fms,1,supplies
+243287,"freestyle libre sensor, dummy manf",1,supplies
+243289,freestyle libre-2 sensor,1,supplies
+243290,freestyle libre-2 sensor-flash glu,1,supplies
+243291,freestyle optimum strips,2,supplies
+243292,freestyle optium 50,1,other
+243293,freestyle optium 50 strip,1,supplies
+243294,freestyle optium 50 strips,3,supplies
+243295,freestyle optium bg monitoring system,1,consultation
+243296,freestyle optium bgm stp 50s,1,other
+243297,freestyle optium blood glucose test strips,2,lab_test
+243298,freestyle optium glucometer,1,supplies
+243299,freestyle optium glucose strips,1,lab_test
+243300,freestyle optium glucose test strip (pharmacy,1,lab_test
+243301,freestyle optium kit,1,other
+243302,freestyle optium neo device,1,other
+243303,freestyle optium neo gluco strips,1,supplies
+243304,freestyle optium neo monitor,1,other
+243305,freestyle optium plus strips 50 test,1,lab_test
+243306,freestyle optium set,1,other
+243307,freestyle optium strip 50,1,supplies
+243308,freestyle optium strips,2,supplies
+243309,freestyle optium strips 50,2,supplies
+243310,freestyle optium strips 50's,1,supplies
+243312,freestyle optium strips50,1,other
+243313,freestyle optium sugar meter,1,supplies
+243314,freestyle sensor,1,supplies
+243315,freestyle strips,1,supplies
+243316,freestyle sugar strips,1,supplies
+243317,freestyle test strip [ms01521sfdaa004,1,lab_test
+243318,freestyle test strips,2,lab_test
+243319,freestyle thin lancet,1,supplies
+243320,freestyle thin lancet 200 pcs,1,supplies
+243321,freesyle libre 2 reader,1,other
+243322,freet3,3,other
+243323,freet4,2,other
+243324,freetestosterone,1,other
+243329,frego s790 tube,1,supplies
+243334,frenectomy (complicated,1,procedure
+243335,frenectomy (lingual,1,procedure
+243336,frenectomy grade i,1,procedure
+243337,frenectomy lip / tongue g.a,1,procedure
+243338,frenectomy lip / tongue under g.a.- (p.d,1,procedure
+243339,frenectomy lip / tongue under l.a.- (p.d,1,procedure
+243340,"frenectomy, frenotomy, release tongue tie - 1day pkg",1,procedure
+243341,frenectomy-57,1,procedure
+243342,frenectomy/frenotomy la,1,procedure
+243343,"frenetomy , frenectomy and/or operculectomy",1,procedure
+243344,frenotomy or tongue tie release (l.a,1,procedure
+243345,freosac amp100mg (1amp,1,other
+243352,frescopad,1,other
+243355,fresenio,2,other
+243366,fresenius kabi feeding pump,1,supplies
+243372,fresh examination,1,consultation
+243375,fresh frozen plasma,3,lab_test
+243376,fresh frozen plasma (ffp,4,lab_test
+243377,fresh frozen plasma (net price,1,lab_test
+243378,fresh frozen plasma (paed,1,lab_test
+243380,fresh frozen plasma - n,1,lab_test
+243382,fresh frozen plasma -four units,1,lab_test
+243386,fresh frozen plasma 250cc,2,lab_test
+243387,fresh frozen plasma aliquot (testing & supervision,1,lab_test
+243388,fresh frozen plasma la00410242,1,lab_test
+243389,fresh frozen plasma negative,1,lab_test
+243390,fresh frozen plasma net price,1,lab_test
+243391,fresh frozen plasma screened,1,lab_test
+243392,fresh frozen plasma thawing each unit,2,lab_test
+243393,fresh frozen plasma tranfusion (unit from hospital,1,lab_test
+243394,fresh frozen plasma transfusion,1,lab_test
+243395,fresh frozen plasma two units,1,lab_test
+243396,fresh frozen plasma unit,2,lab_test
+243397,fresh frozen plasma unit (f.f.p) cbb moh,1,lab_test
+243398,fresh frozen plasma w donor,1,lab_test
+243399,fresh frozen plasma w o donor,1,lab_test
+243400,fresh frozen plazma,1,other
+243401,fresh frozen plazma 250cc,1,other
+243402,fresh prbc,1,other
+243403,fresh prbc la00410243,1,other
+243404,fresh vaginal swab examination,1,lab_test
+243405,fresh whole blood,1,lab_test
+243406,freshlook one day,1,supplies
+243408,fresnel prism (magrabi patient,1,other
+243409,fresnel prism (outside patient,1,other
+243413,fresubin 2 kcal fibre drink 24x200 ml,1,other
+243416,fresubin 2kcal db creme 24's,1,other
+243417,fresubin 2kcal fibre drink apricot,1,other
+243418,fresubin 2kcal fibre drink cappuccino,1,other
+243421,fresubin 3.2 kcal drink,1,other
+243436,frist step alcohol pad 100 pcs,1,supplies
+243437,frm0250,1,other
+243438,frm031frame,1,other
+243439,frm032frame,1,other
+243440,frm033frame,1,other
+243441,frm034frame,1,other
+243442,frm035frame,1,other
+243443,frm036frame,1,other
+243444,frm037frame,1,other
+243445,frm038frame,1,other
+243446,frm039frame,1,other
+243447,frm040frame,1,other
+243448,frm041frame,1,other
+243449,frm042frame,1,other
+243450,frm043frame,1,other
+243451,frm044frame,1,other
+243452,frm045frame,1,other
+243453,frm046frame,1,other
+243454,frm047frame,1,other
+243455,frm048frame,1,other
+243456,frm049frame,1,other
+243457,frm050frame,1,other
+243458,frm051frame,1,other
+243459,frm052frame,1,other
+243460,frm053frame,1,other
+243461,frm054frame,1,other
+243462,frm055frame,1,other
+243463,frm056frame,1,other
+243464,frm057frame,1,other
+243465,frm058frame,1,other
+243466,frm059frame,1,other
+243467,frm060frame,1,other
+243468,frm061frame,1,other
+243469,frm062frame,1,other
+243470,frm063frame,1,other
+243471,frm064frame,1,other
+243472,frm065frame,1,other
+243473,frm066frame,1,other
+243474,frm067frame,1,other
+243475,frm068frame,1,other
+243476,frm069frame,1,other
+243477,frm070frame,1,other
+243478,frm071frame,1,other
+243479,frm072frame,1,other
+243480,frm073frame,1,other
+243481,frm074frame,1,other
+243482,frm075frame,1,other
+243483,frm076frame,1,other
+243484,frm077frame,1,other
+243485,frm078frame,1,other
+243486,frm079frame,1,other
+243487,frm080frame,1,other
+243488,frm081frame,1,other
+243489,frm082frame,1,other
+243490,frm083frame,1,other
+243491,frm084frame,1,other
+243492,frm085frame,1,other
+243493,frm086frame,1,other
+243496,"from the hospital / to : abuarish,king fahd hospital",1,consultation
+243497,from the hospital / to : bish,1,consultation
+243498,from the hospital / to : gazan,1,consultation
+243499,"from the hospital / to : samta , ahd-elmasarha",1,consultation
+243501,fronica 60,1,other
+243505,fronica 60( non,1,other
+243508,frontal craniotomy,1,procedure
+243509,frontal lobe brain glioma (astrocytoma) - 6 days pkg,1,other
+243510,frontal meatus infundibulectomy,2,procedure
+243511,frontal sinus endoscop,1,procedure
+243512,frontal sinusectomy,2,procedure
+243513,frontal sinusotomy,1,procedure
+243514,frontalis sling one eye,1,supplies
+243515,frontier / onyx stent - medtronic,1,supplies
+243516,fronto-orbital advancement for craniosynostois,1,other
+243518,frozen section,2,other
+243519,frozen section (more than one specimen,1,supplies
+243520,frozen section biopsy,1,procedure
+243521,frozen section histology each specimen,1,other
+243522,"frozen section histology, each specimen",1,other
+243523,frozen section histopath,1,lab_test
+243524,frozen section+paraffin section,1,other
+243525,"frozen section, any organ",1,other
+243526,frozen sections,1,other
+243527,frritin,1,other
+243528,frtzn,2,other
+243530,fructosamine,2,lab_test
+243531,fructosamine (glycated albumin,1,lab_test
+243532,fructosamine @,1,lab_test
+243533,fructosamine(so,1,lab_test
+243534,fructose (blood,1,lab_test
+243535,fructose (semen,1,lab_test
+243536,fructoseamine,1,other
+243537,fructosomine,1,other
+243541,fs h,1,other
+243542,fs.h,1,other
+243543,fs;p1.50; armor blue cut wht; synchrony,1,eyewear
+243544,fs;p1.50; blue cut wht; synchrony,1,eyewear
+243545,fs;p1.50; hmc wht; synchrony,1,eyewear
+243546,fs;p1.50; hmc+ wht; synchrony,1,eyewear
+243547,fs;p1.50; s extra photochromic;synchrony,1,eyewear
+243548,fs;p1.50; s extra wht; synchrony,1,eyewear
+243549,fs;p1.50; silk photochromic; synchrony,1,eyewear
+243550,fs;p1.50; silk wht; synchrony,1,eyewear
+243551,fs;p1.56; blue cut wht; doctor m,2,consultation
+243553,fs;p1.56; hmc + wht; doctor m,2,eyewear
+243555,fs;p1.56; hmc photochromic; doctor m,2,eyewear
+243557,fs;p1.56; hmc wht; doctor m,2,eyewear
+243559,fs;p1.56; hmc+ photochromic; doctor m,1,eyewear
+243560,"fs;p1.56;hmc photo, 65, +-, 00.50, 00.75",1,eyewear
+243561,fs;p1.59;rstc wht;sph;rs perfalit free 2,1,eyewear
+243562,"fs;p1.59;stc wht;, 70, --, 00.00, 00.25",1,eyewear
+243563,fs;p1.59;unbreakable / blue filter ;dr.m,1,supplies
+243564,fs;p1.59;unbreakable / hmc wht;doctor m,1,eyewear
+243565,fs;p1.59;unbreakable / hmc+ wht;doctor m,1,eyewear
+243566,fs;p1.59;unbreakable blue cut dr.m rs,1,other
+243567,fs;p1.59;unbreakable stc + dr.m rs,1,eyewear
+243568,fs;p1.59;unbreakable stc dr.m rs,1,eyewear
+243569,fs;p1.5; stc dr.m rs,1,eyewear
+243570,"fs;p1.5;kcc w;pentax,65,++,00.00,00.00",1,other
+243571,"fs;p1.5;kcc w;pentax,65,++,00.00,01.00",1,other
+243572,"fs;p1.5;kcc w;pentax,65,++,00.25,00.00",1,other
+243573,"fs;p1.5;kcc w;pentax,65,++,00.25,00.50",1,other
+243574,"fs;p1.5;kcc w;pentax,65,++,00.25,00.75",1,other
+243575,fs;p1.5;photochromic stc + dr.m rs,2,eyewear
+243576,fs;p1.5;photochromic stc dr.m rs,2,eyewear
+243579,fs;p1.5;wht blue cut dr.m rs,1,other
+243580,fs;p1.5;wht stc + dr.m rs,1,eyewear
+243581,fs;p1.5;wht stc dr.m rs,1,eyewear
+243582,fs;p1.60; armor blue cut wht; synchrony,1,eyewear
+243583,fs;p1.60; blue cut wht; synchrony,1,eyewear
+243584,fs;p1.60; hmc wht; synchrony,1,eyewear
+243585,fs;p1.60; hmc+ wht; synchrony,1,eyewear
+243586,fs;p1.60; s extra wht; synchrony,1,eyewear
+243587,fs;p1.60; silk wht; synchrony,1,eyewear
+243588,fs;p1.60;break resistant / blu cut;dr.m,1,other
+243589,fs;p1.60;break resistant hmc wht;dr. m,1,eyewear
+243590,fs;p1.60;unbreakable / blue filter ;dr.m,1,supplies
+243591,fs;p1.60;unbreakable / hmc wht;doctor m,1,eyewear
+243592,fs;p1.60;unbreakable / hmc+ wht;doctor m,1,eyewear
+243593,fs;p1.60;unbreakable blue cut dr.m rs,1,other
+243594,fs;p1.60;unbreakable stc + dr.m rs,1,eyewear
+243595,fs;p1.60;unbreakable stc dr.m rs,1,eyewear
+243596,fs;p1.67; armor blue cut wht; synchrony,1,eyewear
+243597,fs;p1.67; blue cut wht; doctor m,2,consultation
+243598,fs;p1.67; blue cut wht; synchrony,1,eyewear
+243600,fs;p1.67; hmc + wht; doctor m,2,eyewear
+243602,fs;p1.67; hmc wht; doctor m,2,eyewear
+243604,fs;p1.67; hmc+ wht; synchrony,1,eyewear
+243605,fs;p1.67; s extra wht; synchrony,1,eyewear
+243606,"fs;p1.67;hmc wht, 70",1,eyewear
+243607,fs;p1.67;wht blue cut dr.m rs,1,other
+243608,fs;p1.67;wht stc + dr.m rs,1,eyewear
+243609,fs;p1.67;wht stc dr.m rs,1,eyewear
+243610,fs;pc1.59 cfuv;wht;air;70,1,eyewear
+243611,"fs;pc1.59 sapp;wht, 70",1,eyewear
+243612,"fs;pc1.59;crza2 wh, 65, ++, 01.00, 00.75",1,other
+243615,fsh (follicle stimulating hormone,5,lab_test
+243616,fsh (follicle stimulation ho d,1,lab_test
+243620,fsh (follicle stm.hormone,1,lab_test
+243621,fsh (follitropin) - serum,1,lab_test
+243622,fsh (follitropin) - serum-5-16-120812,1,lab_test
+243625,fsh (follicle-stimulating hormone,1,lab_test
+243626,fsh (mhl lab,1,lab_test
+243629,"fsh , serum",1,lab_test
+243630,fsh - follicle stimulating hormone,2,lab_test
+243632,fsh - insurance,1,lab_test
+243633,fsh - lab test,1,lab_test
+243634,fsh - stimulating hormone,1,lab_test
+243635,fsh - tat (72 hrs,1,lab_test
+243636,fsh / ????? ??.??.??,1,lab_test
+243637,fsh / f s h,1,lab_test
+243638,fsh 33008,1,lab_test
+243639,fsh ?? ?? ???,1,lab_test
+243640,fsh ?????,1,lab_test
+243641,fsh analysis,1,lab_test
+243642,fsh analysis (l107,1,lab_test
+243643,fsh bupa,1,lab_test
+243644,fsh eclia,1,lab_test
+243645,fsh follicle stiulating hormone,1,lab_test
+243646,fsh hormone,3,lab_test
+243648,fsh male,1,lab_test
+243649,fsh serum,2,lab_test
+243651,fsh test,1,lab_test
+243652,fsh(follicle stim. hormone,1,lab_test
+243660,"fsh, serum",1,lab_test
+243661,fsh- follicular stimulatin hormone. - ?????,1,lab_test
+243662,fsh- follicular stimulting hormone. - ?????,1,lab_test
+243663,fsh-1472,1,lab_test
+243667,fsh/follicle stimulating hormone,1,lab_test
+243668,fsh690,1,other
+243669,fsh[16.06,1,lab_test
+243671,fsv 1.5 trio mc - insurance,1,eyewear
+243823,fsv 1.50 brf,1,eyewear
+243824,fsv 1.50 dim 55 ar,1,eyewear
+243825,fsv 1.50 dim 65,1,eyewear
+243826,fsv 1.50 dim 65 ar,1,eyewear
+243827,fsv 1.50 ph ar,1,eyewear
+243828,fsv 1.50 tokai ar,1,eyewear
+243829,fsv 1.50 tokai lutina,1,eyewear
+243830,fsv 1.50 tokai lutina hi cly,1,eyewear
+243831,fsv 1.50 tokai sps,1,eyewear
+243832,fsv 1.56,1,eyewear
+243833,fsv 1.56 ar,1,eyewear
+243834,fsv 1.56 hi cly ar,1,eyewear
+243835,fsv 1.59 ar,1,eyewear
+243836,fsv 1.59 hmc - insurance,1,eyewear
+243837,fsv 1.59 tr8 grey crizal sapphire,1,eyewear
+243838,fsv 1.60,1,eyewear
+243839,fsv 1.60 ar,1,eyewear
+243840,fsv 1.67 ar,1,eyewear
+243841,fsv 1.67 crizal prevencia,1,eyewear
+243842,fsv 1.67 hmc - insurance,1,eyewear
+243843,fsv asp 1.56 clear sapphire,1,eyewear
+243844,fsv aspheric airwear 1.59 crizal prevencia,1,eyewear
+243845,fsv aspheric airwear 1.59 crizal sapphire,1,eyewear
+243846,fsv aspheric lineis 1.74 crizal forte uv?,1,eyewear
+243847,fsv ess 1.50 eyezen sapphire brf,1,eyewear
+243848,fsv ess 1.50 sapphire,1,eyewear
+243849,fsv ess 1.56 easy proph tr,1,eyewear
+243850,fsv ess 1.59 rock brf,1,eyewear
+243851,fsv ess 1.59 sapphire,1,eyewear
+243852,fsv ess 1.67 sapphire,1,eyewear
+243853,fsv gl 1.50,1,eyewear
+243854,fsv gl 1.50 ar,1,eyewear
+243855,fsv gl 1.50 ph cr,1,eyewear
+243856,fsv gl 1.50 ph cr ar,1,eyewear
+243857,fsv lineis 1.74 as crizal a2,1,eyewear
+243860,fsv polycarbonate 1.59 hmc,1,eyewear
+243872,fsv synchrony 1.50 ph fu sx,1,eyewear
+243873,fsv synchrony 1.60 sx,1,eyewear
+243874,fsv trio 1.50 ar,1,eyewear
+243875,fsv trio 1.56 brf,1,eyewear
+243876,fsv trio 1.59 brf,1,eyewear
+243877,fsv zeiss 1.50 clearview dvc ar,1,eyewear
+243878,fsv zeiss 1.74 clearview dvc ar,1,eyewear
+243935,fsv;1.50; w;;75;--;0.00;0.75,1,eyewear
+243936,fsv;1.50; w;;75;--;0.25;0.25,1,eyewear
+243937,fsv;1.50; w;;75;--;1.50;0.00,1,eyewear
+244097,fsv;1.50;blue;shodo plus;65;+-;0.25;0.00,1,eyewear
+244098,fsv;1.50;blue;shodo plus;65;+-;0.25;0.25,1,eyewear
+244099,fsv;1.50;blue;shodo plus;65;+-;0.25;0.75,1,eyewear
+244100,fsv;1.50;blue;shodo plus;65;+-;0.50;1.50,1,eyewear
+244101,fsv;1.50;blue;shodo plus;65;+-;1.25;0.00,1,eyewear
+244102,fsv;1.50;blue;shodo plus;65;+-;1.50;0.25,1,eyewear
+244103,fsv;1.50;blue;shodo plus;65;+-;1.75;0.00,1,eyewear
+244104,fsv;1.50;blue;shodo plus;65;+-;1.75;0.25,1,eyewear
+244105,fsv;1.50;blue;shodo plus;70;--;0.00;0.25,1,eyewear
+244106,fsv;1.50;blue;shodo plus;70;--;0.00;0.50,1,eyewear
+244107,fsv;1.50;blue;shodo plus;70;--;0.00;0.75,1,eyewear
+244108,fsv;1.50;blue;shodo plus;70;--;0.00;1.00,1,eyewear
+244109,fsv;1.50;blue;shodo plus;70;--;0.00;1.50,1,eyewear
+244110,fsv;1.50;blue;shodo plus;70;--;0.00;2.00,1,eyewear
+244111,fsv;1.50;blue;shodo plus;70;--;0.25;0.00,1,eyewear
+244112,fsv;1.50;blue;shodo plus;70;--;0.25;0.25,1,eyewear
+244113,fsv;1.50;blue;shodo plus;70;--;0.25;0.50,1,eyewear
+244114,fsv;1.50;blue;shodo plus;70;--;0.25;0.75,1,eyewear
+244115,fsv;1.50;blue;shodo plus;70;--;0.25;1.25,1,eyewear
+244116,fsv;1.50;blue;shodo plus;70;--;0.50;0.25,1,eyewear
+244117,fsv;1.50;blue;shodo plus;70;--;0.50;0.50,1,eyewear
+244118,fsv;1.50;blue;shodo plus;70;--;0.50;0.75,1,eyewear
+244119,fsv;1.50;blue;shodo plus;70;--;0.50;1.50,1,eyewear
+244120,fsv;1.50;blue;shodo plus;70;--;0.75;0.00,1,eyewear
+244121,fsv;1.50;blue;shodo plus;70;--;0.75;0.50,1,eyewear
+244122,fsv;1.50;blue;shodo plus;70;--;0.75;0.75,1,eyewear
+244123,fsv;1.50;blue;shodo plus;70;--;1.00;0.00,1,eyewear
+244124,fsv;1.50;blue;shodo plus;70;--;1.00;0.50,1,eyewear
+244125,fsv;1.50;blue;shodo plus;70;--;1.00;0.75,1,eyewear
+244126,fsv;1.50;blue;shodo plus;70;--;1.00;1.00,1,eyewear
+244127,fsv;1.50;blue;shodo plus;70;--;1.25;0.00,1,eyewear
+244128,fsv;1.50;blue;shodo plus;70;--;1.75;0.25,1,eyewear
+244129,fsv;1.50;blue;shodo plus;70;--;2.00;0.00,1,eyewear
+244130,fsv;1.50;blue;shodo plus;70;--;2.25;0.50,1,eyewear
+244131,fsv;1.50;blue;shodo plus;70;--;2.50;0.00,1,eyewear
+244132,fsv;1.50;blue;shodo pro;65;+-;0.25;0.00,1,eyewear
+244133,fsv;1.50;blue;shodo pro;65;+-;0.25;0.50,1,eyewear
+244134,fsv;1.50;blue;shodo pro;65;+-;0.25;0.75,1,eyewear
+244135,fsv;1.50;blue;shodo pro;65;+-;0.25;1.25,1,eyewear
+244136,fsv;1.50;blue;shodo pro;65;+-;1.00;0.00,1,eyewear
+244137,fsv;1.50;blue;shodo pro;65;+-;1.25;0.25,1,eyewear
+244138,fsv;1.50;blue;shodo pro;65;+-;1.25;0.50,1,eyewear
+244139,fsv;1.50;blue;shodo pro;65;+-;1.25;1.50,1,eyewear
+244140,fsv;1.50;blue;shodo pro;65;+-;1.50;0.00,1,eyewear
+244141,fsv;1.50;blue;shodo pro;70;--;0.00;0.00,1,eyewear
+244142,fsv;1.50;blue;shodo pro;70;--;0.00;0.25,1,eyewear

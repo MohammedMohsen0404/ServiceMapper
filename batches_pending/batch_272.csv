@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+470664,ptca sv without stents,1,eyewear
+470665,ptca sv without stent,1,eyewear
+470667,ptca single vessel & drug eluting balloon (one day ccu + one day ward) excluding the price of the dr,2,supplies
+470668,ptca single vessel & drug eluting balloon (one day ccu one day ward) excluding the price of the d,1,supplies
+470669,ptca single vessel and drug eluting balloon(one day ccu one day ward)excluding the price of the d,1,supplies
+470670,ptca single vessel and drug eluting balloon(one day ccuone day ward)excluding the price of the d,1,supplies
+470671,ptca single vesselsv 2 stents des,1,procedure
+470672,ptca triple vessles +2 stents (including diagnostic cath) + stent prices,1,supplies
+470673,ptca tripple vessels /3des (c36.05-n,1,procedure
+470674,"ptca tv + one stent (drug eluting),sr.12500 will be charged every other stent",1,supplies
+470675,"ptca tv + onetent (drug eluting),sr.12500 will be charged every othertent",1,procedure
+470676,ptca two vessel or more,1,procedure
+470677,ptca v + 2 stent,1,supplies
+470678,ptca v + tent,1,procedure
+470679,"ptca w aspr thrmbectmy, 1 art",2,procedure
+470680,ptca with aspr,1,procedure
+470681,ptca y connector okayll,1,procedure
+470682,ptca y connector,1,procedure
+470684,ptca with regular balloon angioplasty (poba) package,1,supplies
+470685,ptca with regular balloon angioplasty (poba) package (900065,1,supplies
+470686,ptca with regular balloon angioplasty- referral,1,supplies
+470687,ptca - double vessels 1 stent des,1,supplies
+470688,ptca - double vessels 3 stents des,1,procedure
+470689,ptca - single vessel sv 1 stent des,1,eyewear
+470690,"ptca, 1 coronary artery",2,procedure
+470692,"ptca, 2 coronary arteries",2,procedure
+470694,ptca- sv,1,eyewear
+470695,ptca-dv+ 1 drug eluting stent,1,supplies
+470696,ptca-dv+ 1 drug eluting stent - 2 days,1,supplies
+470697,ptca-dv+ 2 drug eluting stents,1,procedure
+470698,ptca-dv+ 2 drug eluting stents - 2 days,1,procedure
+470699,ptca-dv+ 3 drug eluting stents,1,procedure
+470700,ptca-sv,1,eyewear
+470701,ptca-sv+ 1 drug eluting stent,1,eyewear
+470702,ptca-sv+ 1 drug eluting stent (including stent price,1,eyewear
+470703,ptca-sv+ 2 drug eluting stents,1,eyewear
+470704,ptca-sv+ 3 drug eluting stents,1,eyewear
+470705,ptca-sv+ 3 drug eluting stents (including stent price,1,eyewear
+470706,ptcatwo vessel or more,1,other
+470707,"ptcra, 1 artery w insertion of 1 stent",2,supplies
+470708,"ptcra, 1 artery",1,other
+470710,ptd and stent (percutaneous transhepatic biliary drainage,1,supplies
+470711,ptd (percutaneous transhepatic biliary drainage,1,procedure
+470712,ptd removal,3,procedure
+470713,ptd removal (post trachoma degeneration,3,procedure
+470714,ptd removal ( post trachoma degeneration,1,procedure
+470715,ptd removal (one eye,1,supplies
+470718,ptd removal( post trachoma degeneration,1,procedure
+470719,ptd removal(post trachoma degenerat,1,procedure
+470721,ptd removalpost trachoma degeneration,1,other
+470724,ptd s picking 2 eyes post trachoma degeneration,1,other
+470725,ptd scraping per eye,2,other
+470726,ptd's ( unilateral,1,other
+470727,ptd's picking (2 eyes) ( post trachoma degeneration,1,other
+470728,ptd's picking -2 eyes - post trachoma degeneration,1,other
+470729,ptd's picking(one eye,1,supplies
+470730,ptds,2,other
+470731,ptds ( unilateral) - حبوب بالجفن الواحد,1,other
+470732,ptds (concretions) removal,2,procedure
+470733,ptds (med)-ptds (med,1,other
+470734,ptds picking (2 eyes,1,other
+470735,ptds picking (one eye,1,supplies
+470736,ptds picking,1,other
+470737,ptds removal,5,procedure
+470738,ptds removal (1eye,1,procedure
+470739,ptds removal (both eyes,1,procedure
+470740,ptds removal in one eye,1,supplies
+470742,ptds two eyes,1,other
+470743,ptds unilateral,1,other
+470744,ptds ( concretions ) removal (one eye,1,supplies
+470747,ptds scrapping,1,other
+470749,ptds removal uni,1,procedure
+470750,ptergium excision,1,procedure
+470751,pterigium (primary,1,other
+470752,pterigium excision+autograph,1,procedure
+470753,ptery excision + lamellar graft,1,procedure
+470754,pterygium,2,other
+470755,pterygium w/grafting and lamelar keratoplasty,1,procedure
+470756,pterygium & recurrent pterygium ( w/grafting,1,procedure
+470757,pterygium + conjunctival grafting,1,procedure
+470758,pterygium deep,1,other
+470759,pterygium exc. & conjunctival autograft,1,procedure
+470760,pterygium exc. w. conjunct. flap+mytomyc,1,procedure
+470761,pterygium excisiion + conjunctival graft,1,procedure
+470762,pterygium excisiion + conjunctival graft (left eye )/dr. 01 adel rushood,1,procedure
+470763,pterygium excisiion + conjunctival graft (left eye )/dr. 02 abdulaziz rushood,1,procedure
+470764,pterygium excisiion + conjunctival graft (left eye )/dr. 38 somali abdulaziz,1,procedure
+470765,pterygium excisiion + conjunctival graft (left eye )/dr. mohanna al jindan,1,procedure
+470766,pterygium excisiion + conjunctival graft (left eye )/dr. qusai mohammed,1,procedure
+470767,pterygium excisiion + conjunctival graft (left eye )/dr. z mohanna or,1,procedure
+470768,pterygium excisiion + conjunctival graft (one eye,1,supplies
+470769,pterygium excisiion + conjunctival graft (right eye )/dr. 01 adel rushood,1,procedure
+470770,pterygium excisiion + conjunctival graft (right eye )/dr. 02 abdulaziz rushood,1,procedure
+470771,pterygium excisiion + conjunctival graft (right eye )/dr. mohanna al jindan,1,procedure
+470772,pterygium excisiion + conjunctival graft (right eye )/dr. qusai mohammed,1,procedure
+470773,pterygium excisiion + conjunctival graft (right eye )/dr. uday al owaifer,1,procedure
+470774,pterygium excisiion + conjunctival graft (right eye )/dr. walaa alderi,1,procedure
+470775,pterygium excision,5,procedure
+470777,pterygium excision (ga,1,procedure
+470778,pterygium excision (la,1,procedure
+470779,pterygium excision (left eye )/dr. mohanna al jindan,1,procedure
+470780,pterygium excision (simple) - 1 day pkg,1,procedure
+470781,pterygium excision + auto graft,2,procedure
+470782,pterygium excision + conj. graft,1,procedure
+470783,pterygium excision + conjunctival graf,1,procedure
+470784,pterygium excision + conjunctival graft,1,procedure
+470785,pterygium excision + lamellar corneal scrabing (one eye)/dr. 02 abdulaziz rushood,1,supplies
+470786,pterygium excision + lamellar corneal scrabing (one eye)/dr. 38 somali abdulaziz,1,supplies
+470787,pterygium excision + lamellar corneal scrabing (one eye)/dr. qusai mohammed,1,supplies
+470788,pterygium excision + lamellar keratoplasty,1,procedure
+470789,pterygium excision -b,1,procedure
+470790,pterygium excision and mitomyciin (one eye)./dr. 01 adel rushood,1,supplies
+470791,pterygium excision b,2,procedure
+470792,pterygium excision conj. graft,1,procedure
+470793,pterygium excision conjunctival,1,procedure
+470794,pterygium excision under (ga,1,procedure
+470795,pterygium excision with aminontic membrane(grafting,1,procedure
+470796,pterygium excision with autograft,1,procedure
+470797,pterygium excision with conj graft - 1 day pkg,1,procedure
+470798,pterygium excision with conjuctival graft,1,procedure
+470799,pterygium excision with conjuctival graft_opm1533,1,procedure
+470800,pterygium excision with graft,1,procedure
+470801,pterygium excision with graft(pkg,1,procedure
+470802,pterygium excision+conj. graft,2,procedure
+470803,pterygium one eye,1,supplies
+470804,pterygium removal,1,procedure
+470805,pterygium removal - local anaesthesia + beta radiation,1,physiotherapy
+470806,pterygium removal (l.a,2,procedure
+470807,pterygium removal g.a taw ref,1,procedure
+470808,pterygium removal l.a,2,procedure
+470809,pterygium removal l.a pd bupa,1,procedure
+470810,pterygium removal l.a taw,1,procedure
+470812,pterygium removal la,1,procedure
+470813,pterygium removal ula,1,procedure
+470814,pterygium removal with flab,1,procedure
+470815,pterygium with conjunctival flap,1,other
+470816,pterygium with conjunctival graft,1,procedure
+470817,pterygium with grafting recurren,1,procedure
+470818,pterygtum excision + conjunctival graft + mmc,1,procedure
+470819,"ptfe coated guidewires, .035 x 150 cm , straight tip,boston scientific , m0066201200",1,other
+470820,ptfe guidewire j-tip fixed cone 1.035x145,1,supplies
+470822,pth ( parathy roid hormon e ) (parathormone,2,lab_test
+470823,pth ( parathyroid hormone ) (parathormone,4,lab_test
+470824,pth _ parathy roid hormon e _ _parathormone_,1,lab_test
+470826,pth ( ???parathy??roid ??hormon??e ) (parathormone,2,lab_test
+470828,pth ( parathyroid hormone,3,lab_test
+470832,pth ( parathermone,1,lab_test
+470834,pth ( intact,1,lab_test
+470836,pth (parathormone,2,lab_test
+470837,pth (parathyroid hormone,4,lab_test
+470838,pth (parathyroid hormone ) protein,1,lab_test
+470841,"pth (parathyroid hormone), plasma",1,lab_test
+470843,pth (s,1,lab_test
+470846,pth - parathy roid hormon e,1,lab_test
+470847,pth - parathy roid hormon e -parathormone,1,lab_test
+470848,pth - ?????,1,lab_test
+470849,pth - ???parathy??roid ??hormon??e -parathormone,1,lab_test
+470850,pth - intact,1,lab_test
+470851,pth - parathyroid hormone,1,lab_test
+470852,pth - parathyroid hormone -parathormone,1,lab_test
+470853,pth - parathyroid hormone intact,1,lab_test
+470854,pth - parathyroid hormone. - ?????,1,lab_test
+470855,pth - related protein - s.o,1,lab_test
+470856,pth c (44- 68) para thormone (s,1,lab_test
+470857,pth intact,5,lab_test
+470858,pth intact (parathormone,1,lab_test
+470859,pth intact (s,2,lab_test
+470860,pth intact (s) @,1,lab_test
+470861,pth intact (total-whole molecule,1,lab_test
+470863,pth intact fia 240,1,lab_test
+470864,pth intact serum,1,lab_test
+470866,pth parathyroid hormone,1,lab_test
+470867,pth parathyroid hormone. - ?????,1,lab_test
+470868,pth related protein,1,lab_test
+470869,pth related protein (pth-rp,2,lab_test
+470870,pth related protein (so,1,lab_test
+470871,pth related protein s,1,lab_test
+470873,pth related protein my pthrp-102,1,lab_test
+470874,pth - c (44- 68) para thormone (s,1,lab_test
+470875,pth - para thormone,1,lab_test
+470876,pth(mhl lab,1,lab_test
+470879,pth-4685,1,lab_test
+470880,pth-c (44-68) parathormone (s) @,1,lab_test
+470881,pth-intact ( parathormone,1,lab_test
+470882,pth-intact (parathormone,1,lab_test
+470883,pth[parathyroid,1,lab_test
+470884,ptit7001/c3/55/f,1,eyewear
+470885,ptit7001/c6/55/f,1,eyewear
+470886,ptit7002/c3/55/f,1,eyewear
+470887,ptit7002/c4/55/f,1,eyewear
+470888,ptit7002/c6/55/f,1,eyewear
+470889,ptk (1 eye,1,other
+470890,ptk (1eye,1,other
+470891,ptk (photo therapeutic keratectomy) - one eye,1,supplies
+470892,ptk for one eye,1,supplies
+470893,ptk od,1,other
+470894,ptk os,1,other
+470895,ptk phototheraputic keratectomy/eye - opd,1,consultation
+470896,ptosis correction (1 eye,1,other
+470897,ptosis correction (1 lid) b,2,other
+470898,ptosis readjustment one eye,1,supplies
+470899,ptosis repair,1,procedure
+470900,ptosis repair both eye,1,procedure
+470901,ptosis surgery (both eyes)/dr. shaikha al-eid,1,procedure
+470902,ptosis surgery (one eye,1,supplies
+470903,ptothnmbine time,1,other
+470904,ptregium excision,1,procedure
+470905,ptregium excision one eye,1,supplies
+470906,ptregium removal,1,procedure
+470907,ptserum,1,other
+470909,ptt 73100-09-60,1,lab_test
+470910,ptt partial thromboplastin time,2,lab_test
+470915,ptt (partial thromboplastin time,7,lab_test
+470916,ptt (partial thromboplastine time,1,lab_test
+470917,ptt (partial thromboplastine time) ( aptt,4,lab_test
+470919,ptt (partial thrombo plastin,1,lab_test
+470921,ptt (partial thromboplastin time) - ?????,1,lab_test
+470922,ptt (partial thromboplastin time) - مختبر,1,lab_test
+470927,ptt (partil thrombin time,1,lab_test
+470928,ptt (partil thrombin) time,1,lab_test
+470933,ptt - partial thrombin time,2,lab_test
+470935,ptt - partial thromboplastin time,1,lab_test
+470936,ptt - tat (8 duty hrs) stat(1 hr,1,lab_test
+470937,ptt ?????,1,lab_test
+470938,ptt for l.a,2,lab_test
+470940,ptt partial thromboplastine time,1,lab_test
+470941,ptt partial thromboplastine time aptt,1,lab_test
+470943,ptt price :55.00,1,lab_test
+470944,ptt test,2,lab_test
+470946,ptt _ partial thromboplastin time _,1,lab_test
+470947,ptt _partial thromboplastine time_ _ aptt _,1,lab_test
+470948,ptt partial tromboplastin tim,1,lab_test
+470949,ptt with mixing studies (xms,1,lab_test
+470950,ptt%20(partial%20thromboplastin%20time,1,lab_test
+470951,ptt(mhl lab,1,lab_test
+470952,ptt- partial thromboplastin time,2,lab_test
+470954,ptt-1148,1,lab_test
+470955,ptt/ partial thromboplastin t,1,lab_test
+470956,ptt515,1,other
+470957,ptyregium excision conjuntial graft 1 eye l.a,1,procedure
+470958,ptyregium excision simple - one eye (under l.a.) -pkg,1,supplies
+470959,pt\inr,1,lab_test
+470960,ptn c,1,other
+470961,pu-pj000610-f-puma,1,other
+470962,pu00260-001-55,1,other
+470963,pu00280-005-57,1,other
+470964,pu00280-008-56,1,other
+470965,pu00300-001-53,1,other
+470966,pu00310-004-53,1,other
+470967,pu00430-001-49,1,other
+470968,pu00440-002-54,1,other
+470969,pu00450-003-52,1,other
+470970,pu00460-003-55,1,other
+470971,pu0046o/003/55,1,other
+470972,pu00500-006-57,1,other
+470973,pubis,1,other
+470974,pubis b 7006,1,other
+470975,pucci o - p2677,1,other
+470976,pucci o - p2682e,1,other
+470977,pucci/ep2694/424/f,1,other
+470978,puddle evac floor suction device,1,supplies
+470979,pudendal block anaesthesia,1,procedure
+470983,"pul,icort nebulization",1,procedure
+470986,pulbotomy,1,procedure
+470987,"pulce , lavage , system - hip/ knee set with suction, , ol1100",1,supplies
+470988,pulimcort,1,other
+470989,pulimcort neublizer,1,other
+470990,pulimcort soultion,1,other
+470991,pull through resection of rectum - 7 day pkg,1,procedure
+470992,pull through resection of rectum(o-58-c48.4,1,procedure
+470993,pulled elbow,1,other
+470995,"pulm oedema and resp fail, majc",1,inpatient
+470996,"pulm oedema and resp fail, minc",1,inpatient
+470997,"pulm oedema & resp fail, majc",1,inpatient
+470998,"pulm oedema & resp fail, minc",1,inpatient
+470999,pulm.function test,1,lab_test
+471000,pulmcorit,1,other
+471003,pulmcort,2,other
+471006,pulmecort inhalir,2,other
+471007,pulmecort neb,1,other
+471009,pulmicor inh,1,other
+471510,pulmicort025mgml single dose plastic u,1,eyewear
+471516,pulmiocort nebuilization with o2,2,other
+471519,pulmirema,2,other
+471548,pulmirema 0.5,1,other
+471569,"pulmirema 0.5 nebules 30,s",1,other
+471643,pulmirema 30 nebule,1,other
+471656,pulmocare milk,1,nutrition
+471660,pulmocort,3,other
+471661,pulmocort nebuilization,2,other
+471667,pulmocort nebulizer,3,supplies
+471668,pulmocort neubilizer,1,other
+471670,pulmoicort,1,other
+471671,pulmokort,1,other
+471672,pulmonary angio - bilateral,2,other
+471674,pulmonary angiogram,1,imaging
+471675,pulmonary angiogram - 056-15252,1,imaging
+471676,pulmonary angiography,1,imaging
+471677,pulmonary angiography (diagnostic,1,imaging
+471678,pulmonary arteriogram,1,other
+471679,pulmonary arterioplasty (central,1,procedure
+471680,pulmonary artery angiogram - excluding supplies - cathlab,1,imaging
+471681,pulmonary artery dilatation with or without stenting(implant not included,1,supplies
+471682,pulmonary ballon valvoplasty,1,procedure
+471683,"pulmonary balloon valvuloplasty consumable (catheter, balloon, wires, sheath",2,supplies
+471684,pulmonary decortication,1,other
+471685,"pulmonary embolism, majc",1,inpatient
+471686,"pulmonary embolism, minc",1,inpatient
+471687,pulmonary follow-up,1,consultation
+471688,pulmonary func.test-spirometry,1,lab_test
+471689,pulmonary function,1,lab_test
+471690,pulmonary function ( lung function test,1,lab_test
+471691,pulmonary function (spirometry,1,lab_test
+471693,pulmonary function test & vital,1,lab_test
+471694,pulmonary function test (for ventilated patient,1,lab_test
+471695,pulmonary function test (p.f.t,3,lab_test
+471696,pulmonary function test (p.f.t.) - follow up durinng the week,1,lab_test
+471697,pulmonary function test (p.f.t.)(13017,1,lab_test
+471698,pulmonary function test (pft,1,lab_test
+471699,pulmonary function test (pft)- spirometry,1,lab_test
+471700,pulmonary function test before and after bronchodillator therapy,2,lab_test
+471701,pulmonary function test before & after bronchodilator therapy,1,lab_test
+471703,pulmonary function test simple,1,lab_test
+471704,pulmonary function test standard,1,lab_test
+471705,pulmonary function test with body box,1,lab_test
+471706,pulmonary function test with bronchdilator test,1,lab_test
+471707,pulmonary function test with excencise test,1,lab_test
+471710,pulmonary function testing,1,lab_test
+471711,pulmonary function testing - pft complete,1,lab_test
+471712,pulmonary function tests,2,lab_test
+471713,pulmonary function tests (pfts,2,lab_test
+471715,pulmonary function with exercise test,1,lab_test
+471716,pulmonary hypertension follow-up,1,consultation
+471717,pulmonary hypertension new patient,1,other
+471719,pulmonary new follow-up,1,consultation
+471720,pulmonary new patient,1,other
+471721,pulmonary peds follow-up,1,consultation
+471722,pulmonary peds new follow-up,1,consultation
+471723,pulmonary peds new patient,1,other
+471724,pulmonary perfusion imaging - w/ ventilation imaging aerosol + 1,1,other
+471725,"pulmonary stress testing; simple (eg, 6-minute walk test, prolonged exercise test for bronchospasm with pre- and post-spirometry and oximetry",1,lab_test
+471726,"pulmonary stress testing; simple (eg, prolonged exercise test for bron",1,lab_test
+471727,pulmonary valvuloplasty w/ rhc + shunt - 2days pkg,1,procedure
+471728,pulmonary volume measurements,2,other
+471730,pulmonoary function test,1,lab_test
+471731,pulmonologist fee consultant,1,consultation
+471732,pulmonology cons. (co,1,consultation
+471733,pulmonology consultant exam,1,consultation
+471734,pulmonology consultant fee,1,consultation
+471735,pulmonology consultation,1,consultation
+471736,pulmoriary angiography ct light,1,imaging
+471741,pulmropic,1,other
+471742,pulmunary function,1,lab_test
+471744,pulomcort + oxygen,1,supplies
+471745,puloptomy of anterior of posterior tooth,2,dental
+471747,puloptomy of anterior or posterior teeth,1,dental
+471748,pulp amputation in children,1,dental
+471760,pulp caping,2,dental
+471761,pulp capping,3,dental
+471762,pulp capping (excluding final restorations,1,dental
+471763,pulp capping (indirect,1,dental
+471764,pulp capping + permanent filling,2,dental
+471765,pulp capping excluding final restoration,1,dental
+471766,pulp capping excluding final restorations,1,dental
+471767,pulp capping w/out filling,1,dental
+471768,pulp capping with base,1,dental
+471769,pulp capping with filling,1,dental
+471770,pulp capping with mta (mineral trioxide aggregate,1,dental
+471772,pulp capping without filling,2,dental
+471773,pulp capping(dn15,1,dental
+471774,pulp capping--direct pulp capping,1,dental
+471775,pulp capping-28,1,dental
+471776,"pulp debridement,primary/permanent teeth",1,dental
+471777,pulp exterpation of anterior tooth,1,dental
+471778,pulp exterpation of posterior tooth,1,dental
+471779,pulp extirpation,4,dental
+471780,pulp extirpation with temp filling,1,dental
+471781,pulp extirpation--extirpation of pulp or debridement of root canal(s) emergency or palliative,1,dental
+471782,pulp extirpation-malti,1,dental
+471783,pulp extraction (pulpotomy,1,dental
+471784,pulp removal 1 canal,1,dental
+471785,pulp removal 2 to 3 canals,1,dental
+471786,pulp removal treatmt,1,dental
+471787,pulp removal w.resto 2-3canal,1,dental
+471788,pulp removal w.resto-1canal,1,dental
+471789,pulp space abscess,1,dental
+471792,pulp treatment children teeth,3,dental
+471793,pulp vitality test,1,lab_test
+471794,pulpal therapy (resorbable filling) - anterior primary (excl. final restoration,1,dental
+471795,pulpctomy,2,other
+471796,pulpecotomy w / filling,2,dental
+471797,pulpectom,1,other
+471799,pulpectomy pedo,2,dental
+471800,pulpectomy ( pulp amputation,1,dental
+471801,pulpectomy (child under 12 y,1,dental
+471802,pulpectomy (opd,1,dental
+471804,pulpectomy + filling,1,dental
+471805,pulpectomy + temporary filling,1,dental
+471807,pulpectomy - pulp amputation,1,dental
+471808,pulpectomy - بتر عصب أطفال,1,dental
+471809,pulpectomy / pulp amputation,1,dental
+471810,pulpectomy / pulpectomy,1,dental
+471811,pulpectomy 2 canal,1,dental
+471812,pulpectomy 4 canal,1,dental
+471813,pulpectomy exerpat. 1or2 canal,1,dental
+471814,pulpectomy for 1 canal tooth,2,dental
+471815,pulpectomy for 2 or more canal tooth,2,dental
+471816,pulpectomy for children including filling,1,dental
+471817,pulpectomy for crown/root,1,dental
+471818,pulpectomy for pedo,1,dental
+471819,pulpectomy for primary teeth with resto,1,dental
+471820,pulpectomy for root canal,1,dental
+471821,pulpectomy for tooth with 2 roots,1,dental
+471822,pulpectomy in anterior or posterior tooth,2,dental
+471823,pulpectomy of 1 canal & seling,1,dental
+471824,pulpectomy of multirooted tooth,1,dental
+471825,pulpectomy of single rooted tooth,1,dental
+471827,pulpectomy w/filling,1,dental
+471828,pulpectomy with filling ( pedo,1,dental
+471829,pulpectomy with stainless crown,1,dental
+471830,pulpectomy without fillig,3,dental
+471831,pulpectomy without rest,1,dental
+471832,pulpectomy with filling,4,dental
+471838,pulpectomy+ filling <12 y,1,dental
+471839,"pulpectomy, resorbable filling posterior",1,dental
+471842,pulpectomy/den0014,1,dental
+471843,pulpeotomy,2,procedure
+471844,pulpictomy of tooth filling,1,dental
+471845,pulpitis & pulpotomy,1,dental
+471846,pulpituing,2,other
+471847,pulplotomi,1,other
+471848,pulpoctomy for decedious tooth,2,dental
+471849,pulpoptomy without fillig,1,other
+471850,pulpoptomy without filling,1,dental
+471851,pulpotimy,1,other
+471852,pulpotmy,1,other
+471853,pulpotmy + filling,1,dental
+471854,pulpotmy - بتر عصب للأطفال,1,other
+471855,pulpotmy more than 1visit,1,other
+471856,pulpoto mie,1,other
+471858,pulpotomy children,1,dental
+471859,pulpotomy with filling,6,dental
+471860,pulpotomy # 51,1,dental
+471861,pulpotomy # 52,1,dental
+471862,pulpotomy # 53,1,dental
+471863,pulpotomy # 54,2,dental
+471864,pulpotomy # 55,1,dental
+471865,pulpotomy # 61,1,dental
+471866,pulpotomy # 62,1,dental
+471867,pulpotomy # 63,1,dental
+471868,pulpotomy # 64,1,dental
+471869,pulpotomy # 65,1,dental
+471870,pulpotomy # 71,1,dental
+471871,pulpotomy # 72,1,dental
+471872,pulpotomy # 73,1,dental
+471873,pulpotomy # 74,1,dental
+471874,pulpotomy # 75,1,dental
+471875,pulpotomy # 81,1,dental
+471876,pulpotomy # 82,1,dental
+471877,pulpotomy # 83,1,dental
+471878,pulpotomy # 84,1,dental
+471879,pulpotomy # 85,1,dental
+471880,pulpotomy ( excluding final restorations,1,dental
+471881,pulpotomy ( without rest,1,dental
+471882,pulpotomy (both for child below 12 yrs,1,dental
+471883,pulpotomy (child,1,dental
+471884,pulpotomy (children,2,dental
+471885,pulpotomy (children) # 52,1,dental
+471886,pulpotomy (children) # 54,1,dental
+471887,pulpotomy (children) # 55,1,dental
+471888,pulpotomy (children) # 64,1,dental
+471889,pulpotomy (children) # 65,1,dental
+471890,pulpotomy (children) # 73,1,dental
+471891,pulpotomy (children) # 74,1,dental
+471892,pulpotomy (children) # 75,1,dental
+471893,pulpotomy (children) # 84,1,dental
+471894,pulpotomy (children) # 85,1,dental
+471895,pulpotomy (children) ) # 84,1,dental
+471896,pulpotomy (excluding final restorations,1,dental
+471897,pulpotomy (excluding final restorations)(708014,1,dental
+471898,pulpotomy (for child,2,dental
+471899,pulpotomy (ncci,1,dental
+471900,pulpotomy (opd,1,dental
+471901,pulpotomy (pedo,2,dental
+471903,pulpotomy + filling,5,dental
+471905,pulpotomy + fillings,1,dental
+471906,pulpotomy + final filling,1,dental
+471908,pulpotomy + temporary filling without final filling,1,dental
+471910,pulpotomy - decidous (without filling,1,dental
+471911,pulpotomy - decidous (without filling) # 025-3200,1,dental
+471912,pulpotomy - pul amputation,1,dental
+471913,pulpotomy - pulpectomy (both for children below 12 years,1,dental
+471914,pulpotomy - under 12 yrs old,1,dental
+471915,pulpotomy - بتر عصب أطفال,1,dental
+471916,pulpotomy -pedo,1,dental
+471917,pulpotomy / apicectomy,2,dental
+471918,pulpotomy / pul amputation,1,dental
+471920,pulpotomy / pulp amputation + filling,1,dental
+471921,pulpotomy / pulp amputation with filling,1,dental
+471922,pulpotomy / pulp ampution,1,dental

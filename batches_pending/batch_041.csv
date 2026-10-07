@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+211044,extract r.r or badly decayed,1,procedure
+211045,extract r.r. or badly decayed,1,procedure
+211046,extract r.r. or badly decidous,1,procedure
+211047,extract roots of teeth,1,dental
+211048,extract surgical flap,1,procedure
+211049,extract teeth,1,dental
+211050,extract tooth compliccated,2,dental
+211051,extract tooth compliccated sur,1,dental
+211052,extract wisdom teeth,1,dental
+211053,"extract wisdom tooth, normal",1,dental
+211054,extract'n of erupted 3rd molar de00366472,1,dental
+211056,extract(surg) of root-complex,1,procedure
+211058,"extract, r.r or badly dec. wisdom",1,dental
+211059,"extract, surgical",1,procedure
+211060,"extract, surgical flap",1,procedure
+211061,"extract, tooth complicated",1,dental
+211062,"extract, tooth complicated sur",1,dental
+211063,"extract, tooth compliccated sur",1,dental
+211064,extract. of decidious tooth,1,dental
+211065,extract. of deciduous tooth,1,dental
+211066,extract. of deciduous tooth w/ l.a,1,dental
+211067,extract. of deciduous/loose tooth,1,dental
+211070,extract.surgical of tooth-complex,1,dental
+211071,extractable nuclear abs (ena,1,lab_test
+211072,extractable nuclear abs (ena) (anti rnp & anti sm,1,lab_test
+211073,extractable nuclear abs(ena,1,lab_test
+211074,"extractable nuclear abs. -ena- (anti rnp, anti sm",2,lab_test
+211076,extractable nuclear antigen,1,lab_test
+211077,extractable nuclear antigen (ena,1,lab_test
+211078,extractable nuclear antigen (ena) abs (anti rnp and anti sm,1,lab_test
+211079,extractable nuclear antigen abs (ena,2,lab_test
+211080,extractable nuclear antigen antibody to any method (ena,1,lab_test
+211082,"extractable nuclear antigen, antibody to, any method (anti la ssb",1,lab_test
+211083,"extractable nuclear antigen, antibody to, any method (anti ro ssa",1,lab_test
+211084,"extractable nuclear antigen, antibody to, any method (eg, nrnp",1,lab_test
+211085,"extractable nuclear antigen, antibody to, any method (scleroderma",1,lab_test
+211086,"extractable nuclear antigens (ena) qualitative ss-a, ss-b",1,other
+211087,extractio n of remining rooth,1,other
+211088,extractio of posterior roots of tooth,1,dental
+211090,extraction clear for body under l.a,1,dental
+211091,extraction of deciduous tooth,7,dental
+211092,extraction of deciduous tooth/ loose,2,dental
+211093,extraction of deciduous tooth/ loose(10020,2,dental
+211094,extraction of fixed nail,1,dental
+211095,extraction unclear for body under l.a,1,dental
+211096,extraction with suture,3,dental
+211097,extraction with suture ( surgical extraction,1,dental
+211098,extraction & curettage of sock,1,dental
+211099,extraction & curettage-socket,1,dental
+211100,extraction & wedge resection of ingrowing toe nail (ga,1,dental
+211101,extraction & wedge resection of ingrowing toe nail (la,1,dental
+211102,extraction ( more root,4,dental
+211103,extraction ( one root,4,dental
+211104,extraction ( surgical ) ( s,1,dental
+211105,extraction (deciduous,1,dental
+211106,extraction (deciduous).tooth.root.simple,1,dental
+211107,extraction (deciduous)/tooth/root/simple,2,dental
+211108,extraction (pedia,2,dental
+211109,extraction (pedo,1,dental
+211110,extraction (permanent,1,dental
+211111,extraction (remaining roots,1,dental
+211112,extraction (remaining roots) separation,1,dental
+211113,extraction (simple,3,dental
+211114,extraction (tooth/root) any tooth,1,dental
+211116,extraction - additional tooth extraction,1,dental
+211117,extraction - curettage and sutures,1,dental
+211118,extraction - deciduous (milk tooth,1,dental
+211119,extraction - deciduous (milk tooth) - 004-7115,1,dental
+211120,extraction - deciduous tooth,2,dental
+211121,extraction - dental,1,dental
+211122,extraction - descidous tooth,1,dental
+211123,extraction - grade 2,1,dental
+211124,extraction - grade 3,1,dental
+211125,extraction - impacted teeth,2,dental
+211126,extraction - impacted tooth,2,dental
+211127,extraction - loose tooth,1,dental
+211128,extraction - milk teeth,1,dental
+211129,extraction - normal,2,dental
+211130,extraction - pedo,2,dental
+211131,extraction - permanent,1,dental
+211132,extraction - permanent tooth,2,dental
+211133,extraction - primary tooth - complex,1,dental
+211134,extraction - primary tooth - mobile,1,dental
+211136,extraction - simple - level 1,2,lab_test
+211139,extraction - single decidous complex,1,dental
+211140,"extraction - single tooth, requiring incision of overlying soft tissue, elevation of flap, removal of bone + sectioning",1,imaging
+211141,"extraction - single tooth, requiring incision of overlying soft tissue, elevation of flap, removal of bone or sectioning",1,imaging
+211142,"extraction - single tooth, uncomplicated",1,dental
+211143,extraction - surgical,3,dental
+211144,extraction - surgical of soft tissue impacted tooth,1,dental
+211145,extraction - surgical of soft tissue impacted tooth - 005-7220,1,dental
+211146,extraction - surgical (simple,1,dental
+211147,extraction - surgical (simple) # 005-7240,1,dental
+211148,extraction - surgical of impacted tooth,1,dental
+211149,extraction - surgical of partly bony impacted tooth,1,dental
+211150,extraction - surgical of wisdom tooth - erupted tooth,1,dental
+211151,extraction - surgical of wisdom tooth - erupted tooth # 005-7201,1,dental
+211152,extraction - surgical of wisdom tooth - fully impacted,1,dental
+211153,extraction - surgical of wisdom tooth - fully impacted # 004-7206,1,dental
+211154,extraction - surgical of wisdom tooth - fully impacted - 005-7206,1,dental
+211155,extraction - surgical of wisdom tooth under g.a,1,dental
+211156,extraction - surgical of wisdom tooth under g.a. # 004-7207,1,dental
+211158,extraction - tooth - root any tooth,1,dental
+211159,extraction - tooth extraction,1,dental
+211160,extraction - tooth extraction # 005-7110,1,dental
+211161,extraction - tooth extraction - 005-7110,1,dental
+211162,extraction - wisdom tooth surgical - level 1,2,lab_test
+211164,extraction - wisdom tooth surgical - level 2,2,lab_test
+211166,extraction -- (baby tooth,1,dental
+211167,extraction -3rd molar (full impacted,1,dental
+211168,extraction -3rd molar( simple,1,dental
+211169,extraction -deciduous tooth,1,dental
+211170,"extraction -deciduous tooth ""pedo",1,dental
+211171,extraction -impctd tooth-cmplt,1,dental
+211172,extraction -impctd tooth-prtl,1,dental
+211173,extraction -primary tooth -complex,2,dental
+211174,extraction -simple,1,dental
+211175,extraction -tooth,2,dental
+211176,extraction -tooth - root any tooth,1,dental
+211177,extraction -tooth-root (any tooth,1,dental
+211178,extraction / tooth / root ( any tooth,5,dental
+211181,extraction / tooth / root (any tooth,1,dental
+211182,extraction / tooth/ root (any tooth,1,dental
+211183,extraction /tooth/root (any tooth,1,dental
+211184,extraction /tooth/root/ - 7179,1,dental
+211185,extraction 1,1,dental
+211186,extraction ???? ?????,1,dental
+211188,extraction and gum surgery,1,dental
+211189,extraction and prothesis atonle,1,dental
+211190,extraction ant,1,dental
+211191,extraction anterior or posterior root,2,dental
+211192,extraction anterior or posterior roots,1,dental
+211193,extraction anterior primary,1,dental
+211194,extraction anterior tooth,2,dental
+211195,extraction any tooth,1,dental
+211196,extraction badly decayed tooth,1,dental
+211197,extraction basket fixed handle dormia 40mm long disposable g-flex #gf1616 - per each,1,dental
+211198,extraction big toe nail partial or total,1,dental
+211199,extraction broken tooth,4,dental
+211201,extraction class 1 (anterior tooth,1,dental
+211202,extraction class 2 (posterior tooth,1,dental
+211203,extraction class 3 (retained roots,1,dental
+211204,extraction comp./part nail of big toe,1,dental
+211205,extraction compl,1,dental
+211206,extraction complicated,1,dental
+211207,extraction complicated -21-82-202,1,dental
+211208,extraction coronal remnants primary tooth,1,dental
+211209,extraction dec. tooth,1,dental
+211210,extraction decidous tooth,3,dental
+211211,extraction deciduous full mouth treatment,1,dental
+211212,extraction deciduous molar,1,dental
+211213,extraction deciduous tooth,4,dental
+211214,extraction deciduous tooth (anterior) complicated pedo,1,dental
+211215,extraction deciduous tooth (posterior) complicated pedo,1,dental
+211216,extraction deciduous tooth (posterior) simple pedo,1,dental
+211217,extraction deciduous tooth - simple pedo,2,dental
+211218,extraction difficult,1,dental
+211220,extraction enterior tooth,1,dental
+211221,extraction erupted tooth or exposed root,3,dental
+211222,extraction erupted tooth requring removal of bone and of or secttioning of tooth,1,imaging
+211223,extraction fo a posteriortooth or canine-346,1,dental
+211224,extraction for adult,1,dental
+211225,extraction for adult 1 tooth,1,dental
+211226,extraction for child,1,dental
+211227,extraction for children 1 tooth,1,dental
+211228,extraction for decidous,1,dental
+211229,extraction for four impacted teeth under general anaesthesia,1,dental
+211230,extraction for impacted tooth,1,dental
+211231,extraction for milk tooth,2,dental
+211232,extraction for milk tooth ???? ?????,1,dental
+211234,extraction for pedia,1,dental
+211236,extraction impctd tooth cmplt,1,dental
+211237,extraction incline wisdome,1,dental
+211238,extraction interior,1,dental
+211239,extraction local anesthesia,1,dental
+211240,extraction loose teeth,1,dental
+211241,extraction milk tooth,2,dental
+211243,extraction molar tooth,1,dental
+211244,extraction non surgical - frctured tooth level 1,2,lab_test
+211246,extraction normal teeth /simple extraction for permanent tee,1,dental
+211247,extraction normal tooth,1,dental
+211248,extraction normal tooth / simple ex,1,dental
+211249,extraction normal tooth / simple extraction for pe,1,dental
+211250,extraction normal tooth / simple extraction for permanent teeth,1,dental
+211251,extraction normal tooth/ simple extraction of permament teeth,1,dental
+211252,extraction of (post or ant) tooth,1,dental
+211253,extraction of 3rd molar 596,1,dental
+211254,extraction of 3rd molar,1,dental
+211255,extraction of a milk tooth,5,dental
+211256,extraction of a non mob tooth,1,dental
+211257,extraction of a non mobile tooth,1,dental
+211258,extraction of a normal tooth grade 1,1,dental
+211259,extraction of a normal tooth grade 2,1,dental
+211260,extraction of a tooth fragment / small retained tooth,1,dental
+211261,extraction of a tooth fragment small retained tooth,1,dental
+211262,extraction of a tooth fragment/small retained toot,1,dental
+211263,extraction of a tooth fragment/small retained tooth,1,dental
+211264,extraction of a tooth fragment/small retained tooth including l.a,2,dental
+211265,extraction of amilk tooth,2,dental
+211266,extraction of ant.tooth,1,dental
+211267,extraction of ant.tooth - 6002,1,dental
+211268,extraction of anterior broken tooth,2,dental
+211270,extraction of badly broken down,1,dental
+211271,extraction of badly carious decidious to,1,dental
+211272,extraction of badly decayed or malposed tooth,1,dental
+211273,extraction of badly decayed teeth,2,dental
+211274,extraction of badly decayed tooth,4,dental
+211275,extraction of badly decayed tooth(surgical,1,dental
+211276,extraction of big lipoma ga,1,dental
+211277,extraction of big toe nail partial or total,2,dental
+211279,extraction of broken tooth,1,dental
+211280,extraction of calculus bydormia basket,1,dental
+211281,extraction of child,1,dental
+211282,extraction of complete bony impacted tooth,1,dental
+211283,extraction of complete/partial nail of big toe,1,dental
+211284,extraction of completely impacted wisdom,2,dental
+211285,extraction of corn under l/a,1,dental
+211286,extraction of covered tooth with slab,1,dental
+211287,extraction of crystalline lens by phacoeemuls.+foldable i.ol,1,dental
+211288,extraction of decayed/malpositioned toot,1,dental
+211289,extraction of decid tooth,1,dental
+211290,extraction of decidios ot one root tooth,1,dental
+211291,extraction of decidious of permanent tooth,1,dental
+211292,extraction of decidious of permanent tooth - 11011100,1,dental
+211293,extraction of decidious of permanent tooth >10,1,dental
+211294,extraction of decidious tooth,4,dental
+211295,extraction of decidious tooth (complicat,1,dental
+211297,extraction of decidous,1,dental
+211298,extraction of decidous mobile tooth,1,dental
+211299,extraction of decidous (milk teeth,1,dental
+211300,extraction of decidous / mobile tooth,1,dental
+211302,extraction of decidous tooth (complicated,1,dental
+211303,extraction of decidous tooth - difficult,1,dental
+211304,extraction of decidous(simple,1,dental
+211305,extraction of decidous-simple,1,dental
+211306,extraction of deciduoud tooth/not loose,1,dental
+211307,extraction of deciduous,2,dental
+211308,extraction of deciduous ( milk teeth)-354,1,dental
+211309,extraction of deciduous (milk teeth,5,dental
+211310,extraction of deciduous (primary) tooth,1,dental
+211311,extraction of deciduous - extraction,1,dental
+211312,extraction of deciduous 1 tooth,3,dental
+211313,extraction of deciduous i1 tooth,1,dental
+211314,extraction of deciduous teeth,2,dental
+211316,extraction of deciduous tooth complex,1,dental
+211319,extraction of deciduous tooth/ loose (14407,1,dental
+211321,extraction of deep f.b,2,dental
+211323,extraction of deep f.b. with fluscopy,1,dental
+211324,extraction of distoangular impacted tooth,2,dental
+211325,extraction of entrapped ring,1,dental
+211326,extraction of f.b under l.a,1,dental
+211327,"extraction of f.b. from ears, nose or throat without anethesia",1,dental
+211328,extraction of fistula anno fistolectom,1,dental
+211329,extraction of fixed tooth,2,dental
+211330,extraction of foreign b.+rust,1,dental
+211331,extraction of foreign body,4,dental
+211332,extraction of foreign body (l) under local anaesthesia,1,dental
+211333,extraction of foreign body (m) under local anaesthesia,1,dental
+211334,extraction of foreign body (s) under local anaesthesia,1,dental
+211335,extraction of foreign body from the ear or nose,2,dental
+211337,extraction of foriegn body deep,2,dental
+211338,extraction of fractured nail,1,dental
+211339,extraction of front teeth,1,dental
+211340,extraction of fully erupted wisdom tooth,1,dental
+211341,extraction of fully impacted tooth,1,dental
+211342,extraction of horizontally non erupted tooth,3,dental
+211344,extraction of impacted,2,dental
+211345,extraction of impacted canine (de013,1,dental
+211346,extraction of impacted molar,2,dental
+211347,extraction of impacted remaining tooth,1,dental
+211348,extraction of impacted roots,5,dental
+211349,extraction of impacted roots -313,1,dental
+211350,extraction of impacted t,1,dental
+211351,extraction of impacted teeth - complex,2,dental
+211352,extraction of impacted teeth - complicated,1,dental
+211353,extraction of impacted teeth - simple,2,dental
+211354,extraction of impacted teeth complex,2,dental
+211355,extraction of impacted teeth simple,1,dental
+211356,extraction of impacted teeth-c,1,dental
+211357,extraction of impacted teeth-complex,1,dental
+211358,extraction of impacted teeth-s,1,dental
+211359,extraction of impacted tooth,4,dental
+211360,extraction of impacted tooth - simple f,2,dental
+211361,extraction of impacted tooth complex,1,dental
+211362,extraction of impacted tooth complicated,1,dental
+211363,extraction of impacted tooth-complex,2,dental
+211364,extraction of impacted tooth-complex (bony,1,dental
+211365,extraction of impacted tooth-simple,1,dental
+211366,extraction of impacted tooth-simple (soft tissue,1,dental
+211367,extraction of impacted wisdom tooth,2,dental
+211368,extraction of impacted wisdom tooth under g/a,1,dental
+211369,extraction of impacted-tooth,2,dental
+211370,extraction of impacted/wisdom tooth,1,dental
+211371,extraction of implants ( med.size bone,1,imaging
+211372,extraction of incisors&premolars,1,dental
+211373,extraction of ingowing nail,1,dental
+211374,extraction of ingrowing nail,2,dental
+211376,extraction of ingrowing nail +dress,1,dental
+211377,extraction of ingrowing nail(l.a,1,dental
+211378,extraction of ingrowing toe nail,1,dental
+211379,extraction of ingrowing toe nail a,1,dental
+211380,extraction of ingrown nail,1,dental
+211381,extraction of inpacted ear ring u.g.a,1,dental
+211382,extraction of kids teeth under g/a,1,dental
+211383,extraction of lingually impacted tooth,3,dental
+211385,extraction of lipoma surgically,2,dental
+211386,extraction of loose body from joint (l,1,dental
+211387,extraction of loose nail,2,dental
+211388,extraction of loose nail under l.a,1,dental
+211389,extraction of loose permanent teeth,2,dental
+211390,extraction of loose tooth,3,dental
+211391,extraction of lymph gland for pathology ga,1,dental
+211392,extraction of many interior teeth under general anesthesia,1,dental
+211393,extraction of mesioangular impacted tooth,2,dental
+211394,extraction of milk from lactating breast,2,dental
+211395,extraction of milk roots,1,dental
+211396,extraction of milk teeth,1,dental
+211397,extraction of milk tooth,5,dental
+211398,extraction of mitoothlk,1,dental
+211399,extraction of mobile tooth,2,dental
+211400,extraction of molar,2,dental
+211401,extraction of molars,1,dental
+211402,extraction of mollusca bodies area,1,dental
+211403,extraction of multi rem. roots,1,dental
+211404,extraction of multiple foreign body,1,dental
+211405,extraction of nail,2,dental
+211406,extraction of nail dressing,2,dental
+211408,extraction of nail & dressing,1,dental
+211409,extraction of nail (e.r,1,dental
+211410,extraction of nail (ula,1,dental
+211411,extraction of nail - simple,1,dental
+211412,extraction of nail in m.o.t,1,dental
+211413,extraction of nail lacal anaesthesia,1,dental
+211414,extraction of nail u.l.a,1,dental
+211415,extraction of nail under g.a,1,dental
+211416,extraction of nail under l.a,1,dental
+211417,extraction of nail(100,1,dental
+211418,extraction of non- mobile tooth,1,dental
+211419,extraction of non-mobile tooth,2,dental
+211420,extraction of non-mopile tooth,1,dental
+211421,extraction of nonmobile tooth,1,dental
+211422,extraction of normal tooth,3,dental
+211423,extraction of of tooth,1,dental
+211424,extraction of on tooth,1,dental
+211425,extraction of one deciduous tooth or multiple teet->c23.01,1,dental
+211426,extraction of one tooth - simple,2,dental
+211427,extraction of palatal non erupted tooth,2,dental
+211428,extraction of parially impacted molar,1,dental
+211429,extraction of partally impacted wisdom,2,dental
+211430,extraction of partial bony impacted tooth,1,dental
+211431,extraction of partiall cut nail,1,dental
+211432,extraction of partially impacted tooth,6,dental
+211435,extraction of partially impacted wisdom,2,dental
+211436,extraction of partially impacted wisdom tooth,1,dental
+211438,"extraction of permanent 1 tooth, simple",1,dental
+211439,"extraction of permanent 1 tooth,simple",1,dental
+211440,extraction of permanent anterior teeth,1,dental
+211441,extraction of permanent posterior teeth,1,dental
+211442,extraction of permanent teeth,3,dental
+211443,extraction of permanent tooth,2,dental
+211444,extraction of permanent tooth or multiple teeth->c23.09,1,dental
+211445,extraction of permanent tooth or multiple tooth,1,dental
+211446,extraction of permenant teeth,2,dental
+211447,extraction of posterior primary,1,dental
+211448,extraction of posterior t,1,dental
+211449,extraction of posterior tooth,4,dental
+211450,extraction of posterior tooth (14424,1,dental
+211451,extraction of posterior tooth(10022,1,dental
+211452,extraction of primary tooth,3,dental
+211454,extraction of r.r of badly decayed tooth,1,dental
+211455,extraction of r.r of tooth,1,dental
+211456,extraction of r.r or b.d deciduous teeth - خلع اسنان او اضراس منأكله لبنيه,1,dental
+211457,extraction of r.r tooth,1,dental
+211458,extraction of remain roots complex,1,dental
+211459,extraction of remain roots simple,1,dental
+211460,extraction of remaing root,1,dental
+211461,extraction of remaining root,6,dental
+211462,extraction of remaining root of deciduous tooth,1,dental
+211463,extraction of remaining roots,3,dental
+211464,extraction of remaining roots simple,1,dental
+211465,extraction of remaining roots-347,1,dental
+211466,extraction of remaining tooth ant,1,dental
+211467,extraction of remaining tooth by flab,1,dental
+211468,extraction of remaining tooth post,1,dental
+211469,extraction of remaninig root simple,1,dental
+211470,extraction of remenant root,3,dental
+211471,extraction of remining root,1,dental
+211472,extraction of remining rooth,1,dental
+211473,extraction of remining tooth,2,dental
+211474,extraction of root,2,dental
+211475,extraction of root - complex,1,dental
+211476,extraction of root - complex - deep / a,1,dental
+211477,extraction of root complex,1,dental
+211478,extraction of root fragment,4,dental
+211479,extraction of root-complex,2,dental
+211480,extraction of roots,2,dental
+211481,extraction of roots - complex,1,dental
+211482,extraction of roots - complex - deep /f,2,dental
+211483,extraction of roots - simple,1,dental
+211484,extraction of roots complex (bu)[20.14,1,dental
+211485,extraction of roots complex deep,2,dental
+211486,extraction of roots deci.tooth,1,dental
+211487,extraction of roots simple,2,dental
+211488,extraction of roots-complex-deep,1,dental
+211489,extraction of roots-simple,1,dental
+211490,extraction of rr,2,dental
+211491,extraction of rr wisdom tooth,1,dental
+211492,extraction of rr/badly decayed tooth,1,dental
+211493,extraction of rr/badly decayed wisdom tooth,1,dental
+211494,extraction of semi-impacted tooth,1,dental
+211495,extraction of septic nail,1,dental
+211496,extraction of soft tissue impacted tooth,1,dental
+211497,extraction of spetic nail + dress,1,dental
+211498,extraction of stone from ant.urethre,1,dental
+211499,extraction of stone from anterior urethera,1,dental
+211500,extraction of stone from anterior urethr,1,dental
+211501,extraction of stone from anterior urethra,1,dental
+211502,extraction of stone in ureter by ureteroscope,1,dental
+211503,extraction of subcutaneous foreign body under l a,2,dental
+211504,extraction of superficial f b,1,dental
+211505,extraction of superficial f. b,1,dental
+211506,extraction of superficial f.b,1,dental
+211507,extraction of superficial f.b under l.a,1,dental
+211508,extraction of superficial fb la,1,dental
+211509,extraction of superficial foreign body,1,dental
+211510,extraction of supernumerary tooth (not impacted,1,dental
+211511,extraction of tooth,6,dental
+211512,extraction of tooth (simple,1,dental
+211513,extraction of tooth / removal of crown,1,dental
+211514,extraction of tooth feragments,1,dental
+211515,extraction of tooth fragments,1,dental
+211516,extraction of tooth fragment\small retained tooth including l.a,1,dental
+211517,extraction of tooth one root,1,dental
+211518,extraction of tooth w/ flap,1,dental
+211520,extraction of tooth.root.complex,1,dental
+211521,extraction of tooth/root/complex,1,dental
+211522,extraction of tooth/root/complex (wisdom,1,dental
+211523,extraction of totally impacted wisdom tooth,1,dental
+211524,extraction of urnral foreign body,1,dental
+211525,extraction of vertically non erupted tooth,2,dental
+211526,extraction of visdom tooth,1,dental
+211527,extraction of wisdom,4,dental
+211528,extraction of wisdom molar,1,dental
+211529,extraction of wisdom tooth,5,dental
+211530,extraction of wisdom tooth (malposed,1,dental
+211531,extraction of wisdom tooth (malposed) (surgical,3,dental
+211532,extraction of wisdom tooth (surgical,1,dental
+211533,extraction of wisdom tooth non surgical,2,dental
+211534,extraction of wisdom tooth simple,1,dental
+211535,extraction of wisdom tooth under g/a,1,dental
+211536,extraction of wisdom tooth(10024,1,dental
+211537,extraction of wisdom tooth(non-surgical,2,dental
+211539,extraction of wisdom tooth-nonsurgical,1,dental
+211541,extraction one tooth (adult) anterior,1,dental
+211542,extraction one tooth (adult) posterior,1,dental
+211543,extraction one tooth (children,1,dental
+211544,extraction one tooth (remaining roots,1,dental
+211545,extraction ped,3,dental
+211546,extraction per tooth,1,dental
+211547,extraction permanent tooth simple,1,dental
+211548,extraction permenant mobile,1,dental
+211549,extraction permenant mobile(dn09,1,dental
+211550,extraction posterior molar,2,dental
+211551,extraction posterior tooth,2,dental
+211552,extraction posterior tooth simple,1,dental
+211553,extraction primary tooth,1,dental
+211554,extraction primary tooth - complex,1,dental
+211555,extraction primary tooth - mobile,1,dental
+211556,extraction primary tooth complex,1,dental
+211557,extraction primary tooth mobile,1,dental
+211558,extraction primary tooth-compl,1,dental
+211559,extraction primary tooth-mobil,1,dental
+211560,extraction r.r.or b.d.wisdom molar,1,dental
+211561,extraction r>r surgical,1,dental
+211562,extraction remaining root deciduous (poserior,1,dental
+211563,extraction remaining tooth roots (cutting procedure,1,dental
+211564,extraction root - normal,1,dental
+211565,extraction root for permanent tooth,1,dental
+211566,extraction simpl,1,dental
+211567,extraction simple,6,dental
+211568,extraction simple(d013,1,dental
+211569,extraction single tooth/simple,1,dental
+211570,extraction socket dressing,1,dental
+211571,extraction socket dressing w\ bone curettage,1,imaging
+211572,extraction ss,1,dental
+211573,extraction superficial f.b,2,dental
+211574,extraction surgical,4,dental
+211575,extraction surgical l.a (one tooth,1,dental
+211577,extraction surgical simple,1,dental
+211578,extraction surgical(d009,1,dental
+211579,extraction surgical(d014,1,dental
+211580,extraction teeth,1,dental
+211581,extraction temporary tooth,2,dental
+211582,extraction tooth,4,dental
+211583,extraction tooth root,1,dental
+211584,extraction tooth root (any tooth,1,dental
+211585,extraction tooth root any tooth,2,dental
+211586,extraction tooth root( any tooth,1,dental
+211587,extraction tooth/root (any tooth,1,dental
+211588,extraction tooth/root/ any tooth,1,dental

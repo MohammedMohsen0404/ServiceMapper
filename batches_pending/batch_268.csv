@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+464210,preventive-panoral-x-ray,1,imaging
+464213,previous 3 lscs,1,other
+464214,previous 4 lscs,1,other
+464215,previous cs,1,other
+464254,prgnancy test,1,lab_test
+464256,priapical x- ray,1,eyewear
+464257,priapical x-ray,1,imaging
+464258,priapism (puncture opereation,1,procedure
+464259,priapism-vascular shunt procedure,1,procedure
+464264,prick test - per allergen (additional,1,lab_test
+464265,prick test for allergy,1,lab_test
+464266,prick test for allergy (1 to 25 allergens,1,lab_test
+464267,prick test for allergy (1-25 allergens,1,lab_test
+464268,prickle cell desmosomes abs,1,lab_test
+464269,pride,1,other
+464270,pright,1,other
+464271,prila,2,other
+464330,prila 5cream,1,other
+464339,prim pran,2,other
+464340,"prim rep flexor tendon hand prx a1 pully, unilateral",1,other
+464341,prim/sec suture of divided nerve (major,1,supplies
+464345,prima 1.56 hard,1,other
+464346,prima 1.56 sp hmc,1,eyewear
+464347,prima 1.61 hard,1,other
+464607,prima d50000,1,other
+464615,prima rx 1.5 relax hmc,1,eyewear
+464616,prima rx 1.5as,1,eyewear
+464633,prima-d 5000 60caps,1,other
+464635,prima-d 5000 ui 60cap,1,other
+464636,prima-d 50000,1,other
+464645,prima1.56hmc,1,other
+464646,prima1.6iron,1,other
+464650,primad3 50000,1,other
+464743,primalac ultima pro for colic,1,other
+464749,primalac universal t eats,1,other
+464755,primalac wheat cereals,1,other
+464759,primapore strl 25x8.25cm medipore dres,1,other
+464760,primapore strl 25x8.25cm medipore25/bx,1,procedure
+464761,primapore (any size,1,other
+464762,primapore 10x8 cm 1s,1,other
+464763,primapore 10x8 cm 3s,1,other
+464764,"primapore 10x8cm medipore #3566e 4""x4",1,other
+464765,primapore 15x8 cm 1s,1,other
+464766,primapore 20x10 cm 1s,1,other
+464767,"primapore 20x10cm medipore #3570e 4""x7",1,other
+464768,primapore 25x10 cm 1s,1,other
+464769,primapore 8.3x6 cm 1s,1,other
+464770,primapore 8.3x6 cm 3s,1,other
+464771,"primapore 8.3x6cm medipore#3562e 2""x2",1,other
+464772,primapore adh dress 15x8 cm 1 pc,1,procedure
+464773,primapore adh dress 8.3x6 cm 1 pc,1,procedure
+464774,primapore dressing,1,supplies
+464775,primapore dressing 25*10 cm each,1,supplies
+464776,primapore plaster 10x8 3/pack,1,supplies
+464777,primapore post-op.dress.20x10cm 1x20's,1,procedure
+464780,primary c-section package - shared,1,other
+464781,primary care burn 5% area,2,other
+464783,primary care consultation for almoosa policy,1,consultation
+464784,primary check up + tsh الفحص الروتيني + هرومون الغدة الدرقية,1,lab_test
+464786,primary ciliary dyskinesia gene panel (centogene,1,lab_test
+464787,"primary closed reduction of fracture or dislocation of joint, + - external fixat",1,procedure
+464788,primary excision of malignant lesion - trunk & limbs,1,procedure
+464789,primary immune deficiency (ngs)- genetic testing - s.o,1,lab_test
+464790,primary immunodeficiency assay (flow cytometry) - s.o,1,lab_test
+464791,primary infusomat line standard set,1,other
+464792,primary investigations,1,other
+464793,primary iv set (lq 5000) abbott 48/bx,1,supplies
+464794,primary neurolysis of peripheral nerve nec,1,procedure
+464795,primary open reduction of fracture of ankle and extramedullary fixation nec,1,procedure
+464796,primary open reduction of fracture of long bone and complex extramedullary fixation nec,1,imaging
+464797,primary open reduction of fracture of long bone and extramedullary fixation using plate nec,1,imaging
+464798,primary open reduction of fracture of small bone and fixation using screw,1,imaging
+464799,primary open reduction of traumatic dislocation of joint and skeletal traction nec,1,procedure
+464800,primary osteotomy of pelvis for correction of congenital deformity of hip - 075-x22.2,1,procedure
+464801,primary pci w thombus aspiration,1,procedure
+464802,primary pci with thrombus aspiration,1,procedure
+464803,primary plum pump iv set # 12030 (hs-14001,1,supplies
+464804,primary reduction of fracture of neck of femur and internal fixation,1,procedure
+464805,primary repair of cleft lip or palate,1,procedure
+464806,primary repair of cleft palate,1,procedure
+464807,primary repair of extensor of hand,1,procedure
+464808,primary repair of extensor tendon of hand,1,procedure
+464809,primary repair of flexor of hand (excluding zone ii,1,procedure
+464810,primary repair of rupture of acromioclavicular or sternoclavicular joint (includ,1,procedure
+464811,primary repair of strangulated inguinal hernia,1,procedure
+464812,primary repair of tendon using graft,1,procedure
+464813,primary repair of tendon using graft - 075-t67.5,1,procedure
+464814,primary simple repair of tendon,1,procedure
+464816,"primary source smear gram stain for bacteria, fungi, or cell types",3,lab_test
+464817,"primary source smear special stain for inclusion bodies or parasites (eg, malaria, coccidia, microsporidia, trypanosomes, herpes viruses",3,lab_test
+464820,primary suture of skin (large,1,supplies
+464821,primary suture of skin nec,1,supplies
+464822,primary teeth extraction,2,dental
+464823,primary tooth extraction,5,dental
+464824,primary tooth extraction (anchored,1,dental
+464825,primary tooth normal extraction,1,dental
+464826,primary tooth rct(pulpectomy,1,dental
+464827,primary%20source%20smear%20%20%3b%20fluorescent%20and/or%20acid%20fast%20stain%20for%20bacteria%2c%20fungi%2c%20parasites%2c%20viruses%20or%20cell%20types,1,other
+464828,primarx1.5ashmc,1,other
+464831,prime ultra,1,other
+464840,primeperan,1,other
+464841,primidone level,1,lab_test
+464842,primigravida (normal delivery,1,procedure
+464843,primigravida normal delivery,1,procedure
+464844,primmperan,2,other
+464845,primo,2,other
+464902,primolut,1,other
+464910,primolut n 30tab,2,other
+464943,primolut- n,1,other
+464947,primolut-n 30tab,2,other
+465026,primolut-n30tab,1,other
+465036,primovist 0.25mmol-ml pre-filled syrings,1,other
+465037,primovist hepatobiliary- mr contrast,1,imaging
+465040,primparan / vom,1,other
+465042,primperam,1,other
+465269,primperann,2,other
+465270,primperanprimperan,1,other
+465271,primpiran,2,other
+465273,primpram,1,other
+465274,primpran,3,other
+465275,primpran (iv,1,supplies
+465276,primpran (metoclopramid,1,other
+465277,primpran -i.m. / er,1,lab_test
+465289,primpran ampule,2,other
+465290,primpran im,2,other
+465300,primprane,3,other
+465305,primprin,1,other
+465309,prin ting of gun,1,other
+465310,prince,2,other
+465311,prince 3054 51 ca-1 unisex,1,lab_test
+465312,prince ppf 15203 50 c58 female,1,other
+465313,prince ppf 15206 53 c7 female,1,other
+465314,prince ppf 152091 51 c95 female,1,other
+465315,prince ppf 1610 53 c39 unisex,1,other
+465316,prince ppf 1615 51 c35 unisex,1,other
+465317,prince ppf 17158 51 c27 unisex,1,other
+465318,prince ppf 2509 50 c93 unisex,1,other
+465319,prince ppf 961 50 c96 male,1,other
+465320,prince s6707 50 c4 male,1,eyewear
+465331,principal x-ray,1,imaging
+465332,prinperan,1,other
+465333,prinpran,1,other
+465334,printing baby foot identification inkless includes imprint wipes and id forms non-sterile disposable (100s,1,supplies
+465335,printing foot identification micro film non-sterile disposable (25s,1,supplies
+465340,priorin n,1,other
+465343,priorin n 90cap,2,other
+465386,priorix tetra,1,other
+465388,priorix tetra vaccin,2,other
+465394,priorix-tetra,1,other
+465400,"priorix-tetra vaccine (measles, mumps, rubella (mmr), varicella vaccine",1,lab_test
+465411,"priorix-tetra vaccine. (measles, mumps, rubella *mmr*, varicella vaccine",1,lab_test
+465412,"priorix-tetra vaccine. (measles, mumps, rubella, varicella",1,lab_test
+465413,"priorix-tetra vaccine. measles virus *schwarz* live attenuated,mumps virus *jeryl lynn, strain rit 4385* live attenuated,rubella virus *wistar ra 27/3* live attenuated,varicella zoster virus *oka strain* live attenuated",1,lab_test
+465414,priorix-tetra%20vaccine,1,other
+465416,priorixtetravaccine,1,other
+465419,pripical film,1,other
+465420,prisma cpap auto smart (wm31620,1,supplies
+465421,prisma cpap auto smart max (lmt31960va-1210,1,supplies
+465422,prisma dialysis,1,procedure
+465423,prisma set,1,other
+465424,prismaflex hemofilter set m100,1,other
+465425,prismaflex m 100 set,1,other
+465426,prismaflex m 100 set # 106697 baxter(150 set,1,other
+465427,prismaflex m100,1,other
+465428,prismaflex m100 blood warmer connection,1,lab_test
+465429,prismaflex m100 cat# 106697,1,other
+465430,prismaflex set 150 st,1,other
+465431,prismaflex tpe2000,1,other
+465432,prismasol 2 # 955827pvt baxter,1,other
+465434,prismasol 4,1,other
+465435,prismasol 4 # baxter,1,other
+465465,privapdt special nurse for 24 hrs.te nurse per day,1,consultation
+465466,privat room,1,consultation
+465467,private,2,consultation
+465468,private de luxe room per day,1,consultation
+465469,private doctor,1,consultation
+465470,private plus renovated - junior suite,1,consultation
+465472,private room ( 1st class,1,consultation
+465473,private room (1st class) / day,2,consultation
+465474,private room (per day,1,consultation
+465475,private room (vip,1,consultation
+465476,private room (vip) - 099-10431,1,consultation
+465477,private room - 099-10430,1,consultation
+465478,private room - companion,1,consultation
+465479,private room / day,1,consultation
+465480,private room companion,1,consultation
+465481,private room companion over 13 years old (tawuniya only,1,consultation
+465482,private room consultant visit / day,1,consultation
+465483,private room for isolation per day,1,consultation
+465484,private room l,1,consultation
+465485,private room m,1,consultation
+465486,private room package deal,1,consultation
+465487,private room per day,1,consultation
+465488,"private room per day (including accomodation, board & bed",2,supplies
+465489,private room per day (dr. visit + nursing care+bed charge+ daily disposables,1,supplies
+465491,"private room per day (including accomodation, board and bed",1,supplies
+465492,private room rate,2,consultation
+465493,private room with companion,1,consultation
+465494,private/single room,1,consultation
+465495,private room - daily doctor visit,1,consultation
+465496,private room - nursing services,1,consultation
+465824,privo1.5 normal,1,other
+465825,privo1.6 blue cut stock,1,other
+465826,privo1.6 stock green,1,other
+465829,prizma (piperacillin/ tazobactam,1,other
+465886,prizma4g/0.59,1,other
+465887,prk photorefractive keratectomy,1,procedure
+465888,prk ( 1 eye,1,other
+465889,prk + cxl two (2) eyes,1,other
+465890,prk for both eyes,2,other
+465891,prk for one eye,2,supplies
+465892,prk investigation,1,other
+465894,prk refractive surgery for both eyes,1,procedure
+465897,prk+cxl for one eye,1,supplies
+465898,prl,3,other
+465899,prl (prolactin,1,lab_test
+465900,prmperan,1,other
+465901,prnfine needles device,1,supplies
+465902,pro - bnp,1,other
+465903,pro b-type natriuretic peptide (bnp,1,lab_test
+465904,pro bnp,2,other
+465905,pro bnp - pro brain natriuretic peptide,1,lab_test
+465906,pro calcitonin,2,other
+465907,pro calcitonin (pct,1,other
+465908,pro calcitonine,1,other
+465909,pro collagen iii peptide (p-iii-p) - s.o,1,lab_test
+465910,pro index (1.50) blue,1,other
+465911,pro index (1.50) green,1,other
+465912,pro index (1.60) blue,1,other
+465915,pro lactin,3,other
+465919,pro optic eye shield - pedia 50/bx,1,procedure
+465920,pro performance 100% wheh protein ( chocolate,1,lab_test
+465921,pro performance amino - 1000,1,other
+465922,pro performance creatine monohydrate - orange,1,lab_test
+465924,pro performance weight gainer 1850 - ( chocolate,1,other
+465925,pro tack auto suture 5mm # 174006,1,supplies
+465926,pro ultra cover civco || needle guide sterile 14x91.5cm (5.5 x36) 610-608 box 24,1,supplies
+465927,pro-bnp,1,other
+465928,pro-bnp (nt-pro bnp,1,other
+465929,pro-calcitonine,1,other
+465931,"pro-picc line (5frx55cm or 6frx60cm) double lumen catheter,basic set - per pcs",1,supplies
+465932,pro-support ankle support s. m. l,1,supplies
+465934,prob otoscope specula size 4.25,1,other
+465936,probbing irrigation of nldo under mask/ga,1,supplies
+465937,probbing irrigation of nldo under mask/ga both_opm2657,1,supplies
+465938,probbing irrigation of nldo under mask/ga left,1,supplies
+465939,probbing under l.a,1,lab_test
+465940,"probe , advance energy 50 degree probe with suction , (aes-50s",1,supplies
+465941,"probe , arthroscopic , .,mahe medical , 50.050.06",1,supplies
+465942,"probe , arthroscopic energy 90 degree probe , with suction (aes-90sn",1,supplies
+465943,"probe , coblation , ambient super turbovac 90 ifs, icw, shaft 3.75mm, 90 degrees, sterile",1,supplies
+465944,"probe , coblation , ambient super turbovac 90 ips shaft 3.75mm 90 degree",1,supplies
+465945,"probe , cover , thermometer 25/b welch allyn- 020130080000100",1,supplies
+465946,"probe , cover , thermometer for welch allyn - oral, , non",1,supplies
+465947,"probe , cover , thermometer for welch allyn- (020130080000100",1,supplies
+465948,"probe , cover , thermometer welch allyn",1,supplies
+465949,"probe , cover , thermometer welch allyn,----- , 05031-101",1,supplies
+465950,"probe , lithoclast , sz. 1mm l605mm",1,supplies
+465951,probe apc erbe,1,supplies
+465952,probe aspirating ablator apollo 90 extra large,1,supplies
+465953,"probe cover # 05031101,welchallyn-usa",1,supplies
+465954,probe cover (welch/allyn) box/25pieces,1,supplies
+465955,probe cover ear thermoscan,1,supplies
+465956,probe cover f/thermometer w.allyn #05031,1,supplies
+465957,probe cover f/thermometer welch allyn # 05031-101,1,supplies
+465958,"probe cover f/thermometer#05031101, , welchallyn",1,supplies
+465959,probe cover f/thermoscan disposable welch allyn #06000-800,1,supplies
+465960,probe cover f/thermoscan disposablewelch allyn #06000-800,1,supplies
+465961,probe cover for braun ear thermometer welchallyn,1,supplies
+465962,probe cover for electronic thermometer welchallyn 05081-101,1,supplies
+465963,probe cover for tympanic thermometer (braun-welch allyn thermoscan) 800/box,1,supplies
+465964,probe cover for welch allyn suretemp thermometer-per pcs,1,supplies
+465965,probe cover for welchallyn# 05031 thermometer,1,supplies
+465968,probe cover s: 15x122cm microtek bx/20 #pc1290 uk,1,supplies
+465969,probe cover tympanic thermomtr. 1185 resiter,1,supplies
+465970,probe cover ultrasound condom ultra 52mm,1,imaging
+465971,"probe cover,thermoscan-braun, 04000-800",1,supplies
+465972,probe covers for ear thermometer,1,supplies
+465973,probe covers for oral thermometer,1,supplies
+465974,probe fiac 2200sc d2.3mm flexible l2.2mtr #2032-224,1,supplies
+465975,"probe filac #501100250, bioletech",1,supplies
+465976,"probe filac fistula f/laser sys.503100250,biolitec , , dummy manf",1,supplies
+465977,probe fistula filac biolitec #503100250,1,supplies
+465978,probe lap. abc 10mm/28cm (5 patients,1,supplies
+465979,probe microblator diff. size s&n,1,supplies
+465980,"probe monopolar 45mm,angled 30 inomed origin #525603",1,supplies
+465981,probe nasolacrimal duct w/wo irrigation (clinical,1,supplies
+465982,probe plasma f/turbinate reduction and ablation # a4845s,1,lab_test
+465983,probe pulse oximeter sensor pedia criticare #975pd,1,supplies
+465984,"probe sensor adhesive mx50068, nelcor, , , general manufacturer",1,supplies
+465985,probe sensor saturation finger tip preterm neonate disposable medtronic #max-n-i,1,supplies
+465986,probe skin thermometer with hydrogel for ohmeda giraffe omnibed disposable,1,supplies
+465987,probe std prass flush tip,1,supplies
+465988,probe stimulator monopolar standard prass flush-tip 0.5mm diameter disposable,1,supplies
+465989,probe thermometer welch,1,supplies
+465990,"probe with suction arthroscopy 90 degree , conmed # aes-90sn conmed # aes-90sn",1,supplies
+465991,"probe, anterior vitrectomy, 23 ga, ultravit, centurion, alcon, 8065752134",1,supplies
+465992,"probe, anterior vitrectomy, 23gauge, centurion ultravite, (alco) # 8065752134",1,supplies
+465993,"probe, apc, 2200a, disposable, erbe, 20132-221",1,supplies
+465994,"probe, apc, 2200sc, disposable, erbe, 20132-224",1,supplies
+465995,"probe, hybridknife, o-type, dia 2.3mm, l 1.9m, erbe , 20150-061",1,supplies
+465997,"probe, skin temperature, single patient use, neonatal/pediatric, drager, mp00997",1,supplies
+465998,"probe, thermometer welch allyn/pc",1,supplies
+465999,probecoverforelectronicthermometerwelchal,1,other
+466000,probecoverkitwithge,1,other
+466001,probes pulse oximeter finger clip spo2 adult 3ft/0.9m non-sterile reusable,1,supplies
+466002,probes pulse oximeter finger clip spo2 pediatric 3ft/0.9m non-sterile reusable,1,supplies
+466003,probes pulse oximeter sensor neonatal sterile disposable,1,supplies
+466004,probing,1,procedure
+466005,probing & syringing of lacrimal duct (la,1,procedure
+466006,probing & syringing of naso-lacrimal duct,1,procedure
+466007,probing & syringing of nld,1,procedure
+466008,probing & syringing u.g.a. - unilateral,1,procedure
+466009,probing & syringing under (l.a.) unilateral,1,procedure
+466010,probing & syrning of naso lacrimal duct / bilateral,1,procedure
+466011,probing &syringing nld,2,procedure
+466012,probing and irrigation,1,procedure
+466013,probing and syringing,1,procedure
+466014,probing and syringing nld la,2,procedure
+466016,probing and syringing of nld,1,procedure
+466017,probing and syringing under ga both eyes with intubation of both lacrimal duct - 1 day pkg,1,procedure
+466018,probing and syringing under ga one eye with intubation of lacrimal duct - 1 day pkg,1,supplies
+466019,probing for one eye (without ga,1,supplies
+466020,probing irrigation one eye,1,supplies
+466022,probing of lacrimal canaliculi,1,procedure
+466023,probing of lacrimal duct under local ana,1,lab_test
+466025,probing of lacrimal passages unilateral,3,procedure
+466026,"probing of lacrimal passages, biilateral",1,procedure
+466027,"probing of lacrimal passages, bilateral",2,procedure
+466028,"probing of lacrimal passages, unilateral",2,procedure
+466029,"probing of lacrimal passages, unilateral (probing nasolacrimal duct",1,procedure
+466030,probing of lacrimal punctum,1,procedure
+466031,probing of lacrimal punctum and/or canaliculid/cdays,1,procedure
+466032,probing of lacrimal punctum/canaliculi,1,procedure
+466033,probing of naso lacrimal duct,1,procedure
+466034,probing of naso lacrimal duct & stent implantation under ga,1,supplies
+466035,probing of naso lacrtmal duct under ga,1,procedure
+466036,probing of nasolacrimal duct - 1 day pkg,1,procedure
+466037,probing of nasolacrimal duct with implantation of tube or stent,2,supplies
+466038,probing of nasolacrimal duct with or without irrigation both eyes,1,procedure
+466039,"probing of nasolacrimal duct, with or without irrigation",2,procedure
+466040,probing of nasolacrimal duct->c09.43&,1,procedure
+466041,probing of nld ( 1eye,1,procedure
+466042,probing of nld ( 2 eyes,1,procedure
+466043,probing of salivary duct (or removal of calculus)->c26.91,1,procedure
+466044,probing of salivary duct (removal of calculus) - 1 day pkg,1,procedure
+466045,probing of salivary duct or (removal of calculus,1,procedure
+466046,"probing of salivary duct,or removal of calculus",1,procedure
+466047,probing of the lacrymal canal,2,dental
+466048,probing of the nasolacrimal duct,1,procedure
+466049,probing w/stens intubation (unilateral)-1day pkg,1,procedure
+466050,probing and syringing under g.a. (both eyes,1,procedure
+466051,probing and syringing under g.a. (one eye,1,supplies
+466052,probing&syringing of lacrimal duct-ga,1,procedure
+466053,probing&syringing of lacrimal duct-la,2,procedure
+466054,"probing, lacrimal canaliculi, w/wo irrigation",1,procedure
+466055,"probing, nasolacrimal duct, w/wo irrigation; local anasthesia",1,procedure
+466056,"probing,irrigation and stending one eye",1,supplies
+466058,probnp,1,other
+466059,probnp (pro brain natriuretic pep,1,other
+466060,probnp (pro brain natriuretic,1,other
+466061,probnp g2 stat elecsys cobas e 100 v2 (8836744190,1,other
+466062,probnp(prob-type natriuric peptide,1,lab_test
+466063,proc.under sedation-outside or,2,procedure
+466065,procainamide provocation (one test,1,lab_test
+466066,procainamide/n- acetyl procainamide-napa,1,other
+466067,procalcetonin,1,other
+466068,procalcitonin,3,other
+466069,procalcitonin ( pct,1,other
+466070,procalcitonin (p.c.t,1,imaging
+466071,procalcitonin (pct,2,other
+466072,procalcitonin -pct- (sepsis marker,1,other
+466073,procalcitonin pct,2,other
+466074,procalcitonin s,1,other
+466075,procalcitonin test,2,lab_test
+466076,procalcitonin( so ) la99900943,2,other
+466077,"procalcitonin, pct",1,other
+466079,procalcitonine,1,other
+466080,procalictonin,1,other
+466081,procalictonin frozen serum,1,lab_test
+466082,procalictonin pct,1,other
+466083,procalictonin(510078,1,other
+466084,procaltin pct,1,other
+466086,procedural sedation in er,1,procedure
+466087,procedural sedation/conscious sedation - er,1,procedure
+466088,procedure,2,other
+466089,procedure room utilized for diagnostic and therapeutic procedures as,2,consultation
+466090,"procedure , kit , male color blue",1,other
+466092,procedure consisiting of removal of atooth or apart thereof,1,procedure
+466093,procedure consisting of the removal of a tooth or parts thereof,1,dental
+466094,procedure fna,1,other
+466095,procedure fna (lab test,1,lab_test
+466096,procedure for prlapse and haemorrhoid(pph,1,other
+466097,procedure genarel,1,other
+466098,procedure kit/trays irrigation/lavage wound sterile disposable,1,supplies
+466099,procedure kit/trays lumbar puncture pediatric sterile disposable,1,supplies
+466100,procedure pack f/rectal biopsy system #cp1200,1,supplies
+466101,procedure room/minor operating room including consumables,1,consultation
+466102,procedure under general anaesthesia of 3,1,procedure
+466103,procedure under general anaesthesia over,1,procedure
+466104,procedure under general anaesthesia up t,1,procedure
+466105,procedure-ent,1,other
+466106,procedures (g.a) up to 1,1,lab_test
+466107,procedures (g.a) up to 15 minutes,1,lab_test
+466108,procedures (g.a)15 to 30 minutes,1,lab_test
+466109,procedures (g.a)30 to 45 mins,1,lab_test
+466110,procedures (g.a)45 to 60 mins,1,lab_test
+466111,procedures (ga) 1 1/2 to 2 hrs,1,other
+466112,procedures (ga) 1 to 1 1/2 hr,1,other
+466113,procedures (ga) 2 1/2 to 3 hrs,1,other
+466114,procedures (ga) 2 12 to 3 hrs,1,other
+466115,procedures (ga) 2 to 2 1/2 hrs,1,other
+466116,procedures (l.a) < 30 minutes,1,lab_test
+466117,procedures (l.a)15 to 30 mins,1,lab_test
+466118,procedures (l.a)30 to 45 mins,1,lab_test
+466119,procedures / materials on obstetrics / gynecology,1,other
+466120,procedures >16 <30 minutes,1,other
+466121,procedures for earing,2,other
+466122,procedures upto 15 minutes,1,other
+466123,procelain crown (type i,1,dental
+466124,procelain crown (type ii,1,dental
+466125,procelain crown on top of implant,1,dental
+466126,procera crown,1,dental
+466127,procera veneer,1,other
+466128,proclear monthly transparent,1,other
+466129,proclear toric (yearly) - per pcs,1,other
+466130,procollagen iii peptide (p-iii-p,1,lab_test
+466131,procollagen iii-peptide (p-iii-p,1,lab_test
+466163,proctatic biopsy transurethral without histopath,1,lab_test
+466170,procto glyvenol,3,other
+466175,procto glyvenol 10supp,1,other
+466215,procto glyvenol suppo,1,other
+466216,procto glyvenol suppos,1,other
+466222,procto sigmoidoscopy under general anesthesia,1,procedure
+466223,procto sigmoidoscopy with biopsy and film general anesthesia,2,procedure
+466231,procto-colectomy,1,procedure
+466236,procto-glyvenol 10 sup400,1,other
+466237,procto-glyvenol 10 suppos,1,other
+466238,procto-glyvenol 10supp,1,other
+466288,procto-glyvenol%20cream,1,other
+466292,procto-glyvenol400mg 10supp,1,other
+466293,procto-sigmoidoscopy,1,procedure
+466294,"proctocolectomy, complete (for congenital megacolon), abdominal and perineal (transanal) approach; with pull-through procedure and anastomosis (eg, swenson, duhamel, or soave type operation",1,procedure
+466295,proctocope,1,other
+466306,proctoglyvenol sup 10s,1,other
+466310,proctogyvenol cream30 grm,1,other
+466330,"proctoheal suppository0.01,0.5,10%",1,other
+466337,proctolar hemorroids,1,other
+466346,proctolar tube,1,supplies
+466353,proctoscope,1,other
+466354,proctoscope disposable small/medium,1,supplies
+466355,proctoscope w/out biobsy,1,other
+466356,proctoscope+haemorrhoidectomy,1,procedure
+466357,"proctoscope, disposable, medium",1,supplies
+466358,proctoscopy,4,procedure
+466359,proctoscopy (clinic,1,consultation
+466361,proctoscopy - a,1,procedure
+466362,proctoscopy - anuscopy,1,procedure
+466363,proctoscopy - b,1,procedure
+466364,proctoscopy - c,1,procedure
+466365,proctoscopy - general surgery,1,procedure
+466366,proctoscopy - internal medicine,1,procedure
+466367,proctoscopy - rigid,1,procedure
+466368,proctoscopy /sigmoidoscopy diagnositc (rigid,1,procedure
+466369,proctoscopy anuscopy,1,procedure
+466370,proctoscopy diagnostic,1,procedure
+466371,proctoscopy diagnostic-pkg,1,procedure
+466372,proctoscopy diagnostic-pkg-3-170-170010,1,procedure
+466373,proctoscopy opd,1,consultation
+466374,proctoscopy p.r,1,procedure
+466375,proctoscopy under l/a,1,procedure
+466376,proctoscopy with polypectomy - single/mu,1,procedure
+466377,"proctoscopy, rigid; dx (sep proc",1,procedure
+466379,"proctosigmoidoscopy, rigid; dx (sep proc",1,procedure
+466382,procurement of tendon for graft,1,procedure
+466383,"procurement of tendon for graft, unilateral",1,procedure
+466385,prodesign fram,1,eyewear
+466386,product of conception (cytogenetics,1,other
+466387,prof,3,consultation
+466503,prof 400,2,consultation
+466506,prof 400 m,1,consultation
+466603,prof 400 infusion,1,supplies
+466618,prof 400m,1,consultation
+466672,prof 400mg30tabs,1,consultation
+466750,prof 600 mgtab,1,consultation
+466804,prof bassem yousef sheikh,1,consultation
+466807,prof cold & flu,2,consultation
+466808,prof cold & flu 20 caplets,3,consultation
+466819,prof cold & flu 20tab,1,consultation
+466820,prof cold & flu 20tabs,1,consultation
+466825,prof cold & flu caplet/20,1,consultation
+466826,prof cold & flu caplets,1,consultation
+466848,prof cold &flu,1,consultation
+466851,prof cold 20tab,1,consultation
+466852,prof cold and flu,3,consultation
+466853,prof cold and flu 20 caplets,1,consultation
+466857,prof cold and flu 20caplet,1,consultation
+466858,prof cold and flu film coated caplets 20 pk,1,consultation
+466860,prof cold and flue,1,consultation
+466862,prof cold and flutablet,1,consultation

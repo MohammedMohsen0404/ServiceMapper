@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+457549,plastic normal /+ 4.00 1.25 bupa,1,eyewear
+457550,plastic normal /+ 4.00 1.50 bupa,1,eyewear
+457551,plastic normal /+ 4.25 0.25 bupa,1,eyewear
+457552,plastic normal /+ 4.50 0.50 bupa,1,eyewear
+457553,plastic normal /+ 4.50 0.75 bupa,1,eyewear
+457554,plastic normal /+ 4.50 1.75 bupa,1,eyewear
+457555,plastic normal /+ 4.50 sph bupa,1,eyewear
+457556,plastic normal /+ 4.75 0.25 bupa,1,eyewear
+457557,plastic normal /+ 4.75 1.00 bupa,1,eyewear
+457558,plastic normal /+ 5.00 0.50 bupa,1,eyewear
+457559,plastic normal /+ 5.25 1.00 bupa,1,eyewear
+457560,plastic normal /+ 5.25 2.50 bupa,1,eyewear
+457561,plastic normal /+ 5.50 1.25 bupa,1,eyewear
+457562,plastic normal /+ 5.50 2.00 bupa,1,eyewear
+457563,plastic normal /+ 6.00 0.50 bupa,1,eyewear
+457564,plastic normal /+ 6.00 1.50 bupa,1,eyewear
+457565,plastic normal /+ 8.00 sph bupa,1,eyewear
+457566,plastic normal /+3.00 100 bupa,1,eyewear
+457567,plastic normal 0-4/0-4,2,eyewear
+457568,plastic normal 1.5 - 6.00 : 2.00,1,eyewear
+457569,plastic normal 1.5 rx - 10.00 : 4.00,1,eyewear
+457570,plastic normal 1.59 rx - 6.00 : 6.00,1,eyewear
+457571,plastic normal 2 (per piece,1,eyewear
+457572,plastic normal 2x2 (per piece,1,eyewear
+457573,plastic normal 4 (per piece,1,eyewear
+457574,plastic normal 4x2 (per piece,1,eyewear
+457575,plastic normal 4x4 (per piece,1,eyewear
+457576,plastic normal 6 (per piece,1,eyewear
+457577,plastic normal 6x4 (per piece,1,eyewear
+457578,plastic normal 72,1,eyewear
+457579,plastic normal at 4/2,1,eyewear
+457580,plastic normal at 4/4,1,eyewear
+457581,plastic normal cr 39,1,eyewear
+457582,plastic normal cr-39,1,eyewear
+457583,plastic normal cr39,1,eyewear
+457584,plastic normal gr 1,1,eyewear
+457585,plastic normal gr 2,1,eyewear
+457586,plastic normal gr 3,1,eyewear
+457587,plastic normal gr2,1,eyewear
+457588,plastic normal gr3,1,eyewear
+457589,plastic normal hi -index,1,eyewear
+457590,plastic normal hi index,2,eyewear
+457591,plastic normal hi index 1.6,1,eyewear
+457592,plastic normal hi index 1.61,1,eyewear
+457593,plastic normal hi index 1.67,2,eyewear
+457594,plastic normal hi index 161,1,eyewear
+457595,plastic normal hi-index -1.61,1,eyewear
+457596,plastic normal hi-index 1.6,1,eyewear
+457597,plastic normal hi-index 1.61,2,eyewear
+457598,plastic normal hi-index 1.67,1,eyewear
+457599,plastic normal hiindex 1.61,1,eyewear
+457600,plastic normal lomic,1,eyewear
+457601,plastic normal medical lenses,1,eyewear
+457602,plastic normal order,1,eyewear
+457603,plastic normal polo,1,eyewear
+457604,plastic normal single vision,1,eyewear
+457605,plastic normal single vision hi-index,1,eyewear
+457606,plastic normal single visoin,1,eyewear
+457607,plastic normal عدسات طبية,1,eyewear
+457608,plastic normal-/+ 0.25 1.50,1,eyewear
+457609,plastic normal-/+ 0.25 1.50-bupa,1,eyewear
+457610,plastic normal-/+ 0.50 1.50,2,eyewear
+457612,plastic normal-/+ 0.50 1.50-bupa,1,eyewear
+457613,plastic normal-/+ 0.50 3.50-bupa,1,eyewear
+457614,plastic normal-/+ 2.75 1.75-bupa,1,eyewear
+457615,plastic normal-/+ 3.50 1.00-bupa,1,eyewear
+457616,plastic normal-/+ 3.50 1.25,1,eyewear
+457617,plastic normal-/+ 3.50 1.25-bupa,1,eyewear
+457618,plastic normal-/+ 5.25 1.25-bupa,1,eyewear
+457619,plastic nrmal hi-index 1.61,1,eyewear
+457620,plastic omega uc,1,eyewear
+457621,plastic op. on hand w. graft or impl.major,1,eyewear
+457622,plastic op. on hand w. graft or impl.medium,1,eyewear
+457623,plastic op. on hand w. graft or impl.simple,1,eyewear
+457624,plastic operation on bone (acromioplasty,1,imaging
+457625,plastic operation on bone (acromioplasty)- 2 day pkg,1,imaging
+457626,plastic operation on bone (acromioplasty)->c78.41,1,imaging
+457627,plastic operation on hand w/ graft or implant->c82.7,1,eyewear
+457628,plastic oryx single vision,1,eyewear
+457629,plastic ot (00.00 00.00) (04.25 06.00) bashawri,1,eyewear
+457630,plastic ot (00.25-02.00) (8.25-10.00)-bashawri,2,eyewear
+457631,plastic ot (02.25-04.00) (2.25-06.00)-bashawri,2,eyewear
+457632,plastic ot . 1.6 (00.25-04.00) (2.25-10.00)-bashawri,1,eyewear
+457633,plastic ot m.c. (00.00-00.00) (00.00-02.00)-bashawri,2,eyewear
+457634,plastic ot m.c. (00.25-02.00) (00.00-02.00)-bashawri,2,eyewear
+457635,plastic p.o.p. below knee ped,1,eyewear
+457636,plastic perfalit stc,1,eyewear
+457637,plastic photo,1,eyewear
+457638,plastic photo gray at 4/2,1,eyewear
+457639,plastic photo gray at 4/4,1,eyewear
+457640,plastic photo gray blue cut at 4/2,1,eyewear
+457641,plastic photo gray blue cut at 4/4,1,eyewear
+457642,plastic photo gray/brown,1,eyewear
+457643,plastic photo poly 1.53 m/c gr1,1,eyewear
+457644,plastic photo progresiv,1,eyewear
+457645,plastic photo progresive,1,eyewear
+457646,plastic phto chromic,3,eyewear
+457647,plastic phto chromic (m.c,3,eyewear
+457648,plastic plus 1.5,1,eyewear
+457649,plastic plus 15,1,eyewear
+457650,plastic poly 1.5 gr1,1,eyewear
+457651,plastic poly carbon crizal a2,1,eyewear
+457652,plastic poly carbon seiko,1,eyewear
+457653,plastic poly1.59/airwaer-a,1,eyewear
+457654,plastic poly1.59/airwear/mc-a,1,eyewear
+457655,plastic progresiv,1,eyewear
+457656,plastic progresiv - 6104002070,1,eyewear
+457657,plastic progresiv 1.6,1,eyewear
+457658,plastic progresiv(1.6,1,eyewear
+457659,plastic progresiv(1.6) upto2.00 cyl-6102001.67,1,eyewear
+457660,plastic progresive,1,eyewear
+457661,plastic progresive colour matic,1,eyewear
+457662,plastic progresive crizal,1,eyewear
+457663,plastic progresive crizal transtion,1,eyewear
+457664,plastic progresive hi,1,eyewear
+457665,plastic progresive m/c,1,eyewear
+457666,plastic progresive seiko,1,eyewear
+457667,plastic progresive seiko transtion,1,eyewear
+457668,plastic progresive sieko hi 1.6,1,eyewear
+457669,plastic progresive sieko hi 1.67,1,eyewear
+457670,plastic progressive / multi focal / varilux,1,eyewear
+457671,plastic progressive impression,1,eyewear
+457672,plastic progressive mc,2,eyewear
+457673,plastic purex,1,eyewear
+457674,plastic purex عدسات طبية,1,eyewear
+457677,plastic relax 1.5,1,eyewear
+457678,plastic repair of rotator cuff of shoulder,1,eyewear
+457679,plastic roden stock,1,eyewear
+457680,plastic rodenstock a-s,1,eyewear
+457681,plastic rodenstock m/c,1,eyewear
+457682,plastic rodenstoke,1,eyewear
+457683,plastic se sph 1.5,1,eyewear
+457684,plastic se sph 1.5 l14,1,eyewear
+457685,plastic see 1.5,1,eyewear
+457686,plastic seiko transtion,1,eyewear
+457687,plastic sheet (universal conn,1,eyewear
+457688,plastic sieko,1,eyewear
+457689,plastic sieko 1.6,1,eyewear
+457690,plastic silcoat,1,eyewear
+457691,plastic singel vision,1,eyewear
+457692,plastic singel vison apple,1,eyewear
+457693,plastic singel vison crisal a2,1,eyewear
+457694,plastic singel vison crizal a2 sabic,1,eyewear
+457695,plastic singel vison high index apple,1,eyewear
+457696,plastic singel vison r.stock,1,eyewear
+457697,plastic single vision,1,eyewear
+457698,plastic single vision apple,1,eyewear
+457699,plastic single vision lenses 1.49,1,eyewear
+457700,plastic single vision lenses 1.49/sp2.00 cyl2.00,1,eyewear
+457701,plastic single vision lenses 1.49/sp4.00 cyl4.00,1,eyewear
+457702,plastic spb 1.5,1,eyewear
+457703,plastic st bifocal 1.6,1,eyewear
+457704,plastic stent fr 10x10cm cat# bpds-32114-1010/22,1,eyewear
+457705,plastic stent fr 10x7cm cat# bpds-32114-1007/22,1,eyewear
+457706,plastic stenting ( additional to ercp charge,1,eyewear
+457707,plastic stitiches for the face 5 or more,1,eyewear
+457708,plastic stock s.v 1.5 normal un coated,2,eyewear
+457709,plastic sur consultatant fee,1,eyewear
+457710,plastic surg cons. (co,1,eyewear
+457711,plastic surg cons. (sp,1,eyewear
+457712,plastic surg consultant fee,1,eyewear
+457713,plastic surgeon consultant fee day,1,eyewear
+457714,plastic surgeon consultation-consultant,1,eyewear
+457715,plastic surgeon fee - consultant (10027,1,eyewear
+457716,plastic surgery cons fee,1,eyewear
+457717,plastic surgery consultant fee,1,eyewear
+457718,plastic surgery consultation,1,eyewear
+457719,plastic surgery consultation (in-patient,1,eyewear
+457720,plastic surgery follow-up,1,eyewear
+457721,plastic surgery for facial wound (large,1,eyewear
+457722,plastic surgery for facial wound - large,1,eyewear
+457723,plastic surgery for facial wound - small,1,eyewear
+457724,plastic surgery hands follow-up,1,eyewear
+457725,plastic surgery hands new follow-up,1,eyewear
+457726,plastic surgery hands new patient,1,eyewear
+457727,plastic surgery large dressing,1,eyewear
+457728,plastic surgery new follow-up,1,eyewear
+457729,plastic surgery of ear lobule - unilateral,1,eyewear
+457730,plastic surgery spec fee,1,eyewear
+457731,plastic surgery suturing under la medium,1,eyewear
+457732,plastic surgery suturing under la minor,1,eyewear
+457733,plastic surgery suturing under la small,1,eyewear
+457734,plastic surgical consultation,1,eyewear
+457735,plastic surgical stitches,2,eyewear
+457737,plastic suturing,2,eyewear
+457738,plastic suturing face medium wound,1,eyewear
+457739,plastic suturing of large wound,1,eyewear
+457741,plastic syn.hmc,1,eyewear
+457745,plastic trans 1.6 brn mc,1,eyewear
+457746,plastic trans 1.6 brn wht,1,eyewear
+457747,plastic trans 1.6 gry mc,1,eyewear
+457748,plastic trans 1.6 gry wht,1,eyewear
+457749,plastic trans 1.67 brn mc,1,eyewear
+457750,plastic trans 1.67 brn wht,1,eyewear
+457751,plastic trans 1.67 gry mc,1,eyewear
+457752,plastic trans 1.67 gry wht,1,eyewear
+457753,plastic trans brn mc,1,eyewear
+457754,plastic trans brn wht,1,eyewear
+457755,plastic trans grey mc,1,eyewear
+457756,plastic trans grey wht,1,eyewear
+457757,plastic trans gry 1.74 mc,1,eyewear
+457758,plastic trans polarised,1,eyewear
+457759,plastic trans. 1.5 seecoat blue uv,1,eyewear
+457760,plastic trans. 1.5 seecoat plus uv,1,eyewear
+457761,plastic trans. 1.6 seecoat plus uv,1,eyewear
+457762,plastic trans. 1.74 seecoat plus uv,1,eyewear
+457763,plastic trans1.5 nikon hcc,1,eyewear
+457764,plastic transistion gray/brown 55m cyl -3.00,2,eyewear
+457766,plastic transistion gray/brown 55m cyl -4.00,1,eyewear
+457767,plastic transistion gray/brown cyl -3.00,2,eyewear
+457768,plastic transistion gray/brown cyl -4.00,2,eyewear
+457769,plastic transistion 1.67 gray/brown,1,eyewear
+457772,plastic transition1.5mc-a,1,eyewear
+457773,plastic transition1.6-a,1,eyewear
+457774,plastic transition1.67mc-a,1,eyewear
+457775,plastic transition1.6mc-a,1,eyewear
+457776,plastic transtion gray at 4/2,1,eyewear
+457777,plastic transtion gray at 4/4,1,eyewear
+457778,plastic trio at 4/2,1,eyewear
+457779,plastic trivex 1.53,1,eyewear
+457780,plastic trylogy,1,eyewear
+457781,plastic uncote hi index,1,eyewear
+457782,plastic uncotte 1.50,1,eyewear
+457783,plastic uncotte 1.60,1,eyewear
+457784,plastic uncotte hiegl,1,eyewear
+457785,plastic v.lux life xs,1,eyewear
+457786,plastic varilux,2,eyewear
+457787,plastic varilux 1.56,1,eyewear
+457788,plastic varilux 1.56 pgx/pbx,1,eyewear
+457789,plastic varilux 1.6,2,eyewear
+457790,plastic varilux 1.67+a.r essilor,1,eyewear
+457791,plastic varilux 1.67+a.r nikon,1,eyewear
+457792,plastic varilux lenses,1,eyewear
+457793,plastic varilux mhc hind,1,eyewear
+457794,plastic varilux nor,1,eyewear
+457795,plastic varilux white essilor,1,eyewear
+457796,plastic varilux white nikon,1,eyewear
+457797,plastic varilux white normal,1,eyewear
+457798,plastic varilux white r.stock,1,eyewear
+457799,plastic varilux white ziess,1,eyewear
+457800,plastic varilux white-essilor,1,eyewear
+457801,plastic varilux white-nikon,1,eyewear
+457802,plastic varilux white-normal,1,eyewear
+457803,plastic varilux+a.r essilor,1,eyewear
+457804,plastic varilux+a.r nikon,1,eyewear
+457805,plastic varilux+a.r normal,1,eyewear
+457806,plastic varilux+a.r pro index green,1,eyewear
+457807,plastic varilux+a.r r.stock,1,eyewear
+457808,plastic varilux+a.r ziess,1,eyewear
+457809,plastic varilux+a.r-essilor,1,eyewear
+457810,plastic varilux+a.r-normal,1,eyewear
+457811,plastic varilux+a.r-ziess,1,eyewear
+457812,plastic vl 1.56 hmc,1,eyewear
+457813,plastic vl 1.56 hmc عدسات طبية,1,eyewear
+457814,plastic vl 1.56 normal,1,eyewear
+457815,plastic vl 1.59 purx,1,eyewear
+457816,plastic vl hmc,1,eyewear
+457817,plastic vl mc left sph +0.50 add+1.75,1,eyewear
+457818,plastic vl mc sph +0.50 add+1.75,1,eyewear
+457819,plastic vl photo g/b left sph -0.75 add+2.75 عدسات طبية,1,eyewear
+457820,plastic vl photo g/b right sph -0.75 add+2.75 عدسات طبية,1,eyewear
+457821,plastic vl transion gray/bron,1,eyewear
+457822,plastic vl transion gray/bron 1.67,1,eyewear
+457823,plastic vlx 1.6 mc,1,eyewear
+457824,plastic vlx 1.6 wht,1,eyewear
+457825,plastic vlx 1.67 mc,1,eyewear
+457826,plastic vlx 1.67 wht,1,eyewear
+457827,plastic vlx 1.74 mc,1,eyewear
+457828,plastic vlx 1.74 wht,1,eyewear
+457829,plastic vlx mc,1,eyewear
+457830,plastic vlx polarised 1.67,1,eyewear
+457831,plastic vlx trans 1.67 brn mc,1,eyewear
+457832,plastic vlx trans 1.67 brn wht,1,eyewear
+457833,plastic vlx trans 1.67 gry mc,1,eyewear
+457834,plastic vlx trans 1.67 gry wht,1,eyewear
+457835,plastic vlx trans brn wht,1,eyewear
+457836,plastic vlx trans gry mc,1,eyewear
+457837,plastic vlx trans gry wht,1,eyewear
+457838,plastic vlx trans gry/brn,1,eyewear
+457839,plastic vlx trivex 1.53,1,eyewear
+457840,plastic vlx trivex1.53,1,eyewear
+457841,plastic vlx wht,1,eyewear
+457842,plastic vlx1.67wht,1,eyewear
+457843,plastic vlx1.74mc,1,eyewear
+457844,plastic vlxwht,1,eyewear
+457845,plastic wash basin,1,eyewear
+457846,plastic white,1,eyewear
+457847,plastic white essilor,1,eyewear
+457848,plastic white r.stock,1,eyewear
+457849,plastic white ziess,1,eyewear
+457850,plastic white+color essilor,1,eyewear
+457851,plastic white+color r.stock,1,eyewear
+457852,plastic white-normal,1,eyewear
+457853,plastic white-ziess,1,eyewear
+457854,plastic wht 1.6,1,eyewear
+457855,plastic ze 1.5,1,eyewear
+457856,plastic zeiss,1,eyewear
+457857,plastic zeiss cyl -3.00,1,eyewear
+457858,plastic zeiss superb 1.5,1,eyewear
+457859,plastic ziess,2,eyewear
+457860,plastic zq cr39,1,eyewear
+457861,plastic zq. mc,1,eyewear
+457862,plastic zq.mc,1,eyewear
+457863,plastic zq.mc high cyl,2,eyewear
+457865,plastic hight index + or - 3.00 to 12.00,1,eyewear
+457866,plastic-ar coatted,1,eyewear
+457867,plastic-multicoated,1,eyewear
+457868,plastic-silkoated,1,eyewear
+457869,plastic-white-varilux-rodenstock,1,eyewear
+457870,plastic-ziess-blue,1,eyewear
+457871,plastic1.5 crizal prevencia,1,eyewear
+457872,plastic1.5 crizal/uv40-f,1,eyewear
+457873,plastic1.5 trans.crizal prevencia,1,eyewear
+457874,plastic1.5 trans.crizal/uv40-f,1,eyewear
+457875,plastic1.50sprxuncoated,1,other
+457876,plastic1.50uncoated,1,other
+457877,plastic1.56 bc plano,1,other
+457878,plastic1.56rxuncoated,1,other
+457879,plastic1.59 airwear crizal prevencia,1,eyewear
+457880,plastic1.59 airwear crizal/uv40-f,1,eyewear
+457881,plastic1.59 trans.airwear crizal prevencia,1,eyewear
+457882,plastic1.6 high index abc,1,other
+457883,plastic1.6 high index mc,1,eyewear
+457884,plastic1.67 crizal prevencia,1,eyewear
+457885,plastic1.67 crizal/uv40-f,1,eyewear
+457886,plastic1.67 trans.crizal prevencia,1,eyewear
+457887,plastic1.67 trans.crizal/uv40-f,1,eyewear
+457888,plasticanti-scratch,1,other
+457889,plasticphotochromic bifocal,1,eyewear
+457890,plastiv ar coated lens,1,eyewear
+457891,plastix rx mc,1,eyewear
+457892,plastoc 1.61 a.r essilor,1,eyewear
+457893,plastoc 1.61 a.r nikon,1,eyewear
+457894,plastoc 1.61 a.r r.stock,1,lab_test
+457895,plastoc 1.61 a.r ziess,1,lab_test
+457896,plastra w. methyl salycilate,1,other
+457897,plastre caldenor 10 n,1,other
+457898,"plasty ear lobe (long, wide, adherant lobe, bifide or big ring whole, atrophic lobe) 1 lobe, l.a. (grade i) - 1 day pkg",1,procedure
+457899,platalet count,1,lab_test
+457900,"plate ""t"" 3.5mm lcp small 5x72xl/r irine #a68090572",1,supplies
+457901,plate & screws,1,supplies
+457902,"plate , , distal fibula plate 3.5, 3 holes, l 75, r titanium loqteq, , 3561-03",1,supplies
+457903,"plate , 16 holes 217mm proximal lateral tibial left , g3e.35130 osteonic",1,supplies
+457904,"plate , 3 holes humerus distal posterolateral left , h1d.35010 osteonic",1,supplies
+457905,"plate , 3.5mm wise-lock low profile reconstruction , w/ coaxial combi-hole curved 6 holes ti ti-1125.06c",1,lab_test
+457906,"plate , burr , hole size 18.5mm-anton hipp(11.100.18",1,supplies
+457907,"plate , clavicle hook plate, , height 12mm right 72mm 2 h ti",1,supplies
+457908,"plate , dcp , 3.5mm 8 holes,mahe medical , 002-0070-097",1,supplies
+457909,"plate , dcp , 3.5mm 8 holes,zimmer , 00493500800",1,supplies
+457910,"plate , dcp , 3.5mm 9 holes,mahe medical , 002-0070-109",1,supplies
+457911,"plate , dcp , sz 3.5mm 7 holes, , 002-0070-085",1,supplies
+457912,"plate , dhp , distal humeral plate 2.7/3.5, dorsolateral, with lateral support, left, 5 holes, stainless steel, , 1000213678",1,supplies
+457913,"plate , distal , lateral fibular plate right.,osteonic , f1e.35120",1,supplies
+457914,"plate , distal , loqteq va volar radius narrow,xl,titanium.,loqteq , pr 2512-11-2",1,supplies
+457915,"plate , distal , radius , 3 holes , left side , osteonic , b1a . 22030",1,supplies
+457916,"plate , distal fibula plate 4 hole right , auxien, (ti-584.004r",1,supplies
+457917,"plate , distal humerus extra articular , humerus 10 holes right (cat# ti-583.010r) auxien",1,supplies
+457918,"plate , femur posterior stabilized cemented standard sz 5 left,zimmer-biomet , 42-5006-058-01",1,supplies
+457919,"plate , high tibia osteotomy common 3 hole , g3f.50210,osteonic , g3f.50210",1,supplies
+457920,"plate , l shape 2+2 , .,osteonic",1,supplies
+457921,"plate , lcp , distal tibial plate 3.5, anterolateral, right, 7 holes, length 106 mm, stainless steel",1,supplies
+457922,"plate , lcp , proximal femoral4.5/5.0 left 8holes,synthes , 242.108",1,supplies
+457923,"plate , lcp , va vol distal radius 2.4x65 left 5+4 holes lenght 65,synthes",1,supplies
+457924,"plate , lcp , volar distal radius 2.4 right 5 holes,synthes , 242.494",1,supplies
+457925,"plate , lcp- df , sz 4.5/5.0, right, 9 holes, length 236 mm, stainless steel,synthes , 222.254",1,supplies
+457926,"plate , level , sky 1 16mm ti, , 186801016",1,lab_test
+457927,"plate , locking , calcaneal left 8 hole,7s medical , 020211075",1,supplies
+457928,"plate , locking , distal fibular combi holes right 5 holes,7s medical , 020512005",1,supplies
+457929,"plate , locking , distal medial tibial 10 holes right,synthes , 239.912",1,supplies
+457930,"plate , locking , distal radius ii variable angle right 4 holes,7s medical , 21542003",1,supplies
+457931,"plate , locking , distal radius sz 2.4/27 volar (l),osteonic , b1b.22010",1,supplies
+457932,"plate , locking , distal clavicle right 3 holes,normmed , pnm1001-103",1,supplies
+457933,"plate , locking , proximal humorous 4 holes,osteonic , h3e.35010",1,supplies
+457934,"plate , locking , tibial sz 8 right distal lateral",1,supplies
+457935,"plate , locking compression 7 hole , l4a.35041,osteonic , l4a.35041",1,supplies
+457936,"plate , narrow , sz 415, , 013334t",1,supplies
+457937,"plate , olecranon , 2.8 trilock 7 holes right,medartis , a-4856.10",1,supplies
+457938,"plate , olecranon , 2.8 trilock 10holes right long,medartis , a-4856.13",1,supplies
+457939,"plate , one-third tubular plate 3.5 1.0t 5 h , l2a.35020",1,supplies
+457940,"plate , philos , long - proximal diaphyseal humeral plate 3.5, 4 holes, length 120 mm, stainless steel,synthes , 241.917",1,supplies
+457941,"plate , piex , cranial orbital 1.6 6 holes 10mm tit, , px.kp.087.10",1,supplies
+457942,"plate , proximal lateral humerus plate , 78mm 2 holes (catalog number= h3e.35070) osteonic",1,supplies
+457943,"plate , prox. humerus plate 3.5, 14 holes, l 221 titanium , ph 3510-14-2",1,supplies
+457944,"plate , radius , valcp dosrsal distal sz 2.4,synthes , 02.115.641",1,supplies
+457945,"plate , reconstruction , sz 7 hole, auxien (ti-727.207",1,supplies
+457946,"plate , reconstruction , sz 3.5 with low profile, curved (r108), 6 holes, length 78 mm, 245.876",1,lab_test
+457947,"plate , reconstruction plate 3.518 holes l 214 , pr 3550-18-2",1,supplies
+457948,"plate , shaft , clavicle 3.5, 8 holes, l 95, right",1,supplies
+457949,"plate , straight , 3.5, 8 holes, l 112,aap , pg 3555-08-2",1,supplies
+457950,"plate , straight 1.6 4 hole without stem (11.000.04",1,supplies
+457951,"plate , straightsz 10 hole , l4a.35071",1,supplies
+457952,"plate , superior midshaft clavicle plate , right 118mm 10 holes (e2a.35260) osteonic",1,supplies
+457953,"plate , sup. lat. clavicle plate 2.7/3.5 6/4 holes , l 63 r titanium pk 3531-04-2",1,imaging
+457954,"plate , superior midshaft clavicle plate left 7 h ti , e2a.35190., loqteq",1,supplies
+457955,"plate , tubular , 1/3 3.5 7 holes 88mm titanium,aap , pg 3553-07-2",1,supplies
+457956,"plate , va , lcp volar rim dist-rad-pl2.4 r shaft,synthes , 02.115.850",1,imaging
+457957,"plate , va-lcp , dhp 2.7/3.5 lat right med 2hole l82 sst,synthes , 02.117.802",1,imaging
+457958,"plate , va-lcp , volar rim dist-rad-pl2.4 left shaft,synthes , 02.115.751",1,imaging
+457959,"plate , variable angle radius plate 4 hole left , (ti-546.204l",1,supplies
+457960,"plate , volar distal radius , 2.5 narrow, 5 hole l titanium, loqteq pr 2512-05-2",1,supplies
+457961,plate -t locking mini 2.4mmx7x57mm(3+7) irene #a93193757,1,supplies
+457962,plate 1.6 straight 4 hole w/o stem,1,supplies
+457963,plate 1.6 straight 6 hole w/stem-antonhipp germany#11.014.06,1,supplies
+457964,plate 1.6 straight 8 hole anthon hipp # 11.020.08,1,supplies
+457965,plate 1/3 tubular 8holesx100mm irene #s80800810,1,supplies
+457966,plate 1/3tub.5hole 241.350 / 95.154.05,1,supplies
+457967,plate 2.0mm mini locking 8 hole auxien #ti-505.208,1,supplies
+457968,plate 3.5mm lcp proximal humerus 3x96 irine #a70490309,1,supplies
+457969,plate 3.5mm lcp proximal humerus 4x108mm irene #a70490410,1,supplies
+457970,plate 35x5x1 proterior cervical laminoplasty (fule) # 11800008,1,imaging
+457971,plate 3d mesh 0.6t 50*50mm s sv #n3d206s00,1,eyewear
+457972,plate 3d mesh0.6 t 100*100mm silver #n3d206m00a,1,supplies
+457973,plate 4 clavicle hook hole diff size,1,supplies
+457974,plate 5 hole straight titanium osteonic#a2a.10050,1,supplies
+457975,plate 5.0mm lcp distal condylar bttress 5x18x158mmxr irene #a69080515,1,supplies
+457976,plate 5.0mm lcp distal condylar buttress 9x18x238mmxl irene #a69070923,1,supplies
+457977,plate 5.0mm lcp l buttress 3x72mmxr irene #t60080307,1,supplies
+457978,plate 5.0mm lcp l buttress 5x104mmxl irene #t60070510,1,supplies
+457979,plate 5.0mm lcp l buttress 6x120mmxl irene #t60070612,1,supplies
+457980,plate 5.0mm lcp lateral tibial head buttress 5x18x144xl irene #a63070514,1,supplies
+457981,plate 5.0mm lcp lct/humerus 7x14x126mm irene #a80290712,1,supplies
+457982,plate 5.0mm lcp proximal femur 10x236 irine #a70391023,1,supplies
+457983,plate 5.0mm lcp proximal femur 12x268 irine #a70391226,1,supplies
+457984,plate 5.0mm lcp t buttress 6x118mm irene #t61090611,1,supplies
+457985,plate 58.5mm t cervical anterior irene # 60620058,1,imaging
+457986,plate 6 hole 2.0mm mini locking -auxien#ti-505.206,1,supplies
+457987,plate 8 hole clavicle left-auxien#ti-526.008l,1,supplies
+457988,plate 8 hole without straight stem-antonhipp germany#12.000.08,1,supplies
+457989,plate adaptation 1.5x6holes space4.5 titanium synthes #04.105.028 amico medical instrument co. # 04,1,supplies
+457990,plate adaptation 2x8holes titanium synthes #04.105.054 amico medical instrument co. # 04.105.054,1,supplies
+457991,plate adaption 20holes 0.7mm titanium synthes #04.503.376,1,supplies
+457992,plate adaption matrixneuro 20 holes 0.4mm pure titanium synthes # 04.503.072,1,supplies
+457993,plate altum 1 level diff.size,1,lab_test
+457994,plate and screw removal under ga,1,supplies
+457995,plate apc omega erbe nessy,1,supplies
+457996,plate base,1,supplies
+457997,plate base convex 70mm with swiss roll adhesive must be compatible with 121074 each,1,eyewear
+457998,plate base total stabilizer stryker #5521-b-200,1,supplies
+457999,plate broad 10 hole auxien ti-725.210,1,supplies
+458000,plate calcaneal 2.7mm,1,supplies
+458001,plate cervical 32mm #ach-00,1,imaging
+458002,plate cervical anterior,1,imaging
+458003,"plate clavicle 6 hole ,right auxien # ti-526.006r",1,supplies
+458004,"plate clavicle 6 hole left,auxien#ti-762.106l",1,supplies
+458005,plate clavicle 7 hole right #ti-526.007r,1,supplies
+458006,plate clavicle hook 4 hole left #ti-752.4.12r,1,supplies
+458007,"plate clavicle left 3.5 mm / 7 hole , auxien # ti-526.007l",1,supplies
+458008,plate compression bone 6 holes small aesculap #lm106s,1,imaging
+458009,plate compression bone 8 holes small aesculap lm108s,1,imaging
+458010,plate compression narrow dcp 10 holes hipokrat #4330109,1,supplies
+458011,plate condylar 5holes.#237.540,1,supplies
+458013,plate d.c.p.#224.05,1,supplies
+458014,plate d.c.p.#224.06,1,supplies
+458015,plate d.c.p.#224.07,1,supplies
+458016,plate dcp 3.5mm 10-holes,1,supplies
+458017,plate dcp 8 hole #ti-721.208,1,supplies
+458018,plate dcp 8 hole-auxien # ti-721-208,1,supplies
+458019,plate dcp angled blade 35mm x 80 degree 3 holes tipmed #033967,1,supplies
+458020,plate dcp-lc radius 7 holes x 10 x 100 length s80630710 irine# s80630710,1,supplies
+458021,plate dcp-lc radius 8 holes x 10 x 114 length s80630811 irine# s80630811,1,supplies
+458022,plate dhs 135 deg. 4 holes short barell,1,supplies
+458023,plate dhs 135/6 holes short barell synthes #281.560,1,supplies
+458024,"plate dhs 150 deg.,4 holes,38mm long barrel s/steel tipmed #032229",1,supplies
+458025,plate dhs 4 holes chm # 3.3501.100,1,supplies
+458026,plate diathermy #e7509 covidien,1,supplies
+458027,"plate distal fibula ,left 6 hole,auxien#ti-584.006l",1,supplies
+458028,plate distal fibula 4 hole left auxien #ti-584.004l,1,supplies
+458029,plate distal fibula 4 hole right auxien #ti-584.004r,1,supplies
+458030,plate distal fibula 5 hole right-auxien#ti-584.005r,1,supplies
+458031,plate distal fibula locking 7 holes osteonic #f1e.35100,1,supplies
+458032,plate distal humerus 3 hole # ti-742.103,1,supplies
+458033,plate distal humerus 5 hole left auxien #ti-742.105l,1,supplies
+458034,"plate distal humerus 9 hole right,auxien#ti-742.109r",1,supplies
+458035,plate distal humerus dorso lateral 7 hole left auxien #ti-742.107l,1,supplies
+458036,plate distal humerus lateral 9 hole left auxien %ti-742.109l,1,supplies
+458037,plate distal lateral fibular right 6 #f1e.35080,1,supplies
+458038,plate distal lateral fibularleft 5h ti #f1e.35050,1,supplies
+458039,plate distal radius 2.7mm v+medium left 3 holes. sanatmetal # 280114303,1,supplies
+458040,plate distal radius 5 hole left auxien-ti-560-07-05l,1,supplies
+458041,plate distal radius 5hole right#ti-560-07-05r,1,supplies
+458042,plate distal radius 5hole right-auxien#ti-560-06-05r,1,supplies
+458043,plate distal tibia 3 hole #ti-746.103,1,supplies
+458044,plate distal tibia right 6 hole-auxien#ti-746.106r,1,supplies
+458045,plate dorsal distal radius lcp variable angle 2.4x37mm synthes,1,imaging
+458046,plate double y 6 hole without stem 12.070.01,1,supplies
+458047,plate dynamic comp.#248.05,1,supplies
+458048,plate electrode bowa,1,supplies
+458049,plate electrodes--83-122-29 box/50,1,supplies
+458050,plate electrosurg. graunding pedia,1,supplies
+458051,plate electrosurg. grnd ing adl,1,supplies
+458052,plate fibula distal 6holes right auxien #ti-584.006r,1,supplies
+458053,plate fibula distal posterolateral 2.7/3.5mm lcp,1,supplies
+458054,plate hook s.s synthes #241.084,1,supplies
+458055,plate humerous distal diff.size,2,supplies
+458057,plate humerus distal medial left 179mm 11 blue#h1e.35070,1,supplies
+458058,plate humerus proximal 4 hole #ti-745.504,1,supplies
+458059,plate ii 5.0mm lcp proximal femur 10x204 irine #a71191020,1,supplies
+458060,"plate l-shape, small, 4 holes, 2.0mm (anton hipp) # 12.030.01",1,supplies
+458061,"plate lcp 3.5 mm 7 holes length 98mm st, synthes, 223.571",1,supplies
+458062,plate lcp 3.5x111mm 8holes synthes #223.581,1,supplies

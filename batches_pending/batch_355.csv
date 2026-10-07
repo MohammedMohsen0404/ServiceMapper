@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+559302,splint below knee for adult,1,supplies
+559303,splint below knee for children,1,supplies
+559304,splint for ( adult,1,supplies
+559305,splint for the senior farmers,1,supplies
+559306,splint or plaster for fractures or fissures without reduction,1,supplies
+559307,splint padding/strapping material,1,supplies
+559308,splint removal,1,supplies
+559309,splint under elbow - fiberglass,1,supplies
+559310,"splint, above knee",1,supplies
+559311,"splint, aluminum, finger, 1.27cm x 50cm",1,supplies
+559312,"splint, aluminum, finger, 2.54cm x 50cm",1,supplies
+559313,"splint, aluminum, finger, 2.5cm x 40cm",1,supplies
+559314,"splint, gutter finger, size, large",1,supplies
+559315,"splint, gutter finger, size, medium",1,supplies
+559316,"splint, gutter finger, size, small",1,supplies
+559320,"splint, back above elbow -small",1,supplies
+559321,"splint, back above elbow-large",1,supplies
+559322,"splint, back below elbow -small",1,supplies
+559323,"splint, back below knee - small",1,supplies
+559324,"splint, back below knee -large",1,supplies
+559325,"splint, backbelowelbow-large",1,supplies
+559326,"splint, finger",1,supplies
+559327,"splint, mallet finger",1,supplies
+559328,"splint, metallic",1,supplies
+559329,"splint, small",1,supplies
+559330,"splint, small gypsona",1,supplies
+559331,"splint, toe",1,supplies
+559333,splintforfacture,1,other
+559334,splinting of loose tooth,1,dental
+559335,splinting of trumatized teeth-composite,1,dental
+559336,splinting and stabilisation direct per tooth,2,dental
+559338,"splinting and stabilisation of tooth, direct",1,dental
+559339,splinting and stabilisation - direct - per tooth,1,dental
+559340,splinting of traumtized teeth - composite,1,dental
+559341,splinting of traumtized teeth - wire,1,dental
+559342,"splinting of displaced tooth, per tooth",1,dental
+559345,splinting of displaced tooth; per tooth,1,dental
+559346,split sleep study (sleep study + cpap tritration,1,supplies
+559347,splitting of blood/blood products,1,lab_test
+559348,"spondylolysis, lumbar region",1,procedure
+559349,sponge bath,1,supplies
+559350,sponge excilon drain size: 10x10cm,1,supplies
+559351,"sponge, excilon drain, size,10x10cm",1,supplies
+559352,"sponge, surgical absorbable hemostatic 2"" x 14",1,supplies
+559353,"sponge, no rinse, one-step cleansing",1,supplies
+559354,spongebob frm 005/381/47/15,1,eyewear
+559356,sponging done by nurse,1,consultation
+559358,spontaneous nystagmus test and gaze,1,lab_test
+559359,spontaneous rupture of flexor tendons,1,other
+559363,sport,1,other
+559364,sport adjustable wrist support,1,supplies
+559365,spot urine albumin/crt ratio,1,lab_test
+559368,spot urine sodium,1,lab_test
+559370,spr ang ct aa bil ifem low extrem w ivcm,1,imaging
+559374,"spr ang ct low extrem w ivcm, unilateral",1,imaging
+559375,spr ang ct other site w ivcm,1,imaging
+559379,spr coronary ang ct w iv cm,1,imaging
+559380,spr%20ang%20ct%20chest%20w%20iv%20cm,1,other
+559381,"sprains, strains and dislocations of hip, pelvis and thigh, minor complexity",1,inpatient
+559388,spravato packdge,1,other
+559389,"spring-loaded pneumoperitoneum needle, single-use",1,supplies
+559391,sprinter legend ptca balloon,1,supplies
+559392,"sprinter legend, balloon",1,supplies
+559400,sputum ( expectorated ) for tb,1,lab_test
+559401,sputum ( induced ) for tb,1,lab_test
+559402,sputum ( z - n,1,lab_test
+559404,sputum afb (one sample,1,lab_test
+559406,sputum afb.staining-3days,1,lab_test
+559412,sputum culture ( c-s,1,lab_test
+559416,sputum culture sensitiyity,1,lab_test
+559419,sputum exam c/s,1,lab_test
+559423,sputum for gram staining,1,lab_test
+559424,sputum induction with suction,1,lab_test
+559425,sputum collection,1,lab_test
+559428,sputum culture and sensitivtiy,1,lab_test
+559431,sputum for afb (3times,1,lab_test
+559432,sputum for afb direct,1,lab_test
+559436,sputum for culture &sensitivity (c/s) - ?????,1,lab_test
+559437,sputum for koh,1,lab_test
+559438,sputum for tuberculosis culture. - ?????,1,lab_test
+559439,sputum smear for esosinophils,1,lab_test
+559440,sputum specimen container ivd,1,lab_test
+559441,sputum swab c&s,1,lab_test
+559442,"sputum, cytology",1,lab_test
+559444,spy glass (cholangioscope) and laser lithotripsy,1,eyewear
+559445,spy glass (cholangioscope) and stent removal,1,eyewear
+559446,spy glass (cholangioscope) and tissue biopsy,1,eyewear
+559447,"square plate 4holes 14x14mm l gold, osteonic #nsq304l04a",1,supplies
+559448,squint repair - two muscles (horizontal,1,procedure
+559450,squint correction 4 muscle / eye,1,other
+559451,squint correction 2 muscle / eye,1,other
+559452,squint correction 3 muscle / eye,1,other
+559453,squint surgery 4 muscles in both eyes,1,procedure
+559454,sr. consultant physician,1,consultation
+559455,sr. registrar fees ( ipd - opd,1,consultation
+559456,sressing of wound simple,1,other
+559457,srgical dressing,1,supplies
+559461,st st crown for childern,1,dental
+559462,st st crown for primary molars,1,dental
+559463,st st. crown deciduous,1,dental
+559467,stabilisation elbow uni,1,other
+559468,"stabilisation of elbow, unilateral",1,other
+559469,stable walker,1,supplies
+559478,stain slide with papanicolau stain,1,other
+559479,"stain, gram",1,lab_test
+559480,stainlees steel crown children,1,dental
+559481,stainless crown (praimary or permant tooth,1,dental
+559482,stainless crowning for pedia,2,other
+559484,stainless steel crowns,2,other
+559524,stand-on floor scale base plate,1,lab_test
+559525,"standby service, requiring prolonged attendance each 30 mins",1,other
+559527,standard calf garment,1,other
+559528,standard medtrack,1,other
+559529,standard nail 11x170mm 130,1,supplies
+559530,standard penetration test (spt,1,lab_test
+559531,standard physical therapy session,1,physiotherapy
+559532,standard room charges class a,1,consultation
+559533,standard surgical gown xl,1,supplies
+559534,standard thigh garment,1,other
+559535,standardsingle-vision1.67 high-indexblue-light-filtering,1,other
+559536,standardsingle-vision1.67 high-indexlight-responsivebrown,1,other
+559538,stanford binet intelligence scales(iq,1,other
+559539,stanford binet intelligence test,1,lab_test
+559541,"stapedectomy or stapedotomy with reestablishment of ossicular continuity, with or without use of for",1,procedure
+559542,stapedial reflex,1,other
+559543,stapedius reflex,1,other
+559544,staphylococcus aureus; amplified probe,1,supplies
+559545,"staphylococcus aureus culture isolate antigen ivd, reagent",1,lab_test
+559547,stapled haemorrhoidectomy,2,procedure
+559548,stapled haemorrhoidectomy (3rd / 4th grade haemorrhoids,1,procedure
+559554,stapler hemorrhoidectomy,1,supplies
+559555,staquis,1,other
+559561,star sleeve velcro arthrex,1,other
+559563,"starfish ns ""non sternotomy"" positioner heart tissue positioner for mics cases #hp102",1,procedure
+559568,static hand splint (adults) - (ms,1,supplies
+559569,static hand splint (peds) - (ms,1,supplies
+559570,static kafo knee ankle foot orthosis,1,supplies
+559571,static wrist brace splint,1,supplies
+559572,static ankle foot orthosis- afo,2,supplies
+559573,static magnetic bracelet,1,other
+559574,static magnetic knee orthosis,1,supplies
+559575,stationary oxygen concentrator,1,supplies
+559576,std. wrist splint,1,supplies
+559577,steady state evoked potentials,1,other
+559578,steam drug by nebulizer or with oxygen nebulization set,2,supplies
+559580,steam + drug by nebulizer/oxygen/nebulization set,1,supplies
+559581,steam + drug by nebulizer,1,supplies
+559582,steam + drug by nebulizer or with,1,supplies
+559583,steam + drug by nebulizer or with o,1,supplies
+559584,steam + drug by nebulizer or with oxygen - nebuliz,1,supplies
+559590,steam + drug by nepulizer or with oxygen,1,supplies
+559597,steam inhalation79,1,other
+559605,steam inhallation (ventorlin,1,other
+559610,"steam standard uncemented ha. 5 taper 12/14 , 3093588 zimmer",1,other
+559611,"steam standard uncemented ha. 5 taper 12/14 , 3120988 zimmer",1,other
+559613,steam by nepulizer ( flexotide,1,other
+559616,steam in halation,1,other
+559617,steam inhalat twice,1,other
+559625,steam inhalation or nebulizer,1,supplies
+559626,steam inhalation session,1,physiotherapy
+559634,steam session on oxygen,1,physiotherapy
+559635,steam with oxygen,1,supplies
+559636,steam+drug by nebulizer or with oxygen /nebulization set,1,supplies
+559637,steaminhation,1,other
+559638,steel wire 10m,1,supplies
+559639,stefano,1,other
+559656,"stem extension offset, 17mm dia x 100mm length, lot 63841374",1,supplies
+559657,stem cells total count,1,lab_test
+559658,"stem, cemented, 11 x 120mm",1,supplies
+559659,"stem, tibial component, precoat, size 5, lot 63820089",1,supplies
+559661,stemoclavicular joints apobliques (3v,1,imaging
+559662,stent - drug eluting,1,supplies
+559663,stent adding charge,1,supplies
+559664,"stent graft, 32x32x100mm, medtronic #vamf3232c100te",1,supplies
+559665,"stent, absolute pro peripheral self expanding stent",1,supplies
+559666,"stent, self-expanding, 4f, tenstos, 7606-7080",1,supplies
+559667,"stent, urethral percuflex w/guidewire 28cm, size: 6fr",1,supplies
+559668,"stent, valiant thoracic stent graft",1,supplies
+559669,"stent, xience pro, 2.75 x 12",1,supplies
+559670,"stent, duodenal",1,supplies
+559671,stenting,1,other
+559672,stenum,1,other
+559677,stereo x-ray exam of chest,1,imaging
+559679,stereotactic radiotherapy 3 fractions,1,other
+559680,stereotactic radiotherapy single fraction,1,other
+559681,stereotactic guided placement of breast localization; first lesion,1,other
+559682,stereotactic radiation rx single dose,1,eyewear
+559684,stereotactic radiation fractionated,1,physiotherapy
+559686,"stereotactic radiation treatment, single dose",1,physiotherapy
+559687,stereotactic radiosurgical system collimator,1,other
+559688,"steri strips (wound closure strips) 25x102mm (1""x4""), 4strips/pouch, box/50",1,supplies
+559689,steri strips 12mm x 100mm (3m-r1547,1,supplies
+559690,steri strips 6mm x 75mm,1,supplies
+559692,"steri-strip skin closure 1/4""x3"", 10strip bx/50 #r1541",1,supplies
+559694,sterifix infusion filter 0.2 #d4184637,1,supplies
+559695,sterile dts self - tapping screw 4.5 mm l40 mm newclip / france #st4.5l40-st,1,supplies
+559696,sterile dts self - tapping screw 4.5 mm l60 mm #st4.5l60-st,1,supplies
+559697,sterile dts self - tapping screw 4.5 mm l65 mm newclip / france #st4.5l65-st,1,supplies
+559698,"sterile disposable gown, large",1,supplies
+559699,"sterile disposable gown, xl",1,supplies
+559700,sterile disposable needle g18,1,supplies
+559701,sterile disposable needle g19,1,supplies
+559702,sterile disposable needle g23,1,supplies
+559703,sterile disposable needle g24,1,supplies
+559704,sterile disposable needle g25,1,supplies
+559705,sterile disposable surgical gown l,1,supplies
+559706,sterile disposable surgical gown m,1,supplies
+559707,sterile disposable surgical gown xl,1,supplies
+559708,sterile drape,1,supplies
+559710,sterile gauze 4x4 box-20packet-5pcs,1,supplies
+559711,sterile gloves (all sizes,1,supplies
+559713,sterile marker pen,1,supplies
+559714,"sterile repositioable, hemostasis cliping device, 2.8mm x 2.6mm x 16mm, micro-tech, rocc-26-230c",1,supplies
+559715,sterile surgical gloves (all sizes,1,supplies
+559719,sterile water for irrig irrigant psi,1,supplies
+559720,sterile covers for ultrasound probes,1,imaging
+559721,sterile eye dressing,1,supplies
+559722,sterilization container liner,1,other
+559723,sterilization container mat,1,other
+559724,"sterilization packaging, single-use",1,other
+559725,sterilize the eye,1,other
+559726,sterilized eye patch,1,supplies
+559736,sterling gator 6ea 4.8mm,1,other
+559737,sterling mono balloon,1,eyewear
+559738,sterling mono balloon &assorted size,1,eyewear
+559739,"sterling, gator 6 ea",1,other
+559740,sternal rexploration,1,other
+559741,sternal fixation device,1,procedure
+559742,sternal puncture,1,procedure
+559743,sterno - clavicular joint,1,other
+559744,sterno clavic joint ap bil,1,imaging
+559745,sterno clavicular j both sides 3f,1,other
+559747,sterno-calvicular joint,1,other
+559748,sterno-clavicle joint 2 views,1,imaging
+559749,sterno-clavicular joint x-ray,1,imaging
+559750,sterno-clavicular joint - 2 views,1,imaging
+559751,sterno-clavicular joint (mri,1,imaging
+559753,sternotomy and removal of intrathoracic thyroid goiter,1,procedure
+559754,sternotomy with excision of large mass,1,procedure
+559756,sternum (lat) 1 v,1,imaging
+559761,sternum 2-views,1,imaging
+559763,sternum 3v,1,imaging
+559764,sternum ap/oblique/lateral,1,imaging
+559766,sternum x ray 1 film,1,imaging
+559767,sternum x-ray,1,imaging
+559768,sternum xray 2 views,1,imaging
+559769,sternum-2views,1,imaging
+559776,stetch,1,other
+559777,stetch removal w . dressing,2,supplies
+559778,stetch removal w/o dressing,2,supplies
+559779,stetch ofdeep laceration,1,other
+559780,stetch ofdeeplaceration,1,other
+559781,steth removal,1,procedure
+559786,stich for cut wound (simple,1,other
+559787,stich for deep wound,1,other
+559792,stiches 1-3,1,other
+559793,stiches 4-8,1,other
+559794,stiches for wound with blasthc sutures,1,supplies
+559797,stiches for deeb cut wound,1,other
+559798,stiches for small cut wound,1,other
+559799,stiches more than six each,1,other
+559800,stiches removal (med)-stiches removal (med,1,procedure
+559801,stiching - per stich,1,other
+559802,stick wood m 110-135 cm,1,supplies
+559803,stictch/ per stitch,1,procedure
+559804,stiff joint manipulation under g.a,1,procedure
+559805,"stiff straight guide wire 0.035x180cm, merit medical",1,supplies
+559806,"stiff-person spectrum disorders evaluation, including progressive encephalomyelitis with rigidity and myoclonus, serum",1,lab_test
+559807,still stools,1,other
+559809,stimulan kit 5cc,1,other
+559810,stimulan kit 10 cc-biocomposites #600-010,1,other
+559811,stimulant kit 10cc,1,other
+559813,stimulation faradic/set,1,other
+559814,stimulation therapy nec,2,physiotherapy
+559816,stimulation therapy nec shockwave session,1,physiotherapy
+559818,"stimulation therapy, nec / 15-30 min",1,physiotherapy
+559820,"stimulator, probe, 45mm monopolar, angle 30 deg, 525603",1,supplies
+559821,stimulite-pedding seat ? or back ? 26.00.0010,1,other
+559822,stimulite-pedding seat or back 26.00.0010,1,other
+559824,stitch ( price for each one stitch,1,supplies
+559825,stitch ( suture ) per each / tendon suture-each su,1,supplies
+559828,stitch ( suture ) per each tendon suture-each suture,1,supplies
+559829,stitch (each,1,procedure
+559830,stitch - five,1,procedure
+559831,stitch - four,1,procedure
+559832,stitch - one,1,supplies
+559833,stitch - three,1,procedure
+559836,stitch 1,1,procedure
+559837,stitch 1-4,1,procedure
+559838,stitch 1stitch,1,procedure
+559839,stitch large,1,procedure
+559841,stitch removal and dressing,2,supplies
+559844,stitch removal price per stitch,1,procedure
+559845,stitch removal at episiotomy,1,procedure
+559849,stitch or suture removal,1,supplies
+559851,stitch remaval,1,procedure
+559855,stitch removal ??????,1,procedure
+559856,stitch removal of episiotomy,1,procedure
+559857,stitch removal w dressing,1,supplies
+559858,stitch small medium wound one area,1,supplies
+559859,stitch suture per each / tendon suture-each suture,1,supplies
+559860,stitch suture per each tendon suture each suture,1,supplies
+559861,stitch suture per each tendon sutureeach suture,1,supplies
+559862,stitch%20(%20suture%20)%20per%20each%20%2f%20tendon%20suture-each%20suture,1,imaging
+559863,stitch(suture)per each/tendon suture-each suture,1,supplies
+559866,stitche removal,1,procedure
+559867,stitche(one,1,supplies
+559869,stitches (per stitch,1,procedure
+559870,stitches 1 to 3,1,procedure
+559871,stitches 2,1,procedure
+559872,stitches 3,1,procedure
+559873,stitches 6,1,procedure
+559874,stitches 9,1,procedure
+559876,stitches for deep wound - in o.r,1,procedure
+559877,stitches for deep wound under g.a,1,procedure
+559878,stitches for superf. wound,1,procedure
+559880,stitches removal (more than 5) (med,1,procedure
+559881,stitches removal (more than 5) (med)-stitches removal (more than 5) (med,1,procedure
+559884,stitches removal in e.r,1,procedure
+559888,stitches for deep laceration wound,1,procedure
+559889,stitches for oral wound,1,procedure
+559890,stitches for superficial wound,1,procedure
+559891,stitches in ear or nose,1,procedure
+559892,stitches large ( lacerated ) one area,1,supplies
+559894,stitches of large wounds636,1,procedure
+559895,stitches of medium wounds,1,procedure
+559896,stitches of medium wounds131,1,procedure
+559897,stitches of small wounds,1,procedure
+559898,stitches of small wounds134,1,procedure
+559901,stitches removal &dressing,1,supplies
+559902,"stitches removal , each",1,procedure
+559903,stitches removal each,1,procedure
+559904,stitches removal with (per one,1,supplies
+559906,stitches removal with out (per one,1,supplies
+559908,stitches small or medium wound one area,1,supplies
+559909,stitches-3,1,procedure
+559910,stitches/cost per stitch,2,procedure
+559911,stitches3 or more,2,other
+559913,stitches3 or more ???? 3 ??? ??????,1,other
+559914,stitchessmallormediumwoundonearea,1,other
+559915,stitchies 2,1,other
+559916,stitching ( one stitch,1,supplies
+559917,stitching 1:4,1,other
+559918,stitching 5:9,1,other
+559919,stitching 7:9,1,other
+559920,stitching removal (once,1,procedure
+559922,stitching wound iii,1,other
+559924,stitching of wound,1,other
+559925,stitching of wound / stitch,1,procedure
+559926,stitching small wound with l.a,1,lab_test
+559927,stitchone,1,other
+559928,stitchs%20of%20small%20wound,1,other
+559929,stitich removal + dressing,1,supplies
+559930,stitiches removal,1,procedure
+559935,stockening 0,1,other
+559936,stockinette,1,other
+559937,stockinette below knee,1,other
+559938,stocking -anti embolism (ms,1,supplies
+559939,stocking garment (ms,1,supplies
+559940,stocking over knee open toe m (ss602) (i-ming,1,supplies
+559941,stocking overknee open toe (large,1,supplies
+559942,stocking overknee open toe (med,1,supplies
+559943,stocking overknee open toe (xl,1,supplies
+559944,stocking overknee open toe (xxl,1,supplies
+559945,stocking overknee open toe (xxxl,1,supplies
+559946,stocking underknee open toe (xl,1,supplies
+559947,stocking underknee open toe (xxl,1,supplies
+559948,stocking underknee xxxl,1,supplies
+559949,"stockings, anti-embolism, thigh length, size, large",1,supplies
+559950,stoll c/s,1,lab_test
+559951,stoma care basic,1,other
+559952,stomach,1,other
+559953,stomach / feeding tube sterile ch14,1,supplies
+559954,stomach / feeding tube sterile ch16,1,supplies
+559956,stomach biopsy & special stain helicobacter pylori,1,lab_test
+559957,"stomach, oesophageal and duodenal procedures, minor complexity",1,inpatient
+559958,"stomach, neoplastic, total/subtotal resection",1,procedure
+559959,"stomach, resection subtotal, non neoplastic",1,procedure
+559961,stone analysis (urinary calculus analysis,1,procedure
+559962,stone analysis in urine,1,lab_test
+559963,stone bladder op. (cystolithotomy,1,procedure
+559964,stone bladder op. cystolithotomy bupa ayh,1,insurance
+559965,stone bladder: cystolapaxy p/d,1,other
+559966,stone risk (complete metabolic evaluation,1,consultation
+559968,stone analysis - ?????,1,procedure
+559969,stone%20analysis,1,procedure
+559970,stoneanalysis,1,procedure
+559973,stool analysis ?????????? ????????????,1,lab_test
+559974,stool analysis تحليل البراز,1,lab_test
+559981,stool ( fecal ) occult blood ( fob,1,lab_test
+559982,stool (culture,1,lab_test
+559984,stool (ova& parasites,1,lab_test
+559987,stool - ph reducing substances,1,lab_test
+559988,stool - parasitology / stool parasites test,1,lab_test
+559993,stool analy,1,lab_test
+559994,stool analy.sis,1,lab_test
+559996,stool analysis 73050-43-20,1,lab_test
+559997,stool analysis - ?????,1,lab_test
+559998,stool analysis ( routine,1,lab_test
+559999,stool analysis (626,1,lab_test
+560000,stool analysis (lab,2,lab_test
+560007,stool analysis + occult b,1,lab_test
+560009,stool analysis - ????? ????,1,lab_test
+560010,stool analysis - insurance,1,lab_test
+560013,stool analysis bupa,1,lab_test
+560014,stool analysis occult blood,1,lab_test
+560016,stool analysis t,1,lab_test
+560018,stool analysis for cholera[7.15,1,lab_test
+560019,stool analysis medgulf,1,lab_test
+560020,stool analysis(09050,1,lab_test
+560021,stool analysis(mhl lab,1,lab_test
+560029,stool analysis+occult blood,1,lab_test
+560031,stool analysis-1162,1,lab_test
+560034,stool analysis1,1,lab_test
+560035,stool analysis208,1,lab_test
+560036,stool analysise,1,lab_test
+560037,stool anlysis,1,lab_test
+560040,stool c s,2,lab_test
+560042,stool c.d.toxin,1,lab_test
+560044,stool c/s ????? ???? ??????? ??????,1,lab_test
+560050,stool cholera sall shig,1,lab_test
+560051,stool concentration,1,lab_test
+560052,stool concentration tech,1,lab_test
+560058,stool culture & sensitivity ????? ???? ????? ???????,1,lab_test
+560060,stool culture (sfv,1,lab_test
+560061,stool culture /sensitivity,1,lab_test
+560066,stool culture(mhl lab,1,lab_test
+560070,stool culture-stool culture,1,lab_test
+560071,stool culture_ c-s_,1,lab_test
+560072,stool ex,1,lab_test
+560074,stool exam: ova and parasite,3,lab_test
+560078,stool exam:ova &parasite,1,lab_test
+560079,stool examaination,1,lab_test
+560081,stool examination (sfv,1,lab_test
+560082,stool examination ????? ????,1,lab_test
+560083,stool examination c/s (sfv,1,lab_test
+560084,stool examination for ova and parasites,3,lab_test
+560085,stool examination {stool r/e},1,lab_test
+560087,stool fat globules,1,lab_test
+560088,stool fit test,1,lab_test
+560090,stool for h. pylori antigen,1,lab_test
+560096,stool for reducing sugars,2,lab_test
+560101,stool h-pylori antigen,1,lab_test
+560103,stool h.pylori antigen test,1,lab_test
+560106,stool lactose & ph,4,lab_test
+560108,stool lactose & ph 25,1,lab_test
+560110,stool lactose and ph,1,lab_test
+560111,stool occlt blood,1,lab_test
+560116,stool occult blood (fob or fit,1,lab_test
+560117,stool occult blood - ????? ???? ?????? ?? ??????,1,lab_test
+560118,stool occult blood ????? ???? ????? ???????,1,lab_test
+560119,stool occult blood[7.09,1,lab_test
+560120,stool ocult blood,1,lab_test
+560121,stool ova & parasites,1,lab_test
+560128,stool r/m,1,lab_test
+560133,stool routine / examiniation,1,lab_test
+560135,stool routine exam.[7.07,1,lab_test
+560137,stool specimen container,1,lab_test
+560138,stool swab for salmonella & shigella,1,lab_test
+560139,stool anal,1,lab_test
+560140,stool analecis,1,lab_test
+560142,stool analysis (complete,1,lab_test
+560143,stool analysis / ????? ????,1,lab_test
+560144,stool analysis / occult blood,1,lab_test
+560145,stool analysis ????? ???? ???,1,lab_test
+560148,stool anaylsis,1,lab_test
+560149,stool antigen h. pylori,1,lab_test
+560150,stool antigen h. pylori1296,1,lab_test
+560151,stool anylsis,1,lab_test
+560157,stool cls,1,lab_test
+560160,stool culture and sensiti,1,lab_test
+560162,stool culture and sensitivity (1 day analysis,1,lab_test
+560164,stool culture and sensitivtiy,1,lab_test
+560165,stool cushion,1,lab_test
+560171,stool for (h. pylori ag) - tat (8 duty hrs,1,lab_test
+560172,stool for adeno virus study - ?????,1,lab_test
+560173,stool for bilharzia,1,lab_test
+560174,stool for candida,1,lab_test
+560175,stool for clostridium defficile toxin a&b,1,lab_test
+560176,stool for fat estimation - ?????,1,lab_test
+560177,stool for h.pylori antigen study - ?????,1,lab_test
+560178,stool for lactose intolerance test,1,lab_test
+560182,stool for occult blood test - ?????,1,lab_test
+560183,stool for ovas and cysts[7.08,1,lab_test
+560186,stool for rota virus antigen,1,lab_test
+560188,stool for rota virus study - ?????,1,lab_test
+560189,stool for routine analysis - ?????,1,lab_test
+560190,stool for schistosoma study - ?????,1,lab_test
+560191,stool for culture & sensitivity study.(c/s ) - ?????,1,lab_test
+560193,stool for occult blood246,1,lab_test
+560195,stool frozen for calprotectin test - tat (10 duty days,1,lab_test
+560196,stool occul t blood,1,lab_test
+560201,stool--???? 12.16,1,lab_test
+560203,stoolanalysisroutine,1,other
+560204,stoole analysis tcs,1,procedure
+560205,stools culture & sensitivity,1,lab_test
+560206,stop of tooth bleeding,3,lab_test
+560209,stopcock,1,supplies
+560210,stopcock 3-way w/ extension tube 150cm,1,supplies
+560211,stopcock w tubing 3 way,1,supplies

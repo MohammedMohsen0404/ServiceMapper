@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+511418,"removal of foreign body, external eye; corneal, without slit lamp",1,procedure
+511419,"removal of foreign body, foot, deep",1,procedure
+511420,"removal of foreign body, foot; deep",1,procedure
+511422,"removal of foreign body, superficial, upper/lower extremeties",1,procedure
+511423,removal of foreign body- nose,1,procedure
+511424,removal of foreign body-ear,1,procedure
+511425,removal of foreign body.ear/nose,1,procedure
+511427,removal of foriegn body l/a,1,procedure
+511428,removal of ganglion under,1,procedure
+511429,removal of ganglion under anaesthesia,1,procedure
+511431,removal of hardware foot/ ankle,1,procedure
+511433,removal of hyperplastic tissue; per tooth,1,dental
+511434,removal of impacted bony&soft tissue,2,procedure
+511435,removal of impacted faeces,1,procedure
+511436,removal of impacted tooth completely bony,1,dental
+511446,"removal of implant, deep (eg, buried wire, pin, screw, metal band, nail, rod or plate",1,supplies
+511447,"removal of implant,lower femur",1,supplies
+511448,"removal of implant: deep (eg, buried wire, pin, screw, metal band ,rod, or plate",1,supplies
+511449,"removal of implant: superficial (eg, buried wire, pin, screw, or rod) (separate procedure",1,supplies
+511450,"removal of implant; deep (eg, buried wire, pin, screw, metal band, nail, rod or plate",1,supplies
+511451,"removal of implant; superficial, (eg, buried wire, pin or rod) (separate procedure",1,supplies
+511455,removal of implants/ big bones,1,imaging
+511457,removal of implants/big bones - pkg,1,imaging
+511459,removal of ingrowing nail under l.a. ( partial,1,supplies
+511461,removal of ingrowing nail ( bilat,1,supplies
+511462,removal of ingrowing nail ( unilat,1,supplies
+511464,removal of ingrowing nail partial - zadek under la,1,supplies
+511465,removal of ingrown nail,1,supplies
+511469,"removal of intraocular foreign body from anterior segment, unilateral",1,diagnostic
+511470,"removal of intraocular lens, bilateral",1,eyewear
+511471,"removal of intraocular lens, unilateral",1,eyewear
+511474,removal of intrauterine device and/or implant,1,supplies
+511476,removal of k wire under local anesthesia,1,supplies
+511477,removal of large multiple concretions in minor treatment room,1,procedure
+511478,removal of large navus,1,procedure
+511479,"removal of lens material: phacofragmentation technique (mechanical or ultrasonic), with aspiration",1,eyewear
+511480,"removal of lens material; phacofragmentation technique (mechanical or ultrasonic) (eg, phacoemulsification) bupa",1,eyewear
+511483,"removal of loose body of ankle, unilateral",1,procedure
+511484,removal of loose nai,1,procedure
+511487,removal of mandibluar exostosis,1,procedure
+511488,removal of mediastinal drain,1,procedure
+511489,removal of milia bv sterile needle,1,supplies
+511490,removal of milia by sterile needle ( each,1,supplies
+511491,removal of milia multiple,1,procedure
+511492,removal of milia ordinary,1,procedure
+511493,removal of missed loop by novak forceps,1,procedure
+511494,"removal of molluscum contagiosum, 1 to 14",1,procedure
+511496,removal of molluscum contgiosum by curette (3) - additional one = 20 s.r,1,supplies
+511498,removal of movable nail la,1,supplies
+511499,removal of multiple f.b. from conjunctiva,1,procedure
+511500,removal of multiple lipomata,1,procedure
+511502,removal of nail ( simple,1,supplies
+511503,removal of nail loose l.a,1,supplies
+511504,removal of nail matrix (matrixectomy) under la,1,supplies
+511506,"removal of nasolacrimal tube, unilateral",1,supplies
+511509,removal of norplant,1,procedure
+511510,removal of old bridge,1,dental
+511511,removal of one large lipoma,1,supplies
+511512,removal of one tooth,1,dental
+511513,removal of oral benign tumor under ga,1,procedure
+511514,removal of other urinary drainage device,1,procedure
+511515,removal of other wart 1 to 14,1,procedure
+511517,removal of other wart >=15,1,procedure
+511518,removal of other wart more than 15,1,procedure
+511521,"removal of other wart, 15 or more",2,procedure
+511524,removal of passive appliance - fixed,1,supplies
+511525,removal of passive appliance; fixed,1,supplies
+511526,removal of pericoronal gingiva,1,procedure
+511527,removal of peritoneal access device,1,procedure
+511528,removal of permanent vascular access catheter,1,supplies
+511529,removal of permanent vascular access catheter - cathlab,1,supplies
+511530,removal of pin screw or wire nec unilateral,1,supplies
+511531,removal of pin screw or wire not elsewhere classified unilateral,2,supplies
+511534,"removal of pin, screw or wire, not elsewhere classified, unilateral",1,supplies
+511536,"removal of plantar wart, unilateral",2,procedure
+511537,"removal of plantar wart, unilateral(02047",1,procedure
+511538,"removal of plantar wart, unilateral-?????? ????? ?? ???? ????? ???? ????",1,procedure
+511541,removal of plaque,1,procedure
+511542,removal of plaque and /or stain,3,procedure
+511544,removal of plaque and or stain scalling simple,1,procedure
+511545,removal of plaque and-or,1,procedure
+511547,removal of plaque and/ or stain,2,procedure
+511549,removal of plaque and/or stain (111,1,procedure
+511550,removal of plaque and/or stain (scaling,1,dental
+511551,removal of plaque and/or stain - ncci,1,procedure
+511552,removal of plaque and/or stain -97111-00-00,1,procedure
+511554,removal of plaque and/or stain- scaling,1,dental
+511555,removal of plaque and/or stain[111,1,procedure
+511556,removal of plaque and/or stain|إزالة البلاك و/ أو البقعة,1,procedure
+511557,removal of plaque andor stain,1,procedure
+511558,removal of plaque or stain from teeth,1,dental
+511560,removal of plaque or stain of teeth 10306,1,dental
+511561,removal of plaque or stain teeth,1,dental
+511563,removal of plaster of paris ????? ???,1,supplies
+511564,removal of plaster(opd,1,supplies
+511565,removal of plate rod or nail nec unilateral,1,supplies
+511566,removal of plate rod or nail not elsewhere classified unilateral,1,supplies
+511567,"removal of plate, rod or nail, nec, unilateral",2,supplies
+511568,"removal of plate, rod or nail, not elsewhere classified, unilateral",1,supplies
+511569,removal of plates + screws + debri,1,supplies
+511571,removal of plates and screws both upper and lower jaw under ga,1,supplies
+511572,removal of plates nails,1,supplies
+511575,removal of plates or nails + 300sr. for any extra nail or plate,1,supplies
+511576,removal of plates or nails + 300sr.for any extra nail or plate,1,supplies
+511577,removal of plates or nails big size bones tawu,1,imaging
+511578,removal of plates or nails plus 300 for any nail or plate,1,supplies
+511579,removal of plates or nails+300sr for any extra nai,1,supplies
+511580,removal of plates or nails+300sr for any extra nail or plate,1,supplies
+511581,removal of plates or nails/big size bones tawu,1,imaging
+511582,"removal of plates, or nails + 300 sr for any extra nail or plate",1,supplies
+511583,removal of pop foot cast,1,supplies
+511584,removal of projecting bone,1,imaging
+511585,removal of pyogenic granuloma,1,procedure
+511586,removal of r.r.of posterior tee,1,procedure
+511587,removal of remaining exposed roots,1,procedure
+511593,removal of residual tooth roots cutting procedure,1,dental
+511594,removal of retained placenta under general anesthesia,1,procedure
+511595,removal of root filling molar (includes removal of obturation chemomechanical preparationobturation,1,dental
+511596,"removal of root filling molar (includes removal of obturation , chemomechanic",1,dental
+511597,"removal of root filling molar (includes removal of obturation , chemomechanical preparation,obturation",2,dental
+511598,removal of root filling anterior (includes removal of obturation chemomechanical preparationobturation,1,dental
+511599,"removal of root filling anterior (includes removal of obturation , chemomecha",1,dental
+511600,"removal of root filling anterior (includes removal of obturation , chemomechanical preparation,obturation",2,dental
+511601,"removal of root filling premolar (includes removal of obturation , chemomecha",1,dental
+511602,"removal of root filling premolar (includes removal of obturation , chemomechanical preparation,obturation",2,dental
+511604,removal of root filling per canal|إزالة حشوة الجذر - لكل قناة,1,dental
+511607,"removal of root filling ? molar (includes removal of obturation , chemomechanic",2,dental
+511608,"removal of root filling ? anterior (includes removal of obturation , chemomecha",2,dental
+511612,"removal of root filling ? premolar (includes removal of obturation , chemomecha",1,dental
+511614,"removal of root filling anterior (includes removal of obturation , chemomechanical pereparation,obturation",1,dental
+511616,removal of root filling for retreatment,1,dental
+511618,removal of root filling per canal (tawuniya,1,dental
+511621,"removal of root filling - anterior (includes removal of obturation , chemomechanical preparation,obturation",1,dental
+511623,removal of root filling - per canal (root canal re-treatment 1 canal,1,dental
+511626,removal of second nail,1,supplies
+511628,removal of silicone oil,1,supplies
+511629,removal of skin lesion (small,1,procedure
+511632,"removal of skin tags, multiple fibrocutaneous tags, any area; each additional ten lesions (list separately in addition to code for primary procedure",1,procedure
+511633,"removal of skin tags, multiple fibrocutaneous tags, any area; up to and including 15 lesions",1,procedure
+511634,removal of slap or pop,1,supplies
+511635,removal of small navus,1,procedure
+511637,removal of small swellings,1,procedure
+511638,removal of stables,1,procedure
+511639,removal of stich,1,procedure
+511641,removal of stitch & dressing,1,supplies
+511643,removal of stitchec with dressing,1,supplies
+511645,removal of stitches (out. p.)+dressing,1,supplies
+511647,removal of stitches of medium wounds,1,procedure
+511648,removal of stitches of small,1,procedure
+511649,removal of stitches of small wounds,1,procedure
+511650,removal of stitches surgery,1,procedure
+511651,removal of stitiches of small wounds,1,procedure
+511652,removal of subcutaneous foreign body with local anaesthesia[4.12,1,procedure
+511653,removal of subcutaneous foreign body without local anaesthesia[4.18,1,procedure
+511655,removal of submandibular ducts,1,procedure
+511658,removal of superficail corneal f.b,1,procedure
+511664,"removal of superficial foreign body from conjunctiva, bilateral",1,procedure
+511665,"removal of superficial foreign body from conjunctiva, unilateral",1,procedure
+511672,removal of superficial foreign body from sclera unilateral,1,procedure
+511673,removal of superficial foreign body from the conjunctiva,1,procedure
+511676,removal of sutures + dressing (big wound,1,supplies
+511677,removal of sutures + dressing (small wound,1,supplies
+511678,removal of sutures nec,1,supplies
+511680,removal of sutures per stitch-2072,1,supplies
+511684,removal of the post slab,1,supplies
+511685,removal of the root filling from a previously obturated canal,2,dental
+511687,"removal of the root filing from a previously obturated canal ,to enable endodont",1,dental
+511688,removal of the root filling from a previously obtu,2,dental
+511689,removal of the root filling from a previously obturated,1,dental
+511692,removal of the root filling from a previously obturated canal to enable endodontic retreat,1,dental
+511696,removal of the root filling from obturated ca,1,lab_test
+511698,removal of thrombosed piles or excision of perianal skin tags,1,procedure
+511699,removal of toenail (unilateral,1,procedure
+511700,removal of toenail unilateral,1,procedure
+511701,"removal of toenail, unilateral",1,procedure
+511703,removal of tooth or part (s) thereof,1,dental
+511704,removal of tumour cyst or scar cutaneous subcutaneous,1,procedure
+511705,removal of tumour cyst or scar cutaneous subcutaneous or in mucous membrane,2,procedure
+511708,removal of tumour cyst or scar involving muscle bone or othe,1,imaging
+511709,removal of tumour cyst or scar involving muscle bone or other deep tissue,1,imaging
+511710,"removal of tumour, cyst or scar cutaneous, subc",1,procedure
+511711,"removal of tumour, cyst or scar cutaneous, subcutaneous or in mucous membrane",2,procedure
+511712,"removal of tumour, cyst or scar ? cutaneous, subcutaneous or in mucous membrane",1,procedure
+511715,"removal of tumour, cyst or scar - cutaneous, subcutaneous or in mucous membrane",2,procedure
+511716,"removal of tunneled central venous access device with subcutaneous port or pump, central or peripheral insertion",3,supplies
+511719,removal of urethral stent,1,supplies
+511721,removal of vag.& perineal cyst,1,procedure
+511722,removal of vaginal cyst,1,procedure
+511723,removal of vaginalperineal warts,1,procedure
+511727,removal of ventilation tubes,1,procedure
+511728,removal of verruca with cautery only one,1,supplies
+511729,removal of vitreous substitutes(silicon oil removal,1,supplies
+511730,"removal of vitreous substitutes, unilateral",1,procedure
+511731,"removal of vitreous, limbal approach, unilateral",1,procedure
+511733,removal of warts by cautery ?? ???????? ???? ?????? ???????? ?????? ??????????,1,procedure
+511735,removal of. cervical polyp histo pathological examination of biopsybupa ayh,1,imaging
+511736,removal or bivalving full arm or full leg cast,1,supplies
+511737,"removal or bivalving gauntlet, boot or body cast",1,supplies
+511739,removal or repair of soft tissue (not elsewhere de,1,procedure
+511741,removal or repair of soft tissue (not elsewhere defined)rct two roots,1,dental
+511742,removal or root filling per canal,1,dental
+511743,removal or tooth fragment where of bone,1,imaging
+511744,removal or tooth fragment where removal of bo,1,dental
+511745,removal or tooth incision and the raising,1,dental
+511746,removal other urinary drainage device,1,procedure
+511747,removal root filling endodontic retreatment,1,dental
+511748,removal root filling per canal,1,dental
+511750,removal superficial fb from conjunctiva bilateral,1,procedure
+511752,removal superficial fb from cornea unilateral,1,procedure
+511753,"removal superficial fb from cornea, bilateral",1,procedure
+511760,removal suture (one,1,supplies
+511761,removal suture and dressing,1,supplies
+511762,removal the plaster of a small,1,supplies
+511763,removal%20fb%20in%20soft%20tissue%20nec%20unilateral,1,procedure
+511765,removal%20of%20lipoma%2b%20ga,1,procedure
+511766,removal%20of%20a%20tooth%20or%20part(s)%20thereof,1,procedure
+511767,removal%20of%20a%20tooth%20or%20tooth%20fragment%20where%20both%20removal%20of%20bone%20and%20sectioning%20of%20the%20tooth%20are%20required%20after%20an%20incision%20and%20the%20raising%20of%20a%20mucoperiosteal%20flap.%20the%20tooth%20will%20be%20removed%20in%20sections,1,procedure
+511768,removal%20of%20calculus%20from%20the%20surfaces%20of%20teeth%20and%2for%20implants,1,procedure
+511769,removal%20of%20intranasal%20foreign%20body,1,procedure
+511770,removal%20of%20plantar%20wart%2cunilateral,1,procedure
+511771,removal%20of%20residual%20tooth%20roots%20(cutting%20procedure)%09,1,procedure
+511772,removal-thrombosed pile ga,1,procedure
+511773,"removal/implants big bones(ga)&tourniquet,2 d",1,imaging
+511775,removalof mollascum more than,1,other
+511776,removaloff.b.fromear(ga,1,other
+511777,removalofganglion,1,other
+511778,removalofplate,1,other
+511779,removalofatoothortoothfragmentwherebothremovalofboneandsectioningofthe,1,other
+511780,removalofatoothortoothfragmentwherebothremovalofboneandsectioningofthetootharerequiredafteranincisio,1,other
+511781,removalofatoothortoothfragmentwhereremovalofboneisrequiredafteranincis,1,other
+511782,removalofatoothortoothfragmentwhereremovalofboneisrequiredafteranincisionandtheraisingofamucoperiost,1,other
+511783,removalofcalculusfromthesurfacesofteethand/orimplants,1,other
+511784,removalofdentalplaqueand/orstainfromthesurfacesofallteethand/orimplant,1,other
+511785,removalofdentalplaqueand/orstainfromthesurfacesofallteethand/orimplants.thisitemisincludedinprocedur,1,other
+511786,removalofforeignbodyinnoseandear,1,other
+511787,removalofk-wire,1,supplies
+511788,remove 1 wart,1,other
+511789,remove athaleil the unilateral,1,other
+511790,remove foreign body - simple er,1,other
+511791,remove foreign body from the eye,1,other
+511792,remove of cerclage,1,procedure
+511793,remove stitch dressing,1,supplies
+511794,remove vagina lesion,1,other
+511795,remove any size lipoma under local anathesia,1,other
+511796,remove foreign body from eye ( conjunctiva,1,other
+511797,remove foreign body from eye ( cornea,1,other
+511798,remove gummy nail,1,supplies
+511799,remove ingrain nail of the foot to one finger white a local,1,supplies
+511800,remove limestone,1,other
+511802,remove stitches episiotomy,1,procedure
+511803,remove surgical stitches,1,procedure
+511804,remove suture - استخراج الخيط,1,supplies
+511805,remove the foreign body,1,other
+511806,remove the nail under the skin,1,supplies
+511807,remove the sutures from the cornea,1,supplies
+511808,removed forebody,1,other
+511809,removeheavywhitewater,1,other
+511810,removel of f.b. from eye,1,lab_test
+511811,"removel of grommets, under ga",1,other
+511812,removel of hyper plastic tissue,1,eyewear
+511813,removing old crown (each piece,1,dental
+511814,removing stiches,1,other
+511816,removing sutures ????? ???,1,supplies
+511817,removing a foreign body from the cornea,1,other
+511818,removing irritated cilia,1,other
+511819,removing skin appendages describing the,1,other
+511820,removing stitches,2,procedure
+511851,remox500mg20cap,1,other
+511852,remox500mg20caps,1,other
+511858,remvl of foreign b.& repairing the intracranial dura,1,other
+511862,"renal (bun,cr",1,lab_test
+511864,renal (kidney) function test (rft,1,lab_test
+511865,renal angiogram both renal arteries,1,imaging
+511866,renal arteries doppler scanning,1,imaging
+511869,renal biopsy interpretation analysis with histopathology,1,lab_test
+511870,renal biopsy non-or,1,procedure
+511871,"renal biopsy, electron microscopy",1,procedure
+511872,"renal biopsy, immunohistology",1,procedure
+511873,"renal biopsy, light microscopy",1,procedure
+511874,renal chronic kidney disease adult follow-up,1,consultation
+511875,"renal cortical function, dmsa",1,lab_test
+511876,renal cystinosis follow-up,1,consultation
+511878,renal donor coordinator follow-up,1,consultation
+511879,renal donor coordinator new follow-up,1,consultation
+511880,renal doppler study,1,imaging
+511881,renal duplex,1,other
+511884,renal function profile (albumi,1,lab_test
+511886,"renal function profile (albumin, ca, co2, cl, cr, glu, phosphate, k, n",1,lab_test
+511890,renal function test (rft) general,1,lab_test
+511893,"renal function tests ( bun, s. creatinine, na, k, cl, uric a",1,lab_test
+511894,renal function tests(urea+creatinine+uric a.+na,1,lab_test
+511896,renal guard,1,other
+511897,renal guard kit #ac00050,1,other
+511898,renal independent living donor advocate follow-up,1,consultation
+511899,renal independent living donor advocate new follow-up,1,consultation
+511900,renal kidney biopsy histopathology,1,lab_test
+511901,"renal kidney biopsy, histopathology - ohio s/o un",1,lab_test
+511902,renal kidney paired donation follow-up,1,consultation
+511903,renal lnrd new patient,1,other
+511904,renal lnrd screening new follow-up,1,lab_test
+511905,renal panel,1,lab_test
+511906,renal panel (glu urea crea bua na k cl,1,lab_test
+511907,"renal panel (glu, urea, crea, bua, na, k, cl",1,lab_test
+511909,renal profile (bun-crea-egfr-na-ka-cl-hco3,1,lab_test
+511911,renal profile -ii,1,lab_test
+511912,renal profile tests,1,lab_test
+511913,"renal profile(urea,crea,uric, na,k,cl-urine a",1,lab_test
+511914,"renal profile, serum",1,lab_test
+511917,renal system sonar,1,imaging
+511918,renal system sonar - insurance,1,imaging
+511919,renal tx small bowel follow-up,1,consultation
+511920,renal tx small bowel new follow-up,1,consultation
+511921,renal tx surgery follow-up,1,procedure
+511922,renal transplant adolescents follow-up,1,consultation
+511923,renal transplant general follow-up,1,consultation
+511924,renal transplant pharmacotherapy follow-up,1,consultation
+511926,renal transplant virtual follow-up,1,consultation
+511927,renal u.s,1,imaging
+511929,renal us,1,imaging
+511930,renal ultrasound guided biopsy,1,imaging
+511932,"renal biopsy; percutaneous, by trocar or needle",1,supplies
+511933,renal denervation electrosurgical catheter,1,supplies
+511937,renal function profile (albumin ca glu phosphate k na bun,1,lab_test
+511938,renal function profile (albumin ca co2 cl cr glu p,1,lab_test
+511941,renal function profile (creatinine bun,1,lab_test
+511942,renal function profile albumin ca co2 cl cr glu phosphate k na bun,1,lab_test
+511943,renal function profile _albumin ca co2 cl cr glu phosphate k na bun_,1,lab_test
+511944,renal function nuclear medicine test,1,lab_test
+511947,renal function profile (6test) ?????? ????? ?????,1,lab_test
+511951,renal functions,1,other
+511959,renal vein stimulation panel includes renin x6,1,lab_test
+511960,renal%20function%20profile,1,other
+511961,renalfunctiontests(bun2cs.creatinine2cna2ck2ccl2curica,1,other
+511962,"renalfunctionprofile(albumin,ca,cl,cr,glu,phosphate,k,na,bun",1,lab_test
+511965,renalof60cap,1,other
+511969,"renegade hi flo kit, 13510",1,eyewear
+511970,"renegade hi-flo microcatheter kit, 135cm x 10cm",1,eyewear
+511971,"renegade stc18, angles micro-catheter 130x20cm, boston scientific #m001181330",1,supplies
+511972,rengad,2,other
+511975,renin - ?????,1,other
+511978,"renin activity, plasma",1,lab_test
+511979,"renin activity, plasma my pra40",1,lab_test
+511981,renin/aldosterone ratio,1,lab_test
+512004,rennie-48t,1,other
+512006,rennie48tab,1,other
+512007,"renogram scan, mag3, erpf",1,imaging
+512020,reomval of stitches,1,procedure
+512021,"reop strabms inv musc of eye 2nd proc, unilateral",1,other
+512024,rep ect/entropion oth rep infer retrac bilateral,1,other
+512025,rep incisnl hernia resec strangd intest,1,procedure
+512026,rep perf eyeball wound w sut cornea lacr,1,other
+512027,rep perf eyeball wound w sut sclera lacr,1,other
+512028,rep retinal detach by photocoagulation uni,2,other
+512029,rep retinal detach by photocoagulation bil,1,other
+512031,rep varicocele bil,1,other
+512032,rep varicocele uni,1,other
+512033,rep wnd ssct face/neck inv soft tis small,2,procedure
+512035,"rep, ing. hernia, unilateral (3d) without mesh",1,supplies
+512036,rep. root canal treatment,1,dental
+512090,repadermgel100gm,1,other
+512091,repadermgel40g,1,other
+512092,repadermgel40gm,1,other
+512094,repair rupture rotator cuff muscle,1,procedure
+512095,repair or reconstruction of achilles tendon tear,1,procedure
+512096,"repair flexor tendon, foot, w/o free graft",1,procedure
+512097,repair of fracture,1,procedure
+512098,repair of amputated finger with grafting p/d,1,procedure
+512103,repair of gastric/intestinal perforation p/d,1,procedure
+512105,repair of lacerated wound not involving tendon or nerve under g aglb ayh,1,procedure
+512108,repair of lacrated wound under g.a,1,procedure
+512109,repair of major laceration in the face,1,procedure
+512111,repair of rectocele(posterior colporhaphaphy,1,procedure
+512112,repair of recurrent umbilical hernia,1,procedure
+512113,repair of ruptured superficial ligament of knee & ankle p/d,1,procedure
+512114,repair of stricture urethra globemed ayh,1,procedure
+512116,repair of vaginal -perineal tear g.a,1,procedure
+512118,repair post partum tear ( new,1,procedure
+512119,repair small superficial wound(s)(1-2 cm,1,procedure
+512121,repair superficial medium wound(s,1,procedure
+512122,repair superficial skin wound (other site,1,procedure
+512123,repair tendon,1,procedure
+512124,repair asst/adaptive device/aid/equip,1,procedure
+512125,"repair blood vessel, direct; lower extremity",1,lab_test
+512126,repair choanal atresia; intranasal ( unilateral,1,procedure
+512127,repair crown bridge or splint direct,1,dental
+512128,repair crown bridge or splint indirect,1,dental
+512129,"repair diaphragmatic hernia, abdo appr",1,procedure
+512130,"repair epigastric hernia (eg, preperitoneal fat), reducible (separate procedure",1,procedure
+512131,repair eyelid - wound,1,procedure
+512132,repair incisional hernia with prosthesis,1,supplies
+512133,repair ingeowing nail l/a,1,supplies
+512134,"repair initial incisional or ventral hernia, small, reducible",1,procedure
+512135,repair initial incisional or ventral hernia; large; incarcerated or strangulated,1,procedure
+512136,repair initial incisional or ventral hernia; small; reducible,1,procedure
+512137,"repair initial inguinal hernia, age 5 years or over - reducible",1,procedure
+512138,"repair initial inguinal hernia, age 6 months to under 5 years, with or without hydrocelectomy; reducible",1,procedure
+512139,"repair initial inguinal hernia, under age 6 months, with or without hydrocelectomy; incarcerated or strangulated",1,procedure
+512140,repair lateral collateral ligament elbow with local tissue,1,procedure
+512143,repair of amputated finger without graft,1,procedure
+512144,repair of avulsed extensor digitorum tendon,1,procedure
+512145,repair of bronchopleural fistula through thoracotomy,1,procedure
+512146,repair of cast,1,supplies
+512147,repair of complex hand injuries,1,procedure
+512148,repair of cut ear pinna p/d,1,procedure
+512149,repair of cystocele or anterior colporaphy,1,procedure
+512150,"repair of diaphragmatic hernia, laparoscopic",1,procedure
+512151,"repair of diaphragmatic hernia, morgagni, laparoscopic",1,procedure
+512152,repair of divarication of recti (non-cosmetic,2,procedure
+512155,repair of extensive facial laceration - major,1,procedure
+512156,repair of eyelid wound large one lid,1,supplies
+512157,repair of flexor tendon of finger with graft (direct,1,procedure
+512159,repair of git/peptic ulcer with clips,1,procedure
+512160,repair of grastric/ instinal perforation,1,procedure
+512161,repair of hernia with mesh,2,supplies
+512163,repair of hiatal esophageal hernia,1,procedure
+512164,repair of hiatus hernia,1,procedure
+512168,repair of hypospadias (simple,1,procedure
+512170,repair of hypospadias two stages,1,procedure
+512171,repair of iliac vein - surgical,1,procedure
+512172,repair of inferior vena cava,1,procedure
+512173,repair of inguanal hernia,1,procedure
+512174,"repair of inguinal hernia, neonatal, open",1,procedure
+512180,"repair of laceration, cornea perforating",1,procedure
+512181,"repair of laceration, floor mouth",1,procedure
+512182,repair of large incisional hernia with mesh,1,supplies
+512184,repair of lid (minor,1,procedure
+512187,repair of minor lid laceration,1,procedure
+512188,repair of misdirected eyelashes one eye under la,1,supplies
+512190,"repair of nonunion or malunion, tibia; without graft, (eg, compression technique",1,procedure
+512191,repair of nonunion scaphoid carpal (navicular) bone with or without radial styloidectomy (includes obtaining graft and necessary fixation,1,imaging
+512192,repair of obstructed hernia,1,procedure
+512193,repair of osteochondritis dissec- knee,1,procedure
+512194,repair of para-umbilical hernia,1,procedure
+512195,repair of paraoesophageal hernia laparoscopic,1,procedure
+512197,repair of patella and tendon,1,procedure
+512198,repair of perforated peptic ulcer under ga,1,procedure
+512199,repair of pulley/ligament hand,1,procedure
+512201,repair of rectocele or posterior colporaphy,1,procedure
+512202,"repair of recurrent inguinal hernia, open - excluding mesh",1,supplies
+512203,"repair of recurrent ventral hernia, laparoscopic - excluding mesh",1,supplies
+512206,repair of ruptured uterus- (during pregnancy,1,procedure
+512207,repair of simple lid - exploration i,1,procedure
+512208,"repair of stricture,resection oflower urethra bupa ayh",1,procedure
+512209,repair of tendon toe,1,procedure
+512210,repair of tendon of the foot,1,procedure
+512211,repair of the bowel,2,procedure
+512212,repair of torsion tests,1,lab_test
+512213,repair of umbilical hemia,1,procedure
+512214,"repair of umbilical hernia, laparoscopic - excluding mesh",1,supplies
+512216,repair of urethral injuries,1,procedure
+512217,repair of vaginal or cervical tear,1,imaging
+512218,"repair of ventral hernia, laparoscopic - excluding mesh",1,supplies
+512219,"repair of ventral hernia, large complex, open - excluding mesh",1,supplies
+512220,repair of abave elbow cast,1,supplies
+512221,repair of adult large epigastric hernia with mesh,1,supplies
+512224,repair of amputated finger g.a. plus xray,1,imaging
+512225,repair of amputated finger g.a.+ xray,1,imaging
+512227,"repair of ant & post vag compt, vag appr",1,procedure
+512228,repair of anterior and posterior vaginal compartment vaginal approach,1,procedure
+512229,"repair of anterior vaginal compartment, vaginal approach",1,procedure
+512230,repair of assistive or adaptive device aid or equipment,1,procedure
+512231,repair of below elbow cast,1,supplies
+512232,repair of below knee cast,1,supplies
+512233,"repair of blepharoptosis; (tarso)levator resection or advancement, internal approach",1,procedure
+512234,"repair of bone, not elsewhere classified",1,imaging
+512235,repair of broken base of partial denture,1,dental
+512236,repair of broken base of partial or complete denture,1,dental
+512237,repair of choanal atresia: intranasal,1,procedure
+512238,repair of cleft soft and hard palate,1,procedure
+512239,repair of complete shoulder (rotator) cuff avulsion - excluding supplies,1,procedure
+512240,"repair of crown ,bridge or splint, indirect",1,dental
+512241,"repair of crown, bridge or splint direct",2,dental
+512242,"repair of crown, bridge or splint indirect",2,dental
+512244,"repair of crown, bridge or splint direct - ncci",1,dental
+512246,"repair of crown, bridge or splint - direct",1,dental
+512247,"repair of crown, fixed partial denture or splint, direct",1,dental
+512249,repair of deep laceration of finger,1,procedure
+512250,repair of deep laceration of finger with local flap,1,procedure
+512251,repair of deep laceration of finger without nerve lesion,1,procedure
+512252,"repair of diaphragmatic hernia, open",1,procedure
+512253,"repair of diaphragmatic hernia, thoracic approach ( thoraco-abdominal repair of diaphragmatic hernia ) without mesh",1,supplies
+512254,repair of ectropion or entropion,1,procedure
+512256,repair of extensor tendon central slip secondary (eg boutonniere deformity); with free graft (includes obtaining graft) each finger,1,procedure
+512257,"repair of extensor tendon, distal insertion, primary or secondary; with free graft (includes obtaining graft",1,procedure
+512258,"repair of extensor tendon, distal insertion, primary or secondary; without graft (eg, mallet finger",1,procedure
+512259,repair of gastric intestinal perforation,1,procedure
+512264,"repair of hypospadias complications (ie, fistula, stricture, diverticula): by closure, incision, or",1,procedure
+512268,"repair of indirect restoration (veneer, inlay, onlay",1,dental
+512269,repair of inguanal hernia with mesh,1,supplies
+512270,repair of inguinal herina under age 5 with or without hydrocelectomy,1,procedure
+512272,repair of inguinal hernia bilateral,1,procedure
+512273,repair of inguinal hernia unilateral,1,procedure
+512274,"repair of inguinal hernia, bilateral, laparoscopic - excluding mesh",1,supplies
+512275,"repair of inguinal hernia, bilateral, open - excluding mesh",1,supplies
+512276,"repair of inguinal hernia, unilateral, laparoscopic - excluding mesh",1,supplies
+512277,"repair of inguinal hernia, unilateral, open - excluding mesh",1,supplies
+512280,repair of intrathoracic vessels,1,procedure
+512282,repair of lacerated wound not involving tendon or,1,procedure
+512285,repair of laceration of conjunctiva unilateral,2,procedure
+512286,"repair of laceration of conjunctiva, bilateral",1,procedure

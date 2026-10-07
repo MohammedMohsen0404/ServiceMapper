@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+598698,"urodynamic testing, detailed",1,lab_test
+598699,urodynamic with pressure voiding studies,1,consultation
+598700,urodynamics study,1,consultation
+598701,urodynamics/water cystometry,1,other
+598706,uroflowmetry study,1,consultation
+598707,uroflowmetry with u/s residual volume,1,imaging
+598708,uroflowmetry%20,1,other
+598709,"uroflowmetry, complex (eg, calibrated electronic equipment",1,other
+598710,"uroflowmetry, simple (ufr",1,other
+598711,"urogenital surgical laser system beam guide, reusable",1,procedure
+598713,urological consultation,2,consultation
+598714,urologist cons. fee,1,consultation
+598716,urology u/s موجات فوق الصوتية علي المسالك البولية,1,imaging
+598717,urology adult minimally invasive follow-up,1,consultation
+598718,urology adult minimally invasive new follow-up,1,consultation
+598719,urology adult minimally invasive new patient,1,other
+598720,urology adult minimally invasive walk-in follow-up,1,consultation
+598721,urology adult post op follow-up,1,consultation
+598722,urology adult referral new follow-up,1,consultation
+598723,urology adult referral new patient,1,other
+598724,urology adult walk-in follow,1,other
+598725,urology andrology post op visit,1,consultation
+598726,urology andrology virtual follow-up,1,consultation
+598727,urology clinics_consultant fee,1,consultation
+598728,urology consultant,2,consultation
+598729,urology consultant cons,1,consultation
+598732,urology consultation fee dr. bekheit al matar,1,consultation
+598734,"urology drug , , coated balloons for stricture treatment, size 30frx 50mm, , 1110-10050e",1,other
+598735,"urology drug , , coated balloons for stricture treatment, size 30frx 50mm",1,other
+598736,urology endo follow up,1,consultation
+598737,urology endo new follow up,1,consultation
+598738,urology endo new patient,1,other
+598739,urology endo post op visit,1,consultation
+598740,urology follow up dr. bekheit al matar,1,consultation
+598741,urology folwo up,1,other
+598742,urology infertility post op visit,1,consultation
+598743,urology medicine specialist cons,1,consultation
+598744,urology metabolic stone follow-up,1,consultation
+598745,urology minimally invasive post op visit,1,consultation
+598746,urology minimally invasive virtual follow-up,1,consultation
+598747,urology oncology post op visit,1,consultation
+598748,urology oncology virtual follow-up,1,consultation
+598749,urology pack 97060918-00,1,supplies
+598750,urology peds pre admission follow-up,1,consultation
+598751,urology peds urgent add-on follow-up,1,consultation
+598752,urology peds virtual follow-up,1,consultation
+598753,urology peds walk-in follow-up,1,consultation
+598755,urology specialist cons,1,consultation
+598756,urology specialist 1 cons,1,consultation
+598757,urology specialist 2 cons,1,consultation
+598759,urology specilaist,1,other
+598760,urology virtual follow-up,1,consultation
+598761,urology examination fees (consultant,1,consultation
+598806,ursofalk250mg50cap,1,other
+598807,urticaria test,1,lab_test
+598808,us bilateral lower extremity doppler arterial mapping,1,imaging
+598812,us abdomen & pelvis (male) - ????? ??? ??????? ????? ?????? ???,1,imaging
+598813,us abdomen (upper) - ????? ??? ??????? ??? ?????,1,imaging
+598816,us antinatal scan obstetrics,1,imaging
+598817,us any part of the body / organ - ??? ???????? ??????? ??? ??? ??????,2,imaging
+598820,us any part of the bodyorganabdomenpelvis,1,imaging
+598821,us arterio-venous fistula doppler exam,1,imaging
+598823,us chest - ????? ????? ???????? ???????,1,imaging
+598824,us guided liver mass biopsy,1,procedure
+598826,us guided thyroid fine needle biopsy l-71420,1,supplies
+598827,us intravaginal,1,imaging
+598828,us lower extremity arterial puls volume recording,1,imaging
+598829,us pelvic / pelvis - ??? ????? ???????? ???????,1,imaging
+598831,us scrotum testicle,1,imaging
+598833,us unilateral upper extremity doppler venous,1,imaging
+598835,us urinary tract - ??? ??????? ??????? ???????? ???????,1,imaging
+598837,us abdo pelvis for other pregnancy cond,1,imaging
+598846,us. unilateral lower extremity doppler varicose veins,1,imaging
+598849,use of echocardiographic contrast agent during stress echocardiography,1,imaging
+598853,use of wound vaccum machine \ per day,1,supplies
+598854,use a 24-hour complementary clock monitor,1,other
+598855,use of a.v.i. machine,1,supplies
+598856,use of aspiration catheter in addition to procedure,1,supplies
+598857,use of co2 injector for angiogram unilateral,1,imaging
+598859,use of i.v. infusion pump/hour,1,supplies
+598860,use of iv infusion pump set per day,1,supplies
+598861,use of iv infusion pump per set,1,supplies
+598862,use of iv syringe pump per day,1,supplies
+598863,use of iv syringe pump per set,1,supplies
+598867,use of intermit. suc. pump/hour,1,supplies
+598868,use of o r,1,lab_test
+598869,use of suction apparatus/hour,1,supplies
+598870,use of a pin to aid the retention and support of d,1,supplies
+598871,use of a pin to aid the retention and support of direct or indirect restorations,1,supplies
+598872,use of a pin to aid the retention and support of direct or indirect restorations in a tooth,2,dental
+598875,use of suction device export catheter i primary pci,1,supplies
+598876,use only as a complementary clock for 24 hours,1,other
+598877,usea24-hourcomplementaryclockmonitor,1,other
+598878,useonlyasacomplementaryclockfor24hours,1,other
+598887,ushaped plastic splints,1,eyewear
+598889,using of nitrous oxide for one visit,1,supplies
+598892,uterine evacuation and currettage with or without dilatation,1,procedure
+598893,uterine evacuation and currettage with or without dilatational rajhi ayh,1,procedure
+598894,uterine evacuation and currettage with or without dilatationtcs ayh,1,procedure
+598895,uterine evacuation and curettage (d & c,1,procedure
+598896,uterine evacuation and currettage with or without dilatation bupa ayh,1,procedure
+598897,uterine fibroid embolization + guiding cathers + wires + high flow catheter + embolization particles,1,supplies
+598898,uterine after embolization,1,procedure
+598900,"uterine fibroid embolization (ufe, embolization of the uterine arteries to treat uterine fibroids, leiomyomata), percutaneous approach",1,procedure
+598901,uterine fibroid embolization-pkg,1,procedure
+598902,uterine manipulator cervical cup/transilluminator,1,imaging
+598903,"uterine manipulator, reusable",1,supplies
+598904,"uterus, neoplasia, radical resection",1,procedure
+598905,"uterus, prolapse",1,other
+598906,"uterus, total with ovaries and tubes(including benign neoplasms",1,other
+598907,utrogestan,1,other
+598908,utycan plus (utycan plus,1,other
+598936,uvamin retard20caps,1,other
+598942,uvamin100mg20caps*new*retard,1,other
+598947,uvulo - palato pharyngoplasty,1,procedure
+598949,uvulopalatopharyngoplasty uppp,1,procedure
+598951,uxorate,1,other
+598961,v,1,other
+598963,v b 12,1,lab_test
+598964,v d r l,2,lab_test
+598965,v d r l / r p r,1,lab_test
+598966,v d r l titer,1,lab_test
+598968,v i p suite301,1,lab_test
+598969,v infusion set with regulator,1,supplies
+598970,v it d,1,other
+598971,v l d l cholesterol,1,lab_test
+598972,v nebulizer,1,supplies
+598974,v p shunt 14mm-adult m.pressure burr hole valve (c.c)-inma,1,procedure
+598975,v p shunt medium pressure (c.c)-inma,1,procedure
+598977,v z igg/igm - ?????,1,lab_test
+598980,v admin of pharmac agt oth & unsp agent,1,consultation
+598981,v&l,1,other
+598982,"v, badgley mischka,adalyn,black,53/16,135",1,other
+598983,"v,7st,7a 001,r80/17,54",1,other
+598984,"v,7st,7a 004,r80/18,54",1,other
+598985,"v,7st,7a 004,r80/18,58",1,other
+598986,"v,7st,7a 013,807/18,53",1,other
+598987,"v,7st,7a 014,jbw/18,50",1,other
+598988,"v,7st,7a 016,003/17,54",1,other
+598989,"v,7st,7a 016,fll/17,54",1,other
+598990,"v,7st,7a 016,r80/17,54",1,other
+598991,"v,7st,7a 023,003/17,55",1,other
+598992,"v,7st,7a 068,003/18,53",1,other
+598993,"v,7st,7a 077,010/17,54",1,other
+598994,"v,7st,7a 078,010/17,53",1,other
+598995,"v,7st,7a 086,900/20,50",1,other
+598996,"v,7st,7a 509,b3v/18,53",1,other
+598997,"v,7st,7a 510,3yg/17,53",1,other
+598998,"v,7st,7a 511,3yg/17,53",1,other
+598999,"v,7st,7a 519,003/16,52",1,other
+599000,"v,7st,7a 519,09q/16,52",1,other
+599001,"v,7st,7a 544,6lb/15,53",1,other
+599002,"v,7st,7a 569,35j/16,54",1,other
+599003,"v,7st,7st,7a 046,807/19,53",1,other
+599004,"v,7st,s 296,pjp/19,44",1,other
+599005,"v,7st,s 298,003/17,49",1,other
+599006,"v,ave,daam008,c06/15,48",1,other
+599007,"v,avengers,daaa 038,c74,42/18",1,other
+599008,"v,avengers,daaa 044,c61,46/15",1,other
+599009,"v,badgley mischka,bm ellia,blush/16,53",1,other
+599010,"v,badgley mischka,bm filicia,black/17,53",1,other
+599011,"v,badgley mischka,bm lyra,black/16,52",1,other
+599012,"v,badgley mischka,bm pierrette,rose/gold/17,52",1,nutrition
+599013,"v,balenciaga,bal 0117o/v,003,57/18,145",1,other
+599014,"v,balenciaga,bal 0312o/v,001,53/15,135",1,other
+599015,"v,bar,baaa019,c68/17,45",1,other
+599016,"v,bar,baaa020,c10/16,46",1,other
+599017,"v,bar,baaa032,c10/15,47",1,other
+599018,"v,barbie,baaa 001,d35,45/17",1,other
+599019,"v,barbie,baaa 006,c27,45/18",1,other
+599020,"v,barbie,baaa 011,c12,43/17",1,other
+599021,"v,barbie,baaa 011,c74,43/17",1,other
+599022,"v,barbie,baaa 024,c70,42/17",1,other
+599023,"v,barbie,baaa019,c10/17,45",1,other
+599024,"v,barbie,baaa020,d49/16,46",1,other
+599025,"v,barbie,baam001,c10/16,48",1,other
+599026,"v,barbie,bamm 003,c61,46/17",1,other
+599027,"v,barbie,dpaa187,c10/16,46",1,other
+599028,"v,bbb,the daisy,boa/14,51",1,other
+599029,"v,bbb,the jill,pjp/16,52",1,other
+599030,"v,berenice,brigitte,c28,54/18",1,other
+599031,"v,boss orange,bo 0327/v,hgc,50/20,140",1,eyewear
+599032,"v,bottiga veneta,bvt 0066o/v,001,50/21,140",1,other
+599033,"v,bottiga veneta,bvt 0121o/v,005,52/17,145",1,other
+599034,"v,bvlgari,bvl 2186/v,2014,53/17,140",1,eyewear
+599035,"v,bvlgari,bvl 2244b/v,278,55/16,140",1,eyewear
+599036,"v,bvlgari,bvl 2246b/v,2023,53/17,140",1,eyewear
+599037,"v,bvlgari,bvl 2246b/v,2067,53/17,140",1,eyewear
+599038,"v,bvlgari,bvl 2247/v,2067,52/17,140",1,eyewear
+599039,"v,bvlgari,bvl 2250k/v,2023,52/16,140",1,eyewear
+599040,"v,bvlgari,bvl 4208/v,5508,52/19,145",1,eyewear
+599041,"v,bvlgari,bvl 4212/v,5469,51/17,140",1,eyewear
+599042,"v,bvlgari,bvl 4213/v,504,51/17,140",1,eyewear
+599043,"v,car, 1111/g,000/21,50",1,other
+599044,"v,car, 190,j5g/18,56",1,other
+599045,"v,car, 8836,003/19,56",1,other
+599046,"v,car,181/f,o63/20,51",1,other
+599047,"v,car,8836,vzh/19,56",1,other
+599048,"v,car,8842,j7d/18,55",1,other
+599049,"v,car,carrera 1118/g,fwm/17,55",1,eyewear
+599050,"v,car,carrera 2010t,010/19,51",1,eyewear
+599051,"v,car,carrera 2012t,807/16,50",1,eyewear
+599052,"v,car,carrera 2012t,pjp/16,50",1,eyewear
+599053,"v,car,carrera 4009/cs,807/uc ,54",1,eyewear
+599054,"v,car,carrera 8823/v,003/17,56",1,eyewear
+599055,"v,car,carrera 8823/v,r81/17,56",1,eyewear
+599056,"v,car,carrera 8828/v,807/16,54",1,eyewear
+599057,"v,car,carrera 8830/v,09q/18,56",1,eyewear
+599058,"v,car,carrera 8830/v,blx/18,56",1,eyewear
+599059,"v,car,carrera 8830/v,r80/18,56",1,eyewear
+599060,"v,car,carrera 8872,kb7/16,55",1,eyewear
+599061,"v,carolina herrera,ch 0004/v,086,53/19,140",1,eyewear
+599062,"v,carolina herrera,ch 0012/v,fwm,56/15,145",1,eyewear
+599063,"v,carolina herrera,ch 0026/v,086,51/18,145",1,eyewear
+599064,"v,carolina herrera,ch 0048/v,3io,53/16,145",1,eyewear
+599065,"v,carolina herrera,her 0016,lhf/16,52",1,eyewear
+599066,"v,carolina herrera,her 0026,807/18,51",1,eyewear
+599067,"v,carolina herrera,her 0028,086/18,53",1,eyewear
+599068,"v,carolina herrera,her 0028,807/18,53",1,eyewear
+599069,"v,carolina herrera,her 0028/v,pjp,53/18,145",1,eyewear
+599070,"v,carolina herrera,her 0031,noa/17,55",1,eyewear
+599071,"v,carolina herrera,her 0040,yk9/16,54",1,eyewear
+599072,"v,carolina herrera,her 0054,dln/16,53",1,eyewear
+599073,"v,carolina herrera,her 0054,kdx/16,53",1,eyewear
+599074,"v,carolina herrera,her 0055,f0t/15,54",1,eyewear
+599075,"v,carolina herrera,her 0055/v,kdx,54/15,145",1,eyewear
+599076,"v,carolina herrera,her 0057,yje/17,53",1,eyewear
+599077,"v,carolina herrera,her 0058,rhl/18,56",1,eyewear
+599078,"v,carolina herrera,her 0059,588/19,55",1,eyewear
+599079,"v,carolina herrera,her 0060,bku/16,57",1,eyewear
+599080,"v,carolina herrera,her 0074,yep/16,53",1,eyewear
+599081,"v,carolina herrera,her 0074/v,lks,53/16,145",1,eyewear
+599082,"v,carolina herrera,her 0084/g/v,807,50/18,145",1,eyewear
+599083,"v,carolina herrera,her 0085/v,807,56/14,145",1,eyewear
+599084,"v,carolina herrera,her 0096,ydc/15,54",1,eyewear
+599085,"v,carolina herrera,her 0103/v,05l,50/17,145",1,eyewear
+599086,"v,carolina herrera,her 0108/v,ydc,54/15,145",1,eyewear
+599087,"v,carolina herrera,her 0113/g,9ht/17,51",1,eyewear
+599088,"v,carolina herrera,her 0113/g/v,c19,54/17,145",1,eyewear
+599089,"v,carolina herrera,her 0117/v,jbw,55/16,145",1,eyewear
+599090,"v,carolina herrera,her 0122,o63/15,55",1,eyewear
+599091,"v,carolina herrera,her 0123/v,kdx,54/16,145",1,eyewear
+599092,"v,carolina herrera,her 0151/v,086,54/18,145",1,eyewear
+599093,"v,carolina herrera,her 0154/v,807,56/14,145",1,eyewear
+599094,"v,carolina herrera,her 0193,eyr/17,56",1,eyewear
+599095,"v,carolina herrera,her 0193/v,rhl,56/17,145",1,eyewear
+599096,"v,carolina herrera,her 0197/v,2m2,54/16,145",1,eyewear
+599097,"v,carolina herrera,her 0204/v,rhl,54/17,145",1,eyewear
+599098,"v,carolina herrera,her 0205/v,wr7,53/18,145",1,eyewear
+599099,"v,carolina herrera,her 0211/v,noa,53/17,145",1,eyewear
+599100,"v,carolina herrera,her 0211/v,rhl,53/17,145",1,eyewear
+599101,"v,carrera 8857/v,r80,57/17",1,eyewear
+599102,"v,carrera ducati,carduc 016/v,oit,55/18,145",1,eyewear
+599103,"v,carrera ducati,carduc 016/v,pjp,55/18,145",1,eyewear
+599104,"v,carrera ducati,carduc 024/v,807,56/16,140",1,eyewear
+599105,"v,carrera ducati,carduc 025/v,v6d,57/17,140",1,eyewear
+599106,"v,carrera ducati,carduc 027/v,807,56/18,140",1,eyewear
+599107,"v,carrera,car 1117/g/v,j5g,49/20,145",1,eyewear
+599108,"v,carrera,car 1117/g/v,v81,49/20,145",1,eyewear
+599109,"v,carrera,car 1129/v,086,52/18,140",1,eyewear
+599110,"v,carrera,car 1131/v,807,51/18,140",1,eyewear
+599111,"v,carrera,car 1131/v,sd9,51/18,140",1,eyewear
+599112,"v,carrera,car 1134/v,003,57/16,145",1,eyewear
+599113,"v,carrera,car 1134/v,807,57/16,145",1,eyewear
+599114,"v,carrera,car 1134/v,ex4,57/16,145",1,eyewear
+599115,"v,carrera,car 2010t/v,010,51/19,135",1,eyewear
+599116,"v,carrera,car 2012t/v,807,54/17,145",1,eyewear
+599117,"v,carrera,car 2023t/cs,aci/w7,48/18,135",1,eyewear
+599118,"v,carrera,car 225/v,avs,56/17",1,eyewear
+599119,"v,carrera,car 249/v,807,55/18",1,eyewear
+599120,"v,carrera,car 270/v,807,52/18",1,eyewear
+599121,"v,carrera,car 270/v,kb7,52/18",1,eyewear
+599122,"v,carrera,car 287/v,807,49/20",1,eyewear
+599123,"v,carrera,car 289/v,3y5,54/17",1,eyewear
+599124,"v,carrera,car 289/v,m4p,54/17,145",1,eyewear
+599125,"v,carrera,car 292/v,pjp,53/18,145",1,eyewear
+599126,"v,carrera,car 293/v,807,57/15",1,eyewear
+599127,"v,carrera,car 293/v,807,59/16,150",1,eyewear
+599128,"v,carrera,car 297/n/cs,807,m9,48",1,eyewear
+599129,"v,carrera,car 310/v,807,48/21,145",1,eyewear
+599130,"v,carrera,car 312/v,kb7,54/19,150",1,eyewear
+599131,"v,carrera,car 312/v,y00,54/19,150",1,eyewear
+599132,"v,carrera,car 313/v,y00,47/22,150",1,eyewear
+599133,"v,carrera,car 321/v,kb7,53/19,150",1,eyewear
+599134,"v,carrera,car 4009/cs,003/sp,54/17,145",1,eyewear
+599135,"v,carrera,car 4009/cs,rct/m9,54/17,145",1,dental
+599136,"v,carrera,car 8044/cs,003/sp,50/22,145",1,eyewear
+599137,"v,carrera,car 8044/cs,807/uc,50/22,145",1,eyewear
+599138,"v,carrera,car 8044/cs,pjp/m9,50/22,145",1,eyewear
+599139,"v,carrera,car 8045/cs,003/uc,53/18,145",1,eyewear
+599140,"v,carrera,car 8053/cs,086/sp,55/17,145",1,eyewear
+599141,"v,carrera,car 8057/cs,003/m9,55/17,145",1,eyewear
+599142,"v,carrera,car 8057/cs,yz4/sp,55/17,145",1,eyewear
+599143,"v,carrera,car 8062/cs,4nz/m9,51/19,145",1,eyewear
+599144,"v,carrera,car 8823/v,807,56/17,140",1,eyewear
+599145,"v,carrera,car 8823/v,r81,56/17,140",1,eyewear
+599146,"v,carrera,car 8858/v,807,56/17",1,eyewear
+599147,"v,carrera,car 8862/v,003,55/17",1,eyewear
+599148,"v,carrera,car 8871/v,807,57/17,145",1,eyewear
+599149,"v,carrera,car 8881/v,807,56/16,145",1,eyewear
+599150,"v,carrera,car 8889/v,kb7,56/16,145",1,eyewear
+599151,"v,carrera,car 8890/v,r60,57/16,145",1,eyewear
+599152,"v,carrera,car 8893/v,blx,58/18,145",1,eyewear
+599153,"v,carrera,car 8894/v,o6w,55/17,145",1,eyewear
+599154,"v,carrera,car 8897/v,pjp,55/17,140",1,eyewear
+599155,"v,carrera,car 8899/v,i46,55/19,140",1,eyewear
+599156,"v,carrera,car 8900/v,fll,55/17,140",1,eyewear
+599157,"v,carrera,car hyperfit 16/cs,807/m9,55/17,140",1,eyewear
+599158,"v,carrera,car hyperfit 16/cs,c9a/m9,55/17,140",1,eyewear
+599159,"v,cartier,ct0019o,001,53/19,145",1,eyewear
+599160,"v,cartier,ct0133o,001,52/19,145",1,eyewear
+599161,"v,cartier,ct0133o,002,52/19,145",1,eyewear
+599162,"v,cartier,ct0285o,002,56/16,145",1,eyewear
+599163,"v,cartier,ct0291o,001,54/18,145",1,eyewear
+599164,"v,cartier,ct0291o,002,54/18,145",1,eyewear
+599165,"v,cartier,ct0444o,002,52/19,145",1,eyewear
+599166,"v,carven,ch020,ol68,47/22",1,other
+599167,"v,catuma,balance,c4,59/15,145",1,eyewear
+599168,"v,catuma,libeccio,c8,52/16,145",1,other
+599169,"v,cdu,blacktie123,am6/14,53",1,other
+599170,"v,cdu,blacktie232,3ma/18,52",1,other
+599171,"v,cdu,diordisappearo3,kb7/17,54",1,other
+599172,"v,crd,montaigne16,mv3/18,53",1,other
+599173,"v,dior homme,blacktie201f/v,fb8,50/21,145",1,eyewear
+599174,"v,disney frozen,dpaa181,c70/16,45",1,other
+599175,"v,disney frozen,dpaa191,d36/16,47",1,other
+599176,"v,disney frozen,dpaa195,d41/15,44",1,other
+599177,"v,disney frozen,nyaa132,c70/17,43",1,other
+599178,"v,disney princess,aa 104,c36,43/18",1,other
+599179,"v,disney princess,aa 150,c65,45/15",1,other
+599180,"v,disney princess,aa 157,c66,43/16",1,other
+599181,"v,disney princess,aa 161,c12,46/17",1,other
+599182,"v,disney princess,aa 171,c66,43/16",1,other
+599183,"v,disney princess,aa 182,c66,45/16",1,other
+599184,"v,disney princesses,dpaa191,c71/15,42",1,other
+599185,"v,disney princesses,dpaa201,c41/17,44",1,other
+599186,"v,dolce&gabbana,dg 1309/v,1277,55/18,140",1,eyewear
+599187,"v,dolce&gabbana,dg 1309/v,1358,55/18,140",1,eyewear
+599188,"v,dolce&gabbana,dg 1348/v,05,54/18,145",1,eyewear
+599189,"v,dolce&gabbana,dg 1350/v,04,53/18,145",1,eyewear
+599190,"v,dolce&gabbana,dg 1351/v,1334,54/15,140",1,eyewear
+599191,"v,dolce&gabbana,dg 1352/v,1363,56/16,140",1,eyewear
+599192,"v,dolce&gabbana,dg 3360/v,3246,52/18,145",1,eyewear
+599193,"v,dolce&gabbana,dg 3360/v,3247,52/18,145",1,eyewear
+599194,"v,dolce&gabbana,dg 3361/v,3247,50/20,145",1,eyewear
+599195,"v,dolce&gabbana,dg 3363/v,501,52/18,145",1,eyewear
+599196,"v,dolce&gabbana,dg 3367/v,502,50/19,145",1,eyewear
+599197,"v,dolce&gabbana,dg 3370/v,3091,52/16,145",1,eyewear
+599198,"v,dolce&gabbana,dg 3370/v,501,52/16,145",1,eyewear
+599199,"v,dolce&gabbana,dg 3374/v,501,51/18,145",1,eyewear
+599200,"v,dolce&gabbana,dg 3374/v,502,51/18,145",1,eyewear
+599201,"v,dolce&gabbana,dg 3380/v,502,52/18,145",1,eyewear
+599202,"v,dolce&gabbana,dg 5044/v,2525,55/17,145",1,eyewear
+599203,"v,dolce&gabbana,dg 5062/v,3296,55/19,160",1,eyewear
+599204,"v,dolce&gabbana,dg 5078/v,502,53/18,140",1,eyewear
+599205,"v,dolce&gabbana,dg 5087/v,3133,53/18,140",1,eyewear
+599206,"v,dolce&gabbana,dg 5087/v,3386,51/18,140",1,eyewear
+599207,"v,dolce&gabbana,dg 5088/v,2525,53/19,145",1,eyewear
+599208,"v,dolce&gabbana,dg 5099/v,2525,53/18,145",1,eyewear
+599209,"v,dolce&gabbana,dg 5101/v,501,50/18,145",1,eyewear
+599210,"v,dosuno,dos 205405sc,track sc caqui satinado/negro,54/17",1,other
+599211,"v,dosuno,dos 225232sc,land sc azul mate/azul,52/17",1,other
+599212,"v,dpr,dpaa175,c66/17,43",1,other
+599213,"v,dpr,dpaa175,c70/17,43",1,other
+599214,"v,dpr,dpaa176,c72/17,44",1,other
+599215,"v,dpr,dpaa180,c08/16,43",1,other
+599216,"v,dsquared,d2 0005/v,hgc,54/19,145",1,other
+599217,"v,dsquared,d2 0007/v,807,55/17,145",1,other
+599218,"v,dsquared,d2 0008/v,086,55/18,145",1,other
+599219,"v,dsquared,d2 0018/v,2ik,57/17,145",1,other
+599220,"v,dsquared,d2 0018/v,2m2,57/17,145",1,other
+599221,"v,dsquared,d2 0018/v,ans,57/17,145",1,other
+599222,"v,dsquared,d2 0021/v,807,52/19,150",1,other
+599223,"v,dsquared,d2 0034/v,2m2,59/15,140",1,other
+599224,"v,dsquared,d2 0035/v,2m2,55/16,140",1,other
+599225,"v,dsquared,d2 0035/v,ans,55/16,140",1,other
+599226,"v,dsquared,d2 0038/v,2m2,53/18,145",1,other
+599227,"v,dsquared,d2 0066/v,33z,54/20,145",1,other
+599228,"v,dsquared,d2 0068/v,086,55/15,145",1,other
+599229,"v,dsquared,d2 0076/v,807,49/22,145",1,other
+599230,"v,dsquared,d2 0078/v,086,48/23,145",1,other
+599231,"v,dsquared,d2 0078/v,08a,48/23,145",1,other
+599232,"v,dsquared,d2 0080/v,807,49/20,145",1,other
+599233,"v,dsquared,d2 0090/v,kb7,54/20,145",1,other
+599234,"v,dunhill,dun 0040oa/v,001,54/17,145",1,other
+599235,"v,dunhill,dun 0040oa/v,003,54/17,145",1,other
+599236,"v,dunhill,dun 0040oa/v,004,56/17,145",1,other
+599237,"v,dunhill,dun 0040oa/v,005,56/17,145",1,other
+599238,"v,dunhill,dun 0044o/v,007,50/21,145",1,other
+599239,"v,dunhill,dun 0074o/v,001,49/19,145",1,other
+599240,"v,ea,0ea4115,58011w/18,54",1,other
+599241,"v,emporio armalei,ea 1142/v,3001,54/18,145",1,eyewear
+599242,"v,emporio armalei,ea 1143/v,3001,55/18,145",1,eyewear
+599243,"v,emporio armalei,ea 3147/v,5012,55/18,142",1,eyewear
+599244,"v,emporio armalei,ea 3221/v,5088,54/16,145",1,eyewear
+599245,"v,emporio armalei,ea 4115/v,50171w,54/18,145",1,eyewear
+599246,"v,emporio armalei,ea 4115/v,57591w,54/18,145",1,eyewear
+599247,"v,emporio armalei,ea 4115/v,58011w,52/18,145",1,eyewear
+599248,"v,emporio armalei,ea 4115/v,58011w,54/18,145",1,eyewear
+599249,"v,emporio armalei,ea 4115/v,58021w,54/18,145",1,eyewear
+599250,"v,emporio armalei,ea 4152/v,50421w,52/21,145",1,eyewear
+599251,"v,emporio armalei,ea 4189u/v,50011w,55/17,145",1,eyewear
+599252,"v,esa,esa,es 048,3yg/18,54",1,other
+599253,"v,etnia barcelona,bonnie,bl,53/19,140",1,other
+599254,"v,etnia barcelona,sa conca 48o,bz/bk,48/21,148",1,other
+599255,"v,etnia barcelona,sakura 55o,bk,55/16,140",1,other
+599256,"v,faconnable,fr 275,gu25,50/21",1,eyewear
+599257,"v,fen,ff 0033,5lq/17,53",1,other
+599258,"v,fen,ff 0077,dvo/17,50",1,other
+599259,"v,fendi,ff 0352/v,010,56/17,135",1,eyewear
+599260,"v,fisher price,fpv 18,527,38/14",1,consultation
+599261,"v,fisher price,fpv 29,520,39/13",1,consultation
+599262,"v,fisher price,fpv 40,580,44/15",1,consultation
+599263,"v,fisher price,fpv n003,blue,46/14",1,consultation
+599264,"v,fos,fos 6055,oqc/17,50",1,other
+599265,"v,fos,fos 7020,4in/17,53",1,other
+599266,"v,fos,fos 7028,003/38,55",1,other
+599267,"v,fossil,fos 6056/v,oip,53/15,145",1,eyewear
+599268,"v,fossil,fos 7019/v,807,53/17,145",1,eyewear
+599269,"v,fossil,fos 7075/g/v,003,54/18,145",1,eyewear
+599270,"v,fossil,fos 7078/g/v,n9p,50/19,140",1,eyewear
+599271,"v,fossil,fos 7129/v,003,55/17,145",1,eyewear
+599272,"v,fossil,fos 7139/g/v,003,55/17,140",1,eyewear
+599273,"v,fossil,fos 7150/v,807,53/16,140",1,eyewear
+599274,"v,fossil,fos 7163/g/v,au2,53/17,140",1,eyewear
+599275,"v,fossil,fos 7164/g/v,003,52/17,140",1,eyewear
+599276,"v,fossil,fos 7165/v,09q,55/17,140",1,eyewear
+599277,"v,fossil,fos 7169/v,1ed,52/18,145",1,eyewear
+599278,"v,fp,fpv28,520/13,43",1,other
+599279,"v,ft,ft5750,b001/18,54",1,other
+599280,"v,giv,gv 0123,581/19,51",1,other
+599281,"v,giv,gv 0149,807/17,51",1,other
+599282,"v,givenchy,gv 0143/v,807,52/16,145",1,other
+599283,"v,gucci,guc 0026o/v,004,53/17,140",1,eyewear
+599284,"v,gucci,guc 0133oj/v,004,56/17,145",1,eyewear
+599285,"v,gucci,guc 1272o/v,001,53/14,145",1,eyewear
+599286,"v,gucci,guc 1293oa/v,001,54/16,145",1,eyewear
+599287,"v,gucci,guc 1303o/v,001,54/18,145",1,eyewear
+599288,"v,gucci,guc 1340o/v,001,54/17,140",1,eyewear
+599289,"v,gucci,guc 1352o/v,004,53/19,145",1,eyewear
+599290,"v,gucci,guc 1359o/v,001,54/16,140",1,eyewear
+599291,"v,gucci,guc 1411o/v,005,53/19,135",1,eyewear
+599292,"v,gucci,guc 1442o/v,002,55/18,145",1,eyewear
+599293,"v,gucci,guc 1447o/v,002,57/17,145",1,eyewear
+599294,"v,gucci,guc 1448o/v,001,56/19,145",1,eyewear
+599295,"v,hello kitty,aa162,c68,43/16",1,other
+599296,"v,hello kitty,aa170,c68,43/17",1,other
+599297,"v,hello kitty,aa173,d45,45/15",1,other
+599298,"v,her,ch 0022,807/19,53",1,other
+599299,"v,her,ch 0040,pef/16,54",1,other
+599300,"v,her,her 0114,o63/15,54",1,other
+599301,"v,hk,hkaa121,c68/15,41",1,other
+599302,"v,hki,hkaa172,c70/15,44",1,other
+599303,"v,hki,hkii015,c08/15,48",1,other
+599304,"v,hki,hkii018,c10/16,50",1,other
+599305,"v,hki,hkii019,c12/16,46",1,other
+599306,"v,hub,boss 0515,003/17,55",1,eyewear
+599307,"v,hub,boss 0740,kbq/17,56",1,eyewear
+599308,"v,hub,boss 0831,2q5/17,55",1,eyewear
+599309,"v,hub,boss 0832,dl5/19,52",1,eyewear
+599310,"v,hub,boss 0876,05x/16,54",1,eyewear
+599311,"v,hub,boss 0876/n,086/16,54",1,eyewear
+599312,"v,hub,boss 0895,aqt/16,54",1,eyewear
+599313,"v,hub,boss 0913/n,086/21,48",1,eyewear
+599314,"v,hub,boss 0967,003/17,54",1,eyewear
+599315,"v,hub,boss 0969,fll/21,49",1,eyewear
+599316,"v,hub,boss 0969,yz4/21,49",1,eyewear
+599317,"v,hub,boss 0976,003/17,60",1,eyewear
+599318,"v,hub,boss 0976,4in/17,55",1,eyewear
+599319,"v,hub,boss 0976,4in/17,57",1,eyewear
+599320,"v,hub,boss 0998,003/18,53",1,eyewear
+599321,"v,hub,boss 0998,fre/18,53",1,eyewear
+599322,"v,hub,boss 1119,003/18,56",1,eyewear
+599323,"v,hub,boss 1187,1ot/19,52",1,eyewear
+599324,"v,hub,boss 1265/a,aoz/18,57",1,eyewear
+599325,"v,hub,boss 1288/f,wcn/22,51",1,eyewear
+599326,"v,hub,boss 1297/f,r81/17,57",1,eyewear
+599327,"v,hub,boss 1358/bb,nlb/18,53",1,eyewear
+599328,"v,hub,boss 1478/f,807/17,55",1,eyewear
+599329,"v,hub,hub,boss 1092,pjp/18,52",1,eyewear
+599330,"v,hug,hg 0151,4in/17,53",1,other
+599331,"v,hug,hg 1017,086/21,49",1,other
+599332,"v,hug,hg 1017,807/21,49",1,other
+599333,"v,hug,hg 1018,086/17,52",1,other
+599334,"v,hug,hg 1037,086/19,49",1,other
+599335,"v,hug,hg 1037,6ak/19,49",1,other
+599336,"v,hug,hg 1038,086/19,53",1,other
+599337,"v,hug,hg 1038,6ak/19,53",1,other
+599338,"v,hug,hg 1038,807/19,53",1,other
+599339,"v,hug,hg 1039,573/19,51",1,other
+599340,"v,hugo boss,boss 1151/cs,003/ir,56/16,145",1,eyewear
+599341,"v,hugo boss,boss 1151/cs,4in/70,56/16,145",1,eyewear
+599342,"v,hugo boss,boss 1266/c/v,r80,53/18,150",1,eyewear
+599343,"v,hugo boss,boss 1372/v,086,55/16,145",1,eyewear
+599344,"v,hugo boss,boss 1373/v,i46,54/18,145",1,eyewear
+599345,"v,hugo boss,boss 1415/v,r80,55/19,145",1,eyewear
+599346,"v,hugo boss,boss 1421/v,ctl,57/18,145",1,eyewear
+599347,"v,hugo boss,boss 1436/v,807,55/16,145",1,eyewear
+599348,"v,hugo boss,boss 1510/v,086,52/17,145",1,eyewear
+599349,"v,hugo boss,boss 1510/v,10a,52/17,145",1,eyewear

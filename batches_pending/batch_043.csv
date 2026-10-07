@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+213245,ear discharge swab c & s,1,lab_test
+213251,ear examination under microscopy unilateral,1,consultation
+213252,ear f.b. removal,1,procedure
+213253,ear fb removal,1,procedure
+213255,ear filling984,1,other
+213256,ear flushing,2,other
+213257,ear gram stain,1,lab_test
+213258,ear irrigation (wash,1,procedure
+213259,ear medication(borospirit,1,other
+213260,ear medicationw/ packing(both,1,procedure
+213265,ear pack (med,2,supplies
+213267,ear pack (med)-ear pack (med,1,supplies
+213269,ear pack for eash ear,1,supplies
+213271,ear pack for each ear,1,supplies
+213275,ear pack6806,1,other
+213277,ear packing (per ear,1,procedure
+213279,ear peircing82,1,other
+213280,ear pierce - 2,1,other
+213282,ear piercing ( 1 pair,1,procedure
+213283,ear piercing ( 2 pair,1,procedure
+213285,ear piercing - insurance,1,procedure
+213286,ear piercing 120022,1,procedure
+213287,ear piercing of sterile earring,1,supplies
+213288,ear piercing with ear ring,1,procedure
+213289,ear piercing with ring,1,procedure
+213290,ear piercings,1,other
+213291,ear piercng w/mats,1,other
+213292,ear pinna holing,1,other
+213294,ear pressing,1,other
+213295,ear punching,1,other
+213296,ear ring tow said,1,other
+213298,ear stud - both ears with material,1,other
+213300,ear suction one ear,1,supplies
+213301,ear suction & clearance - unilateral,1,supplies
+213302,ear suction & clearance ? unilateral,1,supplies
+213303,ear suction & clearance- unilatera,1,supplies
+213304,ear suction & clearance-bilateral,1,supplies
+213305,ear suction & clearance-unilateral,1,supplies
+213306,ear suction -both ears,1,supplies
+213307,ear suction -one ear,1,supplies
+213308,ear suction bilateral,1,supplies
+213310,ear suction two sides,1,supplies
+213314,ear swab (right) culture & sensitivity,1,lab_test
+213316,ear swab bacterial culture ( c/s,1,lab_test
+213317,ear swab c&s,3,lab_test
+213325,ear synig ( both,1,other
+213326,"ear synig ( both ) / ear toilet, bilateral",1,procedure
+213330,ear ventilation tube 1.14mm e101,1,supplies
+213334,ear wash ( 1 ear ) + ear pack,1,supplies
+213335,ear wash ( 1 ear )?,1,procedure
+213336,ear wash ( 2 ears )?,1,procedure
+213337,ear wash ( both ears,1,procedure
+213338,ear wash ( both ears ) + ear pack,1,supplies
+213342,ear wash (1,2,procedure
+213344,ear wash (both ear,1,procedure
+213347,ear wash (med,1,procedure
+213348,ear wash (med)-ear wash (med,1,procedure
+213355,ear wash (two side,1,procedure
+213358,ear wash - insurance,1,procedure
+213359,ear wash - one side,3,supplies
+213360,ear wash - two sides,2,procedure
+213364,ear wash /unilateral,1,procedure
+213366,ear wash 1e,1,procedure
+213367,ear wash 2 ear,2,procedure
+213368,ear wash 2e,1,procedure
+213369,ear wash 9.2,1,procedure
+213370,ear wash ? bilateral,1,procedure
+213371,ear wash ? unilateral,1,procedure
+213376,ear wash c/o ent specialist,1,procedure
+213377,ear wash c/o specialist,1,procedure
+213378,ear wash or suction 1 ear,1,supplies
+213382,ear wash tow side,1,procedure
+213383,ear wash two ears,1,procedure
+213385,ear wash both ear-4009,1,procedure
+213387,ear wash for each ear,1,procedure
+213389,ear wash omside,1,procedure
+213390,ear wash one ear-4008,1,supplies
+213392,ear wash one ear981,1,supplies
+213396,ear wash( for each,1,procedure
+213397,ear wash(one,1,supplies
+213398,ear wash/one,1,supplies
+213400,ear washing ( one,1,supplies
+213401,ear washing two,2,procedure
+213402,ear whash one ear,2,supplies
+213405,ear abcess incision & drainage with local anaestheasia,1,procedure
+213406,ear accupunture,1,other
+213409,ear cleaning and withdrawal of secretions,1,procedure
+213414,ear dressing and packing ( each visit,1,supplies
+213415,ear dressings,2,other
+213416,ear endoscope,1,other
+213419,ear irrigation of one ear,1,supplies
+213420,ear irrigation of two ears,1,procedure
+213421,ear lobe perforator,1,other
+213422,ear lobule perforation,1,other
+213425,ear pack (both ear,1,supplies
+213426,ear pack (one ear,1,supplies
+213428,ear packing ( sofratull,1,procedure
+213429,ear packing two sides,1,procedure
+213435,ear piercing one ear,1,supplies
+213436,ear piercing with 1 pair earrings,1,procedure
+213441,"ear speculum, reusable",1,other
+213442,"ear speculum, single-use",1,other
+213445,ear suction + ear toilet - one side,2,supplies
+213447,ear suction + ear toilet -both sides,1,supplies
+213448,ear suction clearance/derwaxing (each,1,supplies
+213449,ear suction one side under microscope,1,supplies
+213450,ear suction or wash ( unilateral,1,supplies
+213451,ear suction two sides under microscope,1,supplies
+213453,ear suction990,1,other
+213458,ear swab culture and sensitivtiy,1,lab_test
+213459,ear swab culture test,1,lab_test
+213461,ear swab for culture &sensitivity (c/s) - ?????,1,lab_test
+213462,ear syringe,1,supplies
+213466,ear toilet bilateral ??? ????,1,procedure
+213469,ear toilet unilateral ??? ????,1,procedure
+213483,ear toilet- unilateral,1,procedure
+213484,ear toilet-bilateral,1,procedure
+213490,ear wash (1 ear) ???? ??? ?????,1,procedure
+213492,ear wash (2 ears,2,procedure
+213493,ear wash (2 ears) ???? ???????,1,procedure
+213495,ear wash (ear wash both,1,procedure
+213499,ear wash (for each ear,1,procedure
+213501,ear wash (two ear,1,procedure
+213506,ear wash - per one ear,1,supplies
+213508,ear wash / one ear[12.08,1,supplies
+213510,ear wash one side 273,1,supplies
+213511,ear wash removal impacted cerumen(one ear,1,supplies
+213513,ear wash for both ears,2,procedure
+213519,ear wash((two ear,1,procedure
+213520,ear wash(two,1,procedure
+213521,ear wash(both ears,1,procedure
+213522,"ear wash, removal of impacted cerumen(one ear",1,supplies
+213523,ear wash- bilateral,1,procedure
+213524,ear wash-bilateral,1,procedure
+213525,ear wash-unilateral,1,procedure
+213526,ear washbilateral,1,other
+213527,ear wash\bilateral,1,procedure
+213529,ear washing (for one,1,supplies
+213531,ear wick (unilateral,1,other
+213532,ear wick bilatarl,1,other
+213534,ear wick one side,1,supplies
+213535,ear wick urlataral,1,other
+213536,ear%20discharge%20culture,1,other
+213537,"ear, nose and throat",1,other
+213541,earcup w/ snap electrodes (gsi-8049700,1,other
+213567,earcalmeardrops5ml,1,other
+213572,earing wash(two sides,1,procedure
+213573,early intervention (developmental difficulties) (single session,1,physiotherapy
+213574,early intervention program per week (3 session 3 hour each) for children below 6 years,1,physiotherapy
+213575,early intervention rehab program,1,physiotherapy
+213576,early intervention rehab program - 12 sessions,1,physiotherapy
+213577,early pregnancy test,2,lab_test
+213578,early screening - cchd (congenital cardiac heart disease,1,lab_test
+213579,"early diagnosis of cancer (female) breast ca15.3, stomachcea, liverafp, colonca19.9, urinary bladder(cytology)-blood (cbc,esr) cervix pap smear - tat (72 duty hrs",1,lab_test
+213580,"early diagnosis of cancer (male) prostatepsa, stomachcea, liverafp, colonca19.9, urinary bladder (cytology) - blood (cbc, esr) - tat (72 duty hrs",1,lab_test
+213581,early intervention evaluation / month (for 1 month,1,consultation
+213582,early intervention program per week 3 sessions 3 hours each for childern below 6 years,1,physiotherapy
+213583,early intervention program per week for children below 6 years,1,other
+213584,early interventional programme for tranning per week 3 sessions,1,physiotherapy
+213585,early intrerventional program per week ( 3 sessions of 3 hours each ) for children below 6 years,1,physiotherapy
+213586,early pregnancy u/s (first 3 months,1,imaging
+213588,"early pregnancy test,blood / hcg qualitative",1,lab_test
+213589,early pregnancy testblood / hcg qualitative,1,lab_test
+213590,"earphone, supra-aural",1,other
+213591,"earplugs, single-use",1,other
+213595,earwash (one side,1,supplies
+213596,earwash (two side,1,procedure
+213598,earwash bt. sides,1,procedure
+213599,earwash rt. sides,1,procedure
+213600,earwash for one ear,1,supplies
+213601,earwash on one ear,1,supplies
+213602,earwash one ear,1,supplies
+213603,easy cast long pneumatic walker - large,1,supplies
+213604,easy cast long pneumatic walker - medium,1,supplies
+213605,easy cast short pneumatic walker - large,1,supplies
+213606,easy cast short pneumatic walker - medium,1,supplies
+213607,easy cast short pneumatic walker - small,1,supplies
+213609,easy life compressor nebulizer system cn-01wa -1132,1,supplies
+213610,easy max 2 test strips 50 pcs,1,lab_test
+213612,easy max blood glucise system voice 1253,1,lab_test
+213613,easy max blood glucose 50 strip 1864,1,lab_test
+213614,easy max blood glucose system voice 1253,1,lab_test
+213616,easy max caremed safety lancets 100 pcs,1,supplies
+213620,easy max strips - bupa,1,supplies
+213621,easy max strips - ncci,1,supplies
+213622,"easy max voice device 1""s",1,other
+213623,"easy max voice strips 50""s",1,supplies
+213625,easy max self monitoring bg system,1,consultation
+213626,"easy pass suture passers needle, rejin #810501700",1,supplies
+213627,"easy pass suture passers needle, rejoin #810501700",1,supplies
+213628,easy max flat lancets,1,supplies
+213631,easy max twist lancets new,1,supplies
+213634,easymax bl.gluc. monitor neu,1,other
+213635,easymax voice kit set glucometer,1,supplies
+213636,easymax voice test strips 50pk,1,lab_test
+213638,easypass needle meniscus,1,supplies
+213639,ebaa zakaria idris,1,other
+213640,"eberle, 3.5mm, full radius resector",1,other
+213641,"eberle, oval burr",1,other
+213657,ebv ( igm,1,lab_test
+213666,ecg - ????? ???,1,diagnostic
+213667,ecg - ????? ?????,1,diagnostic
+213671,ecg by monitor more than 1 hr,1,diagnostic
+213684,"echelon 14, tip shape",1,other
+213685,echelon flex powered pve35a,1,other
+213687,"echinococcus (hydatid) antibodies, serum",1,lab_test
+213688,echinococcus ab send out un,1,lab_test
+213689,echinococcus abs (western blot,1,lab_test
+213691,echinococcus antibody (hydatid antibodies,2,lab_test
+213692,echinococcus antibody - ?????,1,lab_test
+213693,"echinococcus granulosus antibodies, elisa",1,lab_test
+213696,echo (2d echocardiogram,1,imaging
+213697,echo (2d echocardiogram) portable,1,imaging
+213699,echo - doppler examination with doputamine,1,imaging
+213707,"echo cardiography, transthorac",1,imaging
+213708,echo dopler,1,imaging
+213710,echo doppler examination,1,imaging
+213717,echo pedia 2d+colored doppler,1,imaging
+213720,echo color doppler (portable,1,imaging
+213722,echo heart,1,imaging
+213723,echo heart 05260,1,imaging
+213724,echo heart(05260,1,imaging
+213725,echo with color doppler,1,imaging
+213726,echo- coloured doppler,1,imaging
+213727,echo-dopler,1,imaging
+213728,echo-m-mode+2d echo+doppler,1,imaging
+213730,echo-cardiogram& doppler,1,imaging
+213732,echocacdiography,1,other
+213734,echocardiogram (echo,1,imaging
+213736,echocardiogram inpatient,1,other
+213737,echocardiogram color doppler,1,imaging
+213738,echocardiogram with color doppler,2,imaging
+213739,echocardiogram(echo,1,imaging
+213740,echocardiogram-ucc,1,other
+213742,echocardiography and color doppler - (tte) transthoracic,1,imaging
+213744,echocardiography ( ecg,1,imaging
+213745,echocardiography - with colored doppler,2,imaging
+213747,echocardiography limited study,1,imaging
+213748,echocardiography sonar,1,imaging
+213749,echocardiography test (echo,1,imaging
+213750,echocardiography transo esophng,1,imaging
+213751,echocardiography color doppler,1,imaging
+213753,"echocardiography, fetal",1,imaging
+213754,"echocardiography, stress, 2d",1,imaging
+213755,"echocardiography, transthoracic during cradiovascular stress test w/contionous ecg",1,imaging
+213756,"echocardiography, real time, with image documentation, 2d",1,imaging
+213757,"echocardiography, transesophageal, real time with image documentation (2d) (with or without m-mode recording), transesophageal, including probe placement, image acquisition, interpretation and report",1,imaging
+213758,"echocardiography, transesophageal, real time with image documentation, 2d",1,imaging
+213759,"echocardiography,transesophageal including probe placement and interpretation and report",1,imaging
+213760,echocarimography,1,other
+213761,ecision of cyst sebaceous/dermoid or lipoma u.l.a,1,lab_test
+213762,eco marne fr blk 52 clip,1,eyewear
+213763,eco mask sz: 1 cat:7091 box/35 (#7291) ddse0263,1,supplies
+213764,eco mask sz: 3 cat:7093 box/35 ddse0401,1,supplies
+213765,eco mask sz: 4 cat:7094 box/35 ddse0329,1,supplies
+213766,eco maya fr bkgd 54 clip,1,eyewear
+213767,eco seudre fr blkg 53 clip,1,eyewear
+213768,"ecofit cup, 48mm, cementless",1,other
+213769,ectepic pregnancy by laparoscope,1,other
+213775,ectollerg ud,1,other
+213779,ectopic pregnancy - salpingectomy p-3 12,1,procedure
+213781,ectopic pregnancy laparscopy,1,procedure
+213782,ectropion repair of eyelid withskin graft under ga,1,procedure
+213783,ecxcisional biopsy huge back swelling,1,procedure
+213801,edarbyclor 40/25,1,other
+213811,"education and training for patients,each 30 minutes,individual patient",1,other
+213812,education and training for home dialysis,1,procedure
+213828,efexorxr150mg14cap,1,other
+213846,egpl 1.5 bf d45,1,other
+213847,egpl 1.5 bf d45 ar,1,other
+213848,egpl 1.5 bf d45 spl,1,other
+213849,egpl1.5 bf d25,1,other
+213850,egpl1.5 bf d25 ar,1,other
+213851,egpl1.5 bf d25 spl,1,other
+213852,egpl1.5 bf d28,1,other
+213853,egpl1.5 bf d28 ar,1,other
+213854,egpl1.5 bf d28 spl,1,other
+213855,egpl1.5 bf exec,1,other
+213856,egpl1.5 bf exec ar,1,other
+213857,egpl1.5 bf kryp,1,other
+213858,egpl1.5 bf kryp ar,1,other
+213859,egpl1.5 bf kryp spl,1,other
+213860,egpl1.5 progpsm,1,other
+213861,egpl1.5 progpsm spl,1,other
+213862,egpl1.5 progsm,1,other
+213863,egpl1.5 progsm spl,1,other
+213864,egpl1.5 progvsm,1,other
+213865,egpl1.5 progvsm spl,1,other
+213866,egpl1.50as rx,1,eyewear
+213867,egpl1.50as stk digi,1,other
+213868,egpl1.50as stk digi ar,1,other
+213869,egpl1.50s rx pg,1,eyewear
+213870,egpl1.50s rx spl,1,eyewear
+213871,egpl1.50s rx spl ar,1,eyewear
+213872,egpl1.50s rx uc,1,eyewear
+213873,egpl1.50s+ rx pg,1,eyewear
+213874,egpl1.50s+ rx spl,1,eyewear
+213875,egpl1.50s+ rx spl ar,1,eyewear
+213876,egpl1.50s+ rx uc,1,eyewear
+213877,egpl1.50sp stk digi,1,other
+213878,egpl1.56as rx digi spl,1,eyewear
+213879,egpl1.56as stk digi spl,1,other
+213880,egpl1.56as stk digi spl ar,1,other
+213881,egpl1.56sp stk digi,1,other
+213882,egpl1.5ps rx pg,1,eyewear
+213883,egpl1.5ps rx spl,1,eyewear
+213884,egpl1.5ps rx spl ar,1,eyewear
+213885,egpl1.5ps rx uc,1,eyewear
+213886,egpl1.5ps+ rx pg,1,eyewear
+213887,egpl1.5ps+ rx spl,1,eyewear
+213888,egpl1.5ps+ rx spl ar,1,eyewear
+213889,egpl1.5ps+ rx uc,1,eyewear
+213890,egpl1.5vs rx pg,1,eyewear
+213891,egpl1.5vs rx spl,1,eyewear
+213892,egpl1.5vs rx spl ar,1,eyewear
+213893,egpl1.5vs rx uc,1,eyewear
+213894,egpl1.5vs+ rx pg,1,eyewear
+213895,egpl1.5vs+ rx spl,1,eyewear
+213896,egpl1.5vs+ rx spl ar,1,eyewear
+213897,egpl1.5vs+ rx uc,1,eyewear
+213898,egpl1.6 progpsm d+p,1,other
+213899,egpl1.6 progpsm dia+,1,other
+213900,egpl1.6 progsm d+p,1,other
+213901,egpl1.6 progsm dia+,1,other
+213902,egpl1.6 progvsm dia+,1,other
+213903,egpl1.67 progvsm d+p,1,other
+213904,egpl1.67 progvsm dia+,1,other
+213905,egpl1.67ps rx pg,1,eyewear
+213906,egpl1.67ps rx spl,1,eyewear
+213907,egpl1.67ps rx spl ar,1,eyewear
+213908,egpl1.67ps rx uc,1,eyewear
+213909,egpl1.67ps+ rx pg,1,eyewear
+213910,egpl1.67ps+ rx spl,1,eyewear
+213911,egpl1.67ps+ rx spl ar,1,eyewear
+213912,egpl1.67ps+ rx uc,1,eyewear
+213913,egpl1.67s rx pg,1,eyewear
+213914,egpl1.67s rx spl,1,eyewear
+213915,egpl1.67s rx spl ar,1,eyewear
+213916,egpl1.67s rx uc,1,eyewear
+213917,egpl1.67s+ rx pg,1,eyewear
+213918,egpl1.67s+ rx spl,1,eyewear
+213919,egpl1.67s+ rx spl ar,1,eyewear
+213920,egpl1.67s+ rx uc,1,eyewear
+213921,egpl1.67vs rx pg,1,eyewear
+213922,egpl1.67vs rx spl,1,eyewear
+213923,egpl1.67vs rx spl ar,1,eyewear
+213924,egpl1.67vs rx uc,1,eyewear
+213925,egpl1.67vs+ rx pg,1,eyewear
+213926,egpl1.67vs+ rx spl,1,eyewear
+213927,egpl1.67vs+ rx spl ar,1,eyewear
+213928,egpl1.67vs+ rx uc,1,eyewear
+213929,egpl1.6ps rx pg,1,eyewear
+213930,egpl1.6ps rx spl,1,eyewear
+213931,egpl1.6ps rx spl ar,1,eyewear
+213932,egpl1.6ps rx uc,1,eyewear
+213933,egpl1.6ps+ pg,1,other
+213934,egpl1.6ps+ spl,1,other
+213935,egpl1.6ps+ spl ar,1,other
+213936,egpl1.6ps+ uc,1,other
+213937,egpl1.6s rx pg,1,eyewear
+213938,egpl1.6s rx spl,1,eyewear
+213939,egpl1.6s rx spl ar,1,eyewear
+213940,egpl1.6s rx uc,1,eyewear
+213941,egpl1.6s+ rx pg,1,eyewear
+213942,egpl1.6s+ rx spl,1,eyewear
+213943,egpl1.6s+ rx spl ar,1,eyewear
+213944,egpl1.6s+ rx uc,1,eyewear
+213945,egpl1.6vs rx pg,1,eyewear
+213946,egpl1.6vs rx spl,1,eyewear
+213947,egpl1.6vs rx spl ar,1,eyewear
+213948,egpl1.6vs rx uc,1,eyewear
+213949,egpl1.6vs+ rx pg,1,eyewear
+213950,egpl1.6vs+ rx spl,1,eyewear
+213951,egpl1.6vs+ rx spl ar,1,eyewear
+213952,egpl1.6vs+ rx uc,1,eyewear
+213953,egpl1.74ps rx,1,eyewear
+213954,egpl1.74ps rx spl,1,eyewear
+213955,egpl1.74ps rx spl ar,1,eyewear
+213956,egpl1.74ps+ rx,1,eyewear
+213957,egpl1.74ps+ rx pg,1,eyewear
+213958,egpl1.74ps+ rx spl,1,eyewear
+213959,egpl1.74ps+ rx spl ar,1,eyewear
+213960,egpl1.74s rx,1,eyewear
+213961,egpl1.74s rx spl,1,eyewear
+213962,egpl1.74s rx spl ar,1,eyewear
+213963,egpl1.74s+ rx,1,eyewear
+213964,egpl1.74s+ rx pg,1,eyewear
+213965,egpl1.74s+ rx spl ar,1,eyewear
+213966,egpl1.74vs rx,2,eyewear
+213968,egpl1.74vs rx spl,1,eyewear
+213969,egpl1.74vs+ rx pg,1,eyewear
+213970,egpl1.74vs+ rx spl,1,eyewear
+213971,egpl1.74vs+ rx spl ar,1,eyewear
+213972,egprl1.56as stk digi,1,other
+213973,egprl1.56as stk digi ar,1,other
+213974,egd diagnostic (h.p +bx,1,procedure
+213976,egd/upper gi endoscopy; diagnostic w/o biopsyd/cdays,1,procedure
+213986,ego qv anti-perspirant80 gm,1,other
+213992,egyptian gauze 15 cm,1,supplies
+213998,egyptian medical gauze roll 7.5 cm,1,supplies
+213999,egyptian medical guaze roll 10 cm,1,other
+214000,egyptian medical guaze roll 5 cm,1,other
+214001,"egysorb - vicryl 0 ( md1023 ), box 12 piece",1,supplies
+214002,"egysorb - vicryl 1 ( md1124 ), box 12 piece",1,supplies
+214003,"egysorb - vicryl 2 ( md1223 ), box 12 piece",1,supplies
+214004,"eight plate 17mm, auxien #ti-1134.02",1,supplies
+214005,eight plate,1,supplies
+214006,eihaa abdulaziz mustafa,1,other
+214007,eiman eltahir idris,1,other
+214011,ekavit b-complex 30 strips,1,supplies
+214012,"ekavit b-complex strip, 30 strip/box",2,supplies
+214015,"ekosonic endovascular devices intelligent drug delivery catheter (iddc) multi lumen w/drug port for thrombolytic, #500-5511x",1,supplies
+214016,ekosonic endovascular system,1,other
+214018,"elan 4 1-ring rosen burr d4.0, aesculap, #gp126r",1,other
+214019,"elastase, stool",1,lab_test
+214024,elastic bandage -10cm - phmco,1,supplies
+214025,elastic bandage 10cm x2m,1,supplies
+214026,elastic bandage 15cm x2m,1,supplies
+214027,elastic bandage ???? ????,1,supplies
+214028,elastic bandage beige 2 x5yds,1,supplies
+214029,elastic bandage beige 3 x5yds,1,supplies
+214031,elastic bandage-small,1,supplies
+214032,elastic lumbo sacral corset,1,supplies
+214033,elastic nail 2.5mmx450mm - mat germany,1,supplies
+214034,"elastic nail 2.5x440mm, baide #931901441",1,supplies
+214035,"elastic nail ti; 2,0 mm, 400mm, medin #397129775313",1,supplies
+214036,"elastic nail ti; 2,5 mm, 400mm, medin #397129775323",1,supplies
+214037,"elastic nail titanium 3.0x440mm, baide china #931911441",1,supplies
+214038,"elastic nail, 2.0mmx450mm",1,supplies
+214039,"elastic nail, 2.5mm",1,supplies
+214040,"elastic nail, 2.5mmx450mm",1,supplies
+214041,"elastic nail, 3.0mmx450mm",1,supplies
+214042,"elastic nail, 3.5mmx450mm",1,supplies
+214043,elastic stocking above knee # xxxl,1,supplies
+214044,elastic thoraco sacral corset,1,supplies
+214046,elastic bandage ( large,1,supplies
+214047,elastic bandage large,1,supplies
+214050,elastomeric infusion pump system,1,supplies
+214051,elastoplast joint bandage support,1,supplies
+214052,elastoplast of joint bandage support,1,supplies
+214057,elbow joint bv,1,imaging
+214058,elbow ( 1 v )-elbow ( 1 v,1,imaging
+214059,elbow ( 2 v,1,imaging
+214060,elbow ( 2 v )-elbow ( 2 v,1,imaging
+214062,elbow (2views,1,imaging
+214068,elbow - 1 view (ap,1,imaging
+214071,elbow - 2 views (ap / lat,1,imaging
+214073,elbow - 3 views (ap / lat / oblique,1,imaging
+214075,elbow - a p + lateral,1,lab_test
+214079,elbow 2 views ????? ????? ?????,1,imaging
+214080,elbow 2 views a.p and lateral,1,imaging
+214086,elbow 2 views[15.26,1,imaging
+214091,elbow 3 views ????? ????? 3 ?????,1,imaging
+214092,elbow 3 views-539,1,imaging
+214095,elbow 3v-plain x-rays 3 views,1,imaging
+214096,elbow 4 views,1,imaging
+214097,elbow a p & lat-5012,1,imaging
+214098,elbow a.p,1,lab_test
+214099,elbow a.p & lat,1,imaging
+214100,elbow a.p and lat,1,imaging
+214101,elbow ap lat vs,1,imaging
+214103,elbow ap & lat. special view,1,imaging
+214104,elbow ap lateral,2,imaging
+214105,"elbow ap, lat lt",1,imaging
+214107,elbow ap/lat 692,1,imaging
+214108,elbow aplat (2v,1,imaging
+214109,elbow aluminum crutch pls - phmco,1,supplies
+214110,elbow ap and lat,1,imaging
+214112,elbow ap lateral oblique,1,imaging
+214113,elbow ap lateral sp view,1,imaging
+214116,elbow ap/lat. rad. exam,1,imaging
+214118,elbow brace - range of motion (adults) - (ms,1,supplies
+214119,elbow brace - range of motion (peds) - (ms,1,supplies
+214120,elbow cruch 923,1,other
+214121,elbow cruch 933,1,other
+214122,elbow cruch 937,1,other
+214123,elbow crutches pair,1,supplies
+214124,elbow immobilizer - (ms,1,supplies
+214125,elbow immobilizer with adjustable rom - (ms,1,supplies
+214126,elbow immobilizer with hand splint and adjustable rom - (ms,1,supplies
+214130,elbow joint / 2 views,1,imaging
+214131,elbow joint 1film x-ray,1,imaging
+214135,elbow joint 2-views,1,imaging
+214136,elbow joint 3 view - ??????????? 3 ?????,1,imaging
+214140,elbow joint ap&lat,1,imaging
+214143,elbow joint ap / lat - ???? ??? ????? ????? ????? ???? ??????,1,imaging
+214147,elbow joint xray ap+lat - l,1,imaging
+214148,elbow joint xray ap+lat - r,1,imaging
+214149,elbow joint-ap & lat. one film,1,imaging
+214150,elbow joints 2 views,1,imaging
+214152,elbow one film,1,supplies
+214153,elbow rl,1,other
+214155,elbow support(s.l.xl,1,supplies
+214156,elbow support(xl) 2085,1,supplies
+214157,elbow supportslxl,1,other
+214160,elbow unilateral x ray 2 views,1,imaging
+214161,elbow unilateral x ray 3 views,1,imaging
+214162,elbow unilateral x-ray 1 view,1,imaging
+214163,elbow unilateral x-ray 2 views,1,imaging
+214164,elbow unilateral x-ray 3 views,1,imaging

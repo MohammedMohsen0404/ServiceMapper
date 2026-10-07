@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+302741,int med cre wg w/bil 8-10mm 5867,1,other
+302742,int med cre wg w/bil 8-8mm 5860,1,other
+302743,int med extractor xl 3l baln 4710,1,other
+302744,int med gastrostomy kit 20fr 6838,1,procedure
+302745,int med gastrostomy kit 24fr 6839,1,procedure
+302746,int med hydra jagwire .035 5606,1,other
+302748,int med micro flex bil stent 10fr 3930,1,supplies
+302749,int med micro flex bil stent 10fr 3931,1,supplies
+302750,int med micro flex bil stent 7fr 3921,1,supplies
+302751,int med micro flex bil stent 8.5fr 3926,1,supplies
+302752,int med micro flex bil stent 8.5fr 3927,1,supplies
+302753,int med micro speed band 4225,1,other
+302754,int med polypectomy snare loop,1,procedure
+302755,int med rad jaw b fcp 2.2mm 1503,1,imaging
+302756,int med spot marker gis-44,1,other
+302757,int med wallflex bil stent 10x80 7049,1,supplies
+302758,int med. naso jejunal feeding tube 12 fr,1,eyewear
+302759,int medicine consultation,1,consultation
+302760,int medicine fee,2,consultation
+302761,int microknife xl cat # 3281,1,other
+302762,int specialist,1,consultation
+302763,"int, med consultant fee",1,consultation
+302764,"int, medicine fee",1,consultation
+302765,int-000 consultation,1,consultation
+302766,int-001 e. c. g,1,other
+302767,int-ecg with report,1,diagnostic
+302768,int-med biopsy valve mb-358,1,procedure
+302769,int-med micro 60cc syringe/gauge 5060-05,1,supplies
+302770,int-med micro jagwire 5660-01,1,other
+302771,int. auditory meatus(iams,1,other
+302772,int. care feeding pump/day,1,supplies
+302773,int. e.c.g,1,lab_test
+302774,int. fix. bone at tarsal & metatarsal,1,imaging
+302775,int. fix. bone femur,1,imaging
+302776,int. fixatn of bone at carpals & metacarpals,1,imaging
+302777,int. fixatn of bone at radius & ulna,1,imaging
+302778,int. fixatn of bone at tarsal & metatarsal,1,imaging
+302779,int. fixatn of bone femur,1,imaging
+302780,int. fixatn of fracture at scapula or clavicle or thorax one level (ribs/sternum) including implant,2,lab_test
+302782,"int. fixatn of one at scapula, clavicle,thorax(ribs/sternum",1,supplies
+302783,int. m. dr. fee,1,consultation
+302784,int. med. cardiology specialist,1,consultation
+302785,int. med. consultant cons. fee,1,consultation
+302786,int. med. consultant fee,1,consultation
+302787,int. med. gastroenerology consultant fee,1,consultation
+302788,int. med. speciaiist fee,1,consultation
+302789,int. med. specialist,1,consultation
+302790,int.fix. of mal fractured humerus,1,other
+302791,int.fix. of mal fractured radius/ulnar,1,other
+302792,int.fix./frac./disloc. wr,1,other
+302793,int.med & chest consult,1,consultation
+302794,int.med & chest consultant fee,1,consultation
+302795,int.med & chest specialist fee,1,consultation
+302796,int.med cardiology consultant fee,1,consultation
+302797,int.med cook qbd 10x3,1,other
+302798,int.med cook qbd 6x3,1,other
+302799,int.med. & cardiology consultant fee,1,consultation
+302800,int.med. & cardiology consultant fee day,1,consultation
+302801,int.med. & cardiology specialist fee,1,consultation
+302802,int.med. & chest consultant fee day,1,consultation
+302803,int.med. consultant fee,1,consultation
+302804,int.med. consultant fee day,1,consultation
+302805,int.med. consultation (specialist,1,consultation
+302806,int.med.consultation,2,consultation
+302807,int.medecine specialist,1,consultation
+302808,int.medecine specialist consultation,2,consultation
+302809,int.medicine consultant fee,1,consultation
+302811,intacs corneal rings (femtosecond,1,procedure
+302812,intacs icrs (one ring,1,supplies
+302813,intacs icrs (two rings,1,other
+302814,intacs implantation without intacs 1 eye,1,other
+302815,intacs implantation-intralase-pkg,1,other
+302816,intacs ring - per pcs,1,other
+302817,intacs ring vticm13.2-16.5+5.5x100 - per pcs,1,other
+302818,intacs sk corneal ring,1,other
+302819,intact pth,1,lab_test
+302825,integra cervical screw 4.5x16,1,imaging
+302826,integra iliac crest diff.size,1,other
+302827,integra k wire diff.size,1,supplies
+302828,"integra k wire diff.size, medartis , , o.r",1,supplies
+302829,"integra mba subtalar implant diff.size , , o.r",1,supplies
+302830,integra uni clip 13x11 mm #213113nd,1,supplies
+302831,integra-nordica fm nr226/b-col,1,eyewear
+302832,integrity resolute des rsintxxx,1,other
+302833,intellegent intrepid phaco + iol,1,supplies
+302834,"intense pulsed light (ipl), 1 eye",1,other
+302835,"intense pulsed light session (ipl), bilateral",1,physiotherapy
+302836,"intense pulsed light session (ipl), unilateral",1,physiotherapy
+302837,intense regulated pulsed light,1,other
+302838,intense regulated pulsed light therapy( irpl) session,1,physiotherapy
+302839,"intensity modulated radiotherapy plan,w/dose volume histograms for target & critical structure partial tolerance specification",1,other
+302840,intensive care /cardiac care unit,4,other
+302841,intensive care,1,other
+302842,intensive care (icu)-reg,1,consultation
+302843,intensive care (per day,1,other
+302844,intensive care - isolation room,1,consultation
+302845,intensive care charge / day,1,consultation
+302846,intensive care charge /day,1,consultation
+302847,intensive care charge /day-2-1-41,1,consultation
+302848,intensive care package (icu/ccu/nicu/picu) /day,1,consultation
+302849,intensive care package / day,1,other
+302850,intensive care per day,1,other
+302851,intensive care unit,2,other
+302852,intensive care unit (icu,1,consultation
+302853,"intensive care unit (icu) (including accomodation, board, nursing attandance fees & bed",1,supplies
+302854,"intensive care unit (icu) (including accomodation, board, nursing fees & bed",1,supplies
+302855,"intensive care unit (icu) (including accomodation, board, nursing fees and bed",1,supplies
+302856,intensive care unit (icu) - 237,1,consultation
+302857,intensive care unit (icu) - icu1,1,consultation
+302858,intensive care unit (icu) - icu2,1,consultation
+302859,intensive care unit (icu) - icu2-1,1,consultation
+302860,intensive care unit (icu) - icu2-2,1,consultation
+302861,intensive care unit (icu) - icu2-4,1,consultation
+302862,intensive care unit (icu) - icu2-6,1,consultation
+302863,intensive care unit (icu) - icu2-9,1,consultation
+302864,intensive care unit (icu) - icu21,1,consultation
+302865,intensive care unit (icu) - icu3-1,1,consultation
+302866,intensive care unit (icu) - icu3-4,1,consultation
+302867,intensive care unit (icu) - icu3-5,1,consultation
+302868,intensive care unit (icu) - icu34,1,consultation
+302869,intensive care unit (icu) - icu4,1,consultation
+302870,intensive care unit (icu) - icu8,1,consultation
+302871,intensive care unit (icu) / day,1,consultation
+302872,intensive care unit (icu) 2-8,1,consultation
+302873,intensive care unit (icu)- bed only,2,supplies
+302874,intensive care unit (icu)- icu3-3,1,consultation
+302875,intensive care unit (icu)- icu3-6,1,consultation
+302876,intensive care unit (icu)- ltc7,1,consultation
+302877,intensive care unit (icu)- per diem - 1-2 days,1,consultation
+302878,intensive care unit (icu)- per diem - 1-2 days (package,1,consultation
+302879,intensive care unit (icu)- per diem - 3-4 days,1,consultation
+302880,intensive care unit (icu)- per diem - 3-4 days (pkg,1,consultation
+302881,intensive care unit (icu)- per diem - 5 th day and above,1,consultation
+302882,intensive care unit (icu)- per diem - 1-3 days,1,consultation
+302883,intensive care unit (icu)- per diem - 4-7 days,1,consultation
+302884,intensive care unit (icu)- per diem - >8 days,1,consultation
+302885,intensive care unit - 307a,1,other
+302886,intensive care unit - icu1,1,other
+302887,intensive care unit - icu16,1,other
+302888,intensive care unit - icu17,2,other
+302889,intensive care unit - icu2,1,other
+302890,intensive care unit - icu2-2,1,other
+302891,intensive care unit - icu2-5,1,other
+302892,intensive care unit - icu2-6,1,other
+302893,intensive care unit - icu2-7,1,other
+302894,intensive care unit - icu2-8,1,other
+302895,intensive care unit - icu3-1,1,other
+302896,intensive care unit - icu3-2,1,other
+302897,intensive care unit - icu3-3,1,other
+302898,intensive care unit - icu3-4,1,other
+302899,intensive care unit - icu3-5,1,other
+302900,intensive care unit - icu33,1,other
+302901,intensive care unit - icu4,1,other
+302902,intensive care unit - icu5,1,other
+302903,intensive care unit - icu6,1,other
+302904,intensive care unit - iso-icu-1,1,consultation
+302905,intensive care unit for 24 hours ( icu,1,consultation
+302906,intensive care unit for 24 hours ( icu )1 day,1,consultation
+302907,intensive care unit for 24 hours with ventilaor (icu,1,consultation
+302908,intensive care unit for 24 hours with ventilaor (icu )1day,1,consultation
+302909,intensive care unit icu,1,consultation
+302910,intensive care unit icu / day,3,consultation
+302912,intensive care unit icu2-7,1,other
+302913,intensive care unit( icu2-8,1,other
+302914,intensive care unit-icu per day,1,consultation
+302915,intensive care with close monitor (ventilator,1,supplies
+302916,intensive photo therapy 1 hour,1,physiotherapy
+302917,intensive photo therapy for newborns,1,physiotherapy
+302918,intensive phototheraphy (one hour,1,supplies
+302919,intensive phototheraphy per day,1,other
+302920,intensive phototherapy,2,procedure
+302922,intensive phototherapy with high risk for exchange transfusion,1,procedure
+302923,intensive phototherapy with low risk for exchange transfusion,1,procedure
+302924,intensive phototherapy-by hour,1,procedure
+302925,intensive phototherapy-per hour,1,procedure
+302926,intensive spirometry,1,diagnostic
+302927,intensive treatment,2,other
+302931,inter carpal bone ligament repair-reconstruction-3 days pkg,1,imaging
+302932,inter carpal fusion-p deal - 2 days pkg,1,procedure
+302933,inter costal tube insertion,1,supplies
+302934,inter dental wiring one jaw,1,dental
+302935,inter max. elastic traction,1,supplies
+302936,inter max. fixation,1,procedure
+302937,inter maxillary fixation under g.a,1,procedure
+302938,inter surgery - well,1,procedure
+302939,inter uterine contraceptive device (iucd) insertion,1,procedure
+302940,inter-costal tube insertion,1,supplies
+302941,inter-pedicular plate fusion,1,supplies
+302944,interalmedicine consultation,1,consultation
+302946,intercostal chest tube,1,supplies
+302947,intercostal chest tube insertion under ga,1,supplies
+302948,intercostal tube 30 fr,1,eyewear
+302949,intercostal tube ch 32,1,supplies
+302950,intercostal tube insertion,2,supplies
+302951,intercostal tube insertion (ict,1,supplies
+302952,intercostal tube removal,1,supplies
+302953,intercostal/chest tube insert,2,supplies
+302955,interferential,2,other
+302956,interferential / session,1,physiotherapy
+302957,interferential current,1,other
+302958,interferential dynamic,1,other
+302959,interferential therapy,2,physiotherapy
+302960,interferential therapy x 1,1,physiotherapy
+302961,interfernial - op,1,other
+302962,interfernial for 2 areas,1,other
+302963,interfernial therapy,1,physiotherapy
+302964,interfernial-op,1,other
+302965,interferntial compct.w/suction,1,supplies
+302981,interferone (gamma,1,lab_test
+302982,interferone (gamma)abs,1,lab_test
+302983,interferrential therapy session,1,physiotherapy
+302984,interfrential,2,other
+302985,"interim care to relieve pain,bleeding or other problem not associated with other treat",1,lab_test
+302986,interim endodontic visit,1,dental
+302987,interim partial denture (mandibular,1,dental
+302988,interim partial denture (maxillary,1,dental
+302989,interim therapeutic root filling per tooth,2,dental
+302991,interior tooth extraction,2,dental
+302993,interleukin (il)-2 receptor(soluble cd25,1,other
+302994,interleukin 2 - s.o,1,lab_test
+302995,interleukin 2 receptor (s,1,other
+302996,interleukin 2 receptor (scd25) (serum,1,lab_test
+302997,interleukin 6,1,other
+302998,interleukin 6 (il 6,1,other
+302999,interleukin 6 (il- 6,1,other
+303000,interleukin 6 - s.o,1,lab_test
+303001,interleukin 8 - s.o,1,lab_test
+303002,"interlock -35 fibered idc occlusion system 2d, .035 15mmx40cm, (boston) # m001363820",1,other
+303003,"interlock -35 fibered idc occlusion system 2d, .035 20mmx40cm, (boston) # m001363830",1,other
+303004,"interlock, -35 fibered idc occlusion system 2d, 12mmx20cm, (boston) # m001363620",1,other
+303005,interlock-bostonscientifi,1,other
+303006,interlocking detachable coil fibered interock (various sizes) - per each,1,other
+303007,interlocking detachable coils idc (various sizes) - per each,1,other
+303008,interlocking femoral set,1,other
+303009,interlocking nail,1,supplies
+303010,interlocking nail (iln) femur or pfn,2,supplies
+303011,interlocking nail (iln) femur or pfn including implant,2,supplies
+303014,interlocking nail (iln) humerus,1,supplies
+303015,interlocking nail (iln) humerus including implant,1,supplies
+303016,interlocking nail (iln) rt. femur,1,supplies
+303017,interlocking nail (iln) rt. tibia,1,supplies
+303018,interlocking nail (iln) tibia,2,supplies
+303019,interlocking nail (iln) tibia including implant,1,supplies
+303020,interlocking nail (iln) tibia including implant - 2 days,1,supplies
+303021,interlocking nail femur,2,supplies
+303022,interlocking nail fixatin of fracture tibia,1,supplies
+303023,interlocking nail of long bone,1,imaging
+303024,interlocking nail of long bone for humerus tibia & femur (without implant cost,1,imaging
+303025,"interlocking nail of long bone for humerus, tibia & femur (without implant cost",1,imaging
+303026,"interlocking nail of long bone for humerus, tibia & femur- (p.d",1,imaging
+303027,"interlocking nail of long bone for humerus, tibia or femur",1,imaging
+303028,"interlocking nail of long bone for humerus, tibia with femur",1,imaging
+303029,"interlocking nail of long bone for humerus, tibia and femur (without implant cost",1,imaging
+303030,"interlocking nail of long bone for humerus, tibia nd femur (without implant cost",1,imaging
+303031,interlocking nail tibia,1,supplies
+303032,interlocking nail tibia 8 / 9 / 10 / 11 280 - 380 mm,1,supplies
+303033,interlocking nailing femur or tibia or humerus p/d,2,procedure
+303034,interlocking tibial set,1,other
+303035,interluken 1-beta (serum) - s.o,1,lab_test
+303036,interluken 10-serum - s.o,1,lab_test
+303037,intermaxillary fixation (imf) under ga - without chargable material,1,procedure
+303038,intermedaite intensive care,1,other
+303039,intermediate care,2,other
+303040,intermediate care (per day,1,other
+303041,intermediate care in ward 24 hours ( admission,1,consultation
+303042,intermediate care unit(rrt,1,other
+303043,intermediate i.c.u,1,lab_test
+303045,intermediate nicu,1,consultation
+303048,"intermediate plate diff.size, s&n",1,supplies
+303049,intermedullary flexible non locked nail,1,supplies
+303050,intermittent haemodiafiltration,2,other
+303051,intermittent positive pressure ventilation per day,1,other
+303052,intermittent suction by nurse-nicu,1,supplies
+303053,intermittent suction pump,2,supplies
+303055,intermittent suction pump/day,1,supplies
+303056,interna specialist,1,consultation
+303057,internal,1,other
+303058,internal acoustic canal,2,dental
+303059,internal auditory ( 4-5 pos,1,other
+303060,internal auditory meatus (without contrast) (mri,1,imaging
+303061,internal bleaching - per tooth,2,dental
+303062,internal consoltation - 83,1,other
+303063,internal consulation,1,other
+303064,internal consult out of duty,1,consultation
+303065,internal consultation,3,consultation
+303066,internal fetal monitoring (ctg,1,diagnostic
+303067,internal fetal monitoring cmc,1,consultation
+303068,internal fixation (i.f.) fracture hand _ foot - k. wire,1,supplies
+303069,internal fixation (i.f.) fracture hand _ foot - mini plate,1,supplies
+303070,"internal fixation bima. malleolar fracture, ankle including implant",2,supplies
+303072,internal fixation fracture limbs + bone graft,1,imaging
+303073,internal fixation fracture neck femur with vas- cularized bonegraft including implant,1,supplies
+303074,internal fixation metacarpel bone+kwire,1,imaging
+303075,internal fixation of bone w o fracture reduction,1,imaging
+303076,internal fixation of bone w/o fracture reduction->c78.5,1,imaging
+303077,internal fixation of cervical spine,1,imaging
+303078,internal fixation of fracture of patella,1,procedure
+303079,internal fixation of fracture of trochanteric or subcapital femur,1,procedure
+303080,internal fixation of fractured hand or foot with k. wire,1,supplies
+303081,internal fixation of fractured hand or foot with k.wire,1,supplies
+303082,internal fixation of fractured hand or foot with mini plate,1,supplies
+303083,internal fixation of non-union fractured femur or tibia,1,procedure
+303084,internal fixation of non-union fractured scaphoid,1,procedure
+303085,internal fixation of screws,1,supplies
+303086,internal fixation of un-united fracture - large bone,1,imaging
+303087,"internal fixation tri.malleolar fracture, ankle including implant",2,supplies
+303089,internal fixing,1,other
+303090,internal jugular implantation of porta catheter,1,supplies
+303091,internal limiting membrane peeling (ilmp,1,other
+303092,internal med. consultation,2,consultation
+303093,internal med. inpatient visit,1,consultation
+303094,internal med.specialist's fee,2,consultation
+303095,internal medecine consultant exam,2,consultation
+303096,internal medecine consultation,1,consultation
+303097,internal medecine spcialist exam,1,other
+303098,internal medecine specialist exam,2,consultation
+303099,internal medical.ex,2,other
+303100,internal medicen fee-consultant,1,consultation
+303101,internal medicen specialist on duty,1,consultation
+303102,internal medicin consultation,3,consultation
+303103,internal medicin specialist,1,consultation
+303104,internal medicine,3,other
+303105,internal medicine & endocrinology exam,2,other
+303106,internal medicine and endoscopy_consultant,1,other
+303107,internal medicine cardiology specialist,1,consultation
+303108,internal medicine con,1,other
+303109,internal medicine consultant,3,consultation
+303110,internal medicine consultant f/up,1,consultation
+303111,internal medicine consultant fee,4,consultation
+303113,internal medicine consultant feeinternal medicine consultant fee,1,consultation
+303114,internal medicine consultant on call,1,consultation
+303115,internal medicine consultant on duty,1,consultation
+303117,internal medicine consultation (consultant,1,consultation
+303118,internal medicine consultation - consultant,1,consultation
+303119,internal medicine consultation- specialist,2,consultation
+303120,internal medicine consultation-consultant,2,consultation
+303121,internal medicine consultations,1,other
+303122,internal medicine consultations - consultant,1,consultation
+303123,internal medicine consultations - senior,1,other
+303124,internal medicine consultion fees 1,1,consultation
+303125,internal medicine fee,1,consultation
+303126,internal medicine fee-consultant,1,consultation
+303127,internal medicine fee-consultant(10014,1,consultation
+303128,internal medicine fee-specialist 1 st,1,consultation
+303129,internal medicine fee-specialist 1(10015,1,consultation
+303130,internal medicine fee/consultant(10014,1,consultation
+303131,internal medicine follow up,2,consultation
+303132,internal medicine follow-up,1,consultation
+303133,internal medicine gp fee,1,consultation
+303134,internal medicine new follow-up,1,consultation
+303135,internal medicine new patient,1,other
+303136,internal medicine re-examination,1,consultation
+303137,internal medicine spec consultaion,1,other
+303138,internal medicine specialist,2,consultation
+303139,internal medicine specialist 2,1,consultation
+303140,internal medicine specialist consultation,1,consultation
+303141,internal medicine specialist fee,3,consultation
+303142,internal medicine specialist on call,1,consultation
+303143,internal medicine specilist fee,1,consultation
+303144,internal medicine video consultations,1,other
+303145,internal medicine video consultations - consultant,1,consultation
+303146,internal medicine video consultations - senior specialist,1,consultation
+303147,internal medicine video consultations specialist,1,consultation
+303148,internal medicine women health clinic follow-up,1,consultation
+303149,internal medicine women health clinic new follow-up,1,consultation
+303150,internal medicineconsultant,1,other
+303151,internal medicne consultant,1,consultation
+303153,internal organ biopsy under l,1,procedure
+303154,internal referral,2,other
+303155,internal registrar,1,other
+303156,internal sinus lift (per site,1,procedure
+303157,internal sinus lift with bone graft (maxillo,1,imaging
+303158,internal specialist examination,1,consultation
+303159,internal urethral meatotomy,1,procedure
+303160,internal urethral meatotomy (urethrotomy)->c58,1,procedure
+303161,internal urethral meatotomy (urethrotomy)->c58.5,1,procedure
+303162,internal urethral meatotomy(urethrotomy,1,procedure
+303163,internal urethrotomy,3,procedure
+303164,internal urethrotomy (internal urethral meatotomy,1,procedure
+303165,internal urethrotomy - 1 day pkg,1,procedure
+303166,internal urethrotomy nec,1,procedure
+303167,internal urethrotomy taw,1,procedure
+303168,internal urethrotomynxt,1,other
+303169,internal.med. con. consiltant,1,other
+303170,internal.med. con.specialist a,1,consultation
+303171,internasal antrustomy and sinuscopy,1,procedure
+303172,internasal ethmoidectomy endoscopic,1,procedure
+303173,internasal ethmoidectomy endoscopic (unilat,1,procedure
+303174,international normalized ratio ( inr,2,lab_test
+303176,international normalized ratio (inr,1,lab_test
+303177,international ratio,1,lab_test
+303178,international ratio inr,2,lab_test
+303184,international ratio (inr,2,lab_test
+303185,international ratio - inr,2,lab_test
+303187,international ratio(inr,1,lab_test
+303188,international ratioinr,1,other
+303189,international tonometry,2,diagnostic
+303190,internist,2,other
+303191,internist & cardiologist,1,other
+303192,internist check up specialist,1,consultation
+303193,internist consultant,1,consultation
+303194,internist consultant visit,1,consultation
+303195,internist consultation,3,consultation
+303196,internist exam iii,1,other
+303197,internist sp. revisit,1,other
+303198,internist sp. visit,1,consultation
+303199,internist specialist,3,consultation
+303200,internist specialist consultation,3,consultation
+303202,internist specialist exam,1,consultation
+303203,internist specialist i exam,1,consultation
+303204,internmed consultation,1,consultation
+303205,internst,1,other
+303206,interocstal tube insertion,1,supplies
+303207,interpersonal psychotherapy [ipt,2,consultation
+303208,interphalangeal joint dislocation operative reduction,1,procedure
+303209,interphase fish cll-panel,1,lab_test
+303210,"interphase in situ hybridization, 100 to 300 cells, each probe set (if appropriate)-fish bcr/abl t(9;22) (q34:q11.2",1,lab_test
+303211,interpretation of peripheral blood smear,3,lab_test
+303212,"interptn vv grat and or small saph ven , bilateral",1,other
+303213,"interptn vv grat and or small saph ven , unilateral",1,other
+303214,interruption of multiple tributaries of varicose v,1,procedure
+303215,interruption of multiple tributaries of varicose veins,1,procedure
+303216,interruption of other vein,1,other
+303217,interruption of sapheno-femoral and sapheno-popliteal junction varicos,1,other
+303218,interruption of sapheno-femoral junction varicose,1,procedure
+303219,interruption of sapheno-femoral junction varicose veins,1,procedure
+303220,interruption of sapheno-popliteal junction varicose veins,1,procedure
+303221,"interruption, vena cava",1,other
+303222,"interstim,micro system,surescan mri,rechargeable,medtronic,97810",1,imaging
+303223,"interstitial lung dis, majc",1,inpatient
+303224,"interstitial lung dis, minc",1,inpatient
+303225,intersurgical flex mount 3511,1,other
+303226,intersurgical nebulizer t 2505/1485,1,supplies
+303227,"interv crnry pr-ami, majc",1,inpatient
+303228,"interv crnry pr-ami, minc",1,inpatient
+303229,"intervenous infusion,hydration; initial",1,supplies
+303230,"intervent crnry pr + ami, majc",1,inpatient
+303231,"intervent crnry pr + ami, minc",1,inpatient
+303232,intervential radiology fibroid / uterine artery embolization,1,procedure
+303233,intervention diagnostic cerebral angiogram,1,imaging
+303234,intervention fna thyroid,1,other
+303235,intervention image guided biopsy,1,procedure
+303236,intervention image guided drain/aspiration,1,procedure
+303237,intervention radiology consultation,1,consultation
+303238,intervention vascular stent placement,1,supplies
+303239,interventional cardiology consultation,1,consultation
+303240,interventional neurology consultation,1,consultation
+303241,interventional radiology consultation,1,consultation
+303242,interventionist professional fee,1,consultation
+303243,intestinal adhesiolysis(pkg,1,procedure
+303244,intestinal obstruction (adhesiolysis,1,procedure
+303245,intestinal obstruction (without intestinal resection,1,procedure
+303246,intestinal obstruction exploration,1,procedure
+303247,intestinal obstruction with resection& reanastomosis,1,procedure
+303248,intestinal obstruction-lysis of adhesion,1,procedure
+303249,intestinal resection & anastomosis,1,procedure
+303250,intestinal resection and anastomases,1,procedure
+303251,intestinal resection and anastomosis,1,procedure
+303252,intestinal resection and anastomosis / laparascopic,1,procedure
+303253,intestinal resection and re-anastomosis,1,procedure
+303254,intestinal resectionanastomosis,1,other
+303255,intestinal/gastric perfor.repr,1,other
+303256,intial examination by g.b,1,consultation
+303257,intidrol,1,other
+303313,intima vaginal wash,1,procedure
+303314,intm.-especialist,1,other
+303317,intra aderm lesion infiltration,1,other
+303319,intra ocular lens calculation iol one eye,1,eyewear
+303323,intra - art int. to shoulder,1,other
+303327,intra - cranial ballon angioplasty,1,procedure
+303330,intra - operative neurophysiology monitoring (for first 5-hours,1,consultation
+303331,intra - operative probe cover -- cathlab,1,supplies
+303332,"intra - oral periapical or bitewing radiogaphy,per film",1,dental
+303333,intra -abdominal abscess drainge by insertion of drain tube,1,supplies
+303334,intra -lasik - one eye,1,supplies
+303335,intra -lasik dr akef -one eye,1,supplies
+303336,intra -lesional injuction,1,other
+303337,intra -lesional therapy /session,1,physiotherapy
+303338,intra / occular pressure (iop,1,diagnostic
+303340,intra abdom.manipulat.of intestine(torsion volvulu->c46.80,1,other
+303341,intra abdomin. manipulat.of s.intestine(strangilat->c46.81,1,other
+303342,intra abdominal abscess drainge by insertion of drain tube tcs,1,supplies
+303343,intra abdominal drainage,1,procedure
+303344,intra abdominal mass + ligasure,1,other
+303345,intra acticular injection2 joints without medicine,1,other
+303346,intra acticular injectionone joint without medicine,1,other
+303347,intra and peri articular fixation,1,procedure
+303348,intra and peri articular fixation3days,1,other
+303349,intra aortic ballon insertion,1,procedure
+303350,intra aortic balloon (iab) 8f 40 cc cat # iab-s840c,1,supplies
+303351,intra aortic balloon catheter (any size)-per pcs,1,supplies
+303352,intra aortic balloon pump,1,supplies
+303353,intra aortic balloon pump for 2 days,1,supplies
+303354,intra aortic balloon pump for 3 days,1,supplies
+303355,intra aortic baloon insertion,2,procedure
+303356,intra aortic baloon insertion (balloon not included,1,supplies
+303365,intra articular,1,other
+303404,intra articular injectionincluding medicine,1,other
+303405,intra articular large joint,1,other
+303408,intra articular small joint,1,other

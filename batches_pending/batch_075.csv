@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+251902,"film, panoramic view",1,dental
+251903,filmarray pneumonia panel,1,lab_test
+251904,filmarray gastrointestinal panel targets - gi panel,1,lab_test
+251905,filmarray meningitis panel targets - me panel,1,lab_test
+251906,filmarray pneumonia panel targets - pneumonia panel,1,lab_test
+251907,filmarray blood panel targets - bcid panel,1,lab_test
+251908,filmarray respiratory panel targets - rp2 panel,1,lab_test
+251914,filter pall breathing system,1,supplies
+251915,"filter, bacterial, adult with hme",1,supplies
+251916,"filter, exhalation",1,supplies
+251917,"filter, for iv, plum primary set",1,supplies
+251918,filtered coffee,1,other
+251920,final impression maxilla/mandible,1,other
+251933,finallerg syrp,1,other
+251934,finallerg10mg10tab,1,other
+251951,fine adult diaper fine care large 36 pcs,1,supplies
+251952,fine adult diaper fine care medium 44 pcs,1,supplies
+251953,fine care 20 under pads (60*90 cm,1,supplies
+251954,fine care adult diapers large 18 pcs,1,supplies
+251955,fine care adult diapers medium 22 pcs,1,supplies
+251956,fine care adult diapers small 18 pcs,1,supplies
+251957,fine care pull ups large size 14*6,1,other
+251958,fine care pull ups medium 14*6,1,other
+251959,fine care x-lrg 14 pants,1,supplies
+251960,fine major surgery operation under g.a,1,procedure
+251962,fine needle aspiration (fna cytology,1,lab_test
+251963,fine needle aspiration (procedure + cytology,1,lab_test
+251964,fine needle aspiration - biopsy,1,supplies
+251967,fine needle aspiration cytolog,1,supplies
+251969,fine needle aspiration without imaging guidance non- or,1,supplies
+251970,fine needle aspiration from thriod gland,1,supplies
+251971,fine needle aspiration from throid gland,1,supplies
+251972,fine needle aspiration- cytology,1,lab_test
+251973,fine needle aspiration-two different sites,1,supplies
+251974,fine needle aspiration; fna,1,supplies
+251975,"fine needle aspirations (lymph node, lump etc) / opd w/o histopath",1,lab_test
+251977,fine needle breast biopsy ( without histopathology,1,lab_test
+251978,fine scaling of calculus,1,dental
+251981,"fine needle aspiration cytology (fnac)-w image, w histopathology",1,lab_test
+251982,fine needle aspiration for cytology,1,lab_test
+251983,fine needle biopsies,1,supplies
+251987,finge/thumbr 2 views,1,imaging
+251989,finger bv,2,other
+251990,finger ( 2 v,1,other
+251991,finger ( 2 v )-finger ( 2 v,1,other
+251994,finger (two view,1,imaging
+251995,finger - 2 v,1,other
+251998,finger / thumb xray,1,imaging
+251999,finger / thumb- 1 view,1,imaging
+252000,finger / thumb-1 view,1,imaging
+252001,finger / wrist tendon release,1,procedure
+252003,finger /thumb 2 views-549,1,imaging
+252004,finger 2 pos,1,other
+252006,finger 2 view,2,imaging
+252010,finger 2 views (2029,1,imaging
+252011,finger 2f,1,imaging
+252013,finger ap lat vs,1,imaging
+252014,"finger ap, lateral, oblique ?????? ????? ????-?????-????",1,imaging
+252015,finger aplat (2v,1,imaging
+252016,finger aplat oblique (3v,1,imaging
+252022,finger multiple wound stitch,1,procedure
+252023,finger nail reconstruction,1,supplies
+252026,finger splint - (ms,1,supplies
+252027,finger splint - 1.3 cm,1,supplies
+252028,finger splints = 29130,1,other
+252029,finger split,1,other
+252033,finger x ray 2 film,1,imaging
+252034,finger x-ray,1,imaging
+252035,finger x-ray - 2 view,1,imaging
+252036,finger and thumb x ray 2 view,1,imaging
+252039,finger or bandage strapping,1,supplies
+252040,finger orthosis,1,supplies
+252042,finger splint without anaesthesia,1,supplies
+252044,finger strap or dynamic splint,1,supplies
+252046,finger x-ray two view,1,imaging
+252051,finger/thumb prosthesis,1,supplies
+252052,fingersplint,1,other
+252053,fingernail drill bit,1,other
+252055,fingers (two views) x-ray,1,imaging
+252060,"fingers ap, lat & oblique",1,imaging
+252061,"fingers ap, lat lt",1,imaging
+252062,fingers x-ray,1,imaging
+252063,fingers xray p.a.+oblique,1,imaging
+252064,fingers slab,1,supplies
+252065,fingers(2v,1,imaging
+252070,finished single vision 1.500 cr 39 over cyl. 2.00,1,eyewear
+252071,finished single vision 1.586 poly as,1,eyewear
+252072,finished single vision 1.600 uvtech,1,eyewear
+252073,finished single vision 1.670 as over cyl 2.00,1,eyewear
+252079,firs t specialist,1,consultation
+252080,first aid kit no.3 (u00060,1,other
+252082,first class (one-bed room,1,supplies
+252083,first class - 206a,1,other
+252084,first class - 402,1,other
+252085,first class - dr-dr10,1,other
+252087,first class deluxe,1,eyewear
+252088,first class nursing services,1,consultation
+252090,first class room - 101a,1,consultation
+252091,first class room - 103a,1,consultation
+252092,first class room - 104a,1,consultation
+252093,first class room - 107a,1,consultation
+252094,first class room - 119,1,consultation
+252095,first class room - 127,1,consultation
+252096,first class room - 129a,1,consultation
+252097,first class room - 130a,1,consultation
+252098,first class room - 135a,1,consultation
+252099,first class room - 140a,1,consultation
+252100,first class room - 141a,1,consultation
+252101,first class room - 201a,1,consultation
+252102,first class room - 202a,1,consultation
+252103,first class room - 203a,1,consultation
+252104,first class room - 204a,1,consultation
+252105,first class room - 207a,1,consultation
+252106,first class room - 208a,1,consultation
+252107,first class room - 209a,1,consultation
+252108,first class room - 210a,1,consultation
+252109,first class room - 211a,1,consultation
+252110,first class room - 213a,1,consultation
+252111,first class room - 214a,1,consultation
+252112,first class room - 218a,1,consultation
+252113,first class room - 226,1,consultation
+252114,first class room - 227,1,consultation
+252115,first class room - 229,1,consultation
+252116,first class room - 230,1,consultation
+252117,first class room - 231a,1,consultation
+252118,first class room - 232a,1,consultation
+252119,first class room - 233a,1,consultation
+252120,first class room - 234a,1,consultation
+252121,first class room - 235a,1,consultation
+252122,first class room - 236a,1,consultation
+252123,first class room - 237a,1,consultation
+252124,first class room - 238a,1,consultation
+252125,first class room - 239a,1,consultation
+252126,first class room - 240a,1,consultation
+252127,first class room - 241a,1,consultation
+252128,first class room - 242a,1,consultation
+252129,first class room - 243a,1,consultation
+252130,first class room - 244a,1,consultation
+252131,first class room - 245a,1,consultation
+252132,first class room - 246a,1,consultation
+252133,first class room - 247a,1,consultation
+252134,first class room - 248a,1,consultation
+252135,first class room - 249a,1,consultation
+252136,first class room - 250a,1,consultation
+252137,first class room - 251a,1,consultation
+252138,first class room - 301 iso,1,consultation
+252139,first class room - 303,1,consultation
+252140,first class room - 305,1,consultation
+252141,first class room - 306 iso,1,consultation
+252142,first class room - bed 01,1,supplies
+252143,first class room - day case bed 01,1,supplies
+252144,first class room - medical care,1,consultation
+252145,first class room - nr-01,1,consultation
+252146,first class room and board,1,consultation
+252147,first class room- 101a,1,consultation
+252148,first class room- 102a,1,consultation
+252149,first class room- 103a,1,consultation
+252150,first class room- 116a,1,consultation
+252151,first class room- 201a,1,consultation
+252152,first class room- 233a,1,consultation
+252153,first class room- 235a,1,consultation
+252154,first class room- 237a,1,consultation
+252155,first class room- 238a,1,consultation
+252156,first class room- 243a,1,consultation
+252157,first class room- 245a,1,consultation
+252158,first class room- 246a,1,consultation
+252159,first class room- 247a,1,consultation
+252160,first class room- 249a,1,consultation
+252161,first class room- bed 03,1,supplies
+252162,first class- 20,1,other
+252163,first class- 210a,1,other
+252164,first class- 427-aa,1,other
+252165,first clinic visit,1,consultation
+252166,first clinic visit (dental,1,dental
+252167,first clinic visit - abdul latif al helalee,1,consultation
+252168,first clinic visit - ali el-arab,1,consultation
+252169,first clinic visit - fahed aswad,1,consultation
+252170,first clinic visit - fouad ladki,1,consultation
+252171,first clinic visit - fuad al-yafi,1,consultation
+252172,first clinic visit - jamal azouz,1,consultation
+252173,first clinic visit - khaldoun soued,1,consultation
+252174,first clinic visit - lamis khas,1,consultation
+252175,first clinic visit - mario chemali,1,consultation
+252176,first clinic visit - maysoun joudi,1,consultation
+252177,first clinic visit - mervat abdul jawad mendo,1,consultation
+252179,first clinic visit - mounir zaher,1,consultation
+252180,first clinic visit - nader kalaji,1,consultation
+252181,first clinic visit - safwan bazerbachi,1,consultation
+252182,first clinic visit - samer hatoum,1,consultation
+252183,first clinic visit - yahya aba zied,1,consultation
+252184,first metatarsal - phalangeal eminence resection + ima ligament release,1,procedure
+252186,first specialist consultation,2,consultation
+252187,first step adhesive gauze bandage roll 12 cm * 4 m,1,supplies
+252188,first step adhesive gauze bandage roll 4 cm * 4 m,1,supplies
+252189,first step adhesive gauze bandage roll 8 cm * 4 m,1,supplies
+252190,first step alcohol pads 200pcs,1,supplies
+252191,first step cohesive bandage 10 cm,1,supplies
+252192,first step cohesive bandage 15 cm,1,supplies
+252193,first step cohesive bandage 7.5 cm,1,supplies
+252194,first step dressing 9 cm x 20 cm 5 pcs,1,supplies
+252195,first step med dressing 5*7 cm 5 pcs,1,supplies
+252196,first step med dressing 9*10 cm 5 pcs,1,supplies
+252197,first step med dressing 9*15 cm 5 pcs,1,supplies
+252198,first step plast 4 sizes 30pcs,1,other
+252199,"first step plaster 4 sizes (100pcs) 1""s",1,supplies
+252200,first step plaster bandage strips mixed 100 p,1,supplies
+252201,first step plaster bandage strips mixed 30 p,1,supplies
+252202,first step plaster bandage strips normal 100 p,1,supplies
+252203,first step plaster bandage strips normal 50 p,1,supplies
+252204,first step plaster roll silk 10 cm * 5 m,1,supplies
+252205,first step plaster roll silk 7.5 cm * 5 m,1,supplies
+252206,"first step plaster spot (100pcs) 1""s",1,supplies
+252207,"first step plaster standard size (100pcs) 1""s",1,supplies
+252208,"first step plaster standard size (50pcs) 1""s",1,supplies
+252209,first trimester screen (nt) (limited scan,1,imaging
+252211,first visit - abdul latif al helalee,1,consultation
+252212,first visit - ahmad turko,1,consultation
+252213,first visit - ali el-arab,1,consultation
+252215,first visit - consultant/specialist,1,consultation
+252216,first visit - fahed aswad,1,consultation
+252217,first visit - fouad ladki,1,consultation
+252218,first visit - fuad al-yafi,1,consultation
+252219,first visit - jamal azouz,1,consultation
+252220,first visit - khaldoun soued,1,consultation
+252221,first visit - lamis khas,1,consultation
+252222,first visit - mario chemali,1,consultation
+252223,first visit - maysoun joudi,1,consultation
+252224,first visit - mervat abdul jawad mendo,1,consultation
+252226,first visit - mounir zaher,1,consultation
+252227,first visit - nader kalaji,1,consultation
+252228,first visit - oculoplastic,1,consultation
+252230,first visit - safwan bazerbachi,1,consultation
+252231,first visit - samer hatoum,1,consultation
+252233,first visit - yahya aba zied,1,consultation
+252234,first visit with obs / gynae fee,1,consultation
+252235,"first visit, sub-specialty consultant",1,consultation
+252236,first aid gauze/bandage,1,supplies
+252237,"first aid limb splint, mouldable, reusable",1,supplies
+252240,first class - medical supervision,1,consultation
+252243,first step endodontic treatment386,1,dental
+252244,first time assesment (doctor + nurse,1,consultation
+252245,first-step elastic bandage brown 10 cm fcs006-3,1,supplies
+252246,first-step elastic bandage brown 15 cm fcs007-4,1,supplies
+252247,first-step elastic bandage brown 5 cm fcs006-1,1,supplies
+252248,first-step elastic bandage brown 7.5 cm fcs006-2,1,supplies
+252250,fish high grade lymphoma panel ( so,1,lab_test
+252252,fish panel for multiple myeloma,1,lab_test
+252253,fisher price frm kids 19/39/581,1,eyewear
+252254,fisher price frm kids 19/520,1,eyewear
+252255,fisher price frm kids 28//580,1,eyewear
+252256,fisher price frm kids 30/530/38/14,1,eyewear
+252258,fisher and paykel simplus full face mask large (400477,1,supplies
+252259,fisher and paykel simplus full face mask medium (400476,1,supplies
+252260,fisher and paykel simplus full face mask small (400475,1,supplies
+252261,fisher and paykel vitera full face mask large,1,supplies
+252262,fisher and paykel vitera full face mask medium,1,supplies
+252263,fisher and paykel vitera full face mask small,1,supplies
+252270,fissure sealant /tooth,1,dental
+252271,fissure sealant for one tooth,1,dental
+252273,fissure and/or surface sealing per tooth,1,dental
+252274,fissure and/or surface sealing per tth,1,dental
+252275,"fissure and/or surface sealing, per tooth",1,dental
+252280,fissure and/or tooth surface sealing ? per tooth,1,dental
+252284,fissure sealant / tooth,1,dental
+252286,fissure sealing - per tooth,1,dental
+252287,"fissure, fistula",1,procedure
+252289,fissurectomy low,1,procedure
+252290,fissurectomy & lat. sphinceterotomy,1,imaging
+252291,fissurectomy sphincterotomy,1,procedure
+252292,fissurectomy sphincterotomy lateral posterior analyst,1,procedure
+252293,fissurectomy with sphincterectomy p/d,1,procedure
+252294,fissurectomy with sphincterotomy g.a. p/d,1,procedure
+252300,fistla - in - ano excision - low,1,procedure
+252301,fistula - in - ano excision low,2,procedure
+252303,fistula ? in ? ano excision low,1,procedure
+252305,fistula ? in ? ano excision ? high,1,procedure
+252310,fistula in -ano excision high - 1 day,1,procedure
+252312,fistula in ano excision high,2,procedure
+252314,fistula in ano excision - low,2,procedure
+252318,fistula laser closure [high][filac,1,procedure
+252319,fistula laser closure [low][filac,1,procedure
+252320,fistula probe,1,supplies
+252321,fistula - in -ano excision - high,2,procedure
+252325,fistula in ano excision - low (2nd operation 50%,1,procedure
+252327,fistula- in- ano excision- low,1,procedure
+252328,fistula-in ano-excision-high,1,procedure
+252329,fistula-in ano-excision-low,1,procedure
+252331,fistula-in-ano excision-high,1,procedure
+252334,fistulectomy and haemorrhoidctomy,1,procedure
+252335,fistulectomy perionel,1,procedure
+252336,fistulectomy for complex branched anal fistula,1,procedure
+252337,"fistulectomy, recurrent",1,procedure
+252338,"fistulization of sclera for glaucoma, trabeculectomy ab exterus",1,lab_test
+252340,fistulogram x-ray,1,imaging
+252342,fistulotomy laser surgery,1,procedure
+252344,"fitting / testing of hearing aid, bilateral",1,lab_test
+252345,fitting iud,1,other
+252346,fitting rose k cl,1,eyewear
+252347,fitting contact lenses,1,eyewear
+252348,fitting of bandage contact lens,1,eyewear
+252349,fitting of bar for denture per abutment,1,dental
+252350,fitting of contact lens for treatment of disease,1,eyewear
+252353,fitting soft contact lens - consultation,1,eyewear
+252359,five stitches,1,procedure
+252361,fix ankle w/ pop w/o anesth,1,supplies
+252362,"fix fluted pin 3.2x150mm, sesamoid system, sterile, zimmer #20-8000-000-10",1,supplies
+252363,"fix fluted pin 3.2x80mm, sesamoid system, sterile, zimmer #20-8000-000-11",1,supplies
+252364,fix. forearm w/pop w/o anesth,1,supplies
+252366,fixation of undescended testicle,1,procedure
+252367,fixation wrist w/pop w/o anesth,1,supplies
+252368,fixation of mallet finger with anchor suture,1,supplies
+252369,fixation of zygomatic fracture unilateral,1,procedure
+252370,fixation of contralateral testis (separate procedure,1,procedure
+252371,fixation of fracture mandible or maxilla by plate & screw ga -bilateral,1,supplies
+252372,"fixation of intraocular lens w sut iris, bilateral",1,eyewear
+252373,"fixation of intraocular lens w sut iris, unilateral",1,eyewear
+252374,fixation of testis unilateral,1,procedure
+252375,"fixation of testis, unilateral",1,procedure
+252376,fixation of the spine due to fracture one level,1,lab_test
+252377,fixation or extraction osteochondral fracture,1,dental
+252378,fixed nail ext,1,supplies
+252379,fixed nails removal under l.a - in o.r,1,procedure
+252381,fixed appliance debonding for one jaw,1,supplies
+252382,fixed appliance therapy,1,physiotherapy
+252383,fixed fee for 7 day time period home care for simple cases,1,consultation
+252384,fixed minor tooth guidance,1,dental
+252385,fixed nail removal,1,supplies
+252387,fixed space maintainer placement unilateral,1,other
+252388,fixed tooth extr,1,dental
+252389,fixed-regulator oxygen cylinder,1,supplies
+252432,fixit stocking compression under knee,1,supplies
+252433,flaccid hemiplegia,1,other
+252435,flagy i i .v.i,1,lab_test
+252520,flagyl250mg20tabs lasa,1,other
+252521,flagyl500mg14tab,1,other
+252522,flagyl500mg14t,1,other
+252524,flagyle bottle,1,supplies
+252563,flap surgery (severe,1,procedure
+252564,flap surgery / root planing,1,procedure
+252565,flap surgery quadrant,1,procedure
+252567,flat foot reconstruction with tal,1,procedure
+252662,flazol500mg20tab,1,other
+252663,flazoloralsusp120ml,1,other
+252664,flazoloralsusp125ml,1,other
+252674,flector ep tissuegel 5 patch,1,supplies
+252679,flector ep tissugel 5pcs,1,other
+252681,flector patces 5,1,other
+252682,flectoreptissugel1g5plasters,1,other
+252737,fleetadultenema-4.5oz,1,other
+252740,fleurescien (cornea,1,other
+252741,fleurescien (cornea)446,1,other
+252742,flex shoulder system pe insert dia 36th +9 angle 12.5,1,other
+252745,flexable ureteroscopy and stone fragmentation by laser and dj stent insertion,1,supplies
+252765,flexi wrist splint with thump grip,1,supplies
+252767,"flexiport eco blood pressure cuff; size-11 adult, single use, cuff range 27-38 cm, welch allyn, #ecocuff-11",1,lab_test
+252768,flexible cystoscopy and dj stent removal,1,supplies
+252769,flexible fiberroptic colonoscopy (c45.23,1,procedure
+252771,flexible laryngoscopy for vocal cords,1,procedure
+252772,flexible renoscopy+laser lithtripsy,1,procedure
+252773,flexible uretero-renoscopic lithotripsy,1,other
+252775,flexible uretero-renoscopy with biopsy,1,procedure
+252776,flexible ureteroscopy & renoscopy for multiplele renal stone,1,procedure
+252777,flexible ureteroscopy & renoscopy for single renal stone,1,procedure
+252778,flexible ureteroscopy (urs) unilateral,1,procedure
+252780,flexible ureteroscopy + dormia stone extraction,1,dental
+252786,flexible ureteroscopy + laser ablation with endoscopic stone extraction 3 days,1,dental
+252787,flexible ureteroscopy + laser with endoscopic stone extraction,1,dental
+252788,flexible ureteroscopy for ureteral stone with laser lithotripsy,1,procedure
+252789,flexible ureteroscopy with laser for sto,1,procedure
+252790,flexible uretroscopy + laser stone fragmentation,1,procedure
+252791,"flexible bone nail, non-sterile",1,imaging
+252792,"flexible bone nail, sterile",1,imaging
+252793,flexible cystourethroscopy,1,procedure
+252794,"flexible endoscopic biopsy forceps, reprocessed",1,procedure
+252795,"flexible endoscopic biopsy forceps, reusable",1,procedure
+252796,"flexible endoscopic biopsy forceps, single-use",1,procedure
+252797,flexible endoscopic laser ureterolithotomy upper ureter stones,1,procedure
+252798,flexible endoscopic sponge/swab forceps,1,lab_test
+252799,flexible fiberoptic naso pharyngo laryngoscopy (treatment,1,procedure
+252800,flexible fibreoptic choledochoscope,1,other
+252801,flexible fibreoptic ureteroscope,1,other
+252802,flexible naso-pharynso-larynposcopy la,1,procedure
+252803,flexible ultrasound bronchoscope,1,imaging
+252806,flexible ureteroscopy for middle and upper ureteric stones with laser fragmentation,1,procedure
+252807,flexible ureteroscopy for middle and upper ureteric stones with laser?fragmentation,1,procedure
+252809,flexible urteroscope and stone fragmented laser and dj stent inserted,1,supplies
+252810,"flexible video bronchoscope, single-use",1,other
+252811,"flexible video cystoscope, reusable",1,other
+252812,flexible video laryngoscope,1,other
+252813,"flexigraft semitendinosis tendon, 230 - 320mm, dia 4.0 - 8.0mm, frozen,lifenet #fst",1,other
+252814,"fleximatm ureteral catheters,cone tip, 5 fr x70,boston scientific",1,eyewear
+252815,"fleximatm ureteral catheters,cone tip, 5 fr x70,boston scientific , m0064002111",1,eyewear
+252816,flexion,1,other
+252823,flexor digitorum longus tendon transfer to ppt/navicular,1,procedure
+252824,flexor tendon pully system reconstruction,1,procedure
+252825,flexor tendon repair multiple,1,procedure
+252827,flexor tendon repair single (surgical) -1d - 1 day(s,1,procedure
+252829,"flexor tendon repair, each",1,procedure
+252836,"flip cutter 10mm, arthrex, #ar-1204af-100",1,other
+252837,flip cutter 8.0mm,1,other
+252838,flip cutter 8.5mm,1,other
+252839,flip cutter 9.0mm,1,other
+252840,flip cutter 9.5mm,1,other
+252841,flip cutter ii,1,other
+252842,flipcutter iii drill ar-1204ff,1,other
+252843,"flipcutter, different size",1,other
+252844,flixible nasopharynglaryngoscopy,1,procedure
+252899,flixotideevohaler125mic,1,other
+252900,flixotideevohaler250mic,1,other
+252901,flixotideevohaler50mic,1,other
+252902,flixotiden 125 inhal,1,other
+252903,flo eolo aerosol delivery system,1,procedure
+252904,flo miko nebuliser machine # ( m,1,supplies
+252905,floating nail extraction,1,dental
+252906,floating nail ext,1,supplies
+252929,flocazole150mg1cap,1,other
+252933,flollow up,1,other
+252946,flomocin400mg7tabs,1,other
+252960,"flopak inflow & outflow tubing suction bag tissue trap, hologic #flt-112",1,supplies
+252961,floppy-diskette computer drive,1,other
+252973,floride shower,1,other
+252974,floridization ( flourid appliaction both jaws,1,other
+252975,floridization - flourid application both jaws,1,other
+252976,floridization(flourid application both jaws,2,other
+252979,floroscopic.of the heart,1,other
+252980,florucine of the cornea,1,other
+252982,flouide application,1,other
+252983,floureacent treponemal antibody ( fta,1,lab_test
+252984,flourescein application,1,other
+252985,flourescein test for cornea,1,lab_test
+252986,flouridation after scaling for each jaw,1,dental
+252988,flouride applcation u/l jaw,1,other
+252990,flouride application per arch,1,dental
+252992,flouride application u/l jaw,1,other
+252993,flouride application u/l: pedo,1,other
+252994,flouride application u/l: adult,1,other
+252995,flouride varnish application > 5 teeth,1,dental
+252997,flouroscopy shoulder,1,procedure
+252998,flow cytometry dna analysis,1,lab_test
+252999,flow cytometry; nuclear marker,1,other
+253000,flow mir turbine,1,other
+253002,"flow dependent intracerebral microcatherter , 1.2f x 165 cm",1,imaging
+253003,flow+ bte sp 13 (12 channels,1,other
+253004,flow+ ric 312 (12 channels,1,other
+253005,"flowcytometry / immunophenotyping (body fluid), lymphoma panel",1,lab_test
+253007,flowcytometry for pnh,1,other
+253008,flowcytometryor immunophenotiping jak 2 mutation,1,lab_test
+253009,flowflex covid 19 self test at home 1 pc,1,lab_test
+253010,flowo up,1,other
+253055,fluca eye drops5ml*new,1,other
+253067,flucaeyedrops5ml,1,other
+253116,fludrex-24t,1,other
+253117,fludrex24tab,1,other
+253121,fluid d5% in nss 500 cc (i.v.f,1,lab_test
+253122,fluid d5% in water 500 cc (i.v.f,1,lab_test
+253123,fluid d50% 500 cc (i.v.f,1,lab_test
+253124,fluid endoclips,1,other
+253128,fluid perfusionservice,1,other
+253129,fluid syringe,1,supplies
+253130,fluid cytology,1,lab_test
+253131,fluid immunopheratyping and flowcytometry,1,other
+253132,"fluid transfer set, general-purpose",1,procedure
+253133,"fluid transfer tube, general-purpose",1,supplies
+253134,fluid-permeable film dressing,1,supplies
+253137,flumazenil psi,1,other
+253144,"fluocinolone acetonide , tretinoin , hydroquinone",1,other
+253145,fluorescein (one eye,1,supplies
+253146,fluorescein angiography (ffa,2,imaging
+253148,fluorescein angiography for both eyes,1,imaging
+253149,fluorescein angiography for one eye,1,imaging
+253150,fluorescein for (two eye,1,other
+253154,fluorescein test,1,lab_test
+253155,fluorescein test both eye,1,lab_test
+253156,fluorescein angiography (unilateral,1,imaging
+253158,fluorescein angiography 2 eye,1,imaging
+253159,fluorescein corneal stain,1,other
+253160,fluorescein corneal stain with hs,1,other
+253161,fluorescein eye test,1,lab_test
+253162,fluoresceince fundus angiography with digital system for both eyes,1,imaging
+253163,fluorescence treponemal ab - absorption test - ?????,1,lab_test
+253165,fluorescent noninfectious agent antibody; each,1,lab_test
+253167,fluorescin angiography (ffa,1,imaging
+253168,fluorescin staining non-or,1,lab_test
+253169,fluoride,2,other
+253170,fluoride / per visit,1,consultation
+253172,fluoride application per arch,1,dental
+253175,fluoride treatment(per session,1,physiotherapy
+253176,fluoro guide for central venous access device,1,other
+253177,fluoro guide for needle placement,1,supplies
+253178,fluorometholone 0.001,1,other
+253183,fluoroscopic%20guidance%20for%20needle%20inj%20%20bx/aspiration%20%20uni,1,procedure
+253185,fluoroscopy - guided infiltration (for two site any spine or joint,1,imaging
+253186,fluoroscopy guided (pain management use only) pm,1,imaging
+253188,fluoroscopy for radiography of the chest,1,imaging
+253189,fluoroscopy upto 1 hour,1,imaging
+253242,flutab500mg20tab,1,other
+253243,"fluted surgical drill bit, reusable",1,procedure
+253268,"fluticasonepropionate125,salmeterol25inhalationpowder",1,other
+253269,"fluticasonepropionate250,salmeterol25inhalerinhalationsoln,120inhaler/bottle",1,supplies
+253270,"fluticasonepropionate250,salmeterol50mcgdiscusinhalationpowder",1,other

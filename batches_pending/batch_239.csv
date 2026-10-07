@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+436989,p.o.p. for scaphoid fracture,1,lab_test
+436990,p.o.p. for wrist fracture,1,lab_test
+436991,p.o.p. slab - finger,1,supplies
+436992,p.o.p. slab for elbow-service charge,1,supplies
+436993,p.o.p. to simple fracture w/o displacement,1,lab_test
+436994,p.o.p. above knee-adult,1,lab_test
+436995,p.o.p. below knee-adult,1,lab_test
+436996,p.o.p. below knee-child,1,lab_test
+436997,p.o.p. for simple fracture,1,lab_test
+436998,p.o.p.a.e,1,lab_test
+436999,p.o.p.above the elbow,1,lab_test
+437000,p.o.p.b.e,1,lab_test
+437001,p.o.p.b.k,1,lab_test
+437002,p.o.p.for 2nd visit above elbo,1,consultation
+437003,p.o.p.for 2nd visit above knee,1,consultation
+437004,p.o.p.for 2nd visit below knee,1,consultation
+437005,p.o.p.for 2nd visit scaphoid,1,consultation
+437006,p.o.p.for 2nd visit wrist frac,1,consultation
+437007,p.o.p.for above elbow,1,lab_test
+437008,p.o.p.for above knee,1,lab_test
+437009,p.o.p.for below knee,1,lab_test
+437010,p.o.p.for scaphoid fracture,1,lab_test
+437011,p.o.p.for wrist fracture,1,lab_test
+437012,p.o.p.u/l below elbow-adult,1,lab_test
+437013,p.o.p.u/l below elbow-child,1,lab_test
+437015,p.p,2,lab_test
+437016,p.p bs,1,lab_test
+437017,p.p blood sugar,2,lab_test
+437018,p.p blood suger,1,lab_test
+437020,p.p. bl.s,1,lab_test
+437021,p.p. blood sugar,4,lab_test
+437025,p.p. blood sugar/random,1,lab_test
+437026,p.p. sugar,1,lab_test
+437028,p.p.b.s (post prandial blood sugar) - lab test,1,lab_test
+437029,p.p.b.s (post prandial blood sugar,1,lab_test
+437030,p.p.b.s / ppbs,1,lab_test
+437032,p.p.bl.s,1,lab_test
+437033,p.p.blood sugar,2,lab_test
+437034,p.p.d test,1,lab_test
+437035,p.p.d. (tuberculin test,1,lab_test
+437036,p.p.d. test,1,lab_test
+437038,p.p.h haemorrhoid stapler,1,supplies
+437039,p.p.i,2,lab_test
+437040,p.p.r,1,lab_test
+437041,p.p.r or vdrl,1,lab_test
+437042,p.p.sugar,2,lab_test
+437044,p.p.blood sugar ??? ????,1,lab_test
+437045,p.pb.s,1,other
+437046,p.pb.s-p.pb.s,1,other
+437047,p.r.k. (excimer laser (one eye)/dr. walaa alderi,1,supplies
+437048,p.r.k. (excimer laser) [both eyes]/dr. 38 somali abdulaziz,1,procedure
+437049,p.r.p.p.r.v.o,2,lab_test
+437051,p.ralph lauran opt 1193 -9393 ful mtl 51 brn/gold 145/m,1,eyewear
+437052,p.ralph lauran opt 2210 -5618 ful pls 53 blu 145/m,1,eyewear
+437053,p.ralph lauran opt 2215 -5002 ful pls 50 white 145/m,1,eyewear
+437054,p.ralph lauran opt 3126 -9003/87 ful mtl 60 blk 145/m,1,eyewear
+437058,p.s,1,lab_test
+437059,p.s.a,3,lab_test
+437060,p.s.a ( f+t,1,lab_test
+437061,p.s.a (total,2,lab_test
+437063,p.s.a - total,1,lab_test
+437064,p.s.a .4.100,1,lab_test
+437065,p.s.a total lab test,1,lab_test
+437067,p.s.a. total,2,lab_test
+437068,p.s.a. tota,1,lab_test
+437070,p.s.a.total,2,lab_test
+437073,"p.t (prothrombin time) - inr, plasma",1,lab_test
+437074,p.t and ex.s physiotherapy,1,physiotherapy
+437075,p.t multiservice (6 session,1,physiotherapy
+437076,p.t prothrombin time,1,lab_test
+437077,p.t session complex(6session,1,physiotherapy
+437078,p.t session/region,1,physiotherapy
+437079,p.t(inr,2,lab_test
+437080,p.t-p.t,1,lab_test
+437082,p.t. class c x 6,1,lab_test
+437083,p.t. (inr,1,lab_test
+437084,p.t. 31006,1,lab_test
+437085,p.t. exercise at bedside,1,lab_test
+437086,p.t. session opd,1,physiotherapy
+437087,p.t.(i.n.r,1,lab_test
+437088,p.t.c and drainage,1,procedure
+437089,p.t.c and drainage ( percutanious tranhepatic cholangiogram ) + draine catheter,1,supplies
+437090,p.t.c removel,1,lab_test
+437091,p.t.c.a. (multi vessel,1,lab_test
+437092,p.t.c.a. (single vessel,1,lab_test
+437093,p.t.c.a.(using only a balloon) (single vessel,1,supplies
+437094,p.t.c.a.(using only a balloon)(double vessel,1,supplies
+437095,p.t.d's removal,2,procedure
+437096,p.t.d's removal (for one eye,1,supplies
+437098,p.t.d,1,lab_test
+437099,p.t.d. picking,1,lab_test
+437100,p.t.ds,1,lab_test
+437101,p.t.ds curretage,1,lab_test
+437102,p.t.ds picking,1,lab_test
+437103,p.t.h,3,lab_test
+437104,p.t.h ( parathyroid hormone,1,lab_test
+437106,p.t.k (excimer laser) both eyes/dr. 01 adel rushood,1,procedure
+437107,p.t.k (excimer laser) both eyes/dr. 38 somali abdulaziz,1,procedure
+437108,p.t.k (eximer laser) one eye,1,supplies
+437110,"p.t.t (partial thromboplastin time), plasma",1,lab_test
+437112,p.t.t-p.t.t,1,lab_test
+437114,p.t.t.k,1,lab_test
+437115,p.tt,1,other
+437116,p.u.t,1,lab_test
+437117,p.u.t x-ray 1 view,1,imaging
+437118,p.v.a. embolization (multiple vessel,1,procedure
+437119,p.v.a. embolization (multiple vessel) by interventional radiologist - 2 days pkg,1,procedure
+437120,p.v.a. embolization (single vessel,1,procedure
+437121,p.v.a. embolization (single vessel) by interventional radiologist - 2 days pkg,1,procedure
+437122,p.w&a synd-bld high resoulti study& fish,1,lab_test
+437123,p.test urine,1,lab_test
+437124,p/c line,1,other
+437125,p/mc-bifocal,1,eyewear
+437126,p/mc-single vision/high index,1,eyewear
+437127,p/mc-varilux,1,eyewear
+437128,p/p acrylic / visit i,1,consultation
+437129,p/p acrylic / visit ii,1,consultation
+437130,p/p acrylic / visit iii,1,consultation
+437131,p004,1,other
+437133,"p1 (basic screen fasting) glucose, na, k, cl, co2, bun, crea",1,lab_test
+437134,p101/01/51/17=polar,1,other
+437135,p102/04/52/15,1,other
+437136,p103/04/51/16,1,other
+437137,"p13 ( bone) pth, ca, phos, alk, alb",1,imaging
+437138,p168/brown/42,1,other
+437139,p1697,1,other
+437140,"p17 ( cardiac marker ) troponin i, cu-mb",1,lab_test
+437141,p1np(intact n-terminal propeptide of type 1 procollagen) - s.o,1,lab_test
+437142,"p2 (basic screen non fasting) glucose, na, k, cl, co2, bun, crea",1,lab_test
+437143,p2047-v/619/49,2,other
+437145,"p28, k-wire, smooth, 1.6 x 150mm, single,trocar, ss #p99-192-1615 -paragon 28 - usa",1,supplies
+437146,"p28-, k-wire, smooth o 1.6 x 150mm, single trocar, ss",1,supplies
+437147,p3,1,other
+437149,"p4 (liver profile ) bili t, alk, alb, ast, alt",1,lab_test
+437150,"p5 (cardiac enzymes ) ldh, cpk, ast",1,lab_test
+437151,p53 protein,1,lab_test
+437152,p586/03/52/18=polar,1,other
+437153,p586/05/52/18/sz,1,other
+437154,"p6 (tpn ) bun, na,k,cl,glucose, creatinine, bili t,alk,tp, alb,ca,phos, alt,chol,trig,gtp,mg",1,lab_test
+437155,p6-2/7,1,other
+437158,"p7 ( lipid) chol, trig,hdl,ldl,( direct",1,lab_test
+437159,p8157,1,other
+437160,p8165,1,other
+437161,p8260 f 56,1,other
+437162,p8328 a 56,1,other
+437163,p8343 a 5716,1,other
+437164,p8346 a 55,1,other
+437165,p8354 c 54,1,other
+437166,p8422,1,other
+437167,p8427,1,other
+437168,p8448,1,other
+437169,p8472,1,other
+437170,p9704b-ring cushion 1 piece,1,other
+437171,p;astic cylinder cast,1,supplies
+437172,pa chest 1 view,2,imaging
+437174,pa intra-oral x-ray dcn-03,1,imaging
+437175,pa intra-oral x-ray,1,imaging
+437176,pa intra-oralx-ray,1,imaging
+437177,pa intra-oralx-ray(dcn-03,1,imaging
+437180,paacetamol,1,other
+437201,pac endoscopic pan sinus operation,1,procedure
+437202,pacametry,1,other
+437203,pace maker,1,other
+437204,"pace maker dr, attesta sr mri, surscan ous-atsr01, ipg, (medtronic) # atsr01",1,imaging
+437205,pacel bip pacing cath 6f st jude 401767,1,supplies
+437206,pacemaker,1,supplies
+437207,pacemaker - external use/day,1,supplies
+437208,pacemaker analysis and reprograming,1,supplies
+437209,pacemaker analysis programming,1,supplies
+437210,pacemaker analysis reprograming,1,supplies
+437211,pacemaker dddr anti-mri w/sheath lead#bitronic,1,imaging
+437212,pacemaker dual chamber,1,supplies
+437213,pacemaker dual chamber mri compatible biotronic,1,imaging
+437214,pacemaker dual chamber w/lead flextend ingenio mri boston #j176dr,1,imaging
+437215,pacemaker evaluation & interrogation,1,supplies
+437216,pacemaker first day,1,supplies
+437217,pacemaker follow-up,1,supplies
+437218,pacemaker follow-up per day,1,supplies
+437219,pacemaker icd single chamber dx w/arterial diagnostics biotronik# 368852,1,supplies
+437220,pacemaker icd-crt-crtd battery exchange without device - 3 days pkg,1,supplies
+437221,"pacemaker implantation, permanent",1,supplies
+437222,pacemaker insertion (int,1,supplies
+437223,pacemaker insertion - dual chamber - without device,1,supplies
+437224,pacemaker insertion - single chamber (vv1) without device,1,supplies
+437225,pacemaker int.vvir w/lead introd.sigma medtronic #sesr01,1,supplies
+437226,pacemaker interrogation,1,supplies
+437228,"pacemaker, dual chamber, endurity, pm2162",1,supplies
+437229,"pacemaker, dual chamber, medtronic",1,supplies
+437230,"pacemaker, dual chamber, mri, biotronik etrinsa 6 dr, 394982",1,imaging
+437231,"pacemaker, leadless, micra, mc1vr01",1,supplies
+437232,"pacemaker, proponent, mri sr, boston scientific, l210",1,imaging
+437233,"pacemaker, single chamber, medtronic",1,supplies
+437234,pacemaker/ device check,1,supplies
+437235,pacepad electrod adult,1,other
+437236,pachimetry,1,other
+437237,pachometry - corneal,1,other
+437238,pachometry-both eye,1,other
+437239,pachymetry,4,diagnostic
+437240,pachymetry ( one eye,1,supplies
+437241,pachymetry (1 eye,2,diagnostic
+437242,pachymetry (one eye,2,supplies
+437243,pachymetry (routine,1,diagnostic
+437244,pachymetry - both eyes,1,diagnostic
+437245,pachymetry corneal screening corneal ring,1,lab_test
+437246,pachymetry for glaucoma screening,1,lab_test
+437247,pachymetry two eye,1,diagnostic
+437248,pachymetry two eyes,1,diagnostic
+437250,"pacifier small , , gnrl",1,other
+437251,pacififer clip - bf-134 a,1,supplies
+437252,pacing electrode 5 fr wo/balloon,1,eyewear
+437253,"pacing lead, temporary, 5fr, ballon, arrow, box/5, kimal, ai-07155vm",1,other
+437254,pack (ear/nose,1,supplies
+437255,"pack , cath-lab , disposable ,pennine health care , aum14200",1,supplies
+437256,"pack , cath-lab , disposable,----- , cpt-06706-076",1,supplies
+437257,"pack , extremity , sheet upper with fenestration- 020132010000500, , non",1,supplies
+437258,"pack , utility , drape with positioning tape,jmi , jf-dp2126 1-12842-0",1,supplies
+437259,"pack ,o.b.surgical sterile",1,supplies
+437260,pack basic surgical 3m # 9000,1,supplies
+437261,pack complt.f/ob-gyn w/impervious reinf.gowns ultragard#44854/228600-1,1,supplies
+437262,pack cystoscopy ii sterile disposable,1,supplies
+437263,pack disposable surgical delivery kits ob emergency,1,supplies
+437264,pack disposable surgical kits (c-section,1,supplies
+437265,pack f/craniotomy (neurosurgery) medset #m2p119-1,1,supplies
+437266,pack f/universal medset #m2p139-28,1,supplies
+437267,pack for angiography x-ray medset # m2p419-sgh,1,imaging
+437268,pack for eent surgical medset # m2p9129-2,1,supplies
+437269,pack for laparoscopy medset # m2p839-2,1,supplies
+437270,pack for lithotomy medset # m2p819-4,1,supplies
+437271,pack for major ophthalmic medset # m2p919-1,1,supplies
+437272,pack for ortho orthopedic hip medset # m2p729-4,1,supplies
+437273,pack for universal medset # m2p139-28,1,supplies
+437274,pack ice dispo. instant r&r tssc 1005,1,supplies
+437275,pack laparoscopy complete set pennine # aum-33800,1,supplies
+437279,pack ovum pick-up sterile disposable,1,supplies
+437280,pack rbcs trans,1,supplies
+437281,pack surgical arthroscopy sterile disposable,1,supplies
+437282,pack surgical basic iii sterile disposable,1,supplies
+437283,pack surgical cesarean c-section sterile disposable,1,supplies
+437284,pack surgical delivery sterile disposable,1,supplies
+437285,pack surgical eyes sterile disposable,1,supplies
+437286,pack surgical lithotomy i sterile disposable,1,supplies
+437287,pack surgical ortho lower extremity iii sterile disposable,1,supplies
+437288,pack surgical ortho upper extremity ii sterile disposable,1,supplies
+437289,pack surgical u sheet sterile disposable,1,supplies
+437290,"pack, arthroscopy,kimberly clark,88481-imc",1,supplies
+437291,"pack, basic,kimberly clark,88111-imc",1,supplies
+437292,"pack, c-section, large mayo cover&drape, kimberly, 88726/molnlycke, 97067855-00",1,supplies
+437293,"pack, cardiac, cath lab, pennine, xaum00300, kimal, sa-k52811, merit, k12t-09302, sa-k57034, pscc sa-k2098/2, enayah cpt 06706-331",1,supplies
+437294,"pack, centurion, fms 0.9mm, ultra bevel up w/ bss, alcon, 8065752201, 0007950176",1,supplies
+437295,"pack, extremity lower sheet w/ fenestration, , non",1,supplies
+437298,"pack, hazardous, coverall medium, enayah, e91981-04 /m20v-m",1,supplies
+437299,"pack, lithotomy, fenestrated barrier w/ pouch, kimberly clark,88521,imc",1,supplies
+437300,"pack, lower extremity, kimberly clark, 89276p",1,supplies
+437301,"pack, ob surgical, jamjoom, jm-p2351-imc",1,supplies
+437302,"pack, ortho iii (arthroscopy) # 88431",1,supplies
+437303,"pack,cold/hot 4*x10*(10x25cm)dual purpose ,china",1,supplies
+437304,"pack,cold/hot 4*x10*(10x25cm)dual purpose ,channelmed , cs-ch-1 250",1,supplies
+437305,"pack,ent,4 utility drapes, kimberly clark,88719,imc",1,supplies
+437306,package,1,other
+437307,"package - rotator cuff repair, unilateral",1,procedure
+437308,package - cystoscopy & retograde,1,procedure
+437309,package - diagnostic hysteroscopy,1,procedure
+437310,package - excision of breast mass,1,procedure
+437311,package - fess synoscopy for examination of paranasal,1,consultation
+437312,package - flexible urs + dj,1,other
+437313,package - insertion of ureteric stent,1,supplies
+437314,package - laparoscopy diagnostic,1,procedure
+437315,package - laser fiber use,1,procedure
+437316,package - meatoplasty,1,procedure
+437317,package - open appendectomy,1,procedure
+437318,package - removal of foreign body under ga,1,procedure
+437319,package - removal of foreign body under la,1,procedure
+437320,package - removal of ureteric stent,1,supplies
+437321,package - retrograde pyeloscopy,1,procedure
+437322,package - rezum,1,other
+437323,package -incision and drainag under g.a,1,procedure
+437324,package -ureteroscopy and extraction of stones,1,dental
+437325,package / private / day- per diem,1,consultation
+437326,package / semi-private / day / two bed- per diem,1,supplies
+437327,package 10 dressing + debridment,1,supplies
+437328,package 10 dressings simple,1,other
+437329,package accomodation -semi - private- day two bed per diem 1-3 days (670007,1,supplies
+437330,package accomodation / semi-private / day / two bed- per diem 4-7 days,1,supplies
+437331,package ceasarean section,1,other
+437332,package deal (6) sessions for manual therapy,1,physiotherapy
+437333,package deal therapeutic exercises 8 sessions,1,physiotherapy
+437334,package difference,1,other
+437335,package for 6 days (icu-ccu-nicu)1,1,consultation
+437336,package icu- per dime 1-3 days,1,consultation
+437337,package icu- per dime 1-3 days (670013,1,consultation
+437338,package icu- per dime 4-7 days,1,consultation
+437339,package icu/ccu/nicu per diem,1,consultation
+437340,package isolation room- per diem ->8 days,1,consultation
+437341,package isolation room- per diem 1-3 days,1,consultation
+437342,package isolation room- per diem 4-7 days,1,consultation
+437343,package normal delivery with no antenatal care including 1 ultrasound examination,1,imaging
+437344,package- a) surgical management anal fissure,1,procedure
+437345,package- abdominal pan-hysterectomy,1,procedure
+437346,package- adenoidectomy,1,procedure
+437347,package- anterior colpoperrineorrhaphy,1,other
+437348,package- appendectomy with laparoscopy,1,procedure
+437349,package- arthrodeasis of the big toe,1,other
+437350,"package- arthrodesis (knee, hip, tb",1,procedure
+437351,package- b) fissurectomy + spinoterotomy - poster,1,procedure
+437352,package- caesarian section with baby care,1,procedure
+437353,package- cervical cerclage,1,imaging
+437354,package- chalazion removal (small,1,procedure
+437355,package- circumsicion (over one year) under g.a,1,supplies
+437356,package- classical repair,1,procedure
+437357,package- close reduction of simple fracture & pop,1,supplies
+437358,package- closed reduction of dislocated phalanges,1,procedure
+437359,package- d&c histopathology,1,lab_test
+437360,package- drainage of abscess in neck,1,procedure
+437361,package- endoscopic polypectomy,1,procedure
+437362,package- excision of bartholin cyst,1,procedure
+437363,package- excision of lumps from neck and head,1,procedure
+437364,package- excision of malignant tumors and bone graft,1,imaging
+437365,package- excision of simple tumor or chronic abscess,1,procedure
+437366,package- excision of tubal (ectopic pregnancy,1,procedure
+437367,package- excision of uvula (1-2 days,1,procedure
+437368,package- grommets tube (bilateral,1,supplies
+437369,package- haemorrhoidectomy or pile under ga,1,procedure
+437370,package- high anal fistula branched anal fistula a,1,other
+437371,package- hydrocele,1,other
+437372,package- hysterectomy (vaginal or abdominal,1,procedure
+437373,package- incisional hernia with hernioplasty,1,procedure
+437374,"package- inguinal, umbilical, & femoral hernia",1,procedure
+437375,package- laparatomy with/without procedure,1,other
+437376,package- laparoscopic cholecystectomy,1,procedure
+437377,package- myomectomy,1,procedure
+437378,package- myringotomy + tube insertion,1,supplies
+437379,package- myringotomy and insertion of ear grommets 1 side,1,procedure
+437381,package- normal delivery + baby care,1,procedure
+437382,package- oopherectomy,1,procedure
+437383,package- open reduction & internal fixation,1,procedure
+437384,package- open reduction and internal fixation,1,procedure
+437385,package- operation for carpal tunnel syndrome,1,procedure
+437386,package- ovarian cystectomy,1,procedure
+437387,package- partial thyroidectomy with histopathology,1,lab_test
+437388,package- perianal abscess ( under general anaesthesia,1,procedure
+437389,package- pilonidal sinus,1,procedure
+437390,package- plate removal screw or nails,1,supplies
+437391,package- polypectomy fract. curretage,1,procedure
+437392,package- post haemorrhoidectomy stricture anus,1,procedure
+437393,package- posterior colpoperriniorrhaphy,1,other
+437394,package- recurrent hernia (plastic repair,1,eyewear
+437395,package- removal of implants/small or large,1,supplies
+437396,package- repair of ruptured superficial ligament,1,procedure
+437397,package- septoplasty,1,procedure
+437398,package- simple low anal fistula,1,other
+437399,package- tendon release of fingers or wrist,1,procedure
+437400,package- tonsillectomy with or without adenoidectomy,1,procedure
+437401,package- total knee replacement,1,other
+437402,package- total thyroidectomy,1,procedure
+437403,package- turbinectomy,1,procedure
+437404,package- tympanoplasty,1,procedure
+437405,package- undescended testes within & outside inguinal,1,other
+437406,package- ureterolithotomy (middle/ lower 1/3,2,procedure
+437408,package- vaginal polypectomy,1,procedure
+437409,package- varicoceles,1,other
+437410,package- varicose veins stripping,1,procedure
+437411,package-excision of lipoma under ga,1,procedure
+437412,package-excision of lipoma under la,1,procedure
+437413,package-excision of swelling of any part g.a,1,procedure
+437414,package-excision of swelling of any part in or l.a,1,procedure
+437415,package-fissurectomy,1,procedure
+437416,package-gastroscopy + conscious sedation,1,procedure
+437417,"package-inguinal, umbilical herniorraphy",1,other
+437418,package-lap inguinal hernioplasty,1,procedure
+437419,"package-percutaneous nephrolithotomy-pcnl, unilateral",1,procedure
+437420,package-total colonoscopy,1,procedure
+437421,packed .rbc,1,lab_test
+437422,packed cells,1,other
+437423,"packed cells (red blood cells, each unit",1,lab_test
+437425,packed rbc,2,lab_test
+437426,packed rbc - crossmatch,1,lab_test
+437427,packed rbc (prbc) each unit,1,lab_test
+437429,packed rbc transfusion,1,lab_test
+437430,packed rbc's moh service,1,lab_test
+437432,packed rbc/unit,1,lab_test
+437433,packed rbcs,3,other
+437435,packed red blood cell (prbc,1,lab_test
+437436,packed red blood cell aliquot (testing & supervision,1,lab_test
+437437,packed red blood cells,1,lab_test
+437438,packed red blood cells (testing and supervision,1,lab_test
+437439,packed red blood cells per unit,1,lab_test
+437440,packed red blood cells per unit (including processing,1,lab_test
+437441,packed red blood cells rh neg,1,lab_test
+437442,packed red blood cells rh pos,1,lab_test
+437443,packed red blood cells rh pos. unit,1,lab_test
+437444,packed red cells unit (leuco-reduced,2,other
+437445,packed red cells-one unit,1,supplies
+437446,packing a unit of blood,1,lab_test
+437448,packing nose / ear,1,procedure
+437449,packing nose for arrest of haemorrhage,1,procedure
+437450,packing of both ear,1,procedure
+437451,packing of cavity of nose (as sole procedure,1,procedure
+437452,packing of ear (including bilateral,1,procedure
+437453,packing of ears,1,procedure
+437454,packing of ears-simple,1,procedure
+437455,packing of external auditory canal,2,dental
+437458,packing of nose,1,procedure
+437459,packing of nose / ears,3,procedure
+437460,packing of nose / ears (two,1,procedure
+437461,packing of nose / ears in opd,1,procedure
+437462,packing of nose /ears,1,procedure
+437463,packing of nose anterior,1,procedure
+437464,packing of nose ears,1,procedure
+437465,packing of nose or ears,2,procedure
+437466,packing of nose-ear,1,procedure
+437467,packing of nose/anterior,1,procedure
+437468,packing of nose/ear,2,procedure
+437470,packing of nose/ears - ins,1,procedure
+437471,packing of nose/ears(elastic bandage,1,supplies
+437474,packing of nose/earspacking of nose/ears,1,procedure
+437475,packing of nose/eras -453,1,procedure
+437476,packing of noseears,1,procedure
+437477,packing of one ear,1,supplies
+437478,packing on nose / ears,1,procedure
+437479,packing strip 1* x 5 yrd,2,supplies
+437481,packing strips 2* x 5 yrd,1,supplies
+437482,packymetry,1,other
+437506,paco rabannepr-4033 942 (00.00,1,other
+437507,paco rabannepr-4049s 502=5/200,1,other
+437508,paco rabannexs-865 mix (52.00,1,other
+437509,paco rabannexs-879 mix (53.00,1,other
+437510,paco rabannexs-896 783=01/2007,1,other
+437512,pad defibrilator multifunction,1,supplies
+437513,pad defibrillator electrode quick combo (adult or pediatric) - per each,1,supplies
+437514,pad dispersive adult w/ cable 400-2100,1,supplies
+437515,pad drainage suprasorb #33600,1,supplies
+437516,pad eye sterile,1,supplies
+437517,pad eye-5x7.5cm-per pcs,1,supplies
+437518,pad maternity,1,supplies
+437519,pad maternity 20's,1,supplies
+437520,pad maternity big size,2,supplies
+437522,pad maternity large non-sterile,1,supplies
+437523,pad rem polyhesive 9 (2.7mtrs) adult disposable covidien #e7507,1,supplies
+437524,pad sanitary hospital std.ard,1,supplies
+437525,"pad, adult, dispo,""defibrillation",1,supplies
+437526,"pad, burn, str, 30x30cm, m2bp3030",1,supplies
+437527,"pad, burn, str, 45x45cm, m2bp4545",1,supplies
+437528,"pad, fam, wings, maxi",1,supplies
+437529,"pad, incontinent 60cm x 90 cm",1,supplies
+437530,"pad, maternity unsterile 40cm",1,supplies
+437531,"pad,eye med.sterile",1,supplies
+437532,"pad,eye sterile 56mmx70mm, box 150 pads,damad,415460 3",1,supplies
+437533,pad/short colonoscopy blue tnt,1,supplies
+437534,padd. natural orthopaedic 10cm x 2.7m (soffban) (s&n 7224,1,other
+437535,padd. natural orthopaedic 15cm x 2.7m (soffban) (s&n 7225,1,other
+437536,padd. natural orthopaedic 20cm x 2.7m (soffban) (s&n 7226,1,other
+437537,padd. natural orthopaedic 5cm x 2.7m (soffban) (s&n 7222,1,other
+437538,padd. natural orthopaedic 7.5cm x 2.7m (soffban) (s&n 7223,1,other
+437539,padding natural orthopedic 15cm x 2.7m (soffban,1,other
+437540,padding natural orthopedic 7.5cm*2.7m(soffban,1,other
+437541,padding orthopaedic 20cmx2.7m # 932-051,1,other
+437542,paddingnaturalorthopeadic 10cm*2.7m(soffban,1,other
+437543,paddingnaturalorthopeadic 5cm*2.7m(soffban,1,other
+437544,padgett dermatome blade,1,supplies
+437545,padiatric consultation,2,consultation
+437549,pads eye sterile5.5x7 5cm,1,supplies
+437550,pads incontinence,1,supplies
+437551,pads zoll defibrillator adult disposable #f7951,1,supplies
+437552,"pads, adhesive, remover, medline, msd090855 / convatec, 37443",1,supplies
+437553,"pads,sanitary for postnatal (relax) [contract",1,supplies
+437554,paed. bilateral herniotomy,1,procedure
+437555,paed. blood +ve,1,lab_test
+437556,paed. meatoplasty,1,procedure
+437557,paediatric,1,other
+437558,paediatric audiometry (5 years old and younger,1,diagnostic
+437559,paediatric check up specialist,1,consultation
+437560,paediatric consultant,1,consultation
+437561,paediatric consultant consultatio,1,consultation
+437562,paediatric consultation,2,consultation
+437563,paediatric consultation (specialist,1,consultation
+437564,paediatric consultation - consultant,1,consultation
+437565,paediatric consultation(in-pt,1,consultation
+437566,paediatric echocardiography (pe,1,imaging
+437567,paediatric echocardography,1,other
+437568,paediatric obesity profile,1,lab_test
+437569,"paediatric obesity profile( cortisol, free t4, tsh",1,lab_test
+437570,paediatric registrar,1,other
+437571,paediatric sheet.#89241,2,other
+437573,paediatric specialist,1,consultation
+437574,paediatric specialist consultation,1,consultation
+437575,paediatric specilist,1,other
+437576,paediatric surgery consultation,1,procedure
+437577,paediatric thin barium meal,1,imaging
+437578,paediatric thin barium swallow,1,imaging
+437579,paediatric ward,1,other
+437580,paediatric ward (dr. visit + nursing care+bed charge+ daily disposables,1,supplies
+437581,paediatric ward (per day,1,other
+437582,paediatrician,2,other
+437583,paediatrician fee (normal delivery,1,procedure
+437584,paediatrics fee-consultant,1,consultation
+437585,paediatrics fee-consultant(10023,1,consultation
+437586,paediatrics fee-specialist 1st,2,consultation
+437588,paediatrics fee-specialist 1st(10024,1,consultation
+437589,paedo - space maintainers fixed unilateral,1,other
+437590,paerdiatrician,1,other

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+391932,nicu first week,1,consultation
+391933,nicu first week (sr/day) n.1,2,consultation
+391934,nicu first week per day,1,consultation
+391935,nicu first week(per day,1,consultation
+391936,nicu fourth week per day,1,consultation
+391937,nicu from 7 th day onwards,1,consultation
+391939,nicu from day 10 onwards,1,consultation
+391940,nicu from day 10 onwards/each,1,consultation
+391941,nicu from day 5 onwards,1,consultation
+391942,nicu i 24 hrs - nbc12,1,consultation
+391943,nicu i 24 hrs - nicu1,1,consultation
+391944,nicu i 24 hrs - nicu10,1,consultation
+391945,nicu i 24 hrs - nicu11,1,consultation
+391946,nicu i 24 hrs - nicu12,1,consultation
+391947,nicu i 24 hrs - nicu13,1,consultation
+391948,nicu i 24 hrs - nicu14,1,consultation
+391949,nicu i 24 hrs - nicu2,1,consultation
+391950,nicu i 24 hrs - nicu6,1,consultation
+391951,nicu i 24 hrs - nicu8,1,consultation
+391952,nicu i 24 hrs - ticu2,1,consultation
+391953,nicu i 24 hrs- nicu3,1,consultation
+391954,nicu i 24 hrs. - nicu13,1,consultation
+391955,nicu i 24 hrs. - nicu2,1,consultation
+391956,nicu i 24 hrs. - ticu2,1,consultation
+391957,nicu ii 24 hrs (incubator,1,consultation
+391958,"nicu ii 24 hrs.(incubator, p-oximeter, c. mon. o2+hood",1,supplies
+391959,nicu incubator per day,1,consultation
+391960,nicu intermediate care (crib,1,consultation
+391961,nicu intermediate care (crib) (baby incubator+ medical care+nursing care+daily disposables,1,consultation
+391962,nicu intermediate care -level 2,1,lab_test
+391963,nicu intermediate care fee / day w/oxygen,2,supplies
+391964,nicu intermediate care fee / day w/medical equipments,1,consultation
+391965,"nicu level 1 - feeding & growing on cardiac monitor ngt or ogt, phototherapy without iv fluid",1,lab_test
+391967,"nicu level 3 - cpap, ventilator, post surgical 1st 24 hours, post cardiac cath ventilated, post cardiac surgery ventilated",1,lab_test
+391968,nicu medical supervision,1,consultation
+391969,nicu nurse care fee/day,1,consultation
+391970,nicu nurse care feeday,1,consultation
+391971,nicu nursing care,1,consultation
+391972,nicu nursing care per day,1,consultation
+391973,nicu nursing fee well baby,1,consultation
+391974,nicu nursing for 24 hours,1,consultation
+391975,nicu nyh,1,consultation
+391976,nicu nursing services,1,consultation
+391977,nicu on oxygen /day,1,supplies
+391978,nicu one day,1,supplies
+391979,nicu one day without ventilator (m.o.h,1,supplies
+391980,nicu package (4th - 7 day,1,consultation
+391981,nicu package first 3 days,1,consultation
+391982,nicu package from day 10 onwards,1,consultation
+391983,nicu package from day 8 onwards,1,consultation
+391984,nicu package second 3 days,1,consultation
+391985,nicu package third 3 days,1,consultation
+391986,nicu per day package,1,consultation
+391987,nicu per day with ventilation,1,consultation
+391988,nicu per day without ventilator,2,supplies
+391989,nicu per diem(1st to 3rd day,1,consultation
+391990,nicu per/day with ventilator,2,supplies
+391991,nicu perdiem,1,consultation
+391992,nicu picu first 3rd day,1,consultation
+391993,nicu picu 8th day onwards,1,consultation
+391994,nicu picu 4th 7th day,1,consultation
+391995,nicu picu (4th day onwards,1,consultation
+391996,nicu picu (first to 3rd day,1,consultation
+391997,nicu picu - daily rate,1,consultation
+391998,nicu picu 1st week,1,consultation
+391999,nicu picu 2nd week,1,consultation
+392000,nicu picu 3rd week onwards,1,consultation
+392001,nicu room / day,1,consultation
+392002,nicu room and board,2,consultation
+392003,nicu room charges,1,consultation
+392004,nicu room per day,1,consultation
+392005,nicu rate/day,1,consultation
+392006,nicu room accomedation,1,consultation
+392008,nicu second week,1,consultation
+392009,nicu second week per day,1,consultation
+392010,nicu second week(per day,1,consultation
+392011,nicu sucking and swallowing evaluation,1,consultation
+392012,nicu supplies,1,consultation
+392013,nicu services - ventilation per day,1,consultation
+392014,nicu supervision,1,consultation
+392015,nicu tcs per day,1,consultation
+392016,nicu third week,1,consultation
+392017,nicu third week and on wards bupa,1,consultation
+392018,nicu third week onwards,1,consultation
+392019,nicu third week per day,1,consultation
+392020,nicu third week(per day,1,consultation
+392021,nicu treatment team visit/day,1,consultation
+392022,nicu ventilator charges/day,1,supplies
+392023,nicu with bubble cpap per day,1,supplies
+392024,nicu with isolation per day with ventilation,1,consultation
+392025,nicu with ventilation per day,1,consultation
+392026,nicu with ventilator,1,supplies
+392027,nicu without vent,1,consultation
+392028,nicu without ventilation,1,consultation
+392029,nicu admissi n 3rd & 4th days,1,consultation
+392030,nicu admission (1st-2nd day) per diem,1,consultation
+392031,nicu admission (3rd - 4th day) per diem,1,consultation
+392032,nicu admission (5th day) on ward per diem,1,consultation
+392033,nicu admission 1'1 & 2nd days,1,consultation
+392035,nicu admission 1st days,1,consultation
+392036,nicu admission 1st or 2nd days,1,consultation
+392037,nicu admission 1st&2nd days,1,consultation
+392039,nicu admission 3rd& 4th days,1,consultation
+392040,nicu admission 3rd&4th days,1,consultation
+392042,nicu admission 5th day& onforward,1,consultation
+392043,nicu admission request,1,consultation
+392044,nicu excluding consumables - medical care,1,consultation
+392045,nicu excluding consumables - nursing care,1,consultation
+392046,nicu for 1 day,1,consultation
+392047,nicu observation,1,consultation
+392049,nicu room&board,1,consultation
+392050,nicu with mechanical ventilator/day,1,supplies
+392053,nicu(4th to 7th day)(sr 1500 x days,1,consultation
+392054,nicu(4th to 7th day)(sr 1500 x days) undefined,1,consultation
+392055,nicu(frist-3rd day,1,consultation
+392056,nicu(from4-7 day,1,consultation
+392057,nicu(from8-wards,1,consultation
+392058,nicu(sr 2000 x days,1,consultation
+392059,nicu-intermediate care,1,consultation
+392060,nicu-isolation,1,consultation
+392061,nicu-medical supervision,1,consultation
+392062,nicu/day + nursing,1,consultation
+392063,nicu/day+nursing care+monitors(package,1,consultation
+392064,nicu/picu ( first 3rd day,2,consultation
+392065,nicu/picu ( first ? 3rd day,1,consultation
+392066,nicu/picu (8th day onwards,1,consultation
+392067,nicu/picu ( 1st to 3rd day,2,consultation
+392069,nicu/picu ( 4th to 7th day,2,consultation
+392072,nicu/picu (11th day onwards,1,consultation
+392073,nicu/picu (1st - 5th day,1,consultation
+392074,nicu/picu (2nd week,1,consultation
+392075,nicu/picu (4th 7th day,1,consultation
+392076,nicu/picu (6th - 10th day,1,consultation
+392077,nicu/picu (8th day on wards including ltc,1,consultation
+392078,nicu/picu (first week,1,consultation
+392079,nicu/picu (first 3rd day,1,consultation
+392080,nicu/picu admission 1st & 2nd day,1,consultation
+392081,nicu/picu admission 1st to 3rd day,1,consultation
+392082,nicu/picu admission 3rd & 4th day,1,consultation
+392083,nicu/picu admission 4th to 7th day,1,consultation
+392084,nicu/picu admission 5th day onwards,1,consultation
+392085,nicu/picu admission 8th day onwards including ltc,1,consultation
+392086,nicu/picu admission 8thday onwards,1,consultation
+392087,nicu/picu package from day 10 onwards,1,consultation
+392088,nicu/picu per diem (1st-3rd day,1,consultation
+392089,nicu1e,1,other
+392090,nicu1st-2nd days,1,other
+392091,nicubed2fday,1,other
+392092,nidazole 500 30tab,1,other
+392128,nifuroxazide,1,other
+392134,night gaurd,1,other
+392135,night grd/occlusal splint hard,1,supplies
+392136,night grd/occlusal splint soft,1,supplies
+392137,night guard,2,other
+392138,night guard ( soft,1,other
+392139,night guard per arch,2,dental
+392140,night guard upper&lower,1,other
+392141,night guard w/flat plane(hard,1,other
+392142,night gurd u/l,1,other
+392143,night splint,2,supplies
+392144,night splint (mafsal,1,supplies
+392145,night splint m,1,supplies
+392146,night splint xl,1,supplies
+392147,nihal ibrahimelhassan,1,other
+392148,niicu/picu (8th day on wards including ltc,1,other
+392149,nik 03,1,other
+392150,nike - ni7102,1,eyewear
+392151,nike - nik5567c210,1,eyewear
+392152,nike 5016,1,eyewear
+392153,nike 7065,1,eyewear
+392154,nike 7082,1,eyewear
+392155,nike fr p005 c1,1,eyewear
+392159,nike nk001,1,eyewear
+392160,nike o - n7101c001,1,eyewear
+392161,nike o - n7240c001,1,eyewear
+392162,nike- ni-5030-f,1,eyewear
+392163,nike- ni-5032-f,1,eyewear
+392164,nike/3041/211/48/f,1,eyewear
+392165,nike/4101/505/52/f,1,eyewear
+392166,nike/4162/070/52/f,1,eyewear
+392167,nike/4163/001/51/f,1,eyewear
+392168,nike/4179/023/52/f,1,eyewear
+392169,nike/4202/007/52/f,1,eyewear
+392170,nike/4203/69/f,1,eyewear
+392171,nike/4225/001/f,1,eyewear
+392172,nike/4225/13/f,1,eyewear
+392173,nike/4225/200/f,1,eyewear
+392174,nike/4250/001/f,1,eyewear
+392175,nike/4257/004/f,1,eyewear
+392176,nike/4259/001/f,1,eyewear
+392177,nike/4259/235/f,1,eyewear
+392178,nike/4671/075/f,1,eyewear
+392179,nike/4671/441/f,1,eyewear
+392180,nike/4674/004/f,1,eyewear
+392181,nike/4674/200/f,1,eyewear
+392182,nike/4674/209/f,1,eyewear
+392183,nike/5565/050/f,1,eyewear
+392184,nike/5565/215/f,1,eyewear
+392185,nike/5566/001/f,1,eyewear
+392186,nike/5566/079/f,1,eyewear
+392187,nike/5566/088/f,1,eyewear
+392188,nike/5566/248/f,1,eyewear
+392189,nike/6042/069/f,1,eyewear
+392190,nike/6042/205/f,1,eyewear
+392191,nike/6044/1/014/f,1,eyewear
+392192,nike/7003/424/51/f,1,eyewear
+392193,nike/7004/403/51/f,1,eyewear
+392194,nike/7065/001/f,1,eyewear
+392195,nike/7065/18/f,1,eyewear
+392196,nike/7070/035/f,1,eyewear
+392197,nike/7071/1/070/f,1,eyewear
+392198,nike/7071/1/071/f,1,eyewear
+392199,nike/7071/1/078/f,1,eyewear
+392200,nike/7085/82/f,1,eyewear
+392201,nike/7100/04/010/f,1,eyewear
+392202,nike/7100/3/050/f,1,eyewear
+392203,nike/7201/603/f,1,eyewear
+392204,nike/7204/1/f,1,eyewear
+392205,nike/7204/10/f,1,eyewear
+392206,nike/7204/61/f,1,eyewear
+392207,nike/7205/001/53/f,1,eyewear
+392208,nike/7210/22/f,1,eyewear
+392209,nike/7210/220/f,1,eyewear
+392210,nike/7210/437/f,1,eyewear
+392211,nike/7210/449/f,1,eyewear
+392212,nike/7214/270/f,1,eyewear
+392213,nike/7220/10/f,1,eyewear
+392214,nike/7230/10/f,1,eyewear
+392215,nike/8005/210/52/f,1,eyewear
+392216,nike/8027/315/f,1,eyewear
+392217,nike/8027/60/f,1,eyewear
+392218,nike/8061/027/f,1,eyewear
+392219,nike/8061/051/f,1,eyewear
+392220,nike/8061/206/f,1,eyewear
+392221,nike/8064/002/f,1,eyewear
+392222,nike/8064/012/f,1,eyewear
+392223,nike/8064/409/f,1,eyewear
+392224,nike/8073/016/f,1,eyewear
+392225,nike/8073/22/f,1,eyewear
+392226,nike/8073/95/f,1,eyewear
+392227,nike/8076/001/f,1,eyewear
+392228,nike/8078/400/f,2,eyewear
+392230,nike/8085/200/f,1,eyewear
+392231,nike/8107/65/f,1,eyewear
+392232,nike/8201/062/f,1,eyewear
+392233,nike/8201/063/f,1,eyewear
+392234,nike/8208/33/f,1,eyewear
+392235,nike/8221/001/f,1,eyewear
+392236,nike/8221/250/f,1,eyewear
+392237,nike/8222/415/f,1,eyewear
+392243,nike4250/241/53/f,1,other
+392244,nike4258/023/53/f,1,other
+392245,nike4262/009/52/f,1,other
+392246,nike4262/035/52/f,1,other
+392247,nike4307/212/f/20,1,other
+392248,nike4671/200/f,1,other
+392249,nike50046004917,1,other
+392250,nike5565/215/f,1,other
+392251,nike5566/088/f,1,other
+392252,nike5566/248/45/f,1,other
+392253,nike7070/1/011/56/f,1,other
+392254,nike7091/011/f,1,other
+392255,nike7103/312/f,1,other
+392256,nike7104/030/f,1,other
+392257,nike7239/200/55/f,1,other
+392258,nike7242/002/f,1,other
+392259,nikko/nk2007/05/40/f,1,other
+392260,nikko/nk2007/06/42/f,1,other
+392261,nikko/nk2008/07/42/f,1,other
+392262,nikon,2,eyewear
+392263,nikon (1.5) hcc,1,eyewear
+392264,nikon 1.50,1,eyewear
+392265,nikon 1.60,1,eyewear
+392266,nikon 1.60 blue,2,eyewear
+392267,nikon 1.67,1,eyewear
+392268,nikon as 1.5 scc plus,1,eyewear
+392269,nikon as 1.6 scc plus,1,eyewear
+392270,nikon as 1.67 hcc,1,eyewear
+392271,nikon as 1.67 scc plus,1,eyewear
+392272,nikon as 1.74 hcc,1,eyewear
+392273,nikon classic 1.5 hcc,1,eyewear
+392274,nikon classic 1.5 transitions,1,eyewear
+392275,nikon classic 1.6 hcc,1,eyewear
+392276,nikon classic 1.67 hcc,1,eyewear
+392277,nikon fsv 1.50 hcc,1,eyewear
+392278,nikon fsv 1.50 sc+uv,1,eyewear
+392279,nikon fsv 1.50 trans brown hcc,1,eyewear
+392280,nikon fsv 1.59 hcc,1,eyewear
+392281,nikon fsv 1.60 hcc,1,eyewear
+392282,nikon hcc 1.5 - 3.00 : 2.00,1,eyewear
+392283,nikon hcc 1.5 rx - 9.50 : 6.00,1,eyewear
+392284,nikon hcc 1.59 - 4.00 : 2.00,1,eyewear
+392285,nikon hcc 1.6 - 4.00 : 2.00,1,eyewear
+392286,nikon hcc 1.6 rx - 11.50 : 6.00,1,eyewear
+392287,nikon myop see 1.60 see coat plus,1,eyewear
+392288,nikon myop see 1.67 see coat plus,1,eyewear
+392289,nikon myop see 1.74 see coat plus,1,eyewear
+392290,nikon presio 14 1.5 hcc,1,eyewear
+392291,nikon presio i (14) 1.5 hcc,1,eyewear
+392292,nikon presio i(13/15) 1.5,1,eyewear
+392293,nikon progrseive,1,eyewear
+392294,nikon presio 12/14 1.5 go hcc airmark,1,eyewear
+392295,nikon presio 12/14 1.5 go sc blue,1,eyewear
+392296,nikon presio 12/14 1.5 go sc plus,1,eyewear
+392297,nikon presio balance 1.5 hcc airmark,1,eyewear
+392298,nikon presio balance 1.5 sc blue,1,eyewear
+392299,nikon presio balance 1.5 sc plus,1,eyewear
+392300,nikon presio balance 1.60 sc blue uv,1,eyewear
+392301,nikon presio balance 1.60 sc plus uv,1,eyewear
+392302,nikon presio digilife 1.60 hcc uv airmark,1,eyewear
+392303,nikon presio digilife 1.67 sc blue uv,1,eyewear
+392304,nikon rx 1.5 hcc,1,eyewear
+392305,nikon rx 1.5 scc plus,1,eyewear
+392306,nikon rx 1.6 as hcc,1,eyewear
+392307,nikon rx 1.67 as hcc,1,eyewear
+392308,nikon rx 1.74 as hcc,1,eyewear
+392309,nikon see coat 1.5 blue,1,eyewear
+392310,nikon see coat 1.5 next,1,eyewear
+392311,nikon see max 1.59 see coat plus,1,eyewear
+392312,nikon see max 1.60 see coat plus,1,eyewear
+392313,nikon see max 1.67 see coat plus,1,eyewear
+392314,nikon seecoat blue 1.5 - 4.00 : 2.00,1,eyewear
+392315,nikon sv 1.5 classic hcc,1,eyewear
+392316,nikon sv 1.5 classic hcc airmark,1,eyewear
+392317,nikon sv 1.5 classic sc blue,1,eyewear
+392318,nikon sv 1.59 polycarbonate moving hcc uv,1,eyewear
+392319,nikon sv 1.60 as lite sc blue uv,1,eyewear
+392320,nikon sv 1.60 classic hcc uv,1,eyewear
+392321,nikon sv 1.60 classic hcc uv airmark,1,eyewear
+392322,nikon sv 1.67 zen hcc uv,1,eyewear
+392323,nikon sv 1.67 zen hcc uv airmark,1,eyewear
+392324,nikon sv 1.74 zen hcc uv,1,eyewear
+392325,nikon sv seemax 1.60 sc blue uv,1,eyewear
+392326,nikon sv seemax 1.60 sc blue uvnikon sv seemax 1.60 sc blue uv,1,eyewear
+392327,nikon sv seemax 1.74 sc blue uv,1,eyewear
+392341,nimenrix,2,other
+392348,nimenrix meningococcal conjugat c v,1,lab_test
+392352,nimenrix vaccin,1,other
+392368,nims - intraoperative nerve monitoring systems,1,consultation
+392369,nina ricci,1,other
+392370,nina ricci - nr3512,1,other
+392373,ninaricci vnr292 co 0700 52-17-135 fr,1,eyewear
+392374,ninaricci vnr292 co 0722 52-17-135 fr,1,eyewear
+392376,nine frm fp-2007,1,eyewear
+392377,ningbo alcohol swab 200's,1,lab_test
+392386,niox test (feno test for allergic asthma,2,lab_test
+392388,nioxmino-per session,1,physiotherapy
+392389,nipple,2,other
+392390,nipple and areola sparing mastectomy -1 day pkg,1,procedure
+392391,nipple for milk special care,1,nutrition
+392392,nipple for premature rtf milk pc/ 1,1,nutrition
+392393,nipple for rtf milk pc/ 1,1,nutrition
+392394,nipple green f/ oxygen flow meter ohio #fm-swivel-g,1,supplies
+392395,nipple similac free,1,nutrition
+392396,nipple sparing mastectomy (simple) with reconstruction by tissue expander - 5 days pkg,1,procedure
+392397,nipples,1,other
+392398,nipples (s26 rtf,1,nutrition
+392399,nipples (similac rtf,1,nutrition
+392400,nipples for blemil plus 1 rtf,1,nutrition
+392401,nipples for rtf,1,other
+392403,nipt,1,other
+392404,"nipt (basic)10m, singleton",1,other
+392405,"nipt (non invasive prenatal test) 5 chromocomes (21, 18, 13, x and y",1,lab_test
+392406,"nipt (non invasive prenatal test)- nace, 24 chromosomes",1,lab_test
+392407,"nipt (non invasive prenatal test)- nace, 24 chromosomes extended and 6 extra microdeletions (digeorge,angelman, prader-willi, 1p36 deletion,wolf-hirschhorn andcri-du-chat",1,lab_test
+392408,nipt (non-invasive pre-natal testing,1,lab_test
+392409,nipt (non-invasive prenatal test,1,lab_test
+392410,"nipt (plus), singleton",1,other
+392411,nipt - (non-invasive pre-natal testing,1,lab_test
+392412,nipt non invasive prenatal testing,1,lab_test
+392413,nipt- non invasive prenatal testing ( baby safe,2,lab_test
+392415,nipt-eml - s.o,1,lab_test
+392418,nisreen hamza abdalla ali,1,other
+392419,nissen fundoplication,2,other
+392420,nissen fundoplication (open)- 2 days pkg,1,other
+392422,nissen fundoplication-laparoscopic,1,procedure
+392423,nissen s fundoplication->c44.66,1,other
+392426,nitravetrial nijection procedure (left eye,1,other
+392427,nitravetrial nijection procedure (right eye,1,other
+392428,nitrci oxide machine charge per 24hrs,1,supplies
+392429,nitric oxide delivery kit for inosys sle# bc4110,1,procedure
+392430,nitric oxide (per 12 hours,1,other
+392431,nitric oxide administration per day,2,consultation
+392432,nitric oxide hourly,1,other
+392435,nitric oxide machine per hour,1,supplies
+392436,nitril gloves medium,1,supplies
+392437,nitril gloves small-hospital,1,supplies
+392438,nitrile exam gloves (large,1,supplies
+392439,nitrile exam gloves (medium,1,supplies
+392440,nitrile exam gloves (small,1,supplies
+392441,nitrile examination gloves medium,1,supplies
+392442,nitrile examination gloves pf-large,1,supplies
+392443,nitrile gloves large,1,supplies
+392444,nitrile gloves large sl#cb,1,supplies
+392445,nitrile gloves medium,1,supplies
+392446,nitrile gloves medium sl#cb,1,supplies
+392447,nitrile gloves small,1,supplies
+392448,"nitrile gloves, large",1,supplies
+392449,"nitrile gloves, medium",1,supplies
+392450,"nitrile gloves, small",1,supplies
+392451,"nitrile gloves, xl",1,supplies
+392458,nitroderm patch,1,supplies
+392459,nitroderm patch10mg,1,other
+392462,"nitroderm tts 10 transdermal patch, 10 patch/box",2,supplies
+392464,nitroderm tts 10 10syste,1,other
+392474,nitroderm tts 10 ptc 10s,1,other
+392475,nitroderm tts 10 system,1,other
+392483,"nitroderm tts 5 transdermal patch, 10 patch/box",2,supplies
+392485,nitroderm tts 5 10syste,1,other
+392492,nitroderm tts 5 patch,1,supplies
+392493,nitroderm tts 5 patch (b/10,2,supplies
+392519,"nitroderm tts 5 transdermal patch, 30 patch/box",2,supplies
+392520,nitroderm tts 5 x 10 patch,1,supplies
+392538,nitroderm tts-10 10 system,1,other
+392539,nitroderm tts-10 system,3,other
+392541,nitroderm tts-10 system - 10 topical,1,other
+392544,nitroderm tts-10 system vol: cocentrate: mg unit:10 box,1,other
+392545,nitroderm tts-10 system. (glyceryl trinitrate,1,other
+392548,nitroderm tts-5 10 system,2,other
+392550,nitroderm tts-5 30 patch,1,supplies
+392551,nitroderm tts-5 30 system,3,other
+392558,nitrodermpatch,1,other
+392560,nitrofurantion,1,other
+392596,nitrogen liquid,1,other
+392597,nitrogen liquid chemical cauterisation per session 10 warts,1,physiotherapy
+392598,nitrogen liquid chemical cauterisation per session 3 warts,1,physiotherapy
+392599,nitrogen liquid chemical cauterisation per session 5 warts,1,physiotherapy
+392600,nitrogen oxide,1,other
+392602,nitroglicerina 12 ampoules,1,other
+392651,nitroglycerine ampule,1,other
+392669,nitrous mask,1,supplies
+392670,nitrous oxide,3,other
+392671,nitrous oxide sedation per an hour or any part from the hour,1,procedure
+392672,nitrous oxide (n2o/30 mins,1,other
+392673,nitrous oxide + o2 per hour,1,other
+392674,nitrous oxide + o2 per mml,1,other
+392675,nitrous oxide conscious sedation,1,procedure
+392676,nitrous oxide for one hour,1,supplies
+392677,nitrous oxide inhal./day,2,other
+392679,nitrous oxide inhal./half day,1,other
+392680,nitrous oxide machine for nicu per hour,1,supplies
+392681,nitrous oxide per hour,1,other
+392683,nitrous oxide sedation dental 30 min,1,dental
+392684,nitrous oxide sedation dental 60 min,1,dental
+392685,nitrous oxide sedation for first hour,1,procedure
+392686,nitrous oxide service,1,other
+392687,nitrouse oxide hour,1,other
+392689,niv (non-invasive ventilation) therapy,1,physiotherapy
+392690,"niv mask, medium",1,supplies
+392691,"niv mask, petite",1,supplies
+392692,"niv mask, small",1,supplies
+392693,"niv mask, xsmall",1,supplies
+392694,niv noninvasive ventilation therapy,1,physiotherapy
+392695,niv- mechanical ventilator - per hour,1,supplies
+392707,nivin said elhakim mahrous,1,other
+392719,nix plus 5%,1,other
+392720,nizatidine,1,other
+392737,nizatidine 300 /mg,1,other
+392744,nizoral,1,other
+392756,nizoral 2 % crm,1,other
+392758,nizoral 2 % shamp,1,other
+392829,nizoral shampo,2,other
+392835,nizoral shampoo - 2% ('s bottle,1,supplies
+392872,nizoral%20shampoo,1,other
+392890,nizortan plus 80/12.5,1,other
+392895,nk01 - pl 1.50 nikon st,1,eyewear
+392896,nk01-pl1.50nikonst,1,eyewear
+392897,nk03 - pl 1.56 nikon st,1,eyewear
+392898,nk03-pl1.56nikonst,1,eyewear
+392899,nk06-pl1.60nikonst,1,eyewear
+392900,nk07 - pl 1.60 nikon as st,1,eyewear
+392901,nk08-pl1.67nikonst,1,eyewear
+392902,nk11 - pl 1.50 nikon rx,1,eyewear
+392903,nk12-pl1.50nikonserx,1,eyewear
+392904,nk13 - pl 1.50 nikon se 2 rx,1,eyewear
+392905,nk16 - pl 1.59 nikon se 2 rx,1,eyewear
+392906,nk17 - pl 1.60 nikon rx,1,eyewear
+392907,nk18 - pl 1.60 nikon se rx,1,eyewear
+392908,nk19 - pl 1.60 nikon se 2 rx,1,eyewear
+392909,nk21 - pl 1.67 nikon se rx,1,eyewear
+392910,nk22 - pl 1.67 nikon se 2 rx,1,eyewear
+392911,nk28 - pl 1.50 nikon sm 2 rx,1,eyewear
+392912,nk7014/001/f,1,other
+392913,nk7037/001/f,1,other
+392914,nk7259/900/f/23,1,other
+392916,nld probing and syringe adults,1,supplies
+392917,nld probing with stent one eye,1,supplies
+392918,nld probing and syringing under ga 2,1,procedure
+392919,nld test,1,lab_test
+392920,nm - bone scan - total body,1,imaging
+392921,nm - bone scintigraphy,1,imaging
+392922,nm - brain perfusion spect,1,imaging
+392924,nm - cardiac perfusion scintigraphy,1,imaging
+392925,nm - direct micturating cystoscintigraphy,1,imaging
+392926,nm - ecg thalium heart stress,1,imaging
+392927,nm - four phases bone scintigraphy,1,imaging
+392928,nm - gallium scintigraphy,1,imaging
+392929,nm - gastric emptying (liquid) scintigraphy,1,imaging
+392930,nm - gastric emptying (solid) scintigraphy,1,imaging
+392931,nm - gi bleeding scintigraphy,1,imaging

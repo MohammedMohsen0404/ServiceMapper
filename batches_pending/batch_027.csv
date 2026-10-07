@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+194280,electric cautery in clinic,1,procedure
+194281,electric cautery less than 3 large lesions,1,procedure
+194282,electric cautery less than 5 small lesions,1,procedure
+194283,electric cautery more than 3,2,procedure
+194284,electric cautery more than 5 small lesions,1,procedure
+194285,electric cautery multiple warts,1,procedure
+194286,electric cautery of 1-3 warts,1,procedure
+194287,electric cautery of cervix and follow up,1,procedure
+194288,electric cautery or nitrogen up to five warts,1,procedure
+194289,electric cautery or nitrogen up to three warts,1,procedure
+194290,electric cautery up to 10 warts,1,procedure
+194291,electric cautery up to 3,2,procedure
+194292,electric cautery up to 3 warts,1,procedure
+194293,electric cautery up to 5 warts,1,procedure
+194294,electric cautery wart,2,procedure
+194295,electric cautrization,1,procedure
+194296,electric cautry (1,1,other
+194297,electric cervical cuautery,2,imaging
+194298,electric cervical traction,1,imaging
+194299,electric lumbar traction,1,procedure
+194300,electric massage,1,physiotherapy
+194301,electric massage - part,1,physiotherapy
+194302,electric massage - part. - op,1,physiotherapy
+194303,electric massage part - ip,1,physiotherapy
+194305,electric nebulizer,1,supplies
+194306,electric saimulation,1,other
+194307,electric stim. musc/nrv - op,1,physiotherapy
+194308,electric stim. musc/nrve - ip,1,physiotherapy
+194309,electric stimulation,1,other
+194310,electric stimulation - muscle/ nerve,1,other
+194311,electric therapy,1,physiotherapy
+194312,electric traction(cerv or lum,1,procedure
+194313,electric wheelchair adult,1,supplies
+194314,electric. massage - total,1,physiotherapy
+194315,electric. massage - total - op,1,physiotherapy
+194316,electrical stimulator and ultrasound combined,1,imaging
+194317,electrical breast pumping,1,other
+194318,electrical cardiac monitoring per day,1,consultation
+194319,electrical cardio version,1,other
+194320,electrical cautery,2,procedure
+194321,electrical cautery 1 lesson,1,procedure
+194322,electrical cautery for wart 4 to 5,2,procedure
+194323,electrical cautery for cout by setting,1,procedure
+194324,electrical cautery for one after,1,supplies
+194325,electrical cautery for wart,1,procedure
+194326,electrical cautery for wart 1 to 3,1,procedure
+194328,electrical cautery for wart 4-5,1,procedure
+194329,electrical cautery for wart 6 to 10-11436,1,procedure
+194330,electrical cautery for wart 6 to 10-11454,1,procedure
+194331,electrical cautery up 3 warts,1,procedure
+194332,electrical cautery up 5 warts,1,procedure
+194333,electrical cautery up to 10 warts,1,procedure
+194334,electrical cautery w g.a,1,procedure
+194335,electrical cautery w-l. a,1,procedure
+194336,electrical cautry,1,other
+194337,electrical colour vision test,1,lab_test
+194338,electrical instrument session,1,physiotherapy
+194339,electrical muscle stimulation,1,other
+194340,electrical muscle stimulation session,1,physiotherapy
+194341,electrical session,2,physiotherapy
+194342,electrical steam,2,other
+194344,electrical stimulation,3,other
+194345,electrical stimulation (unattended,1,other
+194346,electrical stimulation mass,2,other
+194347,electrical stimulation point,2,other
+194348,electrical stimulation treatment,2,other
+194349,electrical stimulaton,1,other
+194350,electrical stimulator,1,other
+194351,electrical stimulator inp,1,other
+194352,electrical stimulator & u/s (combination,1,imaging
+194353,electrical stimulator (clinic,2,consultation
+194355,electrical stimulator or (t.e.n.s) /session,1,physiotherapy
+194356,electrical stimulator per session,1,physiotherapy
+194357,electrical stimulator ultrasound(combination) per 15-30 min sessions,1,imaging
+194358,electrical stimulator with u.s,1,imaging
+194359,electrical stimulator x 1,1,other
+194360,electrical traction,2,procedure
+194361,electrical transferred wheelchair 20 in,1,supplies
+194362,electro,1,other
+194363,electro cautery 1 wart,2,procedure
+194364,electro - encephalogram [e.e.g,1,lab_test
+194365,electro cantery of rubbing lash,1,other
+194366,electro cardio gram,3,lab_test
+194367,electro cardio gram (ecg,2,lab_test
+194370,electro cardio version,1,other
+194371,electro cardiogram strip,1,supplies
+194372,electro cauterization,1,procedure
+194373,electro cauterization 2,1,procedure
+194374,electro cautery,2,procedure
+194375,electro cautery few lesion skincare,1,procedure
+194376,electro cautery - few lesion,1,procedure
+194377,electro cautery - few lesion (skincare,1,procedure
+194378,electro cautery - multiple lesion (skincare,1,procedure
+194379,electro cautery - multiple lesion,1,procedure
+194380,electro cautery -1,1,procedure
+194381,electro cautery -3,1,procedure
+194383,electro cautery 2 wart,1,procedure
+194384,electro cautery 2 warts,1,procedure
+194385,electro cautery 3 wart,1,procedure
+194386,electro cautery 3 warts,1,procedure
+194387,electro cautery for 10-20 warts,1,procedure
+194388,electro cautery for 4-10 warts,1,procedure
+194389,electro cautery for more than 20 warts,1,procedure
+194390,electro cautery meduim,1,procedure
+194391,electro cautery more t 3 wart,1,procedure
+194392,electro cautery more t 3 warts,1,procedure
+194393,electro cautery of multiple warts / sess,1,procedure
+194394,electro cautery of warts ( small,1,procedure
+194395,electro cautery of warts (small,1,procedure
+194396,electro cautery up to 10 warts,1,procedure
+194397,electro cautery up to 3 warts,1,procedure
+194398,electro cautery up to 5 warts,1,procedure
+194399,electro cautery warts,1,procedure
+194400,electro cautery- warts 5-7,1,procedure
+194401,electro cautry of bleeding lesion,2,lab_test
+194402,electro convulsive therapy (ect) session - in patient,1,physiotherapy
+194403,electro convulsive therapy (ect) session - out patient,1,physiotherapy
+194404,electro diagnosis - nerve conduction full study,1,consultation
+194405,electro encephalogram [e.e.g,1,lab_test
+194406,electro monitoring vital signs hour,1,consultation
+194407,electro monitoring vital signs/hour,1,consultation
+194408,electro muscle stimulation,1,other
+194409,electro myography (emg,1,diagnostic
+194410,electro myography by neurologist emg,1,diagnostic
+194411,electro myography emg,1,diagnostic
+194412,electro or cryo cautery for 1 - 3 warts,1,procedure
+194413,electro or cryo cautery for one wart,1,supplies
+194414,electro physiological study without ablation,1,procedure
+194415,electro retinography,1,other
+194417,electro surgery,1,procedure
+194418,electro surgery for two planter wart,1,procedure
+194419,electro surgical disp. ground pad for adult,1,supplies
+194420,electro surgical pencil / cautry pencil,1,procedure
+194421,electro surgical pencil and,1,procedure
+194422,electro surgical pencil cautry pencil,1,procedure
+194423,electro surgical pencil comp.set disp. conmed #130307a,1,supplies
+194424,electro surgical pencil comp.set disposable. / 160520,1,supplies
+194425,electro surgical pencil disposable f4797,1,supplies
+194426,electro surgical pencil#sy-iiia-1 w/cable,1,supplies
+194427,electro therapy,1,physiotherapy
+194428,electro- cautarization of epistaxis,1,other
+194429,electro- cautery,1,procedure
+194430,electro-cardio version,1,other
+194432,electro-cautery,1,procedure
+194433,electro-cautery (large-3,1,procedure
+194434,electro-cautery (medium-2,1,procedure
+194435,electro-cautery (small-1,1,procedure
+194436,electro-cautery and curretage,1,procedure
+194437,electro-cautery for 4 warts up to 10,1,procedure
+194438,electro-cautery multiple warts,1,procedure
+194439,electro-cautery multiple warts dm00376010,1,procedure
+194440,electro-cautery of cervix,2,procedure
+194441,electro-cautery of small wart /unit,1,procedure
+194442,electro-cautery of small wart/ unit,1,procedure
+194444,electro-cautery per/unit,2,procedure
+194445,electro-cautery single wart,1,procedure
+194446,electro-cautery therapy,1,physiotherapy
+194447,electro-cautery up to 10 wart,1,procedure
+194448,electro-cautery up to 7 wart,1,procedure
+194449,electro-cautery/piece,1,procedure
+194450,electro-convulsive therapy (e.c.t.)->c94.27_pd,1,physiotherapy
+194451,electro-encephalography ( e.e.g) (awake,1,lab_test
+194452,electro-myography (emg,1,diagnostic
+194453,electro-surg.tip cleaner str,1,other
+194454,electro-uroflowmetry first,1,other
+194455,electro.coag of s.sk.tg. 5 - 10,1,other
+194456,electro.coag of s.sk.tg.>10,1,other
+194457,electrocadiogram -ecg?????????? ??????,1,diagnostic
+194458,electrocardiogram,3,other
+194459,"electrocardiogram, routine ecg with at least 12 leads; interpretation and report only",2,diagnostic
+194460,"electrocardiogram, routine ecg with at least 12 leads; with interpretation and report",2,diagnostic
+194461,"electrocardiogram, routine ecg with at least 12 leads;interpretation a",1,diagnostic
+194462,electrocardiograph,1,other
+194463,electrocardiographic monitoring for 24 hours by continuous computerize,1,consultation
+194464,electrocardiography,2,other
+194465,electrocardiography (ecg,2,diagnostic
+194466,electrocardiography (ecg/ ekg,2,diagnostic
+194467,electrocardiography (ecg/ ekg)(119008,1,diagnostic
+194468,electrocardiography ecg,1,diagnostic
+194469,electrocardiography [ecg,1,diagnostic
+194470,electrocaurery or wart 1 skin tags,1,other
+194471,electrocautery,1,procedure
+194472,electrocautery -1107,1,procedure
+194473,electrocautery ( lesion 5-10 mm,1,procedure
+194474,"electrocautery ( lesion < 5mm: v.vulgaris, v plana , filiformes digitiforme",1,procedure
+194475,electrocautery ( single,1,procedure
+194476,electrocautery ( v. plantaris 5-10 mm,1,procedure
+194477,electrocautery ( v.plantaris <5mm,1,procedure
+194478,electrocautery (per lesion,2,procedure
+194479,electrocautery (small are,1,procedure
+194480,electrocautery - extra large area under ga,1,procedure
+194481,electrocautery - few lesions,1,procedure
+194482,electrocautery - large area,1,procedure
+194483,electrocautery - large area under ga,1,procedure
+194484,electrocautery - medium area,1,procedure
+194485,electrocautery - small area,1,procedure
+194486,electrocautery - small area under ga,1,procedure
+194487,electrocautery - up to 3,1,procedure
+194488,electrocautery - up to 5,1,procedure
+194489,electrocautery -one lesion,1,supplies
+194490,electrocautery /3-5 lesions,1,procedure
+194491,electrocautery 1 to 3 warts,1,procedure
+194492,electrocautery 2-3 sites,1,procedure
+194493,electrocautery 3,1,procedure
+194494,electrocautery electro surgery sr. 240,1,procedure
+194495,electrocautery electro surgery sr.360,1,procedure
+194496,electrocautery for restoration,1,dental
+194497,electrocautery for warts (each,1,procedure
+194498,electrocautery large area,1,procedure
+194499,electrocautery medium area,1,procedure
+194500,electrocautery more than 3 warts,1,procedure
+194501,electrocautery multiple lesions,1,procedure
+194502,electrocautery of big wart,1,procedure
+194503,electrocautery of large warts,1,procedure
+194504,electrocautery of one wart,1,supplies
+194505,electrocautery of skin tags up to 12 ski,1,procedure
+194506,electrocautery of skin tags up to 3 skin,1,procedure
+194507,electrocautery of skin tags up to 6 skin,1,procedure
+194508,electrocautery of warts 1/3,1,procedure
+194509,electrocautery of warts 4/5,1,procedure
+194510,electrocautery of warts 6/10,1,procedure
+194511,electrocautery one wart,1,supplies
+194512,"electrocautery plantar warts, skin tag",1,eyewear
+194513,electrocautery single,1,procedure
+194514,electrocautery three warts,1,procedure
+194515,electrocautery to internal nose (anterior & posterior bleed) (adult,1,procedure
+194516,electrocautery two lesions,1,procedure
+194517,electrocautery two warts,1,procedure
+194518,electrocautery wart1,1,procedure
+194519,electrocautery(one site,1,supplies
+194520,electrocautery- one lesion,1,supplies
+194521,electrocautery-extra large,1,procedure
+194522,electrocautery-extra large area,1,procedure
+194523,electrocautery-large area,1,procedure
+194524,electrocautery-large area g.a,1,procedure
+194525,electrocautery-medium,1,procedure
+194526,electrocautery-medium area g.a,1,procedure
+194527,electrocautery-small area,1,procedure
+194528,electrocautery/ and curettage,1,procedure
+194529,electrocautery/1-3 lesions,1,procedure
+194530,electrocautery/>5 lesions,1,procedure
+194531,electrocautery/cryocautery,1,procedure
+194532,electrocautery/cryocautery 2007,1,procedure
+194533,electrocautery/cryocautery-e,1,procedure
+194534,electrocautery/cryocautery-extr,1,procedure
+194535,electrocautery/cryocautery-extra 1,2,procedure
+194536,electrocautery/cryotherapy - i,1,procedure
+194537,electrocautery/cryotherapy - ii,1,procedure
+194538,electrocautery/cryotherapy - iii,1,procedure
+194539,electrocautery/cryotherapy 1,1,procedure
+194540,electrocautery/cryotherapy 2,1,procedure
+194541,electrocautery/cryotherapy 3,1,procedure
+194542,electrocautery/cryotherapy ii,1,procedure
+194543,electrocautery= again depends= large,1,procedure
+194544,electrocautery= again depends= medium,1,procedure
+194545,electrocautery= again depends= small,1,procedure
+194546,electrocauthery many warts,1,other
+194547,electrocautry 1,1,other
+194548,electrocautry 1-3,1,other
+194549,electrocautry 2,1,other
+194550,electrocautry 4-5 sites,1,other
+194551,electrocautry for wart,1,other
+194552,electrocautry session/lesion,2,physiotherapy
+194554,electrocauty unit,1,other
+194555,electrocoagulation of bleeding,1,lab_test
+194556,electrocoagulation of bleeding point,1,lab_test
+194557,electrocoagulation of bleedingpoint,1,other
+194558,electrocoagulation of turbinates,1,other
+194559,"electrocoagulation, colon",1,other
+194560,electrocochleography,1,other
+194561,electrocochliography (ecog,1,other
+194562,electroconvulsive therapy,1,physiotherapy
+194563,electrocorticography,1,other
+194564,electrocotry for 1 wart,1,other
+194565,electrode ca e733 f/abl715 # 945-616,1,lab_test
+194566,"electrode , pad , multifunctional adult/child plus,philips",1,supplies
+194567,"electrode , temporary , pacemaker,ethicon (johnson & johnson) , tpw10",1,supplies
+194568,electrode b symm esre split adult return #esre,1,supplies
+194569,electrode band hf resection fr # 32 ref: wa22355a,1,eyewear
+194570,"electrode combo #11996-000091 adult f/lp15, , medtronics",1,supplies
+194571,"electrode combo#11996-000091 adult f/lp15 , physio-control",1,supplies
+194572,electrode corkscrew set spiral needle 0.6mm cable 1m disposable,1,supplies
+194573,electrode disposable rf thermocouple 100mm #260012,1,lab_test
+194574,"electrode double needle set 12/1500,2.5mm, stainless steel inomed #534645",1,supplies
+194575,"electrode ecg 1.5mm disposable# 13953d, philips",1,diagnostic
+194576,"electrode ecg 1.5mm neonat/pedea #13953d, philips",1,diagnostic
+194577,electrode ecg abdominal (adult,1,diagnostic
+194578,electrode ecg adult,3,diagnostic
+194579,electrode ecg for infant & paediatric vermed varimed # 4009448c,1,diagnostic
+194580,electrode ecg for infant paediatric vermed varimed # 4009448c,1,diagnostic
+194582,electrode ecg monitoring adult,1,diagnostic
+194583,electrode ecg monitoring infant 3.2cm,1,diagnostic
+194584,electrode ecg monitoring pediatric,1,diagnostic
+194585,electrode ecg pregelled adult sterile #t716/jm-mdf400/2222,1,diagnostic
+194586,electrode ecg pregelled adult sterile disp 3m,1,diagnostic
+194587,electrode ecg pregelled adult sterile disp 3m / versa trode,1,diagnostic
+194588,electrode ecg pregelled adult sterile disp,1,diagnostic
+194589,electrode ecg pregelled adult sterile disposable #12958/2222,1,diagnostic
+194590,electrode ecg pregelled pediatri sterile disp,1,diagnostic
+194591,electrode ecg pregelled pediatric,1,diagnostic
+194592,electrode ecg pregelled pediatric sterile disposable #p40sg/12876,1,diagnostic
+194593,"electrode extended coated blade 4"" disposable sterile",1,supplies
+194594,electrode f/hp neonatal monitor 3m #2269t,1,supplies
+194595,electrode handle w/cable 2 button erbe #20190-062,1,supplies
+194596,electrode l-hook monopolar 5mmx33cm with cable sterile disposable,1,supplies
+194597,electrode monitoring ecg pregelled adhesive adult n/s pk/5 (56,1,diagnostic
+194598,electrode needle dispo. erbe 21191-312,1,supplies
+194599,electrode needle edge coated 7.2cm length x50,1,supplies
+194600,"electrode needle obm low impedance#obm00046,natus",1,supplies
+194601,electrode pacing differnet sizes # ecss6f z,1,supplies
+194602,electrode pacing pad quick combo adult f/lifepak defibr.physiocontrol#11996-000091,1,supplies
+194603,electrode pacing temporarily 6fr,1,supplies
+194604,electrode paired 2 channel set 12mm,1,supplies
+194605,"electrode patient return # e 7507 , covidien",1,supplies
+194606,"electrode patient return #sy-mw2,pad w/cord adult , elctrosugery patient reurn electrodshuyou",1,supplies
+194607,"electrode patient return ,tyco # e 7507",1,supplies
+194608,electrode quick combo adult f/defibrilator medtronic #11996-000091,1,supplies
+194609,"electrode radiofrequency disposable, 10cm, stainless steel, (abbott) # rfdeuk-10",1,supplies
+194610,electrode rf-g4 sterile w/10cm # tcd-10-p,1,lab_test
+194611,electrode single ground subdermal (irene) # h686a,1,supplies
+194612,electrode split neutral f/monopolar applications #262012,1,supplies
+194613,electrode split return disposable for child 5 to 15 kg erbe # 20193-071,1,supplies
+194614,electrode subdermal paired 2 channel set xomed # 8227410,1,supplies
+194615,electrode thymapad stimulus for ect machine,1,supplies
+194616,electrode vapr coolpulse 90 with hand control,1,supplies
+194617,electrode w/cable disposable (scotch plate) erbe/fiab no.20193-083/f7820w,2,supplies
+194619,electrode w/cable disposable f/patient (scotch plate) erbe #20193-083,1,supplies
+194620,electrode w/cable disposable f/patient (scotch plate) erbe/fiab #20193-083/f7820w,1,supplies
+194621,electrode w/cable disposable f/patient (scotch plate) erbe/fiab no.20193-083/f7820w,1,supplies
+194622,"electrode, ""celon procut"", olympus, wb990177",1,supplies
+194623,"electrode, coated blade, 2.5in, 6.35cm, standard modified, megadyne, 0012m",1,supplies
+194624,"electrode, coated blade, 2.5in, 6.35cm, standard, megadyne, 0012",1,supplies
+194625,"electrode, coated blade, 4in, 10.2cm, extended blade, megadyne, 0014a",1,supplies
+194626,"electrode, coated blade, 6.5in, 16.5cm, extended blade, megadyne, 0014",1,supplies
+194627,"electrode, corkscrew (irene) # h538a",1,supplies
+194628,"electrode, ecg adult, swaromed, 1001",1,diagnostic
+194629,"electrode, ecg monitoring infant 3.2cm , , non",1,diagnostic
+194630,"electrode, ecg monitoring infant 50/b 3.2cm ,dynamic techno medicals , ec972slp",1,diagnostic
+194631,"electrode, ecg monitoring w/ preattached lead wire, neonatal, 3m, 22691 / eurotrade, 12996",1,diagnostic
+194632,"electrode, ecg monitoring, adult",1,diagnostic
+194633,"electrode, ecg monitoring, pediatric",1,diagnostic
+194634,"electrode, ecg ped, swaromed, 1008d",1,diagnostic
+194635,"electrode, ecg silver mactrode marquette",1,diagnostic
+194636,"electrode, ecg w clip paediatric",1,diagnostic
+194637,"electrode, ecg, adult, fiab italy, f9089/100",1,diagnostic
+194638,"electrode, ecg, ped, fiab italy, f9089p/100",1,diagnostic
+194639,"electrode, ecg,monit, adult, medicotest, dr-00-s",1,diagnostic
+194640,"electrode, edge system, adult, quick-combo, rts, medtronic/conmed, 2001m-pc / f7952",1,supplies
+194641,"electrode, edge, system, pedia, quik-combo rts, medtronic, 2603m / fiab f7952p",1,supplies
+194642,"electrode, monitoring adult 100pcs w/foam back in , , non",1,supplies
+194643,"electrode, monitoring adult w/foam back in , , non",1,supplies
+194644,"electrode, monitoring adult w/foam back in ,bss medical",1,supplies
+194645,"electrode, monitoring adult w/foam back in,----- , f-rg1",1,supplies
+194646,"electrode, monitoring adult w/foam back in",1,supplies
+194647,"electrode, reusable, ""1.75x4"", pack/4, ec 89350, 5519-38",1,supplies
+194648,"electrode, sdn, 15/2000, inomed, 533646",1,supplies
+194649,"electrode,e.c.g. w stress tip (adult",1,supplies
+194650,electrode. ecg adlt swaromed 1001,1,diagnostic
+194651,electrodes for adult,1,other
+194652,"electrodes for adult, fiab",1,other
+194653,electrodes,1,other
+194654,electrodes adult 25/pk,1,other
+194655,electrodes cardiac electrocardiography adult sterile disposable,1,supplies
+194656,electrodes cardiac electrocardiography pediatric sterile disposable,1,supplies
+194657,electrodes cardiac electrocardiography red dot pre wired neonatal 12 leads (4s) sterile disposable,1,supplies
+194658,electrodes cardiac electrocardiography red dot pre wired neonatal 3 leades sterile disposable,1,supplies
+194659,"electrodes disp.f/stress test # fgr1, leonhard",1,lab_test
+194660,electrodes each ( e.c.g,1,lab_test
+194661,electrodes ear cup infant with snap set for tympanometer sterile disposable (20s,1,supplies
+194662,electrodes ecg pre-wired neonatal with wire neolead # n301,1,diagnostic
+194663,electrodes electrosurgical return for valleylab rem polyhesive adult non-sterile disposable,1,supplies
+194664,electrodes electrosurgical return with connecting cable adult sterile disposable,1,supplies
+194665,electrodes pad defibrillator adhesive adult sterile disposable,1,supplies
+194666,electrodes pad defibrillator adhesive pediatric sterile disposable,1,supplies
+194667,electrodes pad defibrillator/pacing/ecg adhesive adult sterile disposable,1,diagnostic
+194668,electrodes pad defibrillator/pacing/ecg adhesive pediatric sterile disposable,1,diagnostic
+194669,electrodes pre-attached leadwire neonatal f/hp monitor 3m/kendal #13953d/31424768,1,supplies
+194670,electrodes preattached leadwire #2269t/13952a-b/13953d,1,other
+194671,electrodes quick pace maker,1,other
+194673,electrodes sdn 20/1500 stainless steel inomed origin #533651,1,other
+194674,electrodes sdn 20/2000 stainless steel inomed origin #533666,1,other
+194675,electrodes snap square vermed interacoustics poland 8102022,1,other
+194676,electrodes subdermal paired 2-channel pro-pin medtronic #8227410,1,supplies
+194677,"electrodes,ecg/ekg,resting, philip-13943b / 3m-22330/ ambu-0415m/ eurofarm-12774 / 4007847c",1,diagnostic
+194678,electroencephalogram (eeg,1,diagnostic
+194679,electroencephalogram (eeg) 24 hours,1,diagnostic
+194680,electroencephalogram (eeg) extended monitoring; 41-60 minutes,1,diagnostic
+194681,electroencephalogram (eeg) extended monitoring; 6 - 12 hours,1,diagnostic
+194682,electroencephalogram (eeg) extended monitoring; greater than 1 hour,1,diagnostic
+194683,electroencephalogram (eeg) extended monitoring;greater than one hour,1,diagnostic
+194684,electroencephalogram (eeg); including recording awake and asleep,1,diagnostic
+194685,electroencephalogram eeg,1,diagnostic
+194686,electroencephalogram- eeg,1,diagnostic
+194687,electroencephalography,2,other
+194688,electroencephalography (e.e.g,3,lab_test
+194690,electroencephalography - eeg,1,diagnostic
+194691,electroencephalography of >= 3 hours,1,other
+194692,electroenchephalography (eeg,1,diagnostic
+194693,electroenchephalography (eeg) per extrimiti,1,diagnostic
+194694,electroetinography,1,other
+194695,electrol caturey session < 3,2,physiotherapy
+194696,electrol caturey session > 3,2,physiotherapy
+194697,electrol caturey session multiple,2,physiotherapy
+194701,electrol ytes ( na-k-cl ) (s,1,lab_test
+194702,electrol ytes ( na/k/cl ) (s,1,lab_test
+194703,electrolites,1,other
+194704,electroltte profile k+ca+na+cl,1,lab_test
+194706,electrolysis (both eyelids,1,procedure
+194707,electrolysis (epilation,2,procedure
+194708,electrolysis - 1 lid - iii,1,procedure
+194709,electrolysis - 2 lids - iii,1,procedure
+194710,electrolysis -unilateral,1,procedure
+194711,electrolysis epilation each 30 min,1,procedure
+194712,electrolysis for eye lash - إزالة رموش بالعين بالتحلل الكهربائى,1,procedure
+194713,electrolysis for eye lashes in o.r,1,procedure
+194714,electrolysis for one eye,1,supplies
+194715,electrolysis of aberrant lashes,2,procedure
+194716,electrolysis of eye lashes (one lid,2,supplies
+194717,electrolysis of eye lashes (per lid,1,procedure
+194718,electrolysis tridiasis,2,procedure
+194720,electrolysis(electro cautary grade a,1,procedure
+194721,electrolysis/session,1,physiotherapy
+194722,electrolyt solusion 500 cc,1,other
+194723,electrolyte,1,other
+194724,electrolyte analyosis,3,other
+194728,electrolyte co2,1,other
+194729,electrolyte for oral rehydration,1,other
+194732,electrolyte panel,5,lab_test
+194733,"electrolyte panel (na, k, cl) (serum",2,lab_test
+194734,electrolyte potasium (serum,2,lab_test
+194735,electrolyte potasium k,1,other
+194740,electrolyte sodium,1,lab_test
+194741,electrolyte sodium (na,2,lab_test
+194743,electrolyte sodium (serum,2,lab_test
+194746,electrolytefororalrehydration240mloralsolution,1,other
+194747,electrolytes,5,lab_test
+194748,electrolytes urine,2,lab_test
+194749,electrolytes profile,3,lab_test
+194750,"electrolytes ( na,k,cl",2,lab_test
+194751,electrolytes ( na/k/cl ) (s,1,lab_test
+194752,"electrolytes ( na+, k+ cl- ) ( serum",1,lab_test
+194754,electrolytes (na k cl,1,lab_test
+194755,electrolytes (na k c1) serum,2,lab_test
+194757,electrolytes (na k cl co2,1,lab_test
+194758,electrolytes (na k cl) (s,1,lab_test
+194759,"electrolytes (na, k, cl) - pkg",2,lab_test
+194760,"electrolytes (na, k) serum",1,lab_test
+194761,"electrolytes (na, k, c1) serum",1,lab_test
+194762,"electrolytes (na, k, c1) serum(500063",1,lab_test
+194763,"electrolytes (na, k, c1) urine",1,lab_test
+194765,"electrolytes (na, k, cl) serum",1,lab_test
+194766,"electrolytes (na, k, cl) urine",1,lab_test
+194767,"electrolytes (na, k, cl, co2",1,lab_test
+194768,"electrolytes (na,k,cl",2,lab_test
+194769,electrolytes (na. k. cl. co2,1,lab_test
+194770,electrolytes (na.h.cl,1,lab_test
+194771,electrolytes (na/k/cl,1,lab_test
+194773,"electrolytes (na, k, cl",2,lab_test
+194774,electrolytes (sodium,1,lab_test
+194786,electrolytes (sodiumpotassiumchloride,1,lab_test
+194787,"electrolytes - na, k, & cl",2,lab_test
+194788,electrolytes -na-k-cl -s,1,lab_test
+194791,electrolytes .caloium,1,lab_test
+194792,electrolytes .k+,1,lab_test
+194794,electrolytes .na,1,lab_test
+194796,electrolytes cl,3,lab_test
+194797,electrolytes iv admixture (bag,1,lab_test
+194798,electrolytes iv admixture (bottle,1,lab_test
+194799,electrolytes k+,5,lab_test
+194801,electrolytes na & k,1,lab_test
+194802,electrolytes na k c1 serum,1,lab_test
+194803,electrolytes na k c1 urine,1,lab_test
+194804,electrolytes na k cl s,1,lab_test
+194805,electrolytes na k cl serum,1,lab_test
+194806,electrolytes na+,3,lab_test
+194807,"electrolytes na,k,cl",1,lab_test
+194808,"electrolytes na,k,cl,& co2",1,lab_test
+194809,electrolytes panel(na-k-cl-ca,1,lab_test
+194810,electrolytes polyethyline glycol,1,lab_test
+194811,electrolytes profile (rnh,1,lab_test
+194813,electrolytes profile-b,1,lab_test
+194814,electrolytes serum,1,lab_test
+194815,"electrolytes serum ( na , k , cl",1,lab_test
+194819,"electrolytes urine (na, k",1,lab_test
+194820,electrolytes _na/k/cl_ _s_,1,lab_test
+194824,electrolytes(14664,1,lab_test
+194826,electrolytes(sodium potassiumchloride,1,lab_test
+194828,"electrolytes, feces ( so",1,lab_test
+194829,"electrolytes, na, k, ci",1,lab_test
+194830,"electrolytes, na, k, cl",1,lab_test
+194831,"electrolytes, polyethyline glycol",1,lab_test
+194832,"electrolytes, serum",2,lab_test
+194833,electrolytes- k,2,lab_test
+194834,electrolytes-cl,2,lab_test
+194835,electrolytes-k,1,lab_test
+194836,"electrolytes-na,k,cl &co2",1,lab_test
+194837,"electrolytes-na,k,cl co2",1,lab_test
+194839,electromagnatic six session,1,physiotherapy
+194840,electromagnetic session,1,physiotherapy
+194841,electromagnetic therapy,1,physiotherapy

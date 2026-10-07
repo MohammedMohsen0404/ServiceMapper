@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+483926,r.c.t+ filling 2 root - علاج عصب قناتين + حشو,1,dental
+483927,r.c.t+ filling two root,1,dental
+483928,r.c.t- bicuspids,1,imaging
+483929,r.c.t- posterior,1,imaging
+483930,r.c.t-anterior,1,imaging
+483931,r.c.t-sa,1,imaging
+483933,r.c.t. (infected tooth,1,dental
+483934,r.c.t. molar with filling,1,dental
+483935,r.c.t. multi root with filling with abscess,2,dental
+483936,r.c.t. with abscess,3,procedure
+483937,r.c.t. with abscess with filling,3,dental
+483938,r.c.t. & filling,1,dental
+483939,r.c.t. &filling,1,dental
+483940,r.c.t. (1 canal,1,dental
+483941,r.c.t. (anterior tooth,1,dental
+483942,r.c.t. (birooted,1,imaging
+483943,r.c.t. (monorooted,1,imaging
+483944,r.c.t. (multirooted,1,imaging
+483945,r.c.t. (posterior tooth,1,dental
+483946,r.c.t. (bicuspids,1,imaging
+483947,r.c.t. + r.c.f,1,imaging
+483948,r.c.t. + r.c.f. 21404,1,imaging
+483949,r.c.t. +rcf,2,imaging
+483950,r.c.t. +rcf - 23404,1,imaging
+483951,r.c.t. +rcf-20404,1,imaging
+483953,r.c.t. 1 canal,1,dental
+483954,r.c.t. 1st visit,1,consultation
+483955,r.c.t. 2nd visit,1,consultation
+483956,r.c.t. 3 canals,1,imaging
+483957,r.c.t. 3 canal,1,dental
+483958,r.c.t. anterior,1,imaging
+483959,r.c.t. anterior tooth,2,dental
+483960,r.c.t. anterior teeth,1,dental
+483961,r.c.t. deciduous teeth pulpotomy,1,dental
+483962,r.c.t. for 1 canal in one sit,1,dental
+483963,r.c.t. for anterior tooth,1,dental
+483964,r.c.t. for more than one root,1,supplies
+483965,r.c.t. for one root & root filling,1,dental
+483966,r.c.t. for posterior tooth,1,dental
+483967,r.c.t. for temopr-t. with,1,imaging
+483968,r.c.t. for temopr-t. with filling,2,dental
+483969,r.c.t. for molar,2,dental
+483970,r.c.t. for premolar/incisors,2,dental
+483972,r.c.t. molar,1,dental
+483973,r.c.t. multi root,2,imaging
+483974,"r.c.t. multi root w(abscess,amalgam",1,dental
+483975,r.c.t. multi root with a.and a.f,1,imaging
+483976,r.c.t. multi root with filling,6,dental
+483979,r.c.t. multi roots with filling with abcess,3,dental
+483980,r.c.t. multi-root with filling,1,dental
+483981,r.c.t. multirooted,1,imaging
+483986,r.c.t. multi roots with filling abcess,1,dental
+483988,r.c.t. multi roots with filling with abscess,5,dental
+483994,r.c.t. multi roots with fitting with abscess,2,procedure
+483997,r.c.t. necrotic molar,1,dental
+483998,r.c.t. necrotic anterior,1,imaging
+483999,r.c.t. necrotic premolar,1,dental
+484000,r.c.t. necrotic anterior teeth + screw + composite filling,1,dental
+484001,r.c.t. necrotic posterior teeth + screw + composit,1,dental
+484002,r.c.t. necrotic posterior teeth + screw + composite filling,1,dental
+484003,r.c.t. necrotic posterior teeth with composite filling,1,dental
+484004,r.c.t. of posteriors,1,imaging
+484005,r.c.t. offensi. temp. tooth,1,dental
+484006,r.c.t. offensive anterior,1,imaging
+484007,r.c.t. offensive molar,1,dental
+484008,r.c.t. offensive premolar,1,dental
+484010,r.c.t. one canal with filling,5,dental
+484011,r.c.t. one root,1,supplies
+484012,r.c.t. one root with fillig with abscess,1,supplies
+484014,r.c.t. one root with filling (with abscess,1,dental
+484015,r.c.t. one root with filling with abcess,2,dental
+484017,r.c.t. onoe root with filling,1,dental
+484021,r.c.t. one root with filling abcess,1,dental
+484024,r.c.t. one root with filling wit,1,dental
+484028,r.c.t. one canal with filling with abscess,1,dental
+484029,r.c.t. posterior tooth,2,dental
+484030,r.c.t. posterior tooth (per canal,1,dental
+484031,r.c.t. posterior tooth w/filling,1,dental
+484032,r.c.t. premolar,2,dental
+484033,r.c.t. posterior teeth with composite filling,1,dental
+484035,r.c.t. temporary tooth,1,dental
+484036,r.c.t. two roots,1,imaging
+484037,r.c.t. two root with filling,1,dental
+484038,r.c.t. two roots with filling with abscess,1,dental
+484039,r.c.t. whit out filling,1,dental
+484041,r.c.t. with abscess and amalgam filing,1,dental
+484042,r.c.t. with abscess and amalgam filling,2,dental
+484044,r.c.t. with absess,1,imaging
+484045,r.c.t. with amalgam filling,1,dental
+484046,r.c.t. with filling,1,dental
+484047,r.c.t. with multi root filling,1,dental
+484048,r.c.t. with pulpal necrosis many root,1,imaging
+484049,r.c.t. with pulpal necrosis one root,1,supplies
+484050,r.c.t. with root with amalgam filling,1,dental
+484051,r.c.t. without filling,2,dental
+484053,r.c.t. with abscess molar,1,dental
+484056,r.c.t. and amulgum filling,1,dental
+484057,r.c.t. for premolar incisors,3,dental
+484058,r.c.t. for premolar / incisors,1,dental
+484060,r.c.t. for premolar-incisors,1,dental
+484061,r.c.t. for incisors & canines,1,imaging
+484062,r.c.t. for interior,1,imaging
+484064,r.c.t. for molar 416,1,dental
+484065,r.c.t. for molars & premolars,1,imaging
+484067,r.c.t. for premolar incisors 415,1,dental
+484068,r.c.t. for premolar with filling,1,dental
+484070,r.c.t. for premolar/incisors 415,1,dental
+484071,r.c.t. more than one canal,1,dental
+484073,r.c.t. multi root tooth,1,dental
+484074,r.c.t. multi roots,1,imaging
+484077,r.c.t. three canal,1,dental
+484079,r.c.t. two canal,1,dental
+484080,r.c.t. two canal with filling premolar,2,dental
+484082,r.c.t. uni root tooth,1,dental
+484083,r.c.t. with abscess filling,1,dental
+484084,r.c.t. with multi root amalgam filling,1,dental
+484086,r.c.t. with abscess and amulgum,1,procedure
+484087,r.c.t.(anterior)with filling,1,dental
+484088,r.c.t.(molar,1,dental
+484089,r.c.t.(posterior) with filling,1,dental
+484090,r.c.t.decidous teeth pulpotomy de00366059 # 55,1,dental
+484091,r.c.t.decidous teeth pulpotomy de00366059 # 64,1,dental
+484092,r.c.t.decidous teeth pulpotomy de00366059 # 75,1,dental
+484093,r.c.t.decidous teeth pulpotomy de00366059 # 84,1,dental
+484094,r.c.t.decidous teeth pulpotomy w/o filling,1,dental
+484095,r.c.t.for anterior teeth,1,dental
+484096,r.c.t.multi root with filling,3,dental
+484098,r.c.t.multi root with filling with abscess,2,dental
+484100,r.c.t.multi roots with filling,2,dental
+484101,r.c.t.multi roots with filling with abscess,1,dental
+484102,r.c.t.multi root,1,imaging
+484103,r.c.t.multi root with abscess,2,procedure
+484104,r.c.t.multi root with amalgam fill,2,dental
+484107,r.c.t.multi root with fill,1,imaging
+484110,r.c.t.one root with filling,2,dental
+484111,r.c.t.one root with filling with abscess,2,dental
+484115,r.c.t.posterior,1,imaging
+484116,r.c.t.three roots,1,imaging
+484117,r.c.t.two roots with filling with abscess,1,dental
+484118,r.c.t.unspecified,1,imaging
+484119,r.c.t.with abscc,1,imaging
+484120,r.c.t.with abscc with fi,1,imaging
+484121,r.c.t.with abscc with filling,2,dental
+484123,r.c.t.with abscess,1,procedure
+484124,r.c.t.with abscise with amalgm filling,1,dental
+484125,r.c.t.with abscess a.f,2,procedure
+484126,r.c.t.with abscess+a.f,2,procedure
+484129,r.c.tinf .ant . tooth,1,dental
+484130,r.c.tinf. ant. tooth,2,dental
+484131,r.c.tinf. post. tooth,2,dental
+484132,r.c.tinf. post. tooth w/filling,1,dental
+484133,r.c.twhit filling,1,dental
+484135,r.card. cath w/o angiography ca00381206,1,imaging
+484136,r.cardiac cath w/o angiography,1,imaging
+484137,r.cavalli,1,eyewear
+484138,r.cavalli/agata416/c55/55/f,1,eyewear
+484139,r.cavalli/amegreen480/018/53/f,1,eyewear
+484140,r.cavalli/amegreen480/28a/55/f,1,eyewear
+484141,r.cavalli/ameqreen480/034/53/f,1,eyewear
+484142,r.cavalli/angelite478/001/53/f,1,eyewear
+484143,r.cavalli/artemisia540/034/53,1,eyewear
+484144,r.cavalli/avorio415/160/54/f,1,eyewear
+484145,r.cavalli/boji486/072/53/f,1,eyewear
+484146,r.cavalli/cavanshe498/001/52/f,1,eyewear
+484147,r.cavalli/cavansite498/042/52,1,eyewear
+484148,r.cavalli/cavansite498/052/52,1,eyewear
+484149,r.cavalli/cavansite498/066/52,1,eyewear
+484150,r.cavalli/citrino495/028/52/f,1,eyewear
+484151,r.cavalli/clorite493/008/53/f,1,eyewear
+484152,r.cavalli/clorite493/028/53/f,1,eyewear
+484153,r.cavalli/giacinto257/842,1,eyewear
+484154,r.cavalli/rc0715/050/f,1,eyewear
+484155,r.cavalli/rc769u/052/f,1,eyewear
+484156,r.cavalli/rc868/005/f,1,eyewear
+484157,r.cavalli/rc928/002/f,1,eyewear
+484158,r.cavalli/rc938/052/f,1,eyewear
+484159,r.cavalli/rc941/001/f,1,eyewear
+484160,r.ecg,1,diagnostic
+484163,r.f,5,lab_test
+484164,r.f - rheum factor,1,lab_test
+484165,r.f factor,1,lab_test
+484166,r.f(ra,2,lab_test
+484168,r.f-raf,1,lab_test
+484170,r.f. latex,1,lab_test
+484171,r.f.c,1,lab_test
+484172,r.f.t,1,lab_test
+484174,r.h. factor,1,lab_test
+484175,r.h.factor,1,lab_test
+484178,r.o.p work up,1,lab_test
+484179,r.o.p. evaluation + workup,1,consultation
+484180,r.p.r,2,lab_test
+484181,r.p.r / vdrl,1,lab_test
+484182,r.p.r (v.d.r.l,1,lab_test
+484183,r.p.r / v.d.r.l,1,lab_test
+484184,r.p.r 4.50,1,lab_test
+484185,r.p.r or vdrl,1,lab_test
+484186,r.p.r or vdrl (5309,1,lab_test
+484188,r.p.r. ( vdrl,1,lab_test
+484189,r.p.r. or vdrl,1,lab_test
+484190,r.r extraction(non surgical,1,dental
+484191,r.r ext,1,lab_test
+484192,r.r. extraction(surgical,1,dental
+484193,r.r. extraction ( surgical,1,dental
+484194,r.stock impress mono2 (1.67) spb,1,other
+484195,r.stock - r2188cd,1,other
+484196,r.stock - r2287ca,1,other
+484197,r.stock - r2357ca,1,other
+484198,r.stock - r2586ca,1,other
+484199,r.stock - r2590ca,1,other
+484200,r.stock - r7008ca,1,other
+484201,r.stock - r7011cb,1,other
+484202,r.stock - r7019ca,1,other
+484203,r.stock - r7019cc,1,other
+484204,r.stock - r7023ca,1,other
+484205,r.stock - r7040cc,1,other
+484206,r.stock - r7401cc,1,other
+484207,r.stock coating option (1.50) perfastar gr1,1,other
+484208,r.stock coating option (1.50) spb,1,other
+484209,r.stock dufolit seg-28 solitaire,1,other
+484210,r.stock o - r2365,1,other
+484211,r.stock o - r7011,1,other
+484212,r.stock o - r7017,1,other
+484213,r.stock perfalit free 1.5 solitaire top coat,1,other
+484216,r.stock trivex 1.53 sv clear solitaire,1,eyewear
+484217,r.stock exective 1.5 m/c gr1,1,other
+484220,r.stock exective 1.5 m/c spb gr1,1,other
+484221,r.stock exective 1.5 m/c spb gr2,1,other
+484222,r.stock exective 1.5 m/c stc gr1,1,eyewear
+484223,r.stock exective 1.5 m/c stc gr2,1,eyewear
+484225,r.stock rx s.v 1.5 cosmolit spb,1,eyewear
+484226,r.stock rx s.v 1.5 cosmolit stc,1,eyewear
+484227,r.stock rx s.v 1.5 multigressiv mono 2 spb,1,eyewear
+484228,r.stock rx s.v 1.5 multigressiv mono 2 stc,1,eyewear
+484230,r.stock rx s.v 1.5 perfalit spb,1,eyewear
+484231,r.stock rx s.v 1.5 perfalit stc,1,eyewear
+484233,r.stock rx s.v 1.5 perfastar high plus perfalit spb,1,eyewear
+484234,r.stock rx s.v 1.53 trivex perfalit spb,1,eyewear
+484235,r.stock rx s.v 1.53 trivex perfalit stc,1,eyewear
+484237,r.stock rx s.v 1.59 poly impression mono 2 spb,1,eyewear
+484238,r.stock rx s.v 1.59 poly multigressiv mono 2 stc,1,eyewear
+484240,r.stock rx s.v 1.59 poly perfalit spb,1,eyewear
+484241,r.stock rx s.v 1.59 poly perfalit stc,1,eyewear
+484243,r.stock rx s.v 1.6 cosmolit spb,1,eyewear
+484244,r.stock rx s.v 1.6 cosmolit stc,1,eyewear
+484246,r.stock rx s.v 1.6 impression mono 2 spb,1,eyewear
+484248,r.stock rx s.v 1.6 multigressiv mono 2 spb,1,eyewear
+484249,r.stock rx s.v 1.6 multigressiv mono 2 stc,1,eyewear
+484251,r.stock rx s.v 1.6 perfalit spb,1,eyewear
+484252,r.stock rx s.v 1.6 perfalit stc,1,eyewear
+484255,r.stock rx s.v 1.67 cosmolit spb,1,eyewear
+484256,r.stock rx s.v 1.67 cosmolit stc,1,eyewear
+484259,r.stock rx s.v 1.67 perfalit spb,1,eyewear
+484260,r.stock rx s.v 1.74 cosmolit stc,1,eyewear
+484263,r.stock rx s.v 1.74 perfalit spb,1,eyewear
+484264,r.stock rx s.v 1.74 perfalit stc,1,eyewear
+484266,r.stock rx2 s.v 1.5 cosmolit spb,1,lab_test
+484267,r.stock rx2 s.v 1.5 cosmolit stc,1,eyewear
+484269,r.stock rx2 s.v 1.5 multigressiv mono 2 stc,1,eyewear
+484271,r.stock rx2 s.v 1.5 perfalit spb,1,lab_test
+484272,r.stock rx2 s.v 1.5 perfalit stc,1,eyewear
+484275,r.stock rx2 s.v 1.53 trivex perfalit stc,1,eyewear
+484277,r.stock rx2 s.v 1.59 poly perfalit stc,1,eyewear
+484279,r.stock rx2 s.v 1.6 cosmolit spb,1,lab_test
+484280,r.stock rx2 s.v 1.6 cosmolit stc,1,eyewear
+484282,r.stock rx2 s.v 1.6 perfalit spb,1,lab_test
+484283,r.stock rx2 s.v 1.6 perfalit stc,1,eyewear
+484284,r.stock rx2 s.v 1.67 cosmolit spb,1,lab_test
+484285,r.stock rx2 s.v 1.67 cosmolit stc,1,eyewear
+484286,r.stock rx2 s.v 1.67 multigressiv mono 2 plus spb,1,eyewear
+484288,r.stock rx2 s.v 1.67 perfalit spb,1,lab_test
+484289,r.stock stock s.v 1.5 perfalit stc,1,eyewear
+484290,r.stock stock s.v 1.6 perfalit stc,1,eyewear
+484291,r.stock stock s.v 1.67 perfalit stc,1,eyewear
+484292,r.t. assist.to intra-hosp.transport,1,lab_test
+484293,r.t. treatment,1,lab_test
+484294,r.t.c (multirooted,1,lab_test
+484295,r.t.c (multirooted) rct3,1,lab_test
+484296,r.t.c multi root with amalgam filling,1,dental
+484297,r.t.c multi root with abscise adn amalgam filling,1,dental
+484298,r.t.p mega 1.2,1,lab_test
+484299,r.t.p mega1.2,1,lab_test
+484300,r.thoracoscopy and lung biopsy,1,procedure
+484301,r.v.g,1,lab_test
+484303,r.blood suger,1,lab_test
+484305,r.fr.dis.one b.leg ped g.stick+cast,1,eyewear
+484306,r/l soft tissue release of the knee,1,procedure
+484307,r/o 1 tooth or part(s) thereof-tawunya,1,dental
+484309,r/o bridge or splint,1,dental
+484310,r/o calculus from surfaces of teeth,3,dental
+484311,r/o cervical suture,2,imaging
+484312,r/o crown,1,dental
+484313,r/o hyperplastic tissue,2,other
+484314,r/o intranasal foreign body,3,other
+484315,r/o intrauterine device [iud,2,other
+484316,r/o root filling per canal,4,dental
+484317,r/o venous catheter,1,supplies
+484319,r/o 1 tooth or part(s) thereof primary teeth ext,1,dental
+484324,r/o asst/adaptive device/aid/equip,2,other
+484325,r/o cast,4,supplies
+484326,r/o f.b deep or in critical area (around vessel or joint nerves,1,lab_test
+484327,"r/o f.b deep or in critical area (around vessel or joint, nerves",2,lab_test
+484329,"r/o fb from auditory canal wo incision, unilateral",2,dental
+484330,r/o fb from auditory canal wo incision unilateral,1,dental
+484331,"r/o fb from auditory canal wo incision, bilateral",1,dental
+484333,r/o fb from head/neck wo incision,1,procedure
+484334,r/o fb from mouth without incision,1,procedure
+484335,r/o foreign body from ssct w incision,2,procedure
+484336,r/o full arm or full leg cast,1,supplies
+484337,r/o hip spica,1,other
+484338,r/o i.m.n. or interlocking nail,1,supplies
+484340,r/o screws plates or screws & plates,1,supplies
+484341,"r/o screws, plates or screws",1,supplies
+484342,"r/o screws, plates or screws & plates",1,supplies
+484343,"r/o screws, plates or screws and plates",1,supplies
+484349,r/o cemented root cnl post or post crown,1,dental
+484351,r/o fingernail,1,other
+484353,r/o foreign body from ssct w/ incision,1,procedure
+484354,r/o foreign body from ssct w/ incision f.b removal,1,procedure
+484355,r/o foreign body from ssct w/o incision,2,procedure
+484357,r/o foreign body from ssct wo incision,1,procedure
+484358,r/o foreign body wo incision nec,1,procedure
+484363,r/o lesion of cerebellopontine angle,1,other
+484365,r/o of hyperplastic tissue,1,other
+484366,"r/o of sutures, nec",1,supplies
+484367,r/o peritoneal ectopic pregnancy,1,other
+484368,r/o plaque or stain teeth,4,dental
+484372,r/o subdermal hormone implant,1,lab_test
+484373,r/o sutures nec,2,supplies
+484375,r/o teeth or part(s) thereof,1,dental
+484376,r/o thoracotomy tube/pleural cv drain,1,supplies
+484377,"r/o vitreous pars plana approach, unilateral",1,other
+484378,r/o1toothorpart(s)thereof,1,other
+484379,"r01b (drg) lymphma&leukma+mjr gi, minc (4 days alos",1,inpatient
+484380,r10 thyroid ultrasound,1,imaging
+484381,r11 chest,1,other
+484382,r12 sternum,1,other
+484383,r14 clavicle,1,other
+484384,r15 sterno-clavicular,1,other
+484385,r17 mammography,1,imaging
+484386,r20 abdomen k.u.b,1,lab_test
+484387,r21 pelvis,1,other
+484388,r22 ultrasound,1,imaging
+484389,r24 shoulder,1,other
+484390,r26 humerus,1,other
+484391,r27 elbow,1,other
+484392,r28 fore-arm,1,other
+484393,r29 wrist,1,other
+484394,"r3 20deg. xlpe acetabular liner,36mm x 52mm,71335752",1,other
+484395,r30 hand,1,other
+484396,r307/fidji/52/17 rayban,1,eyewear
+484397,r307/fidji/52/17=rayban,1,eyewear
+484398,r32 hip joint,1,imaging
+484399,r33 femur,1,other
+484400,r34 knee,1,other
+484401,r35 leg,1,other
+484402,r36 ankle,1,other
+484403,r37 foot,1,other
+484404,r38 cervical,1,imaging
+484405,r39 thoracie,1,other
+484407,r40 thoraco-lumber,1,other
+484408,r401/blk/55/15 =romentic,2,other
+484409,r401/blk/55/15 =romantic,1,other
+484411,r4010/4/blk/55/15 =romentic,1,other
+484412,r41 lumbo-sacral,1,other
+484413,r417/3/d.brn/60/13 =romentic,2,other
+484415,r43 coccyx,1,other
+484416,r51 carotid arteries,1,other
+484417,r53 lower limb,1,other
+484418,r55 u.s. soft tissues,1,imaging
+484419,r8 nasopharynx,1,other
+484420,r9 lateral soft tissue,1,other
+484421,r9143/53/52/19 =rochas 2,3,other
+484423,r9143/54/52/19 =rochas 2,2,other
+484425,r9143/55/52/19 =rochas 2,2,other
+484427,r9144/03/52/18 =rochas 2,2,other
+484429,ra ( rheumatoid factor,1,lab_test
+484432,ra factor 6302,1,lab_test
+484433,ra factor (rf,1,lab_test
+484434,ra factor (rheumatoid factor,2,lab_test
+484436,ra factor - ????? ?????????,1,lab_test
+484437,ra factor - lab test,1,lab_test
+484438,ra factor - rheumatoid factor,1,lab_test
+484439,ra factor screening (rheumatoid factor,1,lab_test
+484444,ra factor-4061-lab,1,lab_test
+484446,ra factor/quantitative,1,lab_test
+484448,"ra factor, serum",1,lab_test
+484449,ra factor[11.05,1,lab_test
+484450,ra latex,1,lab_test
+484452,ra quantitative,1,lab_test
+484453,ra reumatoid factor,1,lab_test
+484454,ra test,1,lab_test
+484455,ra activity,1,lab_test
+484456,ra%20factor,1,lab_test
+484457,ra%20factor%20,1,lab_test
+484458,ra-latex,1,lab_test
+484459,ra1124/9221/53/17,1,other
+484460,ra2039/5001/54/15 =raydan,1,other
+484461,ra2039/5001/54/15=rayban,1,eyewear
+484462,ra33 (rheumatoid arthritis-associated autoantigen hnrnp-a2) abs,1,lab_test
+484463,ra6042/131/52/17 poloralph,1,other
+484464,ra7031/1001/52/16 poloraiph,1,other
+484465,ra7063/1423/51/16 poloraiph,1,other
+484466,raafat khalaf rasmy,1,other
+484467,rabab elsayed khalil hassan,1,other
+484468,rabah fayez elhashash,1,other
+484469,rabbit - ra105,1,other
+484470,rabbit meat food allergen,1,lab_test
+484471,rabel 4253,1,other
+484485,rabid antigen test a(h1 n1,1,lab_test
+484486,rabid blood sugar,1,lab_test
+484487,rabies ab - s.o,1,lab_test
+484492,rabies virus (produced in vero cells) wistar rabies strain,1,other
+484496,racecadotril,1,other
+484517,rachid - lounici,1,other
+484518,rad- portable 'us' charge,1,imaging
+484519,rad- portable 'x-ray' charge,1,imaging
+484520,rad2ius-ulna (forearm) - 2v,1,imaging
+484521,radial arterial line ins,1,other
+484522,radial artery compression tr band,1,other
+484523,radial compression device regular 24cm sterile disposable,1,supplies
+484524,radial head # comminuted excision/ga,1,procedure
+484525,radial keratotomy,2,procedure
+484527,radial procedure kit elves 70cm,1,other
+484528,"radial sheath 6fr 10cm#rm*rf6f10pq, terumo , cath-lab",1,supplies
+484529,"radial sheath 6fr 10cm#rm*rf6f10pq, terumo , cath-lab , cath-lab",1,supplies
+484530,radial sheath terumo (various sizes,1,supplies
+484531,radial shockwave therapy,1,physiotherapy
+484532,radial styloidectomy and orif of scaphoid and bone graft,1,imaging
+484533,radial thyroidectomy,2,procedure
+484534,radian,1,other
+484538,radian ice,1,other
+484548,radian massage cr,1,physiotherapy
+484559,radian massage crm,1,physiotherapy
+484563,radiat field setg using simulator complx,1,other
+484564,radiat fld setting usg dedicated ct scan,2,imaging
+484565,radiat mgvlt >= 2 fld dual modlty linac,2,other
+484566,radiation (full cost,1,physiotherapy
+484567,radiation (half cost,1,physiotherapy
+484568,radiation field setg usg simultr intrmed,1,imaging
+484569,radiation field setg usg simultr simple,1,imaging
+484570,radiation field setting for 3dcrt,2,physiotherapy
+484571,radiation field setting for imrt,2,physiotherapy
+484572,radiation field setting using dedicated ct scanner,2,imaging
+484573,radiation rx mgvlt 1fld sgl modlty linac,1,eyewear
+484574,"radiation therapy management ,w/ complete course of therapy consisting of one / two fractions only",1,physiotherapy
+484575,radiation therapy new patient,1,physiotherapy
+484576,"radiation treatment delivery,3 / more separate treatment areas,custom blocking tangential port,wedges,rotation/electron beam,up to 5mev",1,physiotherapy
+484577,"radiation treatment management ,5 treatment",1,physiotherapy
+484578,"radiation treatment, megavoltage, >= 2 fields, single modality linear",2,physiotherapy
+484579,radiation treatment-megavolta,1,physiotherapy
+484580,radic mastoidectomy+tympanplas,1,procedure
+484581,radical - planning,1,other
+484582,"radical / modified mastectomy, unilateral ( up to 5 days package",1,procedure
+484583,radical / total thyroidectomy and or recurrent cases,1,procedure
+484584,radical / total thyroidectomy and or recurrent cases with ligasure,1,procedure
+484585,radical abdominal hysterectomy,1,procedure
+484586,radical abdominal hysterectomy + lymphnode- 4 days pkg,1,procedure
+484587,radical abdominal hysterectomy - 6days pkg,1,procedure
+484588,radical abdominal hysterectomy with radical excision of pelvic lymph n,1,procedure
+484589,radical biopsy,2,procedure
+484590,radical cure of the ingrown toenail or fingernail,1,other
+484591,radical cyctectmy& urinar,1,other
+484592,radical cystec. w/ bil.pelvic lymp node dis. w/ urin. diver. by ileal con. - 2days icu & 19days pkg,1,consultation
+484593,radical cystectomy,2,procedure
+484594,radical cystectomy with pouch,1,supplies
+484595,radical exc.of ingrowing toe nail(1 side,1,supplies
+484596,radical exci./ingrow.nail,1,supplies
+484597,radical excision of fingernail bed,1,supplies
+484598,radical excision of ingrowing nail (bila,1,supplies
+484599,radical excision of ingrowing toe nail,1,supplies
+484600,radical excision of ingrown toenail bed,1,supplies
+484602,"radical excision of ingrown toenail bed,unilateral",2,supplies
+484603,radical excision of intraoral lesion,1,procedure
+484604,radical excision of lymph nodes of axilla,1,procedure
+484605,radical excision of lymph nodes of neck,1,procedure
+484606,radical excision of lymph nodes of other site,1,procedure
+484607,radical excision of malignant tumor (liposarcoma) of pelvic extension,1,procedure
+484608,radical excision of nail bed,1,supplies
+484609,radical excision of retroperitoneal lymph nodes - 2days icu and 14days pkg,1,procedure
+484610,radical excision of skin lesion (abdominal wall tumour excision) - 3 day pkg,1,procedure
+484611,radical excision of skin lesion (medium : large,1,procedure
+484612,radical excision of skin lesion(abd.wall tumour e,1,procedure
+484613,radical excision of skin lesion(abd.wall tumour e (o-51-c86.4,1,procedure
+484614,radical excision of the nail(adult,1,supplies
+484615,radical excision of the nail(child,1,supplies
+484616,radical excision of thyroglossal cyst or fistula,1,procedure
+484617,radical excision of toe nail (zadek's op,1,supplies
+484618,radical excision of toe nail (zadek's op.) los 1 day,1,supplies
+484619,radical gastrectomy,1,procedure
+484620,radical hemicolectomy right or left,1,procedure
+484621,radical hysterectomy,3,procedure
+484622,radical hysterectomy (panhysterectomy + l.n clearance,1,procedure
+484623,radical hysterectomy w/o histopathology,2,lab_test
+484625,radical mastectomy,2,procedure
+484626,radical mastectomy (unilateral,1,procedure
+484627,radical mastectomy /w/removal of lymph nodes,1,procedure
+484628,radical mastectomy with axillary clearance (one side,1,supplies
+484629,radical mastectomy with removal of nodes,2,procedure
+484630,radical mastiodectomy,1,procedure
+484631,radical mastoidectomy,2,procedure

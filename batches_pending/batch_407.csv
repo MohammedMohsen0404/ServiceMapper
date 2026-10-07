@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+606319,ventilator (ordinary)/day,1,supplies
+606320,ventilator (oxygen) per hour,1,supplies
+606321,ventilator - (24 hours,1,supplies
+606322,ventilator - (24 hours) - 148-14031,1,supplies
+606323,ventilator - (per hour,1,supplies
+606324,ventilator - daily rate,1,supplies
+606325,ventilator - daily rate (bupa,1,supplies
+606326,ventilator - ippb (per hour,1,supplies
+606327,ventilator / d,1,supplies
+606328,ventilator / day,2,supplies
+606330,ventilator / day(exclduing oxygen charge,1,supplies
+606331,ventilator / day(intermed. care,1,supplies
+606332,ventilator /24h,1,supplies
+606333,ventilator /d,1,supplies
+606334,ventilator /day,1,supplies
+606335,ventilator 24 h with suction,1,supplies
+606336,ventilator 24 hours with suction,1,supplies
+606337,ventilator 24 hours with suction w/o consumables,1,supplies
+606338,ventilator 24 hrs with suction,1,supplies
+606339,ventilator 24hr with suction,1,supplies
+606340,ventilator < 12 hours,1,supplies
+606341,ventilator adult per day,1,supplies
+606342,ventilator adult per day - p.d,1,supplies
+606343,ventilator breathing circuits (a,1,supplies
+606344,ventilator charge / day,1,supplies
+606345,"ventilator check, subsequent day",1,supplies
+606346,ventilator circuit adult,1,supplies
+606347,ventilator circuit per pcs,1,supplies
+606348,ventilator day,1,supplies
+606349,ventilator dual asynchronous,1,supplies
+606350,ventilator icu / day,1,supplies
+606351,ventilator icu per day,1,supplies
+606352,ventilator infant breathing circuit single limb line flow 4l/mn - per pcs,1,supplies
+606353,ventilator invasive pap w/ tracheostomy lowenstein#ventilogic ls,1,lab_test
+606354,ventilator neonatal per day,1,supplies
+606355,ventilator pedia day,1,supplies
+606356,ventilator pedia circuits,1,supplies
+606357,ventilator pediatric circuit heated wire,1,supplies
+606358,ventilator per 24 hours,1,supplies
+606359,ventilator per day,1,supplies
+606360,ventilator per day -p.d,1,supplies
+606361,ventilator per hour,1,supplies
+606363,ventilator service/ day,1,supplies
+606364,ventilator set,1,supplies
+606365,ventilator start,1,supplies
+606366,ventilator support ltec n icu env cst,1,supplies
+606367,ventilator tubing & accessories (adult,1,supplies
+606368,ventilator tubing & accessories (neonatal,1,supplies
+606369,ventilator tubing and accessories (adult,1,supplies
+606370,ventilator tubing and accessories (neonatal,1,supplies
+606371,ventilator use/day,1,supplies
+606372,ventilator use/newborn/day (exc. o2 char,1,supplies
+606373,ventilator w/out oxgy/day,1,supplies
+606374,"ventilator, dual asynchronous",1,supplies
+606375,ventilator-nebulizer,1,supplies
+606376,ventilator/incubator portable,1,supplies
+606377,ventilator/pedia/day,1,supplies
+606378,ventilator: hfjv/day,1,supplies
+606379,ventilatorday,1,other
+606380,ventilators intensive care neonatal/pediatric bubble cpap system sterile disposable,1,supplies
+606381,ventilatory pulmonary fuction test,1,lab_test
+606382,ventilatory pulmonary fuction test pre/post bronchodilator,1,lab_test
+606383,ventilatory pulmonary fuction test pre/post bronchodilator - pedia,1,lab_test
+606384,ventillator/adult/day,1,other
+606385,ventimask w/g venturi,1,other
+606386,vention nebulization(one set,1,supplies
+606387,ventiseal e.t tube 6.0 steri 038-971-060,1,supplies
+606388,ventiseal e.t tube 7.0 steri 038-971-070,1,supplies
+606389,ventlon + pulmcort + o2,1,other
+606390,ventmed bipap st20,1,other
+606391,ventolation,1,other
+606392,ventolen,1,other
+607127,ventolinespiratoryolutin,1,other
+607130,ventouse / outlet forceps - add,1,other
+607131,ventouse / vacuum / forceps assisted delivery,1,procedure
+607132,ventouse delivery,1,procedure
+607133,ventouse extraction,1,dental
+607167,ventral hernia excluding mesh,1,supplies
+607168,ventral hernia repair,1,procedure
+607169,ventral hernia repair / laprascopic,1,procedure
+607170,"ventralex hernia patch, 6.4cm, 5950008",1,supplies
+607171,ventralight mesh with sorbafix - per pcs,1,supplies
+607172,ventralight st echops 10x15,1,other
+607173,ventralight st ellipse mesh 15.2x20.3cm-per pcs,1,supplies
+607174,"ventrex complete evd system including disposable stand, neuromedex, 58-00110",1,supplies
+607175,ventricula peritoneal shunt in,1,procedure
+607176,ventricular - peritoneal shunt-pkg,1,procedure
+607177,ventricular / lumber shunt to abdom cavity / ext. drainage,1,procedure
+607178,ventricular cath 15 cm standard,1,supplies
+607179,ventricular cath w/stylet diff.size,1,supplies
+607180,"ventricular catheter # 41101 std barium, medtronic",1,imaging
+607181,ventricular drainage sys w/cath codman #821730,1,supplies
+607182,"ventricular drainge system , # 46915, aesculap",1,procedure
+607183,ventricular external drainage system medtronic/bmi/neuromedex #26040/6128+6118/46141/58-00110,1,supplies
+607184,ventricular shunt,1,procedure
+607185,ventricular shunt rev,1,procedure
+607186,ventricular shunt to abdom. cavity (ventriculo-per,1,procedure
+607187,ventricular shunt to abdom. cavity (ventriculo-per->c02.34,1,procedure
+607188,ventricular tachycardia ablation using 3d mapping system ( 2 days ccu,1,procedure
+607189,ventricular tapping,1,procedure
+607190,ventricular- artrial shunt,1,procedure
+607191,ventricular- peritoneal shunt,1,procedure
+607192,ventricular- peritonealhunt,1,other
+607193,ventriculo peritoneal or ventriculo atrial shunt,1,procedure
+607194,ventriculo peritoneal or ventriculo atrial shunt - 5 days pkg,1,procedure
+607195,ventriculo peritoneal shunts p/d,2,other
+607196,ventriculo venous or peritoneal shunt,1,procedure
+607197,ventriculo-peritoneal shunt,2,procedure
+607198,ventriculo-peritoneal or ventriculo atrial shunt,2,procedure
+607200,ventriculo-peritoneal shunt (ext. dr,1,procedure
+607201,ventriculo-peritoneal shunt insertion,2,procedure
+607202,ventriculo-peritoneal shunt w/o shunt price,1,procedure
+607203,ventriculo-venous or peritineal shunt,1,procedure
+607204,ventriculoatrial adjustable shunt,1,procedure
+607205,ventriculoperitoneal (vp) shunt - unilateral,1,procedure
+607206,ventriculoperitoneal adjustable shunt,1,procedure
+607207,ventriculoperitoneal adjustable shunt tcs,1,procedure
+607208,ventriculoperitoneal shunt,2,procedure
+607209,ventriculoperitoneal shunt insertion,2,procedure
+607210,ventriculoperitoneal shunt revision : total revision- (p.d,1,procedure
+607211,ventriculoperitoneal standard shunt,1,procedure
+607212,ventriculoperitoneal standard shunt bup,1,procedure
+607213,ventriculostomy (holter valve insertion)->c02.2,1,diagnostic
+607214,ventstar (n) basic mp00353,1,other
+607215,ventstar exylog 3000f 2000p 5x cat# 5702871 - drager,1,supplies
+607216,ventstar heated (n) # mp00308,1,other
+607217,"ventstar heated neonatal #mp00308,drager",1,supplies
+607218,"ventstar helix heated(n)plus#mp02608,drager",1,supplies
+607219,ventstar oxylog 2000 180 drager # 2m86841,1,supplies
+607220,"ventstar oxylog3000f ,2000p x5 - per pcs",1,other
+607221,ventstar resuscitaire ceu # mp00310,1,other
+607222,ventulator / day,1,other
+607223,ventura 1056 m21 52,1,other
+607224,venturi mask adult,2,supplies
+607225,venturi mask adult 032-10-028tnc,1,supplies
+607226,venturi mask adult 032-10-028t flexicare,1,supplies
+607227,venturi mask for adult,1,supplies
+607228,venturi mask for pedia,1,supplies
+607229,venturi mask kit adult #224/5009,1,supplies
+607230,venturi oxygen mask # 1088/41088,1,supplies
+607231,ventx infiltration tubing,1,supplies
+607232,ventx suction tubing #130-0071,1,supplies
+607233,ventx suction tubing #1300161,1,supplies
+607234,ventx suction tubing-per pcs,1,supplies
+607238,venus bump infusion,1,supplies
+607239,venus assist system - dvt,1,other
+607240,venus duplex,1,other
+607241,venusection,1,other
+607242,venzhou teloon tr.285 0 pink,1,other
+607243,ver,1,other
+607244,ver ( visual evoked response,1,other
+607245,ver (visual evoked response,2,other
+607247,ver visual evoked response,1,other
+607248,ver-visual evoked response,1,other
+607249,ver1840/c3/f,1,eyewear
+607250,ver1850/c3/f,1,eyewear
+607251,ver1850/c4/f,1,eyewear
+607252,ver1860/c2/f,1,eyewear
+607253,ver1860/c4/f,1,eyewear
+607254,ver1860e/c10/f,1,other
+607255,ver1860e/c11/f,1,other
+607256,ver1860e/c7/f,1,other
+607257,ver1860e/c8/f,1,other
+607258,ver1860e/c9/f,2,other
+607259,ver2166/c04/51/f,1,other
+607260,ver2169/c4/f,1,eyewear
+607261,ver2170/c03/52/f,1,other
+607262,ver2171/c2/f,1,eyewear
+607263,ver2172/c01/52/f,1,eyewear
+607264,ver2172/c02/52/f,1,other
+607265,ver2172/c03/52/f,1,other
+607266,ver2172/c05/52/f,1,other
+607267,ver2175/c03/f,1,other
+607268,ver2176/c03/52/f,1,other
+607269,ver2178/c04/52/f,1,other
+607270,ver2182/c01/52/f,1,eyewear
+607271,ver2182/c02/52/f,1,other
+607272,ver2182/c06/52/f,1,other
+607273,ver2191/c1/f,1,eyewear
+607274,ver2193/c3/f,1,eyewear
+607275,ver2193/c4/f,1,eyewear
+607276,ver2197/c1/f,1,eyewear
+607277,ver2197/c3/f,1,eyewear
+607278,ver2197/c4/f,1,eyewear
+607279,ver2199/c1/f,1,eyewear
+607280,ver2199/c3/f,1,eyewear
+607281,ver2199/c5/f,1,eyewear
+607282,ver2201/c1/f,2,eyewear
+607283,ver2201/c5/f,1,eyewear
+607284,ver2201/c6/f,1,eyewear
+607285,ver2203/c1/f,1,eyewear
+607286,ver2203/c3/f,1,eyewear
+607287,ver2205/c1/f,1,eyewear
+607288,ver2205/c3/f,1,eyewear
+607289,ver2205/c6/f,1,eyewear
+607290,ver2207/c1/f,1,eyewear
+607291,ver2207/c2/f,1,eyewear
+607292,ver2207/c6/f,1,eyewear
+607293,ver2209/c1/f,1,eyewear
+607294,ver2211/c1/f,1,eyewear
+607295,ver2211/c2/f,1,eyewear
+607296,ver2222/c3/f,1,eyewear
+607297,ver2222/c4/f,1,eyewear
+607298,ver2222/c5/f,1,eyewear
+607299,ver2222/c6/f,1,eyewear
+607300,ver2226/c1/f,1,eyewear
+607301,ver2226/c2/f,1,eyewear
+607302,ver2226/c3/f,1,eyewear
+607303,ver2226/c4/f,1,eyewear
+607304,ver2228/c4/f,1,eyewear
+607305,ver2234/c3/f,1,eyewear
+607306,ver2236/c3/f,1,eyewear
+607307,ver2236/c4/f,1,eyewear
+607308,ver2236/c5/f,1,eyewear
+607309,ver2238/c3/f,1,eyewear
+607310,ver2240/c1/f,1,eyewear
+607311,ver2240/c2/f,1,eyewear
+607312,ver2240/c4/f,1,eyewear
+607313,ver2242/c5/f,1,eyewear
+607314,ver2242/c6/f,1,eyewear
+607315,ver2244/c2/f,1,eyewear
+607316,ver2246/c3/f,1,eyewear
+607317,ver2248/c2/f,1,eyewear
+607318,ver2248/c4/f,1,eyewear
+607319,ver2248/c5/f,1,eyewear
+607320,ver2248/c6/f,1,eyewear
+607321,ver2250/c1/f,1,eyewear
+607322,ver2250/c3/f,1,eyewear
+607323,ver2252/c1/f,1,eyewear
+607324,ver2252/c3/f,1,eyewear
+607325,ver2252/c5/f,1,eyewear
+607326,ver2254/c2/f,1,eyewear
+607327,ver2254/c4/f,1,eyewear
+607328,ver2254/c5/f,1,eyewear
+607329,ver2254/c6/f,1,eyewear
+607330,ver2256/c1/f,1,eyewear
+607331,ver2256/c4/f,1,eyewear
+607332,ver2256/c6/f,1,eyewear
+607333,ver2258/c2/f,1,eyewear
+607334,ver2258/c6/f,1,eyewear
+607335,ver2260/c2/f,1,eyewear
+607336,ver2260/c3/f,1,eyewear
+607337,ver2260/c5/f,1,eyewear
+607338,ver2260/c6/f,1,eyewear
+607339,ver2262/c1/f,1,eyewear
+607340,ver2262/c2/f,1,eyewear
+607341,ver2262/c5/f,1,eyewear
+607342,ver2264/c1/f,1,eyewear
+607343,ver2264/c2/f,1,eyewear
+607344,ver2264/c5/f,1,eyewear
+607345,ver2264/c6/f,1,eyewear
+607346,ver2321/c4/f,1,eyewear
+607347,ver2327/c2/f,1,eyewear
+607348,ver2327/c6/53/f,1,eyewear
+607349,ver2329/c1/f,1,eyewear
+607350,ver2329/c2/f,1,eyewear
+607351,ver2329/c3/f,1,eyewear
+607352,ver2329/c4/f,1,eyewear
+607353,veraa,1,other
+607354,veraa optical,1,eyewear
+607355,veraa tr8192 c1,1,eyewear
+607356,veraa zn-3619m col.1,1,eyewear
+607389,verd 0.15% mouthwash and gargle,1,other
+607390,veress needle 120 mm,1,supplies
+607391,veress needle 15mm - 601239,1,supplies
+607392,veress needle fn-vn-120,1,supplies
+607393,vericella zoster(igg igg & igm,1,lab_test
+607396,verify procedure,1,other
+607534,verine 30tab,1,other
+607536,verine s.r,1,lab_test
+607554,verine s.r. 30caps,1,lab_test
+607556,verine sr 200,1,other
+607671,verine sr 30cap,1,other
+607681,verine sr200mg,1,other
+607682,verine sr200mg 1,1,other
+607699,verine135mg 30tab,1,other
+607700,verine135mgtab,1,other
+607701,verine200mg sr30cap,1,other
+607702,verine200mg 30capsr,1,other
+607703,veriner00mgustainedeleasedap,1,other
+607705,vermed ecg electrode adult,1,diagnostic
+607706,vermed ecg electrode pediatric,1,diagnostic
+607957,vermox30ml o.s,1,lab_test
+607958,vero,2,other
+607960,verona airochamber infant,1,other
+607961,verona alcohol swab 100pcs,1,lab_test
+607962,verona alcohol swab 200pcs,1,lab_test
+607963,verona crepe bandage 3x5,1,supplies
+607964,verona pore 10x25 cm with pad adhesive,1,supplies
+607965,verona pore 15x8 cm with pad,1,supplies
+607966,verona pore 6x7 cm with pad,1,supplies
+607967,verona proe 15x8 cm with pad,1,supplies
+607968,verona steri 3 strips one sheet 6x75mm,1,supplies
+607969,verona steri 5 strips 2 sheet 6x100mm,1,supplies
+607973,verona/vrn510/c1/f,1,eyewear
+607974,verona/vrn510/c3/f,1,eyewear
+607975,verona/vrn512/c1/f,1,eyewear
+607976,verona/vrn512/c3/f,1,eyewear
+607977,verona/vrn512/c4/f,1,eyewear
+607978,verona/vrn516/c4/f,1,eyewear
+607979,verona/vrn520/c4/f,1,eyewear
+607980,verona/vrn520/c5/f,1,eyewear
+607981,verona/vrn523/ci/f,1,other
+607982,verona/vrn5257/c1/f,1,eyewear
+607990,veroval duo control bp monitor device,1,eyewear
+607991,veroval baby lg5,1,other
+607992,"veroval baby lg5, hartmann",1,other
+607993,veroval blood pressure,1,lab_test
+607994,veroval blood pressure monitor,1,lab_test
+607995,veroval blood pressure wrist,1,lab_test
+607996,veroval compact (blood pressure) device,1,lab_test
+607997,"veroval compact (blood pressure) device/box device, box",1,lab_test
+607998,veroval compact b p monitor,1,lab_test
+607999,veroval compact blood pressure,1,lab_test
+608000,veroval compact blood pressure machine 22-42 cm,1,lab_test
+608001,veroval compact bpu22,1,other
+608002,veroval compact bpu22 blood pressure monitor,1,lab_test
+608003,veroval compact bpu22 p1,1,other
+608004,veroval compact bpu22 p1 device,1,other
+608005,"veroval compact bpu22, hartmann",1,other
+608006,veroval duo control,2,other
+608007,veroval duo control blood pressure,1,lab_test
+608008,veroval duo control blood pressure machine $,1,lab_test
+608009,veroval duo control blood pressure machine (dev,1,lab_test
+608010,veroval duo control blood pressure machine (dev) ^^,1,lab_test
+608011,veroval duo control blood pressure machine 32-42 cm,1,lab_test
+608012,veroval duo control bp monitor,1,eyewear
+608013,"veroval duo control, dummy manf",1,other
+608014,veroval duo scan,1,imaging
+608015,veroval duo scan thermometer (dev,1,imaging
+608016,veroval duo scan thermometer (dev) ^^,1,imaging
+608017,veroval ear thermometer ds22,1,supplies
+608018,veroval fever,1,other
+608019,"veroval fever (ear & forehead), hartmann",1,other
+608020,"veroval fever, dummy manf",1,other
+608021,veroval upper arm b.p,1,lab_test
+608022,"veroval upper arm blood pressure monitor, hartmann",1,lab_test
+608023,veroval upper arm blood pressure p1,1,lab_test
+608029,verruca removal (2- 4,1,procedure
+608031,"versa port trocar v2, 5mm, # 179094, autosuture,covidien/tyco",1,supplies
+608032,versac3175 5065,1,other
+608058,versace,3,eyewear
+608059,versace 3209 108 53,1,eyewear
+608060,"versace , 3209 , 108 , 53",1,eyewear
+608070,versace 1.56 - 4.00 : 2.00,1,eyewear
+608071,versace 1.59 rx - 4.00 : 2.00,1,eyewear
+608072,versace 1.74,1,eyewear
+608073,versace 1108,1,eyewear
+608074,versace 12401397,1,eyewear
+608075,versace 1254-b1428,1,eyewear
+608076,versace 1261-b1002,1,eyewear
+608077,versace 19.69 (1.50) bluecut gr1,1,eyewear
+608078,versace 19.69 opt vk3004 ful pls 49 c2 blu k,1,eyewear
+608079,versace 19.69 opt vm1722 ful pls 52 c1 blk/slv m,1,eyewear
+608080,versace 19.69 opt vm1905 ful pls 52 c2 van/gld u,1,eyewear
+608081,versace 19.69 opt vw1721 ful mtl 54 c2 brn/gld w,1,eyewear
+608082,versace 19.69 opt vw1721 ful mtl 54 c3 blk/slv w,1,eyewear
+608118,versace 19698016 03,1,eyewear
+608119,versace 19698016 06,1,eyewear
+608120,versace 19698017 01,1,eyewear
+608121,versace 19698017 02,1,eyewear
+608122,versace 19698019 01,1,eyewear
+608123,versace 19698019 02,1,eyewear
+608124,versace 19698019 04,1,eyewear
+608125,versace 19698020 05,1,eyewear
+608126,versace 19698022 02,1,eyewear
+608127,versace 1969v7065 1,1,eyewear
+608128,versace 2052 1000 71,1,eyewear
+608129,versace 21741252/5a,1,eyewear
+608130,versace 3194 gb1 52-15,1,eyewear
+608131,versace 3209 53 gb1,1,eyewear
+608132,versace 3271 gb1,1,eyewear
+608133,versace 4348gb1/11,1,eyewear
+608134,versace blk,1,eyewear
+608138,versace frm,1,eyewear
+608139,versace frm 1218/53/1342,1,eyewear
+608140,versace frm 1248/54/1052,1,eyewear
+608141,versace frm 1251/53/1366,1,eyewear
+608142,versace frm 1253/54/1252,1,eyewear
+608143,versace frm 1261/52/1002,1,eyewear
+608144,versace frm 1262/52/1252,1,eyewear
+608145,versace frm 1262/52/1412,1,eyewear
+608146,versace frm 1263/55/1002,1,eyewear
+608147,versace frm 1265/53/1433,1,eyewear
+608148,versace frm 1269/55/1002,1,eyewear
+608149,versace frm 1279/53/1001,1,eyewear
+608150,versace frm 1284/53/1002,1,eyewear
+608151,versace frm 1284/53/1412,1,eyewear
+608152,versace frm 1284/53/1489,1,eyewear
+608153,versace frm 1284/53/1490,1,eyewear
+608154,versace frm 3168b/969,1,eyewear
+608155,versace frm 3175/54/gb1,1,eyewear
+608156,versace frm 3255/52/108,1,eyewear
+608157,versace frm 3271/54/5305,1,eyewear
+608158,versace frm 3271/54/gb1,1,eyewear
+608159,versace frm 3273/52/gb1,1,eyewear
+608160,versace frm 3273/54/gb1,1,eyewear
+608161,versace frm 3276/52/108,1,eyewear
+608162,versace frm 3277/53/108,1,eyewear
+608163,versace frm 3284/52/gb1,1,eyewear
+608164,versace frm 3284/54/gb1,1,eyewear
+608165,versace frm 3285/53/gb1,1,eyewear
+608166,versace frm 3290/52/gb1,1,eyewear
+608167,versace frm 3293/55/gb1,1,eyewear
+608168,versace frm 3294/51/gb1,1,eyewear
+608169,versace frm 3296/52/5322,1,eyewear
+608170,versace frm 3298/53/5324,1,eyewear
+608171,versace frm 3298/53/5339,1,eyewear
+608172,versace frm 3298/55/108,1,eyewear
+608173,versace frm 3299/53/gb1,1,eyewear
+608174,versace frm 3304/51/108,1,eyewear
+608175,versace frm 3309/52/108,1,eyewear
+608176,versace frm 3313/52/108,1,eyewear
+608177,versace frm 3315/52/108,1,eyewear
+608178,versace frm 3315/52/gb1,1,eyewear
+608179,versace frm 3331/53/gb1,1,eyewear
+608180,versace fsv stock1.56 (+4.00/-4.00) (-2.25 to -4.00) m.c,1,eyewear
+608181,versace fsv stock1.56 qmatic pgx (up to -4.00) (-3.00) m.c,1,eyewear
+608182,versace fram,1,eyewear
+608189,versace kids frm,1,eyewear
+608190,versace kids frm 1002/48/1002,1,eyewear
+608191,versace kids frm 1002/48/1496,1,eyewear
+608192,versace kids frm 3003/48/5367,1,eyewear
+608193,versace kids frm 3003/48/5399,1,eyewear
+608194,versace kids frm 3003/48/5400,1,eyewear
+608195,versace kids frm 3004/48/5399,1,eyewear
+608196,versace kids frm 3004/48/5424,1,eyewear
+608197,versace kids frm 3004/48/gb1,1,eyewear
+608198,versace kids frm 3005/47/5425,1,eyewear
+608199,versace kids frm 3321/46/gb1,1,eyewear
+608200,versace kids frm 3321/48/5373,1,eyewear
+608201,versace kids frm 3321/48/gb1,1,eyewear
+608202,versace kids frm 3323/47/5441,1,eyewear
+608203,versace kids frm 3324/47/gb1,1,eyewear
+608204,versace kids frm 3325/47/gb1,1,eyewear
+608205,versace m.f - 1235,1,eyewear
+608206,versace o - v3092b,1,eyewear
+608207,versace opt 1247 hav mtl 52 1252 blk/gld w,1,eyewear
+608208,versace opt 1262 ful mtl 52 1456 gld/blk w,1,eyewear
+608209,versace opt 3186 ful pls 52 5279 vlt ct w,1,imaging
+608210,versace opt 3186 ful pls 52 5279 vlt w,1,eyewear
+608211,versace opt 3236 ful pls 52 blk/gld w,1,eyewear
+608212,versace opt 3240 ful pls 54 blk/gld w,1,eyewear
+608213,versace opt 3278-gb1 ful pls 53 blk/gold 135/w,1,eyewear
+608214,versace original,1,eyewear
+608215,versace progressive bi focals 1.56 bi focal (+4.00/-4.00) (-0.25 to -2.00) m.c,1,eyewear
+608216,versace progressive bi focals 1.56 bi focal (+4.00/-4.00) (-2.25 to -4.00) m.c,1,eyewear
+608217,versace progressive versace silver design 1.56 aspheric +4.00/-4.00) (-0.25 to -2.00) m.c,1,eyewear
+608218,versace progressive versace silver design 1.56 aspheric +4.00/-4.00) (-2.25 to -4.00) m.c,1,eyewear
+608219,versace progressive versace silver design 1.56 qmatic pgx asph +4.00/-4.00) (-0.25 to -2.00) m.c,1,eyewear
+608220,versace progressive versace silver design 1.61 aspheric +6.00/-8.01) (-2.25 to -4.00) m.c,1,eyewear
+608221,versace sv rx lenses 1.56 qmatic pgx asph (+4.00/-6.00) (-0.25 to -2.00) m.c,1,eyewear
+608222,versace sv rx lenses 1.56 qmatic pgx asph (+4.00/-6.00) (-2.25 to -4.00) m.c,1,eyewear
+608223,versace sv rx lenses 1.59 poly c mc (+4.00/-4.00) (-2.25 to -4.00) m.c,1,eyewear
+608224,versace sv rx lenses 1.59 poly c mc (+4.00/-4.00) (-2.25 to -4.00)blue cut,1,eyewear
+608225,versace sv rx lenses 1.61 aspheric (+8.00/-10.00) (-0.25 to -2.00) m.c,1,eyewear
+608226,versace sv rx lenses 1.61 aspheric (+8.00/-10.00) (-2.25 to -4.00) m.c,1,eyewear
+608227,versace sv rx lenses 1.67 aspheric (+10.00/-10.00) (-0.25 to -2.00) m.c,1,eyewear
+608228,versace sv rx lenses 1.67 aspheric (+10.00/-10.00) (-0.25 to -2.00)blue cut,1,eyewear
+608229,versace sv rx lenses 1.67 aspheric (+10.00/-10.00) (-2.25 to -4.00) m.c,1,eyewear
+608230,versace sv rx lenses 1.67 aspheric (+10.00/-10.00) (-2.25 to -4.00)blue cut,1,eyewear
+608231,versace sv rx lenses 1.67 aspheric (+10.00/-10.00) (-4.25 to -6.00) m.c,1,eyewear
+608232,versace sv rx lenses 1.67 aspheric (+10.00/-10.00) (-4.25 to -6.00)blue cut,1,eyewear
+608233,versace sv rx lenses 1.67 qmatic pgx asph (+8.00/-10.00) (-0.25 to -2.00) m.c,1,eyewear
+608234,"versace v3195, 52, gb1 = 04/2015",1,eyewear
+608235,"versace v3197, 53, 5101 = 04/2015",1,eyewear
+608236,"versace v3197, 53, 5102 = 04/2015",1,eyewear
+608237,versace ve3211,1,eyewear
+608238,versace/1064/1135/f,1,eyewear
+608239,versace/1138/1222/54/f,1,eyewear
+608240,versace/1156/1000/52/f,1,eyewear
+608241,versace/1183/1061/52/f,1,eyewear
+608242,versace/1198/1000/f,1,eyewear
+608243,versace/1198/1261/f,1,eyewear
+608244,versace/1198/1296/f,1,eyewear
+608245,versace/1210/1023/f,1,eyewear
+608246,versace/1210/1252/f,1,eyewear
+608247,versace/1216/1052/f,1,eyewear
+608248,versace/3168b/5050/f,1,eyewear
+608249,versace/3175/5064/f,1,eyewear
+608250,versace/3175/gb1/f,1,eyewear
+608251,versace/3181/5064/f,1,eyewear
+608252,versace/3185/5055/f,1,eyewear
+608253,versace/3185/5067/f,1,eyewear
+608254,versace/3185/gb1/f,1,eyewear
+608255,versace/3189b/gb1/f,1,eyewear
+608256,versace/ve1182/1270/52/f,1,eyewear
+608257,versace/ve1182/1273/52/f,1,eyewear
+608258,versace/ve1226b/1252/f,1,eyewear
+608259,versace/ve3192b/5074/f,1,eyewear
+608260,versace/ve3197/5104/f,1,eyewear
+608261,versace/ve3206/108/f,1,eyewear
+608262,versace/ve3208/5076/f,1,eyewear
+608263,versace/ve3208/gb1/f,1,eyewear
+608264,versace/ve3209/gb1/f,1,eyewear
+608265,versace/ve3214/gb1/f,1,eyewear
+608266,versace1182 1274=02/2011 (00.0,1,other
+608267,versace1196 1000,1,other
+608268,"versace1217-b,52,1333 = 04/2016",1,other
+608269,"versace1232,54,1261 = 04/2016",1,other

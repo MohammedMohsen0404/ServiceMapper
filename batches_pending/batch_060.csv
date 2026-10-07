@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+236004,forearm 2 views (r/l,2,imaging
+236006,forearm 2 views 1f,1,imaging
+236007,forearm 2 views 2f,1,imaging
+236008,forearm 2 views-1338,1,imaging
+236012,forearm 2v,3,imaging
+236013,forearm 2v (right) (xray,1,imaging
+236014,forearm 2v x-ray,1,imaging
+236016,forearm 3 views,3,imaging
+236018,forearm 3v,1,imaging
+236019,forearm a / l (left) ????,1,other
+236020,forearm a / l (right) ????,1,other
+236021,"forearm a,p",1,other
+236022,forearm a-p,2,other
+236023,forearm a.p&lat ( rt / lt,1,imaging
+236024,forearm a.p. & lateral,1,lab_test
+236025,forearm analysis dexa bone densitometer,1,imaging
+236026,forearm ap,1,imaging
+236027,forearm ap & lat,2,imaging
+236028,forearm ap & lateral views,1,imaging
+236029,forearm ap -lat,1,imaging
+236032,forearm ap and lateral view,1,imaging
+236033,forearm ap and lateral views,1,imaging
+236034,forearm ap lat (2v,1,imaging
+236035,forearm ap& lat,1,imaging
+236036,forearm ap+lat,1,imaging
+236037,forearm ap-lat 600152,1,imaging
+236038,forearm ap-lat 2 views,1,imaging
+236039,forearm ap-lat-oblique 3 views,1,imaging
+236040,forearm ap-lateral (one side,1,imaging
+236041,"forearm ap., lateral",1,imaging
+236043,forearm ap/lat 600152,1,imaging
+236044,forearm ap/lat view,1,imaging
+236046,forearm ap/lateral,1,imaging
+236047,forearm b/v,1,other
+236048,forearm b/v left,1,other
+236049,forearm b/v right,1,other
+236050,forearm bmd,1,other
+236051,forearm bones 2f,1,imaging
+236052,forearm bones a.p&lateral,1,imaging
+236053,forearm circular cast,2,supplies
+236054,forearm crutches - each,1,supplies
+236055,forearm humerus ap/lat,2,imaging
+236057,forearm one side 2 views,1,supplies
+236058,forearm one side two views,1,supplies
+236059,forearm one view,3,supplies
+236060,forearm slab,2,supplies
+236061,forearm slab w/o cover,1,supplies
+236062,forearm slab with cover,1,supplies
+236063,forearm sling & bandage,1,supplies
+236064,forearm three views,1,imaging
+236065,forearm two positions,2,other
+236066,forearm two views,4,imaging
+236068,forearm ulna radius 1 view,1,imaging
+236069,forearm ulna radius 2 views,1,imaging
+236070,forearm ulna radius 3 view,2,imaging
+236071,"forearm with thumb support ""all sizes"" (ortho",1,supplies
+236072,forearm x-ray,3,imaging
+236073,forearm x-ray (ap&lat,1,imaging
+236074,forearm x-ray (ap&lat) 1 view,2,imaging
+236076,forearm x-ray 2 views,1,imaging
+236077,forearm x-ray ???? ??? ??????,1,imaging
+236078,forearm x-ray2,1,other
+236079,forearm%20-%20ulna%20radius%20-%203%20view,1,other
+236080,forearm(03043,1,other
+236081,forearm(ap+lateral,1,imaging
+236082,forearm(r.l,2,lab_test
+236083,forearm(ulna&radius)- 1 view ap,1,imaging
+236084,forearm(ulna&radius)- 2 views ap/lat,1,imaging
+236085,forearm(ulna/radius) - 1 view,1,imaging
+236086,forearm- ulna- radius rt. x-ray ap & lat,1,imaging
+236087,forearm-1f,1,imaging
+236088,forearm-2v,1,imaging
+236089,forearm-ap & lat,1,imaging
+236090,forearm-ap-lat-lat os,1,imaging
+236091,forearm-densitometry,1,diagnostic
+236092,forearm-ulna radius2view,1,other
+236093,forearms,1,other
+236094,forearms 2 views,1,imaging
+236095,foreaus - 2v,1,imaging
+236096,foreceps rat tooth disposable,1,dental
+236097,forefoot,1,other
+236098,forefoot or toes ap lateral & oblique,1,imaging
+236099,forefoot (toes) 2v,1,imaging
+236100,forefoot (toes) 2v x-ray,1,imaging
+236101,forefoot - 2v,1,imaging
+236102,forefoot amputation,1,procedure
+236103,forefoot ap / lat. 2 views,1,imaging
+236104,forefoot ap left,1,imaging
+236105,forefoot ap right,1,imaging
+236106,forefoot lateral left,1,imaging
+236107,forefoot lateral right,1,imaging
+236108,forefoot oblique,1,imaging
+236109,"foregin body removal, superfical abcess",1,procedure
+236110,forehead (2v,1,imaging
+236111,foreign body removal,10,procedure
+236112,foreign body (superficial) removal under,1,procedure
+236113,foreign body + prosthesis removal external ear canal - ga,1,dental
+236114,foreign body - ear,1,other
+236115,foreign body - medium,1,other
+236116,foreign body - superficial,1,other
+236117,foreign body cornea,1,other
+236118,foreign body corneal supefical,1,other
+236119,foreign body corneal supefical-3-990-240020,1,other
+236120,foreign body deep removal / ga,2,procedure
+236121,foreign body ear,1,other
+236122,foreign body ear & throat,1,other
+236123,foreign body ear & throat (opd,2,consultation
+236125,"foreign body ear , nose throat (opd",1,consultation
+236126,foreign body ear removal under ga - 1 day pkg,1,procedure
+236127,foreign body ear removal under la - day case,1,procedure
+236128,foreign body edr and troat (opd,1,consultation
+236129,foreign body edr & troat (opd,1,consultation
+236130,foreign body esophagus,2,other
+236131,foreign body esophagus - 1 day pkg,1,other
+236132,foreign body esophagus - 2 days,1,other
+236133,foreign body exploration - deep,1,procedure
+236134,foreign body exploration - superficial,1,procedure
+236135,foreign body exploration deep,1,procedure
+236136,foreign body exploration superefacial,1,procedure
+236137,foreign body ext. from nose,1,other
+236138,foreign body ext. under ga adult (pk,1,other
+236139,foreign body ext. under ga pedia (pk,1,other
+236140,foreign body ext.(ear)ِ,1,other
+236141,foreign body ext.(throat)ِ,1,other
+236142,foreign body extract throat,2,procedure
+236143,foreign body extract. (nose,1,procedure
+236144,foreign body extraction,4,dental
+236145,foreign body extraction (nose,2,dental
+236146,foreign body extraction (superficial,1,dental
+236147,foreign body extraction + l.a,1,dental
+236148,foreign body extraction ent,1,dental
+236149,foreign body extraction from the pharynx,1,dental
+236150,foreign body extraction nose ear simple procedure,1,dental
+236151,foreign body extraction of ear & nose,1,dental
+236152,foreign body extraction of ear & nose(02065,1,dental
+236153,foreign body extraction surgical,1,dental
+236154,foreign body extraction(3,1,dental
+236155,foreign body extraction(ear,1,dental
+236156,foreign body extraction(m,1,dental
+236157,foreign body extraction(throat,1,dental
+236158,foreign body eyes,1,other
+236159,foreign body fb extraction nose or ear or throat,3,dental
+236160,foreign body fb removal from larynx - bronchi,1,procedure
+236161,foreign body fb removal from larynx / bronchi,1,procedure
+236162,foreign body from ear,1,other
+236163,foreign body from eye,2,other
+236164,foreign body in ear & nose,1,other
+236165,foreign body in ear nose,1,other
+236166,foreign body in the ear (g. a,1,other
+236167,foreign body in the ear (g.a,1,lab_test
+236168,foreign body in the ear (l.a,1,lab_test
+236169,foreign body in the nose (g. a,1,other
+236170,foreign body in the nose g.a,1,lab_test
+236171,foreign body in the nose(g.a,1,lab_test
+236172,foreign body oesophagus,1,other
+236174,foreign body removal (superficial,2,procedure
+236175,foreign body removal ( ear,1,procedure
+236176,foreign body removal ( eye,1,procedure
+236177,foreign body removal ( others,1,procedure
+236178,foreign body removal ( throat,1,procedure
+236179,foreign body removal (in duty,1,procedure
+236180,foreign body removal (l.a,1,procedure
+236181,foreign body removal (large,1,procedure
+236182,foreign body removal (medium,1,procedure
+236183,foreign body removal (opd,1,procedure
+236186,foreign body removal - deep,2,procedure
+236187,foreign body removal - ear,1,procedure
+236188,foreign body removal - eye,2,procedure
+236189,foreign body removal - nose / ear,1,procedure
+236190,foreign body removal - pharynx under ga - 1 day pkg,1,procedure
+236191,foreign body removal - pharynx under la - day case,1,procedure
+236192,foreign body removal - skin,1,procedure
+236193,foreign body removal - superficial,1,procedure
+236194,foreign body removal -ent,1,procedure
+236195,foreign body removal -eye (superfacial,1,procedure
+236196,foreign body removal /l,1,procedure
+236197,foreign body removal /m,1,procedure
+236198,foreign body removal /s,1,procedure
+236199,foreign body removal by upper endoscopy (conscious sedation,1,procedure
+236200,foreign body removal by upper endoscopy (conscoius sedation,1,procedure
+236201,foreign body removal deep,1,procedure
+236202,foreign body removal eye,1,procedure
+236203,foreign body removal for eye,1,procedure
+236204,foreign body removal from corneal,1,procedure
+236205,foreign body removal from ear,3,procedure
+236206,foreign body removal from ear unilateral,1,procedure
+236207,foreign body removal from ear or nosew/microscope,1,procedure
+236208,foreign body removal from ear under general anesthesia,1,procedure
+236209,foreign body removal from eye,1,procedure
+236210,foreign body removal from larynx/bronchi,1,procedure
+236211,foreign body removal from nose,2,procedure
+236212,foreign body removal from nose or,1,procedure
+236213,foreign body removal from nose or ear,2,procedure
+236214,foreign body removal from nosew/microscope,1,procedure
+236216,foreign body removal from the bone,1,imaging
+236217,foreign body removal from the oropharynex (ga) - 1day pkg,1,procedure
+236218,foreign body removal from the oropharynex (ga)-pkg,1,procedure
+236219,foreign body removal from the oropharynex - l.a,1,procedure
+236220,foreign body removal from throat,1,procedure
+236221,foreign body removal from throat under general anaesthesia,1,procedure
+236222,foreign body removal from trachea,1,procedure
+236223,foreign body removal l.a. (throat,1,procedure
+236224,foreign body removal la throat,1,procedure
+236225,foreign body removal nose,1,procedure
+236226,foreign body removal nose (l.a,1,procedure
+236227,foreign body removal of ear,1,procedure
+236228,foreign body removal of eye,1,procedure
+236229,foreign body removal of mandible l.a,1,procedure
+236230,foreign body removal of the nose (l.a,1,procedure
+236231,foreign body removal small,1,procedure
+236232,foreign body removal superficial abcess,1,procedure
+236233,foreign body removal under (ga,1,procedure
+236234,foreign body removal under g a,1,procedure
+236235,foreign body removal under general anethsia,1,procedure
+236236,foreign body removal under l.a,2,procedure
+236237,"foreign body removal under l.a. (nose, ear & throat",1,procedure
+236238,foreign body removal under la,2,procedure
+236239,foreign body removal(1 eye,1,procedure
+236240,foreign body removal(large,1,procedure
+236241,foreign body removal(medium,1,procedure
+236242,"foreign body removal, deep",1,procedure
+236243,"foreign body removal, external eye: including concretions, cojunctival, subconjunctival, or scleral",2,procedure
+236244,"foreign body removal, intraoccular - 1 day pkg",1,procedure
+236245,"foreign body removal, superfic",1,procedure
+236246,"foreign body removal, superficial",1,procedure
+236247,"foreign body removal, superficial abcess",1,procedure
+236248,foreign body removal-deep under la,1,procedure
+236249,foreign body removal-eye,1,procedure
+236251,foreign body remove from,1,other
+236252,foreign body removel,1,other
+236253,foreign body removel(small,1,other
+236254,foreign body removl,1,other
+236255,"foreign body reomval in muscle, tendon or deep tissue",1,other
+236256,"foreign body retriever, rotatable polyp, disposable, 150cm, 2.5mm, 30x60mm, captiva, gf4501",1,supplies
+236257,foreign body with suturing,1,procedure
+236258,foreign extraction mouth (l.a,1,dental
+236259,foreign object eye removal,1,procedure
+236260,foreign20body20ext.20(20ear20)(20bilateral,1,other
+236261,foreignbody,1,other
+236262,foreing body removal,1,procedure
+236263,forelgn body removal of phaynx (l.a,1,procedure
+236264,forever absorbent-c,1,other
+236265,fore_arm_ap_&_lat,1,other
+236266,forgen body removal,1,procedure
+236267,forgien body removal,1,procedure
+236268,forgien body removal 12046,1,procedure
+236269,forgienbody removel under la,1,other
+236270,forgin body removal,1,procedure
+236271,foriegin body removel throat,1,other
+236272,foriegn body ( f.b ) removal from the foot - clinic,1,procedure
+236273,foriegn body ( f.b ) removal from the foot-1d,1,procedure
+236274,foriegn body extract. (ear,1,procedure
+236275,foriegn body extraction (ear,1,dental
+236276,foriegn body removal,2,procedure
+236277,"foriegn body retriever dormia basket 3f/4w-120cm , # 3-4w-120sbnseg (0 tip), devon",1,other
+236278,forien body removal under local anesthesia,1,procedure
+236279,forigen boby remval(nose/ear in opd,1,consultation
+236280,forigen body removal,2,procedure
+236281,forigen body removal/nose & ear,2,procedure
+236282,forigen body-712,1,other
+236283,forign body - in hand - 533,1,other
+236284,forign body removal,1,procedure
+236285,forign body removal - eye,1,procedure
+236286,forign body removal - general,1,procedure
+236287,"forign body removal, superfic",1,procedure
+236288,forign body removal-ear and nose,1,procedure
+236290,forjei kids,1,other
+236291,forli/for1685/c2/f,1,eyewear
+236296,forli/for1660/c1/f,1,eyewear
+236297,forli/for1660/c2/f,1,eyewear
+236298,forli/for1660/c3/f,1,eyewear
+236299,forli/for1670/c1/f,1,eyewear
+236306,formatric 3d,1,other
+236320,formit 750 xr,1,imaging
+236321,formit 750 xr 30tab,3,imaging
+236323,formit 750 xr 60t,1,imaging
+236325,formit 750 xr 60tab,2,imaging
+236338,formit 750xr 30tab,1,other
+236353,formit xr,3,imaging
+236368,formit xr 750,1,imaging
+236369,formit xr 750 30tab,1,imaging
+236370,formit xr 750 30tabs,1,imaging
+236540,formit xr750 mgtabs-30,1,other
+236541,formit xr750mg 30tab,2,other
+236542,formit xr750mg 60tab,1,other
+236545,formit-xr-750-mg-30tab,1,imaging
+236551,"formoterol fumarate, aclidinium bromide",1,other
+236552,formoterol fumarate|beclomethasone dipropionate,1,other
+236553,"formoterol furmate dihydrate , beclomethasone dipropionate",1,other
+236579,formula liquid 0.9kcal/ml diabetic reduced carbohydrate modified fat contains fiber vanilla flavor 200 - 250cc for oral and tube feeding supplement,1,supplies
+236580,formula liquid diabetic reduced carbohydrate modified fat contains fibre 237 - 250cc,1,nutrition
+236581,formula liquid energy (infantrini) dense nutritionally completed ready 1 kcal/ml each,1,nutrition
+236582,formula liquid low carbohydrtae to reduce co2 production 200-250cc for patient w/ copd / cystic fibrosis / respiratory failure,1,nutrition
+236586,formula medical liquid isotonic nutrition with fiber 250cal 8 oz each,1,nutrition
+236592,formula nutrition semi-elemental lactose free ( kas-1000,1,nutrition
+236606,formula resource junior drink 1.5kcal vanilla liquid multi fibre (53,1,nutrition
+236646,fortalase syryp,1,other
+236648,fortaneurin,1,other
+236650,fortaneurin i. m,1,other
+236654,forte - n,1,other
+236668,forteo 20micro gm/dose pre-filled pen x1,1,other
+236669,forteo 20micro/80mcl solu pen,1,other
+236671,forth caesarean section (c.s,1,lab_test
+236672,forth step endodontic treatment,1,dental
+236677,forticef 500 15cap,1,other
+236683,fortie 2020,1,other
+236689,fortiferrum p,2,other
+236701,forty neurin i m,1,lab_test
+236873,fos 2061/s.41n/ha.60,1,other
+236874,fos 2061/s.r81/90.60,1,other
+236875,fos 2068/s.003/90.60,1,other
+236876,fos 2076/s.003/90.54,1,other
+236877,fos 3077/s.807/90.53,1,other
+236878,fos 3079/s.41n/ha.60,1,other
+236879,fos 7012.807/19.50,1,other
+236880,fos 7016.b6b/17.54,1,other
+236881,fos 7027.fre/17.53,1,other
+236882,fos7117/003/f/22,1,other
+236920,fosfomicin(trometamol,1,other
+236936,foshan crutch 925 l size,1,supplies
+236937,foshan crutch 925 m size,1,supplies
+236938,foshan stick fs 936,1,supplies
+236939,foshan wheel chair fs 902 gc,1,supplies
+236942,fossil,1,eyewear
+236943,fossil - f7030c7zj,1,eyewear
+236944,fossil - f7030cn9p,1,eyewear
+236947,fossil frm,1,eyewear
+236949,fossil frm 6005/53/kgg/19,1,eyewear
+236950,fossil frm 6007/54/284,1,eyewear
+236951,fossil frm 6020/54/gau,1,eyewear
+236952,fossil frm 6059/52/im6/17,1,eyewear
+236953,fossil frm 7009/52/807,1,eyewear
+236954,fossil frm 7009/52/807/16,1,eyewear
+236955,fossil frm 7046/52/01t/16,1,eyewear
+236956,fossil frm 7052/51/807/17,1,eyewear
+236957,fossil frm 7057/55/086/13,1,eyewear
+236958,fossil frm 7058/52/09q/17,1,eyewear
+236959,fossil frm 7061/51/086/18,1,eyewear
+236960,fossil frm 7071/50/3h2,1,eyewear
+236961,fossil frm 7071/52/3h2/16,1,eyewear
+236962,fossil frm 7074/49/086,1,eyewear
+236963,fossil frm 7154/54/05k,1,eyewear
+236964,fossil frm 7155/53/003,1,eyewear
+236965,fossil frm 7155/53/ti7,1,eyewear
+236966,fossil frm 7167/56/003,1,eyewear
+236967,fossil frm 7167/56/r80,1,eyewear
+236968,fossil optical,1,eyewear
+236969,fossil optical - fossilv7023 53-17 41n,1,eyewear
+236970,foster 100/6 micro,1,other
+236999,foster 100/6 micro inh,1,other
+237000,foster 100/6 nexthaler 120 doses,1,other
+237003,foster 100/6/mcg nexthaler x 1,1,other
+237023,foster inahaler,1,other
+237035,foster next haler 100/6 disk,1,other
+237036,foster nexthaler,1,other
+237037,foster nexthaler ( beclometasone / formoterol ) 100/6 mic,1,other
+237081,foster nexthaler inhn pdr 120s,1,other
+237112,fostimon 150 i.u,1,lab_test
+237118,fostimon 150i.u 1vial,1,other
+237141,fostimon75 iu,1,other
+237142,four canals (retreatment,1,dental
+237143,four canals rct (retreatment,1,dental
+237145,four months vac. moh,1,other
+237146,four root canal (complex) w/filling,1,dental
+237147,four root canal (simple) w/filling,1,dental
+237148,four stich (minor,1,other
+237149,four stitch,1,procedure
+237150,four surfaces,1,other
+237151,four surfaces amalgam filling,1,dental
+237152,four vessels angiogram,1,imaging
+237153,four weeks advanced 3-d radiotherapy,1,other
+237154,fourth c.s (4d,1,lab_test
+237155,fovepta,1,other
+237163,foxime 0.5 grams im/iv,1,supplies
+237228,fp 008,1,other
+237229,fp levis ls,1,eyewear
+237233,fp removal,1,procedure
+237234,fp-v11-f-fisherprice,1,other
+237235,fp-v18-f - fisher price,1,consultation
+237236,fp-v19-f-fisherprice,1,eyewear
+237237,fp1835/c2/f,1,eyewear
+237238,fp1835/c4/f,1,eyewear
+237239,fp1970/c3/f,1,eyewear
+237240,fp1970/c5/f,1,eyewear
+237241,fp1970/c6/f,1,eyewear
+237242,fp1978/c2/f,1,eyewear
+237243,fp1987/c1/f,1,eyewear
+237244,fp1987/c2/f,1,eyewear
+237245,fp2003/c3/f,1,eyewear
+237246,fp2011/c2/f,1,eyewear
+237247,fp2011/c5/f,1,eyewear
+237248,fpa312fltlltke3itc-dw-mp,1,other
+237249,fpros- rochette bridge,1,dental
+237250,fr - gastrografin meal,1,eyewear
+237251,fr - gastrografin swallow,2,eyewear
+237253,fr - hysterosalpingography,1,eyewear
+237254,fr - upper gastrointestinal (g.i,1,eyewear
+237255,fr - urethrogram,1,eyewear
+237256,fr - voiding cystourethrogram,1,eyewear
+237258,fr italy,1,eyewear
+237259,fr pr 4250,1,eyewear
+237260,fr rov 4251,1,eyewear
+237261,"fr,1007,am,140",1,eyewear
+237262,"fr,1012,am,190",1,eyewear
+237263,"fr,1014,am,210",1,eyewear
+237264,"fr,1015,am,220",1,eyewear
+237265,"fr,1016,am,230",1,eyewear
+237266,"fr,1017,am,240",1,eyewear
+237267,"fr,1018,am,250",1,eyewear
+237268,"fr,1019,am,260",1,eyewear
+237269,"fr,1020,am,270",1,eyewear
+237270,"fr,1021,am,280",1,eyewear
+237271,"fr,1022,am,290",1,eyewear
+237272,"fr,1023,am,300",1,eyewear
+237273,"fr,1024,am,310",1,eyewear
+237274,"fr,1025,am,320",1,eyewear
+237275,"fr,1026,am,330",1,eyewear
+237276,"fr,1027,am,340",1,eyewear
+237277,"fr,1028,am,350",1,eyewear
+237278,"fr,1029,am,360",1,eyewear
+237279,"fr,1030,am,370",1,eyewear
+237280,"fr,1032,am,390",1,eyewear
+237281,"fr,1033,am,400",1,eyewear
+237282,"fr,1034,am,410",1,eyewear
+237283,"fr,1036,am,430",1,eyewear
+237284,"fr,1038,am,450",1,eyewear
+237285,"fr,1039,am,460",1,eyewear
+237286,"fr,1040,am,470",1,eyewear
+237287,"fr,1041,am,480",1,eyewear
+237288,"fr,1042,am,490",1,eyewear
+237289,"fr,1043,am,500",1,eyewear
+237290,"fr,1044,am,510",1,eyewear
+237291,"fr,1046,am,530",1,eyewear
+237292,"fr,1047,am,540",1,eyewear
+237293,"fr,1048,am,550",1,eyewear
+237294,"fr,1049,am,560",1,eyewear
+237295,"fr,1050,am,570",1,eyewear
+237296,"fr,1051,am,580",1,eyewear
+237297,"fr,1052,am,590",1,eyewear
+237298,"fr,1053,am,600",1,eyewear
+237299,"fr,1054,am,610",1,eyewear
+237300,"fr,1055,am,620",1,eyewear
+237301,"fr,1056,am,630",1,eyewear
+237302,"fr,1057,am,640",1,eyewear
+237303,"fr,1058,am,650",1,eyewear
+237304,"fr,1059,am,660",1,eyewear
+237305,"fr,1060,am,670",1,eyewear
+237306,"fr,1062,am,690",1,eyewear
+237307,"fr,1063,am,700",1,eyewear
+237308,"fr,1064,am,710",1,eyewear
+237309,"fr,1065,am,720",1,eyewear
+237310,"fr,1066,am,730",1,eyewear
+237311,"fr,1068,am,750",1,eyewear
+237312,"fr,1069,am,760",1,eyewear
+237313,"fr,1072,am,790",1,eyewear
+237314,"fr,1075,am,820",1,eyewear
+237315,"fr,1079,am,860",1,eyewear
+237316,"fr,1082,am,890",1,eyewear
+237317,"fr,1084,am,910",1,eyewear
+237318,"fr,1098,am,1050",1,eyewear
+237319,"fr,1107,am,1140",1,eyewear
+237320,"fr,1108,am,1150",1,eyewear
+237321,"fr,1126,am,1330",1,eyewear
+237322,"fr,1135,am,1420",1,eyewear
+237323,fr- ralphl-6062-5003-52,1,eyewear
+237324,fr- ralphl-6107-5001-53,1,eyewear
+237325,fr- ralphl-7059-1261-50,1,eyewear
+237326,fr- ralphl-7059-501 -52,1,eyewear
+237327,fr-alexan-0014-3gc -54,1,eyewear
+237328,fr-alexan-0014-osa -54,1,eyewear
+237329,fr-alexan-0016-00s -54,1,eyewear
+237330,fr-alexan-0016-9yb -54,1,eyewear
+237331,fr-angry -bird-1529-i2i,1,eyewear
+237332,fr-angry -bird-3218-i2i,1,eyewear
+237333,fr-angry -bird-a001-i2i,1,eyewear
+237334,fr-angry -bird-a120-i2i,1,eyewear
+237335,fr-boss -0643-hxe -56,1,eyewear
+237336,fr-burbrs-2094-3237-52,1,eyewear
+237337,fr-burbrs-2108-3002-52,1,eyewear
+237338,fr-burbrs-2108-3301-52,1,eyewear
+237339,fr-burbrs-2120-3002-51,1,eyewear
+237340,fr-burbrs-2126-3001-52,1,eyewear
+237341,fr-burbrs-2167-1007-52,1,eyewear
+237345,"fr-barium follow through, small intestine",1,imaging
+237346,"fr-barium meal, upper gastrointestinal (g.i",1,imaging
+237347,"fr-barium swallow, esophagus",1,imaging
+237348,fr-cacher-0071-001 -52,1,eyewear
+237349,fr-calkle-5792-001 -52,1,eyewear
+237350,fr-cavall-bian-8927-882,1,eyewear
+237351,fr-chanel-2333-1000,1,eyewear
+237352,fr-clic -flfr- blk -i2i,1,eyewear
+237353,fr-clic -pat -clr -+1.50,1,eyewear
+237354,fr-clic -pat -clr -+3.00,1,eyewear
+237355,fr-clic12-a501-whit-whit,1,eyewear
+237356,fr-clic12-a502-viol-viol,1,eyewear
+237357,fr-clic12-a503-blac-grey,1,eyewear
+237358,fr-clic12-a504-red -red,1,eyewear
+237359,fr-clic12-blue-whit-asta,1,eyewear
+237360,fr-clic12-whit-past,1,eyewear
+237361,fr-coach -5027-9051-52,1,eyewear

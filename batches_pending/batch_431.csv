@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+632130,xr-chest pa,1,imaging
+632131,xr-chest pa. and lateral,1,imaging
+632133,xr-chest&ribs 2view,1,imaging
+632134,xr-digital copy,1,imaging
+632135,xr-extemity scapula,1,imaging
+632136,xr-extremity hand,3,imaging
+632137,xr-extremity (thumb /finger,1,imaging
+632138,xr-extremity -leg (hip to ankle,1,imaging
+632139,xr-extremity acromiocciavicular joint,1,imaging
+632140,xr-extremity acromioclavicular joint left side,1,imaging
+632141,xr-extremity acromioclavicular joint right side,1,imaging
+632142,xr-extremity ankle 2 views,1,imaging
+632143,xr-extremity ankle 2 views left side,1,imaging
+632144,xr-extremity ankle 2 views right side,1,imaging
+632145,xr-extremity calcaneus (heel) left side,1,imaging
+632146,xr-extremity calcaneus (heel) right side,1,imaging
+632147,xr-extremity calcaneus heel,1,imaging
+632148,xr-extremity clavicle left side,1,imaging
+632149,xr-extremity clavicle right side,1,imaging
+632150,xr-extremity elbow 3 views,2,imaging
+632151,xr-extremity elbow 3 views left side,1,imaging
+632152,xr-extremity elbow 3 views right side,1,imaging
+632153,xr-extremity femur,2,imaging
+632154,xr-extremity femur left side,1,imaging
+632155,xr-extremity femur right side,1,imaging
+632156,xr-extremity foot (lateral only,2,imaging
+632157,xr-extremity foot (lateral only) left side,1,imaging
+632158,xr-extremity foot (lateral only) right side,1,imaging
+632159,xr-extremity foot 3 views,1,imaging
+632160,xr-extremity foot 3 views left side,1,imaging
+632161,xr-extremity foot 3 views right side,1,imaging
+632162,xr-extremity foot lateral only,1,imaging
+632163,xr-extremity forearm,2,imaging
+632164,xr-extremity forearm left side,1,imaging
+632165,xr-extremity forearm right side,1,imaging
+632167,xr-extremity hand left side,1,imaging
+632168,xr-extremity hand right side,1,imaging
+632169,xr-extremity hip (lateral only) left side,1,imaging
+632170,xr-extremity hip (lateral only) right side,1,imaging
+632171,xr-extremity hip ap and lateral,1,imaging
+632172,xr-extremity hip standard left side,1,imaging
+632173,xr-extremity hip standard right side,1,imaging
+632174,xr-extremity humerus,2,imaging
+632175,xr-extremity humerus left side,1,imaging
+632176,xr-extremity humerus right side,1,imaging
+632177,xr-extremity leg (hip to ankle,1,imaging
+632178,xr-extremity leg (hip to ankle) left side,1,imaging
+632179,xr-extremity leg (hip to ankle) right side,1,imaging
+632180,xr-extremity leg hip to ankle,1,imaging
+632181,xr-extremity scapula left side,1,imaging
+632182,xr-extremity scapula right side,1,imaging
+632183,xr-extremity shoulder,1,imaging
+632184,xr-extremity shoulder left side,1,imaging
+632185,xr-extremity shoulder right side,1,imaging
+632186,xr-extremity thumb/finger left side,1,imaging
+632187,xr-extremity thumb/finger right side,1,imaging
+632188,xr-extremity thumb/finger,1,imaging
+632189,xr-extremity tibia/fibula left side,1,imaging
+632190,xr-extremity tibia/fibula right side,1,imaging
+632191,xr-extremity toe,1,imaging
+632192,xr-extremity toe left side,1,imaging
+632193,xr-extremity toe right side,1,imaging
+632194,xr-extremity wrist 3 views,2,imaging
+632195,xr-extremity wrist 3 views left side,1,imaging
+632196,xr-extremity wrist 3 views right side,1,imaging
+632197,xr-extremity calcaneus (heel,1,imaging
+632200,xr-extremity foot (3 views,1,imaging
+632204,xr-extremity hip standard,1,imaging
+632207,xr-hand 2 views,1,imaging
+632215,xr-knee both,1,imaging
+632216,xr-knee(lateral only,1,imaging
+632217,xr-knee(standing a p,1,imaging
+632218,xr-knee (lateral only) left side,1,imaging
+632219,xr-knee (lateral only) right side,1,imaging
+632220,xr-knee (standing a.p.) left side,1,imaging
+632221,xr-knee (standing a.p.) right side,1,imaging
+632222,xr-knee (standard a.p,1,imaging
+632223,xr-knee 3 views,2,imaging
+632224,xr-knee 3 views left side,1,imaging
+632225,xr-knee 3 views right side,1,imaging
+632227,xr-knee lateral only,1,imaging
+632228,xr-knee patella series left side,1,imaging
+632229,xr-knee patella series right side,1,imaging
+632230,xr-knee tunnel left side,1,imaging
+632231,xr-knee tunnel right side,1,imaging
+632234,xr-ls/lumbo-sacral spine ap/lat 2v,1,imaging
+632235,xr-lateral neck (pharynx,2,imaging
+632237,xr-long film-whole legs,1,imaging
+632238,xr-long film-whole spine ap and lat,1,imaging
+632239,xr-long film-whole spine ap only,1,imaging
+632240,xr-nasopharynx,1,imaging
+632245,xr-neck soft tissue : lateral and ap views (thoracic inlet - trachea) (chest,1,imaging
+632246,xr-pelvis a-p,1,imaging
+632247,xr-pns,1,imaging
+632248,xr-pelvis (a.p,1,imaging
+632249,xr-pelvis (frog leg,1,imaging
+632250,xr-pelvis a.p,1,imaging
+632251,xr-portable,1,imaging
+632252,xr-retrograde pyelogram 1 kidney,1,imaging
+632253,xr-retrograde pyelogram 2 kidney,1,imaging
+632254,xr-ribs 2view,1,imaging
+632255,"xr-ribs, bilateral (multiple views",1,imaging
+632256,"xr-ribs, unilateral (multiple views",1,imaging
+632257,xr-si joints left side,1,imaging
+632258,xr-si joints right side,1,imaging
+632259,xr-skull .paranasal sinus standard,1,imaging
+632260,xr-skull standard ( p a and lateral,1,imaging
+632261,xr-spine cervical (a.p.and lateral,1,imaging
+632262,xr-spine cervical (obliques,1,imaging
+632263,xr-spine dorsal (ap& lat,1,imaging
+632265,xr-scaphoid series left side,1,imaging
+632266,xr-scaphoid series right side,1,imaging
+632267,xr-si joints,1,imaging
+632268,xr-skull facial bones,2,imaging
+632270,xr-skull mandibula,1,imaging
+632271,xr-skull mastoids,1,imaging
+632273,xr-skull orbit,1,imaging
+632274,xr-skull paranasal sinus lateral only,1,imaging
+632275,xr-skull paranasal sinus standard,1,imaging
+632276,xr-skull sella turcica,1,imaging
+632277,xr-skull special view: axial or towne's view,1,imaging
+632278,xr-skull special view: axial or townes view,1,imaging
+632279,xr-skull standard (p.a. and lateral,1,imaging
+632280,xr-skull temporomandibular,1,imaging
+632281,xr-skull zygomatic arches,1,imaging
+632282,xr-skull standard (p.a.and lat,1,imaging
+632283,xr-spine (kyphoscoliosis,1,imaging
+632284,xr-spine cervical (a.p. and lateral,1,imaging
+632285,xr-spine cervical (flexion/extension,1,imaging
+632286,xr-spine cervical 5 views,2,imaging
+632287,xr-spine cervical a.p. and lateral,1,imaging
+632288,xr-spine coccyx,1,imaging
+632289,xr-spine dorsal (a.p. and lateral,1,imaging
+632290,xr-spine dorsal a.p. and lateral,1,imaging
+632291,xr-spine lumbar (a.p. and lateral,1,imaging
+632292,"xr-spine lumbar (a.p., and lateral and lateral l/s junction",1,imaging
+632293,xr-spine lumbar (flexion/extension,1,imaging
+632294,xr-spine lumbar (obliques,1,imaging
+632295,xr-spine lumbar a.p. lat. and lat. l/s junction,1,imaging
+632296,xr-spine sacrum,1,imaging
+632297,xr-spine lumbar (a.p.lat,1,imaging
+632298,xr-sternoclavicular joints left side,1,imaging
+632299,xr-sternoclavicular joints right side,1,imaging
+632300,xr-sternum,1,imaging
+632304,"xr-toes ,heel / calcanius 3 view",1,imaging
+632305,xr-toes and heel / calcanius 3 view,1,imaging
+632306,xr-toes andheel / calcanius 3 view,1,imaging
+632307,xr-skull paranasal sinus(lateral only,1,imaging
+632309,xr-spine cervical (5 views,1,imaging
+632310,xr. abdomen (erect / supine,1,imaging
+632311,xr. abdomen (plain,1,imaging
+632312,xr. abdomen decubitus,1,imaging
+632313,xr. acromioclavicular joint,1,imaging
+632314,xr. adenoids,1,imaging
+632315,xr. ankle joint (ap/lat w/strain/mortis,1,imaging
+632316,xr. ankle joint (both ap / lateral,1,imaging
+632317,xr. ankle joint (one side ap / lateral,1,imaging
+632318,xr. calcanium (ap / lateral,1,imaging
+632319,xr. cervical spine (ap / lateral,1,imaging
+632320,xr. cervical spine (ap / lateral/open mouth,1,imaging
+632321,xr. cervical spine (flexion/extension,1,imaging
+632322,xr. cervical spine ap / lateral / oblique,1,imaging
+632323,xr. chest (decubitus,1,imaging
+632324,xr. chest (lateral,1,imaging
+632325,xr. chest (p/a,1,imaging
+632326,xr. chest (pa & lat,1,imaging
+632327,xr. clavicle (ap/oblique,1,imaging
+632328,xr. coccyx,1,imaging
+632329,xr. elbow joint (ap / lateral,1,imaging
+632330,xr. facial bones,1,imaging
+632331,xr. feet (both ap / lateral,1,imaging
+632332,xr. feet (both ap only,1,imaging
+632333,xr. femur ( ap / lateral) unilateral,1,imaging
+632334,xr. femur (both ap / lateral,1,imaging
+632335,xr. finger(ap/lat/oblique,1,imaging
+632336,xr. forearm (both ap / lateral,1,imaging
+632337,xr. forearm (one ap / lateral,1,imaging
+632338,xr. hand (one side,1,imaging
+632339,xr. hand both ( ap/ lateral,1,imaging
+632340,xr. hands (both ap only,1,imaging
+632341,xr. hip (ap / axial) one side,1,imaging
+632342,xr. hips ap / axial (both,1,imaging
+632343,xr. humerus ( r & l ap / lateral,1,imaging
+632344,xr. humerus one side ( ap lateral,1,imaging
+632345,xr. knee (both ap / lateral,1,imaging
+632346,xr. knee (one ap / lateral,1,imaging
+632347,xr. lumbosacral spine ( ap / lat,1,imaging
+632348,xr. lumbosacral spine ( w/ oblique& dynamic,1,imaging
+632349,xr. lumbosacral spine (w/si joints,1,imaging
+632350,xr. mandible (bone,1,imaging
+632351,xr. mandible (panaromic,1,imaging
+632352,xr. mastoid,1,imaging
+632354,xr. one foot (ap / lateral,1,imaging
+632355,xr. one foot w/ (special view,1,imaging
+632356,xr. patella one side (skyline,1,imaging
+632357,xr. pelvis,1,imaging
+632358,xr. ribs (bilateral,1,imaging
+632359,xr. ribs (unilateral,1,imaging
+632360,xr. sacro iliac joints,1,imaging
+632361,xr. sacrum,1,imaging
+632362,xr. salivary glands (plain,1,imaging
+632363,xr. scapoid bone/wrist (ap / lateral w/ strain,1,imaging
+632364,xr. scapula,1,imaging
+632365,xr. sella turcica (pitiutary) fossa,1,imaging
+632366,xr. shoulder joint (ap / rotation,1,imaging
+632367,xr. shoulder joint (ap only,1,imaging
+632368,xr. shoulder joint (axial view,1,imaging
+632369,xr. sinuses(3 f,1,imaging
+632370,xr. skull (ap / lateral,1,imaging
+632371,xr. sternum (ap/lat,1,imaging
+632372,xr. temporo - mandibular joints (tmj,1,imaging
+632373,xr. thoracic (swimmers view,1,imaging
+632374,xr. thoracic inlet,1,imaging
+632375,xr. thoracic spine (ap / lateral,1,imaging
+632376,xr. thoracic spine (w/ oblique,1,imaging
+632377,xr. thoraco-lumbar(ap/lateral,1,imaging
+632378,xr. tibia & fibula (ap/lateral,1,imaging
+632379,xr. tibia & fibula (both / ap & lateral,1,imaging
+632380,xr. toe,1,imaging
+632381,xr. upper arm (ap only,1,imaging
+632382,xr. upper arm (both ap / lateral,1,imaging
+632383,xr. whole lower limb + measurement of length & angles,1,imaging
+632384,xr. whole spine+ measurement of curvature angles,1,imaging
+632385,xr. wrist j.ap/lat./ob,1,imaging
+632386,xr. wrist joint ap only,1,imaging
+632387,xr.sterno clavicular joints,1,imaging
+632388,xr.thoracio lumbar (w/ iblique,1,imaging
+632389,xr/pan,1,imaging
+632390,xr0171,1,other
+632391,xra-000 x-ray,1,imaging
+632392,xra-001 abdominal ultrasound,1,imaging
+632393,xra-004 x-ray for two plates,1,imaging
+632394,xra-1559 doppler study,1,imaging
+632395,xrankle joint 4 views,2,imaging
+632396,xrat foot 1 view,1,imaging
+632397,xray,2,imaging
+632398,xray both knees - 4 films,1,imaging
+632400,xray limbs,2,imaging
+632401,xray normal,2,imaging
+632402,xray - 1 films for o.r,1,imaging
+632403,xray - 2 films for o.r,1,imaging
+632404,xray - abdomen a.p. & lat. 2 films,1,imaging
+632405,"xray - abdomen, 1 film",1,imaging
+632406,"xray - abdomen, 1 film - 050-14300",1,imaging
+632407,"xray - abdomen, a.p. & lat., 2 films",1,imaging
+632408,"xray - abdomen, a.p. & lat., 2 films - 051-14340",1,imaging
+632409,"xray - abdomen, supine & erect, 2 films",1,imaging
+632410,"xray - abdomen, supine & erect, 2 films - 051-14330",1,imaging
+632411,xray - acromio clavicular joint both sides 4 films,1,imaging
+632412,xray - acromio clavicular joint both sides 4 films - 048-14231,1,imaging
+632413,xray - additional charge for portable ultrasound,1,imaging
+632414,xray - additional charge for portable ultrasound # 058-14964,1,imaging
+632415,xray - additional charge for portable ultrasound - 058-14964,1,imaging
+632416,xray - additional views for general radiography,1,imaging
+632417,xray - barium follow through,1,imaging
+632418,xray - barium swallow,1,imaging
+632419,xray - bilateral mammogram,1,imaging
+632420,xray - bilateral mammogram - 065-14958,1,imaging
+632421,xray - bitewing-single film,1,imaging
+632422,xray - both heel / calcaniultrasound - 2 views,1,imaging
+632423,"xray - both hips, 3 films",1,imaging
+632424,"xray - both hips, 3 films - 053-14820",1,imaging
+632425,"xray - both mastoids, 3 films",1,imaging
+632426,"xray - both sterno-clavicular joints, 1 film",1,imaging
+632427,"xray - both sterno-clavicular joints, 3 films",1,imaging
+632428,"xray - both t.m. joints, 4 films",1,imaging
+632429,xray - c. spine flexion & extension views,1,imaging
+632430,xray - c. spine flexion & extension views - 052-14978,1,imaging
+632431,xray - cephalometric (for orthodontic use only,1,imaging
+632433,xray - cervical spine 5 views - 052-14969,1,imaging
+632434,xray - chest,1,imaging
+632435,xray - chest 3 films,1,imaging
+632436,xray - chest # 050-14230,1,imaging
+632437,xray - chest # 051-14230,1,imaging
+632438,xray - chest + apical,1,imaging
+632439,xray - chest + apical - 051-14972,1,imaging
+632440,xray - chest - 051-14230,1,imaging
+632441,xray - chest - 3 views,1,imaging
+632442,xray - chest 2 films,1,imaging
+632443,xray - chest pa,1,imaging
+632444,xray - chest pa - lat,1,imaging
+632445,xray - chest tomogram,1,imaging
+632446,"xray - chest, 2 films",1,imaging
+632447,"xray - chest, 2 films - 051-14260",1,imaging
+632448,"xray - chest, 3 films",1,imaging
+632449,"xray - chest, 3 films # 050-14250",1,imaging
+632450,"xray - chest, 3 films - 051-14250",1,imaging
+632451,"xray - chest, ribs, one side, 2 films",1,imaging
+632452,"xray - chest, ribs, one side, 2 films - 051-14280",1,imaging
+632453,"xray - coccyx & sacrum, 3 films",1,imaging
+632454,"xray - coccyx & sacrum, 3 films - 052-14600",1,imaging
+632455,xray - cystogram & disposables,1,imaging
+632456,"xray - dorsi lumbar, 3 films",1,imaging
+632457,"xray - dorsi lumbar, 3 films - 052-14963",1,imaging
+632458,xray - dorsi lumbar- 3 films,1,imaging
+632459,"xray - facial bones, 2 films",1,imaging
+632460,"xray - facial bones, 3 films",1,imaging
+632461,xray - fluoroscopy,1,imaging
+632462,xray - fluoroscopy - 056-14983,1,imaging
+632463,xray - full spine (ap,1,imaging
+632464,xray - galactography (one side,1,imaging
+632465,xray - gastrografine study,1,imaging
+632466,xray - hand 4 views,1,imaging
+632467,xray - intraoral-single film,1,imaging
+632468,xray - k.u.b,1,imaging
+632469,xray - k.u.b. - 051-14240,1,imaging
+632470,xray - kub,1,imaging
+632471,xray - left finger,2,imaging
+632472,xray - left finger - 049-14791,1,imaging
+632473,xray - left knee 4 views,1,imaging
+632474,xray - left knee 4 views - 049-14852,1,imaging
+632475,xray - left ankle,1,imaging
+632476,xray - left ankle # 048-14870,1,imaging
+632477,xray - left ankle - 049-14870,1,imaging
+632478,"xray - left ankle joint, 2 films",1,imaging
+632479,"xray - left clavicle, 1 film - 049-14650",1,imaging
+632480,"xray - left clavicle, 2 films",1,imaging
+632481,xray - left elbow 1 film,1,imaging
+632482,"xray - left elbow, 1 film",1,imaging
+632483,"xray - left elbow, 1 film - 049-14740",1,imaging
+632484,"xray - left femur, 1 film",1,imaging
+632485,"xray - left femur, 1 film - 049-14830",1,imaging
+632486,"xray - left femur, 2 films",1,imaging
+632488,xray - left foot,1,imaging
+632489,xray - left foot # 048-14890,1,imaging
+632490,xray - left foot - 049-14890,1,imaging
+632491,xray - left forearm,1,imaging
+632492,xray - left forearm - 049-14750,1,imaging
+632493,xray - left forefoot (toes,1,imaging
+632494,xray - left forefoot (toes) - 049-14910,1,imaging
+632495,xray - left hand,1,imaging
+632496,xray - left hand - 049-14780,1,imaging
+632497,xray - left hips 2 films,1,imaging
+632498,xray - left humerus 1 film,1,imaging
+632499,"xray - left humerus, 1 film",1,imaging
+632500,"xray - left humerus, 2 films",1,imaging
+632501,xray - left knee + patella,1,imaging
+632502,xray - left knee + patella - 049-14979,1,imaging
+632503,xray - left knee 4 views # 048-14852,1,imaging
+632504,xray - left knee joint,1,imaging
+632505,"xray - left knee with intercondylar, 3 films",1,imaging
+632506,"xray - left knee with intercondylar, 3 films - 048-14860",1,imaging
+632507,xray - left os calcis,1,imaging
+632508,xray - left scapula 2 films,1,imaging
+632509,"xray - left scapula, 2 films",1,imaging
+632510,"xray - left scapula, 2 films - 049-14690",1,imaging
+632511,"xray - left shoulder & scapula, 3 films",1,imaging
+632512,"xray - left shoulder & scapula, 3 films - 049-14700",1,imaging
+632513,"xray - left shoulder, 1 film",1,imaging
+632514,"xray - left shoulder, 2 films",1,imaging
+632515,"xray - left shoulder, 3 films",1,imaging
+632516,xray - left thumb,1,imaging
+632517,xray - left tib + fib,1,imaging
+632518,xray - left tib + fib - 048-14966,1,imaging
+632519,xray - left wrist,1,imaging
+632520,xray - left wrist & scaphoid,1,imaging
+632521,xray - left wrist & scaphoid - 049-14770,1,imaging
+632522,xray - lumbar spine flexion & extension,1,imaging
+632523,xray - lumbar spine flexion & extension # 052-14982,1,imaging
+632524,xray - lumbar spine flexion & extension - 052-14982,1,imaging
+632525,"xray - mandible , one side, 2 films",1,imaging
+632526,"xray - mandible, both sides, 3 films",1,imaging
+632533,xray - panoramic x-ray (for orthodontic use only,1,imaging
+632534,xray - panoramic-maxilla & mandible single film,1,imaging
+632535,xray - panoramic-maxilla & mandible x-ray,1,imaging
+632536,xray - panoramic-maxilla & mandible x-ray - 137-330,1,imaging
+632537,xray - pelvis 2 films,1,imaging
+632538,xray - pelvis 2 films - 052-14801,1,imaging
+632539,xray - pelvis 3 films,1,imaging
+632540,"xray - pelvis or hip, 1 film",1,imaging
+632541,"xray - pelvis or hip, 1 film # 052-14800",1,imaging
+632542,"xray - pelvis or hip, 1 film - 053-14800",1,imaging
+632543,xray - plain abdomen erect & supine + chest,1,imaging
+632544,xray - plain abdomen erect & supine + chest (acute abdominal series,1,imaging
+632545,xray - plain abdomen erect & supine + chest (acute abdominal series) - 051-14915,1,imaging
+632546,"xray - pns water""s view 1f",1,imaging
+632547,xray - portable (additional film,1,imaging
+632548,xray - portable (additional film) - 058-14989,1,imaging
+632549,xray - portable 1 film,1,imaging
+632550,xray - portable 1 film # 058-14988,1,imaging
+632551,xray - portable 1 film - 058-14988,1,imaging
+632552,xray - portable 1 film - 059-14988,1,imaging
+632555,"xray - ribs, bilateral, 3 films",1,imaging
+632556,xray - right knee 4 views,1,imaging
+632557,xray - right ankle,1,imaging
+632558,xray - right ankle # 048-14871,1,imaging
+632559,xray - right ankle - 049-14871,1,imaging
+632560,xray - right ankle joint 2 films,1,imaging
+632561,"xray - right ankle joint, 2 films",1,imaging
+632562,"xray - right ankle joint, 2 films - 049-14881",1,imaging
+632563,"xray - right clavicle, 1 film",1,imaging
+632564,"xray - right clavicle, 2 films",1,imaging
+632565,"xray - right elbow, 1 film",1,imaging
+632566,"xray - right femur, 2 films",1,imaging
+632567,"xray - right femur, 2 films - 049-14841",1,imaging
+632568,xray - right finger,1,imaging
+632569,xray - right foot,1,imaging
+632570,xray - right foot # 048-14891,1,imaging
+632571,xray - right foot - 049-14891,1,imaging
+632572,xray - right forearm,1,imaging
+632573,xray - right forefoot (toes,1,imaging
+632574,xray - right hand,1,imaging
+632575,xray - right hips 2 films,1,imaging
+632576,xray - right hips 2 films - 053-14985,1,imaging
+632577,"xray - right humerus, 1 film",1,imaging
+632578,"xray - right humerus, 2 films",1,imaging
+632579,"xray - right humerus, 2 films - 049-14731",1,imaging
+632580,xray - right knee + patella,1,imaging
+632581,xray - right knee joint,1,imaging
+632582,"xray - right knee with intercindylar, 3 films",1,imaging
+632583,"xray - right knee with intercindylar, 3 films - 049-14861",1,imaging
+632584,"xray - right knee with intercondylar., 3 films",1,imaging
+632585,"xray - right knee with intercondylar., 3 films - 048-14861",1,imaging
+632586,xray - right os calcis,1,imaging
+632587,"xray - right scapula, 2 films",1,imaging
+632588,"xray - right shoulder & scapula, 3 films",1,imaging
+632589,"xray - right shoulder, 1 film",1,imaging
+632590,"xray - right shoulder, 1 film - 049-14671",1,imaging
+632591,"xray - right shoulder, 2 films",1,imaging
+632592,"xray - right shoulder, 3 films",1,imaging
+632593,xray - right thumb,1,imaging
+632594,xray - right tib + fib,1,imaging
+632595,xray - right tib + fib - 048-14967,1,imaging
+632596,xray - right wrist,1,imaging
+632597,xray - right wrist & scaphiod,1,imaging
+632598,xray - right wrist - 049-14761,1,imaging
+632599,"xray - sacro-iliac joints, 1 film",1,imaging
+632600,"xray - sacro-iliac joints, 1 film - 052-14610",1,imaging
+632601,"xray - sacro-iliac, inc. oblique, 3 films",1,imaging
+632602,"xray - sacrum, 2 films",1,imaging
+632603,xray - screening for o.r. (image intensifier,1,imaging
+632604,xray - single periapical,1,imaging
+632605,xray - sinuses 1 film,1,imaging
+632606,xray - sinuses 1 film - 055-14410,1,imaging
+632607,xray - sinuses 2 films,1,imaging
+632608,xray - sinuses 2 films - 055-14420,1,imaging
+632609,xray - sinuses 3 films,1,imaging
+632610,xray - sinuses 3 films - 055-14430,1,imaging
+632611,"xray - skeletal survey, 8 films",1,imaging
+632612,"xray - skull, 1 film",1,imaging
+632613,"xray - skull, 1 film - 055-14351",1,imaging
+632614,"xray - skull, 2 films",1,imaging
+632615,"xray - skull, 3 films",1,imaging
+632616,xray - soft tissue - neck,1,imaging
+632617,xray - soft tissue - neck - 052-14997,1,imaging
+632618,xray - spine cervical 2 films,1,imaging
+632619,xray - spine dorsal 2 films,1,imaging
+632620,xray - spine lumbo-sacral & obliques,1,imaging
+632621,"xray - spine cervical w. oblique, 4 films",1,imaging
+632622,"xray - spine cervical w. oblique, 4 films - 053-14545",1,imaging
+632623,xray - spine cervical w.oblique 3 films # 052-14540,1,imaging
+632624,xray - spine lumbo-sacral 3 films,1,imaging
+632625,"xray - spine, cervical w.oblique, 3 films",1,imaging
+632626,"xray - spine, cervical w.oblique, 3 films - 052-14540",1,imaging
+632627,"xray - spine, cervical, 2 films",1,imaging
+632628,"xray - spine, cervical, 2 films - 053-14530",1,imaging
+632629,"xray - spine, dorsal, 2 films",1,imaging
+632630,"xray - spine, dorsal, 2 films - 053-14550",1,imaging
+632631,"xray - spine, lumbar, 2 films",1,imaging
+632632,"xray - spine, lumbar, 2 films - 053-14560",1,imaging
+632633,"xray - spine, lumbo-sacral & obliques",1,imaging
+632634,"xray - spine, lumbo-sacral & obliques # 052-14580",1,imaging
+632635,"xray - spine, lumbo-sacral & obliques # 053-14580",1,imaging
+632636,"xray - spine, lumbo-sacral & obliques - 053-14580",1,imaging
+632637,"xray - spine, lumbo-sacral, 3 films",1,imaging
+632638,"xray - spine, lumbo-sacral, 3 films # 052-14570",1,imaging
+632639,"xray - spine, lumbo-sacral, 3 films - 053-14570",1,imaging
+632640,xray - t. tube cholangiogram,1,imaging
+632641,"xray - t.m. joint, one side, 2 films",1,imaging
+632642,"xray - thoracic inlet, 2 films",1,imaging
+632643,"xray - thoracic inlet, 2 films - 050-14270",1,imaging
+632644,"xray - thoraco lumbar, 2 films",1,imaging
+632645,"xray - thoraco lumbar, 2 films - 052-14998",1,imaging
+632646,xray - ultra sound of scrotum,1,imaging
+632647,xray - urethrogram,1,imaging
+632648,xray -panaromic,1,imaging
+632649,xray abd . standing,1,imaging
+632650,xray abdomen - 2 film,1,imaging
+632652,xray abdomen erect,1,imaging
+632653,xray abdomen kub,1,imaging
+632654,xray abdomen pa and lat,1,imaging
+632655,xray abdomen standing view only,1,imaging
+632656,xray abdomen supine,1,imaging
+632657,xray acromio clavicular clavicle,1,imaging
+632658,xray adenoids,1,imaging
+632659,xray ankel ap/lat,1,imaging
+632660,xray ankle 2 views,1,imaging
+632661,xray ankle 3 views,1,imaging
+632662,xray ankle joint (ap/lat,1,imaging
+632663,xray ankle joint ap,2,imaging
+632664,xray ankle joint lat,2,imaging
+632665,xray bone age,1,imaging
+632666,xray both ankle ap/lat,1,imaging
+632667,xray both hips+pelvis-ap7 abduct (chd,1,imaging
+632668,xray both knees,1,imaging
+632670,xray both thigh ap view,1,imaging
+632671,xray calcaneum / heel,1,imaging
+632672,xray calcaneus,1,imaging
+632674,xray calcanium ap,1,imaging
+632675,xray calcanium lat,1,imaging

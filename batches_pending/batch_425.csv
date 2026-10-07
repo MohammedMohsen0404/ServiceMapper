@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+626684,x-ray both hand & wrist ap - 1 view - 1 film,1,imaging
+626685,x-ray both hands,1,imaging
+626686,x-ray both hands & wrist 1v 1f,1,imaging
+626687,x-ray both hands ap,1,imaging
+626688,x-ray both hands ap & lat,1,imaging
+626689,x-ray both hands pa,1,imaging
+626690,x-ray both hands pa & lat,1,imaging
+626691,x-ray both hands with wrist - 2 view,1,imaging
+626692,x-ray both heels lat,1,imaging
+626693,x-ray both hip joint ap,1,imaging
+626694,x-ray both hips 2f,1,imaging
+626695,x-ray both hips and pelvis 3v 3f,1,imaging
+626696,x-ray both knee -- ap,1,imaging
+626697,x-ray both knee -- ap & lat,1,imaging
+626698,x-ray both knee ap,1,imaging
+626699,x-ray both knee ap. lat,1,imaging
+626700,x-ray both knee joint 2f,1,imaging
+626701,x-ray both knee joint ap/lat,1,imaging
+626702,x-ray both knee jts,1,imaging
+626703,x-ray both knee standing (ap+lat,1,imaging
+626704,x-ray both knee standing 1v 1f,1,imaging
+626705,x-ray both knees,3,imaging
+626706,x-ray both knees ap & lat,2,imaging
+626707,x-ray both knees ap standing,2,imaging
+626708,x-ray both knees standing,1,imaging
+626709,x-ray both knees-4v-4f,1,imaging
+626710,x-ray both leg 1 view,1,imaging
+626711,x-ray both leg 2 view,1,imaging
+626712,x-ray both leg ap view,1,imaging
+626713,x-ray both mastoids 2f 2sides,1,imaging
+626714,x-ray both mastoids 2f two sides,1,imaging
+626715,x-ray both shoulder 4 views,1,imaging
+626716,x-ray both shoulder comp - 2 views - 2 films,1,imaging
+626717,x-ray both shoulders 2f,1,imaging
+626718,x-ray both sterno - calvicular joints 3f,1,imaging
+626719,x-ray both sterno clavicular joints - 3 views 3 films,1,imaging
+626720,x-ray both wrist for compartion pa,1,imaging
+626723,x-ray both heel lateral only,1,imaging
+626724,x-ray both leg for adult ap & lateral views,1,imaging
+626727,x-ray both lower limb for child ap & lateral views,1,imaging
+626728,x-ray c spine,1,imaging
+626729,x-ray c-arm guidance (1-2 hour,1,imaging
+626730,x-ray c-arm guidance (< 1 hour,1,imaging
+626731,x-ray c-arm guidance (> 2 hour,1,imaging
+626732,x-ray calcaneum - 1 view,1,imaging
+626733,x-ray calcaneum - 2 views,1,imaging
+626734,x-ray calcaneum - 3 views,1,imaging
+626735,x-ray calcaneus ap & lat & axial (1 side) (right,1,imaging
+626736,x-ray calcaneus ap & lat & axial (1 side) - right,1,imaging
+626737,x-ray calcaneus ap & lat. & axial (1 side,1,imaging
+626738,x-ray calcaneus ap & lat. & axial (1 side) - left,1,imaging
+626739,x-ray calcaneus ap & lat. & axial (1 side) - right,1,imaging
+626740,x-ray calcaneus ap & lat. & axial (both sides,1,imaging
+626741,x-ray calcaneus axial view,1,imaging
+626742,x-ray calcaneus lat,1,imaging
+626743,x-ray calcanium,1,imaging
+626744,x-ray calcenus (axial view,1,imaging
+626745,x-ray cd upload,1,imaging
+626746,x-ray cephalometric,2,imaging
+626747,x-ray cerv spine - 1 views,2,imaging
+626748,x-ray cerv spine - 2 views,4,imaging
+626749,x-ray cerv spine - 4 views,4,imaging
+626750,x-ray cervical,1,imaging
+626751,x-ray cervical (ap+lat+oblique,1,imaging
+626752,x-ray cervical ap+lat+flex+ext. 4v-4f,1,imaging
+626753,x-ray cervical spine,4,imaging
+626754,x-ray cervical spine (lateral,1,imaging
+626755,x-ray cervical spine (ap + lat,1,imaging
+626756,x-ray cervical spine (ap view,2,imaging
+626757,"x-ray cervical spine (dynemic view in flex, ext, int&exc rotation",1,imaging
+626758,x-ray cervical spine - 2 views,1,imaging
+626759,x-ray cervical spine - 4 views,1,imaging
+626760,x-ray cervical spine -- ap,1,imaging
+626761,x-ray cervical spine -- lat,1,imaging
+626762,x-ray cervical spine 1f,1,imaging
+626763,x-ray cervical spine 2 views,1,imaging
+626764,x-ray cervical spine 2view,1,imaging
+626765,x-ray cervical spine 3 views ap/lat/obl,1,imaging
+626766,x-ray cervical spine ap,1,imaging
+626767,x-ray cervical spine ap &,1,imaging
+626768,x-ray cervical spine ap & lat,6,imaging
+626770,x-ray cervical spine ap & lat. & oblique,2,imaging
+626771,x-ray cervical spine ap - 1 view,1,imaging
+626772,x-ray cervical spine ap/lat,3,imaging
+626773,x-ray cervical spine ap/lat (open/close mouth,1,imaging
+626774,x-ray cervical spine ap/lat/ob,1,imaging
+626775,x-ray cervical spine ap/lateral,1,imaging
+626776,x-ray cervical spine flex & ext 4v,2,imaging
+626777,x-ray cervical spine flex. & ext,1,imaging
+626778,x-ray cervical spine lateral,1,imaging
+626779,x-ray cervical spine lateral - 1 view,1,imaging
+626780,x-ray cervical spine oblq 4v,2,imaging
+626781,x-ray cervical spine one view,1,imaging
+626782,x-ray cervical spine three views,1,imaging
+626783,x-ray cervical spine two views,1,imaging
+626784,x-ray cervical spines 2 films,1,imaging
+626785,x-ray cervical spines 2.v,1,imaging
+626786,x-ray cervico - dorsal (ap + lat,1,imaging
+626787,x-ray cervico dorsal spine ap & lat,3,imaging
+626788,x-ray cervicxal spine ap &lat,2,imaging
+626789,"x-ray cervicxal spine ap ,lat &2obl",2,imaging
+626790,x-ray chest,3,imaging
+626791,x-ray chest & abdomen one view - portable,1,imaging
+626792,x-ray chest (1 film,2,imaging
+626794,x-ray chest (2 films,3,imaging
+626797,x-ray chest (ap view) 2 views,1,imaging
+626798,x-ray chest (apview,1,imaging
+626799,x-ray chest (pa + lat,1,imaging
+626800,x-ray chest (pa view,1,imaging
+626801,x-ray chest - 1 view,5,imaging
+626802,x-ray chest - 2 views,1,imaging
+626803,x-ray chest - 2 views ap.lat,1,imaging
+626804,x-ray chest - 2 views ap/lat,5,imaging
+626805,x-ray chest - 3 views,1,imaging
+626806,x-ray chest -- lat,1,imaging
+626807,x-ray chest 1 film,4,imaging
+626808,x-ray chest 1 view,1,imaging
+626809,x-ray chest 1f,1,imaging
+626810,x-ray chest 1v,6,imaging
+626811,x-ray chest 2 films,4,imaging
+626812,x-ray chest 2 view,1,imaging
+626814,x-ray chest 2f,1,imaging
+626816,x-ray chest a p for ribs,1,imaging
+626817,x-ray chest ap,1,imaging
+626818,x-ray chest ap - 1 view,1,imaging
+626819,x-ray chest ap /lat view,1,imaging
+626820,x-ray chest ap for ribs,1,imaging
+626821,x-ray chest ap&obliq,1,imaging
+626822,x-ray chest ap/lat,1,imaging
+626823,x-ray chest ap/lat - 2 views,1,imaging
+626824,x-ray chest apical view,1,imaging
+626825,x-ray chest for ribs (two sides)3v,2,imaging
+626826,x-ray chest for ribs 2v,3,imaging
+626827,x-ray chest lateral,1,imaging
+626828,x-ray chest lateral - 1 view,1,imaging
+626829,x-ray chest oblique - 1 view,1,imaging
+626830,x-ray chest one view,2,imaging
+626831,x-ray chest p.a view,1,imaging
+626832,x-ray chest pa,3,imaging
+626833,x-ray chest pa & lat,2,imaging
+626834,x-ray chest pa & lat. & obl,1,imaging
+626835,x-ray chest pa & lat. decubitus,1,imaging
+626836,x-ray chest pa & lat. views,2,imaging
+626837,x-ray chest pa view,2,imaging
+626838,x-ray chest pa view 1f,1,imaging
+626839,x-ray chest pa. lat,1,imaging
+626840,x-ray chest pa/lat 2 films,1,imaging
+626841,x-ray chest ribs - 2 views,1,imaging
+626842,x-ray chest two views,1,imaging
+626843,x-ray chest-1 view,1,imaging
+626844,x-ray chset 1 view,1,imaging
+626845,x-ray chset 3 views,1,imaging
+626846,x-ray clavical ap,1,imaging
+626848,x-ray clavicle - 2 views,2,imaging
+626849,x-ray clavicle 1f,4,imaging
+626850,x-ray clavicle 1f lt,1,imaging
+626851,x-ray clavicle 1f rt,1,imaging
+626853,x-ray clavicle 2f rt,1,imaging
+626854,x-ray clavicle 5% ap or pa,1,imaging
+626855,x-ray clavicle 5% ap or pa - left,1,imaging
+626856,x-ray clavicle 5% ap or pa - right,1,imaging
+626857,x-ray clavicle-1 view - 1 film,1,imaging
+626858,x-ray clavicle-2 views - 1 film,1,imaging
+626859,x-ray coccyx & sacrum 2 f,1,imaging
+626860,x-ray coccyx & sacrum 2f,1,imaging
+626861,x-ray coccyx (ap + lat,1,imaging
+626863,x-ray cervical spines 1view,1,imaging
+626864,x-ray chest (pa,1,imaging
+626867,x-ray detectable gauze,1,imaging
+626868,x-ray detectable gauze 4x4 (pack/10)16ply,1,imaging
+626869,x-ray detectable peanuts,1,imaging
+626870,x-ray detectable sterile gauze swab 4x4 (10x10cm) 16ply 5pcs/pouch,1,imaging
+626871,x-ray dorsal (thoracic) spine 2 views,1,imaging
+626872,x-ray dorsal lumbar spine ap/lat,1,imaging
+626873,x-ray dorsal spine (ap + lat,1,imaging
+626874,x-ray dorsal spine (ap+lat+oblique,1,imaging
+626875,x-ray dorsal spine 1f,1,imaging
+626876,x-ray dorsal spine ap,1,imaging
+626877,x-ray dorsal spine ap & l,1,imaging
+626878,x-ray dorsal spine ap & lat,6,imaging
+626880,"x-ray dorsal spine ap ,lat &2obl",2,imaging
+626881,x-ray dorsal spine ap/lat,1,imaging
+626882,x-ray dorsal spine lat,1,imaging
+626883,x-ray dorsal spine lateral,1,imaging
+626884,x-ray dorsal spine one view,2,imaging
+626885,x-ray dorsal spine three views,1,imaging
+626886,x-ray dorsal spine two views,1,imaging
+626887,x-ray dorsal spine/thoracic - 2 views,1,imaging
+626888,x-ray dorsal spine/thoracic spine - 2 views,1,imaging
+626889,x-ray dorsal spine/thoracic spine 4 views,1,imaging
+626890,x-ray dorso lumbar spine ap&lat,1,imaging
+626891,x-ray dorso - lumbor spine 2f (ap+lat,1,imaging
+626892,x-ray dorso lumbar 2v 2f,1,imaging
+626893,x-ray dorso lumbar region (ap,1,imaging
+626894,x-ray dorso lumbar spine two views,1,imaging
+626895,x-ray dorso spine 1f,1,imaging
+626896,x-ray dorso- lumbar spines 2 films,1,imaging
+626897,x-ray elbow,3,imaging
+626898,x-ray elbow (2 views,2,imaging
+626899,x-ray elbow - 2 views,4,imaging
+626900,x-ray elbow - 2view,1,imaging
+626901,x-ray elbow - 3 views,3,imaging
+626902,x-ray elbow -- ap & lat,1,imaging
+626903,x-ray elbow 2 view,1,imaging
+626905,x-ray elbow 2 views bialteral,1,imaging
+626906,x-ray elbow 2f lt,1,imaging
+626907,x-ray elbow 2f rt,1,imaging
+626908,x-ray elbow 2v,1,imaging
+626909,x-ray elbow 2view,1,imaging
+626911,x-ray elbow 3 views unilateral,1,imaging
+626912,x-ray elbow ap & lat,3,imaging
+626913,x-ray elbow ap & lat. & sp. view,1,imaging
+626914,x-ray elbow ap & lat. & sp. view (right,1,imaging
+626915,x-ray elbow ap & lat. & sp. view - left,1,imaging
+626916,x-ray elbow ap & lat. & sp. view - right,1,imaging
+626917,x-ray elbow ap & lat. - left,2,imaging
+626918,x-ray elbow ap & lat.(right,1,imaging
+626919,x-ray elbow ap & lat.- right,2,imaging
+626921,x-ray elbow ap+1ab+obliques 4 views,1,imaging
+626922,x-ray elbow ap/lt,1,imaging
+626923,x-ray elbow for coronoid process (4 views,1,imaging
+626924,x-ray elbow for coronoid process (4 views) - right,1,imaging
+626925,x-ray elbow for sulcrus ulnaris view,1,imaging
+626926,x-ray elbow joint,2,imaging
+626927,x-ray elbow joint (ap+lat,1,imaging
+626928,x-ray elbow joint bv,1,imaging
+626929,x-ray elbow jt. b/v,1,imaging
+626930,x-ray elbow- 2v 2f,1,imaging
+626931,x-ray erect abdomen,1,imaging
+626932,x-ray extremity leg,1,imaging
+626933,x-ray facial bone (f.b,1,imaging
+626934,"x-ray facial bone (pa,lat,om",1,imaging
+626935,x-ray facial bone 2 view,1,imaging
+626936,x-ray facial bones 2f,1,imaging
+626937,x-ray facial bones 3 f,1,imaging
+626938,x-ray facial bones 3 v,1,imaging
+626939,x-ray facial bones b/v - 2 views,1,imaging
+626940,x-ray facilities,1,imaging
+626941,x-ray feet ap & lat. & obl,2,imaging
+626942,x-ray feet ap & lat. in standing (bilateral,1,imaging
+626943,x-ray feet ap & obl,1,imaging
+626944,x-ray femur,3,imaging
+626945,x-ray femur (2 views,2,imaging
+626946,x-ray femur (ap+lat,1,imaging
+626947,x-ray femur .thigh - 3 views,1,imaging
+626949,x-ray femur 1 view,1,imaging
+626950,x-ray femur 1f,1,imaging
+626951,x-ray femur 1v lt,1,imaging
+626952,x-ray femur 1v rt,1,imaging
+626953,x-ray femur 2 views,1,imaging
+626954,x-ray femur 2.vew,1,imaging
+626955,x-ray femur 2f,1,imaging
+626956,x-ray femur ap,1,imaging
+626957,x-ray femur ap & lat,2,imaging
+626958,x-ray femur ap & lat. - left,2,imaging
+626959,x-ray femur ap - 1 view,1,imaging
+626960,x-ray femur lat,1,imaging
+626961,x-ray femur lateral - 1 view,1,imaging
+626962,x-ray femur or thigh,1,imaging
+626963,x-ray femur/thigh - 2 views,1,imaging
+626964,x-ray femur/thigh - 3 views,1,imaging
+626965,x-ray film,4,imaging
+626966,x-ray film - 515,1,imaging
+626967,x-ray film 3*4 cm,1,imaging
+626968,x-ray film for one tooth,2,imaging
+626969,x-ray film for two teeth,2,imaging
+626970,x-ray film.(without services,1,imaging
+626971,x-ray finger,2,imaging
+626972,x-ray finger (ap+lat or oblique,1,imaging
+626973,x-ray finger 2v,1,imaging
+626974,x-ray finger 2view,1,imaging
+626975,x-ray finger b/v,1,imaging
+626976,x-ray finger bv,1,imaging
+626977,x-ray finger or thumb two view,1,imaging
+626978,x-ray finger/thumb - 2 views,1,imaging
+626979,x-ray fingers 2f,6,imaging
+626980,x-ray fingers 2f lt,1,imaging
+626981,x-ray fingers 2f rt,1,imaging
+626982,x-ray fingers ap & lat. & obl,2,imaging
+626983,x-ray fingers ap & lat. & obl. (right,1,imaging
+626984,x-ray fingers ap & lat. & obl. - left,2,imaging
+626985,x-ray fingers ap & lat. & obl.- right,1,imaging
+626986,x-ray fingers ap lat. obl,3,imaging
+626987,x-ray fingers stress view,1,imaging
+626988,x-ray fingers stress view - left,1,imaging
+626989,x-ray fingers stress view - right,1,imaging
+626990,x-ray foot,3,imaging
+626991,x-ray foot (2 views,2,imaging
+626992,x-ray foot (ap+lat,1,imaging
+626993,x-ray foot (ap+obl+lat,1,imaging
+626994,x-ray foot - 2 views,2,imaging
+626995,x-ray foot - 2 views (ap/obl,4,imaging
+626996,x-ray foot - 3 to 4 views,1,imaging
+626997,x-ray foot - 3 views (ap/lat/obl,4,imaging
+626998,x-ray foot -- ap & lat,1,imaging
+626999,x-ray foot 1 view,1,imaging
+627000,x-ray foot 1view,1,imaging
+627001,x-ray foot 2v,1,imaging
+627002,x-ray foot 2view,1,imaging
+627003,x-ray foot ap & lat (standing) 4f lt,1,imaging
+627004,x-ray foot ap & lat (standing) 4f rt,1,imaging
+627005,x-ray foot ap & lat. & obl,2,imaging
+627006,x-ray foot ap & lat. & obl. (right,1,imaging
+627007,x-ray foot ap & lat. & obl. - left,2,imaging
+627008,x-ray foot ap & obl ( right,2,imaging
+627010,x-ray foot ap & obl - right,1,imaging
+627011,x-ray foot ap & obl lt,1,imaging
+627012,x-ray foot ap & obl rt,1,imaging
+627013,x-ray foot ap & obl,8,imaging
+627014,x-ray foot ap & obl. - left,2,imaging
+627015,x-ray foot ap & oblique,1,imaging
+627016,x-ray foot ap - 1 view,1,imaging
+627017,x-ray foot ap view,1,imaging
+627018,"x-ray foot ap,lat",1,imaging
+627019,x-ray foot ap/ lat. obl,1,imaging
+627020,x-ray foot ap/lat,1,imaging
+627021,x-ray foot ap/ob,1,imaging
+627022,x-ray foot arches,1,imaging
+627023,x-ray foot forced dorsiflexion,1,imaging
+627024,x-ray foot forced plantarflexion,1,imaging
+627025,x-ray foot lat view,1,imaging
+627026,x-ray foot lateral - 1 view,1,imaging
+627027,x-ray foot lateral view,1,imaging
+627028,x-ray foot oblique,1,imaging
+627029,x-ray foot oblique view,1,imaging
+627030,x-ray foot oscalcis - 2 views,1,imaging
+627031,x-ray foot oscalcis - 3 views,1,imaging
+627032,x-ray foot oscalcis - 4 views,1,imaging
+627033,x-ray foot pa/lat,1,imaging
+627034,x-ray foot tangential & lat. in standing,1,imaging
+627035,x-ray foot tangential & lat. in standing (right,1,imaging
+627036,x-ray foot tangential & lat. in standing - left,1,imaging
+627037,x-ray foot tangential & lat. in standing - right,1,imaging
+627038,x-ray for abdomen,1,imaging
+627039,x-ray for ankle and foot 2 views,1,imaging
+627040,x-ray for ankle joint axial view,1,imaging
+627041,x-ray for any joint 1 view,1,imaging
+627042,x-ray for any joint 2 views,1,imaging
+627043,x-ray for any limb 1 view,1,imaging
+627044,x-ray for any limb 2 views,1,imaging
+627045,x-ray for arm,1,imaging
+627046,x-ray for cervical spine 2 views,1,imaging
+627047,x-ray for cervical spine ap&lat,1,imaging
+627048,x-ray for cervical spine ap&lat&oblique,1,imaging
+627049,x-ray for elbow joint 2 views,1,imaging
+627050,"x-ray for fingers ap ,lat ,oblique",1,imaging
+627051,x-ray for forarm ap&lat,1,imaging
+627052,x-ray for hand 2 views,1,imaging
+627053,x-ray for hip joint 2 views,1,imaging
+627054,x-ray for knee joint,1,imaging
+627055,x-ray for knee joint 2 views,1,imaging
+627056,x-ray for knee joint ap&lat&oblique,1,imaging
+627057,x-ray for knee joint pa&lat,1,imaging
+627058,x-ray for lumbo sacral spine 2 views,1,imaging
+627059,x-ray for lumbosacral spine ap&lat,1,imaging
+627060,x-ray for lumbosacral spine ap&lat&oblique,1,imaging
+627063,x-ray for nasopharenx,1,imaging
+627064,x-ray for pelvec,1,imaging
+627065,x-ray for sckull ap&lat,1,imaging
+627066,x-ray for shoulder ap,1,imaging
+627067,x-ray for shoulder joint 1 view,1,imaging
+627068,x-ray for sinuses,1,imaging
+627069,x-ray for sinuses&adenoid,1,imaging
+627070,x-ray for the hand ap&*lat,1,imaging
+627071,x-ray for thoracic spine 2 views,1,imaging
+627072,x-ray for thoracic spine ap&lat,1,imaging
+627073,x-ray for tibia and fibula 2 views,1,imaging
+627074,x-ray for two plates,1,imaging
+627075,x-ray for ulnar and radius s views,1,imaging
+627076,x-ray for wrist joint 2 views,1,imaging
+627077,x-ray for wrist joint ap&lat,1,imaging
+627078,x-ray forarm bv,1,imaging
+627079,x-ray fore arm 2view,1,imaging
+627080,x-ray fore arm apl,1,imaging
+627081,x-ray fore foot ( toes ) 2v,1,imaging
+627082,x-ray fore foot (toes)2view,1,imaging
+627083,x-ray forearam 3 views,1,imaging
+627084,x-ray forearm,4,imaging
+627085,x-ray forearm (ap + lat,1,imaging
+627086,x-ray forearm (ulna / radius) - 2 views,3,imaging
+627087,x-ray forearm (ulna/radius) 1 view,1,imaging
+627088,x-ray forearm (ulna/radius) 2 views,1,imaging
+627089,x-ray forearm -- ap & lat,1,imaging
+627090,x-ray forearm 2v,1,imaging
+627091,x-ray forearm ap & lat lt,1,imaging
+627092,x-ray forearm ap & lat rt,1,imaging
+627093,x-ray forearm ap&lat 2 views,1,imaging
+627094,x-ray forearm ap. & lat,1,imaging
+627095,x-ray forearm ap. & lat. - left,2,imaging
+627096,x-ray forearm ap/lat,1,imaging
+627097,x-ray forearm [ulna-radius] 2 views,1,imaging
+627098,x-ray forearm ulna/ radius 2views,1,imaging
+627099,x-ray forefoot 2f lt,1,imaging
+627100,x-ray forefoot 2f rt,1,imaging
+627101,x-ray four views any part,1,imaging
+627102,x-ray frorefoot 2f,3,imaging
+627110,x-ray hand,4,imaging
+627111,x-ray hand apview,1,imaging
+627112,x-ray hand & wrist both s,1,imaging
+627113,x-ray hand & wrist both sides 2f lt,1,imaging
+627114,x-ray hand & wrist both sides 2f rt,1,imaging
+627115,x-ray hand (pa+lat,1,imaging
+627116,x-ray hand (pa+obl,1,imaging
+627117,x-ray hand (pa+obl+lat,1,imaging
+627118,x-ray hand - 1 view,1,imaging
+627119,x-ray hand - 2 views,3,imaging
+627120,x-ray hand - 3 views,3,imaging
+627121,x-ray hand - 4 views,2,imaging
+627122,x-ray hand -- ap & lat,1,imaging
+627123,x-ray hand 2 views unilateral,1,imaging
+627124,x-ray hand 2v,1,imaging
+627125,x-ray hand 2view,1,imaging
+627126,x-ray hand ap & lat. & obl,3,imaging
+627127,x-ray hand ap & lat. & obl. - left,2,imaging
+627128,x-ray hand ap & obl 2 views,1,imaging
+627129,x-ray hand ap. & obl,1,imaging
+627130,x-ray hand ap. & obl. - left,1,imaging
+627131,x-ray hand ap/lat/obliq,1,imaging
+627132,x-ray hand ap/lt,1,imaging
+627133,x-ray hand bv,1,imaging
+627134,x-ray hand for pisiform/navicular,1,imaging
+627135,x-ray hand or finger 3v-2f,1,imaging
+627136,x-ray hand or finger-2 v-2f,1,imaging
+627137,x-ray hand or foot (1 film-2 view,1,imaging
+627138,x-ray hand ov,1,imaging
+627139,x-ray hand pa & lat. & obl,1,imaging
+627140,x-ray hand pa & obl lt,1,imaging
+627141,x-ray hand pa & obl rt,1,imaging
+627142,x-ray hand pa. & obl- right,1,imaging
+627143,x-ray hand pa. & obl,1,imaging
+627144,x-ray hand pa. & obl. (right,1,imaging
+627145,x-ray hand pa/obl,1,imaging
+627146,x-ray hand two view,1,imaging
+627148,x-ray hands,1,imaging
+627149,x-ray hands & wrist bilat,1,imaging
+627150,x-ray hands both ap & lat. & scaphoid,1,imaging
+627151,x-ray hands&wrist bilat,1,imaging
+627152,x-ray head,1,imaging
+627153,x-ray head for orthodontia cephalogram,1,imaging
+627154,x-ray heel (both sides,1,imaging
+627155,x-ray heel (calcaneum) - 1 view,1,imaging
+627156,x-ray heel (calcaneum) - 2 views,1,imaging
+627157,x-ray heel - 2 views,2,imaging
+627158,x-ray heel axial & lat lt,1,imaging
+627159,x-ray heel axial & lat rt,1,imaging
+627160,x-ray heel lat,1,imaging
+627161,x-ray heel toe - 1 view,1,imaging
+627162,x-ray heel toe - 2 views,1,imaging
+627163,x-ray heels one view,1,imaging
+627164,x-ray heels two views,1,imaging
+627166,x-ray hip (bilateral,1,imaging
+627167,x-ray hip - 1 view,3,imaging
+627168,x-ray hip - 2 views,4,imaging
+627169,x-ray hip - 3 to 4 views,2,imaging
+627170,x-ray hip ap & frog position (bilateral,1,imaging
+627171,x-ray hip for head of femur(30 ca/ag,1,imaging
+627172,x-ray hip for head of femur(30 ca/ag)- right,1,imaging
+627173,x-ray hip joint 1 view,1,imaging
+627174,x-ray hip joint 1v,4,imaging
+627175,x-ray hip joint 1v lt,1,imaging
+627176,x-ray hip joint 1v rt,1,imaging
+627177,x-ray hip joint 2 views,1,imaging
+627178,x-ray hip joint 2f,1,imaging
+627179,x-ray hip joint 2view,1,imaging
+627180,x-ray hip joint ap,1,imaging
+627181,"x-ray hip joint ap, lat",4,imaging
+627182,"x-ray hip joint ap, lat lt",1,imaging
+627183,"x-ray hip joint ap, lat rt",1,imaging
+627184,x-ray hip joint ap/lat,1,imaging
+627185,x-ray hip joints,1,imaging
+627186,x-ray hip joints 1f,1,imaging
+627187,x-ray hip one view,1,imaging
+627188,x-ray hip schneider position (1 side,1,imaging
+627189,x-ray hip two views,1,imaging
+627190,x-ray hip-bilateral ap/lauenstein,1,imaging
+627191,x-ray hip-unilateral ap/lauenstein,2,imaging
+627192,x-ray hip-unilateral ap/lauenstein (right,1,imaging
+627193,x-ray hip-unilateral ap/lauenstein - left,2,imaging
+627194,x-ray hip-unilateral ap/lauenstein- right,2,imaging
+627196,x-ray hips to ankles ap one view (long film,1,imaging
+627197,x-ray humerus,3,imaging
+627198,x-ray humerus (ap+lat,1,imaging
+627199,x-ray humerus 1 view,1,imaging
+627200,x-ray humerus 1f,1,imaging
+627201,x-ray humerus 1f lt,1,imaging
+627202,x-ray humerus 1f rt,1,imaging
+627203,x-ray humerus 2f,1,imaging
+627204,x-ray humerus 3 views,1,imaging
+627205,x-ray humerus ap & lat,2,imaging
+627206,x-ray humerus ap & lat. - left,2,imaging
+627207,x-ray humerus ap/lat,2,imaging
+627208,x-ray humerus lateral - 1 view,1,imaging
+627209,x-ray humerus two views,1,imaging
+627210,x-ray humerus upper arm - 1 view,1,imaging
+627211,x-ray humerus upper arm - 2 views,1,imaging
+627212,x-ray humerus upper arm - 3 views,1,imaging
+627213,x-ray humerus upper-arm (2 views,2,imaging
+627214,x-ray hystero salpingogram / hysterosalpingography ( hsg,2,imaging
+627216,x-ray hysterosalpingography,1,imaging
+627217,x-ray i/o full mouth(panoramic,1,imaging

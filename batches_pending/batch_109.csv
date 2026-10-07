@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+291086,home care - visit - nurse - dressing - advanced wound care,1,supplies
+291087,home care - visit - nurse - iv fluid therapy per hour - excluding cost of medication/fluid - (sr 50,1,physiotherapy
+291089,home care - visit - physiotherapist,1,consultation
+291090,home care - visit - physiotherapist - sessions - daily - one week,1,physiotherapy
+291091,home care consultation by specialist,1,consultation
+291092,home care consultation by consultant,1,consultation
+291093,home care consultation by general practitioner,1,consultation
+291095,home care gp counsultation,1,consultation
+291096,home care nurse visit,2,consultation
+291097,home care nursing visit,1,consultation
+291098,home care nursing visit 24 hours for 1 month,1,consultation
+291099,home care physio therapy (all modalities per visit,1,physiotherapy
+291100,home care physiotherapist visit,1,consultation
+291101,home care physiotherapy - single session,1,physiotherapy
+291102,home care specialist consultant,1,consultation
+291104,home care transportation -al muzahmiya,1,other
+291105,home care transportation -makkah,1,other
+291106,home care transportation-eastern region,1,other
+291107,home care transportation-shajah,1,other
+291109,home care specialist-1 consult,1,consultation
+291110,home dialysis bundle,1,procedure
+291111,home e.c.g (doctor,1,consultation
+291112,home e.c.g by nurse,1,consultation
+291113,home e.c.g,1,lab_test
+291114,home ecg ????? ??? ?????,1,diagnostic
+291115,home exam specialast,1,other
+291117,home haemodialysis,1,procedure
+291118,home health care examination - consultant,1,consultation
+291119,home health care examination gp,1,consultation
+291120,home health care examination sp,1,consultation
+291121,home health care,1,consultation
+291122,home hemodialysis,1,procedure
+291125,home nurse visit - daily care,1,consultation
+291126,home nursig visit for dialysis per session,1,physiotherapy
+291127,home nursing care twice daily physiotherapy and medical supervision daily one month,1,physiotherapy
+291128,home nursing complete nursing care,1,consultation
+291129,home physiotherapist specialist visit,1,consultation
+291130,home physiotherapy daily one month,1,physiotherapy
+291132,home services,1,other
+291133,home ventilator management 30 minutes or more,1,supplies
+291137,home visit large (more than 10 cm) multiple dressing (more than 5 site,1,supplies
+291138,home visit nursing services,2,consultation
+291139,home visit urinary bladder catheterization,1,procedure
+291140,"home visit , large (more than 10 cm) multiple dressing (more than 5 site",1,supplies
+291142,"home visit ,iv pakage , 2 visit/day for 7 days",1,supplies
+291143,home visit - consultant + nurse,1,consultation
+291144,home visit - consultant + nurse (medical evaluationbedsde and advise,1,consultation
+291145,home visit - dialysis per session,1,physiotherapy
+291146,home visit - laboratory service,1,consultation
+291151,home visit - physiotherapy,1,physiotherapy
+291152,home visit - specialist,1,consultation
+291153,home visit - specialist + nurse,1,consultation
+291156,home visit - wound dressing,1,supplies
+291157,home visit 100,1,consultation
+291158,home visit central line flushing/care,1,consultation
+291159,home visit centrel line flushing /care,1,consultation
+291161,home visit consultation,1,consultation
+291162,home visit consultation specialist doctor + nurse,1,consultation
+291163,home visit doctor with nurse,1,consultation
+291166,home visit iv pakage 2 visit/day for 7 days,1,supplies
+291167,home visit large (more than 10 cm ) multiple dressing ( more than 5 sites,1,supplies
+291168,home visit nasogasteric tube insersion with procedure,1,supplies
+291169,home visit nurse within rc (1-hour,1,consultation
+291172,home visit for bladder washout,1,procedure
+291173,home visit for burn dressing grade 1 hands and face,1,supplies
+291174,"home visit for burn dressing grade 2 arm, forearm and leg",1,supplies
+291177,home visit for physiotherapy inclusive of p/t sess,1,physiotherapy
+291178,"home visit, gp + nurse",2,consultation
+291181,home visitgp+ nurse,1,consultation
+291183,home assessmentfor diagnosistreatmentand counselling of a new or established patient by general practitioner,1,consultation
+291186,home care consultant consult,1,consultation
+291187,home care gp consult,1,consultation
+291188,home child,1,other
+291191,home dialysis per session,1,physiotherapy
+291192,home dressing,1,supplies
+291193,home dyalisis,1,other
+291194,home faecal specimen collection kit,1,other
+291199,home indwelling urinary catheters insertion - maintenance per visit,1,procedure
+291200,home management assessment,1,consultation
+291202,home nurse visit for iv medication (1 hour max,1,supplies
+291203,"home nursing and bedsore care with medical supervision ,daily , one month",1,supplies
+291204,"home nursing and bedsore care with medical supervision, daily, one month",1,supplies
+291205,"home nursing care , physiotherapy and medical supervision ,daily, one month",1,physiotherapy
+291206,"home nursing care ,daily ,one month",1,supplies
+291207,"home nursing care and medical supervision ,daily , one month",1,supplies
+291208,home nursing daily one month,1,supplies
+291209,home phlebotomy services,1,procedure
+291214,home visit nasogastric tube insertion with procedure,2,supplies
+291215,home visit large ( more than 10 cm) multiple dressing (more than 5 sites,1,supplies
+291216,home visit large dressing (more than 10cm,2,supplies
+291218,home visit small to medium dressing,1,supplies
+291219,home visit trachesostomy tube care,2,supplies
+291220,"home visit +d44:f68for iv fluid therapy, for each d44:i58extra hour after the first hour",1,physiotherapy
+291221,"home visit , laboratory services",1,consultation
+291222,"home visit , uretral catheterization and bag changes",1,procedure
+291224,"home visit , large ( more than 10 cm) multiple dressing (more than 5 sites",1,supplies
+291225,"home visit , large dressing (more than 10cm",1,supplies
+291227,"home visit , physiotherapist",1,consultation
+291228,"home visit , small to medium dressing",1,supplies
+291231,"home visit ,iv fluid therapy per hour (sr 20 for each extra hour",1,physiotherapy
+291233,"home visit ,monitoring vital signes per hour",1,consultation
+291234,"home visit ,nebulization and suction",1,supplies
+291235,"home visit ,oxygen therapy per hour",1,physiotherapy
+291236,"home visit ,urinary bladder catheterization",1,procedure
+291237,"home visit ,centrel line flushing/care",1,consultation
+291240,"home visit ,large dressing (more than 10cm",1,supplies
+291241,"home visit ,nursing initial assessment",2,consultation
+291243,"home visit ,nursing service",1,consultation
+291246,"home visit ,physiotherapist,83620-00-10 physio therapy, home care",1,physiotherapy
+291248,"home visit ,specialist,83620-00-60 home care specialist-1 consult",1,consultation
+291249,"home visit ,uretheral catheterization and bag changes",1,procedure
+291250,home visit - clinical dietician,1,consultation
+291251,home visit - gp + nurse,1,consultation
+291257,"home visit occupational therapy, therapist session",1,physiotherapy
+291258,home visit speech therapist session,1,physiotherapy
+291259,home visit centrel line flushing/care,1,consultation
+291261,home visit for chronic cases,1,consultation
+291262,home visit for iv fluid therapy maximum one hour,2,physiotherapy
+291263,"home visit for iv fluid therapy maximum one hour ,96199-19-00",1,physiotherapy
+291265,"home visit for iv fluid therapy, for each extra hour after the first hour",1,physiotherapy
+291267,home visit for large dressing,1,supplies
+291270,home visit for suction,1,supplies
+291272,home visit for urinary bladder catheterization and bag chand45:e66ges,1,procedure
+291273,home visit for urinary bladder catheterization and bag change,1,procedure
+291274,home visit for urinary bladder catheterization and bag changes,1,procedure
+291276,home visit for bladder washout by urologist,1,procedure
+291277,home visit for care and assessment - non-physian upto 2 hours,1,consultation
+291278,home visit for centrel line flushing/care,1,consultation
+291281,home visit for large ( more than 10 cm) multiple dressing (more than 5 sites,1,supplies
+291283,home visit for large dressing (more than 10cm) 30055-00-30 dressing wound large,1,supplies
+291284,"home visit for large dressing (more than 10cm),30055-00-30 home visit for large dressing (more than 10cm",1,supplies
+291288,home visit for tracheostomy tube care,1,supplies
+291290,home visit for trachesostomy tube care 90179-06-00 management of tracheostomy,1,supplies
+291291,"home visit for trachesostomy tube care,90179-06-00 management of tracheostomy",1,supplies
+291296,"home visit nursing service,83620-00-00 nurses fixed fee for aday time home care",1,consultation
+291301,home visit uretheral catheterization and bag changes,1,procedure
+291302,"home visit, clinical dietitian (includes assessment, transportation & plan",1,consultation
+291303,"home visit, ecg by nurse with transportation",1,diagnostic
+291306,"home visit, iv fluid therapy per hour (sr 20 for each extra hour",1,physiotherapy
+291308,"home visit, monitoring vital signs per hour",1,consultation
+291310,"home visit, laboratory services",1,consultation
+291311,"home visit, laboratory services,73100-09-80 unlist hematology proc",1,consultation
+291312,"home visit, nurse",1,consultation
+291313,"home visit, nursing initial assessment",1,consultation
+291315,"home visit, physiotherapist",1,consultation
+291317,"home visit,specialist",1,consultation
+291320,home%20care%20physio%20therapy%20(all%20modalities%20per%20visit,1,other
+291321,home%20care%20nurse%20visit,1,other
+291322,home-use blood glucose spot-check system,1,lab_test
+291323,home-use transdermal medication applicator,1,other
+291324,homebasedvaccination,1,other
+291325,homeostasis model assessment (homa ir,1,consultation
+291327,homocystein - ?????,1,other
+291328,homocystein; quant,1,lab_test
+291330,homocysteine (cardiac & thrombosis risk,1,other
+291331,homocysteine level in serum,1,lab_test
+291332,"homocysteine level, serum",1,lab_test
+291334,"homocysteine, serum so",1,lab_test
+291335,"homocysteine, total, plasma",1,lab_test
+291336,"homocysteine, total, urine",1,lab_test
+291337,"homocysteine, urine my hcysu114",1,lab_test
+291340,hony dressing 10*10,1,supplies
+291341,hook t plate 1 pink #8809416065380 a2s.10070 osteonic,1,supplies
+291344,horizontal impacted wisdom tooth extraction,1,dental
+291345,horizontal impaction teeth,1,dental
+291346,hormonal implant removal,1,supplies
+291347,hormone test,1,lab_test
+291348,horomones -tsh,1,lab_test
+291349,"horse chestnut, butcher broom, witch-hazel",1,other
+291355,hospital care per diem (8th - onwards,1,consultation
+291358,"hospital care per diem (8th day onwards, including ltc),83610-00-80 room & board: semi private( shared room",1,consultation
+291359,"hospital care per diem (8th day onwards, including ltc),83610-01-00 room & board: per diem - first class room",1,consultation
+291360,hospital care per diem (8th day onwards including ltc,1,consultation
+291361,hospital care per diem (shared room,1,consultation
+291362,hospital care per diem 1st to 3rd day,1,consultation
+291363,hospital care per diem 4th to 7th day,1,consultation
+291364,hospital care per diem(1st to 3rd day) ward001,1,consultation
+291365,hospital care per diem(4th to 7th day) ward002,1,consultation
+291366,hospital care per diem(8th onwards including ltc) ward003,1,consultation
+291367,hospital care perdiem (4th-7th,1,consultation
+291370,hospital care per diem (8th day onwords,1,consultation
+291371,hospital charges for dental procedures under ga upto 4 hours,1,dental
+291372,hospital charges for dental procedures under ga upto 2 hours,1,dental
+291374,hospital transferral,1,consultation
+291376,hot & cold pack,1,supplies
+291381,"hot & cold reusable water/ice bag 1""s",1,other
+291384,hot (packe,1,other
+291385,hot axios stent 15mmx10mm,1,supplies
+291390,"hot pain relief plaster 1""s (smarttherapy-horse",1,supplies
+291392,"hot water bag double laminated 1""s",1,other
+291393,"hot water bag double laminated w/cover 1""s",1,other
+291394,"hot water bag w/cover 1""s",1,other
+291395,"hot water bag w/o cover 1""s",1,other
+291402,hot spot mutation - 1 exon (somatic,1,lab_test
+291403,hot spot mutation - 3 exons (somatic,1,lab_test
+291404,hot water bottle,1,supplies
+291405,hot/cold pack therapy,1,physiotherapy
+291407,hourly rate for the bed / room in emergency department. excluding drugs and including consumables up to 200 sr,1,supplies
+291408,hourly rate for the bed / room in emergency department. excluding drugs and including consumables up to 200 srn,1,supplies
+291409,houssam hamdan,1,other
+291410,howaida asem serour,1,other
+291412,hpylori ab,1,lab_test
+291417,hpylori serum,1,lab_test
+291418,hpylori stool,1,lab_test
+291419,hr. pp,1,other
+291423,hs-crp,1,lab_test
+291426,huda abdelkadirali farah,1,other
+291427,huda kassem,1,other
+291428,hudrocortison iv,1,supplies
+291429,huge cyst excision ula,2,procedure
+291430,huge compomer filling,1,dental
+291431,huggies baby wipes mp3 2+1 pure ( (56x3)x4,1,supplies
+291432,huggies drynites pyjama pants 8-15 years girls 13 pants,1,supplies
+291433,"huggies pant (3) uni nd rh 58 jumbo sa, 6kg-11kg",1,other
+291434,"huggies pant (4) uni nd rh 52 jumbo sa, 9kg-14kg",1,other
+291435,huggies t4 jumbo pack size 4,1,lab_test
+291436,hugo boss frm 0917/1xe/55/17/145,1,eyewear
+291437,hugo boss frm 0928/hw8/52/18/145,1,eyewear
+291438,hugo boss frm 0932/087/48/20/140,1,eyewear
+291439,hugo boss frm 0957/086/52/18/145,1,eyewear
+291440,hugo boss frm 0967/yz4/56/18,1,eyewear
+291441,hugo boss frm 0976/fre/17/57,1,eyewear
+291490,human albumin 20 vial50ml,1,lab_test
+291505,human chorionic gonadotrophin/hcg qualitative,1,lab_test
+291507,human chorionic gonadotropin (hcg,2,lab_test
+291509,human chorionic gonadotropin b-sub,2,lab_test
+291510,"human chorionic gonadotropin, csf",1,lab_test
+291511,"human chorionic gonadotropin, urine",1,lab_test
+291512,human gh ab,1,lab_test
+291513,human growth h,1,other
+291514,human growth h.812,1,other
+291517,human growth hormones,1,other
+291519,human growth hormones - hgh,2,other
+291520,human growth hormones hgh,1,other
+291521,human herpes virus 6 (hhv-6) pcr - send out,1,lab_test
+291522,human immunodeffeciency virus antibody(hiv,1,lab_test
+291524,human immunodeficiency virus (hiv p24,1,lab_test
+291525,human immunodeficiency virus 1 (hiv-1) quantitative real-time pcr (graphical) (dna or rna) with reverse transcriptions,1,lab_test
+291526,"human immunodeficiency virus 1 (hiv-1), quantitative, real-time pcr (graphical) (dna or rna); with reverse transcriptions",1,lab_test
+291527,human immunodeficiency virus antibody (hiv ab,1,lab_test
+291528,"human influenza a & b, pcr",1,lab_test
+291529,human leukocyte antigen b27 (hla-b27,1,lab_test
+291530,human leukocyte antigen b51(hla-b51,1,lab_test
+291532,human papilloma virs(hpv) pcr,1,lab_test
+291534,"human papilloma virus (hpv) hybrid capture, low or high risk types",1,other
+291536,human papilloma virus detection-pcr,1,lab_test
+291538,human papillomavirus (hpv) - high-risk screen pcr on pap fluid,1,lab_test
+291539,human papillomavirus (hpv) - pcr,1,lab_test
+291540,human papillomavirus (hpv) dna pcr,1,lab_test
+291541,human t lymphocyte virus 1/2 antibody (htlv,1,lab_test
+291542,human t- cell lymphotropic virus i+ii,1,other
+291545,"human chorionic gonadotropin beta-subunit (beta-hcg) ivd, kit, agglutination, rapid",1,lab_test
+291548,human immunodefficiency virus 1 2 abs,1,lab_test
+291553,human immunodeficiency virus type1and2 (hiv-1/2,1,lab_test
+291554,"human leukocyte antigen (hla) crossmatch, non-cytotoxic each additional serum sample or sample dilution",2,lab_test
+291556,human papillomavirus analysis,1,procedure
+291576,humeral head osteotomy and internal fixation,1,procedure
+291577,"humeral head screw 4.3 x 40mm, 134340, austofix",1,supplies
+291578,humeral centering sleeve,1,other
+291579,"humeral head prosthesis trial, reusable",1,supplies
+291580,humeral stem extension prosthesis,1,supplies
+291585,humerus ( 2 v,1,imaging
+291586,humerus ( 2 v )-humerus ( 2 v,1,imaging
+291589,humerus (arm,1,other
+291590,humerus (arm) 2 views,1,imaging
+291591,humerus (one view,1,supplies
+291592,humerus - 2 views ( ap / lat,1,imaging
+291593,humerus - 3 view (ap / lat / oblique,1,imaging
+291594,humerus -2 views,1,imaging
+291595,humerus -both - 4 views,1,imaging
+291596,humerus 1 view ????? ?????? ??? ????,1,imaging
+291597,humerus 2 - film,1,other
+291598,humerus 2 view a.p.lateral,1,imaging
+291602,humerus 2 views[15.30,1,imaging
+291603,humerus 2-view,2,imaging
+291605,humerus 2-views,1,imaging
+291608,humerus 2v-plain x-rays 2 views,1,imaging
+291609,humerus 2views,1,imaging
+291610,humerus 3 views-537,1,imaging
+291611,humerus a-p,1,other
+291612,humerus ap & lat - 2 views,1,imaging
+291615,humerus ap v,1,imaging
+291616,humerus ap or la,1,imaging
+291617,humerus aplat. (2v,1,imaging
+291619,humerus ap and lat,1,imaging
+291622,humerus lat v,1,imaging
+291624,humerus nail,1,supplies
+291625,humerus nail 9 x 290mm,1,supplies
+291626,"humerus nail 9x200mm, chm, #3.2959.200",1,supplies
+291627,"humerus nail, 7x260mm, chm poland #3.2957.260",1,supplies
+291628,humerus one film,1,supplies
+291629,humerus reduction + cast,1,supplies
+291630,humerus two views,2,imaging
+291631,humerus unilateral x ray 2 views,1,imaging
+291633,humerus unilateral x- ray 2 views,1,eyewear
+291637,humerus upper arm - 3 view,1,imaging
+291638,humerus upper arm 1-view,1,imaging
+291640,humerus upper arm-1 view,1,imaging
+291641,humerus x ray 1 view,1,imaging
+291642,humerus x ray 2 film,1,imaging
+291643,humerus x ray 2 view,1,imaging
+291644,humerus x ray 3 view,1,imaging
+291645,humerus x-ray a.p & lat. views,1,imaging
+291647,humerus xray ap+lat.- l,1,imaging
+291648,humerus xray ap+lat.- r,1,imaging
+291649,humerus bone xray,1,imaging
+291651,"humerus, tibia, fibula and ankle procedures, intermediate complexity",1,inpatient
+291652,"humerus, tibia, fibula and ankle procedures, minor complexity",1,inpatient
+291653,humerus/2 views,1,imaging
+291654,humerus/upper arm - 1 view,1,imaging
+291655,humerus/upper arm - 3 views,1,imaging
+291656,humerus2 views ????? ?????? ?????,1,imaging
+291670,humours,1,other
+291671,humours 1film x-ray,1,imaging
+291674,humphrey fm mod 2411 col 30 si,1,eyewear
+291676,humphrey fm mod 2591 col 60 si,1,eyewear
+291677,humphrey fm mod 2599 col 60 si,1,eyewear
+291678,humphrey fm mod.2173 col 60 si,1,eyewear
+291694,hurby funds lens,1,eyewear
+291695,hurnerus,1,other
+291698,hussameldin adilabdelmuamin,1,other
+291706,hy fibers liquid fibers 15 packs,1,supplies
+291708,hydrocelectomy - bilateral,2,procedure
+291713,hyfresh eye drops10ml lasa,1,other
+291714,hyfresh eye lupricant,1,other
+291716,"hylight 0.2 %/????/?? 10 ,????",1,other
+291727,hyalez eye drop10 ml,1,other
+291747,hyalo4 plus,2,other
+291759,hyalonose forte nasalspray,1,other
+291777,hyaluronate 0.02,1,other
+291783,hyaluronic wipes,1,supplies
+291789,hybrid - 007d,1,other
+291790,hybrid wire/hybrid 14d,1,supplies
+291791,hydatid antibodies (echinococcos,1,lab_test
+291792,hydatid cyst liver,1,other
+291795,hydra facial - per session - offer,1,physiotherapy
+291796,hydrafacial,1,other
+291797,hydrafacial skin cleaning,1,procedure
+291817,hydralyte,1,other
+291820,hydro celectomy (2,1,procedure
+291821,hydro therapy,1,physiotherapy
+291823,hydro cortisone 100m,1,other
+291824,hydro-trach filter (home care,1,supplies
+291830,hydrocale,1,other
+291832,hydrocele - pkg,1,other
+291833,hydrocele operation (hydrocelectomy,1,procedure
+291834,hydrocele operation hydrocelectomy one side sncayh,1,supplies
+291835,hydrocele p/d,1,other
+291840,hydrocelectomy (unilateral) (1d,1,procedure
+291842,hydrocelectomy 1,1,procedure
+291843,hydrocelectomy p/d,1,procedure
+291845,hydrocelectomy(2nd operation 50%,1,procedure
+291853,"hydrochlorothiazide12.5,valsartan80mgtab",1,other
+291856,hydrocolloid thin dressing 20x20,1,supplies
+291920,hydrogen peroxide,1,other
+291921,hydrogen peroxide 0.03,1,other
+291923,hydrogen peroxide 1litre,1,other
+291925,hydrogen peroxide gas sterilizer,1,other
+291928,"hydrophilic guidewire 150cm,0.035",1,supplies
+291929,hydrophilic methacrylate,1,other
+291930,hydrophilic-bead dressing,1,supplies
+291931,hydropool group of 10 sessions - physiotherapy,1,physiotherapy
+291932,hydropool group of 6 sessions - physiotherapy,1,physiotherapy
+291937,hydrotherapy 1 session,1,physiotherapy
+291938,hydrotherapy 12 sessions,1,physiotherapy
+291939,hydrotherapy 6 sessions,1,physiotherapy
+291940,hydrotherapy session - 30 minutes,1,physiotherapy
+291941,hydrotherapy combined with exercise,1,other
+291944,hydroxy prog,1,other
+291946,"hydroxycorticosteroids-17, 24 hrs. urine",1,lab_test
+291950,hydroxyprogesterone-17,1,other
+291951,hydroxyproline in plasma,1,lab_test
+291966,hyfresh 0.3 %ud single dose/box,1,other
+292007,hyfresh dp,1,other
+292013,hyfresheyedrops10ml,1,other
+292014,hygiene - mild calculus deposits,1,other
+292015,hygiene - moderate calculus deposits,1,other
+292016,hygiene - sever calculus deposits,1,other
+292017,"hygiene apron, single-use",1,other
+292018,hygienic hair washing bonnet (ficomed,1,procedure
+292019,hygienic teats (for blemil milk,1,supplies
+292021,hylo comod 0.1%,1,other
+292040,hylo-comod drops10ml.eye1%,1,other
+292052,hylocomod0.1%eyedrops10ml,1,other
+292054,hylocomod-1%eyedrops,1,other
+292059,hymnectomy - vaginal ( 50% for 2nd operation,1,procedure
+292060,hymnectomy / vaginal,1,procedure
+292148,hymox250mg20cap,1,other
+292149,hymox500mg20cap,1,other
+292150,hymox500mg20caps lasa,1,other
+292151,hymoxforte250mgsyrup100ml,2,other
+292179,hyopansyrup100ml,1,other
+292203,hyper igm syndrome profile(cd40/cd154,1,lab_test
+292205,hyperactivity test,1,lab_test
+292207,hyperbaric oxygen therapy <= 90 minutes,2,physiotherapy
+292209,hyperbaric oxygen therapy more than 3 hours,1,physiotherapy
+292210,"hyperbaric oxygen therapy, less than = 90 minutes",1,physiotherapy
+292212,"hyperbaric oxygen therapy, > 90 minutes and <= 3 hours",1,physiotherapy
+292213,"hyperbaric oxygen therapy, more than 3 hours",1,physiotherapy
+292216,hyperlipidemia,1,other
+292217,hyperopic lasik ( 2 eyes,1,other
+292218,"hyperparathyroidism workup, multiple site pth intact",1,lab_test
+292219,hyperplasia of prostate,1,other
+292220,hypersensitivity pneumontis avian panel - s/omy favi,1,lab_test
+292222,hypertension visit 1,1,consultation
+292223,"hypertension profile: renin, aldosterone, am cortisol, urine: creat, cortisol, catecholamine",1,lab_test
+292224,"hypertension, major complexity",1,inpatient
+292225,"hypertension, minor complexity",1,inpatient
+292226,hyperthermia system temperature mapping unit,1,other
+292227,hyperthermia system temperature probe,1,supplies
+292228,"hyperthyroid panel ( t4,t3, free t4 index total triiodothyronine",1,lab_test
+292229,hyperthyroidism,1,other
+292230,"hyperthyroidism panel tsh, ft4, tsi",1,lab_test
+292232,hypnosis and supervision of a child nursery (companies,1,consultation
+292233,hypoallergenic skin adhesive tape,1,supplies
+292234,"hypodermic needle, single-use",1,supplies
+292235,hypoglycemia peds follow-up,1,consultation
+292236,hypoglycemia peds new patient,1,other
+292237,"hypoglycemic agent screen, serum my hypog 140",1,lab_test
+292250,hyposec-14caps,1,other
+292252,hyposec20mg14cap,1,other
+292254,"hypospadias repair, one stage",1,supplies
+292255,hypothemia ill neonate,1,other
+292256,hypothermia management / per day,1,other
+292257,hypothermic intraperitoneal chemotherapy (hipec,1,procedure
+292258,"hypothyroid panel ( t4,t3, up take ,free t4, index , tsh",1,lab_test
+292259,"hypothyroid panel (t4,t3uptake,freet4,tsh",1,lab_test
+292260,hypothyroidism,1,other
+292261,"hypothyroidism panel tsh, ft4, tpo",1,lab_test
+292266,hysterectomy ( vag or abd,1,procedure
+292267,hysterectomy ( vaginal or abdominal,1,procedure
+292272,hysterectomy abdominal ( tabso ) or vaginal hysterectomy w/o histopathology,1,lab_test
+292273,hysterectomy abdominal (4d,1,procedure
+292274,hysterectomy vaginal (3d,1,procedure
+292275,hysterectomy [vaginal or abdominal] p/d,1,procedure
+292276,hysterectomy abdominal,1,procedure
+292277,"hysterectomy for non-malignancy, minor complexity",1,procedure
+292278,hysterectomy vag or abd,1,procedure
+292279,hysterectomy vag. or abd,1,procedure
+292281,"hysterorrhaphy, repair of ruptured uterus- (nonobstetrical",1,procedure
+292285,hysterosalpingogram (h.s.g,1,lab_test
+292287,hysterosalpingogram h.s.g,1,lab_test
+292289,hysteroscopic adhesiolysis o-61-c66.96-h,1,procedure
+292294,hysteroscopic polypectomy (lite)=o-61-c67.75-l,1,procedure
+292295,hysteroscopic polypectomy (reach,1,procedure
+292296,hysteroscopic myomectom,1,other
+292299,hysteroscopic resection device,1,procedure
+292301,hysteroscopy + endometrium and/or polypectomy +/- d&c + biopsy,1,procedure
+292302,hysteroscopy d&c (1d,1,procedure
+292304,hysteroscopy diagnostic non-or,1,procedure
+292305,hysteroscopy diagnotic,1,procedure
+292307,hysteroscopy p/d,1,procedure
+292308,hysteroscopy polypectomy ( myomectomy,1,procedure
+292309,hysteroscopy polypectomy w/out histopathology p/d,1,lab_test
+292310,hysteroscopy surgical for submucosal fibroids resection / myomectomy +biopsy with or w/o d&c) under ga,1,procedure
+292311,hysteroscopy surgical for submucosal fibroids resection/for endometrial polypectomy / myomectomy +biopsy with or w/o d&c) under ga,1,procedure
+292312,hysteroscopy polyectomy,1,procedure
+292313,hysteroscopy surgical; with endometrial ablation (eg endometrial resection electrosurgical ablation thermoablation,1,procedure
+292314,hysteroscopy w tubal catheterisation,1,procedure
+292316,hysteroscopy witti procedure,1,procedure
+292317,"hysteroscopy, diagnostic- (separate procedure",1,procedure
+292318,"hysteroscopy, surgical; with division or resection of intrauterine septum (any method",1,procedure
+292319,"hysteroscopy, surgical; with removal of leiomyomata or polyp",1,procedure
+292320,"hysteroscopy, surgical; with sampling (biopsy) of endometrium and/or polypectomy, with or without d & c",1,procedure
+292322,"hysterotomy, abdominal (eg, for hydatidiform mole, abortion",1,procedure
+292323,hystro-salbingiograbhy,1,other
+292324,hystroscopic diagnostic with / without b,1,other
+292325,hystroscopy diagnostic + biopsy / polype,1,procedure
+292326,hystroscopy polypectomy with / without d,1,procedure
+292330,i d large or deep absess under ga,1,lab_test
+292331,i d for intra oral abscess,1,procedure
+292332,i v fluid,4,lab_test
+292333,i and d absc. or haema - small (la,1,other
+292334,i and d of perianal abscess (ga,1,procedure
+292335,i and d perianal abscess,1,procedure
+292336,i and d small absc. or haema,1,other
+292337,i and d superficial abcess,1,other
+292338,i and d superficial large abcess,1,other
+292339,i and d of abscess / gingival abscess treatment,1,dental
+292340,i & d,2,other
+292341,i & d small area,2,other
+292342,i & d large area,3,other
+292343,i & d (incision and drainage) ga,1,procedure
+292344,i & d (incision and drainage) la,1,procedure
+292345,i & d (incision & drainagr,1,procedure
+292346,i & d (l/a,1,other
+292347,i & d (small,1,other
+292348,i & d + follow up dressing,1,supplies
+292349,i & d + follow up dressing - large,1,supplies
+292350,i & d + follow up dressing - medium,1,supplies
+292351,i & d + follow up dressing - small,1,supplies
+292352,i & d - l.a. (abscess,1,procedure
+292353,i & d - peri anal hematoma under l.a,1,lab_test
+292354,i & d abcess dentoalveolar i\o,1,other
+292355,i & d abcess l.a. (comp,1,lab_test
+292356,i & d abcess l.a. (minor,1,lab_test
+292357,i & d abcess l.a. (moderate,1,lab_test
+292358,i & d abs. ext. ear,1,lab_test
+292359,i & d absc. or haema - medium (la,1,other
+292361,i & d abscess - level ii,1,lab_test

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+549832,sv synchrony hdc 1.5 sx blue,1,eyewear
+549833,sv synchrony hdc 1.5 sx green,1,eyewear
+549834,sv synchrony hdc 1.53 trivex,1,eyewear
+549835,sv synchrony hdc 1.53 trivex sx blue,1,eyewear
+549836,sv synchrony hdc 1.53 trivex sx green,1,eyewear
+549837,sv synchrony hdc 1.56,1,eyewear
+549838,sv synchrony hdc 1.56 photolens sx blue,1,eyewear
+549839,sv synchrony hdc 1.56 sx blue,1,eyewear
+549840,sv synchrony hdc 1.6,1,eyewear
+549841,sv synchrony hdc 1.67,1,eyewear
+549842,sv synchrony hdc 1.67 sx blue,1,eyewear
+549843,sv synchrony hdc 1.67 sx green,1,eyewear
+549844,sv synchrony hdc 1.74,1,eyewear
+549845,sv plastic 1.60 mc uv,1,eyewear
+549846,sv plastic 1.60 shmc uv,1,eyewear
+549847,sv plastic 1.67 white rx uv,1,eyewear
+549848,sv plastic mc,1,eyewear
+549849,sv plastic mid-index 1.56 mc uv,1,eyewear
+549850,sv plastic mid-index 1.56 white uv,1,eyewear
+549851,sv plastic white,1,eyewear
+549852,sv-1.50-crp,1,lab_test
+549853,sv-1.50-mc,1,eyewear
+549854,sv-1.59-crp,1,lab_test
+549855,"sv-rx,1.6,+6.00/-16.00 cyl-4.00,zis-slvr-sph",1,eyewear
+549856,"sv-rx,1.67,+10.00/-17.00 cyl-4.00,zis-slvr-sup",1,eyewear
+549857,sv.rx normal sx 1.5,1,eyewear
+549858,sv.rx normal sx 1.56,1,eyewear
+549859,sv.rx normal sx 1.6,1,eyewear
+549860,sv3 dis 4+1 lbest,1,other
+549861,svc and/or ivc balloon angioplasty by interventional radiologist - 3 days pkg,1,supplies
+549862,svc&ivc stenting - by interventional radiologist 3 days pkg,1,other
+549863,svc/ivc angiography-pkg,1,imaging
+549864,svc/ivc angioplasty-pkg,1,procedure
+549865,svc/ivc stenting-pkg,1,other
+549866,svc/ivc venoplasty,1,procedure
+549867,svd multigravida with newborn care (24 hours,1,other
+549872,svr sun secure fluid spf +50,1,other
+549873,svt ablation 3d mapping,1,procedure
+549874,sw-aa034-f-starwars,1,other
+549875,sw-aa035-f-starwars,1,other
+549876,sw1-private,1,consultation
+549877,swab,1,lab_test
+549878,swab c & s,1,lab_test
+549879,swab lt con junct c&s-lab1670,1,lab_test
+549881,swab - axillary,1,lab_test
+549882,swab ??wound,1,lab_test
+549883,swab abscess c/s,1,lab_test
+549884,swab alcohol,1,lab_test
+549885,swab alcohol 70% w/ 2%chlorhexidine / 3m # 102.080,1,lab_test
+549888,swab alcohol pad size 200mm x 128mm 70% isopropyl alcohol and 2% chlorexidine sterile (49,1,lab_test
+549889,swab alcohol sterile,2,lab_test
+549890,swab alcohol sterile 1000,1,lab_test
+549891,swab alcohol sterile 200,1,lab_test
+549892,swab alcohol sterile 400,1,lab_test
+549893,swab alcohol sterile 500,1,lab_test
+549894,swab alcohol sterile 599,1,lab_test
+549895,swab alcohol sterile 800,1,lab_test
+549896,swab alcohol x 200,1,lab_test
+549897,swab amniotic fluid indic.individually wrapped mwam1,1,lab_test
+549898,swab antiseptic alcohol pad prep 3x3cm sterile disposable (100s,1,lab_test
+549899,swab antiseptic alcohol pad prep sterile disposable (200s,1,lab_test
+549902,swab applicator soluprep sterile solu prep small 2% chg w/ 70% ipa 3m # 102.03,1,lab_test
+549903,swab c&s,3,lab_test
+549904,swab c/s,1,lab_test
+549905,swab chlorhexidine persist plus#fas305/fas309,1,lab_test
+549906,swab clorexidine 2%,1,lab_test
+549907,swab collection for pcr,1,lab_test
+549908,swab culture,3,lab_test
+549909,swab culture & sensitivity,2,lab_test
+549910,swab culture and sensitivity test,1,lab_test
+549911,swab culture screening test,4,lab_test
+549912,swab culture&sensetivity,1,lab_test
+549913,"swab cutimed sorbact 4cmx6cm#063-72164-00,bsn",1,lab_test
+549914,"swab cutimed sorbact 7cmx9cm#063-72165-00,bsn",1,lab_test
+549915,swab cands,1,lab_test
+549916,swab ear c/s,2,lab_test
+549917,swab for covid-19 virus,1,lab_test
+549918,swab for culture and sensitivity,1,lab_test
+549919,swab for fungi without culture,2,lab_test
+549920,swab for infection control,1,lab_test
+549921,swab for infection control(mrsa screen,1,lab_test
+549922,swab for methicillin-resistant staphylococcus aureus and s. aureus by pcr from the nose,1,lab_test
+549923,swab gauze 10x10cm 12ply plain sterile,2,lab_test
+549925,swab gauze 10x10cm 12ply x-ray detectable sterile,2,imaging
+549926,swab gauze 10x10cm 16ply x-ray detectable sterile,2,imaging
+549927,swab gauze 10x10cm 16ply xry detectable sterile,1,lab_test
+549928,swab gauze 10x10cm 8 ply plain sterile #3342-b,1,lab_test
+549929,swab gauze 10x10cm 8ply plain non sterile,2,lab_test
+549930,swab gauze 10x10cm 8ply plain sterile,1,lab_test
+549931,"swab gauze 10x10cm,2ea/pk 8-12-ply sterile",1,lab_test
+549932,swab gauze 10x10cmx2 8ply plain sterile #3342-b,1,lab_test
+549933,swab gauze 10x10cmx2 8ply plain sterile 3342-b,1,lab_test
+549934,"swab gauze 10x10cmx2"" 8ply plain sterile #3342-b",1,lab_test
+549935,swab gauze 10x10cm 12ply plain non sterile,1,lab_test
+549937,swab gauze 10x10cm 12ply xry detectable sterile,1,lab_test
+549940,"swab gauze 10x10cmx2"" 12ply plain sterile #2317",1,lab_test
+549941,"swab gauze 3""x3"" 8/12ply plain non-sterile",1,lab_test
+549942,swab gauze 3x3 (7.5x7.5cm) 8~12ply plain non-sterile,1,lab_test
+549943,"swab gauze 4""x4"" 8ply plain non-sterile",1,lab_test
+549944,swab gauze 5x5cm 8-ply plain non-sterile,1,lab_test
+549945,swab gauze 5x5cm 8-ply plain sterile,1,lab_test
+549946,swab gauze 5x5cm 8ply xray detectable non sterile,1,imaging
+549947,swab gauze detectable 10x10cm 12 ply sterile,1,lab_test
+549948,swab gauze sterile 5 x 5cm 8 /12 ply damad 401 806\6,1,lab_test
+549949,swab gauze xray detectable 10x10cm 12 ply sterile,1,imaging
+549950,swab gauze xray detectable 10x10cm 12ply sterile,1,imaging
+549951,swab guaze 5x5cmx2 8ply plain sterile,2,lab_test
+549953,"swab guaze 5x5cmx2"" 8ply plain sterile",1,lab_test
+549954,"swab lemon glycerine, 1115, optimum medical,uk",1,lab_test
+549955,swab max sticks chg 2%-ipa 70%,1,lab_test
+549957,swab or infection control,1,lab_test
+549958,swab oral foam w/o dentifric ind wrapped sterile (49,1,lab_test
+549959,swab pad alcohol isopropyl 2-ply 70% sterile bx/100 (49,1,lab_test
+549960,swab plain strl,1,lab_test
+549961,swab pus lesion c/s,1,lab_test
+549962,swab pus/lesional c/s,1,lab_test
+549963,swab raytac (lap sponges) 45 x 45cm 12ply(box/60pk/5pec,1,lab_test
+549964,swab rectal c/s,1,lab_test
+549965,swab skin c/s,1,lab_test
+549966,swab specimen collection/transportation culture with media system kit sterile disposable,1,lab_test
+549967,swab specimen collection/transportation swab plain sterile disposable,1,lab_test
+549969,swab stick chlorhexidine,1,lab_test
+549970,swab stick oral lemon glycerin,1,lab_test
+549971,swab stick skin prep 2% chlorhexidine gluconate w/ isopropyl alcohol 70% 3mls,1,lab_test
+549972,swab sticks chg 0.5 %-ipa iodne pov 6,1,lab_test
+549974,swab throat/nose c/s,2,lab_test
+549975,swab trans w/amies media sterile sterlin #0150,1,lab_test
+549976,"swab transport media strl plst+dacr tip , deltalab",1,lab_test
+549977,swab umbilical c/s,1,lab_test
+549978,swab urethral c/s,1,lab_test
+549979,swab vaginal c/s,2,lab_test
+549980,swab vaginal c/s ( cervical c/s,1,imaging
+549981,swab viral,1,lab_test
+549982,swab virus transport med modified plastic applicator dacron tipped ster (49,1,lab_test
+549983,swab wipes chg 2% ipa 70% clinell,1,lab_test
+549984,swab with media,2,lab_test
+549987,swab c and s,1,lab_test
+549991,swab%20skin%20c%2fs,1,lab_test
+549992,"swab, alcohol prep",1,lab_test
+549993,"swab, alcohol swab; (200/box",1,lab_test
+549995,"swab, alcohol, prep pad, ch",1,lab_test
+549996,"swab, alcohol, prep pad, ch 💥",1,lab_test
+549997,"swab, amnicator, mwe, mwam1",1,lab_test
+549998,"swab, applicator, lemon glycerin, cotton tip, medline, mds090600",1,lab_test
+549999,"swab, cary blair transport medium",1,lab_test
+550000,"swab, gauze, non sterile, 10 x 10cm, 8/12 ply, damad, 402 130\1",1,lab_test
+550001,"swab, gauze, plain, sterile, 8 ply, 10 cm x 10 cm, jf-g1010-0805",1,lab_test
+550002,"swab, gauze, sterile, 10 x 10cm, 12ply, damad, 401857/4, 44-1519-1205",1,lab_test
+550003,"swab, gauze, sterile, 10 x 10cm, 8ply, damad, 4018110",1,lab_test
+550004,"swab, gauze, sterile, 10 x 10cm, 8ply, damad, 4018110/jf-g1010-08-08",1,lab_test
+550005,"swab, gauze, x-ray detectable, 10x10cm, 16 ply, hartmann, 452145",1,imaging
+550006,"swab, gauze, x-ray detectable, sterile, dectocomp, 10x10cm, 16 ply, 44-1519-1605-x",1,imaging
+550007,"swab, non sterile, 5x5cm, 2in, 8ply, damad, 402 110/5 / nubenco, n-gdr3q",1,lab_test
+550008,"swab, oral, dentips, dentrifice, green, medline/toothette, mds096502/6075-x",1,lab_test
+550009,"swab, viral transport, medium, swim flu, vircell, mtv001 / utm-321c",1,lab_test
+550010,"swab, w/ transport amies, sterile, apco spain, ft18007",1,lab_test
+550011,"swab, w/ transport amies, sterile, aptaca-italy, 301/sg / 300287",1,lab_test
+550012,"swab,amies,media",1,lab_test
+550013,swabalcoholsterile,1,other
+550014,"swabs gauze ( plain ) 4 "" x 4 ""12 ply",1,supplies
+550015,swabs gauze bpc 10x10cm plain 8 ply sterile,1,supplies
+550016,"swabs, puncture fluid and other culture and sensitivity",1,lab_test
+550017,"swabs,alcohol skin cleanser sterile",1,supplies
+550018,"swabs,alcohol skin cleanser sterile , , non",1,supplies
+550019,"swabs,alcohol skin cleanser sterile ,channelmed",1,supplies
+550020,"swabs,alcohol skin cleanser sterile ,damad , 874520/9",1,supplies
+550021,swabstick 2% chlorhexidine gluconate % 70% isopropyl alcohol,1,other
+550022,swabstick scrub 7.5% povidine iodine,1,other
+550026,"swabstick,lemon glycerine 4*",1,other
+550029,swalloning pathologist/session (partime staff,1,physiotherapy
+550030,swallowing assessment,2,consultation
+550031,swallowing assessment/session,1,physiotherapy
+550032,swallowing follow up,1,consultation
+550033,swallowing function assessment,2,lab_test
+550034,swallowing function assessment flexible endoscopic examination swallowing (fees,1,lab_test
+550035,swallowing primary assessment,1,consultation
+550036,swallowing rehabilitation session - treatment of swallowing dysfunction and/or oral function for feeding,1,lab_test
+550037,swallowing therapy session,2,physiotherapy
+550038,swallowing therapy-exercise therapy facial muscles/temporomandibular joint,1,physiotherapy
+550039,"swallowing therapy-exercise therapy, facial muscles/temporomandibular joint",1,physiotherapy
+550040,swan -lock blue -needless adopter 16.5267,1,other
+550041,swan gauge care (24 hours,1,other
+550042,swap for chlamydia,1,other
+550043,swarouski - swar5040,1,other
+550044,swaroveski,1,other
+550045,swarovsk optical,1,eyewear
+550046,swarovski,2,eyewear
+550048,swarovski - sw82111,1,eyewear
+550052,swarovski fram,1,eyewear
+550054,swarovski opt sk5350 ful pls 49 052 van/gld w,1,eyewear
+550055,swarovski opt sk5352 ful mtl 55 016 slv/blu w,1,eyewear
+550056,swarovski opt sk5367 ful pls 53 071 vlt w,1,eyewear
+550057,swarovski opt sk5368 ful mtl 53 049 brn w,1,eyewear
+550058,swarovski opt sk5369 ful mtl 56 033 rgld w,1,eyewear
+550059,swarovski opt sk5371 ful pls 54 055 blu w,1,eyewear
+550060,swarovski sk5091,1,eyewear
+550063,swarovski/sk4106/005/f,1,eyewear
+550064,swarovski/sk5016/001/f,1,eyewear
+550065,swarovski/sk5016/053/f,1,eyewear
+550066,swarovski/sk5018/034/f,1,eyewear
+550067,swarovski/sk5018/084/f,1,eyewear
+550068,swarovski/sk5020/016/f,1,eyewear
+550069,swarovski/sk5025/018/f,1,eyewear
+550070,swarovski/sk5026/001/f,1,eyewear
+550071,swarovski/sk5026/068/f,1,eyewear
+550072,swarovski/sk5026/072/f,1,eyewear
+550073,swarovski/sk5028/028/f,1,eyewear
+550074,swarovski/sk5043/012/f,1,eyewear
+550075,swarovski/sk5047/12a/f,1,eyewear
+550076,swd1270/c1/f,1,eyewear
+550077,swd1270/c2/f,1,eyewear
+550078,swd1270/c4/f,1,eyewear
+550079,swd1270/c5/f,1,eyewear
+550080,swd1270/c6/f,1,eyewear
+550081,swd1271/c1/f,1,eyewear
+550082,swd1271/c2/f,1,eyewear
+550083,swd1271/c5/f,1,eyewear
+550084,swd1272/c2/f,1,eyewear
+550085,swd1272/c6/f,1,eyewear
+550086,swd1273/c3/f,1,eyewear
+550087,swd1273/c4/f,1,eyewear
+550088,swd1273/c6/f,1,eyewear
+550089,swd1274/c2/f,1,eyewear
+550090,swd1275/c2/f,1,eyewear
+550091,swd1275/c5/f,1,eyewear
+550092,swd1275/c6/f,1,eyewear
+550093,swd1276/c2/f,1,eyewear
+550094,swd1276/c5/f,1,eyewear
+550095,swd1277/c1/f,1,eyewear
+550096,swd1277/c3/f,1,eyewear
+550097,swd1460/c4/f,1,eyewear
+550098,swd1595/c1/f,1,eyewear
+550099,swd1595/c2/f,1,eyewear
+550100,swd1595/c5/f,1,eyewear
+550101,swd1595/c8/f,1,other
+550102,swd1727/c1/f,1,eyewear
+550103,swd1727/c2/f,1,eyewear
+550104,swd1727/c4/f,1,eyewear
+550105,swd1727/c5/f,1,eyewear
+550106,swd1731/c3/f,1,eyewear
+550107,swd1737/c1/f,1,eyewear
+550108,swd1737/c3/f,1,eyewear
+550109,swd1737/c5/f,1,eyewear
+550110,swd1741/c1/52,1,eyewear
+550111,swd1741/c6/52,1,eyewear
+550112,swd1741/c7/52,1,other
+550113,swd1743/c1/53,1,eyewear
+550114,swd1743/c10/53,1,other
+550115,swd1743/c5/53,1,eyewear
+550116,swd1743/c8/53,1,other
+550117,swd1818e/c3/f,1,eyewear
+550118,swd1820/c3/f,1,eyewear
+550119,swd1822/c3/f,1,eyewear
+550120,swd1833/c1/f,1,eyewear
+550121,swd1835/c1/f,1,eyewear
+550122,swd1835/c2/f,1,eyewear
+550123,swd1835/c6/f,1,eyewear
+550124,swd1837/c5/f,1,eyewear
+550125,swd1840/c1/f,1,eyewear
+550126,swd1840/c6/f,1,eyewear
+550127,swd1842/c2/f,1,eyewear
+550128,swd1842/c5/f,1,eyewear
+550129,swd1844/c2/f,1,eyewear
+550130,swd1844/c5/f,1,eyewear
+550131,swd2500/c1/f,1,eyewear
+550133,sweat test,1,lab_test
+550134,sweat test (cystic fibrosis,1,lab_test
+550135,swedged crown,1,dental
+550137,sweilling ultrasound,1,imaging
+550138,swelling excision medium,1,procedure
+550139,swelling excision small,1,procedure
+550140,swido kids frm 308/54/c02,1,eyewear
+550141,swildns,1,other
+550142,swing,2,other
+550143,swing - sw016,1,other
+550144,swing - sw075,1,other
+550145,swing - sw109,1,other
+550146,swing - sw132,1,other
+550147,swing - sw137,1,other
+550148,swing - sw155,1,other
+550149,swing - sw159,1,other
+550150,swing - sw160,1,other
+550151,swing - sw191,1,other
+550152,swing - sw242,1,other
+550153,swing - sw252,1,other
+550154,swing clip fr tr383 c193,1,eyewear
+550155,swing clip on,1,supplies
+550156,swing fr 011,1,eyewear
+550157,swing fr 070 c:296 m.blk/blu (kids,1,eyewear
+550158,swing fr 314 c116,1,eyewear
+550163,swing frmae,1,other
+550164,swing fram,1,eyewear
+550165,swing kids,1,other
+550166,swing m,1,other
+550167,swing m - 1switr045c192,1,other
+550168,swing m - 1switr138c193,1,other
+550169,swing m - 1switr166c216,1,other
+550170,swing m - 1switr216c17,1,other
+550171,swing m - m1,1,other
+550172,swing m.f - 048,1,lab_test
+550173,swing m.f - 070,1,lab_test
+550174,swing m.f - 088,1,lab_test
+550175,swing m.f - 090,1,lab_test
+550176,swing m.f - 101,1,lab_test
+550177,swing m.f - 102,1,lab_test
+550178,swing m.f - 111,1,lab_test
+550179,swing m.f - 130,1,lab_test
+550180,swing m.f - 137,1,lab_test
+550181,swing m.f - 203,1,lab_test
+550182,swing m.f - 244,1,lab_test
+550183,swing m.f - 248,1,lab_test
+550184,swing m.f - 281,1,lab_test
+550185,swing m.f -075,1,lab_test
+550186,swing opt 011 ful pls 43 03 blk k,1,eyewear
+550187,swing opt 011 ful pls 43 428 blu k,1,eyewear
+550188,swing opt 017 ful pls 42 03 blk k,1,eyewear
+550189,swing opt 025 ful pls 42 09 vlt k,1,eyewear
+550190,swing opt 025 ful pls 42 blu k,1,eyewear
+550191,swing opt 031 ful pls 51 03 blk m,1,eyewear
+550192,swing opt 068 ful pls 47 11 gry/blk k,1,eyewear
+550193,swing opt 068 ful pls 47 73 red/blk k,1,eyewear
+550194,swing opt 068 ful pls 47 blu k,1,eyewear
+550195,swing opt 070 ful pls 45 193 blk k,1,eyewear
+550196,swing opt 070 ful pls 45 338 pnk k,1,eyewear
+550197,swing opt 070 ful pls 45 blk/vlt k,1,eyewear
+550198,swing opt 070 ful pls 45 blu k,1,eyewear
+550199,swing opt 073 ful pls 45 367 blk/ylw k,1,eyewear
+550200,swing opt 090 ful pls 52 03 blk m,1,eyewear
+550201,swing opt 090 ful pls 52 gry m,1,eyewear
+550202,swing opt 098 ful pls 50 03 blk m,1,eyewear
+550203,swing opt 110 ful pls 43 08 blk/whi k,1,eyewear
+550204,swing opt 110 ful pls 43 53 red k,1,eyewear
+550205,swing opt 110 ful pls 43 81 red k,1,eyewear
+550206,swing opt 113 ful pls 38 01 brn k,1,eyewear
+550207,swing opt 113 ful pls 38 03 blk k,1,eyewear
+550208,swing opt 120 ful pls 43 08 blk/wht k,1,eyewear
+550209,swing opt 126 ful pls 50 53 red w,1,eyewear
+550210,swing opt 158 ful pls 48 11 gry/blk k,1,eyewear
+550211,swing opt 158 ful pls 48 116 pur k,1,eyewear
+550212,swing opt 159 ful pls 48 blu k,1,eyewear
+550213,swing opt 159 ful pls 48 p211 blk/gry k,1,eyewear
+550214,swing opt 162 ful pls 41 231 blk/blu k,1,eyewear
+550215,swing opt 167 ful pls 51 193 blk m,1,eyewear
+550216,swing opt 172 ful pls 46 19 wht/blk k,1,eyewear
+550217,swing opt 172 ful pls 46 84 pnk k,1,eyewear
+550218,swing opt 173 ful pls 45 03 blk k,1,eyewear
+550219,swing opt 173 ful pls 45 10 pnk k,1,eyewear
+550220,swing opt 173 ful pls 45 133 blk k,1,eyewear
+550221,swing opt 173 ful pls 45 brn k,1,eyewear
+550222,swing opt 173 ful pls 45 p84 vlt/whi k,1,eyewear
+550223,swing opt 217 ful pls 51 blu/blk m,1,eyewear
+550224,swing opt 228 ful pls 46 10 pnk k,1,eyewear
+550225,swing opt 228 ful pls 46 335 red ct k,1,imaging
+550226,swing opt 242 ful pls 45 03 blk k,1,eyewear
+550227,swing opt 251 ful pls 48 393 blu k,1,eyewear
+550228,swing opt 253 ful pls 46 193 blk k,1,eyewear
+550229,swing opt 273 ful pls 44 01 brn k,1,eyewear
+550230,swing opt 307 ful pls 54 01 brn/slv m,1,eyewear
+550231,swing opt 311 ful pls 49 03 blk k,1,eyewear
+550232,swing opt 320 ful pls 45 285 pur ct k,1,imaging
+550233,swing opt 320 ful pls 45 409 pnk k,1,eyewear
+550234,swing opt 376 ful pls 51 193 blk m,1,eyewear
+550235,swing opt 379 ful pls 49 p151 blk/gry k,1,eyewear
+550236,swing opt 379 ful pls 49 p554 blu/blk k,1,eyewear
+550237,swing opt 379 ful pls 49 p556 brn/gry k,1,eyewear
+550238,swing opt 382 ful pls 54 193 blk m,1,eyewear
+550239,swing optical,1,eyewear
+550240,swing optical - swiv6031 54 c2,1,eyewear
+550241,swing optical - swiv6032 55 c3,1,eyewear
+550242,swing optical - swiv6033 53 c2,1,eyewear
+550243,swing optical - swiv6033 53 c3,1,eyewear
+550244,swing optical - swiv7310 54 c4,1,eyewear
+550245,swing s,1,other
+550246,swing-1,2,other
+550247,swiss delux/swd1450/c2/f,1,eyewear
+550248,swiss delux/swd1460/c1/f,1,eyewear
+550249,swiss delux/swd1460/c2/f,1,eyewear
+550250,swiss delux/swd1460/c3/f,1,eyewear
+550251,swiss delux/swd1460/c4/f,1,eyewear
+550252,swiss delux/swd1725/c3/f,1,eyewear
+550253,swiss delux/swd1725/c4/f,1,eyewear
+550263,swiss deluxe/sd254/c4/f,1,eyewear
+550264,swiss deluxe/sd254/c7/f,1,eyewear
+550265,swiss deluxe/sd255/c10/f,1,eyewear
+550266,swiss deluxe/sd255/c5/f,1,eyewear
+550267,swiss deluxe/sd255/c7/f,1,eyewear
+550268,swiss deluxe/sd255e/c10/f,1,eyewear
+550269,swiss deluxe/sd256/c1/f,1,eyewear
+550270,swiss deluxe/sd256/c4/f,1,eyewear
+550271,swiss deluxe/sd257/c8/f,1,eyewear
+550272,swiss deluxe/sd259/c4/f,1,eyewear
+550273,swiss deluxe/sd259/c6/f,1,eyewear
+550274,swiss deluxe/sd259/c9/f,1,eyewear
+550275,swiss deluxe/sd260/c2/f,1,eyewear
+550276,swiss deluxe/swd1593/c2/f,1,eyewear
+550277,swiss deluxe/swd1593/c3/f,1,eyewear
+550278,swiss deluxe/swd1595/c4/f,1,eyewear
+550279,swiss deluxe/swd1595/c5/f,1,eyewear
+550280,swiss deluxe/swd1700/c1/f,1,eyewear
+550281,swiss deluxe/swd1700/c3/f,1,eyewear
+550282,swiss deluxe/swd1700/c6/f,1,eyewear
+550283,swiss deluxe/swd1702/c6/f,1,eyewear
+550284,swiss deluxe/swd1704/c4/f,1,eyewear
+550285,swiss deluxe/swd1705/c2/f,1,eyewear
+550286,swiss deluxe/swd1708/c3/f,1,eyewear
+550287,swiss deluxe/swd1712/c3/f,1,eyewear
+550288,swiss deluxe/swd1718/c7/f,1,eyewear
+550289,swiss deluxe/swd1720/c1/f,1,eyewear
+550290,swiss deluxe/swd1720/c2/f,1,eyewear
+550291,swiss deluxe/swd1730/c1/f,1,eyewear
+550292,swiss deluxe/swd1730/c3/f,1,eyewear
+550293,swiss deluxe/swd1733/c1/f,1,eyewear
+550294,swiss deluxe/swd1737/c1/f,1,eyewear
+550295,swiss deluxe/swd2495/c5/f,1,eyewear
+550296,swiss deluxe/swd2520/c2/f,1,eyewear
+550298,swiss/deluxe/swd1470/c2/f,1,eyewear
+550310,swisslac milk premium pro plus,1,nutrition
+550328,swisslac premium ar (0-12 months,1,other
+550350,swivel connector 1898,1,other
+550351,swivelock tenodesis peek 7mm with onew screw arthrex ar-1662psl-7,1,supplies
+550352,swl first session + extra session 1000sr each,1,physiotherapy
+550353,swpecialist consultation,2,consultation
+550354,swpecialist services 13001,1,other
+550355,swtanding kub,1,imaging
+550356,"sxt guidewire sharp, medtronic #8670002",1,supplies
+550360,symbcort turbhaler,1,other
+550631,symbicort120mg 160/4.5,1,other
+550632,symbicort160 mcg turbuhaler,1,other
+550634,symbicort160/4.5 turbuhaler,1,other
+550637,symbotex 20cm x 15 x 1 # sym2015,1,other
+550638,symes prosthesisfalse,1,other
+550639,sympathectomy or ganglionectomy(laparoscopic)->c05.29,1,procedure
+550640,"sympathectomy, cervical",1,imaging
+550641,sympathetic rhizotomy,1,procedure
+550642,symphony & lactine one-day pumpset ( m ) ( 24mm,1,supplies
+550643,symptomatic varicoele (one side,1,supplies
+550644,syn 1.5 progressive ultra hdv blue,1,eyewear
+550645,syn hd 1.5blucut,1,eyewear
+550646,syn vx prf hd1.50blu,1,other
+550647,syn1.53 trivex extra,1,other
+550648,syn1.53trivx blu(360,1,other
+550649,syn1.56 s.extra stok,1,other
+550650,syn1.5mc stok,1,other
+550651,syn1.60 mc stok,1,eyewear
+550652,syn1.60b.cut(360,1,other
+550659,synacthen depot,1,other
+550660,synacthen depot - im,1,other
+550663,synacthen test,1,lab_test
+550664,synacthen test after 30 min,1,lab_test
+550665,synacthen test after 60 min,1,lab_test
+550666,synacthen test basal,1,lab_test
+550687,synaptophore exam,1,other
+550688,synaptophysin,1,other
+550689,sync easy adapt pro 1.67,1,other
+550690,sync single 1.56,1,other
+550691,sync single rx 1.74,1,eyewear
+550692,sync single rx 1.74 عدسات طبية,1,eyewear
+550693,synchrony,1,eyewear
+550694,synchrony bf d-28,1,eyewear
+550695,synchrony bf d-28 sx blue,1,eyewear
+550696,synchrony bf d-28 sx green,1,eyewear
+550697,synchrony east view hd 1.5 m /s / ext short,1,eyewear
+550698,synchrony easy view photolens brown s+,1,eyewear
+550699,synchrony easy view photolens gray s+,1,eyewear
+550700,synchrony easyadapt 1.6 photofusion grey m/s/e,1,eyewear
+550701,synchrony easyadapt hd 1.53 trivex m/s/e,1,eyewear
+550702,synchrony easyadapt hd 1.56 m / s / ext short,1,eyewear
+550703,synchrony easyadapt hd 1.6 m / s / ext short,1,eyewear
+550704,synchrony easyadapt hd 1.67 m / s/ ext short,1,eyewear
+550705,synchrony easyadapt hd 1.74 m /s / ext short,1,eyewear
+550706,synchrony easyview hd 1.5 s+,1,eyewear
+550707,synchrony easyview hd 1.56 m /s / ext short,1,eyewear
+550708,synchrony easyview hd 1.56 s+,1,eyewear
+550709,synchrony easyview hd 1.6 m /s / ext short,1,eyewear
+550710,synchrony easyview hd 1.6 s+,1,eyewear
+550711,synchrony easyview hd 1.67 s+,1,eyewear
+550712,"synchrony medical lens, high index 1.67",1,eyewear
+550713,synchrony performance hd 1.5 mediun / ext.short,1,eyewear
+550714,synchrony performance hd 1.5 sx green,1,eyewear
+550715,synchrony performance hd 1.56 m / ext .short,1,eyewear
+550716,synchrony performance hd 1.6 m/ ext short,1,eyewear
+550717,synchrony performance hd 1.67 m /ext short,1,eyewear
+550718,synchrony performance hd 1.74 m/ ext short,1,eyewear
+550719,synchrony performance hdv 1.5,1,eyewear
+550720,synchrony performance hdv 1.5 sx green,1,eyewear
+550721,synchrony performance hdv 1.56,1,eyewear
+550722,synchrony performance hdv 1.67,1,eyewear
+550723,synchrony performance hdv 1.74,1,eyewear
+550724,synchrony s.v hdc 1.67 blue,1,eyewear
+550725,synchrony s.v hdc 1.74 blue cut gr3,1,eyewear
+550726,synchrony ultra hdc 1.5,1,eyewear
+550727,synchrony ultra hdc 1.56,1,eyewear
+550728,synchrony ultra hdc 1.67,1,eyewear
+550729,synchrony ultra hdc 1.74,1,eyewear
+550730,synchrony ultra hdv 1.5,1,eyewear
+550731,synchrony ultra hdv 1.56,1,eyewear
+550732,synchrony ultra hdv 1.67,1,eyewear
+550733,synchrony ultra hdv 1.74,1,eyewear
+550734,"synchrony medical lens,high index 1.56 (wi 70mfh lens",1,eyewear
+550735,"synchrony medical lens,high index 1.61",1,eyewear

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+351680,lumbar nerve ablation with epidural,1,procedure
+351681,lumbar prf,1,other
+351683,lumbar posterior vertebroplasty 2 levels,1,lab_test
+351685,lumbar puncture - bedside,1,procedure
+351686,lumbar puncture - in o.r,1,procedure
+351687,lumbar puncture - not inc tests,1,lab_test
+351688,"lumbar puncture tray set,adult",1,procedure
+351689,"lumbar puncture tray set,pedia",1,procedure
+351692,lumbar puncture for csf non-or,1,procedure
+351693,lumbar puncture in inpt. dept,1,procedure
+351695,lumbar puncture in surgery dept,1,procedure
+351696,"lumbar puncture, theraputic",1,procedure
+351697,lumbar radio frequency (rf) (pain management,1,lab_test
+351698,lumbar spin 2 - film,1,other
+351699,lumbar sacral,1,other
+351700,lumbar sacral dorsal 2 views,1,imaging
+351702,lumbar sacral spine a p lat-5071,1,imaging
+351703,lumbar sacral spine one view-5070,1,supplies
+351706,lumbar spine -2v,1,imaging
+351709,lumbar spine (3v) - 565,1,imaging
+351711,lumbar spine (two view,1,imaging
+351713,lumbar spine - oblique,1,imaging
+351715,lumbar spine 2 views - ????? ??????? ??????? ?????,1,imaging
+351720,lumbar spine 3 views - ????? ??????? ??????? 3 ?????,1,imaging
+351723,lumbar spine :1 film,1,other
+351724,lumbar spine :2 films,1,other
+351725,lumbar spine a.p and lateral,1,lab_test
+351726,lumbar spine ap,1,imaging
+351727,lumbar spine ap & lat. view,1,imaging
+351728,lumbar spine ap lat. (2v,1,imaging
+351729,lumbar spine ap lat. obliques (4v,1,imaging
+351731,lumbar spine ap lateral obl,2,imaging
+351732,"lumbar spine ap,lat,oblique ??????? ??????? ????? ????? ?????",1,imaging
+351733,lumbar spine ap/lat./oblique-lumbar spine ap/lat./oblique,1,imaging
+351737,lumbar spine ap lat and obique,1,imaging
+351740,lumbar spine ap lateral obliques,1,imaging
+351742,lumbar spine flexion- extension view ??????? ??????? ??? ??? ???,1,imaging
+351743,lumbar spine obliques,1,imaging
+351745,lumbar spine x - ray 1 view,1,eyewear
+351746,lumbar spine x - ray 2 views,1,eyewear
+351748,lumbar spine x ray 1 view,1,imaging
+351749,lumbar spine x ray 2 views,1,imaging
+351750,lumbar spine x-ray a.p & lat. views,1,imaging
+351751,lumbar spine x-ray,1,imaging
+351752,lumbar spine x-ray /2 views,1,imaging
+351753,lumbar spine x-ray /4 views,1,imaging
+351754,lumbar spine with sacrum,1,other
+351759,lumbar support - (ms,1,supplies
+351761,lumbar vertebrae 4 positions,2,imaging
+351763,lumbar xray spine 4 views,1,imaging
+351764,lumbar xray spines-3 views,1,imaging
+351765,lumbar and other intervertebral disc disorders with radiculopathy (g55.1*,1,other
+351766,lumbar cerebrospinal fluid drainage catheterization kit,1,procedure
+351777,lumbar facet block,1,procedure
+351780,lumbar fenestration microdiscectomy two levels unilateral,1,lab_test
+351781,lumbar fenestration microdiscectomy - one level bilateral,1,lab_test
+351783,lumbar fenestration microdiscectomy - three levels bilateral,1,lab_test
+351784,lumbar fenestration microdiscectomy - two levels bilateral,1,lab_test
+351785,lumbar fenestration microdiscectomy - two levels unilateral,1,lab_test
+351786,lumbar fixation operation,1,procedure
+351787,"lumbar interspinous decompression spacer, sterile",1,supplies
+351788,lumbar laminectomy one disc - level 2,1,lab_test
+351789,lumbar or dorsal or sacral 1- view,1,imaging
+351790,lumbar or dorsal or sacral 1-view,1,imaging
+351791,lumbar or dorsal or sacral 2- view,1,imaging
+351792,lumbar or dorsal or sacral 2-views,1,imaging
+351794,lumbar puncture kit,1,procedure
+351796,"lumbar puncture, diagnostic",1,procedure
+351797,"lumbar puncture, diagnostic csf analysis",1,procedure
+351798,"lumbar puncture, diagnostic csf analysis - excluding supplies",1,procedure
+351799,lumbar puncture-procedure,1,procedure
+351802,lumbar spine (2films,1,other
+351806,lumbar spine - 3 views,1,imaging
+351807,lumbar spine - 4 views,1,imaging
+351809,lumbar spine 2 views[15.15,1,imaging
+351810,lumbar spine 2v-plain x-rays 2 views,1,imaging
+351811,lumbar spine 3v-plain x-rays 3 views,1,imaging
+351812,lumbar spine 4v-plain x-rays 4 views,1,imaging
+351813,lumbar spine ap & lateral,1,imaging
+351814,lumbar spine ap + lateral,1,imaging
+351817,lumbar spine lateral,1,imaging
+351818,lumbar spine orthosis,1,supplies
+351820,lumbar spineap+lat+oblique,1,imaging
+351821,lumbar total disc replacement prosthesis,1,supplies
+351822,lumbar transforaminal epidural steroid,1,procedure
+351823,lumbar vertebra - a.p & lat,1,imaging
+351824,lumbar vertebra - a.p and lat,1,imaging
+351825,lumbar vertebra r + l oblique,1,imaging
+351826,lumbar vertebrae 3 positions,1,imaging
+351828,lumbar! lumbo - sacral spine - 4 views,1,imaging
+351829,lumbar%20decompressive%20laminectomy%20and%20discectomy%20%e2%80%93%20one%20level,1,procedure
+351830,"lumbar,sacral 2 views ??????? ??????? ???????? ?????",1,imaging
+351831,"lumbar,sacrall,dorsal 1 view ??????? ??????? ???????? ???",1,imaging
+351832,"lumbar,sacrall,dorsal 1 view ??????? ??????? ???????? ??? ????",1,imaging
+351833,lumbar-sacral spine one view,1,supplies
+351834,lumbar-sacrual spine 2f,1,imaging
+351835,lumbar/cervical cage any size-inma,1,imaging
+351840,lumbar/lumbo sacral spine - 4 views - ????? ??????? ??????? 4?????,1,imaging
+351843,lumbar/lumbo sacral spine-3 views,1,imaging
+351845,lumbarlumbo sacral spine - 2 views,1,imaging
+351846,lumbarlumbo sacral spine - 3 views,1,imaging
+351847,lumbarvertebrae (2side,1,other
+351849,lumber sacral or dorsa 2 views,1,imaging
+351850,lumber exploration - 2 levels,1,lab_test
+351851,lumber microdiscectomy single level,1,lab_test
+351852,lumber microdisectomy with fusion : single level,1,lab_test
+351853,lumber microdisectomy without fusion : single level,1,lab_test
+351854,lumber peritoneal catheter,1,supplies
+351857,lumber puncture procedure,1,procedure
+351858,"lumber sp. apl ext, flex",1,other
+351859,lumber sacral sp. ap/lat rad,1,imaging
+351861,lumber spine (2v,1,imaging
+351862,lumber spine (ap+lat,1,imaging
+351866,lumber spinec.t,1,other
+351868,lumber spines (lateral view,1,imaging
+351869,lumber spines ap,1,imaging
+351870,lumber spines ap &lat,1,imaging
+351872,lumber spines oblique,1,imaging
+351873,lumber epidural infiltration,1,procedure
+351874,lumber facet block 1 level,1,lab_test
+351875,lumber posterior discectomy 1 level (2d,1,lab_test
+351876,lumber spine ap/lateral/oblique,1,imaging
+351877,lumber spine traction,1,procedure
+351878,lumber x-ray two view,1,imaging
+351879,lumber/2views,1,imaging
+351880,lumber/4views,1,other
+351881,lumber/lumbo sacral spine - 2 views,1,imaging
+351883,lumbo - sacral joint,1,imaging
+351884,lumbo - sacral spine,1,other
+351885,lumbo sacral spine 2 views (2048,1,imaging
+351886,lumbo sac . spine,1,other
+351887,lumbo sac . spine lat,1,imaging
+351888,lumbo sacra spine ap,1,imaging
+351892,lumbo sacral spine (two views) ap/lat,1,imaging
+351893,lumbo sacral spine 2 view,2,imaging
+351897,lumbo sacral spine 4 view,1,imaging
+351899,"lumbo sacral spine ap, lat. & obl",1,imaging
+351901,lumbo sacral spine ap/lat 677,1,imaging
+351909,lumbo sacral support elastic x-large,1,supplies
+351910,lumbo sacral support elastic xlarge,1,supplies
+351911,lumbo sacral.s (ap & lat) 2film x-ray,1,imaging
+351912,lumbo sacral.s (ap)&(lat,1,imaging
+351913,lumbo spine x-ray,1,imaging
+351914,lumbo sacral 2 films,1,other
+351915,lumbo sacral 2 films outside,1,other
+351917,lumbo sacral spine - ap,1,imaging
+351918,lumbo sacral spine -oblique,1,imaging
+351920,lumbo sacral spine ap -lateral,1,imaging
+351922,lumbo socral 3 views,1,imaging
+351923,lumbo- sacral spine a.p and lateral,1,lab_test
+351924,lumbo-sacral (2 views) x-ray,1,imaging
+351925,lumbo-sacral (a.p-lat-obl-flex.exten,1,imaging
+351926,lumbo-sacral sp. ap/lat/obliq,1,imaging
+351927,"lumbo-sacral spine ( ap, lat",1,imaging
+351929,lumbo-sacral spine (ap,1,imaging
+351930,"lumbo-sacral spine - 1 view ( ap, lat, or oblique",1,imaging
+351931,lumbo-sacral spine - 3 views,1,imaging
+351932,lumbo-sacral spine - ap 1film x-ray,1,imaging
+351935,lumbo-sacral spine ap/lateral,1,imaging
+351936,lumbo-sacral spine x-ray (2 views) ???? ????? ?????,1,imaging
+351937,lumbo-sacral spine(ap lat,1,imaging
+351938,lumbo-sacral spine(obliqua,1,other
+351939,lumbo-sacral spines lat,1,imaging
+351940,lumbo-sacral spines obl. two films,1,imaging
+351941,lumbo-sacral spines-ap & lat. two films,1,imaging
+351942,lumbo-sacral traction,1,procedure
+351943,lumbo-sacral spines a.p.& lat.views,1,imaging
+351944,lumbo-sacralspine(ap2clat,1,other
+351945,lumbo-sacralspine-3views,1,other
+351946,lumbo-sacral 2 views,1,imaging
+351948,lumbo-sacral spine 1 views,1,imaging
+351951,lumbo-sacral spine (1view,1,other
+351953,lumbo-sacral spine (2) x-ray,1,imaging
+351957,lumbo-sacral spine 2 views-518,1,imaging
+351959,lumbo-sacral spine ct,1,imaging
+351961,lumbo-sacralspineap/lateral/oblique,1,other
+351963,lumbosacral spine 4 views ???? ??? ???????? ??????? ???????,1,imaging
+351964,lumbosacral spine 4 views ???? ??? ???????? ??????? ???????? 4,1,imaging
+351965,lumbosacral spine 4 views ???? ??? ???????? ??????? ???????? 4 ?????,1,imaging
+351966,lumboperitoneal shunt,1,procedure
+351967,lumboperitoneal shunt peritoneal catheter,1,supplies
+351968,lumboperitoneal shunt spinal catheter,1,supplies
+351972,lumbosacral joint 2 views - ?????? ?????? ?????,1,imaging
+351973,lumbosacral sp.2veiw,1,other
+351979,lumbosacral spine 2-views,2,imaging
+351980,lumbosacral spine a.p & lat,1,imaging
+351981,lumbosacral spine a.p & lat-lumbosacral spine a.p & lat,1,imaging
+351983,lumbosacral spine ap/lat.-lumbosacral spine ap/lat,1,imaging
+351984,lumbosacral spine ap/lat./oblique-lumbosacral spine ap/lat./oblique,1,imaging
+351986,lumbosacral spine apv,1,other
+351987,lumbosacral spine ap lat,1,imaging
+351990,lumbosacral spine lat v,1,imaging
+351991,"lumbosacral spine, 2 views",1,imaging
+351992,"lumbosacral spine, a.p & lat",1,imaging
+351993,"lumbosacral spine, a.p & lat-lumbosacral spine, a.p & lat",1,imaging
+351995,lumbosacral spine2vuews,1,other
+351996,lumbosacral spines x ray 2 film,1,imaging
+352000,lumbosacral spine 1view,1,other
+352004,lumbosacral spine x ray 1 view,1,imaging
+352005,lumbosacral spine x ray 2 view,1,imaging
+352006,lumbosacral spine x ray 3 view,1,imaging
+352007,lumbosacral spine x-ray 3 view,1,imaging
+352008,lumbosacral spine x-ray 4 view,1,imaging
+352009,lumbosacral spine oblique,1,imaging
+352010,"lumbosacral spine orthosis, flexible",1,supplies
+352011,"lumbosacral spine orthosis, hernia/ptosis support",1,supplies
+352012,"lumbosacral spine orthosis, pendulous abdomen support",1,supplies
+352013,lumbosacral spiny x-ray 2 view,1,imaging
+352014,lumbosacral vertebrae ap & lateral,1,imaging
+352015,lumbosacral vertebrae ap & lateral & both oblique,1,imaging
+352016,lumbusacral spine ap/lat 2films,1,imaging
+352017,lumenis slimline ez 200 micron disposble,1,other
+352018,lumenis slimline ez 200 micron disposble fiber 0644-016-60,1,other
+352019,lumenis slimline ez 365 micron disp fiber 0644-018-60,1,other
+352043,lumpectomy ( benign or malignanl) breast lesion procesdure with histopath,1,lab_test
+352047,lumpectomy + histopath / breast,1,lab_test
+352051,lumpectomy or excision of b. tumour l.a in o.r,1,procedure
+352052,lumpectomy or small tumor (sebascious cyst) under l.a,1,procedure
+352053,lumpectomy or small tumor under g.a,1,procedure
+352054,lumpectomy with axillary mass,1,procedure
+352055,lumpectomy with axillary lymph node dissection-pkg,1,procedure
+352056,lumpectomy with sentenial lymph node biopsy (frozen secion + radioactive techintium 99m,1,procedure
+352057,lumpectomy) excision of b. tumour g.a,1,procedure
+352058,lunch patient meal,1,other
+352059,lung ( w - contrast ) c.t,1,imaging
+352060,lung ( w- out contrast ) c.t,1,imaging
+352061,lung function test otcoe follow-up,1,lab_test
+352062,lung mass otcoe follow-up,1,consultation
+352063,lung mass otcoe new patient,1,other
+352064,lung perfusion only,1,other
+352065,lung tx pharmacotherapy follow-up,1,consultation
+352066,lung transplant coordinator follow-up,1,consultation
+352067,lung transplant peds new follow-up,1,consultation
+352068,"lung ventilation and perfusion, with kr81 vent",1,other
+352071,lung ventilation study,1,consultation
+352073,lung%20perfusion%20and%20ventilation%20study,1,other
+352075,"lung, neoplastic, total/lobe",1,other
+352076,"lung, wedge biopsy",1,procedure
+352091,"luofucon extra silver alginate dressing 10*10 cm, 10/bx (ddsa0984) #xa100100-r",1,supplies
+352092,luofucon silicon foam border dressing,1,supplies
+352093,"luofucon silicon foam border dressing 10*10 cm, 10/bx (ddsm0391) #hsf100100f",1,supplies
+352094,"luofucon silicon post op dressing 6 x 9cm, 10/box #op060090",1,supplies
+352095,"luofucon silicone foam dressing with boarder 7.5x7.5 1""s #hsf075075f (pk/10",1,supplies
+352100,lupus anti body,1,lab_test
+352101,lupus anti coag,1,lab_test
+352105,lupus anticoagulant (l126,1,lab_test
+352106,"lupus anticoagulant (la), plasma",1,lab_test
+352107,lupus anticoagulant (ptt-la,1,lab_test
+352109,lupus anticoagulant - ?????,1,lab_test
+352112,lupus anticoagulant confirmatory test ( drvvt,1,lab_test
+352113,lupus anticoagulant lupus inhibitor,1,lab_test
+352114,lupus anticoagulant plasma,1,lab_test
+352116,lupus anticoagulant screen & confirmatory drvvt function a,1,lab_test
+352117,lupus anticoagulant screen test ( drvvt,1,lab_test
+352118,"lupus anticoagulant screening, plasma",1,lab_test
+352119,lupus anticonagulant,1,lab_test
+352120,lupus inhibitor screen - ptt-la,1,lab_test
+352121,lupus profile,1,lab_test
+352124,lupus anticoaagulant,2,lab_test
+352127,lupus anticoagulant - tat (72 hrs s.o,1,lab_test
+352128,lupuserythromatosis,1,other
+352137,luteinimeasurement ofer hormone (lh,1,lab_test
+352141,luteinizer hormone (lh,1,lab_test
+352142,"luteinizer hormone (lh), stimulation test-03 samples (baseline, after 1 hour & after 2 hour",1,lab_test
+352143,luteinizer%20hormone%20(lh,1,lab_test
+352144,luteinizing hormon (lh) (miscellaneous,1,lab_test
+352146,luteinizing hormone (l.h,1,lab_test
+352150,"luteinizing hormone, (lh",1,lab_test
+352151,"luteinizing hormone, lh",1,lab_test
+352153,luteinizing hormone - lh,1,lab_test
+352157,luteinnizing hormone ( lh,1,lab_test
+352159,lutenizing hormone (lh) (sfv,1,lab_test
+352160,lutenizing hormone (lh) - 260,1,lab_test
+352162,lutinizing hormone (lh,2,lab_test
+352167,luxor arm sling with mesh-l,1,eyewear
+352168,luxor arm sling with mesh-m,1,eyewear
+352169,luxor arm sling with mesh-xl,1,eyewear
+352170,luxor cross strap ankle support-adjustable,1,lab_test
+352172,luxor foam neck collar-l,1,eyewear
+352173,luxor foam neck collar-m,1,eyewear
+352174,luxor foam neck collar-s,1,eyewear
+352175,luxor hallux-valgus night strap 217,1,eyewear
+352176,luxor hinged knee brace (with steel joint) 199 adjus,1,eyewear
+352177,luxor kids arm sling luxury,1,eyewear
+352178,luxor knitted ankle support with silicon pad-l,1,eyewear
+352179,luxor knitted ankle support with silicon pad-m,1,eyewear
+352180,luxor knitted ankle support with silicon pad-s,1,eyewear
+352181,luxor knitted ankle support with silicon pad-xl,1,eyewear
+352182,luxor knitted ankle support with silicon pad-xxl,1,eyewear
+352183,luxor lumbar support-l,1,eyewear
+352184,luxor lumbar support-m,1,eyewear
+352185,luxor lumbar support-xl,1,eyewear
+352186,luxor lumbar support-xxl,1,eyewear
+352187,luxor lumbar support-xxxl,1,eyewear
+352188,luxor lumbo-sacral support-l,1,eyewear
+352189,luxor lumbo-sacral support-m,1,eyewear
+352190,luxor lumbo-sacral support-xl,1,eyewear
+352191,luxor lumbo-sacral support-xxl,1,eyewear
+352192,luxor lumbo-sacral support-xxxl,1,eyewear
+352193,luxor mallet finger splint-size3,1,eyewear
+352194,luxor mallet finger splint-size4,1,eyewear
+352195,luxor mallet finger splint-size5,1,eyewear
+352196,luxor mallet finger splint-size6,1,eyewear
+352197,luxor neck collar philedlphia type-size1,1,eyewear
+352198,luxor neck collar philedlphia type-size2,1,eyewear
+352199,luxor neck collar philedlphia type-size3,1,eyewear
+352200,luxor padded arm sling-adj,1,eyewear
+352201,luxor patella & ligament assisted knee support-one size,1,eyewear
+352202,luxor cot finger splin size 1,1,eyewear
+352203,luxor cot finger splin size 2,1,eyewear
+352204,luxor cot finger splin size 3,1,eyewear
+352205,luxor handwrist splint l xl right left,1,eyewear
+352206,luxor handwrist splint s m right left,1,eyewear
+352208,luxor lumbosacral corest l,1,eyewear
+352209,luxor lumbosacral corest m,1,eyewear
+352210,luxor lumbosacral corest xl,1,eyewear
+352211,luxor lumbosacral corest xxl,1,eyewear
+352212,luxor lumbosted corest l,1,eyewear
+352213,luxor lumbosted corest m,1,eyewear
+352214,luxor lumbosted corest xl,1,eyewear
+352215,luxor lumbosted corest xxl,1,eyewear
+352216,luxor thumb assisted wrist support one size,1,eyewear
+352217,luxottica fm 9041 col c235 sz,1,eyewear
+352218,luxottica fm 9041 col c312 sz,1,eyewear
+352219,luxottica fm 9048col c380 sz53,1,other
+352220,luxottica fm 9534 col 1028 sz,1,eyewear
+352221,luxottica fm 9543 col 1046 sz,1,eyewear
+352222,luxottica fm 9560 col 1020 sz,1,eyewear
+352223,luxottica fm mod.9560 col.l102,1,eyewear
+352226,"lyme disease (borrelia) serology evaluation, serum",1,lab_test
+352227,"lyme disease antibody, confirmation, serum",1,lab_test
+352228,"lyme disease european antibody screen, serum",1,lab_test
+352229,"lyme disease european immunoblot, serum",1,lab_test
+352230,"lyme disease serology, serum",1,lab_test
+352231,lymola deo sept vag wash,1,procedure
+352232,lympf node biopsy(neck)-deep,1,procedure
+352234,lymph node biopsy tcs ayh,1,procedure
+352235,"lymph node excision biopsy ( femoral ,cervical or axillary",1,imaging
+352236,lymph nodes/ u/s neck,1,imaging
+352239,"lymph node, biopsy (h&e stain only",1,procedure
+352240,lymph node/fna immunophenotyping,1,other
+352241,lymph nodes u/s ??? ????? ??????????,1,imaging
+352242,lymphadenectomy,1,procedure
+352243,"lymphadenectomy, axillary, radical",1,procedure
+352244,lymphangiography,1,other
+352245,lymphatic decompression - unilateral / per session,1,physiotherapy
+352246,lymphdema therapy,1,physiotherapy
+352248,lymphocyte subset panel by flowcytometry (t cells/b cells/ nk cells,1,lab_test
+352249,lymphocyte subsets-total t/b/nk,1,other
+352250,lymphocyte subsets-total t/b/nk + mhc ii,1,other
+352251,lymphocyte subsets -total t/b/nk,1,other
+352252,lymphocytes cd3 cd4 cd8,1,other
+352253,lymphocytes subset (total t/b/nk,1,other
+352254,"lymphocytes subset count by flowcytometry (cd4, cd8, cd56, cd16,cd19,cd3",1,lab_test
+352255,"lymphoma - follicular, bcl2/igh by pcr",1,lab_test
+352256,lymphoma adult virtual follow-up,1,consultation
+352257,lymphoma myeloma follow-up,1,consultation
+352258,lymphoma myeloma new follow-up,1,consultation
+352259,lymphoma panel - (flow cytometry,1,lab_test
+352260,"lymphoma panel by flowcytometry (tissue, body fluid",1,lab_test
+352261,"lymphoma panel, body fluid w/ interpret",1,lab_test
+352262,"lymphoma panel, tissue w/interpret",1,lab_test
+352263,"lymphoma and non-acute leukaemia, intermediate complexity",1,inpatient
+352265,"lymphoscintigraphy, lower limb",1,other
+352266,lympnode - biopsy under general anesthesia ga,1,procedure
+352267,lynparza,1,other
+352274,"lyoplant biological dura substitution, 6x8cm, b braun #1066242",1,supplies
+352275,"lyoplant onlay 5.0x5.0cm, aesculap #1067020",1,other
+352276,"lyoplant onlay dura substitute patch 10.0x12.5cm, aesculap, #1067050",1,supplies
+352277,"lyoplant onlay dura substitute patch 2.5x2.5cm, aesculap #1067010",1,supplies
+352278,"lyoplant onlay dura substitute patch, 4x10cm, aesculap #1066048",1,supplies
+352279,"lyoplant, 1.5x3cm, aesculap #1066102",1,other
+352317,"lysis of adhesions (salpingolysis, ovariolysis",1,procedure
+352318,lysis of adhesions of tongue,1,procedure
+352319,lysis of labial adhesions,1,procedure
+352320,lysis or excision of penile post-circumcision adhesions,1,procedure
+352321,lysozyme (muramidase) plasma,1,lab_test
+352329,lyumjev kwik pen 100 u/ml 5pk,1,other
+352333,m,1,other
+352334,m & q 380 sr,1,other
+352335,m . m. r,1,other
+352336,m .m.r,1,lab_test
+352338,m allergy/immunology peds virtual follow-up,1,consultation
+352339,m breast surgery follow-up,1,procedure
+352340,m breast surgery new follow-up,1,procedure
+352341,m breast surgery new patient,1,procedure
+352342,m breast surgery urgent add-on new patient,1,procedure
+352343,m breast surgery urgent add-on visit,1,procedure
+352344,m cardiology adult follow-up,1,consultation
+352345,m cardiology adult new follow-up,1,consultation
+352346,m cardiology adult new patient,1,other
+352347,m cardiology adult urgent add-on visit,1,consultation
+352348,m cardiology adult virtual follow-up,1,consultation
+352349,m cardiology peds follow-up,1,consultation
+352350,m cardiology peds new follow-up,1,consultation
+352351,m clinical psychology follow-up,1,consultation
+352352,m clinical psychology new follow-up,1,consultation
+352353,m colorectal surgery follow-up,1,procedure
+352354,m colorectal surgery new follow-up,1,procedure
+352355,m colorectal surgery new patient,1,procedure
+352356,m dermatology follow-up,1,consultation
+352357,m dermatology new follow-up,1,consultation
+352358,m dermatology new patient,1,other
+352360,m endocrine peds follow-up,1,consultation
+352361,m endocrine peds new follow-up,1,consultation
+352362,m endocrine peds new patient,1,other
+352363,m endocrine peds virtual follow-up,1,consultation
+352364,m endocrinology follow-up,1,consultation
+352365,m endocrinology new follow-up,1,consultation
+352366,m endocrinology new patient,1,other
+352367,m endocrinology urgent add-on visit,1,consultation
+352368,m endocrinology virtual follow-up,1,consultation
+352369,m executive health care follow-up,1,consultation
+352370,m executive health care new patient,1,consultation
+352371,m family med urgent care virtual follow-up,1,consultation
+352372,m family medicine follow-up,1,consultation
+352373,m fetal therapy visit,1,physiotherapy
+352374,m g,1,lab_test
+352375,m gastro peds follow-up,1,consultation
+352376,m gastro peds new follow-up,1,consultation
+352377,m gastro peds new patient,1,other
+352378,m gastro peds virtual follow-up,1,consultation
+352379,m gastroenterology adult follow-up,1,consultation
+352380,m gastroenterology adult new follow-up,1,consultation
+352381,m gastroenterology adult new patient,1,other
+352382,m gastroenterology adult urgent add-on visit,1,consultation
+352383,m general ophthalmology er urgent add-on visit,1,consultation
+352384,m general ophthalmology follow-up,1,consultation
+352385,m general ophthalmology new follow-up,1,consultation
+352386,m general ophthalmology new patient,1,other
+352387,m general ophthalmology urgent add-on visit,1,consultation
+352388,m general peds follow-up,1,consultation
+352389,m general peds new follow-up,1,consultation
+352390,m general peds virtual follow-up,1,consultation
+352391,m general surgery follow-up,1,procedure
+352392,m general surgery new follow-up,1,procedure
+352393,m general surgery new patient,1,procedure
+352394,m genetics peds follow-up,1,consultation
+352395,m genetics peds new follow-up,1,consultation
+352396,m genetics peds virtual follow-up,1,consultation
+352397,m hhc community follow-up,1,consultation
+352398,m hhc community new follow-up,1,consultation
+352399,m hos gastroenterology adult virtual follow-up,1,consultation
+352401,m hem/onc peds follow-up,1,consultation
+352402,m hem/onc peds new patient,1,other
+352403,m hem/onc peds urgent add-on visit,1,consultation
+352404,m hem/onc walk-in,1,other
+352405,m hematology adult follow-up,1,consultation
+352406,m hematology adult new follow-up,1,consultation
+352407,m hematology adult new patient,1,other
+352408,m hematology adult virtual follow-up,1,consultation
+352409,m hematology urgent add-on visit,1,consultation
+352410,m hepatobiliary pancreatic follow-up,1,consultation
+352411,m hepatobiliary pancreatic new follow-up,1,consultation
+352412,m hepatobiliary pancreatic new patient,1,other
+352413,m infectious diseases follow-up,1,consultation
+352414,m infectious diseases new follow-up,1,consultation
+352415,m infectious diseases peds follow-up,1,consultation
+352416,m infectious diseases peds new follow-up,1,consultation
+352417,m internal medicine follow-up,1,consultation
+352418,m internal medicine new follow-up,1,consultation
+352419,m internal medicine virtual follow-up,1,consultation
+352420,m m r,1,lab_test
+352421,m m r (m.o.h,1,lab_test
+352422,m m r priorix,1,lab_test
+352423,m medical oncology follow-up,1,consultation
+352424,m medical oncology new follow-up,1,consultation
+352425,m medical oncology virtual follow-up,1,consultation
+352427,m medicine urgent add-on visit,1,consultation
+352428,m midwife virtual follow-up,1,consultation
+352429,m nephrology follow-up,1,consultation
+352430,m nephrology new follow-up,1,consultation
+352431,m nephrology onc peds follow-up,1,consultation
+352432,m nephrology onc peds new follow-up,1,consultation
+352433,m nephrology onc peds new patient,1,other
+352434,m nephrology onc peds virtual follow-up,1,consultation
+352435,m nephrology peds follow-up,1,consultation
+352436,m nephrology peds new follow-up,1,consultation
+352437,m nephrology peds new patient,1,other
+352438,m nephrology peds virtual follow-up,1,consultation
+352439,m nephrology virtual follow-up,1,consultation
+352440,m neurology follow-up,1,consultation
+352441,m neurology new follow-up,1,consultation
+352442,m neurology new patient,1,other
+352443,m neurology peds follow-up,1,consultation
+352444,m neurology peds new follow-up,1,consultation
+352445,m neurology peds new patient,1,other
+352446,m neurology peds virtual follow-up,1,consultation
+352447,m neurology virtual follow-up,1,consultation
+352448,m neurosurgery follow-up,1,consultation
+352449,m neurosurgery new follow-up,1,consultation
+352450,m neurosurgery new patient,1,other
+352451,m neurosurgery urgent add-on visit,1,consultation
+352452,m ob gyn follow-up,1,consultation
+352453,m ob gyn new follow-up,1,consultation
+352454,m ob gyn new patient,1,other
+352455,m ob gyn urgent add-on visit,1,consultation
+352456,m ob gyn virtual follow-up,1,consultation
+352457,m ob gyn walk-in,1,other
+352458,m orl follow-up,1,consultation

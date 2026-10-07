@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+304528,"ip consult - gastroenterology, - (dr. harith o. baharith",1,consultation
+304529,ip consult - hematology (dr. reem al. gunfodi,1,consultation
+304530,ip consult - infectious disease (dr. n. hamza,1,consultation
+304531,ip consult - infectious disease (dr. n. hamza) - follow up,1,consultation
+304532,ip consult - invasive cardiology (dr. k. tammam,1,consultation
+304533,ip consult - nephrology (dr. m. ayran,1,consultation
+304534,ip consult - nephrology (dr. m. ayran) - follow up,1,consultation
+304535,ip consult - nephrology - internal medicine (dr. saad alshohaib,1,consultation
+304536,ip consult - nephrology - internal medicine (dr. saad alshohaib) - follow up,1,consultation
+304537,ip consult - neurology (dr. salem hamoud,1,consultation
+304538,ip consult - neurology (dr.salem hamoud) follow up,1,consultation
+304539,ip consult - oncology (dr. a. refae,1,consultation
+304542,ip consult - pain medicine (dr. osama. al ahdal,1,consultation
+304543,ip consult - pain medicine (dr. osama. al ahdal) - follow up,1,consultation
+304545,ip consult - pediatric cardiology (dr. naif al-khushi,1,consultation
+304546,ip consult - post op pain anesthesia (team consultation,1,procedure
+304547,ip consult - psychiatric - - (dr. sulhi a. alfakeh,1,consultation
+304548,ip consult - pulmonary ( dr. hadeel khadawardi,1,consultation
+304549,ip consult - pulmonary (dr. hadeel khadawardi) - follow up,1,consultation
+304550,ip consult - surgery (dr. walid bukhar,1,procedure
+304551,ip consult - urology (dr. r. azhar,1,consultation
+304552,ip consult - vascular surgery (dr. abdullah m. abdullah,1,procedure
+304553,"ip consultation --,cardiology (dr. adnan f. hussien",1,consultation
+304554,"ip consultation --,cardiology (dr. adnan f. hussien)- follow up",1,consultation
+304555,ip consultation follow up - adult cardiology,1,consultation
+304556,ip consultation follow up - adult critical care,1,consultation
+304557,ip consultation follow up - adult hematology and hematopoietic stem cell tx,1,supplies
+304558,ip consultation follow up - adult orthopedic surgery,1,procedure
+304559,ip consultation follow up - adult urology,1,consultation
+304560,ip consultation follow up - dermatology,1,consultation
+304561,ip consultation follow up - endocrinology,1,consultation
+304562,ip consultation follow up - gastroenterology,1,consultation
+304563,ip consultation follow up - general and oncology surgery,1,procedure
+304564,ip consultation follow up - gynecologic oncology,1,consultation
+304565,ip consultation follow up - infectious diseases,1,consultation
+304566,ip consultation follow up - internal medicine,1,consultation
+304567,ip consultation follow up - medical genetics,1,consultation
+304568,ip consultation follow up - medical oncology,1,consultation
+304569,ip consultation follow up - nephrology,1,consultation
+304570,ip consultation follow up - neurology,1,consultation
+304571,ip consultation follow up - neurosurgery,1,consultation
+304572,ip consultation follow up - ophthalmology,1,consultation
+304573,ip consultation follow up - pain,1,consultation
+304574,ip consultation follow up - palliative care medicine,1,consultation
+304575,ip consultation follow up - pediatric cardiology,1,consultation
+304576,ip consultation follow up - pediatric endocrinology/diabetics,1,consultation
+304577,ip consultation follow up - pediatric nephrology,1,consultation
+304578,ip consultation follow up - pediatric rheumatology,1,consultation
+304579,ip consultation follow up - perinatology,1,consultation
+304580,ip consultation follow up - psychiatry,1,consultation
+304581,ip consultation follow up - pulmonary medicine,1,consultation
+304582,ip consultation follow up - rheumatology,1,consultation
+304583,ip consultation new - adult cardiology,1,consultation
+304584,ip consultation new - adult critical care,1,consultation
+304585,ip consultation new - adult hematology and hematopoietic stem cell tx,1,supplies
+304586,ip consultation new - adult hematology & hematopoietic stem cell tx,1,supplies
+304587,ip consultation new - adult orthopedic surgery,1,procedure
+304588,ip consultation new - adult transplant hepatology,1,consultation
+304589,ip consultation new - adult transplant nephrology professional service,1,consultation
+304590,ip consultation new - adult urology,1,consultation
+304591,ip consultation new - allergy/immunology,1,consultation
+304592,ip consultation new - breast and endocrine surgery,1,procedure
+304593,ip consultation new - breast & endocrine surgery,1,procedure
+304594,ip consultation new - colorectal surgery,1,procedure
+304595,ip consultation new - dermatology,1,consultation
+304596,ip consultation new - endocrinology,1,consultation
+304597,ip consultation new - gastroenterology,1,consultation
+304598,ip consultation new - general anesthesia,1,procedure
+304599,ip consultation new - general pediatrics,1,consultation
+304600,ip consultation new - general and oncology surgery,1,procedure
+304601,ip consultation new - gynecologic oncology,1,consultation
+304602,ip consultation new - head and neck surgery,1,procedure
+304603,ip consultation new - head & neck surgery,1,procedure
+304604,ip consultation new - infectious diseases,1,consultation
+304605,ip consultation new - internal medicine,1,consultation
+304606,ip consultation new - interventional radiology,1,consultation
+304607,ip consultation new - leukemia/lymphoma,1,consultation
+304609,ip consultation new - medical oncology,1,consultation
+304610,ip consultation new - mental health,1,consultation
+304611,ip consultation new - nephrology,1,consultation
+304612,ip consultation new - neurology,1,consultation
+304613,ip consultation new - neurosurgery,1,consultation
+304614,ip consultation new - non-malignant blood disorders,1,lab_test
+304615,ip consultation new - ophthalmology,1,consultation
+304616,ip consultation new - palliative care medicine,1,consultation
+304617,ip consultation new - pediatric allergy/immunology,1,consultation
+304618,ip consultation new - pediatric cardiology,1,consultation
+304619,ip consultation new - pediatric critical care,1,consultation
+304620,ip consultation new - pediatric dentistry,1,consultation
+304621,ip consultation new - pediatric endocrinology/diabetics,1,consultation
+304622,ip consultation new - pediatric gastroenterology,1,consultation
+304623,ip consultation new - pediatric infectious diseases,1,consultation
+304624,ip consultation new - pediatric nephrology,1,consultation
+304625,ip consultation new - pediatric neurology,1,consultation
+304626,ip consultation new - pediatric orthopedic surgery,1,procedure
+304627,ip consultation new - pediatric pulmonology,1,consultation
+304628,ip consultation new - pediatric rheumatology,1,consultation
+304629,ip consultation new - pediatric surgery,1,procedure
+304630,ip consultation new - pediatric urology,1,consultation
+304631,ip consultation new - perinatology,1,consultation
+304632,ip consultation new - plastic surgery,1,eyewear
+304633,ip consultation new - prosthodontics,1,consultation
+304634,ip consultation new - psychiatry,1,consultation
+304635,ip consultation new - pulmonary medicine,1,consultation
+304636,ip consultation new - radiation oncology,1,physiotherapy
+304637,ip consultation new - reproductive endocrinology and infertility,1,consultation
+304638,ip consultation new - rheumatology,1,consultation
+304639,ip consultation new - solid tumors,1,consultation
+304640,ip consultation new - stem cell transplantation,1,supplies
+304641,ip consultation new - thoracic surgery,1,procedure
+304642,ip consultation new - vascular surgery,1,procedure
+304643,ip daily r and b-aca unit,1,other
+304644,ip daily r and b-c1,1,eyewear
+304645,ip daily r and b-jen3 single,1,other
+304646,ip daily r and b-jwn1 (101,1,other
+304647,ip dental package,1,dental
+304648,ip referral consultation (different specialty,1,consultation
+304649,ip referral consultation (ip,1,consultation
+304650,ipd daily visit - senior consultant fee,1,consultation
+304651,"ipid profile=chol,lipids,hdl,triglycerides",1,lab_test
+304654,ipl pigmented (l,1,other
+304655,ipl pigmented (s,1,other
+304656,ipl rx 1.60 as hmc,1,eyewear
+304657,ipl rx1.5as hmc,1,eyewear
+304658,ipl rx1.5sp hmc,1,eyewear
+304659,ipl v-medium,1,other
+304660,"ipl, meibomian dysfunction management - per session",1,physiotherapy
+304661,ipl1.5spiron,1,other
+304662,iplrx1.5as,1,other
+304663,iplrx1.6ashmc,1,other
+304664,ippb with brochodilator and mucolytic agent,1,other
+304671,ipramax,1,other
+304774,ipratropium bromide,2,other
+304830,ips e/max crown porcelin/تركيبة بورسلان,1,dental
+304831,ips/e.max crown (porcelain,1,dental
+304832,ipv,1,other
+304848,"ipv, dtp, hbv, pcv, opv (???? ????? ??????? ??????",1,other
+304850,"ipv, dtap, hb, hib, pcv & opv",1,lab_test
+304851,"ipv, dtap, hb, hib, pcv & rota",1,lab_test
+304852,ipv-dpt-hip-hpv,1,other
+304854,iq,1,other
+304855,iq 12cm standard #5500-25s-307,1,other
+304856,iq assessment by liscnsed clinical psychologist,1,consultation
+304858,iq serrated large 12cm #5500-25s-316,1,other
+304859,iq test,4,lab_test
+304860,iq test (1 hour,1,lab_test
+304861,iq test- child,1,lab_test
+304865,iq testing,1,lab_test
+304866,iq tests,1,lab_test
+304868,iq-swab throat/nose c/s,1,lab_test
+304869,iq. test,1,lab_test
+304870,iqama examination (male) - takamol,1,consultation
+304871,iqama medical check up,1,other
+304872,iqama medical check up males,1,other
+304873,iqama rolls-royce package,1,other
+304874,ir (infra red lighting,1,other
+304875,ir (infra red) treatment,2,other
+304876,ir + es + ex,1,other
+304877,ir angiography guidance (< 1 hour,1,imaging
+304878,ir angiography guidance (> 2 hour,1,imaging
+304879,ir fluoro cover tray,1,other
+304880,ir permicath isnertion,1,other
+304881,ir. angioplasty + stenting of feomro-popliteal artery (uni lateral,2,procedure
+304883,ir. angioplasty + stenting of feomro-popliteal artery (unilateral,1,procedure
+304884,ir. angioplasty of feomro-popliteal artery (uni lateral,2,procedure
+304885,ir. angioplasty of vein (extracranial,1,procedure
+304886,ir. arthogram,1,other
+304887,ir. abdominal/pelvice bleeding embolization,2,lab_test
+304888,ir. angiography abdomin / pelvic aortogram,1,imaging
+304889,ir. angiography arch / thoracic aortogram,1,imaging
+304890,ir. angiography ll arterigram (unilateral,1,imaging
+304891,ir. angiography ll arteriogram (bilateral,1,imaging
+304892,ir. angiography pulmonary / bronchial arteriogram,1,imaging
+304893,ir. angiography renal / mesentric arteriogram,1,imaging
+304894,ir. angiography superior/inferior cavograhpy,1,imaging
+304895,ir. bone biopsy (limbes,1,imaging
+304896,ir. chemoembolization,1,other
+304897,ir. ct guided aspiration,2,imaging
+304898,ir. ct guided biopsy,3,imaging
+304899,ir. ct guided drainage,2,imaging
+304900,ir. ct guided rfa tumor (bone,2,imaging
+304907,ir. full package ul or ll sclerotherapy (bilateral,1,procedure
+304908,ir. full package ul or ll sclerotherapy (unilateral,1,procedure
+304909,ir. gastrostomy tube insertion,1,supplies
+304910,ir. ivc filter implementation,1,supplies
+304911,ir. ivc filter removal or retrieval,1,supplies
+304912,ir. lumbar puncture,1,procedure
+304925,ir. outside consultation visit (interventional cons,1,consultation
+304926,ir. pain block-bilateral,1,procedure
+304927,ir. percutaneous transhepatic cholangiography (ptc,1,other
+304928,ir. percutaneous transhepatic drainage (ptd,1,procedure
+304929,ir. percutenous nephrostomy (1 side,1,procedure
+304930,ir. percutenous nephrostomy (1 sides,1,procedure
+304931,ir. percutenous nephrostomy (2 sides,2,procedure
+304933,ir. permcath insertion,2,procedure
+304934,ir. permicath removal,2,procedure
+304935,ir. picc line insertion,2,procedure
+304936,ir. prostatic artery embolization (pae,1,procedure
+304937,ir. retreival (other,1,other
+304938,ir. transrectal prostatic biopsy (trus biopsy,2,procedure
+304940,ir. transrectal prostatic biopsy (trus biopsy) 0%,1,procedure
+304941,ir. transrectal prostatic biopsy trus biopsy,1,procedure
+304942,ir. us guided biopsy (soft tissue,3,procedure
+304943,ir. us guided biopsy soft tissue,1,procedure
+304944,ir. us guided drainage,3,procedure
+304945,ir. us guided dranage catheter exchange,3,supplies
+304946,ir. us guided fna,3,imaging
+304951,ir. us guided rfa tumor (soft tissue,1,imaging
+304952,ir. uterine artery embolization (uae,1,procedure
+304953,ir. veriscose vein ablation (two limbs,2,procedure
+304955,ir. veriscose vein ablation (one limb,2,supplies
+304956,ir.us guided biopsy (soft tissue,1,procedure
+305036,irbesartanhydrochlorothiazide,1,other
+305133,irene wageih badie,1,other
+305134,iridectomy (negotible,1,procedure
+305135,iridectomy for glaucoma - 2 days pkg,1,procedure
+305136,iridectomy pkg,1,procedure
+305137,"iridectomy, w/ corneoscleral/corneal section, w/ cyclectomy",1,procedure
+305138,iridex cyclophotocoagulation,1,other
+305139,iridium 20-gauze/pk,1,supplies
+305140,iridium baby gauze 28s,1,supplies
+305141,iridium gauze,1,supplies
+305142,iridium gauze 20s,1,supplies
+305143,iridoplasty,1,procedure
+305144,iridoplasty - 1day pkg,1,procedure
+305145,iridoplasty- laser i photocoagulation,1,procedure
+305146,iridoplasty->c12.39,1,procedure
+305147,"iridotomy, bilateral",1,procedure
+305148,"iridotomy, unilateral",2,procedure
+305176,iris retractor (single use)-per pcs,1,other
+305177,iris retractor oasis-per pcs,1,other
+305178,irl,1,other
+305243,iromai,1,other
+305488,irpl (intensive regular pulse light) per session,1,physiotherapy
+305489,"irpl session for evaporative dryness,blepharitis, meibomianitis for both eye- on",1,physiotherapy
+305490,irradiated and leukoreduced pltph (testing & supervision,1,lab_test
+305491,irradiated and leukoreduced prbc (testing & supervision,1,lab_test
+305492,irradiated packed red blood cell (testing & supervision,1,lab_test
+305493,irradiated platelets (testing & supervision,1,lab_test
+305494,irradiated prbc,1,other
+305495,irradiation of cellular blood component,1,lab_test
+305496,irradiation platelets,1,other
+305497,"irradiation, blood product, each unit",1,lab_test
+305498,irreducible inguinal hernia repair,1,procedure
+305499,irridectomy,1,procedure
+305500,irrigate abscess septic socket,1,supplies
+305502,irrigation + debridment,1,procedure
+305503,irrigation asp of after-cataract,1,procedure
+305506,irrigation line for laser ureteroscopy #sour9107st12,1,procedure
+305507,irrigation maxillary sinus,1,procedure
+305508,irrigation of abscess,1,procedure
+305509,irrigation of abscess or septic socket,1,supplies
+305510,irrigation of bladder,2,procedure
+305513,irrigation of ear w/ remov of serum (c96.52,1,lab_test
+305514,irrigation of ear w/ removal of cerumen (dewaxing,1,procedure
+305515,irrigation of ear w/ removal of cerumen (dewaxing) - 1 day pkg,1,procedure
+305516,irrigation of ear w/ removal of cerumen (dewaxing)->c96.52,1,procedure
+305517,irrigation of external auditory canal for removal of wax,1,dental
+305518,irrigation of indwelling cath,1,supplies
+305519,irrigation of indwelling catheter,1,supplies
+305520,irrigation of lacrimal ducts - one eye,2,supplies
+305522,irrigation of the eye,1,procedure
+305523,irrigation of vascular catheter,1,supplies
+305524,irrigation or change drain of abscess/socket,1,supplies
+305525,irrigation other indwelling urinary cath,1,supplies
+305526,"irrigation pump tube alphaerspump, resuable_20 cycles, (gimmi) # t.8500.20",1,supplies
+305527,irrigation set 2 way (tur y-set) polymed #3053/3014,1,procedure
+305528,irrigation set 2 way (tur y-set) polymed #3053/3014/6543,1,procedure
+305529,"irrigation set operative single, #mg-v4500",1,procedure
+305530,irrigation set tur double # mg-v4537/mg-v4538-10,1,procedure
+305531,irrigation setdouble,1,procedure
+305534,irrigation system tubes,1,procedure
+305535,"irrigation tube w/flushing system#onge2001st12 , f/laser vaporization",1,supplies
+305537,"irrigation/aspiration tubing w/extender filter , tubing disposable medex",1,supplies
+305538,irs claw phakic (iol,1,supplies
+305545,ischeo rectal abscess incision & drainage,1,procedure
+305546,ischio rectal abcess 1xd,1,other
+305547,ischio rectal abcess i d g.a bupa,1,insurance
+305548,ischio rectal abcess i&d g.a,2,procedure
+305549,ischio rectal abscess i & d ( g.a.) - 2 days pkg,1,procedure
+305550,ischio rectal abscess i & d (g.a,1,procedure
+305551,ischio rectal abscess i & d (general anaesthesia,1,procedure
+305552,ischio rectal abscess i & d ga,2,procedure
+305553,ischio rectal abscess i & d(0,1,procedure
+305554,ischio rectal abscess i and (g.a,1,procedure
+305555,ischio rectal abscess i&d,1,procedure
+305556,ischio-rectal abscess i& d. ga,1,procedure
+305557,ischiorectal abscess,1,procedure
+305558,ischiorectal abscess (2d,1,procedure
+305559,ischiorectal abscess i & d under g.a,1,procedure
+305560,ischiorectal abscess i & d under ga,1,procedure
+305561,ischiorectal abscess i&d u.g.a,1,procedure
+305562,ischiorectal abscess i&d unde ga,1,procedure
+305563,ischiorectal abscess i&d under ga,3,procedure
+305565,ischiorectal abscess i&d under ga+ post-op.dressing,1,supplies
+305566,ischlorecial abscess i & d uga,1,procedure
+305583,"ishihara color test book, 24 plates",1,lab_test
+305591,isilac premature,1,other
+305593,isilac rtf infant formmula,1,other
+305596,ision and drainage of small abcess - g.a,1,procedure
+305597,ision and drainege of small abcess - l.a,1,lab_test
+305604,islam essam mosa,1,other
+305607,islam khalid preparatory,1,other
+305611,island flap with neurovascular pedicle los 2 days,1,other
+305612,island transparent adhesive film dressing w/ a'pad 10x20cm b/25,1,supplies
+305613,island transparent adhesive film dressing w/ a'pad 10x25cm b/25,1,supplies
+305614,island transparent adhesive film dressing w/ a'pad 6x10cm b/50,1,supplies
+305615,islet cell abs,5,lab_test
+305616,islet cell abs serum,1,lab_test
+305617,islet cell ab,3,lab_test
+305619,islet cell abs (ica,2,lab_test
+305620,islet cell abs (qual & quant,1,lab_test
+305621,islet cell abs (qual&quant,1,lab_test
+305622,islet cell abs (quant,1,lab_test
+305623,islet cell abs @,1,lab_test
+305624,islet cell abs s -(send-out tests,1,lab_test
+305625,islet cell abs( so,1,lab_test
+305627,islet cell abs. (ica,1,lab_test
+305628,islet cell antibodies,2,lab_test
+305629,islet cell antibodies - serum,1,lab_test
+305630,islet cell antibodies - serum -5-6-120259,1,lab_test
+305631,islet cell antibodies serum,1,lab_test
+305633,islet cell antibody,1,lab_test
+305634,islet cell ag 2 abs,1,lab_test
+305635,islet cell surface abs,1,lab_test
+305636,islet cell surface abs (icsa,1,lab_test
+305637,islet cell surface abs(icsa,1,lab_test
+305639,ismaiel mahmuod ismaiel abdelrehim,1,other
+305640,ismail abdul rehman hamza serafi,1,other
+305641,ismail tawfeek abdelaziz bade,1,other
+305642,ismail tawfeek badr,1,other
+305643,iso-a,1,other
+305644,iso-kinetic therapy,1,physiotherapy
+305645,isobid,2,other
+305648,isobid (isosorbide dinitrate,1,other
+305665,isobid 20cap,1,other
+305666,isobid 20cap( none,1,other
+305711,isobid-20,1,other
+305712,isobid/isosorbide dinitrate,1,other
+305714,isobide,3,other
+305716,isobide ( 20,1,other
+305723,isobide 20,1,other
+305834,isobide | 175-325-06 | (sar 14.70,1,other
+305841,"isodose plan, complex",1,other
+305842,"isodose plan, simple",1,other
+305843,"isodose plan, special",1,other
+305844,isodril s/l,1,other
+305845,isoenzymes of alkaline phosphatase,1,lab_test
+305846,isoenzymes for alkaline phosphatase,1,lab_test
+305850,isoket 0.1% ampuole,1,other
+305851,isokinetic rehabilitation program,1,other
+305852,isolating room,1,consultation
+305853,isolation,2,other
+305854,isolation - accommodation,3,eyewear
+305855,isolation - daily doctor visit,1,consultation
+305856,isolation - icu/ ccu/nicu/picu,1,consultation
+305857,isolation - medical supervision,2,consultation
+305858,isolation - nursing services,1,consultation
+305859,isolation - room charges,1,consultation
+305860,isolation / day,1,other
+305861,isolation bag,2,other
+305862,isolation bed charge /day,1,supplies
+305863,isolation bed charge /day-2-1-51,1,supplies
+305864,isolation charge,1,consultation
+305865,isolation charges,1,other
+305866,isolation charges (additional,1,other
+305867,isolation class room - 230,1,consultation
+305868,isolation companion,1,other
+305869,isolation consultant visit/day,1,consultation
+305870,isolation disposables (per day,1,other
+305871,isolation disposables per day,1,other
+305872,isolation gown,2,supplies
+305873,isolation gown ( yellow,1,supplies
+305874,isolation gown (10 pcs,1,supplies
+305875,isolation gown (yellow,3,supplies
+305877,isolation gown (yellow) 10/pk,1,supplies
+305878,"isolation gown ,water proof ,yellow elastic cuff , size#140*120cm",1,supplies
+305879,isolation gown dis,1,supplies
+305880,isolation gown disp,1,supplies
+305881,isolation gown w/sleeve yel ( ppe,1,supplies
+305882,isolation gown yellow,2,supplies
+305883,isolation gown yellow (wbf) - s,1,supplies
+305884,isolation gown yellow - medi,1,supplies
+305885,isolation gown yellow 10pc/pk,1,supplies
+305886,isolation gown yellow/1opc/pk,1,supplies
+305887,"isolation gown, yellow",1,supplies
+305888,"isolation gown, yellow size large",1,supplies
+305889,isolation icu,1,consultation
+305890,isolation icu per day,1,consultation
+305891,isolation intermedate care 24 hours,1,other
+305892,isolation package per day,1,other
+305893,isolation room,2,consultation
+305894,isolation room (add on,1,consultation
+305895,isolation room (dr. visit + nursing care+bed charge+ daily disposables,1,supplies
+305896,"isolation room (including accomodation, board & bed",1,supplies
+305897,"isolation room (including accomodation, board and bed",1,supplies
+305898,isolation room (per day,1,consultation
+305899,isolation room (per day) (special nurse & barrier nurse are included,1,consultation
+305900,isolation room - 229,1,consultation
+305901,isolation room / day (icu - nicu,1,consultation
+305902,isolation room / day (ward,1,consultation
+305903,isolation room accomodation,1,consultation
+305904,isolation room disposable,1,supplies
+305905,isolation room fee,1,consultation
+305906,"isolation room in (picu) (ventilator,.cardiac monitoring ,o2",1,supplies
+305907,isolation room per day,3,consultation
+305908,isolation room per day q1004,1,consultation
+305909,isolation room rate,1,consultation
+305910,isolation room-bed only,1,supplies
+305911,isolation room-per diem - 1-3 days (202018-a,1,consultation
+305912,isolation room-per diem - >8 days (202018-c,1,consultation
+305913,isolation room/day,1,consultation
+305914,isolation services charge,1,consultation
+305915,"isolation supplement, per day",1,other
+305916,isolation technique,1,other
+305917,isolation yellow gown size= large 10pc/pack,1,supplies
+305918,isolation/consumable&disposable/day,1,supplies
+305919,isolette incubator/day -pc,1,other
+306102,isolone20mg,1,other
+306103,isolone5mg,1,other
+306113,isoniazid 100m 100tab,1,other
+306139,isoprophyl alcohol 70%,1,other
+306142,isopropyl alchol70% 5ltr,1,other
+306143,isopropyl alcohol,1,other
+306144,isopropyl alcohol 70%,2,other
+306147,isopropyl alcohol 70% swabs,1,other
+306148,isopropyl alcohol.bp-99% (lab,1,eyewear
+306150,isoproterenol 0.2mmg/ml,1,other
+306284,isosit veneer crown,1,dental
+306285,isosorbide dinitrate,1,other
+306293,isosorbide dinitrate - isobide 20,1,other
+306296,isosorbide dinitrate 20 /mg,1,other
+306317,isosorbide dinitrate sublingual,1,other
+306331,isosource stnd fiber 12x500 ml,1,other
+306336,isotope renal scan and g.f.r,1,imaging
+306337,isotope scan follow-up study,1,imaging
+306338,isotretinoin,1,other
+306371,"ispaghula husk, ispaghula seed, tinnevelly senna pods",1,other
+306372,ispaghula husk|ispaghula seed|tinnevelly senna pods,1,other
+306373,"ispaghula seed,tinnevelly senna pods,ispaghula hus",1,other
+306374,"ispaghula seed,tinnevelly senna pods,ispaghula husk",1,other
+306377,ispaghula seedtinnevelly senna podsispaghula husk,1,other
+306381,it.independent opt 5315 ful mtl 53 075-gls slv m,1,eyewear
+306382,italian independent,1,other
+306383,italy g2,2,other
+306384,italy xx 12,1,other
+306385,italy g1,1,other
+306387,italy g3,1,other
+306388,italy g5,1,other
+306389,italy hh65,1,other
+306390,italy uu 77,1,other
+306391,italy yy11,1,other
+306392,italy yy22,1,other
+306393,italy yy33,1,other
+306394,itb strap with silicone insert - (ms,1,supplies
+306395,ite 15 6 67 mild to severe,1,other
+306396,item alpha cade,1,other
+306403,items used in dr,1,other
+306404,items used in nicu,1,consultation
+306405,itermittent urinary cath,1,supplies
+306406,itopeine iv,1,supplies
+306407,itrac service,1,other
+306408,itrace service,1,other
+306409,itraconazole,2,other
+306544,itrazol 15cap,1,other
+306545,itrazol 4cap,1,other
+306559,iucd extraction,1,dental
+306560,iucd from dispensary,1,other
+306561,iucd insertion,1,procedure
+306562,iucd insertion (ordinary ) procedure only,1,procedure
+306564,iucd insertion fee,1,procedure
+306565,iucd insertion in clinic (patient getting iucd personally,1,procedure
+306566,iucd insertion in theatre,1,procedure
+306567,iucd insertion under g.a,1,procedure
+306568,iucd insertion تركيب لولب,1,procedure
+306569,iucd intrauterine contraceptive device - insertion,2,procedure
+306571,iucd intrauterine contraceptive device - removal,2,procedure
+306573,iucd insertion in theatre (with g.a,1,procedure
+306574,iucd loop copper 380ag,1,other
+306575,iucd loop novaplus copper,1,other
+306576,iucd removal,2,procedure
+306577,iucd removal in theatre with g.a,1,procedure
+306578,iucd removal pacage,1,procedure
+306580,iucd removal (out patient,1,procedure
+306581,iucd+fixation (copper,1,procedure
+306582,iud,1,other
+306583,iud - novati,1,other
+306584,iud application without loop price,1,consultation
+306585,iud application loop,1,other
+306586,iud extraction,1,dental
+306587,iud insertion,1,procedure
+306589,iud insertion (ordinary ) w/o iud,1,procedure
+306590,iud insertion (ordinary ) with iud,1,procedure
+306591,iud insertion (with iud,1,procedure
+306592,iud insertion (without iud,1,procedure
+306593,iud insertion ex price of coil,1,procedure
+306594,iud insertion with device,1,procedure
+306595,iud insertion with other procedure under ga,1,procedure
+306596,iud implanon removal,1,procedure
+306597,iud insertion - excluding iud,1,procedure

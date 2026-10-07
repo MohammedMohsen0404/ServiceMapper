@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+194842,electromagnetic therapy session,2,physiotherapy
+194843,electromanetic field,1,other
+194844,electromanetic field (temporary cod,1,other
+194845,electromanetic therapy,1,physiotherapy
+194846,electromayography (emg,1,diagnostic
+194847,electromayography (emg) for 8 nerves,1,diagnostic
+194848,electromiogram -emg (nerve conduction study,1,diagnostic
+194849,electromiogram -emg (nerve conduction study) - 002-70199,1,diagnostic
+194850,electromyogram,1,other
+194851,electromyography ( emg,2,diagnostic
+194853,electromyography (e.m.g,1,lab_test
+194854,electromyography (e.m.g).+ nerve conduction study,1,consultation
+194855,electromyography emg,1,diagnostic
+194856,electromyography nerve stem,1,supplies
+194857,electromyography per muscle,1,other
+194858,electromyography [emg,3,diagnostic
+194859,electron microscope study for renal tissue,1,consultation
+194860,electron microscope( so,1,other
+194861,electron microscopy,1,procedure
+194862,electron microscopy - s.o,1,procedure
+194863,electronic analysis of crt-d,1,procedure
+194864,electronic analysis of pacemaker,1,supplies
+194865,electronic analysis with reprograming,1,procedure
+194866,"electronic analysis, programmable pump, w/ reprogramming",1,supplies
+194867,"electronic analysis, programmable pump, w/o reprogramming",1,supplies
+194868,electronic blood pressuer device,1,lab_test
+194869,electronic device interrogation (limited study,1,consultation
+194870,electronic monitoring,2,consultation
+194871,electronic monitoring (or,2,consultation
+194872,electronic monitoring - per day,1,consultation
+194873,electronic monitoring devices (per day,1,consultation
+194874,electronystag mography [eng] / videonystygmog raphy (vng,1,other
+194875,electronystagmography,1,other
+194876,electronystagmography + calorics,1,other
+194877,electronystagmography [eng,2,other
+194878,electronystamography -eng,1,other
+194879,electrophoresis (hemoglobin,1,lab_test
+194880,electrophoresis - hemoglobin,2,lab_test
+194882,electrophoresis - protein,2,lab_test
+194884,electrophoresis haemoglobin,2,lab_test
+194885,electrophoresis haemoglobin(n/a)-(n/a,1,lab_test
+194886,electrophoresis haemoglobin-5-1-120311,1,lab_test
+194887,electrophoresis lipoprotein,1,lab_test
+194888,electrophoresis protein-serum,1,lab_test
+194889,"electrophoresis, haemoglobin",1,lab_test
+194890,"electrophoresis, hgb",1,lab_test
+194891,"electrophoresis, serum protein",1,lab_test
+194892,electrophoresis: hemoglobin,1,lab_test
+194893,electrophoresis: protein,1,lab_test
+194894,electrophysiological evaluation/ ablation & 3d mapping (w/o implant,1,supplies
+194895,electrophysiological evaluation/ ablation & 3d mapping for atrial fibrillation /atrial flutter (w/o implant,1,supplies
+194896,electrophysiological evaluation/ svt ablation & accessory pathway (w/o implant,1,supplies
+194897,electrophysiological study & therapeutic ablation -c37.31,1,procedure
+194898,electrophysiological study - 2 days pkg,1,consultation
+194899,electrophysiological study diagnostic,1,consultation
+194900,electrophysiological study with ablation - 3 days pkg,1,procedure
+194901,electrophysiology studies(eps) with ablation,1,procedure
+194902,electrophysiology study & radio frequncy ablation (eps & rfa,1,procedure
+194903,electrophysiology study (eps,1,consultation
+194904,electrophysiology study ablation procedure,1,procedure
+194905,electrophysiology study w/out ablation-1day pkg,1,procedure
+194906,electrophysiology study with ablation- 2days pkg,1,procedure
+194907,electrophysiology study/ rf ablation,1,lab_test
+194908,electroretinogram,2,other
+194909,electroretinography c interpretation and report,1,other
+194910,electrorush,1,other
+194913,electrorush apple,1,other
+194914,electrorush apple 200,1,other
+194927,electrorush ors salts (not covered,1,other
+194933,electrorush salts,2,other
+194935,electrorush-pro 10 billion,1,other
+194936,"electrosur.bipolar cable sz:3m, er1417",1,supplies
+194937,electrosurg patient plate w/ cord,1,supplies
+194938,"electrosurgical adult pad/cord#sy-mw2 / , electrode patient return shuyou",1,supplies
+194939,"electrosurgical adult pad/cord#sy-mw2,shuyou",1,supplies
+194940,electrosurgical patient plate (pedia) mono polar,1,eyewear
+194941,electrosurgical pencil e2515 valleylad,1,other
+194942,electrosurgical pencil hand-controlled sterile disposable,1,supplies
+194943,electrosurgical plate mono (type 1,1,eyewear
+194944,electrosurgical tip cleaner,1,other
+194945,electrotheraphy set,1,other
+194946,electrotherapy,2,other
+194947,"electrotherapy (galvanic ,farad",1,other
+194948,"electrotherapy (galvanic, farad",1,other
+194949,electrotherapy - faradic current stimulator,1,other
+194950,electrotherapy - tens,1,physiotherapy
+194951,electrotherapy 6 sessions,1,physiotherapy
+194952,electrotherapy faradic current stimulator,1,other
+194953,"electrotherapy of lesion of skin, multiple lesions",1,other
+194954,"electrotherapy of lesion of skin, single lesion",2,other
+194955,electrotherapy of single skin lesion,2,other
+194956,"electrotherapy of skin lesions, <15 lsn",2,other
+194957,"electrotherapy of skin lesions, >=15 lsns",2,other
+194958,electrotherapy session,2,physiotherapy
+194959,electrotherapy tens,1,physiotherapy
+194960,electrotherapy(galvanic farad,1,other
+194961,electrotherapy- faradic current stimulator,1,other
+194962,electrotherapy- galvanic current,1,other
+194963,electrotherapy- mechanical vibator,1,other
+194964,electrotherapy- tens,1,physiotherapy
+194965,electrotherapy-addl 1 area,1,other
+194967,electrotherapy/add'l. 1 area / session,1,physiotherapy
+194968,electrotherapy/add'l. 2 area / session,1,physiotherapy
+194969,electrotherapy/add'l. >2 area / session,1,physiotherapy
+194970,electrotherapy/add/'l,1,other
+194971,electrotherapy/addl. 2 area,1,other
+194972,electrotherapy/addl. >2 area,1,other
+194973,electyrocuatery/cryocautery-extra 1,1,other
+194974,elefant suction irrigation cannula # asp165,1,supplies
+194975,elegance diaper,1,supplies
+194976,elegance diaper 1x10 pads,1,supplies
+194977,elegance diaper 2 pads,1,supplies
+194978,elegance jumbo large 18 dpr,1,other
+194979,elegance jumbo medium 18 dpr,1,other
+194980,elegant,2,eyewear
+194981,elegant - el2111,1,eyewear
+194982,elegant - el243,1,eyewear
+194983,elegant - el3016,1,eyewear
+194984,elegant - el5033,1,eyewear
+194985,elegant - el5040,1,eyewear
+194986,elegant - el89074,1,eyewear
+194987,elegant - el90016,1,eyewear
+194988,elegant - eleg199,1,eyewear
+194989,elegant - eleg259,1,eyewear
+194990,elegant 1,1,eyewear
+194991,elegant 2,1,eyewear
+194992,elegant 3,1,eyewear
+194993,elegant fr 1887,1,eyewear
+194994,elegant fr 70127,1,eyewear
+194997,elegant frm,1,eyewear
+194998,elegant frm 006 c1,1,eyewear
+194999,elegant frm 006 c2,1,eyewear
+195000,elegant frm 006 c4,1,eyewear
+195001,elegant frm 006 c5,1,eyewear
+195002,elegant frm 1609 c1,1,eyewear
+195003,elegant frm 1609 c2,1,eyewear
+195004,elegant frm 1609 c6,1,eyewear
+195005,elegant frm 2037 c:g,1,eyewear
+195006,elegant frm 2064 c5,1,eyewear
+195007,elegant frm 420 c:bl1,1,eyewear
+195008,elegant frm 420 c:br,1,eyewear
+195009,elegant frm 420 c:m,1,eyewear
+195010,elegant frm 5015 c2,1,eyewear
+195011,elegant frm 7071 c6,1,eyewear
+195012,elegant frm 912 c3,1,eyewear
+195013,elegant frm el1007,1,eyewear
+195014,elegant frm el1017,1,eyewear
+195015,elegant frm p8502 c3,1,eyewear
+195016,elegant kids frm 1154 c1,1,eyewear
+195017,elegant kids frm 1253 c6,1,eyewear
+195018,elegant op,1,eyewear
+195020,elemental phosphate / sodium phosphates (3mm p /ml,1,lab_test
+195021,elements,1,other
+195022,elestrical hospital bed 4 moving,1,supplies
+195023,eletriptan,1,other
+195024,eletriptan (as hydrobromide,1,other
+195031,eletriptan hydrobromide,1,other
+195036,eleva 22,1,other
+195037,eleva 411,1,other
+195038,"elevation depressed skull fx compound,extradural",1,other
+195039,"elevation depressed skull fx simple,extradural",1,other
+195040,elevation of depressed skull fracture,1,other
+195041,elevation of skull fracture fragments->c02.02,1,other
+195042,elevation of spinal bone fragments->c03.53-c,1,imaging
+195043,elevenparis,1,other
+195044,elevenparis - el-aa112-f,1,other
+195045,elevenparis - el-aa114-f,1,other
+195046,elevenparis - el-am014-f,1,other
+195047,elevenparis- el-mm010-f,1,other
+195048,elevenparis- ep-aa119-f,1,other
+195049,elevit pronatal,2,other
+195051,elevit pronatal 30tabs,1,other
+195058,elferrol/365days/d01-33183/y02,1,other
+195059,elferrol/el6117/q02/53/f,1,other
+195060,elferrol/el6117/y01/53/f,1,other
+195061,elferrol/el6120/q02/53/f,1,other
+195062,elferrol/el6120/y02/53/f,1,other
+195065,elham mostapha mahmoud barakat,1,other
+195066,elhamy abdelrahman darwish,1,other
+195067,elhany abdelrahman darwish,1,other
+195569,elicasal oit,1,other
+195576,elicterical cautery( under local,1,procedure
+195577,elictric cutary (one side) la,1,supplies
+195610,elidel 1% cream1%cream30gtube1,1,other
+195624,elife abdominal binder 3 panel size xxl,1,lab_test
+195633,elipes balloon insertion - pkg,1,supplies
+195738,elisa,1,other
+195739,elisa antinuclear antibody (ana,1,lab_test
+195740,elite,1,other
+195741,elite burs 4.0mm round diamon,1,other
+195744,elite medi br,1,other
+195745,elive,1,other
+195749,elizarof fixation with osteotomy of tibia,1,procedure
+195751,elle frm mod el001,1,eyewear
+195752,elle lar 1108 53 c75 male,1,other
+195753,ellen frm,1,eyewear
+195754,ellen frm 310 c1,1,eyewear
+195755,ellen frm 329 c2,1,eyewear
+195756,ellen frm 329 c5,1,eyewear
+195757,ellen frm 402 c4,1,eyewear
+195758,ellen frm 402 c6,1,eyewear
+195759,ellen frm 404 c1,1,eyewear
+195760,ellen frm 404 c10,1,eyewear
+195761,ellen frm 404 c11,1,eyewear
+195762,ellen frm 404 c4,1,eyewear
+195763,ellen frm 404 c7,1,eyewear
+195764,ellen frm 406 c1,1,eyewear
+195765,ellen kids frm,1,eyewear
+195766,ellen kids frm 209 c1,1,eyewear
+195767,ellen kids frm 209 c2,1,eyewear
+195768,ellen kids frm 209 c6,1,eyewear
+195769,ellen kids frm 209 c9,1,eyewear
+195770,ellen kids frm 211 c1,1,eyewear
+195771,ellequttro,1,other
+195772,ellite,1,other
+195786,elnova lumbo sacral corset,1,supplies
+195787,elo high conc non-breath mask,1,supplies
+195788,elo-pm(esquisse) daphnee 52 7140,1,other
+195811,elocom 0.1% oint30g,1,other
+195847,elocom%200.1%25%20lotion,1,other
+195848,elocom%200.1%25%20ointment,1,other
+195852,elocta 1000 antihemophilic factor viii (recom) pf,1,lab_test
+195858,elocta 500 antihemophilic factor viii (recom) pf 5,1,lab_test
+195865,elongation of tendo achilles (unilateral,1,other
+195866,elongation of tendon achilles,1,other
+195904,elreamica 0.1% c,1,other
+195906,elsayed awni abdelhamid abouhamda,1,other
+195909,elsayed moustafa alya,1,other
+195911,elsemani widaa mohamme,1,other
+195912,elstic bandage (big,1,supplies
+195913,eltayeb a rhman sulima,1,other
+196075,elegant s/g strass 450 sr,1,eyewear
+196077,em ar-3003-femporio armani,1,eyewear
+196078,em-bi-im1-001/0 - 4 sph 0 - 2 cyl,1,eyewear
+196079,em-bi-im1-003/4 - 6 sph 2.25 - 4 cyl knifedge,1,eyewear
+196080,em03 hh 48-19,1,other
+196081,"ema,epithelial membrane antigen",1,lab_test
+196082,emad abdelwahab turky,2,other
+196083,emad eldin abdelkhalek abotaleb,2,other
+196085,emad eldinmorsy,1,other
+196087,emad labib abdelhamid mahmoud,1,other
+196088,emadeldin mahmoud nawar nawar,1,other
+196089,eman abdelaziz morsy abdelsalam,2,other
+196090,eman abdulbari mazi,1,other
+196091,eman alhamlah,1,other
+196092,eman fawzy amen kilany,1,other
+196093,eman hamdy abdelaziz elmogy,1,other
+196094,eman hassan hassan,1,other
+196096,eman mohamadal nefawi,1,other
+196098,eman musfer al humlah,1,other
+196099,eman nasralden abdalmonem almahdy,1,other
+196100,eman sabri abdelfattah ghazi,1,other
+196260,emanual ungaro emanual70111 53 003,1,other
+196261,emanuel ungaro-r,1,other
+196262,emar-3205-f-emporioarmani,1,other
+196263,emax crown,2,dental
+196266,emboilectomy for limb ischemia,1,procedure
+196267,embolectomy,2,procedure
+196268,embolectomy -1day pkg,1,procedure
+196269,embolectomy cath ch3 1601-38,1,supplies
+196270,embolectomy cath ch6 80cm 1601,1,supplies
+196271,embolectomy cath ch7 1601-78,1,supplies
+196272,embolectomy cath f3 1651-38,1,supplies
+196273,embolectomy cath f4 1651-48,1,supplies
+196274,embolectomy cath f5 1651-88,1,supplies
+196275,embolectomy cath f6 1651-68,1,supplies
+196276,embolectomy cath f7 1651-78,1,supplies
+196277,embolectomy catheter single lumen diff.size,1,supplies
+196278,embolectomy femoral artery,1,procedure
+196279,embolectomy femoral brachial,1,procedure
+196280,embolectomy for limb ischemia,2,procedure
+196281,embolectomy for limb ischemia medgulf,1,procedure
+196282,"embolectomy lower limb arteries (femoral, poplitea->c38.08",1,procedure
+196283,embolectomy or thrombectomy of carotid artery,1,procedure
+196284,embolectomy or thrombectomy of femoral artery,1,procedure
+196285,embolectomy or thrombectomy of iliac artery,1,procedure
+196286,embolectomy or thrombectomy of popliteal artery,1,procedure
+196287,embolectomy popletial,1,procedure
+196288,embolectomy thrombectomy tibial artery uni,1,procedure
+196289,embolectomy upper limb brachial artery,1,procedure
+196290,"embolic, protection system, emboshield nav, 22443-19",1,other
+196291,embolization,1,procedure
+196292,embolization trans catheter therapy by interventional radiologist (without consumables) - 2 days pkg,1,physiotherapy
+196293,embolization - peripheral arteries vein-pkg,1,procedure
+196294,embolization - tract for post biopsy,1,procedure
+196295,embolization first series,1,procedure
+196296,embolization first series + guiding cathers + wires + high flow catheter + embolization material ( p,2,supplies
+196298,embolization head and neck,1,procedure
+196301,embolization spring coil,1,procedure
+196302,embolization trans catheter theraphy,1,supplies
+196303,embolization trans. catheter theraphy-pkg,1,supplies
+196304,embolization uterine fibroid-pkg,1,procedure
+196305,"embolization, splenic artery",1,procedure
+196306,embolization- peripheral arteries vein malformation,1,procedure
+196307,embolization- peripheral arteries vein malformation by interventional radiologist - 3 days pkg,1,procedure
+196308,embolization- tract for post biopsy,1,procedure
+196309,embolization- uterine fibroid by interventional radiologist- 3 days pkg,1,procedure
+196310,embolization-periph. art. vein malformation,1,procedure
+196312,embosohere 300-500,1,other
+196313,emcast,1,other
+196411,emcast0g,1,other
+196499,emegency cpr by a team of doctors(code b,1,other
+196500,emergancy specialaists fee,2,consultation
+196502,emergecny room services,1,consultation
+196503,emergency,1,other
+196504,emergency pulp treatment,3,dental
+196505,emergency 3d u/spregnantno follow up,1,consultation
+196506,emergency ambulance service for a patient on non- acute life support,2,supplies
+196507,emergency ambulance service for oxygen for acute or basic life support services,1,supplies
+196508,emergency central catheter insertion,1,supplies
+196509,emergency cons,2,consultation
+196511,emergency consultation,3,consultation
+196512,emergency consultation (ctas level 4 or 5,1,lab_test
+196513,emergency consultation -er,1,consultation
+196514,emergency cpr by a team of doctors(code,1,other
+196515,emergency defibrillation,1,procedure
+196516,emergency dental treatment (tooth ache,1,dental
+196517,emergency dental treatment (tooth ache) # 136-9110,1,dental
+196518,emergency dental treatment (tooth ache) - 136-9110,1,dental
+196519,emergency department assessment,1,consultation
+196520,"emergency dept visit, evaluation & management patient; low to moderate severity- er specialist",1,consultation
+196521,emergency doctor,1,consultation
+196522,emergency doctor fee,1,consultation
+196523,emergency doctor fee(specialist,1,consultation
+196524,emergency doppler study,1,imaging
+196525,emergency draining through tooth,2,dental
+196526,emergency draining through tooth/devitalizing,1,dental
+196527,emergency draining thru,1,other
+196528,emergency echocardiogram study,1,consultation
+196529,emergency emergency emergency,1,other
+196530,emergency fee,1,consultation
+196531,emergency ls cesarian section,1,other
+196532,emergency medicine charge,1,consultation
+196533,"emergency normal vaginal delivery , envd",1,procedure
+196534,emergency observation room,1,consultation
+196535,emergency observation room - more than 6 hour,1,consultation
+196536,emergency oral consultation,1,consultation
+196537,emergency pulmonary function test (portable / disposable) device,1,lab_test
+196538,emergency pulp extirpation,1,dental
+196540,emergency rapid response,1,other
+196541,emergency rapid response- code 20,1,other
+196542,emergency rct w/filling,1,dental
+196543,emergency room,1,consultation
+196544,emergency room - hourly rate excluding consumables,2,consultation
+196545,emergency room - hourly rate including consumables,3,consultation
+196546,emergency room - hourly rate-less than 6 hours,1,consultation
+196547,emergency room charg. -3-90-90001,1,consultation
+196548,emergency room fee,3,consultation
+196549,emergency room fees,1,consultation
+196550,emergency room fees for observation,1,consultation
+196551,emergency room fees for observation (1 hour,1,consultation
+196552,emergency room fees for observation (1-3 hours,1,consultation
+196553,emergency room fees for observation up to 4 hours,1,consultation
+196554,emergency room fees(10120,1,consultation
+196555,emergency room service,1,consultation
+196556,emergency room- hourly rate-6-12 hour,1,consultation
+196557,emergency room- observation room / hour,1,consultation
+196558,emergency services consultations,1,other
+196559,emergency specialist,2,consultation
+196560,emergency treatment + temp filling ???? ?????,1,dental
+196561,emergency ultra sound,1,imaging
+196562,emergency ultrasonography- 1 region,1,imaging
+196563,emergency visit - level 1,1,lab_test
+196564,emergency visit - level 2,1,lab_test
+196565,emergency visit - level 3,1,lab_test
+196566,emergency visit - level 4,1,lab_test
+196567,emergency visit - level 5,1,lab_test
+196568,emergency visit for specialist in makkah,1,consultation
+196569,emergency.con. consultant,1,consultation
+196570,emergency.con. specialist a,1,consultation
+196571,emergency.con.specialist b,1,consultation
+196572,emergent bilevel positive pressure airway ventilation / i.c.u. / day,1,supplies
+196573,emergent mechanical thrombectomy for right atrial clot and massive pulmonary embolism,1,procedure
+196574,emg,2,diagnostic
+196575,emg portable,1,diagnostic
+196576,emg & ncv - electromyogram & nerve conduction velocity,2,diagnostic
+196578,emg & ncv to one limb,1,diagnostic
+196579,emg (electro myography,1,diagnostic
+196580,emg (upper or inf limbs) with quantitative comput analysis => 4 nerves,1,diagnostic
+196581,emg - electromyogram,1,diagnostic
+196582,emg 1 extremity,1,diagnostic
+196583,emg 1 rue,1,diagnostic
+196584,emg 2 extremities,2,diagnostic
+196586,emg 2 extremity,1,diagnostic
+196587,emg 2 lue,1,diagnostic
+196589,emg 3 extremities,1,diagnostic
+196590,emg 3 rle,1,diagnostic
+196592,emg 4 extremities,1,diagnostic
+196593,emg 4 lle,1,diagnostic
+196595,emg all extremities,1,diagnostic
+196598,emg and ncv 4 untis,1,diagnostic
+196599,emg comp. 2 nurse,1,diagnostic
+196600,emg computerized,1,diagnostic
+196601,emg electrodes core 9106,1,dental
+196602,emg electromyogram,1,diagnostic
+196603,emg electromyography of anorectum,1,diagnostic
+196604,emg face - 1 side,1,diagnostic
+196605,emg face two sides,1,diagnostic
+196606,emg face/facial nrv. - 2 sides,1,diagnostic
+196607,emg lumbar area & 1 leg,1,diagnostic
+196608,emg lumbar area & 2 legs,1,diagnostic
+196609,emg ncs,1,diagnostic
+196610,emg neck area & 1 arm,1,diagnostic
+196611,emg neck area & 2 arms,1,diagnostic
+196612,emg neck area 1 arm,1,diagnostic
+196613,emg one limb,1,diagnostic
+196614,emg one unit or ncs,1,diagnostic
+196615,emg sampling,1,diagnostic
+196616,emg _ mcv,1,diagnostic
+196617,emg(electromyography,1,diagnostic
+196619,"emg, needle, 1 extremity w/ related paraspinal areas",1,diagnostic
+196620,"emg, needle, 1 extremity w/o related paraspinal areas",1,diagnostic
+196621,"emg, needle, facial nerve",1,diagnostic
+196622,"emg-ncv, electromyography-nerve conduction velocity: extensive",1,diagnostic
+196623,"emg-ncv, electromyography-nerve conduction velocity: limited",1,diagnostic
+196624,emg-portable,1,diagnostic
+196673,emicizumab,1,other
+196878,emifen oral susp100ml,1,other
+196881,emifenac,1,other
+196885,emifenac -d 5o mg,1,other
+196886,emifenac -d 5o mg 1,1,other
+196887,emifenac 50 d 20tab,1,other
+196890,emifenac 50 dt,3,other
+196891,emifenac 50 dt 20 atb,1,other
+196894,emifenac 50 dt 20tab,1,other
+196984,emifenac 50dt 20tab,1,other
+197055,emifenac-d 20tab,2,other
+197069,emifenac-d 50mgtab( tier1,1,insurance
+197073,emifenac-d(20tab,1,other
+197241,emilio - puc2662c004,1,other
+197243,emilio pucci/ep2137/16604/f,1,other
+197244,emilio pucci/ep2137/16705/f,1,other
+197245,emilio pucci/ep2142/15045/f,1,other
+197246,emilio pucci/ep2148/757/f,1,other
+197247,emilio pucci/ep2646/15006/f,1,other
+197248,emilio pucci/ep2646/15207/f,1,other
+197249,emilio pucci/ep2646/15424/f,1,other
+197250,emilio pucci/ep2646/15539/f,1,other
+197251,emilio pucci/ep2666/15539/f,1,other
+197252,emilio pucci/ep2667/16001/f,1,other
+197253,emilio pucci/ep2667/16462/f,1,other
+197254,emilio pucci/ep2668/17004/f,1,other
+197255,emilio pucci/ep2668/17103/f,1,other
+197256,emilio pucci/ep2668/17400/f,1,other
+197257,emilio pucci/ep2669/14602/f,1,other
+197258,emilio pucci/ep2693/15216/f,1,other
+197259,emilio pucci/ep2693/15455/f,1,other
+197260,emilio pucci/ep2693/15601/f,1,other
+197261,emilio pucci/ep2710/001/f,1,other
+197262,emilio pucci/ep2711/001/f,1,other
+197268,emimy,1,other
+197270,emimycin 500,1,other
+197305,emipl-0001/0 - 4 sph 0 - 2 cyl,1,eyewear
+197306,emipl-0003/4 - 6 sph 2.25 - 4 cyl knifedge,1,eyewear
+197307,emipl-0004/4 - 10 sph 0 - 2 cyl,1,eyewear
+197308,emipl-0005/4 - 10 sph 2.25 - 6 cyl,1,eyewear
+197313,emlolectomy for limb ischemia,1,procedure
+197316,emni sure,1,other
+197471,empagliflozinmetformin hydrochloride,1,other
+197475,empcellin,1,other
+197476,emperio armani,1,eyewear
+197479,empero arman,1,other
+197481,employees routine check-up,1,other
+197482,employment checkup,1,consultation
+197483,empori armani/1047/3001/f,1,eyewear
+197484,emporio armani,3,eyewear
+197485,emporio armani ea.3005 5084 53,1,eyewear
+197487,"emporio armani , ea3174 , 5042 , 52",1,eyewear
+197488,emporio armani 227,1,eyewear
+197489,emporio armani 3001-5071 50 c43 male,1,eyewear
+197490,emporio armani 3013-5106 52 c14 male,1,eyewear
+197491,emporio armani 3052-5352 51 c43 male,1,eyewear
+197492,emporio armani 3065-54-5378 54 c30 unisex,1,eyewear
+197493,emporio armani 3098 53/18 5378,1,eyewear
+197494,"emporio armani 3165, 53 , 5001 fr",1,eyewear
+197495,emporio armani 3168 52/20 5001,1,eyewear
+197496,emporio armani 4058 58 5064 73,1,eyewear
+197497,emporio armani arma9282/s 99-95 fae,1,eyewear
+197498,emporio armani arma9315 50-17 pfc,1,eyewear
+197499,emporio armani arma9335/s 99-95 puk,1,eyewear
+197500,emporio armani arma9338/s 99-dl j5g,1,eyewear
+197501,emporio armani arma9355/s 99-o0 003,1,eyewear
+197502,emporio armani arma9477/s 99-jn 000,1,eyewear
+197503,emporio armani clip-on 4115/52/5853/1w,1,eyewear
+197504,emporio armani clip-on 4115/54/5759/1w,1,eyewear
+197505,emporio armani clip-on 4115/54/5802/1w,1,eyewear
+197506,emporio armani clip-on 4115/54/5854/1w,1,eyewear
+197507,emporio armani clip-on 4152/52/5042/1w,1,eyewear
+197508,emporio armani clip-on 4189/55/5001/1w,1,eyewear
+197509,emporio armani clip-on 4189/55/5060/1w,1,eyewear
+197515,emporio armani e3013,1,eyewear
+197516,emporio armani e9679,1,eyewear
+197517,emporio armani ea 1052,1,eyewear
+197518,emporio armani ea.8178 51 gun,1,eyewear
+197519,emporio armani ea10143001,1,eyewear
+197520,emporio armani ea10373116 51 c99 male,1,eyewear
+197521,emporio armani ea10413131,1,eyewear
+197522,emporio armani ea1046 3003 55,1,eyewear
+197523,emporio armani ea10613014,1,eyewear
+197524,emporio armani ea10663208,1,eyewear

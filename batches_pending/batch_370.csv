@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+575279,tracheostomy under g.a,1,procedure
+575280,"tracheostomy, insertion planned (in er",1,procedure
+575281,"tracheostomy, insertion planned (sep proc",1,procedure
+575282,"tracheostomy, intc",1,procedure
+575283,"tracheostomy, majc",1,procedure
+575284,"tracheostomy, minc",1,procedure
+575285,"tracheostomy, planned (separate procedure",2,procedure
+575286,"tracheostomy, tube care",1,supplies
+575287,"tracheostomy, tube care per day",1,supplies
+575288,"tracheostomy, tube insertion",1,supplies
+575289,tracheostomy-(o.r,1,procedure
+575290,tracheostomy-5 days pkg,1,procedure
+575291,tracheostomy->c31.1,1,procedure
+575292,tracheostomytcs,1,other
+575293,tracheostomytube cuffed fenestrated (size 6 or 7 or 8) - per each,1,supplies
+575294,tracheostomy tube care in icu,1,supplies
+575295,tracheotomy,1,procedure
+575296,tracheotomy care,1,procedure
+575297,trachestomy tube cuffed 8mm #100/800/080,1,supplies
+575298,"trachi foam cmporesses, nonwoven dobul layer with slit, 10x10cm (surgicare) # 687243",1,other
+575299,trachial intubation,1,procedure
+575300,trachoestomy filter medisize climatrach w/valve 02 hme#1874,1,supplies
+575301,trachoestomy tube change in or,1,supplies
+575302,trachoma p.t.d.s. scrapping,1,lab_test
+575303,trachostomy emergency procedure,1,procedure
+575304,trachostomy er procdure,1,procedure
+575305,tracoe twist fenestrated tracheostomy tube w/ low-pressure cuff (size 6 or 7 or 8) - per pcs,1,supplies
+575306,tracoe-tracheostomy tube with cuff 8 mm xl,1,supplies
+575310,tracon 100,1,other
+575315,tracon 100 15cap,1,other
+575317,tracon 100 4cap,1,other
+575534,tracon100 itraconazole 15caps,1,other
+575535,tracon100mg 15cap,1,other
+575536,"tracport thread cannula 8x70mm (catalog no. 810700900), , 810700900",1,supplies
+575537,tracport thread cannula 8x70mm - rejoin china #810700900,1,supplies
+575543,traction,2,procedure
+575544,traction mechanical,1,procedure
+575545,traction & heat application / session,1,physiotherapy
+575546,traction (cervical or lumber,2,imaging
+575547,traction (mechanical - cervical or lumbar,1,imaging
+575548,traction - op,1,procedure
+575549,traction - skin,1,procedure
+575550,traction /session,1,physiotherapy
+575551,traction and heat application /session,1,physiotherapy
+575552,traction and heat application per session,1,physiotherapy
+575553,traction and heat application sess,1,procedure
+575554,traction and heat application/session,1,physiotherapy
+575555,traction cervical,1,imaging
+575556,traction cervical one session,1,imaging
+575557,traction kit skin adult adhesive,1,supplies
+575558,traction limbar +i.r,1,procedure
+575559,traction lumbar,1,procedure
+575560,traction manual,1,procedure
+575561,traction not elsewhere classified,2,procedure
+575562,traction per session (inpatient,1,physiotherapy
+575563,traction process of cleaning the wounds,1,procedure
+575564,traction session,1,physiotherapy
+575565,traction unit,1,procedure
+575566,"traction, mechanical",1,procedure
+575567,"traction, not elsewhere classified",2,procedure
+575598,trade mill exercise test (stress test,1,lab_test
+575599,traetment/observation room fees,1,consultation
+575600,training multiple joints,1,other
+575601,training one joint,2,supplies
+575602,training program for parents,1,other
+575603,training session / 2-3 time week,1,physiotherapy
+575604,training session by speech doctor,1,physiotherapy
+575605,training session by speech doctor ( 3 sessions,1,physiotherapy
+575606,training session/2-3times/week,1,physiotherapy
+575607,"training skills, chest physiotherapy, nebulization & incentive spirome",1,physiotherapy
+575608,"traithlon cemented stem, 12mm x50mm",1,supplies
+575609,traithlon post stabilized femoral size 3 ps left 5515-f-301,1,other
+575610,"traithlon post stabilized femoral size 3 ps right (catalog number=5515-f-302),stryker , 5515-p",1,other
+575611,"traithlon post stabilized femoral size 5 ps left , 5515-f-501 ,stryker , 5515-f-501",1,other
+575612,"traithlon post stabilized femoral size4 ps left , 5515-f-401 stryker",1,other
+575613,traithlon post stabilized stryker #5515-f-301,1,other
+575614,traithlon primary tibial base plate size 3 5520-b-300,1,supplies
+575615,"traithlon primary tibial base plate size3 , 5520-b-300 / p0700400485 ,stryker , 5520-b-300",1,supplies
+575616,"traithlon primary tibial base plate size3 , 5520-b-300 / p0700400485 stryker",1,supplies
+575617,"traithlon x3 tibial bearing insert ps size 3/11 , 5532-g-409",1,other
+575618,"traithlon x3 tibial bearing insert ps size 3/9 , 5532-g-309 ,stryker , 5532-g-309",1,other
+575619,traithlon x3 tibial bearing insert ps size 3/9 5532-g-309,1,other
+575625,trajenta 5,1,other
+575751,trajenta5mg30tab,1,other
+575753,trajentamgilmoatedablet,1,other
+575754,tram flap (breast,1,other
+575755,trama05/1oa/f/21,1,other
+575801,tramal,1,other
+575901,tran from er/gp to specialist,1,consultation
+575902,trancoso/m/9r6/0j/f/20,1,other
+575903,trancranial doppler(tcd) -one vesse,1,imaging
+575904,trancranial doppler(tcd) -one vessel,1,imaging
+575905,trancranial doppler(tcd) two vessel,1,imaging
+575906,trancutaneous cardiac pacing,1,other
+575910,trandate 100,1,other
+575965,trandate ampule,1,other
+575988,trandate100mgtab(b/100,1,other
+576038,tranferritin serum,1,lab_test
+576039,"tranferritin, serum",1,lab_test
+576041,tranin1.50svfgymc s,1,other
+576042,tranpedicular fixation laminectomy inter & spinal fusion,1,procedure
+576043,tranplant of bone graft to - femur,1,imaging
+576044,trans (blood,2,lab_test
+576045,trans - esophageal echo,1,imaging
+576046,trans - rectal u/s,1,imaging
+576048,trans abdominal fetal echocardiography,1,imaging
+576049,trans anal heamorrhoidal devasculization,1,other
+576050,"trans cannula fixing w/proff ""u' cut 7x8-9cm 02022655/623270",1,supplies
+576051,trans catheter anurysm colling with stenting,1,supplies
+576052,trans catheter arterial embolization,1,supplies
+576053,trans catheter arterial embolization ? without implant,1,supplies
+576054,trans catheter arterial embolization - without implant,1,supplies
+576055,trans catheter artery embolisation,1,supplies
+576056,trans cutaneous bilirubin (tcb,1,lab_test
+576057,trans easophageal echo (tee,1,imaging
+576058,trans esophageal echo(t.e.e,1,imaging
+576059,trans fontanallar u.s,1,imaging
+576060,trans former tf-707 c2m,1,other
+576063,trans fx rod to rod clamp (implant,1,supplies
+576064,trans metatarsal amputation,1,procedure
+576066,trans obturator tape insertion (tot,2,supplies
+576067,trans oesophageal echo.tee,2,imaging
+576068,trans oesphageal echocardiogram,1,other
+576069,trans poly,1,other
+576070,trans rectal biopsy of prostate,1,procedure
+576071,trans rectal prostate,1,other
+576072,trans rectal prostate tru-cut biopsy,1,procedure
+576073,trans rectal u/s & biopsy (trus + bx,1,procedure
+576074,trans rectal u/s guided needle biopsy from the prostate with histopathology,1,lab_test
+576075,trans rectal ultra sound,1,imaging
+576076,trans rectal ultrasound guided fine needle biopsy of prostate,1,imaging
+576077,trans rectal usg,1,imaging
+576078,trans rectal/endovaginal abscess drainage-pkg,1,procedure
+576079,trans sphenoidal pituitary surgery,1,procedure
+576080,trans thoracic echo,1,imaging
+576081,trans urethral cystoscopy (diagnostic & biopsy)->,1,procedure
+576082,trans urethral resection of bladder tumor (t.u.r.b.t,1,procedure
+576083,trans urethral resection of bladder tumour (turbt) - single,1,procedure
+576084,trans urethral resection of bladder tumour (turbt) - single-2d - 2 day(s,1,procedure
+576085,trans urethral resection of pr,1,procedure
+576086,trans urethral resection of prostate (c60.29,1,procedure
+576087,trans urethral resection of prostate (t.u.r .p.)->c60,1,procedure
+576088,trans urethral resection of prostate (t.u.r.p,2,procedure
+576090,trans urethral resection of prostate (t.u.r.p.) - 5 day pkg,1,procedure
+576091,trans urethral resection of prostate (t.u.r.p.) - 5 days,1,procedure
+576092,trans urethral resection of prostate (t.u.r.p.)->c60,1,procedure
+576093,trans urethral resection of prostate (t.u.r.p.)->c60.29,1,procedure
+576094,trans vaginal aspiration of pelvic cyst under ultra sound gu - day case,1,procedure
+576095,trans vaginal echography,1,other
+576096,trans vaginal scan,2,imaging
+576097,trans vaginal sonar,2,imaging
+576100,trans vaginal ultrasound,2,imaging
+576101,trans vaginal us,3,imaging
+576102,trans vaginal usg,1,imaging
+576103,trans- abdomen u/s,2,imaging
+576104,trans- aortic valve implantation,1,other
+576105,trans-aortic valve implantation (tavi) ( up to 5 days package,1,other
+576106,trans-arterial chemoembolization,1,other
+576107,trans-arterial chemoembolization of tumors by interventional radiologist (without consumables) - 3 days pkg,1,other
+576108,trans-catheter aortic valve implantation (tavi valve - w/out implants) - 2ays picu & 2days pkg,1,supplies
+576109,trans-catheter aortic valve implantation (tavi valve - w/out implants) - procedure,1,supplies
+576110,trans-esophageal echo,1,imaging
+576111,trans-esophageal echo.(intra-op.) 3-d,1,imaging
+576112,trans-esophageal echo.(multiplane,1,imaging
+576114,trans-obturator sling (tot) (including the set)- (p.d,1,procedure
+576115,trans-oesophagela echo. tee,1,imaging
+576116,trans-pedicular screws,1,supplies
+576117,trans-rectal (us,2,imaging
+576118,trans-rectal sonography,1,other
+576119,trans-rectal. u/s,1,imaging
+576120,trans-septal access,1,other
+576121,trans-sphenoidal excision of seller tumour - 7 days pkg (3 icu + 4 ward,1,procedure
+576122,trans-sphenoidal pit. sur,1,other
+576123,trans-sphincteric excision of lesion or tissue of rectum(lateral sphincterectomy,1,procedure
+576124,trans-uretheral resection of prostate,1,procedure
+576125,trans-urethral cystoscopy,1,procedure
+576126,trans-urethral cystoscopy (diagnostic & biopsy,1,procedure
+576127,trans-urethral cystoscopy (diagnostic & biopsy) - 1 day pkg,1,procedure
+576128,trans-urethral cystoscopy (diagnostic & biopsy) - 1 day,1,procedure
+576129,trans-urethral cystoscopy (diagnostic & biopsy)->,1,procedure
+576130,trans-urethral cystoscopy (diagnostic & biopsy)->c57.33,1,procedure
+576131,trans-urethral cystoscopy (diagnostic&biopsy,1,procedure
+576132,trans-urethral cystoscopy for control of post-op h->c57.93,1,procedure
+576133,trans-urethral prostate or (bladder neck) incisio tuip,2,other
+576135,trans-urethral rem of calcul fr ureter/renal,1,eyewear
+576136,trans-urethral rem. of calcul. from ureter & renal pelvis,1,procedure
+576137,trans-urethral rem. of calcul. from ureter & renal pelvis - 1 day pkg,1,procedure
+576138,trans-urethral rem. of calcul. from ureter & renal->c56.0,1,procedure
+576139,trans-urethral resection (bladder tumor,1,procedure
+576140,trans-urethral resection of bladder neck,1,procedure
+576141,trans-urethral resection of prostate (turp) or (laser,2,procedure
+576142,trans-urethral resection of prostate (turp) or (laser) - w/o histopath,1,lab_test
+576144,trans-vaginal (pelvis,2,other
+576145,trans-vaginal u/s,3,imaging
+576146,trans-vaginal ultrasonography,2,imaging
+576147,trans-vaginal ultrasound,1,imaging
+576148,trans-vaginal ultrasound (obs/gyn,1,imaging
+576149,trans-vaginal ultrasound (tvs,1,imaging
+576150,trans-vaginal(pelvis,1,other
+576151,trans. elec. nerve stimu,1,other
+576152,transabdominal pelvis,1,other
+576153,transabdominal u.s,1,imaging
+576154,transanal excision of rectal lesion,1,procedure
+576155,"transanal gelpoint path # cn011, applied med",2,other
+576157,transanal hemorrhoidal dearteralization (thd,1,other
+576158,transantralspheno ethmoidectomy,1,procedure
+576159,transarterial chemo embolization-pkg,1,procedure
+576160,transaxillary bullectomoy+pleurodesis,1,procedure
+576161,"transcatheter aortic valve implantation (including tavi valve kit, vascular closure devices, tempora",2,procedure
+576162,transcatheter aortic valve implantation (tavi) inclusive,1,other
+576163,transcatheter aortic valve implantation - tavi package,1,other
+576164,transcatheter aortic valve repleacement (tavi) evolutr (various sizes,1,other
+576165,transcatheter guided partial splenic embolization,1,procedure
+576166,transcatheter heart valve balloon expandable(set)all sizes (20-32) (meri_myvall) #mvlxxx-xx,1,supplies
+576167,transcatheter intra-arterial embolization without implant - 3days icu & 1day pkg,1,supplies
+576168,transcatheter therapy embolization (diagnostic/theraputic) (coil/s are not included,1,physiotherapy
+576169,transcranial doppler,1,imaging
+576170,transcranial doppler study of the intracranial arteries; complete study,1,imaging
+576171,transcranial infant,1,other
+576172,transcranial u/s,1,imaging
+576173,transcranial ultrasound,1,imaging
+576174,transcranial ultrasound(302760,1,imaging
+576175,transcutaneous bilirubin - tcb,1,lab_test
+576176,transcutaneous bilirubin by jaundicemeter apparatus,1,lab_test
+576177,transcutaneous elec. nerve stimulation (tens,3,physiotherapy
+576178,transcutaneous elect nerve st,1,other
+576179,transcutaneous neurostimulator application,2,other
+576180,transcutaneous oxygen tension measurement of one limb,1,supplies
+576181,transdiscal biacuplasty,1,procedure
+576182,"transducer , probe , cover - sterile",1,supplies
+576183,transducer abdominal belt,1,supplies
+576184,transducer double kit disp. ohmeda bd #071-682032,1,other
+576185,transducer double kit disposable bd #682032,1,supplies
+576186,transducer iv monitoring kit tubing 228mm sterile disposable,1,supplies
+576187,transducer pressure monitoring kit adult for argon merit cable sterile disposable,1,supplies
+576188,transducer pressure monitoring kit adult for icu medical cable sterile disposable,1,supplies
+576189,transducer single kit disp.bd #682002,1,other
+576190,transducer single kit disposable # 682002 dtxplus dt - 4812,1,supplies
+576191,transducer single kit disposable bd #682002,1,supplies
+576192,transducer transpack iv single kit(l978) (pk/5,1,supplies
+576193,"transducer, arterial, sterile",1,supplies
+576194,transectal u/s,1,imaging
+576195,transection of peripheral nerve,1,other
+576196,transeosophageal echo,1,imaging
+576198,transerrin saturation,1,other
+576199,transesophagal echo,1,imaging
+576200,transesophageal echo tee,1,imaging
+576201,transesophageal echo,1,imaging
+576202,transesophageal echocardio (tee,1,other
+576203,transesophageal echocardio(tee,1,other
+576204,transesophageal echocardiogram intra operative,1,other
+576205,transesophageal echocardiogram under g/a,1,other
+576206,transesophageal echocardiogram under g/a taw,1,other
+576207,transesophageal echocardiograp,1,other
+576208,transesophageal echocardiograp hy (tee,1,other
+576209,transesophageal echocardiograph,1,other
+576210,transesophageal echocardiography (tee,2,imaging
+576211,transesophageal echocardioraphy advanced (3d,1,other
+576212,transevaginal u/s,1,imaging
+576213,transfeerin (s,1,other
+576214,transfemoral vein catheter blood sampling renal / adrenal vein / any organ,1,lab_test
+576215,"transfer - muscle, large / multiple",1,procedure
+576216,transfer bag,1,procedure
+576217,transfer file (between hospital,1,procedure
+576218,transfer from er - alaa el din shahat,1,procedure
+576219,transfer from er - mohammed al habbal,1,procedure
+576220,transfer from gp to specialist,1,procedure
+576221,transfer from.-mohamed lotfy,1,procedure
+576222,transfer of tendon to tendon nec,1,procedure
+576223,transfer of tendons around wrist joint or hand,1,procedure
+576224,transfer of the posterior tibialis to the dorsum of the foot,1,procedure
+576225,transfer on portable ventilator,1,supplies
+576226,transfer outside,1,procedure
+576227,"transfer/transplant, single tendon, deep",1,procedure
+576228,transferal request,3,other
+576229,"transferase, alanine amino (alt) (sgpt",1,lab_test
+576230,"transferase, aspartate amino (ast) (sgot",1,lab_test
+576231,transferase; alanine amino (alt) (sgpt,2,lab_test
+576232,transferase; aspartate amino (ast) (sgot,3,lab_test
+576233,transferase;alanine amino (alt) (sgpt,2,lab_test
+576234,transferin,1,other
+576235,transferine,2,other
+576237,transferren,1,other
+576239,transferrin saturation,3,lab_test
+576240,transferrin (s,1,lab_test
+576241,transferrin (t,1,lab_test
+576242,transferrin - saturation,1,lab_test
+576243,transferrin - saturation ratio,1,lab_test
+576244,transferrin level,1,lab_test
+576245,transferrin level in serum,2,lab_test
+576246,transferrin level in serum (l155,1,lab_test
+576247,transferrin quantitative -(send-out tests,1,lab_test
+576248,transferrin sat,1,lab_test
+576249,transferrin sataration,1,lab_test
+576251,transferrin saturation ratio,2,lab_test
+576252,transferrin serum,3,lab_test
+576253,transferrin soluble receptor - s.o,1,lab_test
+576255,transferrin test,1,lab_test
+576256,transferrin total,2,lab_test
+576257,transferrin(526348,1,lab_test
+576259,"transferrin, serum",2,lab_test
+576261,transferrin-serum,1,lab_test
+576263,transferring saturation,1,other
+576264,"transferritin, serum",1,lab_test
+576265,transfferin,1,other
+576266,transfferin serum,1,lab_test
+576267,transfoaraminal lumbar iterbody fusion + bone graft,1,imaging
+576270,transforaminal lumbar interbody fusion and fixation - each additional level,1,lab_test
+576271,transforaminal lumbar interbody fusion and fixation - one level - w/out implant,1,lab_test
+576272,transforaminal lumbar interbody fusion and fixation - one level or two levels - w/out implant,1,lab_test
+576273,transforaminal lumbar interbody fusion-two levels,2,lab_test
+576274,"transforaminal, epidural lumber/sacral 1st level",1,lab_test
+576275,"transforaminal, epidural thoracic/cervical, 1st level",1,imaging
+576276,transfrominallumbar interbody fusion,1,procedure
+576277,transfusion of blood or broducts,2,lab_test
+576279,transfusion of platelets,1,other
+576280,transfusion of whole blood (per unit,1,lab_test
+576281,transfusion procedure,2,other
+576282,transfusion reaction work up,1,other
+576283,transfusion service 1,1,other
+576284,transfusion service 2,1,other
+576285,transfusion set,1,other
+576286,"transfusion, blood or blood components. ( for transfusion service itself",1,lab_test
+576287,"transfusion, blood/blood components",2,lab_test
+576288,"transfusion, blood/blood components (ffp",1,lab_test
+576289,"transfusion, blood/blood components (whole blood",1,lab_test
+576290,transfusion-blood or plasma proc,1,lab_test
+576291,transfusion-blood-1127,1,lab_test
+576292,transglutaminase (endomysium) iga & igg abs,1,lab_test
+576293,transglutaminase (endomysium) iga &igg abs,1,lab_test
+576294,transglutaminase (seurm,1,other
+576296,transglutaminase abs - 333-40908,1,lab_test
+576297,transglutaminase ig a,1,other
+576298,"transglutaminase, g,a",1,other
+576299,transiderm-nitro 25,1,other
+576300,transient evoked otoacoustic emissions (ped,2,other
+576301,transient oto-acoustic emission (oaet,1,other
+576302,transient otoacoustic emission,1,other
+576303,transition mc,1,eyewear
+576304,transitional i.c.u. accomodation,1,lab_test
+576305,transitions trio,1,eyewear
+576306,transjugular liver biopsy,2,procedure
+576307,transjugular liver biopsy tjlb,1,procedure
+576308,translectal ultrasound,1,imaging
+576309,transmagn.stimul./sess.-tms for depressn,1,other
+576310,transmetatarsal amputation,1,procedure
+576311,transmetatarsal amputation of toes for one foot,1,supplies
+576312,transmetatarseal amputation,1,procedure
+576313,transmetatarseal amputation los 2 day,1,procedure
+576314,"transmetatrsal amputation (syme's), 3days",1,procedure
+576315,"transmitter gaurdian link 4,medtronic",1,supplies
+576316,transmitter kit guradian 3 link ble medtronic#mmt-7910w1,1,supplies
+576317,transo esophageal echocardiogr,1,other
+576318,"transobturator, with two delivery devices & 1 mesh assembly single unit",1,supplies
+576319,transoesophageal echo,1,imaging
+576320,transoesophageal echocardiography,1,imaging
+576321,transoral excision,1,procedure
+576322,transoral needle double bevel,1,supplies
+576323,transpac iv single kit (l978,1,supplies
+576324,transpac single line ibp kit icu medical,1,consultation
+576325,transpack iv single kit #ic-p229 hospira,1,supplies
+576326,transparent dressing 10x12.5 cm,1,supplies
+576327,transparent dressing 10x12cm,1,supplies
+576328,transparent dressing 1626w (10cmx12cm,1,supplies
+576329,"transparent dressing leukomed 11x14cm #72381-02 , , bsn medical gmbh",1,supplies
+576330,transparent dressing,1,supplies
+576331,"transparent dressing, 10x25cm",1,supplies
+576332,transparent i.v. dressing 6cm x 8cm,1,supplies
+576333,transparent i.v. dressing 7cm x 9cm,1,supplies
+576334,"transped.fix.,laminec., inter. and spinal fusion",1,procedure
+576335,"transpedicular approach with decompression of spinal cord, equina and",1,procedure
+576336,transpedicular fixation of the spine,1,procedure
+576337,transpedicular screw fixation + cerclage wire w/ fus. 1 lev including implant,1,supplies
+576338,transperant porus advesive tape 2.5x9.14,1,supplies
+576339,transperant porus advesive tape 5x9.14,1,supplies
+576340,transperent surgical dressing pu 10x15 c,1,supplies
+576341,transperent surgical dressing pu 10x15 cm,1,supplies
+576342,transperent surgical dressing pu 10x20 c,1,supplies
+576343,transperent surgical dressing pu 10x20 cm,1,supplies
+576344,transperent surgical dressing pu 10x25 c,1,supplies
+576345,transperent surgical dressing pu 10x25 cm,1,supplies
+576346,transperent surgical dressing pu 6x7 cm,1,supplies
+576347,transperent surgical dressing pu iv 6x7,1,supplies
+576348,transperent surgical dressing pu iv 6x7 cm,1,supplies
+576349,transperent surgical dressing pu iv dres,1,supplies
+576350,transperent surgical dressing pu iv dress 6x8 cm,1,supplies
+576351,transphenoidal resection of pituitary tumor,1,procedure
+576352,transplant antegrade dj,1,other
+576353,"transplant bone to scapula, clavicle,thorax (ribs/sternum",1,imaging
+576354,transplant hepatology follow-up,1,consultation
+576355,transplant hepatology new follow-up,1,consultation
+576356,transplant hepatology new patient,1,other
+576357,transplant of bone graft,1,imaging
+576358,transplant of bone graft to - femur,1,imaging
+576359,transplant of bone graft to - tarsal & metatarsals,1,imaging
+576360,transplant of bone graft to humerus,1,imaging
+576361,transplant of bone graft to tibiaa & fibula,1,imaging
+576362,transplant of bone graft to vertebrae,1,imaging
+576363,transplant of muscle & tendon of hand,1,other
+576364,transplantation of tendon repair,1,procedure
+576365,transplantation/ reimplantation of tendon repair,1,procedure
+576366,transpleural thoracoccopy for bilsymphatectomy,1,procedure
+576367,transpleural thoracoscopy (diagnostic) - 2 days pkg,1,procedure
+576368,transpleural thoracoscopy for bilateral sympathectomy - 4 days pkg,1,procedure
+576369,transpleural thoracoscopy for bullous excision - 4 day pkg,1,procedure
+576370,transpleural thoracoscopy for bullous excision - 4 days pkg,1,procedure
+576371,transpleural thoracoscopy for partial or com. lobectomy - 4 days pkg,1,procedure
+576372,"transpleural thoracoscopy for pneumotho, hemoth & pleural effusion - 4 days pkg",1,procedure
+576373,"transpore 1"" surgical tape",1,supplies
+576374,"transpore 2"" surgical tape",1,supplies
+576375,"transpore 3m-transparent tape 2"" x 10yrds # 1527-2",1,supplies
+576376,transpore adhesive tape 1.25cmx9m 24/bx,1,supplies
+576377,transpore surgica.tape 1 x10yd 3m 1527-1,1,supplies
+576378,transpore surgical tape 3 x10yd 1527-3m,1,supplies
+576379,"transpore tape 2"" plastic",1,eyewear
+576380,transpore tape med. adhesive size= 2.25cmx9m,1,supplies
+576381,transport incubator / with oxygen,1,supplies
+576382,transport incubator / without oxygen,1,supplies
+576383,transport swab vtm set,1,lab_test
+576384,transportation with qatif area,1,other
+576385,transposition flap (large,1,other
+576386,transposition flap (major,1,other
+576387,transposition flap (moderate,1,other
+576388,transposition flap (small,1,other
+576389,transposition flap minor,1,other
+576390,transposition of basilic arteriovenous fistula & ligation of side branches - 1 day pkg,1,procedure
+576391,transposition of cranial&peripheral nerves(nerve t->c04.6,1,other
+576392,transposition of ulnar nerve,1,other
+576393,transrectal (endo rectal,1,other
+576394,transrectal abscess drainage - 2 days pkg,1,procedure
+576395,transrectal abscess drainage(16579,1,procedure
+576396,transrectal biopsy,1,procedure
+576397,transrectal needle biopsy of prostate (1 day package,1,supplies
+576398,transrectal of prostate biopsy under ga,1,procedure
+576399,transrectal prostate ultrasound(trus,1,imaging
+576400,transrectal prostatic nbiops,1,other
+576401,transrectal prostatic needle,1,supplies
+576402,transrectal prostatic needle biopsy unr ana. and guided ult,1,lab_test
+576403,transrectal scan (prostate,1,imaging
+576404,transrectal scan of prostate,1,imaging
+576405,transrectal u.s,1,imaging
+576406,transrectal u/s,2,imaging
+576407,transrectal ultrasound,1,imaging
+576408,transrectal ultrasound (trus,1,imaging
+576409,transrectal ultrasound of prostate / seminal vescicles,1,imaging
+576410,transrectal ultrasound of prostate / seminal vescicles + biopsy,1,imaging
+576411,transrectal ultrasound routine,1,imaging
+576412,transrectal us,1,imaging
+576413,transrectal us (prostate,1,imaging
+576415,transrectal-ultrasound,1,imaging
+576416,transrethral resection of the prostate,1,procedure
+576417,transspheniodal repair of csf leak,1,procedure
+576418,transsphenoidal repair of c.s.f. leak->c02.12-b,1,procedure
+576419,transtemporal (mastoid) excision of brain tumor,1,procedure
+576420,transthoracic echocardiogram,1,other
+576421,transthoracic echocardiography (tte,1,imaging
+576422,transthoracic echocardiography advanced (3d/strain/contrast,1,imaging
+576423,"transthoracic echocardiography, congenital cardiac anomalies; pedia",1,imaging
+576424,transthoracic%20echocardiogram,1,other
+576425,transthoracic%20echocardiogram%09,1,other
+576426,transthoracicechocardiogram,1,other
+576427,"transtibial , acl , disposable kit, without saw blade,arthrex , ar-1898s",1,supplies
+576429,transureteral resection of a bladder tumor,1,procedure
+576430,transureth resection of the prostate[turp,1,procedure
+576431,transuretheral incision of prostate(tuip,1,procedure
+576432,transurethral bladder neck inc,1,other
+576433,transurethral catheten s.cat.exchange,1,other
+576434,"transurethral clearance of bladder(calculus rem.blood clot, f.b.) -1 day pkg",1,lab_test
+576435,"transurethral electrosurgical resection of prostate, including control",1,procedure
+576436,transurethral exc. or destr. of bladder lesion(di,1,procedure
+576437,transurethral excision or destruction of bladder lesion (diverticulum excision) - 2 day pkg,1,procedure
+576438,transurethral laser ablation of prostate-1day pkg,1,procedure
+576439,transurethral litholapaxy,2,other
+576440,transurethral meatotomy,1,procedure
+576441,transurethral prost - turp,1,other
+576442,transurethral prostatectomy (turp,1,procedure
+576443,transurethral prostatic vaporization (tuvp) - 2 days pkg,1,other
+576444,transurethral resection of bladder neck or incision of prostate (separate procedure) - turbn,1,procedure
+576445,transurethral resection of bladder tumor,2,procedure
+576446,transurethral resection of bladder tumours (turbts) - multiple w/o histopath,1,lab_test
+576447,transurethral resection of ejaculatory duck,1,procedure
+576448,transurethral resection of prostate (t.u.r.p,1,procedure
+576449,transurethral resection of prostate (turp,1,procedure
+576450,transurethral resection of prostate [turp,1,procedure
+576451,transurethral resection of prostate [turp] ( up to 4 days package,1,procedure
+576452,transurethral tumour resection (turt,1,procedure
+576453,transurethral vapor therapy of prostate,1,physiotherapy
+576454,transurethral water vapour therapy of the prostate,1,physiotherapy
+576455,transurethral water vapour therapy of the prostate (one day,1,physiotherapy
+576456,transurethral water vapour therapy of the prostate - 1day pkg,1,physiotherapy
+576457,"transurth prostmy,rep dis,majc",1,inpatient
+576458,"transurth prostmy,rep dis,minc",1,inpatient
+576459,"transurth prostmy,uri dis,majc",1,inpatient
+576460,"transurth prostmy,uri dis,minc",1,inpatient
+576461,transv aginal pel vic us| transv aginal pel vic us,1,imaging
+576462,transvag and female pelvis,1,other
+576463,transvaginal,2,other
+576464,transvaginal u/s tvs,1,imaging
+576465,transvaginal & female pelvis,1,other
+576466,transvaginal (endo vaginal,2,other

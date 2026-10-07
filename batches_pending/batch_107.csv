@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+289175,heel 2 views-574,1,imaging
+289176,heel 2-views,2,imaging
+289178,heel axial & lat,2,imaging
+289179,heel axial & lat view,1,imaging
+289180,heel axial & lateral,1,other
+289181,heel axial & lateral view,1,imaging
+289183,heel lat. 1 view,1,imaging
+289184,heel pads,1,supplies
+289185,heel unilateral x ray 2 view,1,imaging
+289186,heel unilateral x- ray 1 view,1,eyewear
+289187,heel unilateral x- ray 2 view,1,eyewear
+289188,"heel warmer,for new born infants",1,other
+289189,heel x-ray (lat,1,imaging
+289191,heel x-ray 1 view,1,imaging
+289192,heel x-ray 2 view,1,imaging
+289193,heel x-ray 3 view,1,imaging
+289194,heel x-ray 4 view,1,imaging
+289195,heel axial view,1,imaging
+289196,heel bilateral lateral views,1,imaging
+289197,heel bone,1,imaging
+289198,heel offloading shoes - (ms,1,other
+289200,heel protector,1,other
+289201,heel stirrup cushion/pad,1,supplies
+289202,heel support silicone (large,1,supplies
+289203,heel support silicone (medium,1,supplies
+289204,heel support silicone (small,1,supplies
+289205,heel support silicone (x-large,1,supplies
+289206,heel x-ray 2 views,1,imaging
+289207,heel(calcaneum)-1 view,1,imaging
+289208,heel(os calcis) (two views,1,imaging
+289209,heel-1view,1,other
+289215,helcobacteria pylori test,1,lab_test
+289216,helen.keller 23020 h fr c:c3m/8,1,eyewear
+289217,helen.keller 23062 h fr c:cp8,1,eyewear
+289219,helen.keller 23088 h fr c:c1m/p8,1,eyewear
+289220,helen.keller 23094 h fr c:c1m/p8,1,eyewear
+289221,helen.keller 26066 h fr c:c3w,1,eyewear
+289222,helen.keller 58038 h fr c:c1m/8,1,eyewear
+289223,helen.keller 58042 h fr c:c9,1,eyewear
+289224,helen.keller 58043 h fr c:c2,1,eyewear
+289225,helen.keller 58044 h fr c:c3/8,1,eyewear
+289226,helen.keller 58044 h fr c:c9,1,eyewear
+289227,helen.keller 9186 h fr c:c1,1,eyewear
+289230,helico bacter antibodies - ?????,1,lab_test
+289233,helicobacter igm,3,lab_test
+289234,helicobacter ( ab,1,lab_test
+289239,helicobacter igg537,1,lab_test
+289242,helicobacter lgg,1,lab_test
+289243,helicobacter ppyloris,1,lab_test
+289246,"helicobacter pylori antigen, ( in stool",1,lab_test
+289247,helicobacter pylori ( serum,1,lab_test
+289248,helicobacter pylori (ag/ab,1,lab_test
+289251,helicobacter pylori ab (igg,1,lab_test
+289253,helicobacter pylori ab (rapid test) (sfv,1,lab_test
+289254,helicobacter pylori ab. - qualitative,1,lab_test
+289255,helicobacter pylori ab.- quantitative,1,lab_test
+289258,helicobacter pylori abs.- screen,1,lab_test
+289260,helicobacter pylori ag (hpsa,2,lab_test
+289263,helicobacter pylori ag( stool,1,lab_test
+289265,helicobacter pylori antibody,1,lab_test
+289266,helicobacter pylori antibody ( by immuno chromatography,1,lab_test
+289267,helicobacter pylori antibody (by enzyme immuno assay,1,lab_test
+289271,"helicobacter pylori antigen, feces",1,lab_test
+289272,"helicobacter pylori antigen, stool",1,lab_test
+289274,helicobacter pylori breath test (ubt) (sfv,1,lab_test
+289278,"helicobacter pylori culture, biopsy",1,lab_test
+289279,helicobacter pylori detection by ubt,1,lab_test
+289282,helicobacter pylori igg (h. pylori igg,1,lab_test
+289283,helicobacter pylori igg antibody serum,1,lab_test
+289284,"helicobacter pylori igg antibody, serum",1,lab_test
+289285,helicobacter pylori igg by elisa,1,lab_test
+289286,helicobacter pylori igg by elisa (sfv,1,lab_test
+289287,helicobacter pylori igg in serum,1,lab_test
+289290,helicobacter pylori stool antigen ( hpsa,1,lab_test
+289291,helicobacter pylori stool antigen (h.pylori sa,1,lab_test
+289293,helicobacter pylori stool antigen (hpsa) s.o,1,lab_test
+289294,helicobacter pylori stool antigen (hpsa)(mhl lab,1,lab_test
+289295,helicobacter pylori stool antigen (lab,2,lab_test
+289297,helicobacter pylori stool antigen(hpsa,1,lab_test
+289298,helicobacter pylori stool antigen(hpsa) (sfv,1,lab_test
+289301,helicobacter pylori test in stool,1,lab_test
+289303,helicobacter pylori serum,1,lab_test
+289304,"helicobacter pylori, ag by urea breath",1,lab_test
+289305,"helicobacter pylori, ag, stool - rapid test",1,lab_test
+289306,"helicobacter pylori, breath test",1,lab_test
+289307,"helicobacter pylori, stool antigen",1,lab_test
+289308,helicobacter pylori.(ubt,1,lab_test
+289311,helicobacter pylori (stool,1,lab_test
+289314,helicobacter pylori ab (igg) - tat (8 duty hrs,1,lab_test
+289315,helicobacter pylori ab igg,1,lab_test
+289316,helicobacter pylori ab igg(09112,1,lab_test
+289317,helicobacter pylori ab's (igg,1,lab_test
+289318,helicobacter pylori abs - igg serum,1,lab_test
+289319,helicobacter pylori abs. - serum,1,lab_test
+289320,helicobacter pylori abs. in serum - insurance,1,lab_test
+289321,helicobacter pylori abs.(serum,1,lab_test
+289324,helicobacter pylori ag (hpsa)(09163,1,lab_test
+289326,helicobacter pylori ag in stool (hpsa) (646,1,lab_test
+289329,helicobacter pylori ag. (stool,1,lab_test
+289330,helicobacter pylori ag. - stool,1,lab_test
+289331,helicobacter pylori ag. in stool - insurance,1,lab_test
+289332,helicobacter pylori antibody (h.pylori ab,1,lab_test
+289333,helicobacter pylori antibody quanti,1,lab_test
+289334,helicobacter pylori antibody screening,1,lab_test
+289335,helicobacter pylori antibody-igg,1,lab_test
+289337,helicobacter pylori antigen in stool-1088,1,lab_test
+289338,helicobacter pylori blood (serum,1,lab_test
+289341,helicobacter pylori breath test (ubt) (994,1,lab_test
+289342,helicobacter pylori breath test (ubt)(09195,1,lab_test
+289343,helicobacter pylori iga,1,lab_test
+289345,helicobacter pylori igg abs,1,lab_test
+289349,helicobacter pylori antib,1,lab_test
+289354,helicobacter pylori antibodies (stool,1,lab_test
+289355,helicobacter pylori antibodies = serum,1,lab_test
+289356,helicobacter pylori antibodies _serum_,1,lab_test
+289358,helicobacter pylori antigens in stool,1,lab_test
+289360,"helicobacter pylori urease ivd, reagent",1,lab_test
+289361,"helicobacter pylori, stool h pylori",1,lab_test
+289362,helicobacter pylori; urease breath test,1,lab_test
+289363,"helicobacter pylori; breath test analysis for urease activity, non-radioactive isotope (eg, c-13",1,lab_test
+289364,helicobacter%20pylori%20ag%20(hpsa)%09,1,lab_test
+289365,helicobacter%20pylori%20in%20stool%09,1,lab_test
+289366,helicobacterpylori2cstoolantigen,1,other
+289367,helicobactor - pylori antibody,1,lab_test
+289372,helicopacter pylori antibodies,1,lab_test
+289373,heliocobacter test,1,lab_test
+289374,hellicobacter pylori in stool,1,lab_test
+289375,helminth ab,1,lab_test
+289376,helminth antibodies,1,lab_test
+289409,hemadid 200tab,1,other
+289430,hemagel procto suppositoy 10 pcs,1,other
+289431,hemagel procto 10pcs,1,other
+289432,hemagglutination inhibition,1,other
+289441,hemamax chewable 30tab,1,other
+289443,hemamax f 30's,1,other
+289450,hemamax-f chewable 30tab,1,other
+289454,hematocrit order cbc,1,lab_test
+289455,hematology aya -all follow-up,1,consultation
+289456,hematology adult virtual follow-up,1,consultation
+289457,hematology adult virtual urgent follow-up,1,consultation
+289458,hematology education and support clinic follow-up,1,supplies
+289459,hematology malignant follow-up,1,consultation
+289460,hematology urgent add-on follow-up,1,consultation
+289461,hematology/bmt virtual follow-up,1,consultation
+289462,hematoma%20evacuation%20under%20la,1,other
+289463,hemerus ap/lat. rad. exam,1,imaging
+289467,hemi-thyroidectomy + histopathology,1,lab_test
+289468,hemiarthroplasty hip partial (eg femoral stem prosthesis bipolar arthroplasty,1,supplies
+289469,hemicolectomy,1,procedure
+289470,hemicolectomy (rt or lt or sigmoid colon,1,procedure
+289471,hemicolectomy (rt or lt) -surgery,1,procedure
+289472,hemicolectomy + stappler,1,procedure
+289473,"hemicolectomy, laparoscopic",1,procedure
+289474,"hemicolectomy, open",1,procedure
+289475,"hemigastrectomy: proximal or distal subtotal gastrectomy including pyloroplasty, gastroduodenostomy",1,procedure
+289476,hemiglossectomy with cervical ln (lymph node) dissection,1,imaging
+289477,hemilaminectomy,1,procedure
+289478,hemipelvectomy and reconstruction,1,procedure
+289479,hemiplegia,1,other
+289481,hemisection (including any root removal) not including root canal therapy,1,dental
+289482,"hemisection (including any root removal), not including root canal therapy",1,dental
+289483,hemisection - ncci,1,other
+289484,hemisection including any root removal not including root canal therapy,1,dental
+289485,hemisection of multi rooted tooth,1,dental
+289486,hemithyroidectomy/subtotal thyroidectomy,1,procedure
+289492,hemo dialysis session,1,physiotherapy
+289493,hemo dialysis at home per session,1,physiotherapy
+289499,hemorelief,1,other
+289502,hemochoon jr act-lr,1,other
+289503,hemochromatosis mutation,1,lab_test
+289504,"hemochromatosis, hfe gene hotspot mutations (c282y h63d",1,lab_test
+289505,"hemoclip 230cm, 2.5mm diam, 135 deg, 11mm opening, rotatable, #u2525-230",1,other
+289506,"hemoclip 230cm, 2.5mm diam, 135 deg, 11mm opening, rotatable, #u2525-230 (vdk-cd-16-230-p - disp. endoscopic hemoclip maximum opening of clip: 16mm, l: 2300mm",1,supplies
+289507,"hemoclip, ags medtech, 16mm 12300mm, ag-51044-2300-135-16",1,lab_test
+289509,hemodialysis (3 sessions) one session sr 700,1,physiotherapy
+289511,hemodialysis - reg (ip,1,procedure
+289512,hemodialysis - reg (op,1,procedure
+289513,hemodialysis - special (ip,1,procedure
+289514,hemodialysis 1 session,1,physiotherapy
+289515,hemodialysis 1 session flat rate,1,physiotherapy
+289516,hemodialysis 1 session flat rate inclusive except blood and blood derivative,1,lab_test
+289517,hemodialysis catheter kit 12x20cm duo high flow hf v 1220 ref#4167546-07,1,supplies
+289521,hemodialysis procedure w/ single evaluation by physician,1,consultation
+289522,hemodialysis repeated \ per session,1,physiotherapy
+289523,hemodialysis session,1,physiotherapy
+289524,hemodialysis catheter insertion perma cath quinton line,1,supplies
+289528,"hemodialysis, admitted patient, per session",1,physiotherapy
+289529,"hemodialysis, outpatient, chronic, per session",1,physiotherapy
+289530,hemodiaysis-special (ip,1,other
+289531,hemodyalysis (crrt,1,procedure
+289532,hemodyalysis (icupt,1,procedure
+289534,hemodynamic monitoring,1,consultation
+289535,hemofer 28 liquid sticks / box,1,other
+289540,hemogl obin gl ycosylated total,1,other
+289544,"hemoglobin (hb), blood",1,lab_test
+289545,hemoglobin - ?????,1,lab_test
+289546,hemoglobin / hematocrit,1,lab_test
+289547,hemoglobin ??????????,1,lab_test
+289549,hemoglobin a1c (glycated hemoglobin,1,lab_test
+289550,hemoglobin a1c (glycosylated hb,1,lab_test
+289553,hemoglobin capillary electrophoresis,1,lab_test
+289556,"hemoglobin electrophoresis cascade, blood, hb-pathy evalua",1,lab_test
+289557,hemoglobin electrophoresis test - n,1,lab_test
+289558,"hemoglobin electrophoresis, blood",1,lab_test
+289559,hemoglobin h screen,1,lab_test
+289561,hemoglobin level,1,lab_test
+289562,hemoglobin level (hb,1,lab_test
+289563,hemoglobin s quantitation,1,lab_test
+289564,"hemoglobin s, screen, blood, column",1,lab_test
+289566,hemoglobin and hematocrit only,1,lab_test
+289568,hemoglobin electroph.810,1,lab_test
+289571,hemoglobin measurement quantitative,1,lab_test
+289572,hemoglobin or rbcs fetal for fetomaternal hemorrhage rosette,1,procedure
+289573,"hemoglobin or rbcs, fetal, for fetomaternal hemorrhage; rosette",1,procedure
+289574,"hemoglobin subunit beta (hbb) gene variant analysis (e.g. hbs, hbc, hbe",1,lab_test
+289575,hemoglobin subunit beta common variant(s) (eg sickle cell anemia beta thalassemia hemoglobinopathy variants hbs hbc hbe,1,lab_test
+289576,hemoglobin%20electrophoresis,1,lab_test
+289578,"hemoglobin, electrophoresis",1,lab_test
+289579,"hemoglobin, subunit beta common variant(s) (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy,variants hbs, hbc, hbe",1,lab_test
+289580,"hemoglobin, subunit beta duplication/deletion variant(s) (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy",1,lab_test
+289581,"hemoglobin, subunit beta full gene sequence (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy",1,lab_test
+289582,hemoglobin--oxygen affinity,1,supplies
+289584,hemoglobin/hb,1,lab_test
+289585,hemoglobin; free/h manual count,1,lab_test
+289586,hemoglobin; glycosylated (a1c,2,lab_test
+289588,hemoglobinopathy stem cell transplant follow-up,1,supplies
+289589,hemogluco test,1,lab_test
+289592,hemolysins and agglutinins screen,1,other
+289593,hemolysis panel (cbc+diff blood film reticulocyte ldh bilirubint+d haptoglobin coomb's test,1,lab_test
+289594,hemolysis panel (cbc+diff blood film reticulocyte ldh bilirubint+d haptoglobin coombs test,1,lab_test
+289595,"hemolysis panel (cbc+diff, blood film, reticulocyte, ldh, bilirubint+d, haptoglobin ,coomb's test",1,lab_test
+289602,"hemorrelax rectal suppositories, 10/box",1,other
+289608,hemorrhoid ( piles) cushion,1,other
+289611,hemorrhoidectomy (piles operation,1,procedure
+289612,hemorrhoidectomy + anal fissurectomy open surgery,1,procedure
+289613,hemorrhoidectomy + fissurectomy,1,procedure
+289614,hemorrhoidectomy + ligation + mucopexy by ligaure & laser,1,procedure
+289615,hemorrhoidectomy - 2 or more sites,1,procedure
+289616,hemorrhoidectomy piles operation,1,procedure
+289617,hemorrhoidectomy piles operation ayh,1,procedure
+289618,hemorrhoidectomy piles operation bupa ayh,1,procedure
+289619,hemorrhoidectomy piles operation malath ayh,1,procedure
+289620,hemorrhoidectomy piles operationbupa ayh,1,procedure
+289621,hemorrhoidectomy by surgical excision,1,procedure
+289622,hemorrhoidectomy by two stapler,1,supplies
+289623,hemorrhoidectomy internal and external complex or extensive,1,procedure
+289624,hemorrhoidectomy internal and external simple,1,procedure
+289625,hemorrhoidectomy or piles under g.a,1,procedure
+289626,hemorrhoidectomy+fissurectomy+later spin,1,procedure
+289627,"hemorrhoidectomy, laser",1,procedure
+289628,"hemorrhoidectomy, by simple ligature (eg, rubber band",1,procedure
+289630,"hemorrhoidectomy, internal and external, complex or extensive; with fistulectomy, with or without fissurectomy",1,procedure
+289631,"hemorrhoidectomy, internal and external, complex or extensive; with fistulectomy, with or without fissurectomy - by laser-pkg",1,procedure
+289632,hemorrhoids,1,other
+289636,"hemosiderin, urine",1,lab_test
+289640,henia - virgen (1st time) with mesh,1,supplies
+289642,henry jullien fm parabole 01 s,1,other
+289643,henry jullien fm rendez-vous 0,1,other
+289645,hep b s antigen (hbs ag,1,lab_test
+289646,hep be antigen (hbe - ag,1,lab_test
+289647,hep bs antigen (hbs ag,1,lab_test
+289648,hep c virus ab,1,lab_test
+289649,hep d abs,1,lab_test
+289651,hep. a ab ( igm,1,lab_test
+289655,hepa 24 months,1,other
+289656,hepbsag(screening,1,lab_test
+289657,hepcv,1,other
+289660,hepa a vacc. (child,1,other
+289661,"hepa a, anti hav igm specific",1,lab_test
+289662,hepa b core antibody,1,lab_test
+289663,hepa b vacc. (child,1,other
+289671,hepa.a,1,other
+289681,heparanized capillary tube for cbg,1,supplies
+289686,heparin anti-xa (heparin monitoring,1,consultation
+289687,"heparin anti-xa assay, plasma",1,lab_test
+289688,heparin assay,1,lab_test
+289689,heparin assay (anti factor xa activity,1,lab_test
+289691,heparin induced thrombocytopenia (elisa,1,other
+289697,"heparin anti-xa ivd, calibrator",1,other
+289698,heparin-induced thrombocytopenia panel (hit,1,lab_test
+289699,"heparin-pf4 antibody (hit), serum",1,lab_test
+289712,hepatectomy,1,procedure
+289713,hepatic panel (alt ast alp albumin total protein total and direct bilirubin,2,lab_test
+289714,"hepatic panel (alt, ast, alp, albumin, total protein, total and direct bilirubin",1,lab_test
+289716,"hepatic panel (total and direct bilirubin,sgot, sgpt, alkaline phosphtase) - ?????",1,lab_test
+289724,hepatico jejunostomy,1,procedure
+289731,hepatitis (a) virus,1,lab_test
+289732,hepatitis (b,1,lab_test
+289733,"hepatitis - acute b (hbsa, anti-hbc, anti-hbs",1,lab_test
+289734,hepatitis -b surface antigen (hbsag,1,lab_test
+289737,hepatitis a (avaxim) adult,1,lab_test
+289738,hepatitis a (avaxim) pediatric,1,lab_test
+289739,hepatitis a (havrix) junior,1,lab_test
+289740,hepatitis a abs-1092,1,lab_test
+289741,"hepatitis a antibodies (igg, igm",1,lab_test
+289742,hepatitis a antibody igm,1,lab_test
+289743,"hepatitis a antibody igm, serum (meia",1,lab_test
+289744,"hepatitis a antibody, igg (anti-hav), serum",1,lab_test
+289747,"hepatitis a antibody, igm only (anti-hav,igm), serum",1,lab_test
+289748,"hepatitis a antibody,screen",1,lab_test
+289752,hepatitis a igg antibodies,1,lab_test
+289753,hepatitis a igg total ab,1,lab_test
+289754,hepatitis a igm - ?????,1,lab_test
+289755,hepatitis a igm antibodies,1,lab_test
+289756,hepatitis a igm antibodies (ha ab-igm,1,lab_test
+289759,hepatitis a total antibodies,1,lab_test
+289760,hepatitis a total antibody (hav,1,lab_test
+289762,hepatitis a virus (hav) igg,1,lab_test
+289765,hepatitis a virus (antibodies,1,lab_test
+289766,hepatitis a virus - antibodies total,1,lab_test
+289767,hepatitis a virus antibody (hav- igm,1,lab_test
+289768,hepatitis a virus antibody total,1,lab_test
+289769,"hepatitis a virus(hav) antibodies, igm",1,lab_test
+289770,"hepatitis a virus, abs-igm",1,lab_test
+289772,"hepatitis a virus , igm(hav",1,lab_test
+289773,hepatitis a virus -eliza anti hav igm,2,lab_test
+289774,hepatitis a virus antibody igm ( hav- igm,1,lab_test
+289776,hepatitis a virus antibodies (igm,1,lab_test
+289778,hepatitis a virus: (eliza) anti hav igg,1,lab_test
+289780,hepatitis a virushav,1,lab_test
+289781,"hepatitis a,b,c",1,lab_test
+289787,hepatitis b (e) antigen ( hbeag,1,lab_test
+289789,hepatitis b ????? ????? ??????? b,1,lab_test
+289792,hepatitis b confirmatory,1,lab_test
+289798,hepatitis b core antibodies (total/igm,1,lab_test
+289799,hepatitis b core antibody,2,lab_test
+289800,hepatitis b core igm antibodies,1,lab_test
+289801,hepatitis b core total antibodies,1,lab_test
+289802,"hepatitis b core, abs-igm",1,lab_test
+289803,hepatitis b dna quantitative (pcr,1,lab_test
+289804,hepatitis b detection and quantitation,1,lab_test
+289807,"hepatitis b envelop, abs",1,lab_test
+289808,"hepatitis b envelop, ag",1,lab_test
+289810,hepatitis b genotyping-send out,1,lab_test
+289820,hepatitis b surface,1,lab_test
+289824,hepatitis b surface (hbs) ag (sfv,1,lab_test
+289825,hepatitis b surface (hbs) ag(09086,1,lab_test
+289829,hepatitis b surface antibody ab hbs ab - hbv,3,lab_test
+289833,hepatitis b surface antibody ab hbsab hbv,1,lab_test
+289834,hepatitis b surface antibody ab _hbsab_ _ hbv _,1,lab_test
+289835,hepatitis b surface ab,2,lab_test
+289837,hepatitis b surface ab hbs ag,1,lab_test
+289839,hepatitis b surface antibodies (hbsab,1,lab_test
+289843,hepatitis b surface antibody quantitative - ?????,1,lab_test
+289847,hepatitis b surface antigen hbsag,1,lab_test
+289848,hepatitis b surface antigen test+human immunodeficiency viru,1,lab_test
+289849,"hepatitis b surface antigen, (hbsag",1,lab_test
+289850,hepatitis b surface antigen-1099,1,lab_test
+289852,hepatitis b surface antigen(hbsag,1,lab_test
+289853,"hepatitis b surface, abs",1,lab_test
+289854,"hepatitis b surface, ag",1,lab_test
+289856,hepatitis b vac bedia (engerix,1,lab_test
+289861,"hepatitis b virus (hbv) dna by pcr, quantitative",1,lab_test
+289864,hepatitis b virus antigen (hbsag,1,lab_test
+289865,hepatitis b virus by pcr (qualitative,2,lab_test
+289866,hepatitis b virus core igm antibody (hbc igm,1,lab_test
+289867,"hepatitis b virus dna (hbv-dna) quantitative detection by rt-pcr, serum",1,lab_test
+289868,"hepatitis b virus dna, qualitative",1,lab_test
+289869,"hepatitis b virus dna, ultraquant by pcr",1,lab_test
+289870,hepatitis b virus genotype,1,lab_test
+289871,hepatitis b virus hbsg,1,lab_test
+289872,hepatitis b virus pcr (qualitative,1,lab_test
+289873,hepatitis b virus surface anti,2,lab_test
+289874,hepatitis b virus surface antibody (hbs ab,1,lab_test
+289877,hepatitis b virus surface antigen (hbs ag) p,1,lab_test
+289881,hepatitis b virus by pcr: quantitative,1,lab_test
+289882,hepatitis b virus by real time pcr (quantitative,1,lab_test
+289891,"hepatitis b core antibodies, total (hbc abs total",1,lab_test
+289893,hepatitis b core antibody - ?????,1,lab_test
+289894,hepatitis b core antigen - immunohistochemical stain - ?????,1,lab_test
+289895,hepatitis b core igm (hbc - igm,1,dental
+289896,hepatitis b core igm antibody (hbcab-igm,1,lab_test
+289897,hepatitis b core antibodies igm (anti-hbc igm,1,lab_test
+289898,hepatitis b core(hbc) igm,1,dental
+289899,hepatitis b e antibody,1,lab_test
+289900,hepatitis b e antibody - ?????,1,lab_test
+289901,hepatitis b envelop antibody (hbe ab) s/o- bo,1,lab_test
+289908,hepatitis b s antigen - immunohistochemical stain - ?????,1,lab_test
+289909,hepatitis b surface (bbs) ag,1,lab_test
+289914,hepatitis b surface (hbs) ag - 246,1,lab_test
+289916,hepatitis b surface abs (hbs ab,1,lab_test
+289920,hepatitis b surface antibody666,1,lab_test
+289922,hepatitis b surface antigen p.f.s (engerix b20,1,lab_test
+289923,hepatitis b surface ag hbs ab,1,lab_test
+289924,hepatitis b surface antibodies,1,lab_test
+289928,hepatitis b surface antigen - elisa,1,lab_test
+289929,hepatitis b surface antigen - screening,1,lab_test
+289933,hepatitis b virus (antigen,1,lab_test
+289934,hepatitis b virus by pcr quantitative,1,lab_test
+289935,hepatitis b virus e antigen immunoglobulin g antibody,1,lab_test
+289936,hepatitis b virus e antigen immunoglobulin g antibody (mhl lab,1,lab_test
+289937,hepatitis b virus surface antibody (hbsab,1,lab_test
+289938,hepatitis b virus surface antigen,1,lab_test
+289939,hepatitis b virus surface antigen immunoglobulin g antibody,1,lab_test
+289940,hepatitis b virus surface antigen immunoglobulin g antibody (mhl lab,1,lab_test
+289941,"hepatitis b:(all profile;hbsag,hbeab, hbcab, hbsab, anti-hbe ag",1,lab_test
+289942,"hepatitis bc ab, total, serum",1,lab_test
+289943,hepatitis bc antibodies (hbc ab,1,lab_test
+289944,"hepatitis bc antibody, igg, (anti-hbc), serum",1,lab_test
+289945,"hepatitis bc antibody, igm only (anti-hbc, igm), serum",1,lab_test
+289947,"hepatitis be ag, serum",1,lab_test
+289949,"hepatitis be antibody (anti-hbe), serum",1,lab_test
+289951,hepatitis be antigen (hbe ag) s/o- bo,1,lab_test
+289952,"hepatitis be antigen (hbeag), serum",1,lab_test
+289953,"hepatitis be antigen and antibody (hbeag and anti-hbe), serum",1,lab_test
+289957,hepatitis bs antibody,1,lab_test
+289958,hepatitis bs antibody ( hbs ab,1,lab_test
+289959,"hepatitis bs antibody (anti-hbs), serum",1,lab_test
+289960,hepatitis bs antigen ( hbs ag,1,lab_test
+289962,"hepatitis bs antigen (hbsag), serum",1,lab_test
+289963,hepatitis bsag,1,lab_test
+289964,hepatitis c (eliza) anti hcv,1,lab_test
+289965,hepatitis c (eliza) anti-hcv,1,lab_test
+289966,hepatitis c (hcv) virus by pcr (qualitative,1,lab_test
+289967,hepatitis c - igm (hcv igm,1,lab_test
+289968,hepatitis c - pcr (qualitative,1,lab_test
+289969,hepatitis c - pcr (quantitative,1,lab_test
+289970,hepatitis c - virus,1,lab_test
+289971,hepatitis c ab (hcv ab,1,lab_test
+289972,hepatitis c ab (igm,1,lab_test
+289973,hepatitis c antibodies (hcv abs,1,lab_test
+289974,hepatitis c antibodies (hcv,1,lab_test
+289977,"hepatitis c antibody (anti-hcv), serum",1,lab_test
+289980,"hepatitis c viruc antibody,73100-27-60",1,lab_test
+289981,hepatitis c virus,3,lab_test
+289982,hepatitis c virus ( hcv,1,lab_test
+289983,hepatitis c virus (anitbodies,1,lab_test
+289984,hepatitis c virus (antibodies,1,lab_test
+289985,hepatitis c virus (hcv genotype) send out,1,lab_test
+289987,hepatitis c virus (hcv) abs (sfv,1,lab_test
+289988,hepatitis c virus (hcv) abs - 247,1,lab_test
+289989,hepatitis c virus (hcv) abs by elisa,2,lab_test
+289990,hepatitis c virus (hcv) abs by elisa (sfv,1,lab_test
+289991,hepatitis c virus (hcv) abs(09087,1,lab_test
+289992,hepatitis c virus (hcv) fibrosure,1,lab_test
+289993,"hepatitis c virus (hcv) genotyp after amplification, serum",1,lab_test
+289995,"hepatitis c virus (hcv) rna by pcr, quantitative",1,lab_test
+289999,"hepatitis c virus - rna (pcr) , quantitative",1,lab_test
+290002,hepatitis c virus ag/ab (hcv ag/ab,1,lab_test
+290003,hepatitis c virus antibodies (by elisa,1,lab_test
+290005,hepatitis c virus antibody ( hcv ab,1,lab_test
+290007,hepatitis c virus antibody (hcv-ab,1,lab_test
+290008,"hepatitis c virus antibody confirmation by recombinant immunoblot assay (riba), serum",1,lab_test
+290011,"hepatitis c virus confirmation, riba",1,lab_test
+290012,hepatitis c virus genotype: line probe assay (lipa,1,lab_test
+290013,"hepatitis c virus rna (hcv-rna) quantitative detection by rt-pcr, serum",1,lab_test
+290014,"hepatitis c virus rna, qualitative",1,lab_test
+290018,hepatitis c virus by pcr (qualitative) hcv,1,lab_test
+290021,hepatitis c virus by pcr (quantitative) hcv,1,lab_test
+290022,"hepatitis c virus by rna, ultraquant by dna",1,lab_test
+290023,hepatitis c virus by real time pcr (quantitative,1,lab_test
+290024,hepatitis c virus(hcv) abs,1,lab_test
+290025,"hepatitis c virus, abs",1,lab_test
+290026,"hepatitis c virus, genotype",1,lab_test
+290027,hepatitis c virusquantitation and detection by pcr,1,lab_test
+290028,"hepatitis c antibody (anti hcv),serum",1,lab_test
+290030,"hepatitis c antibody; confirmatory test (eg, immunoblot",1,lab_test
+290031,hepatitis c virus antibodies (3rd gen.)- elisa,1,lab_test
+290032,hepatitis c virus antibodies(3rd gen.)- screen,1,lab_test
+290034,"hepatitis c, abs-1100",1,lab_test
+290037,"hepatitis cvirus - rna (pcr) , quantitative",1,lab_test
+290038,hepatitis d ab,1,lab_test
+290039,hepatitis d virus (hdv) igm,1,lab_test
+290040,hepatitis delta,1,lab_test
+290042,"hepatitis delta antibody (anti-hdv), total, serum",1,lab_test
+290043,hepatitis e ab igg,1,lab_test
+290044,hepatitis e ab igm,1,lab_test
+290046,"hepatitis e antibody, hev ab",1,lab_test
+290047,"hepatitis e antibody, hev igg ab",1,lab_test
+290048,hepatitis e igm antibody,1,lab_test
+290049,hepatitis e igm antibodies,1,lab_test
+290050,hepatitis e virus (hev ) igm -{q},1,lab_test
+290051,hepatitis e virus (hev )abs -{q},1,lab_test
+290054,hepatitis e virus antibody ab (hev ab,1,lab_test
+290057,"hepatitis e virus abs igg, igm (hev",1,lab_test
+290058,"hepatitis e virus, rna detection and quant. pcr - send out",1,lab_test
+290062,"hepatitis profile, acute (symptomatic - type unknown, duration < 6 months), serum",1,lab_test
+290063,"hepatitis screen panel (anti hcv,anti hav (igm",1,lab_test
+290064,hepatitis screen panel (anti hcvanti hav (igm,1,lab_test
+290065,hepatitis v dna dir probe,1,lab_test
+290067,hepatitis a antibody igm only (anti hav igm,1,lab_test
+290069,hepatitis a antibody igm only antihavigm,1,lab_test
+290070,hepatitis a antibody igm only _anti-havigm_,1,lab_test
+290077,hepatitis b profile(5parmete rs,1,lab_test
+290082,hepatitis c antibody (pathology test,1,lab_test
+290084,hepatitis c virus antibody total (hcv ab tota,1,lab_test
+290087,hepatitis c virus antibody total -hcv ab total,1,lab_test
+290088,hepatitis c virus antibody total hcv ab total,1,lab_test
+290089,hepatitis c virus antibody total _hcv ab total_,1,lab_test
+290094,hepatitis%20b%20surface%20(hbs)%20ag%09,1,lab_test
+290099,hepatitisb(adult,1,other
+290100,hepatits b anigen,1,other
+290101,hepatits b vaccel,1,other
+290102,hepatitvs c virus quantitive pcr,1,lab_test
+290103,hepatobiliary and pancreatic surgery follow-up,1,procedure
+290104,hepatobiliary and pancreatic surgery new patient,1,procedure
+290105,"hepatobiliary scan, hida",1,imaging
+290106,hepatobiliary upper gi onc and sarcoma follow-up,1,consultation
+290107,hepatobiliary upper gi onc and sarcoma new follow-up,1,consultation
+290108,hepatobiliary upper gi onc and sarcoma new patient,1,other

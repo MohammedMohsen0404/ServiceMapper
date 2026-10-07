@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+177195,doppler on l.l (ischemia,1,imaging
+177196,doppler on l.l limp vein,1,imaging
+177197,doppler on ll (ischemia,1,imaging
+177198,doppler on one limp,1,imaging
+177199,doppler on u.l veins (ischemia,1,imaging
+177200,doppler on u.l veins (varicose &dvt,1,imaging
+177201,doppler on vertebral arteries,1,imaging
+177202,doppler one limb,2,imaging
+177203,doppler onl.l veins (varicose &dvt,1,imaging
+177204,doppler onll veins (varicose &dvt,1,imaging
+177205,doppler of the carotid artery,1,imaging
+177206,doppler penile,1,imaging
+177207,doppler penile vsls complete,1,imaging
+177208,doppler peripheral art 1 lib,1,imaging
+177209,doppler peripheral art 1 limb,1,imaging
+177210,doppler peripheral art 2 limb,2,imaging
+177211,doppler peripheral art venous 2 limbs,1,imaging
+177212,doppler peripheral art2 limb,1,imaging
+177213,doppler peripheral arterial venous one l,1,imaging
+177214,doppler peripheral arteries (one side,1,imaging
+177215,doppler peripheral artery bilateral,1,imaging
+177216,doppler peripheral artery unilateral,1,imaging
+177217,doppler peripheral veins (both sides,1,imaging
+177218,doppler peripheral veins bilateral,1,imaging
+177219,doppler peripheral veins unilateral,1,imaging
+177220,doppler peripheral viens: 1side,1,imaging
+177221,doppler pf single upper limb viens,1,imaging
+177222,doppler pregnancy,1,imaging
+177223,doppler renal arteries,1,imaging
+177224,doppler renal arteries one side,1,imaging
+177225,doppler renal arteries renal vein,1,imaging
+177226,doppler renal arteries renal veins,1,imaging
+177227,doppler renal arteries two sides,1,imaging
+177228,doppler renal artery,1,imaging
+177229,doppler scan any part of the body (1 side,1,imaging
+177230,doppler scan one limb for dvt & varicose veins,1,imaging
+177231,doppler scan portable (opd clinic,1,imaging
+177232,doppler scan two limbs for dvt & varicose veins,1,imaging
+177233,"doppler scan, arterial inflow, venous outflow, abdominal/pelvic/retroperitoneal organs; limited",1,imaging
+177234,"doppler scan,artel,ven flow,abd/pelv/retroperiton org limit",1,imaging
+177235,doppler scrotal and testes,1,imaging
+177236,doppler scrotal ultrasound,1,imaging
+177237,doppler scrotum,3,imaging
+177238,doppler scrotum / testicular artery,1,imaging
+177239,doppler scrotum us,1,imaging
+177240,doppler sonography,1,imaging
+177241,doppler stu./lower limp/1side,1,imaging
+177242,doppler study,1,imaging
+177243,doppler study (obstetric,1,imaging
+177244,doppler study follow up,1,imaging
+177245,doppler study for umbilical artery gravid uterus,1,imaging
+177246,doppler study for varicocelle,1,imaging
+177247,"doppler study, lower limbs",1,imaging
+177248,"doppler study, specify area",1,imaging
+177249,doppler testes (scrotum,1,imaging
+177250,doppler testes scrotum,1,imaging
+177251,doppler testicular artery both side,1,imaging
+177252,doppler tow lower limb venous,1,imaging
+177253,doppler two limbs,3,imaging
+177254,doppler u-sound vasculature(2 regions,2,imaging
+177255,doppler u/s,3,imaging
+177256,doppler u/s of testis and penis,1,imaging
+177257,doppler u/s pregnancy,1,imaging
+177258,doppler u/s rt lower limb venous,1,imaging
+177259,doppler ultra sound,2,imaging
+177260,doppler ultraasound (testicles,1,imaging
+177261,doppler ultrasonography,1,imaging
+177262,doppler ultrasound,4,imaging
+177263,doppler ultrasound 1 limb,1,imaging
+177264,doppler ultrasound 1 side,1,imaging
+177265,doppler ultrasound 2 side,1,imaging
+177266,doppler ultrasound both limb,1,imaging
+177267,doppler ultrasound limb 1 side,1,imaging
+177268,doppler ultrasound lower limb,1,imaging
+177269,doppler ultrasound of venus single limp,1,imaging
+177270,doppler ultrasound upper limb,1,imaging
+177271,doppler upper limb arterial,1,imaging
+177272,doppler us (carotid arteries,1,imaging
+177273,doppler us (renal vessels,1,imaging
+177274,doppler us (upper limp) bilateral,1,imaging
+177275,doppler us (upper limp) unilateral,1,imaging
+177276,doppler us of the scrotum,1,imaging
+177277,doppler us of vessels of other sites,1,imaging
+177278,doppler us vasculature(1 region,1,imaging
+177279,doppler us(lower limbs) bilateral,1,imaging
+177280,doppler uterine biophysical profile,1,imaging
+177281,doppler uterine examination colored,1,imaging
+177282,doppler veins one both limb (upper or lower,1,imaging
+177283,doppler veins one limb (upper or lower,1,imaging
+177284,doppler veins2 limbs,2,imaging
+177285,doppler veinsone limb,2,imaging
+177286,"doppler velocimetry, fetal; umbilical artery",1,imaging
+177287,doppler venous both l l,1,imaging
+177288,doppler venous left l l,1,imaging
+177289,doppler venous left ul,1,imaging
+177290,doppler venous one limb,3,imaging
+177291,doppler venous right l l,1,imaging
+177292,doppler venous right ul,1,imaging
+177293,doppler venous system on both limbs,2,imaging
+177294,doppler venous system on one limb,2,imaging
+177295,doppler on veins and arteries of both upper limbs,1,imaging
+177296,doppler on veins of both lower limbs,1,imaging
+177297,doppler ultrasound of vessels of other,1,imaging
+177298,doppler-any region,3,imaging
+177299,doppler. aorta & ivc,1,imaging
+177300,doppler. av fistula,2,imaging
+177302,doppler. both carotid & vertebral arteries,1,imaging
+177303,doppler. both carotid arteries,2,imaging
+177304,doppler. lower limb arter. (2 sides,2,imaging
+177305,doppler. lower limb arter. (left,3,imaging
+177306,doppler. lower limb arter. (right,3,imaging
+177307,doppler. lower limb vein (left,2,imaging
+177308,doppler. lower limb vein (right,3,imaging
+177309,doppler. lower limb vein. (2 sides,2,imaging
+177313,doppler. lower limb vein,1,imaging
+177317,doppler. mesentric artery,1,imaging
+177319,doppler. portable in o.r,3,imaging
+177320,doppler. portal & hepatic veins,1,imaging
+177321,doppler. portable in i.p,1,imaging
+177323,doppler. renal arteries,2,imaging
+177324,doppler. scrotal & testicular,2,imaging
+177325,doppler. transcranial,1,imaging
+177326,doppler. transcranial (tcd,1,imaging
+177327,doppler. transplant (kidney,2,imaging
+177328,doppler. transplant (liver,1,imaging
+177330,doppler. upper limb arter. (2 sides,2,imaging
+177331,doppler. upper limb arter. (left,2,imaging
+177332,doppler. upper limb arter. (right,2,imaging
+177333,doppler. upper limb vein (left,2,imaging
+177334,doppler. upper limb vein (right,3,imaging
+177335,doppler. upper limb vein. (2 sides,3,imaging
+177342,doppler. vertebro-basilar with dynamic,1,imaging
+177343,dopplex arterial system (both legs,1,other
+177344,doppller us for one limb,1,supplies
+177350,doputamin stress test,1,lab_test
+177361,doracuidado brn=07/2010 (37.00,1,other
+177362,doracuidado pnk=07/2010 (37.00,1,other
+177363,doraflora blu,1,other
+177364,doraflora pnk,1,other
+177365,doralittle star blu=07/2010 (4,1,other
+177366,doraod01 pnk =07/2010 (43.00,1,other
+177367,doraod03 grn,1,other
+177368,doraod04 brn=06/2010 (00.00,1,other
+177369,doraod18 red=05/2012 (00.00,1,other
+177370,doraod20 pur = 10/2015,1,other
+177371,doraod21 blu = 10/2015,1,other
+177372,doraod24 pur = 10/2015,1,other
+177373,dorasal thoracic spines 2 views,1,imaging
+177374,dorasalthoracicspine x-ray2views,1,other
+177375,dorasl spine (ap +lat,2,imaging
+177376,dorasl spine/thoracic - 2 views,1,imaging
+177377,dorcell spine,1,other
+177378,dorco pace 6 blade 3pcs blister sxa100-3b,1,supplies
+177379,dorco pace4 1+1 /138,1,other
+177380,dorco tg710 disposable razor 5pcs/bag,1,supplies
+177381,dorius,2,other
+177385,dorius 20tab,1,other
+177413,dormia basket,1,other
+177414,dormia basket 1.9 fr x 120cm-per pcs,1,eyewear
+177415,dormia basket 3fr 90cm coloplast #exn434,1,other
+177416,dormia extraction of uretric stone,1,dental
+177417,"dormia nitinol no tip 1.5fr, 120",1,other
+177418,dormia nitinol tipless basket 1.5 fr,1,eyewear
+177419,dormia nstone 4 helical wire 3fr 90cm ext424-d,1,supplies
+177420,dormia nstone 4 helical wire 4fr 90cm ext 224,1,supplies
+177421,dormicome,1,other
+177422,dormicum,1,other
+177455,dormicum ampule ( new code,1,other
+177458,dorofen,1,other
+177460,dorofen 40caps,2,other
+177472,dorofen 40,1,other
+177482,dorofen 40cap,3,other
+177485,dorofen 40capsules,2,other
+177486,dorofen 40cup,1,other
+177502,dorofen 500 60cap,1,other
+177623,dorofen 500/50 40cap,1,other
+177624,dorofen 500/50 40cap(glucosamin?????? ????,1,other
+177625,dorofen 500/50 40cap(glucosaminدروفين حبوب,1,other
+177694,dorofen 500x50mg 40cap,1,other
+177695,dorofen 500x50mg 90cap,1,other
+177705,dorofen 90cap,3,other
+177706,dorofen 90cap/pk,1,other
+177737,dorsa lumbar spine <ap.&lat.>0,1,imaging
+177738,dorsa lumbar spines a.p&lateral,1,lab_test
+177739,dorsal & dorsolumbar fusion(post.or post.lateral) ->c81.05,1,imaging
+177740,dorsal ( thoracic ) 2 views,1,imaging
+177741,dorsal ( thoracic ) - 2 views,1,imaging
+177742,dorsal (2vs,1,imaging
+177743,dorsal (4v,1,imaging
+177744,dorsal (thoracic) spine ct w/o contrast,1,imaging
+177745,dorsal 1 view,1,imaging
+177746,dorsal 2 views,3,imaging
+177747,dorsal 2v-2f,1,imaging
+177748,dorsal 4 views,2,imaging
+177749,dorsal ap & lat,1,imaging
+177750,"dorsal ap, lat & both oblique",1,imaging
+177751,dorsal cock - up splint - small,1,imaging
+177752,dorsal lumbar spine (1 view,1,imaging
+177753,dorsal lumbar spine (2 views,1,imaging
+177754,dorsal lumber spine - 1 view,1,imaging
+177755,dorsal lumber spine - 2 views,2,imaging
+177756,dorsal lumber spine - 2 views(300055,1,imaging
+177757,dorsal spin,1,imaging
+177758,dorsal spinc,1,imaging
+177759,dorsal spine,4,imaging
+177760,dorsal spine 2 v1ew,1,imaging
+177761,dorsal spine lateral,5,imaging
+177762,dorsal spine single view,1,imaging
+177763,dorsal spine ( 1 view,2,imaging
+177764,dorsal spine ( 2 v,1,imaging
+177765,dorsal spine ( one view,1,imaging
+177766,dorsal spine ( two view,2,imaging
+177767,dorsal spine (1 view,1,imaging
+177768,dorsal spine (2 views,1,imaging
+177769,dorsal spine (2f,1,imaging
+177770,dorsal spine (2views,2,imaging
+177771,dorsal spine (ap +lat+both obl,2,imaging
+177772,dorsal spine (ap,2,imaging
+177773,dorsal spine (ap+lat,1,imaging
+177774,dorsal spine (four views,1,imaging
+177775,dorsal spine (lat,1,imaging
+177776,dorsal spine (oblique,1,imaging
+177777,dorsal spine (thoracic spine,1,imaging
+177778,dorsal spine (three views,1,imaging
+177779,dorsal spine (two view,1,imaging
+177780,dorsal spine (two views,1,imaging
+177781,"dorsal spine , 2 views",2,imaging
+177783,"dorsal spine , 4 views",1,imaging
+177784,dorsal spine - 2 views,2,imaging
+177785,dorsal spine -1 f,1,imaging
+177786,dorsal spine / thoracic,1,imaging
+177788,dorsal spine / thoracic spine - 2 views,1,imaging
+177789,dorsal spine / thoracic spine 2 views,3,imaging
+177790,dorsal spine /thoracic,1,imaging
+177791,dorsal spine /thoracic -2views,1,imaging
+177792,dorsal spine /thoracic-2views,1,imaging
+177793,dorsal spine 1 film,1,imaging
+177794,dorsal spine 1 v,1,imaging
+177795,dorsal spine 1 vew,1,imaging
+177796,dorsal spine 1 view,2,imaging
+177797,dorsal spine 2 f,3,imaging
+177799,dorsal spine 2 v,2,imaging
+177800,dorsal spine 2 view,4,imaging
+177801,dorsal spine 2 views,5,imaging
+177802,dorsal spine 2 views 2f,1,imaging
+177803,dorsal spine 2 views-1323,1,imaging
+177805,dorsal spine 2f x-ray,1,imaging
+177806,dorsal spine 2v,2,imaging
+177807,dorsal spine 3v,1,imaging
+177808,dorsal spine 4v,2,imaging
+177809,dorsal spine <ap.&lat.>0,1,imaging
+177810,dorsal spine a.p. & lateral,1,imaging
+177811,dorsal spine ap,4,imaging
+177812,dorsal spine ap & lat,3,imaging
+177813,dorsal spine ap & lateral,1,imaging
+177814,dorsal spine ap & lateral views,1,imaging
+177815,dorsal spine ap + lat,1,imaging
+177816,dorsal spine ap / lat,1,imaging
+177817,dorsal spine ap&lat,1,imaging
+177818,dorsal spine ap+lat,1,imaging
+177819,dorsal spine ap-lat-oblique 3views,1,imaging
+177820,dorsal spine ap-x-ray,1,imaging
+177821,dorsal spine ap/ lat,1,imaging
+177822,dorsal spine ap/l,1,imaging
+177823,dorsal spine ap/lat,3,imaging
+177824,dorsal spine ap/lat 600026,1,imaging
+177825,dorsal spine ap/lat -x-ray,1,imaging
+177826,dorsal spine ap/lat view,1,imaging
+177827,dorsal spine ap/lat/ obliq,1,imaging
+177828,dorsal spine ap/lat/obl,2,imaging
+177829,dorsal spine ap/lat/obl - (l/m,1,imaging
+177832,dorsal spine ap/oblique,1,imaging
+177833,dorsal spine apl,1,imaging
+177834,dorsal spine b/v,1,imaging
+177835,dorsal spine both obl,1,imaging
+177836,dorsal spine cv,1,imaging
+177837,dorsal spine four view,1,imaging
+177838,dorsal spine four views,2,imaging
+177840,dorsal spine lat,2,imaging
+177841,dorsal spine lat fl+ext,1,imaging
+177843,dorsal spine lateral-x-ray,1,imaging
+177844,dorsal spine oblique,2,imaging
+177845,dorsal spine oblique 2v,1,imaging
+177846,dorsal spine oblique-x-ray,1,imaging
+177847,dorsal spine one film,1,imaging
+177848,dorsal spine one view,2,imaging
+177850,dorsal spine thoracic 2 views,2,imaging
+177851,dorsal spine thoracic - 2 views,1,imaging
+177853,dorsal spine thoracic spine 2 views,1,imaging
+177854,dorsal spine three view,1,imaging
+177855,dorsal spine two positions,2,imaging
+177856,dorsal spine two positions 15303,1,imaging
+177857,dorsal spine two views,2,imaging
+177859,dorsal spine without contrast,2,imaging
+177860,dorsal spine x- ray 1 view,1,imaging
+177861,dorsal spine x-ray lat,1,imaging
+177862,dorsal spine x-ray-1,1,imaging
+177863,dorsal spine x-ray-2,1,imaging
+177864,dorsal spine- 1 view,1,imaging
+177865,dorsal spine- 2 views,4,imaging
+177867,dorsal spine- 4 views,2,imaging
+177868,dorsal spine- lumbar,1,imaging
+177869,dorsal spine-1864,1,imaging
+177870,dorsal spine/ thoracic spine 2 views,1,imaging
+177871,dorsal spine/thoracic - 2 view,1,imaging
+177878,dorsal spine/thoracic - 2views,1,imaging
+177879,dorsal spine/thoracic 2 views,2,imaging
+177880,dorsal spine/thoracic spine - 1 view,1,imaging
+177882,dorsal spine/thoracic spine - 2 views(300052,1,imaging
+177883,dorsal spine/thoracic spine 4 views,1,imaging
+177884,dorsal spine/thoracic spine-2 views,1,imaging
+177885,dorsal spine/thoracic- 2 views,1,imaging
+177886,dorsal spine1 film,1,imaging
+177887,dorsal spines,1,imaging
+177888,dorsal spines a.p \ alt,1,imaging
+177889,dorsal spines (d1-d12) ct scanning,2,imaging
+177890,dorsal spines 2 films,1,imaging
+177891,dorsal spines ap view,1,imaging
+177892,dorsal spines ap \ alt,1,imaging
+177893,dorsal spines ap and lat,2,imaging
+177894,dorsal spines ap& lat,1,imaging
+177895,dorsal spines ap/lat,1,imaging
+177896,dorsal spinethoracic - 2 view,1,imaging
+177897,dorsal spine\thoracic-2 view,1,imaging
+177898,dorsal/lumbar spine fusion autaleg w/i.f and bone graft (multi levels,1,imaging
+177900,dorsall spin 2 views,1,imaging
+177901,dorsel spine ap,1,imaging
+177902,dorso - lumber spines ap /lat,1,imaging
+177903,dorso - lumbor spine 2f (ap+lat,1,imaging
+177904,dorso lumar spine ap&lat,1,imaging
+177905,dorso lumbar 2 views,1,imaging
+177906,dorso lumbar 2v 2f,1,imaging
+177907,dorso lumbar ap/ lat,1,imaging
+177908,dorso lumbar apl,1,other
+177909,dorso lumbar gorset ( xl,1,other
+177910,dorso lumbar gorset (l,1,other
+177911,dorso lumbar gorset (m,1,other
+177912,dorso lumbar gorset (s,1,other
+177913,dorso lumbar gorset (xxl,1,other
+177914,dorso lumbar region,2,other
+177915,dorso lumbar spine - 1 view,1,imaging
+177916,dorso lumbar spine - 2 views,1,imaging
+177917,dorso lumbar spine 2v (xray,1,imaging
+177918,dorso lumbar spine ap,1,imaging
+177919,dorso lumbar spine ap /lat x-ray,1,imaging
+177920,dorso lumbar spine lat,1,imaging
+177921,dorso lumbar spine lat- x ray,1,imaging
+177922,dorso lumbar spine two views,2,imaging
+177924,dorso lumbar spine- single view,1,imaging
+177925,dorso lumbar spine-ap/lat,2,imaging
+177927,dorso lumbar taylor brace,1,supplies
+177928,dorso lumber belt,1,supplies
+177929,dorso lumber region,1,other
+177930,dorso lumber spine,1,other
+177931,dorso lumber spine ap/ lat,1,imaging
+177932,dorso lumber spine x ray,1,imaging
+177933,dorso lumber spines ap/lat,1,imaging
+177934,dorso lumber support,1,supplies
+177935,dorso spine 1f,1,imaging
+177936,dorso thoracic spine 2 views,1,imaging
+177937,dorso -lumber spines ap-lat,1,imaging
+177938,dorso -lumber spines ap/lat,1,imaging
+177939,dorso- lumbar spine,2,other
+177940,dorso-lumbar,1,other
+177941,dorso-lumbar - 2 views,1,imaging
+177942,dorso-lumbar (ap+lat,2,imaging
+177943,dorso-lumbar ap lat,1,imaging
+177944,dorso-lumbar spica,1,other
+177945,dorso-lumbar spinal fusion w/ harrington rod,1,supplies
+177946,dorso-lumbar spinal fusion w/ harrington rod long segment,1,supplies
+177947,dorso-lumbar spine,1,other
+177948,dorso-lumbar spine (ap & lat,2,imaging
+177949,dorso-lumbar spine (three views,1,imaging
+177950,dorso-lumbar spine (two views,1,imaging
+177951,dorso-lumbar spine b\v,1,other
+177952,dorso-lumbar spine lateral,1,imaging
+177953,dorso-lumbar spine-mri dorso-lumbar spine,1,imaging
+177954,dorso-lumbar support,1,supplies
+177955,dorso-lumber spine a.p,1,lab_test
+177956,dorso-lumber spine lateral,1,imaging
+177957,dorso-lumber spines ap lat,1,imaging
+177958,dorsolumbar (ap+lat,1,imaging
+177959,"dorsolumbar spine , 2 views",1,imaging
+177960,dorsolumbar spine -2 views,1,imaging
+177961,dorsolumbar spine 2 views,3,imaging
+177962,dorsolumbar spine ap/lat,1,imaging
+177963,dorsolumbar spine two views,1,imaging
+177964,dorsolumber ap&lat 2f,2,imaging
+177965,dorsolumber spine (one view,1,supplies
+177966,dorsolumber spine (two view,3,imaging
+177967,dorsolumber spine 2 views,1,imaging
+177996,dorzolamidetimolol maleate,1,other
+177998,dosal spine/thoracic - 2 views,1,imaging
+177999,dosifix iv set (burrette set,1,supplies
+178000,dosifix set,1,other
+178001,dosimetry by ct interfac comput for imrt,2,imaging
+178002,dosimetry by ct interfacing computer for three dimensional conformal r,2,imaging
+178003,"dosimetry by ct interfacing computer, intermediate",2,imaging
+178004,dosimetry ct interfac comput for 3dcrt,1,imaging
+178005,"dosimetry ct interfac computer, intrmed",1,imaging
+178006,dosimetry non-ct interfac comput 3dcrt,1,imaging
+178007,"dosimetry, basic",1,other
+178008,doso lumbar spine<lat.>0,1,imaging
+178009,dosposable suction irrigation set 5mm conmed,1,supplies
+178015,dostinex 0.5 2tab,1,other
+178017,dostinex 0.5 8tab,1,other
+178166,dostinex big box,1,other
+178174,dostinex-8tab,1,other
+178178,dosuno,1,other
+178179,dosuno block_frame_do-suno block-f,1,procedure
+178180,dosuno new city,1,other
+178181,dosuno solar clip,1,supplies
+178182,dosuno solar clip- do-suno pick up sc-f,1,supplies
+178184,dotarem 0.5mol-l glass bottle w-stopper,1,eyewear
+178185,double x ray,1,imaging
+178186,double amalgam filling,1,dental
+178187,double ballon,1,other
+178188,"double digital stent (6x24,5x28)-per pcs",1,supplies
+178189,double irrigation tubing,1,supplies
+178190,double j removal,1,procedure
+178191,double j (dj) exchange,1,other
+178192,"double j 6.0fr 26cm both#djsbes6026beo*b,medpro",1,other
+178193,double j 7fr 26cm. #bnba74,1,other
+178194,double j inseration (jj,1,other
+178195,double j reomval jj,1,other
+178196,double j sent 6,1,other
+178197,double j sent 7,1,other
+178198,double j stent ch. 6 26cm,1,supplies
+178199,double j stent insertion (unilateral,1,supplies
+178200,double j stent insertion for stricture ureter -package,1,supplies
+178201,double j stenting,1,other
+178202,double j steut insertion,1,procedure
+178203,double j ureteral stent 6fr 26cm,1,supplies
+178204,double j with normal pusher 6x26cm #bnba6,1,other
+178205,double j-stent sizes 6 w/guidwire,1,supplies
+178206,double jaw (orthognathic,1,other
+178207,double jaw (orthognathic)-dr.fee,1,consultation
+178208,double lipoma excision under g.a_gsu2015,1,procedure
+178209,double lumen bronchial tube l-side set connectors with clamps 39 ch,1,supplies
+178210,double lumen catheter size 11.5 fr,1,eyewear
+178211,double lumen central line size (any sizes)-per pcs,1,other
+178212,"double lumen dialysis catheter fr12,20cm femoral",1,supplies
+178213,double lumen insertion,1,procedure
+178214,double lumen insertion((femoral cath,1,supplies
+178215,double lumen insertion(jagular cath,1,supplies
+178216,double lumen transducer,1,other
+178217,double lumen umbilical cath 5 fr / ref 1274-17,1,eyewear
+178218,double photo therapy w o blood per day,1,lab_test
+178219,double photo therapy w/o blood per day,1,lab_test
+178220,double phototheraphy,1,other
+178222,double phototherapy (r+f.o,1,procedure
+178223,double phototherapy -per session,1,physiotherapy
+178224,double phototherapy /day,1,procedure
+178225,double phototherapy per 24 hrs,1,procedure
+178226,double phototherapy per day,7,procedure
+178227,double phototherapy per hour,1,procedure
+178229,double phototherapy w/o blood per day,1,lab_test
+178230,double phototherapy-nry./reg.room,1,procedure
+178231,"double pigtail stent (5x12cm,5x14cm)-per pcs",1,supplies
+178232,double room,2,consultation
+178233,double room/consumables & disposables /d,1,consultation
+178234,double standerd dioxyribonucleic a(ds dna abs,1,lab_test
+178235,double standerd dioxyribonucleic ac (ds dna abs,2,lab_test
+178236,double stranded dna,2,lab_test
+178237,double stranded dna (elisa,1,lab_test
+178238,double stranded dna antibodies,1,lab_test
+178239,double theraphy,1,other
+178240,double trocar k-wire 1.2mm,1,supplies
+178241,double trocar k-wire 1.4mm,1,supplies
+178242,double trocar k-wire 1.5mm,1,supplies
+178243,double trocar k-wire 1.6mm,1,supplies
+178244,double trocar k-wire 1mm,1,supplies
+178245,double valve replacement ( mitral and aortic ) w/out price of valve,1,consultation
+178246,double valve replacement+2 valves cost,1,other
+178247,double y- plate diff.sizes,1,supplies
+178248,double-j stenting,1,other
+178249,doublephototherapyperday,1,other
+178251,douglas pouch abscess drainage,1,supplies
+178252,douglas pounch abcess drainage,1,procedure
+178253,douglas pounch abscess drainage,1,procedure
+178254,douglas pounch abscess drainage (2nd operation 50%,1,procedure
+178271,dowel crown porcelain,1,dental
+178272,down syndrome (trisomy 21) by fish,1,lab_test
+178273,download outside film,1,other
+178291,doxidar100mg 10pk,1,other
+178296,doxivenil,2,other
+178381,doxycin,2,other
+178383,doxycin ( 100,1,other
+178385,doxycin 100 10cap,1,other
+178407,doxycin vol: cocentrate: mg unit:10 blister,1,supplies
+178409,doxycin100mg,1,other
+178458,doxycycline100mgcap(b/10,1,other
+178583,doxydar100mg 10cap,1,other
+178587,doplex of the renal vessles,1,other
+178588,doplex on arteries of both lower limbs,1,other
+178589,doplex on arteries of single lower limb,1,other
+178590,doplex on veins & arteries of both lower limbs,3,other
+178591,doplex on veins & arteries of both upper limbs,1,other
+178592,doplex on veins & arteries of single lower limb,2,other
+178593,doplex on veins & arteries of single upper limb,1,other

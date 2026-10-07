@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+590677,unilateral probing & syringing (under ga,1,procedure
+590678,unilateral probing & syringing + intubation,2,procedure
+590679,unilateral probing & syringing of naso-lacrimal duct,1,procedure
+590680,unilateral probing &syringing +intubation,1,procedure
+590681,unilateral probing of lacrimal punctum- 1 day pkg,1,procedure
+590682,unilateral ptosis repair + fresh fascialata,1,procedure
+590683,unilateral punctal occlusion,1,other
+590684,unilateral radical mastectomy,1,procedure
+590685,unilateral radical mastectomy - 6 day pkg,1,procedure
+590686,unilateral radical neck dissection-3 days pkg,1,other
+590687,unilateral radical neck dissection->c40.41,1,other
+590688,unilateral realease of carpal tunnel,1,other
+590689,unilateral release of carpal tunnel syndrome,1,procedure
+590690,unilateral release of carpal tunnel syndrome (deco->c04.43,1,procedure
+590691,unilateral release of carpal tunnel syndrome (decompression,1,procedure
+590692,unilateral release of carpal tunnel syndrome (decompression) - 1 day pkg,1,procedure
+590693,unilateral release of carpal tunnel syndrome (decompression)- package,1,procedure
+590694,unilateral release of elbow constructive,1,procedure
+590695,unilateral release of tarsal tunnel syndrome decompression-1 day pkg,1,procedure
+590696,unilateral removal of device from bone,1,imaging
+590697,unilateral removal of implanted device from bon,1,procedure
+590698,unilateral removal of implanted device from bone,1,imaging
+590699,unilateral removal of implanted device from bone - 1 day pkg,1,imaging
+590700,unilateral removal of implanted device from bone- package,1,imaging
+590701,unilateral removal of implanted device from bone->c78.6,1,imaging
+590702,unilateral repair of inguinal hernia w/ graft or p,1,procedure
+590703,unilateral repair entropion - ectropion with graft,1,procedure
+590704,unilateral repair of cleft lip->c27.54,1,procedure
+590705,unilateral repair of cruciate ligament (arthroto,1,procedure
+590706,unilateral repair of cruciate ligament (arthrotomy for acl) - 3 day pkg,1,procedure
+590707,unilateral repair of ectropion or entropion,1,procedure
+590708,unilateral repair of ectropion or intropion,1,procedure
+590709,unilateral repair of entropion or ectropion,2,procedure
+590710,unilateral repair of femoral hernia with mesh - 1day pkg,1,supplies
+590711,unilateral repair of femoral hernia->c53.2,1,procedure
+590712,unilateral repair of inguinal -femoral hernia with mesh,1,supplies
+590713,unilateral repair of inguinal /femoral hernia with mesh,1,supplies
+590714,unilateral repair of inguinal femoral hernia with mesh,1,supplies
+590715,unilateral repair of inguinal hernia,3,procedure
+590716,unilateral repair of inguinal hernia ( c53.0,1,procedure
+590717,unilateral repair of inguinal hernia (herniorrhaphy,1,procedure
+590718,unilateral repair of inguinal hernia (herniorrhaphy) (including mesh,1,supplies
+590720,unilateral repair of inguinal hernia - 1 days,1,procedure
+590721,unilateral repair of inguinal hernia w/ graft or p->c53.05,1,procedure
+590722,unilateral repair of inguinal hernia w/ graft or prosthesis -package,1,supplies
+590723,unilateral repair of inguinal hernia w/ graft or prosthesis with mesh - 1day pkg,1,supplies
+590724,unilateral repair of inguinal hernia w/ graft,1,procedure
+590725,unilateral repair of inguinal hernia w/ mesh (hernioplasty,1,supplies
+590726,unilateral repair of inguinal hernia with mesh - 1day pkg,1,supplies
+590727,unilateral repair of inguinal hernia without mesh (pediatric,1,supplies
+590728,unilateral repair of inguinal hernia->c53,1,procedure
+590729,unilateral repair of inguinal hernia->c53.0,2,procedure
+590731,unilateral retinal photo cagation (two setting,1,other
+590732,unilateral retinal photo coagulation,1,other
+590733,unilateral retinal photocagation (two setting,1,other
+590734,unilateral retinal photocoagulation (one setiing,1,supplies
+590735,unilateral retinal photocoagulation (one setting,2,supplies
+590737,unilateral retinal photocoagulation (three setiings,1,other
+590738,unilateral retinal photocoagulation (three setting,1,other
+590739,unilateral retinal photocoagulation (three settings,1,other
+590740,unilateral retinal photocoagulation (two setiings,1,other
+590741,unilateral retinal photocoagulation (two settings,1,other
+590742,unilateral salpingo-oophorectomy,1,procedure
+590743,unilateral salpingo-oophorectomy - 3 day pkg,1,procedure
+590744,unilateral salpingo-oophorectomy->c65.4,1,procedure
+590745,"unilateral selective lateral neck dissection (level 2, 3 & 4) and unilateral posterior dissection - 3 days pkg",1,lab_test
+590746,unilateral selective neck dissection-2days pkg,1,other
+590747,unilateral silicon punctum occlusion,1,supplies
+590748,unilateral simple mastectomy,1,procedure
+590749,unilateral simple mastectomy 3 day pkg,1,procedure
+590750,unilateral simple mastectomy->c85.41,1,procedure
+590751,unilateral simple ptosis repair,2,procedure
+590752,unilateral sinsus puncture g.a,1,procedure
+590753,unilateral sinus washout,1,procedure
+590754,unilateral squint repair,1,procedure
+590755,unilateral squint repair under ga,1,procedure
+590756,unilateral suction clearance,1,supplies
+590757,unilateral suction ear / nose,1,supplies
+590758,unilateral superfacial keratectomy,1,procedure
+590759,unilateral superficial femoral artery stent graft by interventional radiologist (without stents) - 3 days pkg,1,supplies
+590760,unilateral superficial femoral artery stent-pkg,1,supplies
+590761,unilateral tarsal strip,2,supplies
+590762,unilateral temporary (collagen plugs) punctum occlusion,1,supplies
+590763,unilateral three snip operation,1,procedure
+590764,unilateral three snip operation - one eye,1,supplies
+590765,unilateral thyroid lobectomy + isthmectomy,1,procedure
+590766,unilateral thyroid lobectomy + isthmectomy (hemithyroidec,1,procedure
+590767,unilateral thyroid lobectomy + isthmectomy (hemithyroidectomy) - 3 days pkg,1,procedure
+590768,unilateral thyroid lobectomy + isthmectomy (hemithyroidectomy) with ligasure - 3 days pkg,1,procedure
+590769,unilateral thyroid lobectomy + isthmectomy(hem,1,procedure
+590770,unilateral thyroid lobectomy + isthmectomy(hemithy->c06.2,1,procedure
+590771,unilateral thyroid lopectomy,1,procedure
+590772,unilateral tomography oct,2,diagnostic
+590774,unilateral total hip replacement,1,other
+590775,unilateral total hip replacement (with material cost)- package,1,other
+590776,unilateral total hip replacement - 6 days,1,other
+590777,unilateral total hip replacement- 7 day pkg,1,other
+590778,unilateral total hip replacement-> c81.51,1,other
+590779,unilateral total knee replacement,1,other
+590780,unilateral total knee replacement (utkr,1,other
+590781,unilateral total knee replacement (with material cost)- package,1,other
+590782,unilateral total knee replacement revision (with material cost) - package,1,procedure
+590783,unilateral total knee replacement(c81.54,1,other
+590784,unilateral total knee replacement- 5 day pkg,1,other
+590785,unilateral total knee replacement- 7 day pkg,1,other
+590786,unilateral total knee replacement-> c81.54,1,other
+590787,unilateral total reconstruction of breast->c85.7,1,procedure
+590788,unilateral trabeculectomy a b-externo (intra ca,1,lab_test
+590789,unilateral trabeculectomy ab-externo (intra capsular) - 1 day pkg,1,lab_test
+590790,unilateral transurethral insertion of ureteral s,1,procedure
+590791,unilateral transurethral insertion of ureteral ste->c59.8,1,procedure
+590792,unilateral transurethral insertion of ureteral stent - 1 day pkg,1,supplies
+590793,unilateral trichiasis repair,2,procedure
+590794,unilateral turbenectomy or partial inferior tubinectomy,1,procedure
+590795,unilateral turbinate or partial infer. turbinectomy,1,procedure
+590796,unilateral turbinate or partial infer. turbinectomy - 1 day pkg,1,procedure
+590797,unilateral turbinate or partial infer. turbinectomy with tricut - 1 day pkg,1,procedure
+590798,unilateral tympanoplasty,1,procedure
+590799,unilateral tympanoplasty (closure of perforatio,1,procedure
+590800,unilateral tympanoplasty (closure of perforation w/ graft,1,procedure
+590801,unilateral tympanoplasty (closure of perforation w/ graft)- 1 day pkg,1,procedure
+590802,unilateral tympanotomy & ventilation tube insertion + direct nasopharyngoscopy,1,supplies
+590803,unilateral ultasonography,2,other
+590804,unilateral ultrasonography,2,imaging
+590805,unilateral ultrasonography (ec012,1,imaging
+590806,unilateral ultrasonography - in - p,1,imaging
+590807,unilateral ultrasonography(one eye,1,imaging
+590808,unilateral upper exterimeties,1,other
+590809,unilateral upper extremities,1,other
+590810,unilateral ureteral reimplantation with excision of ureterocele - 2days pkg,1,procedure
+590811,unilateral ureteral splinting,1,other
+590812,unilateral ureteric double j insertion,1,procedure
+590813,unilateral ureteric splinting,1,other
+590814,unilateral ureteroscopic insertion of dj-stent,1,supplies
+590815,unilateral uretric cathete,1,other
+590816,unilateral varicocel,1,other
+590817,unilateral varicocele,1,other
+590818,unilateral varicocele embolization w/o coils price,1,procedure
+590819,unilateral varicocelectomy,1,procedure
+590820,unilateral vaso epidedimostomy,1,procedure
+590821,unilateral yag laser posterior capsulotomy (one eye)/dr. 01 adel rushood,1,supplies
+590822,unilateral yag laser posterior capsulotomy (one eye)/dr. 02 abdulaziz rushood,1,supplies
+590823,unilateral yag laser posterior capsulotomy (one eye)/dr. hind abdullatif,1,supplies
+590824,unilateral yag laser posterior capsulotomy (one eye)/dr. muath alrushood,1,supplies
+590825,unilateral yag laser posterior capsulotomy (one eye)/dr. uday al owaifer,1,supplies
+590826,unilateral yag laser posterior capsulotomy (one eye)/dr. z mohanna or,1,supplies
+590827,"unilateral, myringotomy w/ insertion of tube",1,supplies
+590828,"unilateral, myringotomy w/ insertion of tube - 1 day pkg",1,supplies
+590829,"unilateral, myringotomy w/ insertion of tube->c2",1,eyewear
+590830,"unilateral, myringotomy w/ insertion of tube->c20.01",1,supplies
+590831,unilateral.repair of inguinal hernia->c53.0,1,procedure
+590832,unilateralthyroid orbital decompression,1,procedure
+590833,unilatereral inguinal herniotomy o s,1,procedure
+590834,unilaterialpartialostectomy,1,procedure
+590835,unilaterialpartialostectomy (o-54-c77.87,1,procedure
+590837,unilatiral laparoscopic (tep) groin hernia repair,1,procedure
+590838,unilatral phaco + multifocal lens,1,eyewear
+590839,unilatrral occular ultrasound,1,imaging
+590841,unipro 31mm 1 2 c.r.b 3(2 0) 75cm #sd9117,1,lab_test
+590859,unique u-fa 30 hearing aid bte,1,supplies
+590860,unique u-fm 30 hearing aid bte,1,supplies
+590885,unisia 8/5 30tab,1,other
+590913,unit dose system,1,other
+590914,unit dose system fees -ipd -per day,1,consultation
+590915,unit dose system fees / daily,1,consultation
+590916,unit prbcs,1,other
+590934,universal drape sterile pack c no jf p23141,1,supplies
+590935,universal knee immobilize,1,other
+590936,universal pack jm-p23141,1,supplies
+590937,universal q180306 surgical pack,1,supplies
+590938,universal reinforced pack with mayo cover,1,supplies
+590939,universal securement device large 100/box sterile (50,1,supplies
+590940,universal set w mayo stand cover #16110200,1,other
+590941,universal sling miracle,1,procedure
+590942,universal standard pack molnlycke # 699054,1,supplies
+590943,universal surgical pack leboo,1,supplies
+590944,universal tennis elbow strap,1,supplies
+590945,universal/dunelm/49/f,1,other
+590950,unlateral total knee replacement (o-54 -c81.54,1,other
+590951,unlateral total knee replacement,1,other
+590952,unlateral transurethral inseryion of ureteral,1,other
+590953,unlisted,2,other
+590954,unlisted ambulance service,1,supplies
+590955,unlisted code,4,other
+590956,unlisted code - chemotherapy,1,procedure
+590957,unlisted code - cosmetic,1,other
+590958,unlisted code - herbal and vitamins,1,other
+590959,unlisted code - imported medication,1,other
+590960,unlisted code - milk products,1,nutrition
+590961,unlisted code - nutritional supplements (enteral feeds,1,other
+590962,unlisted code - nutritional supplements (mother's milk substitute (baby/infant formula,1,nutrition
+590963,unlisted code - nutritional supplements (mothers milk substitute (baby/infant formula,1,nutrition
+590964,unlisted code - nutritional supplements (other nutritional substitute,2,other
+590965,unlisted code - otc,1,other
+590966,unlisted code - other non-medications,1,other
+590967,unlisted code - prescription medication,1,other
+590968,unlisted code-n/a,1,other
+590969,unlisted code-n/a-n/a,1,other
+590970,unlisted code-n/a-n/a-n/a,1,other
+590971,unlisted codes,2,other
+590972,unlisted craniofacial & maxillofacial procedure (major) - 7days pkg,1,other
+590973,unlisted craniofacial & maxillofacial procedure (minor) - 3days pkg,1,other
+590974,unlisted hematology and coagulation procedure,2,other
+590975,unlisted imaging code imaging,1,other
+590976,unlisted item,4,other
+590977,unlisted sodium choride 0.74 kg,1,lab_test
+590978,uno baby 60 wipes,1,supplies
+590979,uno rol paper cartoon/12roll,1,other
+590980,unodrops,1,other
+590997,unomed dressing 10/10cm x 5,1,supplies
+591003,unrinal,1,other
+591004,unrinary catheter insertion,1,supplies
+591006,unscheduled dressing change (by someone other than treating dentist or their sta,1,supplies
+591007,unspecified admin of pharmac agt steroid,2,consultation
+591008,"unspecified administration of pharmacological agent, antineoplastic ag",1,lab_test
+591009,"unspecified administration of pharmacological agent, nutritional subst",1,consultation
+591010,"unspecified administration of pharmacological agent, thrombolytic agen",1,consultation
+591011,"unstable angina, majc",1,inpatient
+591012,"unstable angina, minc",1,inpatient
+591013,unsterile gauze 2x2,1,supplies
+591014,unsterile gauze 4x4,1,supplies
+591015,unsterilesterile gauze,1,supplies
+591016,universal surgical pack wesamcom,1,supplies
+591017,up git endos w/-w/o biop (incl,1,other
+591018,upadacitinib,1,other
+591025,upep,1,other
+591026,uper endoscopy,1,procedure
+591027,uper git endoscopy with biopsy,1,procedure
+591028,upgrade double room to single,1,consultation
+591029,"upgrade double room to single,83610-01-10 room rate diff, daily rate (>/= 1 day) 1st class room",1,consultation
+591030,"upgrade room & board "" private to deluxe",1,eyewear
+591031,"upgrade room & board "" private to suite",1,consultation
+591032,"upgrade room & board ""deluxe to junior suite",1,eyewear
+591033,"upgrade room & board ""deluxed to suite",1,consultation
+591034,"upgrade room & board ""junior suite to suite",1,consultation
+591035,"upgrade room & board ""private to executive suite",1,consultation
+591036,"upgrade room & board ""private to junior suite",1,consultation
+591037,"upgrade room & board ""private to royal suite",1,consultation
+591038,"upgrade room & board ""private to semi royal suite",1,consultation
+591039,"upgrade room & board ""semi royal to royal suite",1,consultation
+591040,"upgrade room & board ""shared to deluxe",1,eyewear
+591041,"upgrade room & board ""shared to junior suite",1,consultation
+591042,"upgrade room & board ""shared to private"" room",1,consultation
+591043,"upgrade room & board ""shared to royal suite",1,consultation
+591044,"upgrade room & board ""shared to semi royal",1,consultation
+591045,"upgrade room & board ""shared to suite",1,consultation
+591046,"upgrade room & board ""suite to executive suite",1,consultation
+591047,"upgrade room & board ""suite to royal suite",1,consultation
+591048,"upgrade room & board ""suite to semi royal suite",1,consultation
+591049,upgrade room & board shared to vip suite,1,consultation
+591050,upgrade room and board shared to private room,1,consultation
+591052,upnormal 3rd molr extraction,2,dental
+591053,upper endoscopy +ga,2,procedure
+591054,upper endoscopy ga,1,procedure
+591055,upper g.i.t endoscopy - with polypectomy ( multiple polyps )w/o histopathology,1,lab_test
+591056,upper g.i.t endoscopy - with polypectomy ( one polyp ) w/o histopathology,1,lab_test
+591057,upper git endoscopic polypectomy(gastric polipectomy,1,procedure
+591058,upper & lower abdomen u/s,1,imaging
+591059,upper & lower abdominal sonogr,1,other
+591060,upper & lower abdominal sonogram,1,imaging
+591061,upper & lower endoscopy,1,procedure
+591062,upper & lower fixed othrodontic app/simp,1,other
+591063,upper & lower limb exercise one side,1,supplies
+591064,upper & lower limb exercise two side,1,other
+591065,upper abd. u/s,2,imaging
+591066,upper abdomen,4,other
+591067,upper abdomen (ultrasound,1,imaging
+591068,upper abdomen and plevis,1,other
+591069,upper abdomen or pelvis,1,other
+591070,upper abdomen u/s,2,imaging
+591071,upper abdomen us,2,imaging
+591072,upper abdomen us / total,1,imaging
+591073,upper abdominal sonogram,2,imaging
+591074,upper abdominal u/s,2,imaging
+591075,upper abdominal ultrasonography,1,imaging
+591076,upper abdominal ultrasound,2,imaging
+591078,upper abdominal us,1,imaging
+591079,upper abdominal usg,1,imaging
+591080,upper abdominal& pelvic usg,1,imaging
+591081,upper and lower abdomen,1,other
+591082,upper arm ap & lat,1,imaging
+591083,upper clear retainer,1,other
+591084,upper endocopy,1,other
+591088,"upper endoscopy ,with/without biopsy",1,procedure
+591089,upper endoscopy - diagnostic,1,procedure
+591090,upper endoscopy and biopsy,1,procedure
+591091,upper endoscopy and fb extraction,1,dental
+591092,upper endoscopy uga,1,procedure
+591093,upper endoscopy under ga,1,procedure
+591094,upper endoscopy with anastomatic gastric balloon dilatation - day case,1,supplies
+591095,upper endoscopy with biopsy,1,procedure
+591096,upper endoscopy with biopsy - day case,1,procedure
+591097,upper endoscopy with histopath,2,lab_test
+591099,upper endoscopy without histopath,2,lab_test
+591100,upper endoscopy without histopath (day case,1,lab_test
+591102,upper endoscopy+histopathology,1,lab_test
+591103,upper endoscopy-pkg,1,procedure
+591104,upper endsocpy +ga,1,other
+591105,upper examity adjust manipul,1,other
+591106,upper examity adjust/manipul,1,other
+591107,upper extreme vascularity/one side (colo,1,supplies
+591108,upper extreme vascularity/two side (colo,1,other
+591109,upper extremities hand ap & lateral,1,imaging
+591110,upper extremities shoulder ap & lateral,1,imaging
+591111,upper extremity artery us.doppler multisection,1,imaging
+591112,upper extremity vein us.doppler multisection,1,imaging
+591113,upper extremity venogram - bil,1,other
+591114,upper extremity venogram - one side,1,supplies
+591115,upper extrenity doppler one side,1,imaging
+591116,upper eye lids blepharoplasty->c08.87,1,procedure
+591117,upper eye lids blepharoplasty-l.a,1,procedure
+591118,upper femur ap & lat,1,imaging
+591119,upper g.i endoscopy,1,procedure
+591120,upper g.i endoscopy (diagnostic,1,procedure
+591121,upper g.i endoscopy with biopsy,1,procedure
+591122,upper g.i. (double contrast,1,imaging
+591123,upper g.i. endoscopy,1,procedure
+591124,upper g.i. endoscopy (diagnostic,1,procedure
+591125,upper g.i. endoscopy (package deal,1,procedure
+591126,upper g.i. endoscopy (therapeutic,1,procedure
+591127,upper g.i. endoscopy under l.a,1,procedure
+591128,upper g.i. endoscopy w histopath,1,lab_test
+591129,upper g.i. endoscopy w o histopath,1,lab_test
+591130,upper g.i. endoscopy w/o biopsy under l.a,1,procedure
+591131,upper g.i. endoscopy w/o biopsy under sedation,1,procedure
+591132,upper g.i. endoscopy with biopsy under sedation,1,procedure
+591133,upper g.i. endoscopy without histopath (inc,1,lab_test
+591134,upper g.i. therapeutic endoscopy (oesophageal variceal band ligation,1,procedure
+591135,upper g.i. with sbft,1,lab_test
+591136,upper g.i.(single contrast,1,imaging
+591137,upper g.i.t endoscopy ( diagnostic,3,procedure
+591140,upper g.i.t endoscopy ( diagnostic ) - 1 day(s,1,procedure
+591141,upper g.i.t endoscopy (diagnostic)- package,1,procedure
+591142,upper g.i.t endoscopy w/biopsy w/out histopathology,1,lab_test
+591143,upper g.i.t endoscopy w/biopsy w/out histopathology - 1 day(s,1,lab_test
+591144,upper g.i.t endoscopy w/biopsy w/out histopathology- package,1,lab_test
+591146,upper g.i.t endoscopy with band ligation,1,procedure
+591147,upper g.i.t endoscopy with esophageal dilatation ( w/out fluoroscopy,1,procedure
+591148,upper g.i.t endoscopy with esophageal dilatation ( with fluoroscopy,1,procedure
+591149,upper g.i.t endoscopy with oesophageal stent inserion w/out stent price,1,supplies
+591150,upper g.i.t endoscopy with removal of f.b,1,procedure
+591151,upper g.i.t endoscopy with sclerotherapy,1,procedure
+591152,upper g.i.t. endos +band lig .of o.v,1,lab_test
+591153,upper g.i.t. endoscopy (diagnostic) ed00352100,1,procedure
+591154,upper g.i.t. endoscopy (diagnostic,1,procedure
+591155,upper g.i.t. endoscopy under g.a,1,procedure
+591156,upper gastro. endoscopy w/ video,2,procedure
+591158,upper gastrointestinal endosco,2,other
+591160,upper gastrointestinal endoscopy with balloon dilation of esophagus,1,supplies
+591161,"upper gastrointestinal endoscopy including esophagus, stomach, and either the duodenum and/or jejunum as appropriate; with removal of foreign body",2,procedure
+591162,upper gastrointestinal endoscopy with biopsy with,1,procedure
+591163,"upper gastrointestinal endoscopy, under general anesthesia, histopatho",1,procedure
+591164,upper gastrointestinal radialendoscopic ultrasou,1,other
+591165,upper gastrointestinal tract - git,2,other
+591167,upper gastrtoscopy + insertion of nasojejunal tube,1,supplies
+591168,upper ge endoscopy,2,procedure
+591169,upper gi endoscope (local anasthesia,1,other
+591170,upper gi endoscope + extraction of f.b,1,dental
+591171,upper gi endoscope + h.p,1,lab_test
+591172,upper gi endoscope + histopathology,1,lab_test
+591174,upper gi endoscope + sample,1,other
+591175,upper gi endoscope histopathology,1,lab_test
+591176,upper gi endoscope sample,1,other
+591177,upper gi endoscopy,6,procedure
+591178,upper gi endoscopy (gastroscopy,1,procedure
+591180,upper gi endoscopy + peg insertion - day case,1,procedure
+591182,upper gi endoscopy + polypectomy - day case,1,procedure
+591183,upper gi endoscopy +histopathology,1,lab_test
+591184,upper gi endoscopy - diagnostic,1,procedure
+591185,upper gi endoscopy - diagnostic - day case,1,procedure
+591186,upper gi endoscopy - diagnostic - day case (inc,1,procedure
+591187,upper gi endoscopy - diagnostic with biopsy (clo test) - day case,2,lab_test
+591189,"upper gi endoscopy diagnostic with biopsy , single / multiple - pkg d/c",1,procedure
+591190,upper gi endoscopy for adult with g.a - (diagnostic,1,procedure
+591191,upper gi endoscopy for pedia under g. a - (diagnostic) in o.r,1,procedure
+591192,upper gi endoscopy for peg tube insertion under g.a,1,supplies
+591193,upper gi endoscopy for removal of foreign body under general anasthesia,1,procedure
+591195,upper gi endoscopy under g.a,1,procedure
+591196,upper gi endoscopy under l.a,1,procedure
+591197,upper gi endoscopy under la,1,procedure
+591198,upper gi endoscopy w band ligation esophageal varices,1,procedure
+591199,upper gi endoscopy w/ biopsy,2,procedure
+591200,upper gi endoscopy w/band ligation esophageal varices,2,procedure
+591202,"upper gi endoscopy w/band ligation, esophageal varices",1,procedure
+591203,"upper gi endoscopy w/band ligation, esophageal varices - pkg d/c",1,procedure
+591205,upper gi endoscopy with biopsy,1,procedure
+591206,upper gi endoscopy with biopsy ( w/ lab sr500,1,procedure
+591207,upper gi endoscopy with biopsy without histopathology,1,lab_test
+591208,upper gi endoscopy with clo test and biopsies,1,lab_test
+591209,upper gi endoscopy with esophageal biospy,1,procedure
+591210,upper gi endoscopy with histopathology biopsies,1,lab_test
+591211,upper gi endoscopy with peg insertion ( w/o tube/tape price,1,supplies
+591212,upper gi endoscopy with polypectomy w/o histopathology,1,lab_test
+591213,upper gi endoscopy with procedure,1,procedure
+591214,upper gi endoscopy without biopsy ( diagnostic,1,procedure
+591215,upper gi endoscopy with balloon dilatation of esophageal stricture - day case,1,supplies
+591216,upper gi endoscopy with foreign body removal - day case,1,procedure
+591217,upper gi endoscopy with lesion homeostasis using endoclips - day case,1,procedure
+591218,upper gi endoscopy with lesion homeostasis using heater probe - day case,1,supplies
+591219,upper gi endoscopy with percutanious endoscopic gastrostomy ?peg? tube replacement - day case,1,supplies
+591220,upper gi endoscopy with variceal band ligation - day case,1,procedure
+591221,upper gi endoscopy with bleeding lesion using plama argon coagulation (apc) - day case,1,lab_test
+591222,upper gi endoscopy with stenting of duodenal stricture . (wo/stent price) - day case,1,supplies
+591223,upper gi endoscopy with stenting of esophageal stricture (wo/stent price) - day case,1,supplies
+591224,"upper gi endoscopy, w/ control, bleeding, any method",1,lab_test
+591225,"upper gi endoscopy, w/ placement, percutaneous gastrostomy tube",1,supplies
+591227,upper gi endoscopy; dx (sep proc,1,procedure
+591228,upper gi endoscopy; dx (sep proc)(pack,1,supplies
+591229,"upper gi endoscopy; w/ band ligation, esophageal &/or gastric varices",1,procedure
+591230,upper git endoscope,3,other
+591231,upper git endoscope + cd + pic,3,other
+591233,upper git endoscope + pic,2,other
+591235,upper git endoscope +cd+ pic,1,other
+591237,upper git endoscopic removal of foreign body,1,procedure
+591238,upper git endoscopy,3,procedure
+591239,upper git endoscopy (with biopsy) one biopsy only,1,supplies
+591240,upper git endoscopy - diagnostic,1,procedure
+591241,upper git endoscopy for removal of foreign body,1,procedure
+591242,upper git endoscopy w/biopsy,1,procedure
+591243,upper git endoscopy w/o biopsy (opd/endoscopy unit,1,procedure
+591244,upper git endoscopy with biopsy,4,procedure
+591246,upper git endoscopy with biopsy (opd/endoscopy unit,1,procedure
+591247,upper git endoscopy without histopathology,1,lab_test
+591248,upper git endoscopy wo biopsy,1,procedure
+591249,upper git panendoscopy under general anesthesia,1,procedure
+591250,upper git with & without biopsy,1,procedure
+591251,upper lid papilloma excision (.day case,1,procedure
+591252,upper lid recession w/o implant -1day pkg,1,supplies
+591253,upper limb angiogram - excluding supplies - cathlab,1,imaging
+591254,upper limb angioplasty-2days pkg,1,procedure
+591255,upper limb arteries and veins doppler bilateral,1,imaging
+591256,upper limb arteries and veins doppler unilateral,1,imaging
+591257,upper limb arteriogram,1,other
+591258,upper limb doppler (both sides,1,imaging
+591259,upper limb doppler (one side,1,imaging
+591261,upper or lowe denture,1,dental
+591262,upper or lower eye lids blepharoplasty - dsu 1day pkg,1,procedure
+591263,upper or lower full acrylic denture,2,dental
+591264,upper r.t endoscopy for biopsy,1,procedure
+591265,upper r.t. endocopy for biopsy,1,procedure
+591266,upper r.t. endoscopy for biopsy,3,procedure
+591267,upper respiratory tract infection (urti) assessment profile,1,lab_test
+591268,upper rt endoscopy for biopsy + histopath,1,lab_test
+591269,upper ureterolithotomy,1,procedure
+591270,upper urterolithotomy,1,procedure
+591271,upper+lower abd.&pelvic u-s,1,other
+591272,upper/lower complete denture,1,dental
+591273,upper/lower limb arteries doppler bilateral,1,imaging
+591274,upper/lower limb arteries doppler unilateral,1,imaging
+591275,upper/lower limb veins doppler bilateral,1,imaging
+591276,upper/lower limb veins doppler unilateral,1,imaging
+591277,uppp ( la as per cost,1,other
+591278,upprer & lower sonogram,1,imaging
+591279,upright tilt table test (to investigate causes of syncope,1,lab_test
+591280,uprighting moler (simple,1,other
+591282,upt (urine pregnancy test,1,lab_test
+591283,ur . catheterization,1,procedure
+591284,urago,4,other
+591331,uralyt,1,other
+591338,uralyt u,1,other
+591342,uralyt u eff,1,other
+591353,uralyt u powders,1,other
+591354,uralyt u powders( tier1,2,insurance
+591356,uralyt u powders( tier2,1,insurance
+591362,uralyt-u,1,other
+591371,uralyt-u eff,1,other
+591373,uralyt-u g,1,lab_test
+591375,uralyt-u gramlus eff,1,other
+591376,uralyt-u gran,1,other
+591464,uralyte-u,1,other
+591466,uralyte-u grannules,1,other
+591470,uralyte-u r,1,lab_test
+591475,urate (urine,1,lab_test
+591476,urate synovial fluid,1,other
+591479,urb ( tumours,1,other
+591480,urban,1,other
+591481,urban optical,1,eyewear
+591484,ure (urine r/e,2,lab_test
+591485,ure- urine complete analysis,2,lab_test
+591487,"urea (urine, random",2,lab_test
+591488,urea 24 hours urine,2,lab_test
+591491,urea ( bun) (post treatment,1,lab_test
+591492,urea ( serum,1,lab_test
+591493,urea (b.u.n,1,lab_test
+591494,urea (blood / serum,1,lab_test
+591495,urea (bun,3,lab_test
+591496,urea (bun) (pre treatment,1,lab_test
+591497,urea (s,1,lab_test
+591500,urea (u,2,lab_test
+591501,urea (u) urine,2,lab_test
+591504,urea - 333-40822,1,lab_test
+591505,urea - breath test,2,lab_test
+591507,urea - serum,2,lab_test
+591508,urea - serum (bun,1,lab_test
+591510,urea -bun,1,lab_test
+591511,urea -serum,1,lab_test
+591512,urea -u urine,1,lab_test
+591514,urea .bun,1,lab_test
+591515,urea / bun,1,lab_test
+591516,urea / bun-4136-lab,1,lab_test

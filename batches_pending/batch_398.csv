@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+599350,"v,hugo boss,boss 1544/f/v,j5g,54/18,145",1,eyewear
+599351,"v,hugo boss,boss 1551/a/v,rhl,54/20,145",1,eyewear
+599352,"v,hugo boss,boss 1572/v,aci,50/20,145",1,eyewear
+599353,"v,hugo boss,boss 1597/v,086,52/20,145",1,eyewear
+599354,"v,hugo boss,boss 1616/f/v,i46,54/19,145",1,eyewear
+599355,"v,hugo,hg 1007/v,krz,48/20,145",1,eyewear
+599356,"v,hugo,hg 1010/v,807,54/16,145",1,eyewear
+599357,"v,hugo,hg 1019/v,fre,53/20,145",1,eyewear
+599358,"v,hugo,hg 1037/v,807,49/19,150",1,eyewear
+599359,"v,hugo,hg 1038/v,6ak,53/18,150",1,eyewear
+599360,"v,hugo,hg 1039/v,086,51/19,150",1,eyewear
+599361,"v,hugo,hg 1097/v,807,55/16,145",1,eyewear
+599362,"v,hugo,hg 1142/v,rzz,54/18,145",1,eyewear
+599363,"v,hugo,hg 1198/v,dcd,56/17,145",1,eyewear
+599364,"v,hugo,hg 1199/v,003,53/19,145",1,eyewear
+599365,"v,hugo,hg 1232/v,1ed,53/15,145",1,eyewear
+599366,"v,hugo,hg 1235/v,284,53/18,145",1,eyewear
+599367,"v,hugo,hg 1244/cs,o63/qt,51/20,145",1,eyewear
+599368,"v,hugo,hg 1270/cs,581/ao,53/17,145",1,eyewear
+599369,"v,hugo,hg 1270/cs,807/ir,53/17,145",1,eyewear
+599370,"v,hugo,hg 1272/v,kb7,52/17,145",1,eyewear
+599371,"v,hugo,hg 1273/v,7xm,53/18,145",1,eyewear
+599372,"v,hugo,hg 1274/v,6lb,55/18,145",1,eyewear
+599373,"v,hugo,hg 1278/v,7c5,52/16,140",1,eyewear
+599374,"v,hugo,hg 1279/v,010,55/17,140",1,eyewear
+599375,"v,ikks,ik1004,7010/17,43",1,other
+599376,"v,ikks,ik1004,7041/17,43",1,other
+599377,"v,jac,marc 398,086/17,53",1,other
+599378,"v,jac,marc 398,807/17,53",1,other
+599379,"v,jac,marc 398,ipr/17,53",1,other
+599380,"v,jac,marc 634,01q/13,59",1,other
+599381,"v,jac,mj 1024,807/21,52",1,other
+599382,"v,jaguar,jag 33112,6500,50/18",1,other
+599383,"v,jim,jc133,29a/16,53",1,other
+599384,"v,jim,jc182,14s/16,53",1,other
+599385,"v,jim,jc202,807/17,52",1,other
+599386,"v,jim,jc204,086/23,47",1,other
+599387,"v,jim,jc207,pjp/15,54",1,other
+599388,"v,jim,jc308,kon/15,52",1,other
+599389,"v,jim,jim,jc243,09q/17,54",1,other
+599390,"v,jim,jim,jc243,807/17,54",1,other
+599391,"v,jim,jim,jc248,fp3/18,53",1,other
+599392,"v,jim,jim,jm009,cgs/18,56",1,other
+599393,"v,jimmy choo,jc 182/v,olz,53/16,140",1,other
+599394,"v,jimmy choo,jc 327/v,ddb,52/16,145",1,other
+599395,"v,jimmy choo,jc 357/v,ddb,56/17,145",1,other
+599396,"v,jimmy choo,jm 004/v,06j,49/23,150",1,other
+599397,"v,juicy couture,ju 230/g/v,u7i,52/17,135",1,other
+599398,"v,ka,sf001,200,18/24,45",1,other
+599399,"v,ka,sf005,100,18/26,53",1,other
+599400,"v,kanda,sf 001,200,45/18/24",1,other
+599401,"v,kanda,sf 003,100,48/17/23",1,other
+599402,"v,kanda,sf 003,200,48/17/23",1,other
+599403,"v,kanda,sf 005,300,53/18/26",1,other
+599404,"v,kate spade,atalina/v,2vm,51/16,140",1,other
+599405,"v,kate spade,bari/v,086,47/15,130",1,other
+599406,"v,kate spade,fatimah/f/v,06j,51/20,145",1,other
+599407,"v,kate spade,hadlee/v,086,54/16,140",1,other
+599408,"v,kate spade,hadlee/v,mfx,54/16,140",1,other
+599409,"v,kate spade,jalisa/f/v,06j,52/20,145",1,other
+599410,"v,kate spade,kennedi/f/v,0aw,49/19,140",1,other
+599411,"v,kate spade,kennedi/f/v,807,49/19,140",1,other
+599412,"v,kate spade,novalee/v,35j,52/17,140",1,other
+599413,"v,kate spade,novalee/v,pjp,52/17,140",1,other
+599414,"v,kate spade,paityn/g/v,5mu,53/17,140",1,other
+599415,"v,kate spade,paris/v,35j,48/15,135",1,other
+599416,"v,ksp,cortina,7ki/16,50",1,eyewear
+599417,"v,ksp,everetta/f,35j/15,52",1,eyewear
+599418,"v,ksp,gael/v,807,53/15,140",1,eyewear
+599419,"v,ksp,glorianne,wr7/16,55",1,eyewear
+599420,"v,ksp,jelissa/f,xp8/18,51",1,eyewear
+599421,"v,ksp,lucyann2,086/16,49",1,eyewear
+599422,"v,ksp,myrna,wr7/15,53",1,eyewear
+599423,"v,ksp,wanda,pjp,53/18,140",1,eyewear
+599424,"v,les minions,aa 059,c01,47/16",1,eyewear
+599425,"v,lev,lv 1044,010/20,54",1,other
+599426,"v,levi's,lv 1017/cs,086/ir,50/20,145",1,other
+599427,"v,levi's,lv 1036/v,807,48/21,145",1,other
+599428,"v,levi's,lv 1037/v,0ji,51/19,145",1,other
+599429,"v,levi's,lv 1043/v,010,55/17,145",1,other
+599430,"v,levi's,lv 1047/v,086,49/19,140",1,other
+599431,"v,levi's,lv 1047/v,oit,49/19,140",1,other
+599432,"v,levi's,lv 1060/v,j5g,52/19,140",1,other
+599433,"v,levi's,lv 1063/v,ky2,54/18,140",1,other
+599434,"v,levi's,lv 1063/v,yk9,54/18,140",1,other
+599435,"v,levi's,lv 5001/v,i46,50/20,145",1,other
+599436,"v,levi's,lv 5025/v,06j,52/17,140",1,other
+599437,"v,levi's,lv 5031/v,ms5,53/18,145",1,other
+599438,"v,levi's,lv 5042/v,807,52/20,145",1,other
+599439,"v,levi's,lv 5045/v,003,55/18,145",1,other
+599440,"v,levi's,lv 5046/v,ze3,55/15,145",1,other
+599441,"v,levi's,lv 5047/v,003,56/15,145",1,other
+599442,"v,levi's,lv 5048/v,35j,51/19,145",1,other
+599443,"v,lool,alhena 52o,bk/gd,52/16,145",1,other
+599444,"v,lool,dubhe 50o,be/gd,50/19,150",1,other
+599445,"v,lool,dubhe 50o,br/gm,50/19,150",1,other
+599446,"v,lool,equil 51o,bk/gd,51/16,145",1,other
+599447,"v,lool,equil 51o,cl/bl,51/16,145",1,eyewear
+599448,"v,lool,hangar 47o,bl/gm,47/20,145",1,other
+599449,"v,lool,hangar 47o,yw/gm,47/20,145",1,other
+599450,"v,lool,ibem 54o,db/,54/17,145",1,other
+599451,"v,lool,orbit 48o,bx/pk,48/21,140",1,procedure
+599452,"v,lool,pointer 52o,bk/,52/18,145",1,other
+599453,"v,lool,pointer 52o,db/bl,52/18,145",1,other
+599454,"v,lool,poly,fu,52/19,140",1,other
+599455,"v,lool,ratio 50o,db/og,50/17,145",1,lab_test
+599456,"v,lool,tile 53o,bk/pg,53/14,145",1,other
+599457,"v,lool,vector 48o,rd/,48/20,140",1,other
+599458,"v,lulu casta,leaa154,c05/17,45",1,other
+599459,"v,m missoni,mmi 0017/v,ktz,50/15,140",1,other
+599460,"v,m missoni,mmi 0099/v,807,48/20,140",1,other
+599461,"v,m missoni,mmi 0123/v,05l,54/15,145",1,other
+599462,"v,m missoni,mmi 0146/v,47e,53/15,140",1,other
+599463,"v,m missoni,mmi 0148/v,iwb,54/17,140",1,other
+599464,"v,m missoni,mmi 0150/v,000,46/20,135",1,other
+599465,"v,m missoni,mmi 0151/v,j5g,53/18,140",1,other
+599466,"v,mac,max&co.365,086/21,47",1,other
+599467,"v,mac,max&co.365,c9a/21,47",1,other
+599468,"v,mac,max&co.366,086/16,54",1,other
+599469,"v,mac,max&co.367,c9a/16,52",1,other
+599470,"v,marc jacobs,marc 1039,ham,54/15,145",1,other
+599471,"v,marc jacobs,marc 1067/v,bku,54/16,140",1,other
+599472,"v,marc jacobs,marc 569/v,05l,54/18,145",1,other
+599473,"v,marc jacobs,marc 570/v,807,52/19,145",1,other
+599474,"v,marc jacobs,marc 571/v,06j,57/16,145",1,other
+599475,"v,marc jacobs,marc 573/v,807,50/24,145",1,other
+599476,"v,marc jacobs,marc 598/v,10a,54/16,140",1,other
+599477,"v,marc jacobs,marc 628/v,kb7,52/18,140",1,other
+599478,"v,marc jacobs,marc 629/v,086,52/19,140",1,other
+599479,"v,marc jacobs,marc 630/v,kb7,52/16,140",1,other
+599480,"v,marc jacobs,marc 679/v,807,56/14,145",1,other
+599481,"v,marc jacobs,marc 685/v,807,53/19,145",1,other
+599482,"v,marc jacobs,mj 1063/v,7c5,52/21,150",1,other
+599483,"v,marc jacobs,mj 1071/v,4c3,53/17,140",1,other
+599484,"v,marc jacobs,mj 1072/v,09q,51/17,140",1,other
+599485,"v,marc jacobs,mj 1084/v,807,52/16,140",1,other
+599486,"v,max,mm 1291,0v4/16,54",1,other
+599487,"v,max,mm 1330,3yg/19,54",1,other
+599488,"v,max,mm 1333,086/19,48",1,other
+599489,"v,max,mm 1358,3yg/19,52",1,other
+599490,"v,max,mm 1359/f,581/21,50",1,other
+599491,"v,max,mm 1377/f,086/21,49",1,other
+599492,"v,mb,mb0036o,003/18,54",1,other
+599493,"v,mb,mb0217o,002/15,55",1,other
+599494,"v,mb,mb0221o,001/20,57",1,other
+599495,"v,min,miii001,c93/15,48",1,other
+599496,"v,mis,mis 0016,ky2/17,56",1,other
+599497,"v,mis,mis 0019,0uc/19,50",1,other
+599498,"v,missoni,mis 0012/v,1zx,51/17,140",1,other
+599499,"v,missoni,mis 0090/v,0ae,52/17,145",1,other
+599500,"v,missoni,mis 0093/n/v,33z,56/17,145",1,other
+599501,"v,missoni,mis 0104/v,8cq,50/19,140",1,other
+599502,"v,missoni,mis 0104/v,kb7,50/19,140",1,other
+599503,"v,missoni,mis 0104/v,s68,50/19,140",1,other
+599504,"v,missoni,mis 0105/v,q5t,51/19,140",1,other
+599505,"v,missoni,mis 0108/v,x19,53/16,140",1,other
+599506,"v,missoni,mis 0108/v,z9k,53/16,140",1,other
+599507,"v,missoni,mis 0141/v,3h2,54/16,140",1,other
+599508,"v,missoni,mis 0143/v,900,53/16,145",1,other
+599509,"v,missoni,mis 0144/v,j5g,56/15,140",1,other
+599510,"v,mol,mol529,0t7/17,51",1,other
+599511,"v,mol,mol598,s3s/18,53",1,other
+599512,"v,mont blanc,mb0021o,001,55/19,150",1,eyewear
+599513,"v,mont blanc,mb0023o,001,57/18,145",1,eyewear
+599514,"v,mont blanc,mb0035o,003,55/19,145",1,eyewear
+599515,"v,mont blanc,mb0043o,001,53/18,145",1,eyewear
+599516,"v,mont blanc,mb0071o,001,56/17,145",1,eyewear
+599517,"v,mont blanc,mb0071o,006,56/17,145",1,eyewear
+599518,"v,mont blanc,mb0072o,001,55/18,145",1,eyewear
+599519,"v,mont blanc,mb0072o,002,55/18,145",1,eyewear
+599520,"v,mont blanc,mb0075o,003,56/16,145",1,eyewear
+599521,"v,mont blanc,mb0076o,002,55/18,145",1,eyewear
+599522,"v,mont blanc,mb0115o,003,51/21,150",1,eyewear
+599523,"v,mont blanc,mb0140ok,007,56/17,145",1,eyewear
+599524,"v,mont blanc,mb0152o,001,54/17,145",1,eyewear
+599525,"v,mont blanc,mb0185o,001,55/19,145",1,eyewear
+599526,"v,mont blanc,mb0274o,004,53/21,145",1,eyewear
+599527,"v,mont blanc,mb0279o,003,54/20,145",1,eyewear
+599528,"v,mont blanc,mb0733,032,54,19,145",1,eyewear
+599529,"v,montblanc,mb0306o/v,002,53/19,145",1,eyewear
+599530,"v,montegrappa,mg 8012,01,49/fr",1,eyewear
+599531,"v,moschino love,mol 582/v,665,55/17,140",1,other
+599532,"v,moschino love,mol 592/v,7rm,51/18,140",1,other
+599533,"v,moschino love,mol 600/v,1ed,53/16,140",1,other
+599534,"v,moschino love,mol 600/v,807,53/16,140",1,other
+599535,"v,moschino love,mol 606/tn/v,35j,48/17,140",1,other
+599536,"v,moschino love,mol 610/v,807,52/15,140",1,other
+599537,"v,moschino love,mol052/cs,807/9o,53/14,140",1,other
+599538,"v,moschino,mos 583/v,c9a,54/15,140",1,other
+599539,"v,moschino,mos 589/v,c9a,53/15,140",1,other
+599540,"v,moschino,mos 614/v,807,52/19,140",1,other
+599541,"v,moschino,mos 615/g/v,ddb,56/17,145",1,other
+599542,"v,moschino,mos 621/v,2m2,54/16,140",1,other
+599543,"v,nan,nao3000844,nano op. replay 3.0 bi. marino mate/amarillo 44/13",1,nutrition
+599544,"v,nan,nao3001044,nano glow replay 3.0 marino cristal/naranja glow 44/13",1,nutrition
+599545,"v,nan,nao3010550,nano op. arcade 3.0 purpura cristal/rosa 50/15",1,nutrition
+599546,"v,nan,nao3020846,nano op. crew 3.0 bi. marino mate/azul 46/14",1,nutrition
+599547,"v,nan,nao3040346,nano op. camper 3.0 negro cristal/negro 46/14",1,nutrition
+599548,"v,nan,nao3060146,nano op. sprite 3.0 marino cristal/naranja mate 46/14",1,nutrition
+599549,"v,nan,nao3100644,nano op. sleek crew 3.0 bi. azul cristal/verde 44/13",1,nutrition
+599550,"v,nan,nao3130850/15,50",1,nutrition
+599551,"v,nan,nao522546h/cs,nano arcade sc bi. negro mate/turquesa 46/17",1,nutrition
+599552,"v,nan,nao611850/cs,nano fangame sc bi. violeta mate/lila 50/17",1,nutrition
+599553,"v,nan,nao630845/cs,nano gaikai sc rojo mate/negro 45/16",1,nutrition
+599554,"v,nan,nao781048/cs,nano gran turismo sc bi. negro/frambuesa 48/17",1,nutrition
+599555,"v,nan,nao840748sc,nano clip quest sc bi. azul mate/rojo 48/17",1,supplies
+599556,"v,nan,nao851052/cs,nano fanboy sc negro mate/verde 52/18",1,nutrition
+599557,"v,nan.nao3160250/15,50",1,nutrition
+599558,"v,nan.nao3160252/16,52",1,nutrition
+599559,"v,nan.nao572046sc/17,46",1,nutrition
+599560,"v,nano in,crew 3.0,nao3022046/14",1,other
+599561,"v,nano in,fanboy 3.0,nao3171552/15",1,other
+599562,"v,nano in,fanboy 3.0,nao3171652/15",1,other
+599563,"v,nano in,sleek crew 3.0,nao3100944/13",1,other
+599564,"v,nano in,sleek replay 3.0,nao3090944/13",1,other
+599565,"v,nano,quest/cs,nao3160648sc/14,48",1,other
+599566,"v,new york yankees,nyaa134,c94/16,48",1,other
+599567,"v,novikt,12023,c2,55/18",1,eyewear
+599568,"v,nyy,nyaa115,c01/16,46",1,eyewear
+599569,"v,nyy,nyaa128,c05/19,50",1,other
+599570,"v,oakley,oak 5019/v,01,54/17,140",1,eyewear
+599571,"v,oakley,oak 8081/v,01,53/18,139",1,eyewear
+599572,"v,oakley,oak 8177/v,02,56/16,140",1,eyewear
+599573,"v,pca,p.c. 6153,b97/17,51",1,lab_test
+599574,"v,pca,p.c. 6160,5zj/16,55",1,lab_test
+599575,"v,pca,p.c. 8501,789/17,53",1,lab_test
+599576,"v,pca,pca,p.c. 6215,4c3/38,58",1,lab_test
+599577,"v,pca,pca,p.c. 8476,35j/17,54",1,lab_test
+599578,"v,pca,pca,p.c. 8477,lhf/14,55",1,lab_test
+599579,"v,pca,pca,p.c. 8478,086/15,53",1,lab_test
+599580,"v,pierre cardin,p.c. 6226/cs,807/m9,52/19,145",1,lab_test
+599581,"v,pierre cardin,p.c. 6233/cs,807/uc,55/18,145",1,lab_test
+599582,"v,pierre cardin,p.c. 6244/v,807,50/19,145",1,lab_test
+599583,"v,pierre cardin,p.c. 6250/v,09q,53/19,140",1,lab_test
+599584,"v,pierre cardin,p.c. 6251/v,086,57/17,150",1,lab_test
+599585,"v,pierre cardin,p.c. 6251/v,pjp,57/17,150",1,lab_test
+599586,"v,pierre cardin,p.c. 6252/cs,81v/m9,51/21,145",1,lab_test
+599587,"v,pierre cardin,p.c. 6254/v,807,55/17,145",1,lab_test
+599588,"v,pierre cardin,p.c. 6255/v,10a,51/20,140",1,lab_test
+599589,"v,pierre cardin,p.c. 6255/v,807,51/20,140",1,lab_test
+599590,"v,pierre cardin,p.c. 6255/v,kb7,51/20,140",1,lab_test
+599591,"v,pierre cardin,p.c. 6258/v,pjp,56/17,145",1,lab_test
+599592,"v,pierre cardin,p.c. 6259/v,807,52/20,140",1,lab_test
+599593,"v,pierre cardin,p.c. 6855/v,pjp,53/21,150",1,lab_test
+599594,"v,pierre cardin,p.c. 6877/v,84j,52/21,150",1,lab_test
+599595,"v,pierre cardin,p.c. 6881/v,svk,58/18,150",1,lab_test
+599596,"v,pierre cardin,p.c. 6882/v,r80,56/19,150",1,lab_test
+599597,"v,pierre cardin,p.c. 6883/v,svk,56/18,150",1,lab_test
+599598,"v,pierre cardin,p.c. 6891/v,6lb,53/21,145",1,lab_test
+599599,"v,pierre cardin,p.c. 8492/v,807,54/15,140",1,lab_test
+599600,"v,pierre cardin,p.c. 8504/v,35j,52/15,145",1,lab_test
+599601,"v,pierre cardin,p.c. 8508/v,y6u,55/16,140",1,lab_test
+599602,"v,pierre cardin,p.c. 8510/v,b3v,53/16,140",1,lab_test
+599603,"v,pierre cardin,p.c. 8519/v,807,53/17,140",1,lab_test
+599604,"v,pierre cardin,p.c. 8868/v,ddb,53/18,145",1,lab_test
+599605,"v,pierre cardin,p.c. 8877/v,ddb,54/17,140",1,lab_test
+599606,"v,pierre cardin,p.c. 8878/v,010,51/19,140",1,lab_test
+599607,"v,pierre cardin,p.c. 8880/v,i46,54/18,140",1,lab_test
+599608,"v,pld,pld d311,n9p/16,55",1,other
+599609,"v,pld,pld d341,s45/19,50",1,other
+599610,"v,pld,pld d380,086/18,48",1,other
+599611,"v,pld,pld d428/g,84j/17,56",1,other
+599612,"v,pld,pld d480/g,003/17,53",1,other
+599613,"v,polar,pol gold 04,425,54/15",1,nutrition
+599614,"v,polar,pol gold 16,427,.55/17",1,nutrition
+599615,"v,polar,pol gold 23,428,49/21",1,nutrition
+599616,"v,polarar,pol 463cs,20,55/17",1,other
+599617,"v,polarar,pol 495cs,76,54/18",1,other
+599618,"v,polarar,pol 525,29,56/17",1,other
+599619,"v,polarar,pol 527,76,51/17",1,other
+599620,"v,polarar,pol 528,76,54/17",1,other
+599621,"v,polarar,pol gold 74,27,55/18",1,nutrition
+599622,"v,polarar,pol gold 75,77,53/17",1,nutrition
+599623,"v,polaroid kids,pld d822/v,rnb,45/16,130",1,eyewear
+599624,"v,polaroid kids,pld d824/v,d51,48/15,135",1,eyewear
+599625,"v,polaroid kids,pld d825/v,8lz,49/15,135",1,eyewear
+599626,"v,polaroid kids,pld d826/v,zx9,48/14,135",1,eyewear
+599627,"v,polaroid kids,pld d827/v,6lb,49/19,130",1,eyewear
+599628,"v,polaroid,pld 6132/cs,j5g/m9,51/20,145",1,eyewear
+599630,"v,polaroid,pld 6137/cs,086/sp,52/18,145",1,eyewear
+599631,"v,polaroid,pld 6137/cs,807/m9,52/18,145",1,eyewear
+599632,"v,polaroid,pld 6203/cs,086/uc,49/20,140",1,eyewear
+599633,"v,polaroid,pld 6203/cs,807/m9,49/20,140",1,eyewear
+599634,"v,polaroid,pld 6204/cs,v81/m9,54/19,140",1,eyewear
+599635,"v,polaroid,pld 6205/cs,v81/m9,55/18,140",1,eyewear
+599636,"v,polaroid,pld d422,807,53/18,145",1,eyewear
+599637,"v,polaroid,pld d444,807,57/16,145",1,eyewear
+599638,"v,polaroid,pld d445/g/v,ddb,53/19,145",1,eyewear
+599639,"v,polaroid,pld d447,zx9,54/17,140",1,eyewear
+599640,"v,polaroid,pld d448,08a,55/16,140",1,eyewear
+599641,"v,polaroid,pld d448,8lz,55/16,140",1,eyewear
+599642,"v,polaroid,pld d462,8cq,54/17,145",1,eyewear
+599643,"v,polaroid,pld d466,s2n,55/15,145",1,eyewear
+599644,"v,polaroid,pld d477,3lg,56/17,145",1,eyewear
+599645,"v,polaroid,pld d480/g,003,53/17,145",1,eyewear
+599646,"v,polaroid,pld d484,807,54/16,145",1,eyewear
+599647,"v,polaroid,pld d485,fll,54/19,140",1,eyewear
+599648,"v,polaroid,pld d488,09v,56/17,145",1,eyewear
+599649,"v,polaroid,pld d488,807,56/17,145",1,eyewear
+599650,"v,polaroid,pld d489/g,086,52/17,145",1,eyewear
+599651,"v,polaroid,pld d489/g,35j,52/17,145",1,eyewear
+599652,"v,polaroid,pld d496,807,50/19,145",1,eyewear
+599653,"v,polaroid,pld d498,807,50/20,145",1,eyewear
+599654,"v,polaroid,pld d499,pjp,53/18,145",1,eyewear
+599655,"v,polaroid,pld d510/g,807,49/18,145",1,eyewear
+599656,"v,pra,tamesis,mus/22/ab0,48",1,other
+599657,"v,prada l.rossa,prl 03n/v,5641o1,49/19,145",1,eyewear
+599658,"v,prada l.rossa,prl 04i/v,1ab1o1,53/18,140",1,eyewear
+599659,"v,prada l.rossa,prl 04i/v,2az1o1,53/18,140",1,eyewear
+599660,"v,prada l.rossa,prl 04i/v,u611o1,53/18,140",1,eyewear
+599661,"v,prada l.rossa,prl 04m/v,dg01o1,54/16,145",1,eyewear
+599662,"v,prada l.rossa,prl 09o/v,czh1o1,53/40,145",1,eyewear
+599663,"v,prada l.rossa,prl 50p/v,ydc1o1,55/17,145",1,eyewear
+599664,"v,polaroid kids,pld 8044/cs,5f3/ai,45/17,130",1,eyewear
+599665,"v,qlk,od 5164,60/20,53",1,other
+599666,"v,qlk,od 6156b,10/19,51",1,other
+599667,"v,qlk,od2266,32/18,51",1,other
+599668,"v,quick look,1618,10,53/22",1,other
+599669,"v,quick look,1618,50,53/22",1,other
+599670,"v,quick look,2266,32,51/18",1,other
+599671,"v,quick look,5164,60,53/20",1,other
+599672,"v,quick look,6164,10,51/19",1,other
+599673,"v,rag,rnb3004,yh0/16,50",1,other
+599674,"v,range rover,rr 3012r,c1,57/17,145",1,eyewear
+599675,"v,range rover,rr 3013r,c1,55/17,145",1,eyewear
+599676,"v,range rover,rr 3013r,c2,55/17,145",1,eyewear
+599677,"v,range rover,rr 3014r,c2,54/17,145",1,eyewear
+599678,"v,range rover,rr 3018a,c1,56/17,145",1,eyewear
+599679,"v,range rover,rr 3021a,c1,53/18,145",1,eyewear
+599680,"v,range rover,rr 3023r,c2,56/18,145",1,eyewear
+599681,"v,range rover,rr 3027m,c1,56/16,145",1,eyewear
+599682,"v,ray ban junior,rbj 1620/v,3921,46/17,130",1,eyewear
+599683,"v,ray ban junior,rbj 9093/v,3542,43/16,130",1,eyewear
+599684,"v,ray ban,rb 3765/v,3086,49/22,140",1,eyewear
+599685,"v,ray ban,rb 5369/v,5082,52/18,145",1,eyewear
+599686,"v,ray ban,rb 5387/v,2000,52/18,145",1,eyewear
+599687,"v,ray ban,rb 5397/v,2012,50/19,145",1,eyewear
+599688,"v,ray ban,rb 5421/v,2000,53/19,145",1,eyewear
+599689,"v,ray ban,rb 6375/v,2890,53/18,145",1,eyewear
+599690,"v,ray ban,rb 6375/v,3133,53/18,145",1,eyewear
+599691,"v,ray ban,rb 7047/v,5943,54/17,140",1,eyewear
+599692,"v,ray ban,rb 7185/v,2012,52/18,145",1,eyewear
+599693,"v,ray ban,rb 7185/v,5943,52/18,145",1,eyewear
+599694,"v,ray ban,rb 7185/v,8234,52/18,145",1,eyewear
+599695,"v,ray ban,rb 7211/v,8207,52/19,145",1,eyewear
+599696,"v,ray ban,rb 7216/v,2012,51/20,145",1,eyewear
+599697,"v,ray ban,rb 7229/v,2012,51/20,145",1,eyewear
+599698,"v,saf,aletta 01,003/20,48",1,other
+599699,"v,saf,e 7228,6lb/15,58",1,other
+599700,"v,saf,em 4389,284/17,54",1,other
+599701,"v,saf,em 4389,ky2/17,54",1,other
+599702,"v,saf,lastra 02,wr7/16,55",1,other
+599703,"v,saf,sagoma 04,086/20,53",1,other
+599704,"v,saf,trama 04,35j/18,51",1,other
+599705,"v,saf,tratto 02,807/18,51",1,other
+599706,"v,safilo,bussola 09/v,kj1,57/18,145",1,eyewear
+599707,"v,safilo,linea 03/v,ddb,51/21,145",1,eyewear
+599708,"v,safilo,linea 03/v,j5g,51/21,145",1,eyewear
+599709,"v,safilo,linea/t 10/v,qwu,53/18,140",1,eyewear
+599710,"v,saint lurent,sl 546/v,001,48/21,145",1,eyewear
+599711,"v,saint lurent,sl m129/v,005,54/18,145",1,eyewear
+599712,"v,sb,sbv057,red/19,48",1,other
+599713,"v,seventh street,7a 032/v,pf3,51/21,150",1,other
+599714,"v,seventh street,7a 033/v,r80,51/22,150",1,other
+599715,"v,seventh street,7a 035/v,09q,50/17,140",1,other
+599716,"v,seventh street,7a 035/v,ctl,50/17,140",1,other
+599717,"v,seventh street,7a 035/v,j5g,50/17,140",1,other
+599718,"v,seventh street,7a 074/cs,807/m9,53/18,145",1,other
+599719,"v,seventh street,7a 075/cs,086/sp,50/22,145",1,other
+599720,"v,seventh street,7a 078/v,010,53/17,145",1,other
+599721,"v,seventh street,7a 089/v,r80,53/19,145",1,other
+599722,"v,seventh street,7a 098/v,oy4,57/17,145",1,other
+599723,"v,seventh street,7a 102/v,06j,54/17,145",1,other
+599724,"v,seventh street,7a 102/v,85k,54/17,145",1,other
+599725,"v,seventh street,7a 103/cs,dnz/m9,54/20,145",1,other
+599726,"v,seventh street,7a 105/v,9n2,55/18,145",1,other
+599727,"v,seventh street,7a 106/v,086,50/21,145",1,other
+599728,"v,seventh street,7a 108/v,08a,55/18,145",1,other
+599729,"v,seventh street,7a 503/v,807,51/17,145",1,other
+599730,"v,seventh street,7a 516/v,c9a,48/18,140",1,other
+599731,"v,seventh street,7a 519/v,14o,52/16,140",1,other
+599732,"v,seventh street,7a 542/v,6lb,52/17,140",1,other
+599733,"v,seventh street,7a 556/v,pjp,52/20,140",1,other
+599734,"v,seventh street,7a 568/v,mvu,53/15,140",1,other
+599735,"v,seventh street,7a 590/v,807,54/18,140",1,other
+599736,"v,seventh street,s 279/v,003,53/15,135",1,other
+599737,"v,seventh street,s 295/v,mvu,46/16,130",1,other
+599738,"v,seventh street,s 295/v,pjp,46/16,130",1,other
+599739,"v,seventh street,s 298/v,pjp,49/17,135",1,other
+599740,"v,seventh street,s 319/v,086,50/16,135",1,other
+599741,"v,seventh street,s 326/v,pjp,46/18,130",1,other
+599742,"v,seventh street,s 330/v,06j,48/19,130",1,other
+599743,"v,seventh street,s 335/v,1x2,48/18,135",1,other
+599744,"v,seventh street,s 336/v,365,48/18,135",1,other
+599745,"v,seventh street,s 336/v,zx9,48/18,135",1,other
+599746,"v,silhouette,5457/v,6058,53/19,145",1,eyewear
+599747,"v,silhouette,5529/v,4510,52/19,140",1,eyewear
+599748,"v,silhouette,silh 2887/v,6050,53/14,140",1,eyewear
+599749,"v,silhouette,silh 2918/v,6510,51/19,150",1,eyewear
+599750,"v,silhouette,silh 2918/v,9130,49/18,145",1,eyewear
+599751,"v,silhouette,silh 2923/v,1060,51/20,145",1,eyewear
+599752,"v,silhouette,silh 2926/v,9000,50/19,140",1,eyewear
+599753,"v,silhouette,silh 2930/v,4560,54/17,145",1,eyewear
+599754,"v,silhouette,silh 2932/v,5060,55/17,150",1,eyewear
+599755,"v,silhouette,silh 2940/v,4510,51/18,145",1,eyewear
+599756,"v,silhouette,silh 2943/v,75,9030,53/17,135",1,eyewear
+599757,"v,silhouette,silh 5502/v,6510,54/19,145",1,eyewear
+599758,"v,silhouette,silh 5521/v,6560,50/19,150",1,eyewear
+599759,"v,silhouette,silh 5521/v,9040,53/19,150",1,eyewear
+599760,"v,silhouette,silh 5529/v,7000,55/19,145",1,eyewear
+599761,"v,silhouette,silh 5535/v,7520,54/19,145",1,eyewear
+599762,"v,silhouette,silh 5540/v,6560,55/19,140",1,eyewear
+599763,"v,silhouette,silh 5559/v,6560,52/19,145",1,eyewear
+599764,"v,silhouette,silh 5560/v,6560,54/19,145",1,eyewear
+599765,"v,silhouette,silh 5561/v,7530,54/15,135",1,eyewear
+599766,"v,silhouette,silh 5567/v,7310,55/19,150",1,eyewear
+599767,"v,smt,archway,807/17,51",1,other
+599768,"v,smt,setlist,r6s/21,48",1,other
+599769,"v,smt,spellbound,086/16,55",1,other
+599770,"v,spi,daar004,c01/17,47",1,eyewear
+599771,"v,spi,dsaa070,c07/16,43",1,other
+599772,"v,spi,dsaa071,c07/15,44",1,other
+599773,"v,spider male,aa045,c05,42/17",1,other
+599774,"v,sponge bob,sb 012,501,48/16",1,supplies
+599775,"v,star wars,aa 098,c66,46/17",1,other
+599776,"v,starvision,s 1032,641,52/19",1,eyewear
+599777,"v,starvision,s 1036,20,54/17",1,eyewear
+599778,"v,starvision,s 1036,323,54/17",1,eyewear
+599779,"v,starvision,s 1037,302,54/18",1,eyewear
+599780,"v,starvision,s 2019,262,53/17",1,eyewear
+599781,"v,starvision,s1036,20/17,54",1,eyewear
+599782,"v,starvision,s1036,436/17,54",1,eyewear
+599783,"v,starvision,s1037,105/18,54",1,eyewear
+599784,"v,starvision,s2011,321/16,53",1,eyewear
+599785,"v,starvision,s2022,120/17,50",1,eyewear
+599786,"v,starvision,s2030,177/14,54",1,eyewear
+599787,"v,tara jarmon,tj2004,3011/16,53",1,other
+599788,"v,taylor morris,tm 010,c1,52/19,145",1,eyewear
+599789,"v,taylor morris,tm 013,c1,48/20,145",1,eyewear
+599790,"v,taylor morris,tm 013,c3,48/20,145",1,eyewear
+599791,"v,taylor morris,tm 014,c1,50/20,145",1,eyewear
+599792,"v,taylor morris,tm 015,c5,52/17,145",1,eyewear
+599793,"v,taylor morris,tm 016,c1,54/17,145",1,eyewear
+599794,"v,taylor morris,tm 016,c2,54/17,145",1,eyewear
+599795,"v,taylor morris,tm 018,c1,49/23,145",1,eyewear
+599796,"v,taylor morris,tm 021,c1,51/18,145",1,eyewear
+599797,"v,taylor morris,tm 023,c3,54/17,145",1,eyewear
+599798,"v,taylor morris,tm 024,c1,48/21,145",1,eyewear
+599799,"v,taylor morris,tm 026,c2,49/19,145",1,eyewear
+599800,"v,taylor morris,tm 032,c2,53/18,145",1,eyewear
+599801,"v,taylor morris,tm sw14,c2,51/20,145",1,eyewear
+599802,"v,thf,th 1484,7rm/21,49",1,other
+599803,"v,thf,th 1500,35j/15,43",1,other
+599804,"v,thf,th 1500,5cb/15,43",1,other
+599805,"v,thf,th 1519,pjp/18,50",1,other
+599806,"v,thf,th 1562,r80/16,56",1,other
+599807,"v,thf,th 1631,j5g/16,56",1,other
+599808,"v,thf,th 1726,aoz/21,50",1,other
+599809,"v,thf,th 1730,003/20,51",1,other
+599810,"v,thf,th 1903/cs,tcg/wj,54,pz",1,other
+599811,"v,tiffany,2138, 51,8134",1,eyewear
+599812,"v,tom ford,ft5294,001,48/20,145",1,eyewear
+599813,"v,tom ford,ft5294,052,48/20,145",1,eyewear
+599814,"v,tom ford,ft5524,052,49/19,145",1,eyewear
+599815,"v,tom ford,ft5682-b/cs,001,54/17,145",1,eyewear
+599816,"v,tom ford,ft5733-b,014,53/17,145",1,eyewear
+599817,"v,tom ford,ft5748,b002,53/18,145",1,eyewear
+599818,"v,tom ford,ft5749,b030,52/17,145",1,eyewear
+599819,"v,tom ford,ft5749-b,001,52/17,145",1,eyewear
+599820,"v,tom ford,ft5759,b056,51/20,145",1,eyewear
+599821,"v,tom ford,ft5799-b,054,53/18,145",1,eyewear
+599822,"v,tom ford,ft5800-b,008,56/15,145",1,eyewear
+599823,"v,tom ford,ft5802-b,020,53/17,145",1,eyewear
+599824,"v,tom ford,ft5803-b,041,49/19,145",1,eyewear
+599825,"v,tom ford,ft5818-b,001,51/19,145",1,eyewear
+599826,"v,tom ford,ft5833-b,020,49/20,145",1,eyewear
+599827,"v,tom ford,ft5867-b,001,49/20,145",1,eyewear
+599828,"v,tom ford,ft5870-b,045,50/21,145",1,eyewear
+599829,"v,tom ford,ft5873-b,001,49/24,140",1,eyewear
+599830,"v,tom ford,ft5898-b,052,50/19,145",1,eyewear
+599831,"v,tom ford,ft5901-b,052,55/15,145",1,eyewear
+599832,"v,tom ford,ft5904-b,096,50/21,145",1,eyewear
+599833,"v,tom ford,ft5906-b,001,55/15,145",1,eyewear
+599834,"v,tommy hilfiger,th 1500/v,c9a,43/15,125",1,eyewear
+599835,"v,tommy hilfiger,th 1730/v,086,51/20,145",1,eyewear
+599836,"v,tommy hilfiger,th 1803/cs,003/m9,58/17,145",1,eyewear
+599837,"v,tommy hilfiger,th 1813/v,ham,49/21,150",1,eyewear
+599838,"v,tommy hilfiger,th 1845/v,900,49/23,145",1,eyewear
+599839,"v,tommy hilfiger,th 1875/v,j5g,50/20,145",1,eyewear
+599840,"v,tommy hilfiger,th 1881/v,0uc,53/17,140",1,eyewear
+599841,"v,tommy hilfiger,th 1882/v,05l,53/16,140",1,eyewear
+599842,"v,tommy hilfiger,th 1891/v,pjp,52/18,150",1,eyewear
+599843,"v,tommy hilfiger,th 1903/cs,pjp/c3,54/18,145",1,eyewear
+599844,"v,tommy hilfiger,th 1907/v,807,51/18,140",1,eyewear
+599845,"v,tommy hilfiger,th 1929/v,joo,48/16,130",1,eyewear
+599846,"v,tommy hilfiger,th 1932/f/v,j5g,52/20,145",1,eyewear
+599847,"v,tommy hilfiger,th 1948/v,fll,55/15,145",1,eyewear
+599848,"v,tommy hilfiger,th 1984/v,kb7,50/21,150",1,eyewear
+599849,"v,tommy hilfiger,th 1989/v,807,55/17,145",1,eyewear
+599850,"v,tommy hilfiger,th 1989/v,kb7,55/17,145",1,eyewear

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+358311,medical supervision - nr-06,1,consultation
+358312,medical supervision - nr-07,1,consultation
+358313,medical supervision - nrr-01,1,consultation
+358314,medical supervision - nrsy-01,1,consultation
+358315,medical supervision - nrsy-02,1,consultation
+358316,medical supervision - nrsy-03,1,consultation
+358317,medical supervision - nrsy-04,1,consultation
+358318,medical supervision - nrsy-05,1,consultation
+358319,medical supervision - nrsy-06,1,consultation
+358320,medical supervision - nrsy-07,1,consultation
+358321,medical supervision - nrsy-08,1,consultation
+358322,medical supervision - nrsy-09,1,consultation
+358323,medical supervision - nursery,1,consultation
+358324,medical supervision - nursery 11,1,consultation
+358325,medical supervision - nursery 2,1,consultation
+358326,medical supervision - onc,1,consultation
+358327,medical supervision - onc-1,1,consultation
+358328,medical supervision - onc-2,1,consultation
+358329,medical supervision - onc-3,1,consultation
+358330,medical supervision - orth,1,consultation
+358331,medical supervision - pdt,1,consultation
+358332,medical supervision - ped,1,consultation
+358333,medical supervision - picu,1,consultation
+358334,medical supervision - picu isolation 1,1,consultation
+358335,medical supervision - picu-01,1,consultation
+358336,medical supervision - picu-02,1,consultation
+358337,medical supervision - picu-03,1,consultation
+358338,medical supervision - picu-04,1,consultation
+358339,medical supervision - picu-05,1,consultation
+358340,medical supervision - picu-06,1,consultation
+358341,medical supervision - picu-09,1,consultation
+358342,medical supervision - picu-312,1,consultation
+358343,medical supervision - picu1,1,consultation
+358344,medical supervision - picu1-a,1,consultation
+358345,medical supervision - picu10,1,consultation
+358346,medical supervision - picu11,1,consultation
+358347,medical supervision - picu12,1,consultation
+358348,medical supervision - picu13,1,consultation
+358349,medical supervision - picu14,1,consultation
+358350,medical supervision - picu18,1,consultation
+358351,medical supervision - picu1a,1,consultation
+358352,medical supervision - picu1b,1,consultation
+358353,medical supervision - picu2,1,consultation
+358354,medical supervision - picu21,1,consultation
+358355,medical supervision - picu220,1,consultation
+358356,medical supervision - picu23,1,consultation
+358357,medical supervision - picu25,1,consultation
+358358,medical supervision - picu28,1,consultation
+358359,medical supervision - picu2a,1,consultation
+358360,medical supervision - picu2b,1,consultation
+358361,medical supervision - picu3,1,consultation
+358362,medical supervision - picu32,1,consultation
+358363,medical supervision - picu33,1,consultation
+358364,medical supervision - picu34,1,consultation
+358365,medical supervision - picu3a,1,consultation
+358366,medical supervision - picu3b,1,consultation
+358367,medical supervision - picu4,1,consultation
+358368,medical supervision - picu4a,1,consultation
+358369,medical supervision - picu4b,1,consultation
+358370,medical supervision - picu5,1,consultation
+358371,medical supervision - picu6,1,consultation
+358372,medical supervision - picu7,1,consultation
+358373,medical supervision - picu8,1,consultation
+358374,medical supervision - picu9,1,consultation
+358375,medical supervision - piso-01,1,consultation
+358376,medical supervision - piso-02,1,consultation
+358377,medical supervision - piso-03,1,consultation
+358378,medical supervision - piso-04,1,consultation
+358379,medical supervision - riso-01,1,consultation
+358380,medical supervision - riso-03,1,consultation
+358381,medical supervision - s,1,consultation
+358382,medical supervision - siso-01,1,consultation
+358383,medical supervision - sku-01,1,consultation
+358384,medical supervision - sku-02,1,consultation
+358385,medical supervision - sku-03,1,consultation
+358386,medical supervision - sku-04,1,consultation
+358387,medical supervision - sleeb lab,1,consultation
+358388,medical supervision - sleeb lab 1,1,consultation
+358389,medical supervision - sleep bed,1,supplies
+358390,medical supervision - sleep lab 2,1,consultation
+358391,medical supervision - stu1,1,consultation
+358392,medical supervision - stu2,1,consultation
+358393,medical supervision - stu3,1,consultation
+358394,medical supervision - stu4,1,consultation
+358395,medical supervision - suite,1,consultation
+358396,medical supervision - sw icu,1,consultation
+358397,medical supervision - ticu1,1,consultation
+358398,medical supervision - ticu1a,1,consultation
+358399,medical supervision - ticu2,1,consultation
+358400,medical supervision - ticu3,1,consultation
+358401,medical supervision - vip 1,1,consultation
+358402,medical supervision - vip 2,1,consultation
+358403,medical supervision - vip 250,1,consultation
+358404,medical supervision - vip01,1,consultation
+358405,medical supervision - vip02,1,consultation
+358406,medical supervision - virtual2,1,consultation
+358407,medical supervision - vr 1,1,consultation
+358408,medical supervision - vr 10,1,consultation
+358409,medical supervision - vr 11,1,consultation
+358410,medical supervision - vr 12,1,consultation
+358411,medical supervision - vr 13,1,consultation
+358412,medical supervision - vr 16,1,consultation
+358413,medical supervision - vr 19,1,consultation
+358414,medical supervision - vr 2,1,consultation
+358415,medical supervision - vr 20,1,consultation
+358416,medical supervision - vr 23,1,consultation
+358417,medical supervision - vr 29,1,consultation
+358418,medical supervision - vr01,1,consultation
+358419,medical supervision - vr02,1,consultation
+358420,medical supervision - vr03,1,consultation
+358421,medical supervision - vr04,1,consultation
+358422,medical supervision - vr05,1,consultation
+358423,medical supervision - vr09,1,consultation
+358424,medical supervision - vr11,1,consultation
+358425,medical supervision - vr12,1,consultation
+358426,medical supervision - vr13,1,consultation
+358427,medical supervision - vr14,1,consultation
+358428,medical supervision - vr15,1,consultation
+358429,medical supervision - vr17,1,consultation
+358430,medical supervision - vr19,1,consultation
+358431,medical supervision - vr25,1,consultation
+358432,medical supervision - vr27,1,consultation
+358433,medical supervision - vr32,1,consultation
+358434,medical supervision - vr34,1,consultation
+358435,medical supervision - vr35,1,consultation
+358436,medical supervision - vr36,1,consultation
+358437,medical supervision - vr46,1,consultation
+358438,medical supervision - vr48,1,consultation
+358439,medical supervision - vr49,1,consultation
+358440,medical supervision - vr51,1,consultation
+358441,medical supervision - vr59,1,consultation
+358442,medical supervision - vr60,1,consultation
+358443,medical supervision - vr74,1,consultation
+358444,medical supervision - vr95,1,consultation
+358445,medical supervision - vr99,1,consultation
+358446,medical supervision - wb 1,1,consultation
+358447,medical supervision - wb 10,1,consultation
+358448,medical supervision - wb 12,1,consultation
+358449,medical supervision - wb 13,1,consultation
+358450,medical supervision - wb 14,1,consultation
+358451,medical supervision - wb 17,1,consultation
+358452,medical supervision - wb3,1,consultation
+358453,medical supervision - second class,1,consultation
+358454,medical supervision - surgery,1,procedure
+358455,medical supervision - ward,1,consultation
+358456,medical supervision -217a,1,consultation
+358457,medical supervision -307,1,consultation
+358458,medical supervision -309a,1,consultation
+358459,medical supervision -bed-01,1,supplies
+358460,medical supervision -f3ns1-308,1,consultation
+358461,medical supervision -picu3b,1,consultation
+358462,medical supervision / junior suite,2,consultation
+358464,medical supervision daily,1,consultation
+358465,medical supervision daily / vip,2,consultation
+358466,medical supervision fm39099999,1,consultation
+358467,medical supervision fmnur-5555,1,consultation
+358468,medical supervision for consultant,1,consultation
+358469,medical supervision icu / ccu / nicu,1,consultation
+358470,medical supervision per day (o,1,consultation
+358471,medical supervision ward,1,consultation
+358473,medical supervision-day case -336a,1,consultation
+358474,medical supervision-nursery,2,consultation
+358476,medical supplies,2,other
+358477,medical termination,1,other
+358478,medical termination of fetal death,1,other
+358479,medical therapy,1,physiotherapy
+358480,"medical tower o.r. profile cbc,na,k,pt,hcv,hbs",1,lab_test
+358481,"medical tower o.r. profile: [cbc, na, k, pt, hcv, hbsag, hiv",1,lab_test
+358482,medical ward surgucal ward 1st week,1,other
+358483,medical ward surgucal ward 2nd week,1,other
+358484,medical ward surgucal ward 3rd week and forward,1,other
+358485,medical white glass,1,eyewear
+358486,medical white glass - 8100081070,1,eyewear
+358487,medical white glass - 8100101070,1,eyewear
+358488,medical white glass - 8104041070,1,eyewear
+358489,medical white glass - 8110021070,1,eyewear
+358490,medicare in observation room,2,consultation
+358493,medication,2,other
+358494,medication administration / surgical / day,1,procedure
+358495,medication administration /medical/ day,1,consultation
+358496,medication administration/ icu & nicu / day,1,consultation
+358497,medication adminstrated nebulizer,1,supplies
+358498,medication adminstration / surgical / day,1,procedure
+358499,medication adminstration /medical/ day,2,other
+358500,medication adminstration/ icu & nicu / day,2,consultation
+358501,medication chart,1,other
+358502,medication cup,2,other
+358503,medication fee 100,1,consultation
+358504,medication i.v,1,lab_test
+358505,medication i.v (sfv,1,lab_test
+358506,medication implementationfees for er/trauma cases/day,1,other
+358508,medication label added,1,other
+358509,medication service,1,other
+358510,"medication therapy management service(s) provided by a pharmacist, individual, face-to-face with patient, with assessment and intervention if provided",1,physiotherapy
+358511,"medication therapy management service(s) provided by a pharmacist, individual, with assessment and intervention if provided",1,physiotherapy
+358512,medician charge,1,consultation
+358513,medicine,1,other
+358516,medicine consultation - consultant,1,consultation
+358517,medicine cup 1 oz,1,other
+358519,medicine cup 1oz 100/pkt,1,other
+358524,medicine cups,1,supplies
+358527,medicine services,1,other
+358528,medicine specialist consultation,1,consultation
+358529,medicines - e.r,1,lab_test
+358530,mediclip clipper blade universal,1,supplies
+358531,"mediclip surgical clipper blades universal,dynd70850,medline",1,procedure
+358533,medidafe lancet,1,supplies
+358534,medihoney 10x10 cm dres,1,other
+358537,medihoney dressing pk/5,1,supplies
+358540,medim cast,2,supplies
+358541,mediplast 100p,1,other
+358542,medisafe blood gluco tip,1,lab_test
+358543,medisafe blood glucose meter & lancing device #terumo,1,lab_test
+358544,medisafe blood glucose test tip 30pcs ms*gc30 green,1,lab_test
+358545,medisafe fit b.gloucouse meter(terumo+finetouchii)(smile,1,supplies
+358546,medisafe fit b/glucose test tip 30pcs,1,lab_test
+358547,medisafe fit blood glucose meter,1,lab_test
+358548,medisafe fit test tip ms*fc030e blue,1,lab_test
+358549,medisafe fit test tips 30's,1,lab_test
+358550,medisafe fit test tips 30s,1,lab_test
+358551,medisafe glucometer,1,supplies
+358552,medisafe glucose strip,1,lab_test
+358553,medisafe glucose test strip,1,lab_test
+358554,medisafe lancet,1,supplies
+358555,medisafe lancet 30 pcs,1,supplies
+358556,medisafe lancet for fine touch,1,supplies
+358557,medisafe lancet for fine touch # terumo,1,supplies
+358558,medisafe lancet for fine touch #terumo,1,supplies
+358559,medisafe lancets,3,supplies
+358560,medisafe strips ( fit,1,supplies
+358561,medisense (freestyle optimum,1,other
+358562,mediserv -cg4 + cartridge - i.stat d03p85-25,1,other
+358563,mediserv cg4 + cartridge i.stat d03p85-25,1,other
+358564,medisize climatrach w valve 300730000,1,other
+358566,mediterranean fever (amyloid a,1,lab_test
+358569,medium wound dressing,7,supplies
+358570,medium -dressing,1,supplies
+358571,medium 5%-25%,1,other
+358572,medium abcess,1,other
+358573,medium abcess drainage,1,procedure
+358574,medium abcess drainge,1,procedure
+358576,medium abscess drainage,4,procedure
+358577,medium abscess i&d,1,procedure
+358578,medium abscess i&d - فتح خراج متوسط,1,procedure
+358579,medium abscess-702,1,procedure
+358580,medium alcohol swabs 1,1,other
+358581,medium biopsy,2,procedure
+358582,medium burn dress,1,procedure
+358583,medium burn dressing,5,supplies
+358584,medium burn dressing-221,1,supplies
+358585,medium burns dressing,2,supplies
+358586,medium case,1,other
+358587,medium cast +,1,supplies
+358589,medium crep bandage,1,supplies
+358590,medium crep bandage dressing,2,supplies
+358592,medium dessing,1,other
+358593,medium drain abcess,1,other
+358594,medium dresing,1,other
+358595,medium dress,3,procedure
+358597,medium dressing (single,1,supplies
+358598,medium dressing - major,1,supplies
+358599,medium dressing - minor,1,supplies
+358600,medium dressing / area (service + disposables + kits,1,supplies
+358601,medium dressing 15 - 25 cm,1,supplies
+358602,medium dressing by consultant,1,supplies
+358603,medium dressing for burn,1,supplies
+358604,medium dressing under sedation,1,supplies
+358605,medium dressing(10176,1,supplies
+358620,medium hand surgery (no micro surgery) - 1day pkg,1,procedure
+358622,medium lipoma,2,other
+358623,medium lipoma surgical removal,1,procedure
+358624,medium lipoma-709,1,other
+358625,"medium mini open bioinductive implant , sterile",1,supplies
+358626,medium opd procedure (opd cases,1,consultation
+358627,medium operation (surgery fee,1,procedure
+358628,medium operation - anaesthesiologist fee,1,procedure
+358629,medium operation - anesthesiologist fee,1,procedure
+358630,medium operation - disposables,1,procedure
+358631,medium pediatric dental treatment u.g.a,1,dental
+358632,medium pressure regular size valve-per pcs,1,other
+358633,medium scaling & polish,1,dental
+358634,medium sitiches (4-7,1,other
+358635,medium sitiches -3-7,1,other
+358636,medium sitiches 4-7,1,other
+358637,medium size dressing,1,supplies
+358638,medium size lipoma l.a,1,lab_test
+358640,medium sized burn dressing-11613,1,supplies
+358641,medium sized burn dressing-11762,1,supplies
+358644,medium sized dressing-umblical,1,supplies
+358645,medium sized dressingmedium,1,other
+358646,medium sizedressing,1,other
+358647,medium soft tissue tumour resection pd,1,procedure
+358648,"medium specimen, any organ",1,other
+358649,medium specimen; any organ,1,other
+358650,medium surgery opration under g.a,1,procedure
+358651,medium suture-cosmetic,1,supplies
+358654,medium wound less than 10 sutures by plastic surgeon,1,eyewear
+358655,medium wounds 5-7 stitches,1,procedure
+358656,medium%20dressing,1,other
+358657,medium- latex gloves non-powdered,1,supplies
+358658,mediume sized dressing,2,supplies
+358659,medlullary plug small,1,other
+358660,medlullary plug small 172102k82 # 02994000,1,other
+358661,medlullary plug small implant,1,supplies
+358741,medtronic absorba tack 5mm with 30 violet,1,supplies
+358742,medtronic affinity oxygenator 541,1,supplies
+358743,medtronic cath perit std 23092,1,supplies
+358744,medtronic edms 46916 duet w/vc,1,supplies
+358746,medtronic evera mri xt vr surescan cat,1,imaging
+358747,medtronic evera mri xt vr surescan cat # dvmb2d4,1,imaging
+358748,medtronic guardian 4 link transmitter,1,supplies
+358749,medtronic guardian link 3,1,supplies
+358750,medtronic guardian link 4,1,supplies
+358751,medtronic guardian sensor,2,supplies
+358752,medtronic guardian sensor 3,2,supplies
+358753,medtronic guardian sensor 3 (5/box,1,supplies
+358754,medtronic guardian sensor 4,2,supplies
+358755,medtronic guardian sensor 4 (5/box,1,supplies
+358757,medtronic guardian sensor-3,1,supplies
+358758,medtronic guardian transmitte,1,supplies
+358759,medtronic guardian transmitter kit-4,1,supplies
+358760,medtronic guardian-4 transmitt,1,supplies
+358761,medtronic inf set silhouette 13mm 60cm,1,eyewear
+358762,medtronic infst mmt-876 suret 10pk8mm32in 21l udi,1,supplies
+358771,medtronic insuline pump reservoir,1,supplies
+358772,medtronic minimed 60cm*6mm infusion set (cannula&tube) (10 pieces) (dev,1,supplies
+358776,medtronic minimed guardian glucose sensor (all versions) (5 pieces) (dev,1,lab_test
+358777,medtronic minimed inf.set 6mm mmt242a,1,supplies
+358781,medtronic minimed quick set 6m,1,supplies
+358782,medtronic minimed quick set 9mm 110 cm,1,supplies
+358783,medtronic minimed quick set 9m,1,supplies
+358784,medtronic minimed quickset 6mm 60cm,1,supplies
+358785,"medtronic mio infusion set 6mm, 60cm",1,supplies
+358786,medtronic mio set infusion set (10/box,1,supplies
+358788,medtronic perf custom pack m960303d,1,supplies
+358789,medtronic pump 780 1896ww 1,1,supplies
+358790,medtronic pump serter 1 1,1,supplies
+358791,medtronic quick set (9m160cm,1,supplies
+358796,medtronic quick set infusion set 6mm (10/box,1,supplies
+358797,medtronic quick set infusion set 9mm (10/box,1,supplies
+358798,medtronic quick set size 6,1,supplies
+358799,medtronic quick set size 9,1,supplies
+358800,medtronic sig power control shell #sigpshell,1,supplies
+358801,"medtronic spine dbm 5cc grafton putty , # t43105int, biologics, medtronic",1,supplies
+358802,medtronic spine grafton dbm putty 5 cc,1,supplies
+358803,"medtronic spine rod 5.5cm 500 mm diff.size , # 15552xxxxx",1,supplies
+358804,medtronic strata ii valve smal,1,supplies
+358805,medtronic sure t mmt-862 6mm,1,supplies
+358806,medtronic sure t mmt-876a 8mm,1,supplies
+358807,medtronic suret cannula set 6mm mmt862a,1,supplies
+358808,medtronic venous cann 2 stg 34/46 91246c,1,supplies
+358809,medtronic xomed stimulator probe-per pcs,1,supplies
+358810,medtronic xomed subdermal electrode-per pcs,1,supplies
+358811,meduim dressing,1,supplies
+358812,medullary myelin protein abs,1,lab_test
+358813,medullary plug diff size-implantcast germany,1,supplies
+358814,medum lipoma excsion,1,other
+358815,medum lipoma excsion (under local anesthesia,1,procedure
+358816,medum wound dressing of burns,1,supplies
+358817,medume abcess for i.d,1,lab_test
+358818,medvi compressor nebulizer,1,supplies
+358819,medvi portable mesh nebulizer,1,supplies
+358825,"medyssey athena cervical plate 6 h diff. size , # apu41",1,imaging
+358826,medyssey cancellous chips diff. size,1,other
+358827,"medyssey reduc mono axial screw 5.5mm diff.size , # rmo55,30=50",1,eyewear
+358828,"medyssey reduce poly axial screw 5.5/6.5mm , diff.size, # rp55/65, 30=50",1,supplies
+358829,"medyssey screw athena self drilling diff. size , # aps3512ws",1,supplies
+358850,mefenamicacid500mg/tabletfilm-coatedtablet,1,other
+358851,mefix 10 x 15 box,1,other
+358852,mega mineral vol: cocentrate: unit:20 box,1,other
+358853,mega 1025,1,other
+358857,mega mineral 20tab,1,other
+358860,mega mineral 20 tb,1,other
+358862,mega q,1,other
+358865,mega-q,1,other
+358868,mega-q 30's,1,other
+358874,megace,1,other
+358876,megacor,1,other
+358881,megam,1,other
+358886,megamind omega,1,other
+359898,megamox1gtab.(b/14,1,other
+359899,megamox1mg,2,other
+359922,megatone 30cap,1,other
+359931,"megatop (omega - 3 fatty acids * epa, dha *",1,other
+359932,megatop fish oil,1,lab_test
+359942,megion,1,other
+360002,megnesium,1,other
+360008,meibomain gland dysfunction tratment bil,1,other
+360009,meibomain gland dysfunction treatment ou,1,other
+360010,meibomian gland dysfunction treatment ou,1,other
+360011,meibomian gland stimulation (1 session,1,physiotherapy
+360012,meibomian gland stimulation (3 session package,1,physiotherapy
+360013,meima mt10529,1,other
+360014,mekey,2,other
+360015,melan-a,1,other
+360016,melanoma excision,1,procedure
+360018,melatonin,1,other
+360021,melatonin - mothernest melatonin gummy (r288,1,other
+360022,melatonin - s.o,1,lab_test
+360028,melhem samir rahme,1,other
+360068,meligamet 50/1000 60caps,1,other
+360115,meligamet 50/850 60caps,1,other
+360194,meligamet50/850,1,other
+360195,meligamet50/850 60tab,1,other
+360209,meliglptin,3,other
+360258,meloderm,1,other
+360271,melolin 10x10 cm 1s,1,other
+360272,melolin 10x10 cm 3s,1,other
+360273,melolin(salvonin) 10*10cm #66974941,1,other
+360274,melolin(salvonin) 20*#66974939,1,other
+360284,meloxicam,1,other
+360327,meloxicam 7.5 /mg,1,other
+360355,melrosum syrup100 ml (thyme fluid extract,1,procedure
+360397,membrance peeling,1,other
+360398,membrane / bone grafts - per tooth,1,imaging
+360399,membrane blue dual-per each,1,other
+360400,membrane material / piece,1,other
+360401,membrane peeling (mp) - day case,1,other
+360402,membrane peeling(mp,1,other
+360403,"membrane, amniotic, biological matrix, omnigen c, 12mm, nuvision, omn000c-1",1,other
+360404,membranectomy,1,procedure
+360405,membranectomy_opm8344,1,other
+360406,"membraneous nephropathy / pla2 receptor abs(ift(s), thsd7a abs (ifts",1,lab_test
+360407,membraneous nephropathy screening abs,1,lab_test
+360408,"membraneous nephropathy/pla2 receptor abs(ift(s), thsd7a abs (ifts",1,lab_test
+360409,meme ths high,1,other
+360413,memory - memokj02,1,other
+360414,memory 10967,1,other
+360415,memory 10971,1,other
+360416,memory 10974,1,other
+360417,memory 10977,1,other
+360418,memory impairment screen (mis,1,other
+360419,memory test,1,lab_test
+360420,men above the age of 50 with colonoscopy,1,procedure
+360421,men above the age of 50 with colonscopy,1,procedure
+360422,men above the age of 50 without colonoscopy,1,procedure
+360423,men above the age of 50 without colonscopy,1,procedure
+360424,men above the age of 50 y with clonoscopy,1,procedure
+360425,men between 18 - 49,1,other
+360426,men between 18-49,1,other
+360427,menactr,1,other
+360493,menal mehmet - dogan,1,other
+360497,mencevax,1,other
+360500,mengo fr,1,eyewear
+360501,menicectomy,1,procedure
+360503,meningioma excision (sphenoidal)->c01.51-a,1,eyewear
+360504,meningioma excision post . fossa (basal meningioma->c01.51-c,1,eyewear
+360505,meningioma excision tentorial/supratentorial,1,procedure
+360508,meningitis - mgmt 1-7 days,1,other
+360510,meningitis bacterial multiplex pcr,1,lab_test
+360512,meningitis multiplex pcr,2,lab_test
+360513,meningitis multiplex pcr (in-house,1,lab_test
+360514,meningitis panel,1,lab_test
+360515,meningitis screen,1,other
+360519,"meningitis, bacterial, multiplex pcr",1,lab_test
+360520,"meningitis, bacterial, multiplex pcr - s.o",1,lab_test
+360521,"meningitis, multiplex pcr - s.o",1,lab_test
+360522,meningitis/encephalitis,1,other
+360523,meningitis/encephalitis (me) panel pcr,1,lab_test
+360524,meningitis/encephalitis associated infection panel - pcr,2,lab_test
+360525,meningitis/encephalitis infections panel multiplex pcr,1,lab_test
+360526,meningitis/enchphalitis panil multiplex pcr,1,lab_test
+360527,meningocele,1,other
+360534,meningococcal conjugate quadrivalent (mcv4,1,other
+360544,meningococcal polysaccharide (menveo)bx1,1,other
+360548,meningococcal vac,1,other
+360565,meniscal all inside repair system curved 800100200,1,procedure
+360566,meniscal cinch ar4500,1,other
+360567,meniscal cinch curved tip sterile disposable (one unit,1,supplies
+360568,meniscal excision or trimming,1,procedure
+360569,meniscal injury medial or lateral meniscectomy,2,procedure
+360570,meniscal repair,1,procedure
+360571,meniscal root pepair pack with ultrabrraid,1,supplies
+360572,meniscal root repair pack with ultratape suture sterile,1,supplies
+360573,meniscectomy,2,procedure
+360574,meniscectomy (arthroscopic,1,procedure
+360575,meniscectomy - arthroscopic,3,procedure
+360576,meniscectomy - arthroscopic - pkg 1 day,2,procedure
+360578,meniscectomy - arthroscopic -a,1,procedure
+360579,meniscectomy - arthroscopic1days,1,procedure
+360580,meniscectomy -arthroscopic -a,1,procedure
+360581,meniscectomy arthroscopic,3,procedure
+360582,meniscectomy arthroscopic mdg,1,procedure
+360583,meniscectomy arthroscopictaw,1,procedure
+360584,meniscectomy of knee,2,procedure
+360585,meniscectomy or cyst of knee( open,1,procedure
+360586,meniscectomy or excision of cyst of knee joint open surgery,1,procedure
+360587,meniscectomy or excision of cyst of knee joint open surgery - 3 days,1,procedure
+360588,meniscectomy or excision of cyst of the knee joint,1,procedure
+360589,meniscectomy or excision of cyst of the knee joint-open surgery,1,procedure
+360590,meniscectomy-arthroscopic,1,procedure
+360591,meniscus cutter,1,other
+360592,meniscus repair,1,procedure
+360593,meniscus repair knee,1,procedure
+360594,menisectomy - anthroscopic,1,procedure
+360595,menisectomy arhroscopic,1,procedure
+360596,menisectomy arthroscopic,2,procedure
+360597,menisectomy for rupture or cyst,1,procedure
+360598,menisectomy or excision of cyst of the k,1,procedure
+360599,"menisectomy,synovectomy or excisionof cyst from the knee joi - 2 days pkg",1,procedure

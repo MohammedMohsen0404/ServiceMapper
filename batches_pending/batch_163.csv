@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+357310,medical supervision - 215-b,1,consultation
+357311,medical supervision - 215a,1,consultation
+357312,medical supervision - 215b,1,consultation
+357313,medical supervision - 216,1,consultation
+357314,medical supervision - 216-a,1,consultation
+357315,medical supervision - 216-b,1,consultation
+357316,medical supervision - 216a,1,consultation
+357317,medical supervision - 216b,1,consultation
+357318,medical supervision - 217-a,1,consultation
+357319,medical supervision - 217-b,1,consultation
+357320,medical supervision - 217a,1,consultation
+357321,medical supervision - 217b,1,consultation
+357322,medical supervision - 218,1,consultation
+357323,medical supervision - 218-a,1,consultation
+357324,medical supervision - 218-b,1,consultation
+357325,medical supervision - 218a,1,consultation
+357326,medical supervision - 218b,1,consultation
+357327,medical supervision - 219,1,consultation
+357328,medical supervision - 219a,1,consultation
+357329,medical supervision - 219b,1,consultation
+357330,medical supervision - 220,1,consultation
+357331,medical supervision - 220a,1,consultation
+357332,medical supervision - 221,1,consultation
+357333,medical supervision - 222,1,consultation
+357334,medical supervision - 223,1,consultation
+357335,medical supervision - 224,1,consultation
+357336,medical supervision - 225,1,consultation
+357337,medical supervision - 226,1,consultation
+357338,medical supervision - 227,1,consultation
+357339,medical supervision - 228,1,consultation
+357340,medical supervision - 228-a,1,consultation
+357341,medical supervision - 229,1,consultation
+357342,medical supervision - 230,1,consultation
+357343,medical supervision - 231,1,consultation
+357344,medical supervision - 231a,1,consultation
+357345,medical supervision - 232,1,consultation
+357346,medical supervision - 232a,1,consultation
+357347,medical supervision - 233,1,consultation
+357348,medical supervision - 233a,1,consultation
+357349,medical supervision - 234,1,consultation
+357350,medical supervision - 234a,1,consultation
+357351,medical supervision - 235,1,consultation
+357352,medical supervision - 235a,1,consultation
+357353,medical supervision - 236,1,consultation
+357354,medical supervision - 236a,1,consultation
+357355,medical supervision - 237,1,consultation
+357356,medical supervision - 237a,1,consultation
+357357,medical supervision - 238,1,consultation
+357358,medical supervision - 238a,1,consultation
+357359,medical supervision - 239,1,consultation
+357360,medical supervision - 239a,1,consultation
+357361,medical supervision - 240,1,consultation
+357362,medical supervision - 240a,1,consultation
+357363,medical supervision - 241,1,consultation
+357364,medical supervision - 241a,1,consultation
+357365,medical supervision - 242,1,consultation
+357366,medical supervision - 242a,1,consultation
+357367,medical supervision - 243,1,consultation
+357368,medical supervision - 243a,1,consultation
+357369,medical supervision - 244,1,consultation
+357370,medical supervision - 244a,1,consultation
+357371,medical supervision - 245,1,consultation
+357372,medical supervision - 245a,1,consultation
+357373,medical supervision - 246,1,consultation
+357374,medical supervision - 246a,1,consultation
+357375,medical supervision - 247,1,consultation
+357376,medical supervision - 247a,1,consultation
+357377,medical supervision - 248,1,consultation
+357378,medical supervision - 248a,1,consultation
+357379,medical supervision - 249,1,consultation
+357380,medical supervision - 249a,1,consultation
+357381,medical supervision - 250,1,consultation
+357382,medical supervision - 250a,1,consultation
+357383,medical supervision - 251,1,consultation
+357384,medical supervision - 251a,1,consultation
+357385,medical supervision - 253,1,consultation
+357386,medical supervision - 254,1,consultation
+357387,medical supervision - 255,1,consultation
+357388,medical supervision - 256,1,consultation
+357389,medical supervision - 301,1,consultation
+357390,medical supervision - 301 iso,1,consultation
+357391,medical supervision - 301-a,1,consultation
+357392,medical supervision - 301-b,1,consultation
+357393,medical supervision - 302,1,consultation
+357394,medical supervision - 302-b,1,consultation
+357395,medical supervision - 302a,1,consultation
+357396,medical supervision - 303,1,consultation
+357397,medical supervision - 304,1,consultation
+357398,medical supervision - 305,1,consultation
+357399,medical supervision - 305a,1,consultation
+357400,medical supervision - 305b,1,consultation
+357401,medical supervision - 306 iso,1,consultation
+357402,medical supervision - 306-a,1,consultation
+357403,medical supervision - 306-b,1,consultation
+357404,medical supervision - 306a,1,consultation
+357405,medical supervision - 306b,1,consultation
+357406,medical supervision - 307,1,consultation
+357407,medical supervision - 307 a,1,consultation
+357408,medical supervision - 307-a,1,consultation
+357409,medical supervision - 307-b,1,consultation
+357410,medical supervision - 307a,1,consultation
+357411,medical supervision - 307b,1,consultation
+357412,medical supervision - 308,1,consultation
+357413,medical supervision - 308 a,1,consultation
+357414,medical supervision - 308 b,1,consultation
+357415,medical supervision - 308-a,1,consultation
+357416,medical supervision - 308-b,1,consultation
+357417,medical supervision - 308a,1,consultation
+357418,medical supervision - 308b,1,consultation
+357419,medical supervision - 309,1,consultation
+357420,medical supervision - 309 a,1,consultation
+357421,medical supervision - 309-a,1,consultation
+357422,medical supervision - 309-b,1,consultation
+357423,medical supervision - 309a,1,consultation
+357424,medical supervision - 309b,1,consultation
+357425,medical supervision - 310,1,consultation
+357426,medical supervision - 310 a,1,consultation
+357427,medical supervision - 310-a,1,consultation
+357428,medical supervision - 310-b,1,consultation
+357429,medical supervision - 310a,1,consultation
+357430,medical supervision - 310b,1,consultation
+357431,medical supervision - 311,1,consultation
+357432,medical supervision - 311 a,1,consultation
+357433,medical supervision - 311 b,1,consultation
+357434,medical supervision - 311-a,1,consultation
+357435,medical supervision - 311-b,1,consultation
+357436,medical supervision - 311a,1,consultation
+357437,medical supervision - 311b,1,consultation
+357438,medical supervision - 312,1,consultation
+357439,medical supervision - 312 a,1,consultation
+357440,medical supervision - 312 b,1,consultation
+357441,medical supervision - 312-a,1,consultation
+357442,medical supervision - 312-b,1,consultation
+357443,medical supervision - 312a,1,consultation
+357444,medical supervision - 312b,1,consultation
+357445,medical supervision - 313,1,consultation
+357446,medical supervision - 313 a,1,consultation
+357447,medical supervision - 313-a,1,consultation
+357448,medical supervision - 313-b,1,consultation
+357449,medical supervision - 314,1,consultation
+357450,medical supervision - 314-a,1,consultation
+357451,medical supervision - 314-aa,1,consultation
+357452,medical supervision - 314-b,1,consultation
+357453,medical supervision - 315,1,consultation
+357454,medical supervision - 315-aa,1,consultation
+357455,medical supervision - 315-cc,1,consultation
+357456,medical supervision - 316,1,consultation
+357457,medical supervision - 316-aa,1,consultation
+357458,medical supervision - 316-cc,1,consultation
+357459,medical supervision - 317,1,consultation
+357460,medical supervision - 317-aa,1,consultation
+357461,medical supervision - 317-cc,1,consultation
+357462,medical supervision - 318,1,consultation
+357463,medical supervision - 318-aa,1,consultation
+357464,medical supervision - 318-cc,1,consultation
+357465,medical supervision - 319,1,consultation
+357466,medical supervision - 319-aa,1,consultation
+357467,medical supervision - 319-cc,1,consultation
+357468,medical supervision - 320,1,consultation
+357469,medical supervision - 320-aa,1,consultation
+357470,medical supervision - 320-cc,1,consultation
+357471,medical supervision - 321,1,consultation
+357472,medical supervision - 321-aa,1,consultation
+357473,medical supervision - 321-cc,1,consultation
+357474,medical supervision - 322,1,consultation
+357475,medical supervision - 322-aa,1,consultation
+357476,medical supervision - 322-cc,1,consultation
+357477,medical supervision - 323,1,consultation
+357478,medical supervision - 323-aa,1,consultation
+357479,medical supervision - 323-cc,1,consultation
+357480,medical supervision - 324,1,consultation
+357481,medical supervision - 324-aa,1,consultation
+357482,medical supervision - 324-cc,1,consultation
+357483,medical supervision - 325,1,consultation
+357484,medical supervision - 325-aa,1,consultation
+357485,medical supervision - 326,1,consultation
+357486,medical supervision - 326-aa,1,consultation
+357487,medical supervision - 326-cc,1,consultation
+357488,medical supervision - 327,1,consultation
+357489,medical supervision - 327-cc,1,consultation
+357490,medical supervision - 328,1,consultation
+357491,medical supervision - 329,1,consultation
+357492,medical supervision - 330,1,consultation
+357493,medical supervision - 331,1,consultation
+357494,medical supervision - 331c,1,consultation
+357495,medical supervision - 332,1,consultation
+357496,medical supervision - 333,1,consultation
+357497,medical supervision - 334,1,consultation
+357498,medical supervision - 335,1,consultation
+357499,medical supervision - 336,1,consultation
+357500,medical supervision - 337,1,consultation
+357501,medical supervision - 337-a,1,consultation
+357502,medical supervision - 338,1,consultation
+357503,medical supervision - 339,1,consultation
+357504,medical supervision - 340,1,consultation
+357505,medical supervision - 341,1,consultation
+357506,medical supervision - 342,1,consultation
+357507,medical supervision - 343,1,consultation
+357508,medical supervision - 344,1,consultation
+357509,medical supervision - 345,1,consultation
+357510,medical supervision - 346,1,consultation
+357511,medical supervision - 347,1,consultation
+357512,medical supervision - 348,1,consultation
+357513,medical supervision - 349,1,consultation
+357514,medical supervision - 350,1,consultation
+357515,medical supervision - 351,1,consultation
+357516,medical supervision - 352,1,consultation
+357517,medical supervision - 353,1,consultation
+357518,medical supervision - 401,1,consultation
+357519,medical supervision - 402,1,consultation
+357520,medical supervision - 403,1,consultation
+357521,medical supervision - 404,1,consultation
+357522,medical supervision - 405,1,consultation
+357523,medical supervision - 406,1,consultation
+357524,medical supervision - 407,1,consultation
+357525,medical supervision - 408,1,consultation
+357526,medical supervision - 409,1,consultation
+357527,medical supervision - 410,1,consultation
+357528,medical supervision - 411,1,consultation
+357529,medical supervision - 412,1,consultation
+357530,medical supervision - 413,1,consultation
+357531,medical supervision - 414,1,consultation
+357532,medical supervision - 414-aa,1,consultation
+357533,medical supervision - 414-cc,1,consultation
+357534,medical supervision - 415,1,consultation
+357535,medical supervision - 415 icu,1,consultation
+357536,medical supervision - 415-aa,1,consultation
+357537,medical supervision - 415-cc,1,consultation
+357538,medical supervision - 416,1,consultation
+357539,medical supervision - 416 icu,1,consultation
+357540,medical supervision - 416-aa,1,consultation
+357541,medical supervision - 416-cc,1,consultation
+357542,medical supervision - 417,1,consultation
+357543,medical supervision - 417 icu,1,consultation
+357544,medical supervision - 417-aa,1,consultation
+357545,medical supervision - 417-cc,1,consultation
+357546,medical supervision - 418,1,consultation
+357547,medical supervision - 418 icu,1,consultation
+357548,medical supervision - 418-aa,1,consultation
+357549,medical supervision - 418-cc,1,consultation
+357550,medical supervision - 419,1,consultation
+357551,medical supervision - 419 ccu,1,consultation
+357552,medical supervision - 419 stu,1,consultation
+357553,medical supervision - 419-aa,1,consultation
+357554,medical supervision - 419-cc,1,consultation
+357555,medical supervision - 420,1,consultation
+357556,medical supervision - 420 ccu,1,consultation
+357557,medical supervision - 420 stu,1,consultation
+357558,medical supervision - 420-aa,1,consultation
+357559,medical supervision - 420-cc,1,consultation
+357560,medical supervision - 421,1,consultation
+357561,medical supervision - 421 ccu,1,consultation
+357562,medical supervision - 421 stu,1,consultation
+357563,medical supervision - 421-aa,1,consultation
+357564,medical supervision - 421-cc,1,consultation
+357565,medical supervision - 422,1,consultation
+357566,medical supervision - 422 ccu,1,consultation
+357567,medical supervision - 422 stu,1,consultation
+357568,medical supervision - 422-aa,1,consultation
+357569,medical supervision - 422-cc,1,consultation
+357570,medical supervision - 423,1,consultation
+357571,medical supervision - 423 ccu,1,consultation
+357572,medical supervision - 423-aa,1,consultation
+357573,medical supervision - 423-cc,1,consultation
+357574,medical supervision - 424,1,consultation
+357575,medical supervision - 424 ccu,1,consultation
+357576,medical supervision - 424-aa,1,consultation
+357577,medical supervision - 424-cc,1,consultation
+357578,medical supervision - 425,1,consultation
+357579,medical supervision - 425 ccu,1,consultation
+357580,medical supervision - 425 stu,1,consultation
+357581,medical supervision - 425-aa,1,consultation
+357582,medical supervision - 426,1,consultation
+357583,medical supervision - 426 ccu,1,consultation
+357584,medical supervision - 426 stu,1,consultation
+357585,medical supervision - 427,1,consultation
+357586,medical supervision - 427 ccu,1,consultation
+357587,medical supervision - 427 stu,1,consultation
+357588,medical supervision - 427-aa,1,consultation
+357589,medical supervision - 428,1,consultation
+357590,medical supervision - 428 ccu,1,consultation
+357591,medical supervision - 428 stu,1,consultation
+357592,medical supervision - 428-aa,1,consultation
+357593,medical supervision - 429-aa,1,consultation
+357594,medical supervision - 430,1,consultation
+357595,medical supervision - 431-aa,1,consultation
+357596,medical supervision - 432-aa,1,consultation
+357597,medical supervision - 433-aa,1,consultation
+357598,medical supervision - 434-aa,1,consultation
+357599,medical supervision - 435-aa,1,consultation
+357600,medical supervision - 436-aa,1,consultation
+357601,medical supervision - 436-cc,1,consultation
+357602,medical supervision - 437,1,consultation
+357603,medical supervision - 438,1,consultation
+357604,medical supervision - 439,1,consultation
+357605,medical supervision - 440,1,consultation
+357606,medical supervision - 441,1,consultation
+357607,medical supervision - 442,1,consultation
+357608,medical supervision - 443,1,consultation
+357609,medical supervision - 444,1,consultation
+357610,medical supervision - 501,1,consultation
+357611,medical supervision - 502,1,consultation
+357612,medical supervision - 503,1,consultation
+357613,medical supervision - 504,1,consultation
+357614,medical supervision - 505,1,consultation
+357615,medical supervision - 506,1,consultation
+357616,medical supervision - 507,1,consultation
+357617,medical supervision - 508,1,consultation
+357618,medical supervision - 509,1,consultation
+357619,medical supervision - 510,1,consultation
+357620,medical supervision - 511,1,consultation
+357621,medical supervision - 512,1,consultation
+357622,medical supervision - 513,1,consultation
+357623,medical supervision - 514,1,consultation
+357624,medical supervision - 515,1,consultation
+357625,medical supervision - 516,1,consultation
+357626,medical supervision - 517,1,consultation
+357627,medical supervision - 518,1,consultation
+357628,medical supervision - 519,1,consultation
+357629,medical supervision - 520,1,consultation
+357630,medical supervision - 521,1,consultation
+357631,medical supervision - 522,1,consultation
+357632,medical supervision - 523,1,consultation
+357633,medical supervision - 524,1,consultation
+357634,medical supervision - 525,1,consultation
+357635,medical supervision - 526,1,consultation
+357636,medical supervision - 527,1,consultation
+357637,medical supervision - 528,1,consultation
+357638,medical supervision - 601,1,consultation
+357639,medical supervision - 602,1,consultation
+357640,medical supervision - 603,1,consultation
+357641,medical supervision - 604,1,consultation
+357642,medical supervision - 605,1,consultation
+357643,medical supervision - 606,1,consultation
+357644,medical supervision - 607,1,consultation
+357645,medical supervision - 608,1,consultation
+357646,medical supervision - 609,1,consultation
+357647,medical supervision - 610,1,consultation
+357648,medical supervision - 611,1,consultation
+357649,medical supervision - 612,1,consultation
+357650,medical supervision - 613,1,consultation
+357651,medical supervision - 614,1,consultation
+357652,medical supervision - 615,1,consultation
+357653,medical supervision - 615 icu,1,consultation
+357654,medical supervision - 615 picu,2,consultation
+357656,medical supervision - 616 picu,1,consultation
+357657,medical supervision - 617 picu,1,consultation
+357658,medical supervision - 618 icu,1,consultation
+357659,medical supervision - 618 picu,1,consultation
+357660,medical supervision - 619,1,consultation
+357661,medical supervision - 620,1,consultation
+357662,medical supervision - a,1,consultation
+357663,medical supervision - b,1,consultation
+357664,medical supervision - bed-01,1,supplies
+357665,medical supervision - bed-02,1,supplies
+357666,medical supervision - bed-03,1,supplies
+357667,medical supervision - bed-06,1,supplies
+357668,medical supervision - bed-07,1,supplies
+357669,medical supervision - bed-09,1,supplies
+357670,medical supervision - bed-11,1,supplies
+357671,medical supervision - bed-12,1,supplies
+357672,medical supervision - bed-13,1,supplies
+357673,medical supervision - bed-14,1,supplies
+357674,medical supervision - bed-15,1,supplies
+357675,medical supervision - bed-16,1,supplies
+357676,medical supervision - bed-18,1,supplies
+357677,medical supervision - bed-24,1,supplies
+357678,medical supervision - c,1,consultation
+357679,medical supervision - ccu,1,consultation
+357680,medical supervision - ccu 1,1,consultation
+357681,medical supervision - ccu 2,1,consultation
+357682,medical supervision - ccu 3,1,consultation
+357683,medical supervision - ccu 4,1,consultation
+357684,medical supervision - ccu 5,1,consultation
+357685,medical supervision - ccu 6,1,consultation
+357686,medical supervision - ccu 7,1,consultation
+357687,medical supervision - ccu 8,1,consultation
+357688,medical supervision - ccu isolation 1,1,consultation
+357689,medical supervision - ccu-01,1,consultation
+357690,medical supervision - ccu-02,1,consultation
+357691,medical supervision - ccu-03,1,consultation
+357692,medical supervision - ccu-04,1,consultation
+357693,medical supervision - ccu-05,1,consultation
+357694,medical supervision - ccu-06,1,consultation
+357695,medical supervision - ccu-07,1,consultation
+357696,medical supervision - ccu-08,1,consultation
+357697,medical supervision - ccu-11,1,consultation
+357698,medical supervision - ccu-isolation,1,consultation
+357699,medical supervision - ccu011,1,consultation
+357700,medical supervision - ccu012,1,consultation
+357701,medical supervision - ccu013,1,consultation
+357702,medical supervision - ccu014,1,consultation
+357703,medical supervision - ccu015,1,consultation
+357704,medical supervision - ccu1,1,consultation
+357705,medical supervision - ccu10,1,consultation
+357706,medical supervision - ccu2,1,consultation
+357707,medical supervision - ccu3,1,consultation
+357708,medical supervision - ccu4,1,consultation
+357709,medical supervision - ccu5,1,consultation
+357710,medical supervision - ccu6,1,consultation
+357711,medical supervision - ccu7,1,consultation
+357712,medical supervision - ccu8,1,consultation
+357713,medical supervision - ccu9,1,consultation
+357714,medical supervision - ccuh- 1,1,consultation
+357715,medical supervision - crib1,1,consultation
+357716,medical supervision - crib10,1,consultation
+357717,medical supervision - crib11,1,consultation
+357718,medical supervision - crib12,1,consultation
+357719,medical supervision - crib13,1,consultation
+357720,medical supervision - crib14,1,consultation
+357721,medical supervision - crib15,1,consultation
+357722,medical supervision - crib2,1,consultation
+357723,medical supervision - crib3,1,consultation
+357724,medical supervision - cts1,1,consultation
+357725,medical supervision - cts2,1,consultation
+357726,medical supervision - cts3,1,consultation
+357727,medical supervision - cts4,1,consultation
+357728,medical supervision - d,1,consultation
+357729,medical supervision - d1,1,consultation
+357730,medical supervision - day case,1,consultation
+357731,medical supervision - day case -336a,1,consultation
+357732,medical supervision - day case 1,1,consultation
+357733,medical supervision - day case 10,1,consultation
+357734,medical supervision - day case 11,1,consultation
+357735,medical supervision - day case 12,1,consultation
+357736,medical supervision - day case 13,1,consultation
+357737,medical supervision - day case 14,1,consultation
+357738,medical supervision - day case 16,1,consultation
+357739,medical supervision - day case 17,1,consultation
+357740,medical supervision - day case 18,1,consultation
+357741,medical supervision - day case 2,1,consultation
+357742,medical supervision - day case 20,1,consultation
+357743,medical supervision - day case 21,1,consultation
+357744,medical supervision - day case 22,1,consultation
+357745,medical supervision - day case 3,1,consultation
+357746,medical supervision - day case 4,1,consultation
+357747,medical supervision - day case 5,1,consultation
+357748,medical supervision - day case 6,1,consultation
+357749,medical supervision - day case 7,1,consultation
+357750,medical supervision - day case 8,1,consultation
+357751,medical supervision - day case 9,1,consultation
+357752,medical supervision - day case-329a,1,consultation
+357753,medical supervision - day case-329c,1,consultation
+357754,medical supervision - day case-330a,1,consultation
+357755,medical supervision - day case-331,1,consultation
+357756,medical supervision - day case-331a,1,consultation
+357757,medical supervision - day case-332,1,consultation
+357758,medical supervision - day case-332c,1,consultation
+357759,medical supervision - day case-333a,1,consultation
+357760,medical supervision - day case-333c,1,consultation
+357761,medical supervision - day case-334a,1,consultation
+357762,medical supervision - day case-334c,1,consultation
+357763,medical supervision - day case-335a,1,consultation
+357764,medical supervision - day case-335c,1,consultation
+357765,medical supervision - day case-336c,1,consultation
+357766,medical supervision - day case-337a,1,consultation
+357767,medical supervision - day case-337c,1,consultation
+357768,medical supervision - day case-338a,1,consultation
+357769,medical supervision - day case-338c,1,consultation
+357770,medical supervision - day case-7,1,consultation
+357771,medical supervision - day surgery 1,1,procedure
+357772,medical supervision - day surgery 2,1,procedure
+357773,medical supervision - day surgery 3,1,procedure
+357774,medical supervision - dcw-01,1,consultation
+357775,medical supervision - dcw-04,1,consultation
+357776,medical supervision - dr 1,1,consultation
+357777,medical supervision - dr 2,1,consultation
+357778,medical supervision - dr 3,1,consultation
+357779,medical supervision - dr 4,1,consultation
+357780,medical supervision - dr 5,1,consultation
+357781,medical supervision - dr 6,1,consultation
+357782,medical supervision - dr-dr1,1,consultation
+357783,medical supervision - dr-dr10,1,consultation
+357784,medical supervision - dr-dr11,1,consultation
+357785,medical supervision - dr-dr12,1,consultation
+357786,medical supervision - dr-dr2,1,consultation
+357787,medical supervision - dr-dr3,1,consultation
+357788,medical supervision - dr-dr4,1,consultation
+357789,medical supervision - dr-dr5,1,consultation
+357790,medical supervision - dr-dr6,1,consultation
+357791,medical supervision - dr-dr7,1,consultation
+357792,medical supervision - dr-dr8,1,consultation
+357793,medical supervision - dr01,1,consultation
+357794,medical supervision - dr02,1,consultation
+357795,medical supervision - dr03,1,consultation
+357796,medical supervision - dr04,1,consultation
+357797,medical supervision - dr05,1,consultation
+357798,medical supervision - dr09,1,consultation
+357799,medical supervision - dr1,1,consultation
+357800,medical supervision - dr11,1,consultation
+357801,medical supervision - dr16,1,consultation
+357802,medical supervision - dr2,1,consultation
+357803,medical supervision - dr3,1,consultation
+357804,medical supervision - dr4,1,consultation
+357805,medical supervision - dr5,1,consultation
+357806,medical supervision - dsu-rr 1,1,consultation
+357807,medical supervision - dsu-rr 2,1,consultation
+357808,medical supervision - day case bed 01,1,supplies
+357809,medical supervision - day case bed 02,1,supplies
+357810,medical supervision - day case bed 03,1,supplies

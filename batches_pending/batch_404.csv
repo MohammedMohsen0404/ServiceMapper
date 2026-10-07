@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+603294,"valve replacement, aortic (avr) bioprosthetic",1,other
+603295,"valve replacement, pulmonic (pvr",1,other
+603296,valve shunt nsc strata small 13x23mm pediatric,1,procedure
+603297,"valve speaking orator , portex # 100/550/000 portex # 100/550/000",1,other
+603298,"valve, aortic, bioprosthesis, 21mm, avalus, medtronic, 40021",1,supplies
+603299,"valve, aortic, bioprosthesis, 23mm, avalus, medtronic, 40023",1,supplies
+603300,"valve, aortic, bioprosthesis, 25mm, avalus, medtronic, 40025",1,supplies
+603301,"valve, aortic, transcatheter, self-expandable, multiple sizes, medtronic",1,supplies
+603302,"valve, aortic, transcatheter, self-expandable, multiple-sizes, medtronic",1,supplies
+603303,"valve, heart, aortic, 23mm, regent mechanical, st. jude, 23agfn-756",1,other
+603304,"valve, heart, aortic, 25mm, regent mechanical, st. jude, 25agfn-756",1,other
+603305,"valve, heart, aortic, ats open pivot, ap360, size 24mm, 505da24",1,other
+603306,"valve, heart, mitral, 27mm, mechanical, master series, st. jude, 27mj-501",1,other
+603307,"valve, heart, mitral, 29mm, mechanical, master series, st. jude, 29mj-501",1,other
+603308,"valve, peep, adult, reusable, ambu, 000137000",1,other
+603309,"valve, speaking, basic set, spiro, 760/ tracoe 650-t",1,other
+603310,"valve, strata, regular, medtronic, 42866",1,supplies
+603311,"valve, tissue, aortic, sutureless, perceval l s, large, livanova-sorin, icv1210",1,lab_test
+603312,"valve, tissue, aortic, sutureless, perceval l s, x-large livanova-sorin, icv1211",1,lab_test
+603313,"valve, tissue, mitral, mosaic, 25 mm, medtronic, 310c25",1,supplies
+603314,"valve, tissue, mitral, mosaic, 27 mm, meditronic, 310c27",1,other
+603315,"valve, tissue, mitral, mosaic, 29 mm, meditronic, 310c29",1,other
+603316,"valve, transfemoral, implanted, aortic, edward, sapien3 comnder kt23-1,s3tf123",1,other
+603317,"valved, aortic graft,prosthesis,ascending,size- 27,carbomedics carbo-seal,livanova,cp-027",1,supplies
+603318,"valvular disorders, majc",1,inpatient
+603319,"valvular disorders, minc",1,inpatient
+603320,valvuloplasty / mitral with balloon,1,supplies
+603321,"valvuloplasty, aortic",1,procedure
+603322,"valvuloplasty, mitral",1,procedure
+603323,"valvuloplasty, pulmonic -pkg",1,procedure
+603324,valvulotomy,1,procedure
+603331,vamin(aminoacid in glucose,1,lab_test
+603403,vancolon 05gmvial iv,1,supplies
+603521,vancomycine level,1,lab_test
+603525,vanger,1,other
+603529,vanilla tpn,1,nutrition
+603568,vanni,1,other
+603569,vanni frm mod.v8712,1,eyewear
+603570,vantolin,1,other
+603573,vapotherm/day (inpatient,1,other
+603574,vapr tripolar 90 degree suction electrode (mitek depuy) #225028,1,supplies
+603575,"vapr-s90, radiofrequency electrode, single use, (depuy synthes) # 228370",1,supplies
+603578,vaqta 25u syringe i.m,1,supplies
+603579,vaqta 25u syringe i.m. (hepatitis a virus strain cr 326f antigen *formaldehyde inactivated*,1,lab_test
+603582,vaqta 25u syringe i.m. hepatitis a virus strain cr 326f antigen *formaldehyde inactivated*,1,lab_test
+603587,var anti scr prog. 2/2-6/2,1,other
+603588,var gl 1.50,1,other
+603589,var gl 1.50 ar,1,other
+603590,var gl 1.50 ph cr,1,other
+603591,var pgx/pbx 2/2-6/2,1,eyewear
+603592,var plastic 2/2-6/2,2,eyewear
+603593,var transition pgx/pbx 2/2-6/2,2,eyewear
+603594,var.vein - arterial embolectomy-aorta (g.a,1,procedure
+603595,var.vein- art.embolect.- peripheral (loc/reg,1,other
+603598,varecoelectomy laparoscopic (one side,1,supplies
+603599,varecoelectomy surgical (bilateral,2,procedure
+603601,varecoelectomy surgical (one side,2,supplies
+603604,varenicline,1,other
+603607,vari stim 111 hand held nerve stimulator-per pcs,1,physiotherapy
+603608,variable angle 2 column volar distal radius plate 3holes right #ti-548.003r,1,supplies
+603609,"variable angle distal radius plate 4 hole right , ti-546.204r auxien",1,supplies
+603610,variable angle distal radius plate 4 hole left,1,supplies
+603611,variable angle distal radius plate 4 hole left auxien ti.546.204l,1,supplies
+603612,variable angle distal radius plate 4 hole left-auxien #ti-546.204l,1,supplies
+603613,variable angle distal radius plate 4 hole right-auxien,1,supplies
+603614,variable angle distal radius plate 4 hole right-auxien #ti-546.204r,1,supplies
+603615,variable angle locking screw 2.4x14mm,1,supplies
+603616,variable angle locking screw 2.4x16mm,1,supplies
+603617,variable angle locking screw 2.4x18mm,1,supplies
+603618,variable angle locking screw 2.4x20mm,1,supplies
+603619,variable angle locking screw 2.4x22mm,1,supplies
+603620,variable angle locking screw 28*16mmti # c6.28160,1,eyewear
+603621,variable angle t1-546.204l distal radius plate 4hole left-auxien,1,supplies
+603622,variable exposure length tip (v-tip,1,other
+603623,variceal ligation 5 bands,2,procedure
+603624,variceal ligation 5 bands bands or less,1,procedure
+603625,variceal ligation 5 bands or less,2,procedure
+603626,variceal ligation > 5 band,1,procedure
+603627,variceal ligation > 5 bands,1,procedure
+603628,varicelectomy surgical - bilateral,1,procedure
+603629,varicelectomy surgical - bilateral-1d,1,procedure
+603630,varicelectomy surgical- unilateral,1,procedure
+603631,varicella,2,other
+603632,varicella - zoster igg,1,lab_test
+603633,varicella igg,2,lab_test
+603635,varicella ( chicken pox,1,other
+603636,varicella (herpes zost) pcr,1,lab_test
+603639,varicella - igm,1,lab_test
+603640,varicella -igm,1,lab_test
+603641,varicella 18 months,1,other
+603642,varicella 4-6 yrs,1,other
+603644,varicella igg/igm,1,lab_test
+603645,varicella igm,1,lab_test
+603647,varicella screening test igg,1,lab_test
+603661,varicella zoster,1,other
+603662,varicella zoster igg,6,lab_test
+603663,varicella zoster igg spec abs,1,lab_test
+603664,varicella zoster ( igg + igm,1,lab_test
+603665,varicella zoster (cf + igg+igm) @,1,lab_test
+603666,"varicella zoster (cf, igg & igm",1,lab_test
+603667,"varicella zoster (cf,igg & igm",1,lab_test
+603668,"varicella zoster (iga, igg & igm",1,lab_test
+603669,varicella zoster (igg & igm,2,lab_test
+603670,varicella zoster (igg,1,lab_test
+603671,varicella zoster (igm,2,lab_test
+603672,"varicella zoster ,igg and igm s -(send-out tests",1,lab_test
+603673,varicella zoster ab (v.z.v,1,lab_test
+603674,varicella zoster abs,2,lab_test
+603675,varicella zoster antibodies -(1gg,1,lab_test
+603677,varicella zoster dna (pcr,1,lab_test
+603678,varicella zoster dna by pcr,1,lab_test
+603679,varicella zoster iga,1,lab_test
+603681,varicella zoster igg & igm abs,1,lab_test
+603682,varicella zoster igg abs,1,lab_test
+603684,varicella zoster igm,4,lab_test
+603685,varicella zoster igm igg spec abs,1,lab_test
+603686,varicella zoster igm & igg spec abs,1,lab_test
+603687,varicella zoster igm abs,1,lab_test
+603688,varicella zoster igm spec abs,1,lab_test
+603689,varicella zoster igm and igg spec abs,1,lab_test
+603691,varicella zoster pcr,1,lab_test
+603692,varicella zoster v igg,1,lab_test
+603693,varicella zoster virus (igm,1,lab_test
+603694,"varicella zoster virus (igm,igg&iga",1,lab_test
+603695,varicella zoster virus - pcr,1,lab_test
+603696,"varicella zoster virus abs (iga, igg, igm",1,lab_test
+603697,varicella zoster virus abs (igg,2,lab_test
+603698,"varicella zoster virus abs (igg, igm",1,lab_test
+603700,"varicella zoster virus abs. (igg, igm",1,lab_test
+603701,varicella zoster virus antibodies igm,2,lab_test
+603702,varicella zoster virus antibody igg,2,lab_test
+603704,varicella zoster virus by pcr,1,lab_test
+603705,varicella zoster virus dna,2,lab_test
+603708,varicella zoster virus glycoprotein e adjuvanted with as01b (shingrix,1,other
+603710,varicella zoster virus igg & igm {bm},1,lab_test
+603711,varicella zoster virus igg antibodies,2,lab_test
+603712,varicella zoster virus igm antibodies,1,lab_test
+603713,varicella zoster virus igg,1,lab_test
+603714,varicella zoster virus igg abs (vzv,1,lab_test
+603717,varicella zoster(igg & igm,1,lab_test
+603718,varicella-zona by pcr - s.o,1,lab_test
+603721,varicocel high ligation both sides,1,procedure
+603722,varicocele,1,other
+603723,varicocele embolization (unilateral,1,procedure
+603724,varicocele (open surgery,1,procedure
+603726,varicocele bilateral open,1,other
+603727,varicocele embolization,1,procedure
+603728,varicocele embolization (bilateral,1,procedure
+603729,varicocele embolization (coil not included,1,procedure
+603730,varicocele embolization bilateral,5,procedure
+603732,varicocele embolization bilateral(without consumable,1,procedure
+603733,varicocele embolization unilateral(without consumable,1,procedure
+603734,varicocele embolization-bilateral-pkg,1,procedure
+603735,varicocele embolization-reurrence-pkg,1,procedure
+603736,varicocele embolization-unilateral-pkg,1,procedure
+603737,varicocele excision (unilateral,1,procedure
+603738,varicocele hig ligation one si,1,supplies
+603739,varicocele hig ligation one si(pkg,1,supplies
+603740,varicocele high ligation 1 sid,1,procedure
+603741,varicocele high ligation 2 sid,1,procedure
+603742,varicocele ligation,1,procedure
+603743,varicocele ligation (lap)-unilat,1,procedure
+603744,varicocele ligation lap(bilat,1,procedure
+603745,varicocele long coils embolization bilateral by interventional radiologist (without consumables) - day case,1,procedure
+603746,varicocele one side,2,supplies
+603747,varicocele op. (two sides) - 912012,1,other
+603748,varicocele operation unilateral,1,procedure
+603749,varicocele operations - open g.a - 1 day pkg,1,lab_test
+603751,varicocele unilateral open,1,other
+603752,"varicocele, ligation (bilateral",1,procedure
+603753,"varicocele, ligation (unilateral",1,procedure
+603754,varicocelectomy,1,procedure
+603755,varicocelectomy (2,1,procedure
+603756,varicocelectomy (bilateral,1,procedure
+603757,varicocelectomy (one side,1,supplies
+603758,varicocelectomy (open surgery) unilatera,1,procedure
+603759,varicocelectomy (two side,1,procedure
+603760,varicocelectomy (unilateral,1,procedure
+603761,varicocelectomy - bilateral,1,procedure
+603762,varicocelectomy - unilateral,1,procedure
+603763,varicocelectomy / laparascopic,1,procedure
+603764,varicocelectomy / sils,1,procedure
+603765,varicocelectomy 1 side,1,procedure
+603766,varicocelectomy as pdeal,1,procedure
+603767,varicocelectomy biilateral (pkg,1,procedure
+603768,varicocelectomy bilateral,2,procedure
+603769,varicocelectomy bilateral- (p.d,1,procedure
+603771,varicocelectomy laparoscopic (bilateral,1,procedure
+603772,varicocelectomy laparoscopic (one side,1,supplies
+603773,varicocelectomy laparoscopic (unilateral,1,procedure
+603774,varicocelectomy single port (sils,1,procedure
+603775,varicocelectomy surgical (bilateral,1,procedure
+603776,varicocelectomy surgical (one side,1,supplies
+603777,varicocelectomy under ga (2 sides,1,procedure
+603778,varicocelectomy unilateral,2,procedure
+603779,varicocelectomy unilateral (pkg,1,procedure
+603780,varicocelectomy unilateral- (p.d,1,procedure
+603782,varicocelectomy uniliteral,1,procedure
+603783,varicocelectomy(one side,1,supplies
+603784,varicoceles,2,other
+603785,varicoceles bilateral,1,other
+603786,varicoceles ot00388214,1,other
+603787,varicoceletomy bilateral,1,other
+603788,varicoceletomy unilateral,1,other
+603789,varicocelle one side,1,supplies
+603790,varicocoelectomy (laparoscopic,2,procedure
+603792,varicocoelectomy (unilateral) (open surgery,1,procedure
+603793,varicocole operation open ga one side,1,supplies
+603794,varicoe vein high ligation & tripping,1,procedure
+603795,varicos vein high ligation and strpping,1,procedure
+603796,varicose (unilateral,1,procedure
+603797,varicose unilateral,1,procedure
+603798,varicose vein clarivein therapy p/d,1,physiotherapy
+603799,varicose vein high ligation&striping,1,procedure
+603800,varicose vein laser therapy-one vein,1,physiotherapy
+603801,varicose vein ligation&stripping bilateral,1,procedure
+603802,varicose vein ligation&stripping unilateral,1,procedure
+603803,varicose vein sclerotherapy,1,procedure
+603804,varicose vein sclerotherapy (small,1,procedure
+603805,varicose vein sclerotherapy 1 session or,1,physiotherapy
+603806,varicose vein sclerotherapy 3 session or,1,physiotherapy
+603807,varicose vein sclerotherapy three se.or,1,procedure
+603808,varicose vein stking af-(above knee,1,procedure
+603809,varicose vein stocking comprezon-ag/af,1,lab_test
+603810,varicose vein stripping ligation or excsion (two legs,1,procedure
+603811,varicose vein stripping ligation or excsion (one leg,1,supplies
+603812,varicose vein stripping one leg,1,supplies
+603813,varicose vein ultrasound bilateral,1,imaging
+603814,varicose vein ultrasound unilateral,1,imaging
+603815,varicose vein venus-one vein,1,supplies
+603816,"varicose veins (evlt , evrf ablation) by interventional radiologist - 1 day pkg",1,procedure
+603817,varicose veins (one side,1,supplies
+603818,varicose veins ablation,1,procedure
+603819,varicose veins ablation ( unilateral,1,procedure
+603820,varicose veins bilateral,1,procedure
+603821,varicose veins high ligation & stripping,3,procedure
+603822,varicose veins high ligation & stripping bilateral,1,procedure
+603823,varicose veins high ligation & stripping bilateral2days,1,procedure
+603824,varicose veins high ligation & stripping unilateral,2,procedure
+603825,varicose veins high ligation & stripping unilateral - pkg 1 day,1,procedure
+603826,varicose veins high ligation & stripping unilateral1days,1,procedure
+603827,varicose veins high ligation & strippling,1,procedure
+603828,varicose veins high ligation &stripping,2,procedure
+603829,varicose veins high ligation ( unilateral ) - 1 day pkg,1,procedure
+603830,varicose veins high ligation (unilateral,1,procedure
+603831,varicose veins high ligation + stripping ( unilateral ) - 2 days pkg,1,procedure
+603832,varicose veins high ligation + stripping (unilateral,1,procedure
+603833,varicose veins high ligation + stripping + multiple avu,1,procedure
+603834,varicose veins high ligation + stripping + multiple avulsion - 2 days pkg,1,procedure
+603835,varicose veins high ligation stripping unilateral mdg,1,procedure
+603836,varicose veins high tie with stripping or avulsions - 1day pkg,1,procedure
+603837,varicose veins ligation,2,procedure
+603838,varicose veins ligation and stripping unilateral,1,procedure
+603839,varicose veins multiple ligation unilateral d/c,1,procedure
+603840,varicose veins striping - unilateral,1,procedure
+603841,varicose veins striping bilateral,1,procedure
+603842,varicose veins striping unilateral,1,procedure
+603843,varicose veins stripping,2,procedure
+603844,varicose veins stripping (unilateral,4,procedure
+603845,varicose veins stripping (bilateral,3,procedure
+603846,varicose veins stripping (one side,2,supplies
+603848,varicose veins stripping (unilateral)- (p.d,1,procedure
+603849,varicose veins stripping and local resections 1 leg,1,procedure
+603850,varicose veins stripping unilateral,1,procedure
+603851,varicose veins stripping-bilateral,1,procedure
+603852,varicose veins stripping-unilateral,1,procedure
+603853,varicose veins two legs as pd3,1,procedure
+603854,varicose veins with ligation of perforators-1 day pkg,1,procedure
+603855,varicose viens striping unilateral(500159,1,procedure
+603856,varierty reading frm,1,eyewear
+603857,varietty - va6011,1,other
+603858,variety,1,other
+603859,variety - gaso line - lemperum - davincli,1,other
+603860,variety - vari106,1,other
+603861,variety - vari2068,1,other
+603862,variety - vari2225,1,other
+603863,variety - vari443,1,other
+603864,variety - vari8174,1,other
+603865,variety - varimj03,1,other
+603867,varilirix,4,other
+603870,varilix,2,other
+603874,varilix chickenpox,1,other
+603878,"variloc cortex screw, fully threaded, self-tapping, threaded diameter : 2.4 mm, length : 14.0 mm, size : 2.4 mm 14.0 mm",1,supplies
+603879,"variloc cortex screw, fully threaded, self-tapping, threaded diameter : 2.4 mm, length : 16.0 mm, size : 2.4 mm 16.0 mm",1,supplies
+603880,"variloc distal radius two-column volar narrow platess 2.4 mm / 2.7 mm, thickness 1.7 mm, head width : 19.5 mm, length : 81.0 mm, size : 7+5 holes, right, pt",1,lab_test
+603881,"variloc distal radius two-column volar narrow platess 2.4 mm / 2.7 mm, thickness : 1.7 mm, head width : 19.5 mm, length : 81.0 mm, size : 7+5 holes, left, pt",1,lab_test
+603882,"variloc locking screw, self-tapping, threaded diameter : 2.4 mm, length : 14.0 mm, size : 2.4 mm 14.0 mm",1,supplies
+603883,"variloc locking screw, self-tapping, threaded diameter : 2.4 mm, length : 24.0 mm, size : 2.4 mm 24.0 mm",2,supplies
+603885,"variloc variable angle va - locking screws, self-tapping, threaded diameter : 2.4 mm, length : 10.0 mm, size : 2.4 mm 10.0 mm",1,supplies
+603886,"variloc variable angle va - locking screws, self-tapping, threaded diameter : 2.4 mm, length : 12.0 mm, size : 2.4 mm 12.0 mm",2,supplies
+603888,"variloc variable angle va - locking screws, self-tapping, threaded diameter : 2.4 mm, length : 24.0 mm, size : 2.4 mm 24.0 mm",1,supplies
+603889,variloux blue cut,1,other
+603890,variloux hmc 4/4,1,eyewear
+603891,variloux normal 4/4,1,other
+603892,variloux photo gray 4/4,1,other
+603893,varilrix,2,other
+603894,varilrix (17907,1,other
+603897,varilrix 2000 dont use,1,other
+603927,varilrix vaccin,1,other
+603937,varilux,1,eyewear
+603938,varilux 1.5 ellipse,1,eyewear
+603939,varilux 1.5 ellipse trans gry/brn,1,eyewear
+603940,varilux comfort 1.5,1,eyewear
+603941,varilux comfort 1.67,1,eyewear
+603942,varilux comfort1.5 trans.crizal prevencia,1,eyewear
+603943,varilux comfort1.5 trans.crizal/uv40-f,1,eyewear
+603944,varilux comfort1.5crizal/uv40-f,1,eyewear
+603945,varilux comfort1.67 crizal/uv40-f,1,eyewear
+603946,varilux compact plastic ot add 2.00 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603947,varilux compact plastic ot add 2.25 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603948,varilux compact plastic ot add 2.50 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603949,varilux compact plastic wht add 1.00 (00.00 03.00) (00.00 04.00) bashawri,1,eyewear
+603950,varilux compact plastic wht add 1.00 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603951,varilux compact plastic wht add 1.25 (00.00 03.00) (00.00 04.00) bashawri,1,eyewear
+603952,varilux compact plastic wht add 1.25 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603953,varilux compact plastic wht add 1.50 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603954,varilux compact plastic wht add 1.75 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603955,varilux compact plastic wht add 2.00 (00.00-03.00) (00.00-04.00)-bashawri,2,eyewear
+603957,varilux compact plastic wht add 2.25 (00.00 03.00) (00.00 04.00) bashawri,1,eyewear
+603958,varilux compact plastic wht add 2.25 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603959,varilux compact plastic wht add 2.50 (00.00 03.00) (00.00 04.00) bashawri,1,eyewear
+603960,varilux compact plastic wht add 2.50 (00.00-03.00) (00.00-04.00)-bashawri,2,eyewear
+603962,varilux compact plastic wht add 2.75 (00.00-03.00) (00.00-04.00)-bashawri,2,eyewear
+603964,varilux compact plastic wht hi 1.6 add 2.25 (00.00-03.00) (00.00-06.00)-bashawri,1,eyewear
+603965,varilux compact plastic wht hi 1.6 add 2.50 (00.00-03.00) (00.00-06.00)-bashawri,1,eyewear
+603966,varilux compact plastic wht hi 1.67 add 2.75 (00.00-03.00) (00.00-08.00)-bashawri,1,eyewear
+603967,varilux compact plastic wht hi 1.74 add 2.50 (00.00-03.00) (00.00-10.00)-bashawri,1,eyewear
+603968,varilux compact plastic wht trivex add 1.50 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603969,varilux ellipse 1.67,1,eyewear
+603970,varilux essilor- comfort 1.5,1,eyewear
+603971,varilux essilor- espace 1.5,1,eyewear
+603972,varilux essilor- espace 1.5 transtions,1,eyewear
+603973,varilux essilor- librity 1.6,1,eyewear
+603974,varilux essilor- physio m 1.5,1,eyewear
+603975,varilux liberty 1.5 crizal prevencia,1,eyewear
+603976,varilux physio 1.5,1,eyewear
+603977,varilux physio1.5 crizal/uv40-f,1,eyewear
+603978,varilux plastic wht (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603979,varilux poly carbonate,1,eyewear
+603980,varilux poly carbonate trans,1,eyewear
+603981,varilux s series1.5 crizal forte,1,eyewear
+603982,varilvarilux compact plastic wht add 2.50 (00.00-03.00) (00.00-04.00)-bashawriux compact plastic wht add 2.50 (00.00-03.00) (00.00-04.00)-bashawri,1,eyewear
+603983,varilvarix - تطعيم الجدرى المائى,1,other
+603987,varity,1,other
+603988,varity - va0280,1,other
+603989,varity - va0304,1,other
+603990,varity - va0330,1,other
+603991,varity - va2199,1,other
+603992,varity - va2501,1,other
+603993,varity - va3016,1,other
+603994,varity - va6608,1,other
+603995,varivax,2,other
+603999,varivax 135,2,other
+604000,varivax 1350 pf,1,other
+604010,varivax 1350 pfu,1,other
+604013,varivax 1350pfuvial,1,other
+604014,varivax vac,1,other
+604145,varsace1214 1000,1,other
+604146,varus osteotomy of hip including implant,1,supplies
+604147,varwhite pl,2,eyewear
+604148,varwhite pl 1.60,2,eyewear
+604149,vas diabetes package,1,other
+604150,vas hypertension package,1,other
+604151,"vasc pr-mjr reconstr-pmp, intc",1,other
+604152,"vasc pr-mjr reconstr-pmp, majc",1,inpatient
+604153,"vasc pr-mjr reconstr-pmp, minc",1,inpatient
+604154,vasc.lab.stud.- varicose vein doppler study,1,imaging
+604155,vasc.lab.stud.-peripheral art.doppler study,1,imaging
+604156,vasc.lab.stud.-venous doppler study,1,imaging
+604157,vascath jugular - femoral or subclavian,1,other
+604158,vascath jugular femoral or subclavian,1,other
+604193,vascodipine,4,other
+604215,vascodipine 10,2,other
+604266,vascodipine 2.5,1,other
+604296,vascodipine 5,2,other
+604317,vascodipine 5: mg unit:30 blister,1,supplies
+604354,vascodipine 5mf 30tab,1,other
+604362,vascodipine n,1,other
+604373,vascodipine10mg 30tab,1,other
+604374,vascodipine10mg30tab,1,other
+604375,vascodipine10mg,1,other
+604376,vascodipine10mgtabletblister30,1,other
+604378,vascodipine5 mg,1,other
+604379,vascodipine5mg30tab,2,other
+604380,vascodipine5mg,1,other
+604381,vascodipine5mgtabletblister30,1,other
+604383,vascu-guard- 2cm x 9cm # dg-0209sn,1,other
+604384,vascular stenting - two stents,2,other
+604385,"vascular , , graft sw str 6x40",1,procedure
+604386,"vascular , graft , ptfe sz 8mm dia x 70cm lenght- gortex,b. braun , v1103029",1,supplies
+604387,vascular angioplasty,2,procedure
+604388,"vascular bypass , peripheral artery",1,other
+604389,vascular closure device,2,procedure
+604391,vascular closure device angio-seal vip (various sizes,1,procedure
+604392,vascular closure device angio-seal vip (various sizes) - per each,1,procedure
+604393,vascular closure device exoseal (various sizes,1,procedure
+604394,vascular closure device exoseal (various sizes) - per each,1,procedure
+604395,vascular closure device-pkg,1,procedure
+604396,vascular doppler studies,1,imaging
+604397,vascular doppler study,1,imaging
+604398,vascular embolectomy cather 3fx,1,procedure
+604399,vascular embolectomy cather 5fx,1,procedure
+604400,vascular graft 45cmx4-7mm,1,procedure
+604401,vascular graft acuseal gore ech060040,1,procedure
+604402,"vascular introducer sheath size 6f, length 23 cm,balton , intf6f23",1,supplies
+604403,vascular laser - large area,1,procedure
+604404,vascular laser - medium area,1,procedure
+604405,vascular laser treatment test dose,1,lab_test
+604406,vascular loops 1x406mm blue sterile disposable (2s,1,supplies
+604407,"vascular patch xenosure bovine#0.8bv8, single pack 0.8x8cm, lemitre/us",1,supplies
+604408,vascular repair,1,procedure
+604409,vascular ring operation; with / without reanastomosis,1,procedure
+604410,vascular stent,1,supplies
+604411,vascular stent bupa,1,supplies
+604412,vascular stent placement-unilateral,1,supplies
+604414,vascular surgeon consultant fe,1,consultation
+604415,vascular surgeon fee,1,consultation
+604416,vascular surgery cons fee,1,procedure
+604417,vascular surgery doctor fee,1,procedure
+604418,vascular surgery follow-up,1,procedure
+604419,vascular surgery material cost (additional,1,procedure
+604420,vascular surgery new follow-up,1,procedure
+604421,vascular surgery new patient,1,procedure
+604422,vascular surgery-abdominal vessels,1,procedure
+604423,vascular surgery-consultant,1,procedure
+604424,vascular u/s,1,imaging
+604425,vasculrized bone grafting iliac crest,1,imaging
+604433,vasectomy bilateral,1,procedure
+604434,vasectomy-1day pkg,1,procedure
+604444,vaseline gauze 20*10 cm,1,supplies
+604452,vaseline p-jelly pure450ml,1,other
+604453,vaseline pet jelly ccoa480 gm,1,imaging
+604457,vaseline topical jelly - tube,1,supplies
+604461,vaser fat transfer small (g.a)- 1day pkg,1,procedure
+604463,vasline gauze ( egypt,1,supplies
+604464,vasline gauze x3m box/50pc,1,supplies
+604466,vasoactive intestinal peptide (vip,1,lab_test
+604470,vasopneumatic device therapy,1,physiotherapy
+604471,vasopresin,1,other
+604473,vasopressin,1,other
+604474,vasopressin (adh,2,other
+604476,vasopressin (antidiuretic hormone adh,1,lab_test
+604477,"vasopressin (antidiuretic hormone, adh",1,lab_test
+604489,vasopressin 20 u/ml vail,1,other
+604508,vasopressin adh,1,other
+604509,vasopressin adh frozen plasmaedta,1,other
+604515,vasopressin ampoules,1,other
+604524,vasopressin s -(send-out tests,1,lab_test
+604528,vass pass guiding catheter with diffb sizes,1,supplies
+604557,vastarel mr 60tab,3,other
+604647,vastarel mr(60tab,1,other
+604650,vastarel mr35mg,2,other
+604658,vastarelmr35mgtab(b/60,1,other
+604668,vats (thorascopic) using wedge resection pleurectomy,1,procedure
+604669,vats lung wedge resection pleurectomy,1,procedure
+604670,vats therapeutic,2,other
+604671,"vats, decortication (for empyema",1,other
+604672,"vats,bullectomy for peumothorax",1,procedure
+604673,"vats,bullectomy for peumothorax - unilateral",1,procedure
+604674,"vats,clotted hemothorax",1,other
+604675,"vats,decortication (for empyema",1,other
+604676,"vats,mediastinal/hilar/lung biopsy",1,procedure
+604677,"vats,thymectomy",1,procedure
+604678,vats bullectomy+pleurodesis,1,procedure
+604679,vauva = baby wipes (80 pcs) with lid 45 gsm 100% cotton 3 bags (2+1) / lot (6942612537847,1,supplies
+604680,vauva = teat for special feeding need ( cleft lip tea6942612537403,1,supplies
+604681,vava,1,other
+604682,vavedaaa038c74/1842,1,other
+604683,vavedaaa045c01/1647,1,other
+604721,vavo shampo,1,other
+604742,vavo%202%25%20shampoo,1,other
+604748,vaxel heparin 500 i u,1,lab_test
+604750,vaxigrip,1,other
+604752,vaxigrip (influnza) single dose - per pcs,1,other
+604755,vaxigrip influenza vaccines prefilled syringe,1,supplies
+604756,vaxigrip pefiled syringe (viral influ vaccines,1,supplies
+604758,vaxigrip sp1 0.5 vacc,1,other
+604771,vaxigriptetra,3,other
+604772,vaxneuvance pre-filled syringe,1,supplies
+604773,vb-mapp verbal behavior milestones assessment -1h,1,consultation
+604774,vbac (vaginal birth after one cs,2,supplies
+604776,vbadgley mischkabm aurianeblack/1654,1,other
+604777,vbadgley mischkabm elliaamethyst/1653,1,other
+604778,vbadgley mischkabm elliablush/1653,1,other
+604779,vbadgley mischkabm fayetteblack/1753,1,other
+604780,vbadgley mischkabm filiciamulberry/1753,1,other
+604781,vbadgley mischkabm filiciasunset/1753,1,other
+604782,vbadgley mischkabm georginablack/1753,1,other
+604783,vbadgley mischkabm leonecabernet/1753,1,other
+604784,vbadgley mischkabm madolynblack/1552,1,other
+604785,vbadgley mischkabm nadalineblack/1753,1,other
+604786,vbadgley mischkabm nadalineblush/1753,1,other
+604787,vbadgley mischkabm ninonblack/1653,1,other
+604788,vbadgley mischkabm pierretterose/gold/1752,1,nutrition
+604789,vbadgley mischkabm rosellerose/gold/1754,1,nutrition
+604790,vbadgley mischkabm roxieblack/1752,1,other
+604791,vbalenciagabb0117o00357,1,other
+604792,vbalenciagabb0172o00354,1,other
+604793,vbalenciagabb0210o00153,1,other
+604794,vbalenciagabb0241o00253,1,other

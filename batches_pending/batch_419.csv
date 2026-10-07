@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+622720,whole body study using iodine (5 mci i-131,1,consultation
+622721,whole body study with pet,2,imaging
+622722,whole body study with positron emission tomography ( pet,1,imaging
+622723,whole exome sequencing,2,other
+622724,"whole exome sequencing (single,bp",1,eyewear
+622725,whole exome sequencing (wes single,2,other
+622726,whole exome sequencing (wes) with mitochondria genome,1,other
+622727,whole exome sequencing + cnv,1,other
+622728,whole exome sequencing analysis,3,procedure
+622729,whole exome sequencing for diagnostic (healthy patinets) recessive and x-linked mutation,1,lab_test
+622730,whole exome sequencing wes (single,1,other
+622731,whole fresh blood,1,lab_test
+622732,whole genome sequencing analysis,2,procedure
+622733,whole genome sequencing trio-plus (centogene,1,other
+622736,whole orange kids z+c 15 loz,1,other
+622737,whole porcelain crown (as one unit of bridge,1,dental
+622738,whole porcelain crown as one unit of bridge,1,dental
+622739,"whole purple echinacea,vitc # 15",1,other
+622740,whole spine - ap,1,imaging
+622741,whole spine - dynamic,1,other
+622742,whole spine - routine,1,other
+622743,whole spine ap & lateral,1,imaging
+622744,whole spine ap/lat + bending views,1,imaging
+622745,whole spine ap/lat rt+lt bending,1,imaging
+622746,whole spine ap/lat standing views,1,imaging
+622747,whole spine long film - 3 regions,1,other
+622748,"whoopng cgh and acte brnchio, majc",1,inpatient
+622749,"whoopng cgh and acte brnchio, minc",1,inpatient
+622750,"whoopng cgh&acte brnchio, majc",1,inpatient
+622751,"whoopng cgh&acte brnchio, minc",1,inpatient
+622752,wht gls normal -/+ 0.25 0.50-bupa,1,insurance
+622753,wht gls normal -/+ 0.25 0.75-bupa,1,insurance
+622754,wht gls normal -/+ 0.25 1.00-bupa,1,insurance
+622755,wht gls normal -/+ 0.25 2.50-bupa,1,insurance
+622756,wht gls normal -/+ 0.25 sph-bupa,1,eyewear
+622757,wht gls normal -/+ 0.50 0.50-bupa,1,insurance
+622758,wht gls normal -/+ 0.50 1.25-bupa,1,insurance
+622759,wht gls normal -/+ 0.50 sph-bupa,1,eyewear
+622760,wht gls normal -/+ 0.75 0.50-bupa,1,insurance
+622761,wht gls normal -/+ 0.75 1.25-bupa,1,insurance
+622762,wht gls normal -/+ 0.75 sph,1,eyewear
+622763,wht gls normal -/+ 0.75 sph-bupa,1,eyewear
+622764,wht gls normal -/+ 000 0.25 cyl-bupa,1,eyewear
+622765,wht gls normal -/+ 000 0.50 cyl-bupa,1,eyewear
+622766,wht gls normal -/+ 000 0.75 cyl-bupa,1,eyewear
+622767,wht gls normal -/+ 000 1.50 cyl-bupa,1,eyewear
+622768,wht gls normal -/+ 1.00 sph-bupa,1,eyewear
+622769,wht gls normal -/+ 1.25 0.25,1,other
+622770,wht gls normal -/+ 1.25 0.25-bupa,1,insurance
+622771,wht gls normal -/+ 1.50 0.25,1,other
+622772,wht gls normal -/+ 1.50 sph-bupa,1,eyewear
+622773,wht gls normal -/+ 1.75 2.00-bupa,1,insurance
+622774,wht gls normal -/+ 2.00 0.50-bupa,1,insurance
+622775,wht gls normal -/+ 2.00 3.00,1,other
+622776,wht gls normal -/+ 2.00 3.50-bupa,1,insurance
+622777,wht gls normal -/+ 2.00 4.00,1,other
+622778,wht gls normal -/+ 2.25 0.25-bupa,1,insurance
+622779,wht gls normal -/+ 2.25 3.00,1,other
+622780,wht gls normal -/+ 2.50 0.50,1,other
+622781,wht gls normal -/+ 2.50 0.50-bupa,1,insurance
+622782,wht gls normal -/+ 2.50 3.25,1,other
+622783,wht gls normal -/+ 2.50 4.00,1,other
+622784,wht gls normal -/+ 2.50 sph,1,eyewear
+622785,wht gls normal -/+ 2.50 sph-bupa,1,eyewear
+622786,wht gls normal -/+ 2.75 0.25-bupa,1,insurance
+622787,wht gls normal -/+ 2.75 0.50,1,other
+622788,wht gls normal -/+ 2.75 0.75-bupa,1,insurance
+622789,wht gls normal -/+ 2.75 2.50-bupa,1,insurance
+622790,wht gls normal -/+ 2.75 2.75-bupa,1,insurance
+622791,wht gls normal -/+ 3.00 1.00-bupa,1,insurance
+622792,wht gls normal -/+ 3.00 2.50,1,other
+622793,wht gls normal -/+ 3.25 0.50-bupa,1,insurance
+622794,wht gls normal -/+ 3.25 1.00-bupa,1,insurance
+622795,wht gls normal -/+ 3.50 1.00-bupa,1,insurance
+622796,wht gls normal -/+ 4.50 1.75-bupa,1,insurance
+622797,wht gls normal -/+ 4.75 0.50-bupa,1,insurance
+622798,wht gls normal -/+ 5.00 0.50-bupa,1,insurance
+622799,wht gls normal -/+ 5.50 1.00-bupa,1,insurance
+622800,wht gls normal -/+ 6.00 0.75-bupa,1,insurance
+622801,wht gls normal -/+ 6.00 1.25-bupa,1,insurance
+622802,wht gls normal-/+ 0.50 2.25-bupa,1,insurance
+622803,wiadl test,1,lab_test
+622804,wick dressing,1,supplies
+622805,wida test for salmonella typh,1,lab_test
+622807,widal lab test,2,lab_test
+622813,widal test-788,1,lab_test
+622814,widal w- titer - tube method,3,lab_test
+622815,widal w-o titer - slide method,2,lab_test
+622816,widal w/ titer,1,lab_test
+622818,widal w/o titer ( slide me,1,lab_test
+622820,widal & brucella abs agglutination,1,lab_test
+622821,widal (typhoid fever,2,lab_test
+622822,widal - lab test,1,lab_test
+622823,widal abs agglutination,1,lab_test
+622824,widal aggl,3,lab_test
+622826,widal febrile agglutinin test,2,lab_test
+622828,widal febrille agglutinin test,1,lab_test
+622829,widal febrille agglutinin test (serum,1,lab_test
+622831,widal reaction,3,lab_test
+622834,widal rx,2,eyewear
+622835,widal t,1,lab_test
+622837,widal test # 034-20632,1,lab_test
+622838,widal test ( agglutination titer,1,lab_test
+622839,widal test (febrile agtn,1,lab_test
+622840,widal test (febrile antigens,1,lab_test
+622841,widal test (febrile antigens ) - ?????? ??????? ( ???????,1,lab_test
+622842,widal test (for typhoid f,1,lab_test
+622843,widal test (salmonella,1,lab_test
+622844,widal test - 034-20632,1,lab_test
+622845,widal test - 242,1,lab_test
+622846,widal test - brucella,1,lab_test
+622847,widal test - serum,1,lab_test
+622848,widal test - serum-5-6-120201,1,lab_test
+622849,widal test -serum,1,lab_test
+622851,widal test / febrile antigens,1,lab_test
+622852,widal test / febrile antigens (l17,1,lab_test
+622853,widal test ?????,1,lab_test
+622854,widal test ??????,1,lab_test
+622855,widal test ab,1,lab_test
+622857,widal test for salmonella typh,1,lab_test
+622861,widal test lab,1,lab_test
+622862,widal test تيفويد,1,lab_test
+622863,widal test(febrile antigen,1,lab_test
+622864,widal test(l076,2,lab_test
+622875,"widal test, latex slide",2,lab_test
+622876,widal test-1430,1,lab_test
+622877,widal test-5495,1,lab_test
+622880,widal test/ tube/ slide,1,lab_test
+622881,widal titlar,1,lab_test
+622882,widal titre / confirmatory (tube method,1,supplies
+622883,widal titre / screen (slide method,1,lab_test
+622884,widal titre confirmatory,1,lab_test
+622885,widal titre screening,1,lab_test
+622887,widal test-1189,1,lab_test
+622890,widal w/ titer ( slide method,1,lab_test
+622893,widal w/ titer (tube method,1,lab_test
+622894,widal w/ titer tube method,1,lab_test
+622895,widal w/o titer,1,lab_test
+622901,widal w/o titer slide method,1,lab_test
+622902,widal w/titer (tube method,1,lab_test
+622903,widal with titer,1,lab_test
+622905,"widal, salmonella anti b agglutin test (typhoid",1,lab_test
+622907,widal-32030,1,lab_test
+622909,widal.test,2,lab_test
+622910,widaltest,2,other
+622911,widdl for brucella,1,lab_test
+622912,widdl for salmonella,1,other
+622913,wide debridement of deep necrotizing fasciitis,1,procedure
+622914,wide local excision,2,procedure
+622915,wide local excision for cancer(oncoplastic technique) - 3 days pkg,1,procedure
+622916,wide local excision of abdominal wall (desmoid) +mesh repair,1,supplies
+622917,wide local resection of malignant mucosal tumor,1,procedure
+622918,"wide resec.of bone sarcoma prox.fib.bone,nerve trans.& reconst.-3days pkg",1,imaging
+622919,wide resection of soft tissue mass-2 days pkg,1,procedure
+622920,wide resection of tumor for femur and reconstruction- 2 weeks pkg,1,procedure
+622921,widel,1,other
+622922,widel test,2,lab_test
+622923,widex cros-fa bte (wabg ) volume control,1,other
+622924,"widex enjoy e-f2 50 (atbg ) 50, telecoil, rc coil",1,other
+622925,widol's test,1,lab_test
+622926,wigdan aliothman,1,other
+622928,wil suture loop 2.25 wstraight needle 75mm-rejoin china,1,supplies
+622929,"wil suture loop 2.25* with straight needle , 801229500 rejoin",1,supplies
+622930,wil suture loop 2.25\u0022 with straight needle 75mm-re,1,supplies
+622933,"will suture tape wb 2mm-rejoin (catalog no. 801242700), , 801242700",1,supplies
+622934,will suture tape wb rejoin,1,supplies
+622935,willi am,1,other
+622936,williamrast frm wr1017,1,eyewear
+622937,wilm s tumor excision - 5 days pkg,1,procedure
+622938,wilma nc ptc balloon,1,supplies
+622939,wilma sc ptca balloon,1,supplies
+622940,wilsutue ultra non-absorable sugical suture -rejoin 801210100,1,supplies
+622941,wilsuture ultra non absorble suture,1,supplies
+622942,wilsuture ultra non-absorbable surgical suture 2mm rejoin,1,supplies
+622943,"wilsuture ultra non-absorbable 2mm , 801202400 rejoin",1,other
+622944,wilsuture ultra non-absorbable surgical suture -rejoin,1,supplies
+622945,wilsutureloop2.25''w/straightneedl,1,other
+622946,win - all types,1,other
+622948,windowing of cast,2,supplies
+623230,winex200 8capsules,1,other
+623231,winex200tab,1,other
+623232,wing 101 col 01,1,eyewear
+623233,wing 122 col 01,1,eyewear
+623234,wing 2126 col 02,1,eyewear
+623235,wing 2129 col 01,1,eyewear
+623236,wing 2129 col 03,1,eyewear
+623237,wing 2129 col 13,1,eyewear
+623246,winx wv033 c.320 43,1,other
+623247,winx club fram,1,eyewear
+623249,winx frm wxv003/120/16/46,1,eyewear
+623250,winx wv020 44 c.320,1,other
+623251,wip anios excel,1,other
+623252,wipe barrier film non-alcohol no sting ster. disp. each,1,other
+623253,wipe disinfectant germicidal for hard surfaces 200mm x 200mm 200 wipes/canister disposable,1,supplies
+623254,"wipe instrument 3 x 3 medium , tecfen # qpv90910",1,other
+623255,"wipe instrument#400200,xomed / 700-05, eagle lab",1,other
+623256,"wipe instrument#400200,xomed / 700-05,eagle lab",1,other
+623257,"wipes , disinfection , with 70% alcohol content- 020318010117400,flintshre ch6 5ex , xp00159",1,supplies
+623258,wipes f/nail polish remover,1,supplies
+623259,wipes nunu 72 s,1,supplies
+623260,wipes qac,1,supplies
+623261,wipes sani-cloth chg 2% f/ medical devices disinfectant dispo. pdi#x900220 vjt10,1,supplies
+623262,wipes sani-cloth chg 2% f/ medical devices disinfectant dispo. pdi#x900220 vjt103,1,supplies
+623263,wipes wet f/baby alcohol free pkt/50 saudia,1,supplies
+623264,wipes wet f/baby alcohol& paraben free pkt/120 saudia rose #975,1,supplies
+623265,"wipes, minuten, disinfection,120 wipes, apmd, 8062",1,supplies
+623266,wipy women feminine wipes,1,supplies
+623267,"wire , fixed core 6 , fr. 24cm biosoft duo complete set.,coloplast , bcaa63",1,dental
+623268,"wire , fixed core 6 , fr. 26cm biosoft duo complete set.,coloplast , bcaa64",1,dental
+623269,"wire , k-wire 1.0 l 70mm sterile , 95-243.06,integra , 95-243.06",1,supplies
+623270,"wire , kirschner , dia 1.2x150mm with trocar tip,mahe medical , 004-0310-012",1,supplies
+623271,"wire , kirschner , dia 1.2x150mm with trocar tip,synthes , 292.120.10",1,supplies
+623272,"wire , kirschner , sz 0.8x150mm w/ double tip s/steel",1,supplies
+623273,"wire , kirschner , sz. 1.4x150mm,mahe medical , 004-0310-014",1,supplies
+623274,"wire , kirschner , sz. 1.6x150mm with double tip s/steel,synthes , 292.560.10",1,supplies
+623275,"wire , kirschner , sz. 1.6x400mm with trocar tip,synthes , 292.180.10",1,supplies
+623276,"wire , kirschner , sz. 1.8x400mm with trocar tip,synthes , 292.190.10",1,supplies
+623277,"wire , kirshner , sz. 1.8x280mm,7s medical , nyb1.b035.180",1,supplies
+623278,wire boring kirscner flat 15cmx1.8mm aesculap #lx138s,1,supplies
+623279,wire cerclage 1.5x280mm-auxien-200sr# 457-17-280,1,supplies
+623280,wire cerclage soft 1.2mm 6900-0-6012,1,supplies
+623281,wire coil 0.8mm # 291.090,1,supplies
+623282,"wire combi bolt , s&n , , dummy manf",1,supplies
+623283,wire command es,1,supplies
+623284,wire command es o/s,1,supplies
+623285,"wire connect 0.018""300cm o/s",1,supplies
+623286,wire fiber #2 braided polyblend arthrex #ar-7201-pc,1,supplies
+623287,"wire fiber , #2 braided polyblend suture , 1 blue & 1 black/white arthrex (ar-7201",1,supplies
+623288,wire guid ptfe coated 3cm flexible tip 0.035 x 150cm coloplast # 35150,1,supplies
+623289,wire guide .035 x 150cm ang j tip terumo #ga35153m/19435/007042,1,supplies
+623290,wire guide 0.018x80cm ptfe straight tip seldinger accoat,1,supplies
+623291,wire guide 0.032x260xm long straight tip kimal #sfc260032/38101,1,supplies
+623292,wire guide 0.35/260cm j tip,1,supplies
+623293,wire guide 0.35x145~150cm j tip medtronic #007042/sch38025/502521,1,supplies
+623294,"wire guide 0.35x145~150cm ""j"" tip medtronic #007042/sch38025/502521",1,supplies
+623295,"wire guide 1.2mmx123103-7211138,s&n",1,supplies
+623296,wire guide angled 0.035mmx260cm,1,supplies
+623297,"wire guide bmw 0.014"" 190cm guident #1009660j",1,supplies
+623298,wire guide hydrophilic coated 0.035 (inch dia.) 180(length cm) angled cordis #c3518rsa,1,supplies
+623299,wire guide m angled stiff 0.035x180cm terumo#pa35183m,1,supplies
+623300,wire guide nitinol 0.012x50cm straight babywire ev3 #bw1201,1,supplies
+623301,wire guide ptca fielder fc,1,supplies
+623302,wire guide ptfe coated j tip 0.035x150cm,1,supplies
+623303,wire guide runthrough ptca 0.014 hyper coal - terumo,1,supplies
+623304,wire guide sensor 0.035x straight boston #670-305,1,supplies
+623305,wire guide sensor orchestra 0.035x150cm coloplast #aecd35,2,supplies
+623307,wire guide stiff amplatz 0.035x 260cm / cook # f-35-260-3,1,supplies
+623308,wire guide straight choice extra support 182cm,1,supplies
+623309,wire guide traxcess size 0.014 / 200 cm micro vention # gw1420040,1,supplies
+623310,"wire guide whisper, 0.14x190cm, 1005357h",1,supplies
+623311,"wire guide zebra straight 0.035""x150cm boston #m006670112",1,supplies
+623312,"wire guide zip hydrophilic 0.035 x 260 cm standard , boston # 46-1548",1,supplies
+623313,"wire guide# rspc-035145-df-1-aq,cook",1,supplies
+623314,"wire guide, 35x260cm j tip, 8631",1,supplies
+623315,"wire guide, marked spring, w/ arrow advancer,81mm 60cm, arrow,box/25,aw04432",1,supplies
+623316,wire hydrophilic avigo,1,supplies
+623317,wire ilizarov # ss4020350,1,supplies
+623318,"wire ilizarov with stopper 1.8x400mm,smith & nephew",1,supplies
+623319,"wire jag 0.025"" straight wg 480cm #met-25-480 cook",1,supplies
+623320,wire k 1.0mm x all length jms #11-00,1,supplies
+623321,wire k 1.4mm x all length jms # 14-00 / irene # 1450,1,supplies
+623322,wire k 1.6 mm x all length jms #16-00,1,supplies
+623323,wire k. 2.5 x 300mm tipmed #080442,1,supplies
+623324,wire k. 3 x 290mm tipmed #080763,1,supplies
+623325,wire k.2.0x150mm trocar hipokrat#400030702015/gpc#ps912.020,1,supplies
+623326,wire kir.1.6x150mm flat end tr.aesculap#lx116/gpc#ps912.016,1,supplies
+623327,wire kirch 1.8x300 080628,1,supplies
+623328,wire kirch flat 2.5mm dia. #7-112,1,supplies
+623329,wire kirschner # 292-10,1,supplies
+623330,wire kirschner #292-18,1,supplies
+623331,wire kirschner #292.08,1,supplies
+623332,wire kirschner - 292.160/95-234.18,1,supplies
+623333,wire kirschner 0.8x120/150mm irine #e06018,1,supplies
+623334,wire kirschner 0.8x200/230/250mm irine #e06019,1,supplies
+623335,wire kirschner 1.25mm w/trocar synthes #292.120.01,1,supplies
+623336,wire kirschner 1.2x120/150mm irine #e06022,1,supplies
+623337,wire kirschner 1.2x200/230/250mm irine #e06023,1,supplies
+623338,wire kirschner 1.4x310mm aesculap #lx034s,1,supplies
+623339,wire kirschner 1.5x280/300mm irine #e06026,1,supplies
+623340,wire kirschner 1.5x300mm irene #z03k15300,1,supplies
+623341,wire kirschner 1.8x200/230/250/300mm irine #e06028,1,supplies
+623342,wire kirschner 2.5 x 310mm trocar watraco #270670 / gpc#ps912.025,1,supplies
+623343,"wire kirschner ? 1.8mm w/trocar tip titanium alloy, length 150mm synthes #492.17",1,supplies
+623344,wire kirschner half round 1.8x300mm,1,supplies
+623345,wire kirschner olive 1.8 x 400mm tipmed # 080954 / illizarov # m12002a,1,supplies
+623346,wire kirscner 1.2x250mm irene no.z03k12250,1,supplies
+623347,wire pacemaker,1,supplies
+623348,"wire pre-shaped soft synchro, stryker # m00326420",1,supplies
+623349,wire pressure prestige volcano #91852/10185p,1,supplies
+623350,"wire ptca balance middle weight bmw, abbott , f/cath-lab",1,supplies
+623351,wire ptca hydro s.floppy,1,supplies
+623352,wire ptca runthrough (various sizes,1,supplies
+623353,"wire sharp bayonet 1.8x400mm ha#k400-18bna,orthex",1,supplies
+623354,wire ss cerclage soft 10x0.4mm aesculap #ky004s,1,supplies
+623355,"wire stant jj biosoft duo set, fixed core wire 6fr 26cm # bnba64/busb006026b9",1,dental
+623356,wire supera core 35 o/s,1,dental
+623357,wire sv-0.18 size 180cm boston scientific #46858,1,eyewear
+623358,"wire trocar 250mm,1/pkg # a-5040.74",1,supplies
+623359,"wire v-18 control 300 cm, m001468540",1,supplies
+623360,"wire, certclage, 1.5 mm, w/ eye, l 280 mm, synthes, 291.110",1,supplies
+623361,"wire, guide, olive, 4/3 x 900mm, sanatmetal, 210904004",1,supplies
+623362,"wire, guide, radifocus, 0.035x150cm, stiff type, terumo, rf*pa35153m",1,lab_test
+623363,"wire, guide,35x150cm, j tipe terumo, rf*ga35153m",1,lab_test
+623364,"wire, separator, 90 cm, compatible with catd catheter, penumbra, 14-1155-000052",1,supplies
+623365,"wire, super stiff, amplatz, .035x260, boston scientific, 46-520",1,supplies
+623366,"wire,cerclage coil,0.8mm x 10m,295.99.080",1,supplies
+623367,"wire,kirschner,trocar point 1end,2.0x150mm,00-4901-020-15",1,supplies
+623368,wire-kwithtrocar2.0l250nk#0020-25,1,supplies
+623369,"wirefiber2braided38""polyblendarthrex#ar-7203",1,other
+623370,"wireguide jag 0.035""x450cm straight boston/marflow #5658-01/hyneg-035-s",1,other
+623371,wireless ecg monitoring per day,1,diagnostic
+623372,"wires 1.8mm x 370mm, d1881840",1,other
+623373,wiring fractured jaw - complex,1,other
+623374,wirless ph study,1,consultation
+623375,wirst- 4 views,1,imaging
+623376,wisam ramadan abdelrahim,1,other
+623377,wisdam surgical extracting,1,procedure
+623378,wisdom tooth extraction,7,dental
+623379,wisdom 203 046 49-18,1,dental
+623380,wisdom exraction,1,dental
+623381,wisdom ext,1,dental
+623382,wisdom extraction,5,dental
+623383,wisdom extraction surgical 3,3,dental
+623384,wisdom extraction surgical 4,2,dental
+623386,wisdom surgical reomval,1,dental
+623387,wisdom tooth,3,dental
+623388,wisdom tooth (non surgical,1,dental
+623389,wisdom tooth (partial impactio,1,dental
+623390,wisdom tooth (partial impaction,2,dental
+623391,wisdom tooth (surgical,1,dental
+623392,wisdom tooth exraction-non surgical,1,dental
+623393,wisdom tooth exrtraction-non surgical,1,dental
+623394,wisdom tooth extaction,1,dental
+623396,wisdom tooth extraction خلع ضرس العقل,1,dental
+623397,wisdom tooth extraction (non surgical,1,dental
+623398,wisdom tooth extraction - ?????? ?????? ??????????,1,dental
+623399,wisdom tooth extraction - خلع ضرس العقل,1,dental
+623400,wisdom tooth extraction non surgical (dp,1,dental
+623401,wisdom tooth extraction upper,1,dental
+623402,wisdom tooth extraction(dp,1,dental
+623403,wisdom tooth extractions,1,dental
+623404,wisdom tooth extration,1,dental
+623405,wisdom tooth surg.extraction,1,dental
+623406,wisdom tooth surgical extraction,3,dental
+623407,wisdom tooth(non surgical,1,dental
+623408,wisdome exstraction ( simple,1,other
+623409,wisdome extraction,2,dental
+623410,wisdom_extraction,1,other
+623411,with fixation,1,procedure
+623412,with pedical screw fixation ( one level,1,lab_test
+623413,with pedical screw fixation ( one level ) 1 day icu,1,lab_test
+623414,with pedical screw fixation ( three level ) 1 day icu,2,lab_test
+623416,with pedical screw fixation ( two level ) 1 day icu,1,lab_test
+623417,wizdom extraction,1,dental
+623418,wolverine cb mr ous 10mmx2.50mm,1,other
+623421,women above age 40 y,1,other
+623422,women above the age of 40,1,other
+623423,women between 18 - 39,1,other
+623424,women between 18-39,1,other
+623425,women between 18-39 y,1,other
+623426,wond repair(maj,1,procedure
+623427,wond repair(med,1,procedure
+623428,wond repair(smal,1,procedure
+623429,wond swab c/s,1,lab_test
+623431,wood,3,other
+623432,wood crutches 14w11-76ky9351(l-m) (usa,1,supplies
+623433,wood light,1,other
+623434,wood's light exam,1,other
+623435,"wooden , tongue , depressor- (020130040003700",1,other
+623436,"wooden , tongue , depressor- 020130040003700, , non",1,other
+623437,wooden applicator stick,1,supplies
+623438,wooden crutch,1,supplies
+623439,"wooden tongu.depressor,str 6",1,other
+623440,wooden tongue depressor (adult) sterile,1,supplies
+623441,wooden tongue depressor sterile disposable (100s,1,supplies
+623442,wooden tongue depressor sterile,1,supplies
+623443,wooden tongue depressors,1,other
+623447,world,1,other
+623448,"wound (under ga) suturing, small -pkg",1,procedure
+623449,wound - approximating strips,1,supplies
+623450,wound - approximating strips- large,1,supplies
+623451,wound -sut. 1 suture,1,supplies
+623452,wound / pus culture,2,lab_test
+623453,wound c&s,1,other
+623454,wound c/s,1,lab_test
+623455,wound care,2,other
+623456,wound care (assissment,1,other
+623457,wound care - extensive debridement,1,procedure
+623458,wound care - simple debridement,1,procedure
+623459,wound care dressing change (for other than burns) large size,1,supplies
+623460,wound care dressing change (for other than burns) medium size,1,supplies
+623461,wound care dressing change (for other than burns) small size,1,supplies
+623462,wound care dressing complex complicated,1,supplies
+623463,wound care dressing complex complicated / pedia,1,supplies
+623464,wound care dressing medium,1,supplies
+623465,wound care dressing simple,1,supplies
+623466,wound care dressing simple / pedia,1,supplies
+623467,wound care grade 1,1,other
+623468,wound care grade 2,1,other
+623469,wound care grade 3,1,other
+623470,wound care grade 4,1,other
+623471,wound care medium size,1,other
+623472,wound cleaning,2,procedure
+623473,wound close by steri-streps,1,other
+623474,wound closure secondary under ga,1,procedure
+623475,wound closure strips 12mm x 100mm x 3mm #surgi strip,1,supplies
+623476,wound closure strips 6mm x 100mm #surgi strip -20230327,1,supplies
+623477,wound closure under g.a,1,procedure
+623478,wound closure under g.a.(500761,1,procedure
+623479,wound closure using glu,1,procedure
+623480,wound closure using glue,1,procedure
+623481,wound closure using steary strips,1,supplies
+623482,wound closure/debridement,1,procedure
+623483,wound cs,1,other
+623484,wound culture,3,lab_test
+623485,wound culture sensitivity,1,lab_test
+623486,wound culture & sensitivity,2,lab_test
+623487,wound culture c&s,1,lab_test
+623489,wound debribment,1,other
+623490,wound debrid.large (ga,1,other
+623491,wound debridement,5,procedure
+623492,wound debridement & bone debridement,1,imaging
+623493,wound debridement & bone debridement - package,1,imaging
+623494,wound debridement & bone debridement->c86.22-a,1,imaging
+623495,wound debridement & dressing (medium,1,supplies
+623496,wound debridement (large,1,procedure
+623497,wound debridement (large) - l.a,1,procedure
+623498,wound debridement (med.) - l.a,1,procedure
+623499,wound debridement (medium,1,procedure
+623500,wound debridement (small,1,procedure
+623501,wound debridement (small.) - l.a,1,procedure
+623502,wound debridement (under l.a,1,procedure
+623503,wound debridement + re-suturing,1,procedure
+623504,wound debridement +exc. necrotic tissue+exc.infected graft,1,procedure
+623505,wound debridement - service charge,1,procedure
+623506,wound debridement and cleaning,1,procedure
+623507,wound debridement and closure in extreme,1,procedure
+623508,wound debridement and secondary closure,1,procedure
+623509,wound debridement and wound cover with skin flap,1,procedure
+623510,wound debridement large,1,procedure
+623511,wound debridement large bupa,1,procedure
+623512,wound debridement medium,1,procedure
+623513,"wound debridement system, pulsavac plus, hip kit, (zimmer) #00-5150-482-01",1,procedure
+623514,wound debridement under g.a,2,procedure
+623516,wound debridement w/o repair,1,procedure
+623517,wound debridement-large,2,procedure
+623518,wound debridement-medium,2,procedure
+623519,wound debridement/ closure under local anesthesia - day case,1,procedure
+623520,wound debridment,2,procedure
+623521,"wound debridment under g.a,nerve block",1,procedure
+623522,wound debridment-small (ga,1,procedure
+623523,wound debriment & dressing (small,1,supplies
+623524,wound drain #10 --- m/store,1,other
+623525,wound drainage #18,1,procedure
+623526,wound drainage 1/8 (20/bx) - mds-00531,1,procedure
+623527,wound drainage 10ch medinorm #50-11-503/50-22-5033,1,procedure
+623528,wound drainage 12ch medinorm #50-11-504/50-22-504e,1,procedure
+623529,wound drainage 14ch medinorm #50-11-505/50-22-505e,1,procedure
+623530,wound drainage 16ch medinorm #50-22-506e,1,procedure
+623531,wound drainage 18ch medinorm #sm44-1/4,1,procedure
+623532,wound drainage ch12 medinorm #50-11-504/50-22-504e,1,procedure
+623533,wound drainage ch14 medinorm #50-11-505/50-22-505e,1,procedure
+623534,wound drainage culture,1,lab_test
+623535,wound drainage fr16,1,procedure
+623536,wound drainage hi-vac ch-18 #392-1800,1,eyewear
+623537,wound drainage system size - per pcs,1,procedure
+623538,wound drainage systems size 14-per pcs,1,procedure
+623539,wound drainange set # 14ch,1,other
+623540,wound drainange set # 16ch,1,other
+623541,wound dresing,1,other
+623542,wound dresing/elastic bandage-smalll,2,supplies
+623543,wound dresseing small - ???????? ????????,1,other
+623544,wound dresseing small - غيار بسيط,1,other
+623545,wound dressing,6,supplies
+623546,wound dressing ( maduim,1,supplies
+623547,wound dressing (big,1,supplies
+623548,wound dressing (large,2,supplies
+623549,wound dressing (medium,4,supplies
+623550,wound dressing (mini,1,supplies
+623551,wound dressing (small,3,supplies
+623552,wound dressing - large,2,supplies
+623553,wound dressing - medium,5,supplies
+623554,wound dressing - small,2,supplies
+623555,wound dressing / small,1,supplies
+623556,"wound dressing 15x15cm # 187661 duoderm cgf , convatec",1,supplies
+623557,"wound dressing 15x15cm # 187957 duoderm xthin, , convatec, dummy manf., convatec",1,supplies
+623558,"wound dressing 5x20 cm # 187961 duoderm xthin, convatec, dummy manf., dummy manf., dummy manf., convatec",1,supplies
+623559,"wound dressing 9x15 cm adh.strl , # 671000, molnlycke",1,supplies
+623560,wound dressing 9x15 cm adh.strl#671000 molnlyck,1,supplies
+623561,"wound dressing 9x20cm adh.strl , # 671100, molnlycke",1,supplies
+623562,"wound dressing adhesive 15x8cm,cosmopor e, hartmann",1,supplies
+623563,"wound dressing adhesive,20x10cm, cosmopor e, hartmann",1,supplies
+623564,wound dressing big-service charge,1,supplies
+623565,wound dressing cosmopore e 25cmx10cm #900877,1,supplies
+623566,wound dressing extensi,1,supplies
+623567,wound dressing for small wound,1,supplies
+623568,wound dressing gen anesthesia,1,supplies
+623569,wound dressing large,4,supplies
+623570,wound dressing large - ???????? ????????,1,supplies
+623571,wound dressing large - غيار كبير,1,supplies

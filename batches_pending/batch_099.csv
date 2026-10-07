@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+281031,hermossa opt 253 ful mtl 52 c3 blu/gry w,1,eyewear
+281032,hermossa opt 263 hal mtl 51 c1 blk w,1,eyewear
+281033,hermossa opt 263 hal mtl 51 c4 g5ry w,1,eyewear
+281034,hermossa opt 263 hal mtl 51 c4 gry w,1,eyewear
+281035,hermossa opt 508 ful mtl 49 c1 blk/gld w,1,eyewear
+281036,hermossa opt 510 ful pls 53 c1 blk/wht u,1,eyewear
+281037,hermossa opt 510 ful pls 54 c2 blu/wht m,1,eyewear
+281038,"hernia ( inguinal, umbilical, femoral ) open repair without (unilateral) - 3 days pkg",1,procedure
+281039,"hernia ( inguinal, umbilical, femoral ) open repair without - 3 days pkg",1,procedure
+281040,hernia (abdominal wall hernia repair + excission of excess skin,1,procedure
+281041,"hernia (plastic repair, without mesh",1,eyewear
+281042,"hernia , recurrent paraumbilical repair",1,procedure
+281043,hernia - epigastric large - 1 day pkg,1,procedure
+281044,hernia - epigastric large with mesh - 1day pkg,1,supplies
+281045,hernia - epigastric medium with mesh - 1day pkg,1,supplies
+281046,hernia - epigastric small -1day pkg,1,procedure
+281047,hernia - epigastric small with mesh - 1day pkg,1,supplies
+281048,"hernia - incisional, small with mesh - 1day pkg",1,supplies
+281049,hernia - umbilical - adult big wth mesh - 1day pkg,1,supplies
+281050,hernia - umbilical - adult big-1day pkg,1,procedure
+281051,hernia - umbilical - adult big-procedure,1,procedure
+281052,hernia - umbilical - adult medium -1day pkg,1,procedure
+281053,hernia - umbilical - adult medium with mesh - 1day pkg,1,supplies
+281054,hernia - umbilical - adult small -1day pkg,1,procedure
+281055,hernia - umbilical - adult small with mesh -1day pkg,2,supplies
+281057,hernia / laparascopic,1,procedure
+281058,hernia bilateral repair without mesh,1,supplies
+281059,hernia diaphragmatic repair abdominal approach,1,procedure
+281060,"hernia femoral,inguinal,umbilical repair",1,procedure
+281061,hernia herniotomy,1,procedure
+281062,hernia incise semall on h/plasty repair,1,procedure
+281063,hernia incisional repair with mesh,1,supplies
+281064,hernia incisional repair,1,procedure
+281065,hernia incisional w- hernioplasty,1,procedure
+281066,hernia incisional w/ hernioplasty,1,procedure
+281067,hernia inguinal laparoscopic repair (unilateral,1,procedure
+281068,hernia inguinal repair with mesh not including the price of mesh,1,supplies
+281069,hernia inguinal repair without mesh,1,supplies
+281070,"hernia procedures, majc",1,procedure
+281071,"hernia procedures, minc",1,procedure
+281072,hernia recurrent repair,1,procedure
+281073,hernia recurrent repair with mesh,1,supplies
+281074,hernia recurrent repair with mesh(pkg,1,supplies
+281075,hernia repair,2,procedure
+281076,hernia repair with mesh (mesh not included,1,supplies
+281077,hernia repair ( bilateral ) (mesh not included,1,supplies
+281078,hernia repair (inguinal / umbilical / para-umbilical / femoral) - without mesh,1,supplies
+281079,"hernia repair , iinguinal irreducible obstructed",1,procedure
+281080,"hernia repair , umblical",1,procedure
+281081,hernia repair - bilateral,1,procedure
+281082,hernia repair - inguinal (simple,1,procedure
+281083,hernia repair - inguinal for children (unilateral) - 3 days pkg,1,procedure
+281084,hernia repair - inguinal for children - 3 days pkg,1,procedure
+281085,hernia repair - umbilical,2,procedure
+281086,hernia repair - umbilical-package,1,procedure
+281087,hernia repair - umblical (large,1,procedure
+281088,hernia repair / any site surgical,1,procedure
+281089,hernia repair / laparoscopic pediatric,1,procedure
+281090,hernia repair / pediatric,1,procedure
+281091,hernia repair bilateral,1,procedure
+281092,hernia repair bilateral / laparascopic,1,procedure
+281093,hernia repair in pediatrics,1,procedure
+281094,hernia repair incisional large,2,procedure
+281095,"hernia repair laparoscopic , istc 2d",1,procedure
+281096,hernia repair of umbilical hernia with mesh,1,supplies
+281097,hernia repair para umblical(lap,1,procedure
+281098,hernia repair paraumbilical large(pkg,1,procedure
+281099,hernia repair paraumbilical small(pkg,1,procedure
+281100,hernia repair paraumbilical w/mesh large,1,supplies
+281101,hernia repair paraumbilical w/mesh large(pkg,1,supplies
+281102,hernia repair with lipectomy,1,procedure
+281103,hernia repair with mesh,1,supplies
+281104,hernia repair with mesh (unilateral,1,supplies
+281105,hernia repair with mesh(pkg,1,supplies
+281106,hernia repair with mess,1,procedure
+281107,"hernia repair, epigastric , dc",1,procedure
+281108,"hernia repair, epigastric with divarication of recti",1,procedure
+281109,"hernia repair, paraumbilical adult 1d",1,procedure
+281110,hernia repair-inguinal (lap,2,procedure
+281112,hernia repaire with mesh,1,supplies
+281113,hernia strang. bowel anastmosis,1,procedure
+281114,hernia strangulated w-or. a,1,procedure
+281115,hernia strangulated w/or. a,1,procedure
+281116,hernia strangulated w/out resec .anastomosis,1,procedure
+281117,hernia strangulated w/out resec.anastomosis,1,procedure
+281118,hernia strangulated without intestinal resection anastomosis,1,procedure
+281119,hernia ultrasonography (single hernia,1,imaging
+281120,hernia umbilical - laparoscopic,1,procedure
+281121,hernia umbilical repair with mesh not including mesh price,1,supplies
+281122,hernia umbilical repair without mesh,1,supplies
+281123,hernia with mesh laparascopic,1,supplies
+281124,hernia%20repair%20with%20mesh,1,procedure
+281125,"hernia, incisional repair , large",1,procedure
+281126,"hernia, incisional repair with mesh",1,supplies
+281127,"hernia, inguinal repair, adult, unilat, open ,mesh",1,supplies
+281128,"hernia, inguinal with mesh",1,supplies
+281129,hernia-with bowel resection,1,procedure
+281130,herniaincisioncal repairlarge - with mesh 3days,1,supplies
+281131,hernioplasty,1,procedure
+281132,hernioplasty - 3 days,1,procedure
+281133,hernioplasty / sils tapp,1,procedure
+281134,"hernioplasty mesh repair ,1d",1,supplies
+281135,"hernioplasty plastic repair, with mesh two side bupa",1,eyewear
+281136,"hernioplasty plastic repair, with meshone side saic",1,eyewear
+281137,"hernioplasty( plastic repair, with mesh)-one side",1,eyewear
+281138,"hernioplasty( plastic repair, with mesh)-two side",1,eyewear
+281139,herniorraphy,1,other
+281140,herniorraphy by laparascopy,1,procedure
+281141,herniorraphy inguinal/umbilical/paraumbilical / w/o mesh,1,supplies
+281142,herniorraphy recurrent,1,other
+281143,herniorraphy with mesh,1,supplies
+281144,herniorrhaphy,1,other
+281145,herniorrhaphy ( medium umbilical hernia,1,procedure
+281146,herniorrhaphy - 3 days,1,other
+281147,herniorrhaphy inguinal unilateral,1,other
+281148,herniorrhaphy inguinal unilateral (laparoscopic,1,procedure
+281149,herniorrhaphy of big incisional hernia,1,procedure
+281150,herniorrhaphy of big umbilical hernia,1,procedure
+281151,herniorrhaphy recurrent of big hernia,1,procedure
+281152,herniorrhaphy umbilical & paraumbilical,1,other
+281153,herniorrhaphy umbilical & paraumbilical w/o mesh,1,supplies
+281154,"herniorrhaphy, unilateral",1,other
+281155,herniotomy,2,procedure
+281156,"herniotomy , inguinal child unilat open",1,procedure
+281157,herniotomy in children,2,procedure
+281159,herniotomy less than 12 years,1,procedure
+281160,hernoplasty with mesh (lichtenstein repair,1,supplies
+281162,hero star frm 3139,1,eyewear
+281275,herpes 1 igg,2,lab_test
+281276,herpes 1 igm,3,lab_test
+281279,herpes 1igg,1,lab_test
+281280,herpes 1igm,1,lab_test
+281281,herpes 2 igg,3,lab_test
+281282,herpes 2 igm,3,lab_test
+281283,herpes 2 - igg,1,lab_test
+281288,herpes 6 (igg & igm,1,lab_test
+281289,herpes 6 igg & igm,1,lab_test
+281290,herpes 6 pcr,1,lab_test
+281291,herpes antibody profile,1,lab_test
+281292,herpes i & ii igg igm,1,lab_test
+281293,herpes i - igg,1,lab_test
+281294,herpes i - igm,1,lab_test
+281295,herpes i by pcr,1,lab_test
+281296,herpes i igg,2,lab_test
+281297,herpes i igm,2,lab_test
+281299,herpes ii ( igg) abs,2,lab_test
+281301,herpes ii - igg,1,lab_test
+281302,herpes ii - igm,1,lab_test
+281303,herpes ii by pcr,1,lab_test
+281304,herpes ii igg,2,lab_test
+281305,herpes ii igm,1,lab_test
+281306,herpes ii(igg,2,lab_test
+281307,herpes igg,1,lab_test
+281308,herpes igm,2,lab_test
+281309,herpes profile,2,lab_test
+281310,herpes profile (hsv,3,lab_test
+281312,herpes profile (inc. i ii igg) @,1,lab_test
+281313,herpes profile hsv 1& 2 igm & igg,1,lab_test
+281314,herpes profile i & ii,1,lab_test
+281315,herpes profile type i & ii (igg & igm,1,lab_test
+281316,herpes s virus i g& i m abs,1,lab_test
+281317,"herpes s virus i, g& i, m abs",1,lab_test
+281318,"herpes s virus i,g & i,m abs",1,lab_test
+281319,herpes s. i & ii igg,1,lab_test
+281320,herpes serology igg,1,lab_test
+281321,herpes simp. virus 1 i.g.g,1,lab_test
+281322,herpes simp. virus 1 i.g.m,1,lab_test
+281323,herpes simp. virus ii i.g.g,1,lab_test
+281324,herpes simp. virus ii i.g.m,1,lab_test
+281325,herpes simplex antbdy,3,lab_test
+281326,herpes simplex (antigen) by elisa,1,lab_test
+281327,herpes simplex (antigen) by elissa,2,lab_test
+281329,herpes simplex (antigen)by elissa,1,lab_test
+281330,herpes simplex (hsv) 1 ab. igg,1,lab_test
+281331,herpes simplex (hsv)-1 igm,1,lab_test
+281332,herpes simplex 1 antigen imfl,2,lab_test
+281333,herpes simplex 1&11 antibodies igg,1,lab_test
+281334,herpes simplex 1&11 antibodies igm,1,lab_test
+281335,herpes simplex 1&2 direct ifa,1,lab_test
+281336,"herpes simplex 1x2 1gg antibodies, csf",1,lab_test
+281337,herpes simplex 2 antigen,2,lab_test
+281338,"herpes simplex ab i, ii,igg ,igm",1,lab_test
+281339,herpes simplex abs igg igm,1,lab_test
+281340,herpes simplex abs igg igm serum,1,lab_test
+281341,herpes simplex abs igg and igm s -(send-out tests,1,lab_test
+281342,herpes simplex abs igg & igm,1,lab_test
+281343,herpes simplex abs igg and igm,1,lab_test
+281344,herpes simplex antigen by elissa,1,lab_test
+281345,herpes simplex culture,2,lab_test
+281346,herpes simplex i & ii (pcr csf) - s.o,1,lab_test
+281347,"herpes simplex i & ii (pcr,cutaneous mucus) - s.o",1,lab_test
+281348,herpes simplex i & ii (pcrcutaneous mucus) (send out,1,lab_test
+281349,herpes simplex i (hsv) 1 igm,1,lab_test
+281350,herpes simplex i (igm,1,lab_test
+281351,herpes simplex i - igg,1,lab_test
+281352,herpes simplex i - igm,1,lab_test
+281353,herpes simplex i antibody igg,2,lab_test
+281354,herpes simplex i antibody igm,1,lab_test
+281356,herpes simplex i igm - hsv i-m,1,lab_test
+281357,herpes simplex ig-g 1 &2,1,lab_test
+281358,herpes simplex igg,3,lab_test
+281359,herpes simplex igg&igm,1,lab_test
+281360,herpes simplex ii (hsv) 2 igm,1,lab_test
+281361,herpes simplex ii (igm,1,lab_test
+281362,herpes simplex ii - i g g,1,lab_test
+281363,herpes simplex ii - igm,1,lab_test
+281364,herpes simplex ii antibodies igm,1,lab_test
+281365,herpes simplex ii antibodies igg,1,lab_test
+281368,herpes simplex igm,2,lab_test
+281370,herpes simplex type 1 (igg & igm,1,lab_test
+281371,"herpes simplex type i, ii igm d",1,lab_test
+281372,"herpes simplex type ii ab, ig d",1,lab_test
+281373,herpes simplex virus (1 x 2) antibodies,1,lab_test
+281374,herpes simplex virus (1 x 2) antigen,1,lab_test
+281375,herpes simplex virus (1 x 2) igm antibodies,1,lab_test
+281376,herpes simplex virus (hsv)-i & ii dna (pcr,1,lab_test
+281377,herpes simplex virus 1 and 2 pcr s -(send-out tests,1,lab_test
+281378,herpes simplex virus 1 & 2 pcr,2,lab_test
+281379,herpes simplex virus 1 & 2 pcr - s.o,1,lab_test
+281380,herpes simplex virus 1 2 pcr,1,lab_test
+281381,herpes simplex virus 1 x 2 antigen,1,lab_test
+281382,herpes simplex virus 1&2 (pcr,1,lab_test
+281383,herpes simplex virus 1&2 (pcr) (swab,1,lab_test
+281384,herpes simplex virus 1&2 (pcr)-csf,1,lab_test
+281385,herpes simplex virus 1&2 dna (pcr,1,lab_test
+281386,herpes simplex virus 1&2 pcr,1,lab_test
+281387,herpes simplex virus 1&2 pcr( so,1,lab_test
+281388,herpes simplex virus 1/2 dna,1,lab_test
+281389,herpes simplex virus 1/2 igm,1,lab_test
+281390,herpes simplex virus 1x2 pcr,1,lab_test
+281391,herpes simplex virus 2 - igm (hsv2 igm,2,lab_test
+281392,herpes simplex virus 2 igg,2,lab_test
+281393,herpes simplex virus 2 igm,1,lab_test
+281394,herpes simplex virus abs (type i & ii igg,1,lab_test
+281395,herpes simplex virus abs (type i & ii igm,1,lab_test
+281396,herpes simplex virus abs (type i) igg,1,lab_test
+281397,herpes simplex virus abs (type i) igm,1,lab_test
+281398,herpes simplex virus abs (type ii) igg,1,lab_test
+281399,herpes simplex virus abs (type ii) igm,1,lab_test
+281400,herpes simplex virus antibodies ii igg,1,lab_test
+281401,herpes simplex virus antibody type ii igg specific,2,lab_test
+281402,herpes simplex virus antibody type i igg specific,1,lab_test
+281404,"herpes simplex virus antibody, type i igg specific",1,lab_test
+281405,"herpes simplex virus antibody, type ii igg specific",1,lab_test
+281406,herpes simplex virus igm & igg,1,lab_test
+281407,herpes simplex virus type 1 and 2 immunoglobulin m antibody,1,lab_test
+281408,herpes simplex virus type 1+ - 2 immunoglobulin g antibody,1,lab_test
+281409,herpes simplex virus type i @,1,lab_test
+281410,herpes simplex virus type i(hsv-1) igm a,1,lab_test
+281411,herpes simplex virus type i(hsv-1)igg an,1,lab_test
+281412,herpes simplex virus type ii(hsv-ii) i,1,lab_test
+281413,herpes simplex virus type ii(hsv-ii) igg,1,lab_test
+281414,herpes simplex virus type1 @,1,lab_test
+281415,"herpes simplex, non-specific type, pcr",1,lab_test
+281416,"herpes simplex, type 1, pcr",1,lab_test
+281417,"herpes simplex, type 2, pcr",1,lab_test
+281418,herpes simplex/ hsv i&ii - igg analysis,1,lab_test
+281419,herpes simplix virus 1 2 (pcr,1,lab_test
+281420,herpes type 1 & 2 igm,3,lab_test
+281421,herpes type 1 igg,1,lab_test
+281422,herpes type 1 and 2 igm,2,lab_test
+281424,herpes type 2 igg,3,lab_test
+281425,herpes type 2 igm,1,lab_test
+281426,herpes type i antibodies igm specific,1,lab_test
+281427,herpes type ii antibodies igm specific,2,lab_test
+281429,herpes virus (hsv) 1 igg,2,lab_test
+281430,herpes virus (hsv) 1 igm,2,lab_test
+281431,herpes virus (hsv) 1&2 by pcr {bs},1,lab_test
+281432,herpes virus (hsv) 1&2 igm,1,lab_test
+281433,herpes virus (hsv) 1igg,5,lab_test
+281434,herpes virus (hsv) 1igm,2,lab_test
+281436,herpes virus (hsv) 2 igm,3,lab_test
+281438,herpes virus (hsv) i & ii (igm & igg) @,1,lab_test
+281439,herpes virus (hsv) i (igm,1,lab_test
+281440,herpes virus (hsv) i igg,1,lab_test
+281441,herpes virus (hsv) i igm,1,lab_test
+281442,herpes virus (hsv) ii (igm,1,lab_test
+281443,herpes virus 1 hsv1 igg,2,lab_test
+281444,herpes virus 1 hsv1 igm,2,lab_test
+281445,herpes virus 2 hsv2 igm,2,lab_test
+281446,herpes virus 6 dna in csf,1,lab_test
+281447,herpes virus abs (igg&igm,1,lab_test
+281448,herpes virus i ab igg,1,lab_test
+281449,herpes virus i ab igm,1,lab_test
+281450,herpes virus i igg,1,lab_test
+281451,herpes virus i igm,1,lab_test
+281452,herpes virus igg (total,2,lab_test
+281453,herpes virus igm (type 1,1,lab_test
+281454,herpes virus igm (type 2,1,lab_test
+281455,herpes virus ii ab igg,1,lab_test
+281456,herpes virus ii ab igm,1,lab_test
+281457,herpes virus ii igg,1,lab_test
+281458,herpes virus ii igm,1,lab_test
+281459,herpes virus type 1 ( igg & igm,1,lab_test
+281460,herpes virus type 2 (igg&igm,1,lab_test
+281461,herpes virus type 6 dna by pcr,2,lab_test
+281462,herpes virus type 6 igg/igm abs,1,lab_test
+281463,herpes virus type 8 igg,1,lab_test
+281464,herpes zoster igg/igm,1,lab_test
+281467,herpes abs,1,lab_test
+281470,"herps 1,2 igm",1,lab_test
+281471,herps simplex type ii -igm,1,lab_test
+281472,herpselect,1,other
+281475,herptrex,3,other
+281537,herrinal repair,1,procedure
+281538,herseptin new receptor her2,1,other
+281543,hesham el mahdy hafeez shehata,1,other
+281544,hesham ferkry osman,1,other
+281546,hess test,1,lab_test
+281547,hessah shaleh alshammari,1,other
+281548,hessburg barron vacuum trephine 7.75 mm 21-8277,1,other
+281550,heterophile antibodies; titer,1,lab_test
+281551,heumerus ap 1f,1,imaging
+281552,hev ab igm,2,lab_test
+281553,hev ab,1,lab_test
+281554,hev antibody,1,lab_test
+281556,hev igg & igm abs,1,lab_test
+281557,hev igm,1,lab_test
+281558,hev rna by pcr,2,lab_test
+281559,hev rna qualitative (pcr,1,lab_test
+281561,"hex flex cannula eith disposable obturator,8.0 x 85mm,qty 6",1,supplies
+281562,hex nut m6 (thickening) - jinlu china,1,other
+281572,hexa gene; variants,1,lab_test
+281575,hexagon troponin,3,lab_test
+281579,hexamine piperazine citrate khellin,1,other
+281580,hexamine piperazine hexahydrate khellin,1,other
+281581,"hexamine, piperazine citrate, khellin",1,other
+281582,"hexamine, piperazine hexahydrate, khellin",1,other
+281583,"hexamine,piperazine,khellin",1,other
+281586,hexaminepiperazinekhellin,1,other
+281590,hexaxim,1,other
+281595,"hexaxim 10 syringe, 10 prefilled syringe/box",1,supplies
+281597,hexaxim sanofi,1,other
+281598,"hexaxim vac -(dpt, h.influenzae type -b, ipv, hepa- b) pfs 1s(dxb",1,other
+281600,hexaxim vaccin,1,other
+281622,hexaxim vaccine. filamentous haemagglutinin|bordetella pertussis antigens|hepatitis b surface antigen,1,lab_test
+281637,"hexaxim vaccine. (diphtheria toxoid,tetanus toxoid,pertussis toxoid,haemagglutinin,inactivated polio virus *ipv* type 1,inactivated polio virus *ipv* type 2,inactivated polio virus *ipv* type 3,hepatitis b virus hbsag surface antigen,haemophilus influenzae type b",1,lab_test
+281639,"hexaxim vaccine. diphtheria toxoid,tetanus toxoid,pertussis toxoid,haemagglutinin,inactivated polio virus *ipv* type 1,inactivated polio virus *ipv* type 2,inactivated polio virus *ipv* type 3,hepatitis b virus hbsag surface antigen,haemophilus influenzae",1,lab_test
+281640,hexaxim vaccineprevenar 13 prefilled syringe vaccineoral bivalent types 1 and 3 poliomyelitis vaccin,1,supplies
+281642,hexaxim%20vaccine,1,other
+281643,hexaxim%20vaccine%20vials%20-%2010%09,1,other
+281648,hexpe liner neutral ii36 # 00875101036,1,other
+281651,"hfe (hemochromatosis) (eg, hereditary hemochromatosis) gene analysis, common variants (eg, c282y, h63d",1,lab_test
+281652,hfe gene hemochromatosis classical sanger sequencing only,1,lab_test
+281653,hfe gene test,1,lab_test
+281654,hfe gene; variants,1,lab_test
+281655,hfov daily,1,other
+281656,hfov hourly,1,other
+281657,hfv- per hour,1,other
+281661,hg0335/003/f/23,1,other
+281662,hg1014/086/54/f,1,other
+281663,hg1120/v81/f/21,1,other
+281664,hg1197/807/f/23,1,other
+281665,hg1205/900/16/f/23,1,other
+281666,hg1213/kb7/f/23,1,other
+281667,hg1246/tbo/20/f,1,other
+281668,hg1257/807/f/23,1,other
+281669,hg1261/268/19/f/23,1,other
+281670,hgb,2,other
+281671,hgb %,2,other
+281672,hgb electrophoresis,3,lab_test
+281674,hgb./3.80,1,other
+281675,hgb/3.80,1,other
+281676,hgg,1,other
+281677,hgh,1,other
+281678,hgh / human growth hormone - 333-40429,1,lab_test
+281679,hgh (human growth hormone,1,lab_test
+281680,hgh (s,1,other
+281681,hgh human growth hormone analysis,1,lab_test
+281682,hgh human growth hormone analysis (l109,1,lab_test
+281683,hgt,2,other
+281685,hhc session 1hr,1,physiotherapy
+281686,hhc - additional charges for extra distance up to 10km (trip more than 25km,1,other
+281687,hhc - additional charges for extra distance up to 20km (trip more than 25km,1,other
+281688,hhc - additional charges for extra distance up to 30km (trip more than 25km,1,other
+281689,hhc - clinical dietician visit,1,consultation
+281690,hhc - consultant visit,1,consultation
+281691,hhc - covid-19 pcr test (regular result within 24 hours)- ( at home care ) < package >,1,lab_test
+281692,hhc - diabetes educator,1,other
+281693,"hhc - equipments rental per day (machines price > 15,001sr",1,consultation
+281694,hhc - equipments rental per day (machines price from 0 till 5000sr,1,consultation
+281695,"hhc - equipments rental per day (machines price from10,001 till 15,000sr",1,consultation
+281696,hhc - extended nursing visit,1,consultation
+281697,hhc - extended physiotherapist visit,1,consultation
+281698,hhc - extended specialist visit,1,consultation
+281699,hhc - extra hand fees,1,consultation
+281700,hhc - extra procedure,1,other
+281701,hhc - gastrostomy tube change,1,supplies
+281702,hhc - general nursing skills visit,1,consultation
+281703,hhc - holter monitor (48 hours) echo technician ( at home care,1,imaging
+281704,hhc - hemodialysis consumbles,1,procedure
+281705,hhc - holter monitor (24 hours) echo technician (at home care,1,imaging
+281706,hhc - home assessment visit,1,consultation
+281707,hhc - home health care physician,1,consultation
+281708,hhc - intial visit by physiotherapist up to 90 min class a,1,consultation
+281709,hhc - large vac dressing by nurse (including nursing visit,1,supplies
+281710,hhc - minor & medium vac dressing (including nursing visit,1,supplies
+281711,hhc - nurse assignment - hours/ day,1,consultation
+281712,hhc - nasogastric tube insertion,1,supplies
+281713,hhc - nursing visit,1,consultation
+281714,hhc - other services,1,other
+281715,hhc - phlebotomist visit,1,consultation
+281716,hhc - physiotherapist visit,1,consultation
+281717,hhc - physiotherapist visit iii,1,consultation
+281718,hhc - physiotherapist for 6 visit,1,consultation
+281719,hhc - physiotherapist for 6 visit ii,1,consultation
+281720,hhc - portable doppler ultrasound 1 view,1,imaging
+281721,hhc - portable ultrasound visit,1,imaging
+281722,hhc - portable x-ray outside imc,1,imaging
+281723,hhc - respiratory therapist visit,1,consultation
+281724,hhc - specialist visit,1,consultation
+281725,hhc - speech / swallowing therapist,1,other
+281726,hhc - technician visit,1,consultation
+281727,hhc - trache change,1,other
+281728,hhc - use of vac machine / day ( at home care,1,supplies
+281729,hhc - wound dressing 2,1,supplies
+281730,hhc - wound dressing 3,1,supplies
+281731,hhc - wound dressing 4,1,supplies
+281732,hhc - wound dressing 5,1,supplies
+281733,hhc - wound dressing 6,1,supplies
+281734,hhc community follow-up,1,consultation
+281735,hhc community new follow-up,1,consultation
+281736,hhc home visit nursing,2,consultation
+281737,hhc in-hospital visits follow-up,1,consultation
+281738,hhc initial visit nursing up to90 min,1,consultation
+281739,hhc nurse urgent virtual follow-up,1,consultation
+281740,hhc nurse virtual follow-up,1,consultation
+281741,hhc nurse virtual walk-in follow-up,1,consultation
+281742,hhc outpatient referral new follow-up,1,consultation
+281743,hhc telecare nurse follow-up,1,consultation
+281744,hhc- blood extraction,1,lab_test
+281745,hhc- home base renal dialysis,1,procedure
+281746,hhc- home big dressing,1,supplies
+281748,hhc- home complex big dressing,1,supplies
+281749,hhc- home dexa scan (for bone mineral densitometry,1,imaging
+281750,hhc- home procedure debridement by consultant,1,procedure
+281751,hhc- home small dressing,1,supplies
+281752,hhc- home visit (consultant geriatric,1,consultation
+281753,hhc- home visit (consultant psychiatry,1,consultation
+281754,hhc- medication delivery service,1,procedure
+281755,hhc- nasopharyngeal swab (sample collection) - (at home care,1,lab_test
+281756,"hhc- poc - acr (albumin, creatinine racio) - ( cash only",1,lab_test
+281757,"hhc- poc - general panel (electrolytes,blood gas, creat., ) - ( cash only",1,lab_test
+281759,hhc- portable doppler ultrasound 2 views,1,imaging
+281760,hhc- portable renal dialysis,1,procedure
+281761,hhc- portable ultrasound 1 view,1,imaging
+281762,hhc- portable ultrasound 2 views,1,imaging
+281763,hhc- portable x-ray 1 view,1,imaging
+281764,hhc- portable x-ray 2 views,1,imaging
+281765,hhc-assessment gp,1,consultation
+281766,hhc-cardiac echocardiogram,1,other
+281767,hhc-home visit - consultant (transportation + consultation + nursing + providing service,1,consultation
+281768,hhc-home visit for (1 to 3 iv / sc/im) medications upto 1 hour w/out medications,1,supplies
+281769,hhc-home visit- gp (transportation + consultation + nursing + providing service,1,consultation
+281770,hhc-tracheostomy change (service + disposables + kits,1,procedure
+281771,hhv ( human herpes virus) type 6 igg and igm,1,lab_test
+281772,"hhv-6 ab (igg,igm",1,lab_test
+281773,hhv-8,1,other
+281774,hi - index lenses,1,eyewear
+281777,"hi fi suture with cureved needle, conmed, h5200",1,eyewear
+281778,hi fi tape wide flat tieable suture 2mm,1,eyewear
+281780,hi index,2,eyewear
+281781,hi index 1.56,1,eyewear
+281782,hi index 1.56 mc,1,eyewear
+281783,hi index 1.61,1,eyewear
+281784,hi index 1.67,1,eyewear
+281785,hi index 1.67 hcc,1,eyewear
+281786,hi index 1.67 hcc p7,1,eyewear
+281787,hi index 1.67 trnas gry/brn,1,eyewear
+281788,hi index 1.74,1,eyewear
+281789,hi index 1.74 crezal,1,eyewear
+281790,hi index crezal,1,eyewear
+281791,hi index medical lenses 1.56,2,eyewear
+281792,hi index uc,1,eyewear
+281793,hi med plaster,1,eyewear
+281794,hi medi plast,2,eyewear
+281795,hi medi plast with sterilized pad,1,eyewear
+281796,hi medi plaster,1,eyewear
+281797,hi mediplaster-100s(19*72mm,1,eyewear
+281798,hi mediplaster-30s(assted,1,eyewear
+281799,hi mediplaster-40s(19*72mm,1,eyewear
+281800,hi pl 1.56 ar 2.25 up to 2cyl,1,eyewear
+281801,hi pl 1.56 ar up to 2cyl,1,eyewear
+281802,hi pl 1.56 nc,1,eyewear
+281803,hi pl1.60 ar up to 2cyl,1,eyewear
+281804,hi pl1.60 nc up to 2cyl,1,eyewear
+281824,hi-ar lenses,1,eyewear
+281826,hi-cal,1,eyewear
+281836,hi-fa optical,1,eyewear
+281837,"hi-fi white/blue co-braid ultra high molecular weight polyethylene, qty 12, size 5, 1x36 in (90cm), 48.0 mm needle (catalog number=h5200),medartis , h5200",1,eyewear
+281838,"hi-fi white/blue co-braid ultra high molecular weight polyethylene, qty 12, size 5, 1x36 in (90cm), 48.0 mm needle (catalog number=h5200),mtf , h5200",1,eyewear
+281839,hi-flo kit 135cmx10cm,1,eyewear
+281840,hi-flow star adult m mp05512,1,eyewear
+281841,hi-flow star system mp05601,1,eyewear
+281842,hi-index 1.56,1,eyewear
+281843,hi-index 1.6,1,eyewear
+281844,hi-index 1.6 tlx,1,eyewear
+281845,hi-index 1.60/sp-4.00 cyl-2.00up to sp-6.00 cyl-2.00/plastic 1.6 hi index,1,eyewear
+281846,hi-index 1.60/sp-6.00 cyl-4.00/plastic 1.6 hi index,1,eyewear
+281847,hi-index 1.67,1,eyewear

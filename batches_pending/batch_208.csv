@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+408721,o;eye'm ;ir 1007/ 55/ 3yg,1,eyewear
+408722,"o;eye'm ;ir 1008, 55, 3yg",1,eyewear
+408723,"o;eye'm ;ir 1008, 55, ddb",1,eyewear
+408724,"o;eye'm ;ir 1008, 55, j5g",1,eyewear
+408725,"o;eye'm ;ly 1009, 49, 807",1,eyewear
+408726,"o;eye'm ;ly 1009, 49, l93",1,eyewear
+408727,"o;eye'm ;ly 1009, 49, qm4",1,eyewear
+408728,"o;eye'm ;ly 1010, 51, 05l",1,eyewear
+408729,"o;eye'm ;ly 1010, 51, 807",1,eyewear
+408730,"o;eye'm ;ly 1010, 51, ons",1,eyewear
+408731,"o;eye'm ;ly 1011, 47, 807",1,eyewear
+408732,"o;eye'm ;ly 1011, 47, aio",1,eyewear
+408733,"o;eye'm ;ly 1011, 47, fwm",1,eyewear
+408734,"o;eye'm ;ly 1011, 47, pjp",1,eyewear
+408735,o;eye'm ;ly 1011/ 47/ fwm,1,eyewear
+408736,"o;eye'm ;ly 1012, 50, 010",1,eyewear
+408737,"o;eye'm ;ly 1012, 50, j5g",1,eyewear
+408738,"o;eye'm ;ly 1012, 50, kj1",1,eyewear
+408739,"o;eye'm ;tr 1021, 49, 086",1,eyewear
+408740,"o;eye'm ;tr 1021, 49, 3ol",1,eyewear
+408741,"o;eye'm ;tr 1021, 49, 807",1,eyewear
+408742,"o;eye'm ;tr 1021, 49, pjp",1,eyewear
+408743,"o;eye'm ;tr 1022, 47, 2m2",1,eyewear
+408744,"o;eye'm ;tr 1022, 47, 3ma",1,eyewear
+408745,"o;eye'm ;tr 1022, 47, qeu",1,eyewear
+408746,"o;eye'm ;tr 1023, 52, 003",1,eyewear
+408747,"o;eye'm ;tr 1023, 52, 010",1,eyewear
+408748,"o;eye'm ;tr 1023, 52, j5g",1,eyewear
+408749,"o;eye'm ;tr 1023, 52, kj1",1,eyewear
+408750,o;eye'm ;tr 1023/ 52/ 003,1,eyewear
+408751,o;eye'm ;tr 1023/ 52/ 010,1,eyewear
+408752,"o;eye'm ;tr 1024, 51, lgd",1,eyewear
+408753,"o;eye'm ;tr 1024, 51, ons",1,eyewear
+408754,"o;eye'm ;tr 1024, 51, wr7",1,eyewear
+408755,o;eye'm ;tr 1024/ 51/ wr7,1,eyewear
+408756,"o;eye'm ;un 1006, 56, 003",1,eyewear
+408757,"o;eye'm ;un 1006, 56, ctl",1,eyewear
+408758,"o;eye'm ;un 1006, 56, r80",1,eyewear
+408759,o;eye'm ;un 1006/ 56/ r80,1,eyewear
+408760,"o;eye'm ;un 1007, 54, 003",1,eyewear
+408761,"o;eye'm ;un 1007, 54, ctl",1,eyewear
+408762,"o;eye'm ;un 1007, 54, kj1",1,eyewear
+408763,"o;eye'm ;un 1008, 55, 003",1,eyewear
+408764,"o;eye'm ;un 1008, 55, 2m4",1,eyewear
+408765,"o;eye'm ;un 1008, 55, 807",1,eyewear
+408766,"o;eye'm ;un 1008, 55, fll",1,eyewear
+408767,"o;eye'm ;un 1009, 51, 003",1,eyewear
+408768,"o;eye'm ;un 1009, 51, 900",1,eyewear
+408769,"o;eye'm ;un 1009, 51, n9p",1,eyewear
+408770,"o;eye'm ;un 1009, 51, oit",1,eyewear
+408771,o;eye'm ;un 1009/ 51/ 900,1,eyewear
+408772,"o;eye'm clip-on;ly 1019, 49, 807-uc",1,supplies
+408773,"o;eye'm clip-on;ly 1019, 49, pjp-m9",1,supplies
+408774,"o;eye'm clip-on;ly 1019, 49, xgw-m9",1,supplies
+408775,"o;eye'm-clip on;in 1007, 50, 003",1,supplies
+408776,"o;eye'm-clip on;in 1007, 50, 086",1,supplies
+408777,o;eye'm-clip on;in 1007/ 50/ 003,1,supplies
+408778,o;eye'm-clip on;in 1007/ 50/ 086,1,supplies
+408779,"o;eye'm-clip on;in 1008, 53, 086",1,supplies
+408780,"o;eye'm-clip on;in 1008, 53, d51",1,supplies
+408781,"o;eye'm-clip on;in 1011,51, 807",1,supplies
+408782,"o;eye'm-clip on;in 1011,51, guu",1,supplies
+408783,"o;eye'm-clip on;in 1011,51, n9p",1,supplies
+408784,o;eye'm-clip on;in 1011/51/ 807,1,supplies
+408785,o;eye'm-clip on;in 1011/51/ guu,1,supplies
+408786,"o;eye'm-clip on;in 1014, 52, 003-99",1,supplies
+408787,"o;eye'm-clip on;in 1014, 52, 807-99",1,supplies
+408788,"o;eye'm-clip on;in 1014, 52, n9p-99",1,supplies
+408789,o;eye'm-clip on;in 1014/ 52/ 807-99,1,supplies
+408790,"o;eye'm-kids;cy 1002, 44, 789",1,eyewear
+408791,"o;eye'm-kids;cy 1002, 44, ags",1,eyewear
+408792,"o;eye'm-kids;cy 1002, 44, pjp",1,eyewear
+408793,"o;eye'm-kids;cy 1002, 44, qm4",1,eyewear
+408794,"o;eye'm-kids;cy 1002, 44, s1v",1,eyewear
+408795,"o;eye'm-kids;cy 1002, 44, s6f",1,eyewear
+408796,o;eye'm-kids;cy 1002/ 44/ s1v,1,eyewear
+408797,"o;eye'm-kids;cy 1004, 47, 6ho",1,eyewear
+408798,"o;eye'm-kids;cy 1004, 47, pjp",1,eyewear
+408799,"o;eye'm-kids;cy 1004, 47, qm4",1,eyewear
+408800,"o;eye'm-kids;cy 1009, 48, 3mr",1,eyewear
+408801,"o;eye'm-kids;cy 1009, 48, 80s",1,eyewear
+408802,"o;eye'm-kids;cy 1009, 48, d51",1,eyewear
+408803,"o;eye'm-kids;cy 1009, 48, kb7",1,eyewear
+408804,"o;eye'm-kids;ly 1001, 50, 35j",1,eyewear
+408805,"o;eye'm-kids;ly 1001, 50, 807",1,eyewear
+408806,"o;eye'm-kids;ly 1001, 50, va4",1,eyewear
+408807,"o;eye'm-kids;ly 1001, 50, yjm",1,eyewear
+408808,o;eye'm-kids;ly 1001/ 50/ yjm,1,eyewear
+408809,"o;eye'm-kids;ly 1002, 53, 807",1,eyewear
+408810,"o;eye'm-kids;ly 1002, 53, 8cq",1,eyewear
+408811,"o;eye'm-kids;ly 1002, 53, l93",1,eyewear
+408812,"o;eye'm-kids;ly 1003, 50, 086",1,eyewear
+408813,"o;eye'm-kids;ly 1003, 50, 807",1,eyewear
+408814,"o;eye'm-kids;ly 1003, 50, pjp",1,eyewear
+408815,"o;eye'm-kids;ly 1004, 49, 086",1,eyewear
+408816,"o;eye'm-kids;ly 1004, 49, 807",1,eyewear
+408817,"o;eye'm-kids;ly 1004, 49, fwm",1,eyewear
+408818,o;eye'm-kids;ly 1004/ 49/ 086,1,eyewear
+408819,o;eye'm-kids;ly 1004/ 49/ fwm,1,eyewear
+408820,"o;eye'm-kids;ly 1005, 48, 807",1,eyewear
+408821,"o;eye'm-kids;ly 1005, 48, pjp",1,eyewear
+408822,"o;eye'm-kids;ly 1005, 48, vgz",1,eyewear
+408823,o;eye'm-kids;ly 1005/ 48/ 807,1,eyewear
+408824,o;eye'm-kids;ly 1005/ 48/ pjp,1,eyewear
+408825,o;eye'm-kids;ly 1005/ 48/ vgz,1,eyewear
+408826,"o;eye'm-kids;ly 1006, 49, 807",1,eyewear
+408827,"o;eye'm-kids;ly 1006, 49, mng",1,eyewear
+408828,"o;eye'm-kids;ly 1006, 49, pjp",1,eyewear
+408829,o;eye'm-kids;ly 1006/ 49/ mng,1,eyewear
+408830,"o;eye'm-kids;ly 1007, 50, 010",1,eyewear
+408831,"o;eye'm-kids;ly 1007, 50, j5g",1,eyewear
+408832,"o;eye'm-kids;ly 1007, 50, v81",1,eyewear
+408833,o;eye'm-kids;ly 1007/ 50/ j5g,1,eyewear
+408834,"o;eye'm-kids;ly 1013, 51, 003",1,eyewear
+408835,"o;eye'm-kids;ly 1013, 51, 086",1,eyewear
+408836,"o;eye'm-kids;ly 1013, 51, d51",1,eyewear
+408837,"o;eye'm-kids;ly 1013, 51, kb7",1,eyewear
+408838,o;eye'm-kids;ly 1013/ 51/ d51,1,eyewear
+408839,"o;eye'm-kids;ly 1014, 50, 086",1,eyewear
+408840,"o;eye'm-kids;ly 1014, 50, fwm",1,eyewear
+408841,"o;eye'm-kids;ly 1014, 50, ons",1,eyewear
+408842,"o;eye'm;al 1001, 53, au2",1,eyewear
+408843,"o;eye'm;al 1001, 53, ddb",1,eyewear
+408844,"o;eye'm;al 1001, 53, j5g",1,eyewear
+408845,"o;eye'm;al 1002, 57, 010",1,eyewear
+408846,"o;eye'm;al 1002, 57, j5g",1,eyewear
+408847,"o;eye'm;al 1003, 52, 0uc",1,eyewear
+408848,"o;eye'm;al 1003, 52, 807",1,eyewear
+408849,"o;eye'm;al 1003, 52, g3i",1,eyewear
+408850,"o;eye'm;al 1003, 52, kdx",1,eyewear
+408851,"o;eye'm;al 1004, 52, 086",1,eyewear
+408852,"o;eye'm;al 1004, 52, 0uc",1,eyewear
+408853,"o;eye'm;al 1004, 52, 807",1,eyewear
+408854,"o;eye'm;al 1004, 52, c9a",1,eyewear
+408855,"o;eye'm;al 1005, 54, 84j",1,eyewear
+408856,"o;eye'm;al 1005, 54, i46",1,eyewear
+408857,"o;eye'm;al 1006, 51, 2m2",1,eyewear
+408858,"o;eye'm;al 1006, 51, 84j",1,eyewear
+408859,"o;eye'm;al 1006, 51, v81",1,eyewear
+408860,"o;eye'm;al 1007, 56, bku",1,eyewear
+408861,"o;eye'm;al 1007, 56, noa",1,eyewear
+408862,"o;eye'm;al 1007, 56, rhl",1,eyewear
+408863,"o;eye'm;al 1008, 53, 086",1,eyewear
+408864,"o;eye'm;al 1008, 53, 807",1,eyewear
+408865,"o;eye'm;al 1008, 53, g3i",1,eyewear
+408866,"o;eye'm;al 1009, 55, 2m2",1,eyewear
+408867,"o;eye'm;al 1009, 55, hzj",1,eyewear
+408868,"o;eye'm;al 1009, 55, ibj",1,eyewear
+408869,"o;eye'm;al 1009, 55, py3",1,eyewear
+408870,"o;eye'm;al 1010, 53, 003",1,eyewear
+408871,"o;eye'm;al 1010, 53, 086",1,eyewear
+408872,"o;eye'm;al 1010, 53, riw",1,eyewear
+408873,"o;eye'm;al 1011, 53, 086",1,eyewear
+408874,"o;eye'm;al 1011, 53, 807",1,eyewear
+408875,"o;eye'm;al 1011, 53, kb7",1,eyewear
+408876,"o;eye'm;al 1012, 51, 003",1,eyewear
+408877,"o;eye'm;al 1012, 51, 086",1,eyewear
+408878,"o;eye'm;al 1012, 51, 807",1,eyewear
+408879,o;eye'm;al 1012/ 51/ 807,1,eyewear
+408880,"o;eye'm;al 1013, 53, 010",1,eyewear
+408881,"o;eye'm;al 1013, 53, j5g",1,eyewear
+408882,"o;eye'm;al 1013, 53, svk",1,eyewear
+408883,o;eye'm;al 1013/ 53/ j5g,1,eyewear
+408884,o;eye'm;al 1013/ 53/ svk,1,eyewear
+408885,"o;eye'm;al 1014, 54, i46",1,eyewear
+408886,"o;eye'm;al 1014, 54, p5i",1,eyewear
+408887,"o;eye'm;al 1014, 54, svk",1,eyewear
+408888,o;eye'm;al 1014/ 54/ i46,1,eyewear
+408889,o;eye'm;al 1014/ 54/ p5i,1,eyewear
+408890,"o;eye'm;al 1019, 52, 3h2",1,eyewear
+408891,"o;eye'm;al 1019, 52, c1h",1,eyewear
+408892,"o;eye'm;al 1019, 52, oy4",1,eyewear
+408893,"o;eye'm;al 1020, 53, d51",1,eyewear
+408894,"o;eye'm;al 1020, 53, mng",1,eyewear
+408895,"o;eye'm;al 1020, 53, oit",1,eyewear
+408896,"o;eye'm;al 1020, 53, r6s",1,eyewear
+408897,o;eye'm;al 1020/ 53/ mng,1,eyewear
+408898,"o;eye'm;al 1021, 53, 3h2",1,eyewear
+408899,"o;eye'm;al 1021, 53, 7zj",1,eyewear
+408900,"o;eye'm;al 1021, 53, c9k",1,eyewear
+408901,o;eye'm;al 1021/ 53/ c9k,1,eyewear
+408902,"o;eye'm;al 1022, 53, 7c5",1,eyewear
+408903,"o;eye'm;al 1022, 53, 7zj",1,eyewear
+408904,"o;eye'm;al 1022, 53, d51",1,eyewear
+408905,o;eye'm;al 1022/ 53/ 7c5,1,eyewear
+408906,o;eye'm;al 1022/ 53/ 7zj,1,eyewear
+408907,"o;eye'm;al 230630-02, 52, burgndy gradnt",1,eyewear
+408908,"o;eye'm;al 230630-02a, 52, black",1,eyewear
+408909,"o;eye'm;al 230630-02a, 52, grey gradient",1,eyewear
+408910,"o;eye'm;al 230630-02a, 52, light pink",1,eyewear
+408911,"o;eye'm;al 230630-02a, 52, purple gradnt",1,eyewear
+408912,"o;eye'm;al 230630-02b, 52, black",1,eyewear
+408913,"o;eye'm;al 230630-02b, 52, black gradnt",1,eyewear
+408914,"o;eye'm;al 230630-02b, 52, light pink",1,eyewear
+408915,"o;eye'm;al 230630-06a, 53, blue horn",1,eyewear
+408916,"o;eye'm;al 230630-06a, 53, brown horn",1,eyewear
+408917,"o;eye'm;al 230630-06a, 53, grey horn",1,eyewear
+408918,"o;eye'm;al 230630-06a, 53, matt black",1,eyewear
+408919,"o;eye'm;al 230630-06b, 51, black",1,eyewear
+408920,"o;eye'm;al 230630-06b, 51, blue tort",1,eyewear
+408921,"o;eye'm;al 230630-06b, 51, green tort",1,eyewear
+408922,"o;eye'm;bl 1001, 54, 05l",1,eyewear
+408923,"o;eye'm;bl 1001, 54, 807",1,eyewear
+408924,"o;eye'm;bl 1001, 54, au2",1,eyewear
+408925,"o;eye'm;bl 1002, 55, 010",1,eyewear
+408926,"o;eye'm;bl 1002, 55, j5g",1,eyewear
+408927,"o;eye'm;bl 1002, 55, v81",1,eyewear
+408928,"o;eye'm;bl 1003, 55, 05l",1,eyewear
+408929,"o;eye'm;bl 1003, 55, 807",1,eyewear
+408930,"o;eye'm;bl 1003, 55, tay",1,eyewear
+408931,"o;eye'm;bl 1004, 51, 05l",1,eyewear
+408932,"o;eye'm;bl 1004, 51, 7pt",1,eyewear
+408933,"o;eye'm;bl 1004, 51, 807",1,eyewear
+408934,o;eye'm;bl 1004/ 51/ 05l,1,eyewear
+408935,"o;eye'm;bl 1005, 51, 086",1,eyewear
+408936,"o;eye'm;bl 1005, 51, 807",1,eyewear
+408937,"o;eye'm;bl 1005, 51, mng",1,eyewear
+408938,"o;eye'm;bl 1005, 51, xgw",1,eyewear
+408939,o;eye'm;bl 1005/ 51/ 807,1,eyewear
+408940,"o;eye'm;bl 1006, 52, 086",1,eyewear
+408941,"o;eye'm;bl 1006, 52, 807",1,eyewear
+408942,"o;eye'm;bl 1006, 52, mng",1,eyewear
+408943,"o;eye'm;bl 1006, 52, xgw",1,eyewear
+408944,"o;eye'm;cy 1001, 43, 35j",1,eyewear
+408945,"o;eye'm;cy 1001, 43, 6xq",1,eyewear
+408946,"o;eye'm;cy 1001, 43, b8y",1,eyewear
+408947,"o;eye'm;cy 1001, 43, q1z",1,eyewear
+408948,o;eye'm;cy 1001/ 43/ 35j,1,eyewear
+408949,"o;eye'm;cy 1003, 47, 35j",1,eyewear
+408950,"o;eye'm;cy 1003, 47, 848",1,eyewear
+408951,"o;eye'm;cy 1003, 47, ddu",1,eyewear
+408952,"o;eye'm;cy 1003, 47, q5t",1,eyewear
+408953,o;eye'm;cy 1003/ 47/ 35j,1,eyewear
+408954,o;eye'm;cy 1003/ 47/ 848,1,eyewear
+408955,o;eye'm;cy 1003/ 47/ q5t,1,eyewear
+408956,"o;eye'm;cy 1006, 45, 09v",1,eyewear
+408957,"o;eye'm;cy 1006, 45, 5cb",1,eyewear
+408958,"o;eye'm;cy 1006, 45, 6xq",1,eyewear
+408959,"o;eye'm;cy 1006, 45, pjp",1,eyewear
+408960,"o;eye'm;cy 1010, 47, 35j",1,eyewear
+408961,"o;eye'm;cy 1010, 47, 789",1,eyewear
+408962,"o;eye'm;cy 1010, 47, ddu",1,eyewear
+408963,"o;eye'm;cy 1011, 47, 0ox",1,eyewear
+408964,"o;eye'm;cy 1011, 47, mvu",1,eyewear
+408965,"o;eye'm;cy 1011, 47, pjp",1,eyewear
+408966,o;eye'm;cy 1011/ 47/ 0ox,1,eyewear
+408967,"o;eye'm;cy 1012, 47, 35j",1,eyewear
+408968,"o;eye'm;cy 1012, 47, 3dv",1,eyewear
+408969,"o;eye'm;cy 1012, 47, 789",1,eyewear
+408970,"o;eye'm;cy 1013, 47, 35j",1,eyewear
+408971,"o;eye'm;cy 1013, 47, pjp",1,eyewear
+408972,"o;eye'm;cy 1013, 47, qm4",1,eyewear
+408973,"o;eye'm;cy 1014, 46, 35j",1,eyewear
+408974,"o;eye'm;cy 1014, 46, 900",1,eyewear
+408975,"o;eye'm;cy 1014, 46, pjp",1,eyewear
+408976,"o;eye'm;d-cy 1003, 47, 35j",1,eyewear
+408977,"o;eye'm;d-cy 1003, 47, 733",1,eyewear
+408978,"o;eye'm;d-cy 1003, 47, mvu",1,eyewear
+408979,"o;eye'm;d-cy 1003, 47, q1z",1,eyewear
+408980,o;eye'm;d-cy 1003/ 47/ 35j,1,eyewear
+408981,o;eye'm;d-cy 1003/ 47/ 733,1,eyewear
+408982,o;eye'm;d-cy 1003/ 47/ mvu,1,eyewear
+408983,o;eye'm;d-cy 1003/ 47/ q1z,1,eyewear
+408984,"o;eye'm;d-cy 1004, 47, 807",1,eyewear
+408985,"o;eye'm;d-cy 1004, 47, pjp",1,eyewear
+408986,o;eye'm;d-cy 1004/ 47/ 807,1,eyewear
+408987,o;eye'm;d-cy 1004/ 47/ pjp,1,eyewear
+408988,"o;eye'm;d-cy 1007, 47, 733",1,eyewear
+408989,"o;eye'm;d-cy 1007, 47, 789",1,eyewear
+408990,"o;eye'm;d-cy 1007, 47, f1g",1,eyewear
+408991,"o;eye'm;d-cy 1007, 47, q1z",1,eyewear
+408992,o;eye'm;d-cy 1007/ 47/ 733,1,eyewear
+408993,o;eye'm;d-cy 1007/ 47/ q1z,1,eyewear
+408994,"o;eye'm;d-cy 1008, 47, 900",1,eyewear
+408995,"o;eye'm;d-cy 1008, 47, pjp",1,eyewear
+408996,o;eye'm;d-cy 1008/ 47/ 900,1,eyewear
+408997,o;eye'm;d-cy 1008/ 47/ pjp,1,eyewear
+408998,"o;eye'm;d-ly 1005, 48, 807",1,eyewear
+408999,"o;eye'm;d-ly 1005, 48, 900",1,eyewear
+409000,o;eye'm;d-ly 1005/ 48/ 807,1,eyewear
+409001,o;eye'm;d-ly 1005/ 48/ 900,1,eyewear
+409002,"o;eye'm;d-ly 1006, 49, 807",1,eyewear
+409003,"o;eye'm;d-ly 1006, 49, kb7",1,eyewear
+409004,o;eye'm;d-ly 1006/ 49/ kb7,1,eyewear
+409005,"o;eye'm;fw 1001, 53, 003",1,eyewear
+409006,"o;eye'm;fw 1001, 53, 4c3",1,eyewear
+409007,"o;eye'm;fw 1001, 53, kb7",1,eyewear
+409008,"o;eye'm;fw 1001, 53, n9p",1,eyewear
+409009,o;eye'm;fw 1001/ 53/ 003,1,eyewear
+409010,"o;eye'm;fw 1002, 50, 086",1,eyewear
+409011,"o;eye'm;fw 1002, 50, 2w8",1,eyewear
+409012,"o;eye'm;fw 1002, 50, 807",1,eyewear
+409013,"o;eye'm;fw 1002, 50, pjp",1,eyewear
+409014,o;eye'm;fw 1002/ 50/ 807,1,eyewear
+409015,"o;eye'm;fw 1003, 55, 003",1,eyewear
+409016,"o;eye'm;fw 1003, 55, 010",1,eyewear
+409017,"o;eye'm;fw 1003, 55, j5g",1,eyewear
+409018,"o;eye'm;fw 1004, 52, 003",1,eyewear
+409019,"o;eye'm;fw 1004, 52, fll",1,eyewear
+409020,"o;eye'm;fw 1004, 52, r81",1,eyewear
+409021,"o;eye'm;fw 1005, 53, 003",1,eyewear
+409022,"o;eye'm;fw 1005, 53, ctl",1,eyewear
+409023,"o;eye'm;fw 1005, 53, fre",1,eyewear
+409024,"o;eye'm;fw 1006, 55, 003",1,eyewear
+409025,"o;eye'm;fw 1006, 55, 010",1,eyewear
+409026,"o;eye'm;fw 1006, 55, j5g",1,eyewear
+409027,"o;eye'm;fw 1006, 55, v81",1,eyewear
+409028,o;eye'm;fw 1006/ 55/ 010,1,eyewear
+409029,o;eye'm;fw 1006/ 55/ v81,1,eyewear
+409030,"o;eye'm;fw 1007, 52, 003",1,eyewear
+409031,"o;eye'm;fw 1007, 52, 010",1,eyewear
+409032,"o;eye'm;fw 1007, 52, v81",1,eyewear
+409033,o;eye'm;fw 1007/ 52/ v81,1,eyewear
+409034,"o;eye'm;fw 1008, 54, 003",1,eyewear
+409035,"o;eye'm;fw 1008, 54, fll",1,eyewear
+409036,"o;eye'm;fw 1009, 54, 086",1,eyewear
+409037,"o;eye'm;fw 1009, 54, 807",1,eyewear
+409038,"o;eye'm;fw 1009, 54, fll",1,eyewear
+409039,"o;eye'm;fw 1010, 51, 086",1,eyewear
+409040,"o;eye'm;fw 1010, 51, 1ed",1,eyewear
+409041,"o;eye'm;fw 1010, 51, 807",1,eyewear
+409042,o;eye'm;fw 1010/ 51/ 086,1,eyewear
+409043,o;eye'm;fw 1010/ 51/ 807,1,eyewear
+409044,"o;eye'm;fw 1011, 54, 003",1,eyewear
+409045,"o;eye'm;fw 1011, 54, 010",1,eyewear
+409046,"o;eye'm;fw 1011, 54, j5g",1,eyewear
+409047,o;eye'm;fw 1011/ 54/ 003,1,eyewear
+409048,"o;eye'm;fw 1012, 53, 010",1,eyewear
+409049,"o;eye'm;fw 1012, 53, fll",1,eyewear
+409050,"o;eye'm;fw 1012, 53, j5g",1,eyewear
+409051,"o;eye'm;fw 1012, 53, r80",1,eyewear
+409052,o;eye'm;fw 1012/ 53/ j5g,1,eyewear
+409053,"o;eye'm;fw 1013, 54, ctl",1,eyewear
+409054,"o;eye'm;fw 1013, 54, j5g",1,eyewear
+409055,"o;eye'm;fw 1013, 54, r80",1,eyewear
+409056,"o;eye'm;fw 1014, 48, 003",1,eyewear
+409057,"o;eye'm;fw 1014, 48, ctl",1,eyewear
+409058,"o;eye'm;fw 1014, 48, r80",1,eyewear
+409059,o;eye'm;fw 1014/ 48/ 003,1,eyewear
+409060,o;eye'm;fw 1014/ 48/ r80,1,eyewear
+409061,"o;eye'm;fw 1015, 51, 003",1,eyewear
+409062,"o;eye'm;fw 1015, 51, ctl",1,eyewear
+409063,"o;eye'm;fw 1015, 51, r80",1,eyewear
+409064,"o;eye'm;fw 1016, 52, ctl",1,eyewear
+409065,"o;eye'm;fw 1016, 52, j5g",1,eyewear
+409066,"o;eye'm;fw 1016, 52, r80",1,eyewear
+409067,"o;eye'm;fw 1024, 53, i46",1,eyewear
+409068,"o;eye'm;fw 1024, 53, r80",1,eyewear
+409069,"o;eye'm;fw 1024, 53, r81",1,eyewear
+409070,"o;eye'm;fw 1024, 53, ti7",1,eyewear
+409071,o;eye'm;fw 1024/ 53/ r80,1,eyewear
+409072,"o;eye'm;fw 1025, 56, 6lb",1,eyewear
+409073,"o;eye'm;fw 1025, 56, j5g",1,eyewear
+409074,"o;eye'm;fw 1025, 56, kj1",1,eyewear
+409075,o;eye'm;fw 1025/ 56/ j5g,1,eyewear
+409076,"o;eye'm;fw 1030, 57, 010",1,eyewear
+409077,"o;eye'm;fw 1030, 57, j5g",1,eyewear
+409078,"o;eye'm;fw 1030, 57, kj1",1,eyewear
+409079,"o;eye'm;fw 1031, 56, 010",1,eyewear
+409080,"o;eye'm;fw 1031, 56, j5g",1,eyewear
+409081,"o;eye'm;fw 1031, 56, kj1",1,eyewear
+409082,"o;eye'm;fw1026, 54, 010",1,eyewear
+409083,"o;eye'm;fw1026, 54, j5g",1,eyewear
+409084,"o;eye'm;fw1026, 54, kj1",1,eyewear
+409085,"o;eye'm;fw1027, 51, 807",1,eyewear
+409086,"o;eye'm;fw1027, 51, kb7",1,eyewear
+409087,"o;eye'm;fw1027, 51, pjp",1,eyewear
+409088,"o;eye'm;gr 1001, 53, 2ik",1,eyewear
+409089,"o;eye'm;gr 1001, 53, 2m2",1,eyewear
+409090,"o;eye'm;gr 1001, 53, 6k3",1,eyewear
+409091,"o;eye'm;gr 1002, 55, noa",1,eyewear
+409092,"o;eye'm;gr 1003, 53, 086",1,eyewear
+409093,"o;eye'm;gr 1003, 53, 807",1,eyewear
+409094,"o;eye'm;gr 1004, 53, 06j",1,eyewear
+409095,"o;eye'm;gr 1004, 53, 2m2",1,eyewear
+409096,"o;eye'm;gr 1005, 54, 086",1,eyewear
+409097,"o;eye'm;gr 1005, 54, 807",1,eyewear
+409098,"o;eye'm;in 1001, 55, 086",1,eyewear
+409099,"o;eye'm;in 1001, 55, 2w8",1,eyewear
+409100,"o;eye'm;in 1001, 55, 807",1,eyewear
+409101,"o;eye'm;in 1001, 55, d51",1,eyewear
+409102,o;eye'm;in 1001/ 55/ d51,1,eyewear
+409103,"o;eye'm;in 1002, 52, 086",1,eyewear
+409104,"o;eye'm;in 1002, 52, 38i",1,eyewear
+409105,"o;eye'm;in 1002, 52, 3y5",1,eyewear
+409106,"o;eye'm;in 1002, 52, 807",1,eyewear
+409107,"o;eye'm;in 1002, 52, n9p",1,eyewear
+409108,"o;eye'm;in 1002, 52, wr7",1,eyewear
+409109,o;eye'm;in 1002/ 52/ 3y5,1,eyewear
+409110,o;eye'm;in 1002/ 52/ n9p,1,eyewear
+409111,"o;eye'm;in 1003, 54, 2m2",1,eyewear
+409112,"o;eye'm;in 1003, 54, 5uv",1,eyewear
+409113,"o;eye'm;in 1003, 54, tmy",1,eyewear
+409114,"o;eye'm;in 1003, 54, yl7",1,eyewear
+409115,"o;eye'm;in 1004, 54, 06j",1,eyewear
+409116,"o;eye'm;in 1004, 54, csa",1,eyewear
+409117,"o;eye'm;in 1004, 54, ljt",1,eyewear
+409118,"o;eye'm;in 1004, 54, pta",1,eyewear
+409119,"o;eye'm;in 1004, 56, csa",1,eyewear
+409120,"o;eye'm;in 1004, 56, ljt",1,eyewear
+409121,"o;eye'm;in 1004, 56, pta",1,eyewear
+409122,o;eye'm;in 1004/ 54/ csa,1,eyewear
+409123,"o;eye'm;in 1005, 48, 086",1,eyewear
+409124,"o;eye'm;in 1005, 48, 0uc",1,eyewear
+409125,"o;eye'm;in 1005, 48, 807",1,eyewear
+409126,"o;eye'm;in 1006, 53, 010",1,eyewear
+409127,"o;eye'm;in 1006, 53, j5g",1,eyewear
+409128,"o;eye'm;in 1006, 53, r80",1,eyewear
+409129,"o;eye'm;in 1007, 50, guu, clip on",1,supplies
+409130,o;eye'm;in 1007/ 50/ guu/ clip on,1,supplies
+409131,"o;eye'm;in 1008, 53, n9p, clip on",1,supplies
+409132,"o;eye'm;in 1012, 53, 003",1,eyewear
+409133,"o;eye'm;in 1012, 53, 807",1,eyewear
+409134,"o;eye'm;in 1012, 53, kb7",1,eyewear
+409135,o;eye'm;in 1012/ 53/ 003,1,eyewear
+409136,"o;eye'm;in 1013, 51, 003",1,eyewear
+409137,"o;eye'm;in 1013, 51, j5g",1,eyewear
+409138,"o;eye'm;in 1013, 51, kj1",1,eyewear
+409139,"o;eye'm;ir 1001, 54, 05l",1,eyewear
+409140,"o;eye'm;ir 1001, 54, 086",1,eyewear
+409141,"o;eye'm;ir 1001, 54, 807",1,eyewear
+409142,"o;eye'm;ir 1001, 54, l93",1,eyewear
+409143,"o;eye'm;ir 1001, 54, rhl",1,eyewear
+409144,"o;eye'm;ir 1002, 55, 807",1,eyewear
+409145,"o;eye'm;ir 1002, 55, kon",1,eyewear
+409146,"o;eye'm;ir 1002, 55, mu1",1,eyewear
+409147,"o;eye'm;ir 1002, 55, o2v",1,eyewear
+409148,o;eye'm;ir 1002/ 55/ kon,1,eyewear
+409149,"o;eye'm;ir 1003, 56, 2m2",1,eyewear
+409150,"o;eye'm;ir 1003, 56, ddb",1,eyewear
+409151,"o;eye'm;ir 1003, 56, j5g",1,eyewear
+409152,o;eye'm;ir 1003/ 56/ ddb,1,eyewear
+409153,"o;eye'm;ir 1004, 55, j5g",1,eyewear
+409154,"o;eye'm;ir 1004, 55, n6e",1,eyewear
+409155,o;eye'm;ir 1004/ 55/ n6e,1,eyewear
+409156,"o;eye'm;ir 1009, 52, 086",1,eyewear
+409157,"o;eye'm;ir 1009, 52, 807",1,eyewear
+409158,"o;eye'm;ir 1009, 52, fwm",1,eyewear
+409159,o;eye'm;ir 1009/ 52/ fwm,1,eyewear
+409160,"o;eye'm;ir 1010, 52, 086",1,eyewear
+409161,"o;eye'm;ir 1010, 52, 807",1,eyewear
+409162,"o;eye'm;ir 1010, 52, fwm",1,eyewear
+409163,o;eye'm;ir 1010/ 52/ 086,1,eyewear
+409164,o;eye'm;ir 1010/ 52/ fwm,1,eyewear
+409165,"o;eye'm;ir 1011, 51, 807",1,eyewear
+409166,"o;eye'm;ir 1011, 51, fwm",1,eyewear
+409167,"o;eye'm;ir 1011, 51, oit",1,eyewear
+409168,o;eye'm;ir 1011/ 51/ oit,1,eyewear
+409169,"o;eye'm;ir 1012, 51, 807",1,eyewear
+409170,"o;eye'm;ir 1012, 51, fwm",1,eyewear
+409171,"o;eye'm;ir 1012, 51, lhf",1,eyewear
+409172,o;eye'm;ir 1012/ 51/ fwm,1,eyewear
+409173,"o;eye'm;ly 1002, 53, 3h2",1,eyewear
+409174,"o;eye'm;ly 1004, 49, oy4",1,eyewear
+409175,"o;eye'm;ly 1005, 48, r6s",1,eyewear
+409176,"o;eye'm;ly 1015, 49, 010",1,eyewear
+409177,"o;eye'm;ly 1015, 49, j5g",1,eyewear
+409178,"o;eye'm;ly 1015, 49, kj1",1,eyewear
+409179,o;eye'm;ly 1015/ 49/ j5g,1,eyewear
+409180,"o;eye'm;ly 1016, 49, 35j",1,eyewear
+409181,"o;eye'm;ly 1016, 49, 3h2",1,eyewear
+409182,"o;eye'm;ly 1016, 49, 807",1,eyewear
+409183,o;eye'm;ly 1016/ 49/ 35j,1,eyewear
+409184,"o;eye'm;ly 1017, 49, 35j",1,eyewear
+409185,"o;eye'm;ly 1017, 49, 807",1,eyewear
+409186,"o;eye'm;ly 1017, 49, haq",1,eyewear
+409187,"o;eye'm;ly 1018, 50, 807",1,eyewear
+409188,"o;eye'm;ly 1018, 50, kb7",1,eyewear
+409189,"o;eye'm;ly 1018, 50, pjp",1,eyewear
+409190,"o;eye'm;tr 1001, 53, 003",1,eyewear
+409191,"o;eye'm;tr 1001, 53, 086",1,eyewear
+409192,"o;eye'm;tr 1001, 53, 807",1,eyewear
+409193,"o;eye'm;tr 1001, 53, 900",1,eyewear
+409194,"o;eye'm;tr 1001, 53, fll",1,eyewear
+409195,"o;eye'm;tr 1001, 53, n9p",1,eyewear
+409196,o;eye'm;tr 1001/ 53/ 086,1,eyewear
+409197,o;eye'm;tr 1001/ 53/ 807,1,eyewear
+409198,o;eye'm;tr 1001/ 53/ fll,1,eyewear
+409199,"o;eye'm;tr 1002, 53, 003",1,eyewear
+409200,"o;eye'm;tr 1002, 53, 086",1,eyewear
+409201,"o;eye'm;tr 1002, 53, 63m",1,eyewear
+409202,"o;eye'm;tr 1002, 53, 807",1,eyewear
+409203,"o;eye'm;tr 1002, 53, fll",1,eyewear
+409204,"o;eye'm;tr 1002, 53, n9p",1,eyewear
+409205,o;eye'm;tr 1002/ 53/ 63m,1,eyewear
+409206,"o;eye'm;tr 1003, 54, 003",1,eyewear
+409207,"o;eye'm;tr 1003, 54, 086",1,eyewear
+409208,"o;eye'm;tr 1003, 54, 38i",1,eyewear
+409209,"o;eye'm;tr 1003, 54, 7zj",1,eyewear
+409210,"o;eye'm;tr 1003, 54, 807",1,eyewear
+409211,"o;eye'm;tr 1004, 59, 010",1,eyewear
+409212,"o;eye'm;tr 1004, 59, j5g",1,eyewear
+409213,"o;eye'm;tr 1004, 59, kj1",1,eyewear
+409214,"o;eye'm;tr 1005, 55, 010",1,eyewear
+409215,"o;eye'm;tr 1005, 55, 2m2",1,eyewear
+409216,"o;eye'm;tr 1005, 55, j5g",1,eyewear
+409217,"o;eye'm;tr 1005, 55, svk",1,eyewear
+409218,o;eye'm;tr 1005/ 55/ j5g,1,eyewear
+409219,o;eye'm;tr 1005/ 55/ svk,1,eyewear
+409220,"o;eye'm;tr 1006, 54, 2m2",1,eyewear

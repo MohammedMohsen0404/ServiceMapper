@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+237362,fr-coach -6070-5347-51,1,eyewear
+237363,fr-coach -6077-5002-51,1,eyewear
+237364,fr-cholangiogram (operative or t-tube,1,eyewear
+237365,fr-cystography,1,eyewear
+237366,fr-d&g -3123-1934-52,1,eyewear
+237367,fr-d&g -3132-2613-53,1,eyewear
+237368,fr-d&g -3196-1850-53,1,eyewear
+237369,fr-d&g -3275-2525-52,1,eyewear
+237370,fr-d&g -3275-3099-52,1,eyewear
+237371,fr-emparm-3005-5017-51,1,eyewear
+237372,fr-emparm-3005-5026-51,1,eyewear
+237373,fr-emparm-9672-swo -56,1,eyewear
+237374,fr-fisher-11 -408 -36,1,eyewear
+237375,fr-fluoroscopy,1,eyewear
+237376,fr-gucci -1039-gvj-14,1,eyewear
+237377,fr-gucci -1643-087-53,1,eyewear
+237378,fr-gucci -3181-29a-51,1,eyewear
+237379,fr-hysterosalpingography,1,eyewear
+237380,fr-ivu/ivp,1,eyewear
+237381,fr-killer-7667-1007-00ea,1,eyewear
+237399,fr-koolli-brow+1.50-i2i,1,eyewear
+237400,fr-koolli-m.bl+2.75-i2i,1,eyewear
+237401,fr-koolli-s.bl+2.25-i2i,1,eyewear
+237402,fr-luxott-1358-0030-54,1,eyewear
+237403,fr-mirafl-3714-2ep,1,eyewear
+237404,fr-mirafl-3914-2bcp,1,eyewear
+237405,fr-mirafl-b02 -ec -3415,1,eyewear
+237406,fr-mirafl-eva -k -4315-0,1,eyewear
+237407,fr-mirafl-mbl2-cds -40 14,1,eyewear
+237408,fr-mirafl-nb -cdp -4214,1,eyewear
+237409,fr-mirafl-nb -cjc -3914,1,eyewear
+237410,fr-mirafl-nb -n -4214,1,eyewear
+237411,fr-mirafl-nb -nps-3914,1,eyewear
+237412,fr-mirafl-nb1 -km -3914,1,eyewear
+237413,fr-mirafl-nb1-bs-3914-0ea,1,eyewear
+237414,fr-mirafl-nb3 -cj -00ea,1,eyewear
+237415,fr-mirafl-nb3 -l -4517,1,eyewear
+237416,fr-mirafl-nbt -cjc -4214,1,eyewear
+237417,fr-mirafl-nbt -nds -4214,1,eyewear
+237418,fr-mirafl-ncjc-4214,1,eyewear
+237419,fr-miumiu-03nv-roy -101,1,eyewear
+237420,fr-oakley-8026-8026-05,1,eyewear
+237421,fr-polo -2058-5244-52,1,eyewear
+237422,fr-prada -02fv-tfz -1o1,1,eyewear
+237423,fr-prada -09pv-ha9 -101,1,eyewear
+237424,fr-prada -23iv-7qs -101,1,eyewear
+237425,"fr-pyelography (retro, or transnephrostomy",1,eyewear
+237426,fr-rayban-5154-5255-49,1,eyewear
+237427,fr-rayban-5206-2479-52,1,eyewear
+237428,fr-rayban-5228-2000-53,1,eyewear
+237429,fr-rayban-7017-5196-54,1,eyewear
+237430,fr-rayban-7047-5196-54,1,eyewear
+237431,fr-rayban-8901-5244-55,1,eyewear
+237432,fr-rayban-8902-5196-52,1,eyewear
+237433,fr-safilo-156 -tze -44,1,eyewear
+237434,fr-stefan-860 -c1,1,eyewear
+237435,fr-tagheu-1101-003,1,eyewear
+237436,fr-tagheu-1103-003,1,eyewear
+237437,fr-tagheu-1104-003,1,eyewear
+237438,fr-tagheu-tren-8108-002,1,eyewear
+237439,fr-tagheu-tren-8108-005,1,eyewear
+237440,fr-tiffan-2071-8055-51,1,eyewear
+237441,fr-tomhil-1045-uno-52,1,eyewear
+237442,fr-tomhil-1196-mpz -53,1,eyewear
+237443,fr-tomhil-1323-0i2 -52,1,eyewear
+237444,fr-tomhil-1589-086 -48,1,eyewear
+237445,fr-urethrogram,1,eyewear
+237446,fr-versac-3168-gb1 -52,1,eyewear
+237447,fr-voiding cystourethrogram,1,eyewear
+237448,fr.malleolus m. or orif,1,eyewear
+237449,fr.radius colles close reduction + k.w,1,eyewear
+237450,fr4466e/c10/f,1,other
+237451,fr4466e/c11/f,1,other
+237452,fr4466e/c7/f,1,other
+237453,fr4466e/c9/f,1,other
+237454,fra1985/c1/f,1,eyewear
+237455,fra1987/c1/f,1,eyewear
+237456,fra1987/c3/f,1,eyewear
+237457,fra1987/c4/f,1,eyewear
+237458,fra1989/c1/f,1,eyewear
+237459,fra1989/c2/f,1,eyewear
+237460,fra1989/c3/f,1,eyewear
+237461,fra1989/c4/f,1,eyewear
+237462,fra1993/c1/f,1,eyewear
+237463,fra1993/c3/f,1,eyewear
+237464,fra2001/c2/f,1,eyewear
+237465,fra2001/c3/f,1,eyewear
+237466,fra2003/c1/54/f,1,eyewear
+237467,fra2003/c6/54/f,1,eyewear
+237468,fra2005/c1/f,1,eyewear
+237469,fra2005/c2/f,1,eyewear
+237470,fra2005/c3/f,1,eyewear
+237471,fra2005/c4/f,1,eyewear
+237472,fra2005/c6/f,1,eyewear
+237473,fra2007/c1/52/f,1,eyewear
+237474,fra2007/c5/52/f,1,eyewear
+237475,fra2009/c05/f,1,other
+237476,fra2009/c3/f,1,eyewear
+237477,fra2013/c1/f,1,eyewear
+237478,fra2013/c2/f,1,eyewear
+237479,fra2013/c3/f,1,eyewear
+237480,fra2013/c4/f,1,eyewear
+237481,fra2401/c2/f,1,eyewear
+237482,fra2401/c3/f,1,eyewear
+237483,fra2405/c1/f,1,eyewear
+237484,fra2405/c2/f,1,eyewear
+237485,fra2405/c3/f,1,eyewear
+237486,fra2405/c5/f,1,eyewear
+237487,fra2407/c1/f,1,eyewear
+237488,fra2407/c3/f,1,eyewear
+237489,fra2407/c4/f,1,eyewear
+237490,fra2407/c5/f,1,eyewear
+237491,fra2407/c6/f,1,eyewear
+237492,fract. currettage with hysteroscopy - without histopath,1,lab_test
+237493,fraction of exhaled nitric oxide,1,other
+237494,fractional 1 session medium area,1,physiotherapy
+237495,fractional co2 laser (viral warts,1,procedure
+237496,fractional co2 laser one session,1,physiotherapy
+237497,fractional excretion of sodium,1,lab_test
+237498,fractional excretion of sodium (fena,3,lab_test
+237499,fractional excretion of urea,1,lab_test
+237501,fractional flow reserve (ffr) &/or instantaneous free wave ratio(ifr,1,lab_test
+237502,fractional flow reserve (ffr) - 1day pkg,1,other
+237503,fractional flow reserve measurement (ffr,1,other
+237504,fractional flow reserve measurement ffr,1,other
+237505,fractional flow reserve measurement,1,other
+237506,fractional laser (scarlet,1,procedure
+237507,fractional laser treatment session for scars/burn (medium area,1,physiotherapy
+237508,fractional laser treatment session for scars/burn (small area,1,physiotherapy
+237509,fractometer examination,1,consultation
+237510,fractomter examination,1,consultation
+237511,fractoramine,1,other
+237512,fracture - mandible - open reduction (teeth immobilized if present,1,dental
+237513,fracture acetabulum with pelvis,1,other
+237514,fracture aleolus (closed reduction,1,procedure
+237515,fracture at medial or lateral malleolus,1,other
+237516,fracture at medial or lateral malleolus including implant,2,supplies
+237518,fracture brace-humeral,1,supplies
+237519,fracture cast/splint w/o corct,1,supplies
+237520,fracture distal radius (plate and screw,1,supplies
+237521,"fracture femur,tibiaradius child .closed k.wire nailing",1,supplies
+237522,fracture floor of the orbit - 1day pkg,1,other
+237523,fracture humerus with internal fixation,1,procedure
+237524,fracture maxilla,1,other
+237525,fracture med. or lat malleolus unilatera,1,imaging
+237526,"fracture medi or lat epicondyle in children,o/r k.wire fixat",1,imaging
+237527,fracture medial and lateral malleolus,1,other
+237528,fracture neck femur by screwa,1,other
+237529,fracture neck femur by screwatcs,1,other
+237530,fracture neck femur(o.r.i.f.)without imp,1,lab_test
+237531,fracture nose,1,other
+237532,fracture nose repair,1,procedure
+237533,fracture nose repair (mobilization of,1,procedure
+237534,"fracture of ""coles",2,other
+237535,"fracture of ""coles"" (closed reduction with k. wire fixation",1,supplies
+237537,fracture of coles closed & k-wiring,1,other
+237538,fracture penis,1,other
+237539,fracture penis (post traumatic,1,other
+237540,fracture radius & ulna (closed reduction,2,procedure
+237541,fracture radius and ulna closed reduction,2,procedure
+237542,fracture radius and ulna closed reduction under g.a,1,procedure
+237543,fracture radius uina closed reduction,1,procedure
+237544,fracture redius and ula closed reduction,1,procedure
+237545,fracture small bone of hand or foot + pop,1,imaging
+237546,fracture small bones of hand or foot+ p.o.p,1,imaging
+237547,fracture small bones of hand or foot+p.o.p,1,imaging
+237548,fracture splint,1,supplies
+237549,fracture tibia / fibul / radius / ulna / humerus w.int fix,1,other
+237550,fracture tibia fibia or radius,1,other
+237551,"fracture tibia fibia, orradius,& ulna with internal fixation",1,procedure
+237552,"fracture tibia fibia,or radius,ulna&hume",1,other
+237553,"fracture tibia fibia,orradius,& ulna with internal fixation",1,procedure
+237554,fracture tibia/ fibula/ radius/ ulna/ humerus with internal fixation,1,procedure
+237555,fracture tibia/ fibula/ radius/ulna/humerus with internal fixation - 3 days,1,procedure
+237556,fracture tibia/fibula / radius / ulna / humerus with internal fixation,1,procedure
+237557,fracture tibia/fibula/radius/ulna & humerus w/int.fix -a,1,other
+237558,fracture tibia/fibula/radius/ulna/humerus with internal fixa,2,other
+237559,fracture tibia/fibula/radius/ulna/humerus with internal fixation,2,procedure
+237560,fracture tibia/fibula/radius/ulna/humorus with internal fixation,1,procedure
+237561,fracture tooth extraction,3,dental
+237562,fracture vertebrae with laminectomy,1,procedure
+237563,fracture zygomatic arch (closed reduction,2,dental
+237564,"fracture, compound mandible - open reduction",1,procedure
+237565,"fracture, compound maxilla - open reduction",1,procedure
+237567,fractured nose bones reduction (closed) - 1 day(s,1,imaging
+237568,"fracturefemur,tibial radius child .closed k.wire nailing",1,supplies
+237569,"fractures : orthopedic treatment with or without fixed asset of a simple closed fracture not requiring reduction . spine, hip, thigh",1,procedure
+237570,"fractures : orthopedic treatment with or without fixed asset of a simple closed fracture not requiring reduction : clavicle, hand, ankle, foot",1,procedure
+237571,"fractures : orthopedic treatment with or without fixed asset of a simple closed fracture not requiring reduction :shoulder, arm, elbow, forearm, wrist, knee, leg",1,procedure
+237572,"fractures neck of femur, majc",1,inpatient
+237573,"fractures neck of femur, minc",1,inpatient
+237574,"fractures of pelvis, majc",1,inpatient
+237575,"fractures of pelvis, minc",1,inpatient
+237576,"fractures reduction - ankle, open reduction, one or multiple malleoli or ligamen",1,supplies
+237577,fractures reduction - femur or tibia intramedullary titanium nail with distal an,1,supplies
+237578,fractures reduction - radius head open reduction and locking plate fixation,1,supplies
+237579,"fractures reduction phalanx,metacarpal,metatarsal open reduction & locking plat",1,procedure
+237580,fractures reduction-ankle open reduction one or multiple malleoli or ligaments,1,supplies
+237581,fractures reduction-clivacle open reduction and locking plate fixation,1,supplies
+237582,fractures reduction-femur condylar/intercondylar open reduction and locking pla,1,procedure
+237583,fractures reduction-femur intramedullary nail w/distal and proximal locking scre,1,supplies
+237584,fractures reduction-finger intra articular open reduction and k wire fixation,1,supplies
+237585,fractures reduction-metacarpal open reduction and locking plate fixation,1,supplies
+237586,fractures reduction-os calsis closed reduction w/k wire fixation,1,supplies
+237587,fractures reduction-phalanx open reduction and fixation,1,procedure
+237588,fractures reduction-radius and ulnar shaft closed reduction and intramedullary k,1,procedure
+237589,fractures reduction-radius distal closed reduction and pinning,1,procedure
+237590,fractures reduction-radius distal open reduction and locking plate fixation,1,supplies
+237591,fractures reduction-tibia intramedullary nail w/ distal and proximal locking sc,1,supplies
+237592,fractures: (orif) of a non union fracture : one phalanx or one metacarpal bone,1,imaging
+237593,fractures: (orif) of a non- union closed fracture : clavicle,1,procedure
+237594,fractures: (orif) of a recent closed fracture : femur: diaphysis,1,procedure
+237595,fractures: (orif) of a recent closed fracture : femur: lower or upper extremities : multifragment,1,procedure
+237596,fractures: (orif) of a recent closed fracture : femur: lower or upper extremities :one fragment,1,supplies
+237597,fractures: (orif) of a recent closed fracture : humerus:. articular fracture of the superior or lower extremity,1,procedure
+237598,fractures: (orif) of a recent closed fracture : one phalanx or one metacarpal bone,1,imaging
+237599,"fractures: (orif) of a recent closed fracture, . both bones of the forearm",1,imaging
+237600,"fractures: (orif) of a recent closed fracture, : one carpal or one forearm bone",1,imaging
+237601,"fractures: (orif) of a recent closed fracture, :radius, scaphoid",1,procedure
+237602,fractures: (orif) of a recent closed fracture: one phalanx foot,1,supplies
+237603,fractures: (orif) of a recent open fracture : bimalleolar (ankle,1,procedure
+237604,fractures: (orif) of a recent open fracture : femur : extra-articular fragmented fracture (trochanteric fracture,1,procedure
+237605,fractures: (orif) of a recent open fracture : femur: lower or upper extremities : multifragment,1,procedure
+237606,fractures: (orif) of a recent open fracture : one malleole (ankle,1,supplies
+237607,"fractures: (orif) of a recent open fracture, :radius, scaphoid",1,procedure
+237608,"fractures: (orif) of an open closed fracture, . both bones of the forearm",1,imaging
+237609,"fractures: orthopedic treatment, whatever is the technique, of a closed fracture requiring a reduction with or without anesthesia : hand, radial styloid or ulnar",1,procedure
+237610,"fractures: orthopedic treatment, whatever is the technique, of a closed fracture requiring a reduction with or without anesthesia : the both bones of the forearm or fracture of one and the dislocation of other one",1,imaging
+237612,frafiro,1,other
+237617,fragile x syndrome,1,other
+237618,fragile x syndrome (fmr 1-gene,1,lab_test
+237619,fragile x syndrome (fmr1 gene) - s.o,1,lab_test
+237620,fragment 1/3 tub plt. sm-2 hl,1,other
+237621,fram - taiwan made,1,eyewear
+237622,fram0001,1,other
+239776,frame007,1,other
+239777,frame008,1,other
+239778,frame016,1,other
+239779,frame10,1,other
+239780,frame9 - sabic,1,other
+239781,framearmaniexchange1061609957-17,1,other
+239782,framearmaniexchange1064600356-17,1,other
+239783,framearmaniexchange3077818154-17,1,other
+239784,framearmaniexchange3104809253-19,1,other
+239785,framearmaniexchange3108u818156-16,1,other
+239786,framearnette7230275454-17,1,other
+239787,framearnette7237u275852-17,1,other
+239788,framecarrera8065/csrtcm955-18,1,other
+239789,frameconverse506702254-17,1,other
+239790,frameconverse506741254-17,1,other
+239791,frameemporioarmani1147336555-17,1,other
+239792,frameemporioarmani1149300154-17,1,other
+239793,frameemporioarmani1150301451-18,1,other
+239794,frameemporioarmani3098588253-18,1,other
+239795,frameemporioarmani3147504253-18,1,other
+239796,frameemporioarmani3190500153-16,1,other
+239797,frameframefmixmix,1,other
+239798,frameguess293507152-18,1,other
+239799,framepierrecardin8515/cslhfla53-18,1,other
+239800,framepolaroid2147/csdld55-15,1,other
+239801,framepolaroid2147/csfll55-15,1,other
+239802,framepoloralphlauren2254556949-21,1,other
+239803,framepoloralphlauren2259500154-17,1,other
+239804,framerayban5421200153-19,1,other
+239805,framerayban6512259352-19,1,other
+239806,framerayban7046833851-18,1,other
+239808,frametommy hilfiger,1,eyewear
+239809,framevogue5117siw656/1356-17,1,other
+239810,framevotchy1102c.150-19,1,other
+239811,framevouge5434298349-22,1,other
+239812,frame_99 john st._325_05m_49-15,1,eyewear
+239813,frame_adore_104_2007_42-23,1,eyewear
+239814,frame_adore_104_9945_42-23,1,eyewear
+239815,frame_alain mikli_2024_002/71_52,1,eyewear
+239816,frame_alexander mqueen_0070_001_53,1,eyewear
+239817,frame_alexander mqueen_4096_ofj_53-17,1,eyewear
+239818,frame_alexander mqueen_4204_blp_58-14,1,eyewear
+239819,frame_alexander mqueen_4204_crl_58-14,1,eyewear
+239820,frame_alexander mqueen_4222_807_53-17,1,eyewear
+239821,frame_am eyewear_bowie_024-bl_47-23,1,eyewear
+239822,frame_am eyewear_lemmy_019-bg_47-24,1,eyewear
+239823,frame_balenciaga_0020_086_51,1,eyewear
+239824,frame_balenciaga_0087_ui2_47-20,1,eyewear
+239825,frame_balenciaga_0090_ug0_53-16,1,eyewear
+239826,frame_balenciaga_5013_064_54,1,eyewear
+239827,frame_balenciaga_5014_001_55,1,eyewear
+239828,frame_balenciaga_5033_016_53,1,eyewear
+239829,frame_balenciaga_88_uhn_50-14,1,eyewear
+239830,frame_balenciaga_90_ug0_53-16,1,eyewear
+239831,frame_barbie_156_300_43,1,eyewear
+239832,frame_barbie_162_327_46,1,eyewear
+239833,frame_barbie_168_399_46,1,eyewear
+239834,frame_barbie_171_320_47,1,eyewear
+239835,frame_barbie_171_330_47,1,eyewear
+239836,frame_barbie_171_331_47,1,eyewear
+239837,frame_barbie_175_520_46,1,eyewear
+239838,frame_barbie_175_527_46,1,eyewear
+239839,frame_barbie_178_320_44,1,eyewear
+239840,frame_barbie_178_330_44,1,eyewear
+239841,frame_barbie_179_301_45,1,eyewear
+239842,frame_barbie_179_329_45,1,eyewear
+239843,frame_bear flex_10136_0_37-18,1,eyewear
+239844,frame_bear flex_2017_0_39-18,1,eyewear
+239845,frame_bear flex_2039_0_35-18,1,eyewear
+239846,frame_bear flex_2041_0_38-18,1,eyewear
+239847,frame_bear flex_2054_0_37-18,1,eyewear
+239848,frame_ben 10_005_119_45,1,eyewear
+239849,frame_ben 10_011_401_46,1,eyewear
+239850,frame_ben 10_011_480_46,1,eyewear
+239851,frame_ben 10_015_300_44,1,eyewear
+239852,frame_ben 10_019_340_47,1,eyewear
+239853,frame_ben 10_022_301_47,1,eyewear
+239854,frame_ben 10_022_380_47,1,eyewear
+239855,frame_ben 10_024_340_46,1,eyewear
+239856,frame_ben 10_11_400_46,1,eyewear
+239857,frame_ben 10_11_401_46,1,eyewear
+239858,frame_ben 10_11_480_46,1,eyewear
+239859,frame_ben 10_14_380_45,1,eyewear
+239860,frame_ben 10_15_300_44,1,eyewear
+239861,frame_ben 10_15_399_44,1,eyewear
+239862,frame_ben 10_19_380_47,1,eyewear
+239863,frame_ben 10_22_301_47,1,eyewear
+239864,frame_ben 10_22_380_47,1,eyewear
+239865,frame_ben 10_23_301_49,1,eyewear
+239866,frame_ben 10_24_340_46,1,eyewear
+239867,frame_ben 10_31_580_44,1,eyewear
+239868,frame_ben 10_5_180_45,1,eyewear
+239869,frame_benetton_003_02_41-15,1,eyewear
+239870,frame_benetton_065_83_48-17,1,eyewear
+239871,frame_benetton_11_85_39-17,1,eyewear
+239872,frame_benetton_14_1_44-14,1,eyewear
+239873,frame_benetton_24_1_42-14,1,eyewear
+239874,frame_benetton_24_4_42-14,1,eyewear
+239875,frame_benetton_2_86_40-15,1,eyewear
+239876,frame_benetton_49_83_46-18,1,eyewear
+239877,frame_benetton_50_1_47-18,1,eyewear
+239878,frame_benetton_53_1_47-13,1,eyewear
+239879,frame_benetton_53_2_47-13,1,eyewear
+239880,frame_benetton_53_82_49-13,1,eyewear
+239881,frame_benetton_53_83_49-13,1,eyewear
+239882,frame_benetton_56_1_45-15,1,eyewear
+239883,frame_benetton_56_3_45-15,1,eyewear
+239884,frame_benetton_56_4_45-15,1,eyewear
+239885,frame_benetton_60_4_43-15,1,eyewear
+239886,frame_benetton_66_3_45-16,1,eyewear
+239887,frame_blue bay_352_v04_49-16,1,eyewear
+239888,frame_blue bay_469_mcg_42-21,1,eyewear
+239889,frame_blue bay_469_mch_42-21,1,eyewear
+239890,frame_blue bay_573_kru_48-17,1,eyewear
+239891,frame_blue bay_630_kkh_49-18,1,eyewear
+239892,frame_blue bay_631_kmd_48-18,1,eyewear
+239893,frame_blue bay_633_mfl_48-17,1,eyewear
+239894,frame_blue bay_671_dbi_50-17,1,eyewear
+239895,frame_blue bay_689_ibc_49-16,1,eyewear
+239896,frame_blue bay_689_ibd_49-16,1,eyewear
+239897,frame_blue bay_689_ibe_49-16,1,eyewear
+239898,frame_blue bay_689_ueg_49-16,1,eyewear
+239899,frame_blue bay_689_uej_49-16,1,eyewear
+239900,frame_blue bay_689_uel_49-16,1,eyewear
+239901,frame_blue bay_689_uem_49-16,1,eyewear
+239902,frame_blue bay_695_ima_49-16,1,eyewear
+239903,frame_blue bay_704_pie_x,1,eyewear
+239904,frame_blue bay_727_flo_48-17,1,eyewear
+239905,frame_blue bay_727_uaz_48-17,1,eyewear
+239906,frame_blue bay_727_udk_48-17,1,eyewear
+239907,frame_blue bay_727_udl_48-17,1,eyewear
+239908,frame_blue bay_727_udm_48-17,1,eyewear
+239909,frame_blue bay_728_f57_49-17,1,eyewear
+239910,frame_blue bay_728_fln_49-17,1,eyewear
+239911,frame_blue bay_728_kha_49-17,1,eyewear
+239912,frame_blue bay_728_ucr_49-17,1,eyewear
+239913,frame_blue bay_728_uct_49-17,1,eyewear
+239914,frame_blue bay_732_ins_49-18,1,eyewear
+239915,frame_blue bay_732_inw_49-18,1,eyewear
+239916,frame_blue bay_739_msh_47-19,1,eyewear
+239917,frame_blue bay_740_ddo_50-18,1,eyewear
+239918,frame_blue bay_741_fsf_45-17,1,eyewear
+239919,frame_blue bay_750/n_7c5_52-16,1,eyewear
+239920,frame_blue bay_750/n_g2p_52-16,1,eyewear
+239921,frame_blue bay_750/n_uap_52-16,1,eyewear
+239922,frame_blue bay_754_aab_51-17,1,eyewear
+239923,frame_blue bay_754_k4f_51-17,1,eyewear
+239924,frame_blue bay_754_khe_51-17,1,eyewear
+239925,frame_blue bay_754_msh_49-17,1,eyewear
+239926,frame_blue bay_754_ugd_51-17,1,eyewear
+239927,frame_blue bay_767_8ye_47-17,1,eyewear
+239928,frame_blue bay_771_khe_48-20,1,eyewear
+239929,frame_blue bay_775_b9j_48-16,1,eyewear
+239930,frame_blue bay_775_b9k_48-16,1,eyewear
+239931,frame_blue bay_793_ih3_51-16,1,eyewear
+239932,frame_blue bay_793_iue_51-16,1,eyewear
+239933,frame_blue bay_793_mto_51-15,1,eyewear
+239934,frame_blue bay_794_mud_50-17,1,eyewear
+239935,frame_blue bay_798_8yy_53-16,1,eyewear
+239936,frame_blue bay_798_mts_53-16,1,eyewear
+239937,frame_blue bay_809_003_46-18,1,eyewear
+239938,frame_blue bay_809_3_46-18,1,eyewear
+239939,frame_blue bay_814_i7y_50-16,1,eyewear
+239940,frame_blue bay_814_mto_50-16,1,eyewear
+239941,frame_blue bay_815_muq_49-17,1,eyewear
+239942,frame_blue bay_816_t9o_48-18,1,eyewear
+239943,frame_blue bay_820_bos_50-18,1,eyewear
+239944,frame_blue bay_822_xl9_51-15,1,eyewear
+239945,frame_blue bay_823_bff_48-17,1,eyewear
+239946,frame_blue bay_823_tnh_48-17,1,eyewear
+239947,frame_blue bay_826_807_52-14,1,eyewear
+239948,frame_blue bay_826_86_52-14,1,eyewear
+239949,frame_blue bay_826_bg7_52-14,1,eyewear
+239950,frame_blue bay_826_bg8_52-14,1,eyewear
+239951,frame_blue bay_829_rdp_47-18,1,eyewear
+239952,frame_blue bay_843_807_54-14,1,eyewear
+239953,frame_blue bay_843_kb8_54-14,1,eyewear
+239954,frame_blue bay_861_bzs_48-17,1,eyewear
+239955,frame_blue bay_862_xsl_51-18,1,eyewear
+239956,frame_blue bay_864_0h6_51-14,1,eyewear
+239957,frame_blue bay_864_mng_51-14,1,eyewear
+239958,frame_blue bay_869_352_48-14,1,eyewear
+239959,frame_blue bay_869_rqp_48-14,1,eyewear
+239960,frame_blue bay_870_3_52-16,1,eyewear
+239961,frame_blue bay_870_ifw_52-16,1,eyewear
+239962,frame_boss orange_0070_9o5_51-17,1,eyewear
+239963,frame_boss orange_0071_cpx_53-16,1,eyewear
+239964,frame_boss orange_0304_bu0_51-19,1,eyewear
+239965,frame_boss orange_0309_4in_54-17,1,eyewear
+239966,frame_boss orange_109_807_52-16,1,eyewear
+239967,frame_boss orange_112_acj_50-17,1,eyewear
+239968,frame_boss orange_116_mpz_52-16,1,eyewear
+239969,frame_boss orange_120_1qj_55-16,1,eyewear
+239970,frame_boss orange_120_dpb_55-16,1,eyewear
+239971,frame_boss orange_120_dpm_55-16,1,eyewear
+239972,frame_boss orange_120_gps_55-16,1,eyewear
+239973,frame_boss orange_120_t7o_55-16,1,eyewear
+239974,frame_boss orange_165_mrs_51-17,1,eyewear
+239975,frame_boss orange_169_7va_54-16,1,eyewear
+239976,frame_boss orange_1_3_53-16,1,eyewear
+239977,frame_boss orange_24_807_53-17,1,eyewear
+239978,frame_boss orange_25_eck_54-15,1,eyewear
+239979,frame_boss orange_25_r80_54-15,1,eyewear
+239980,frame_boss orange_36_86_53-17,1,eyewear
+239981,frame_boss orange_36_ht3_53-17,1,eyewear
+239982,frame_boss orange_36_os3_53-17,1,eyewear
+239983,frame_boss orange_38_eck_52-17,1,eyewear
+239984,frame_boss orange_58_x0u_52-17,1,eyewear
+239985,frame_boss orange_70_9o5_51-17,1,eyewear
+239986,frame_boss orange_72_j0p_55-17,1,eyewear
+239987,frame_boss orange_86_zm3_52-17,1,eyewear
+239988,frame_boss orange_87_zl4_52-15,1,eyewear
+239989,frame_boss orange_88_05l_54-13,1,eyewear
+239990,frame_bottega veneta_0116_006_54,1,eyewear
+239991,frame_bottega veneta_173_pk4_54-14,1,eyewear
+239992,frame_bottega veneta_173_pkn_54-14,1,eyewear
+239993,frame_bottega veneta_203_ri8_52-15,1,eyewear
+239994,frame_bottega veneta_208_86_52-17,1,eyewear
+239995,frame_bottega veneta_238_4py_51-18,1,eyewear
+239996,frame_bottega veneta_241_dvy_50-17,1,eyewear
+239997,frame_bugatti_515_0_0,1,eyewear
+239998,frame_burberry_1001_1005_48-19,1,eyewear
+239999,frame_burberry_1005_1001_54-18,1,eyewear
+240000,frame_burberry_1005_1005_54-18,1,eyewear
+240001,frame_burberry_1009_1002_49-16,1,eyewear
+240002,frame_burberry_1011_1002_50-17,1,eyewear
+240003,frame_burberry_1043_1005_50-17,1,eyewear
+240004,frame_burberry_1045_1006_51-19,1,eyewear
+240005,frame_burberry_1047_1005_49-17,1,eyewear
+240006,frame_burberry_1050-b_1002_50-16,1,eyewear
+240007,frame_burberry_1090_1030_50-17,1,eyewear
+240008,frame_burberry_1091_1011_51-17,1,eyewear
+240009,frame_burberry_1091_1045_51-17,1,eyewear
+240010,frame_burberry_1094_1016_52-18,1,eyewear
+240011,frame_burberry_1120_1031_54-18,1,eyewear
+240012,frame_burberry_1120_1079_54-18,1,eyewear
+240013,frame_burberry_1120_1081_54-18,1,eyewear
+240014,frame_burberry_1135_1002_52,1,eyewear
+240015,frame_burberry_1135_1006_54,1,eyewear
+240016,frame_burberry_1135_1016_52,1,eyewear
+240017,frame_burberry_1138_1018_50-18,1,eyewear
+240018,frame_burberry_1139_1005_53-18,1,eyewear
+240019,frame_burberry_1139_1078_53-18,1,eyewear
+240020,frame_burberry_1139_1080_53-18,1,eyewear
+240021,frame_burberry_1140_1002_50,1,eyewear
+240022,frame_burberry_1140_1003_50-17,1,eyewear
+240023,frame_burberry_1141_1077_51,1,eyewear
+240024,frame_burberry_1144_1001_54-18,1,eyewear
+240025,frame_burberry_1144_1003_54-18,1,eyewear
+240026,frame_burberry_1144_1016_52-18,1,eyewear
+240027,frame_burberry_1144_1091_54-18,1,eyewear
+240028,frame_burberry_1145_1006_53-16,1,eyewear
+240029,frame_burberry_1145_1029_51-16,1,eyewear
+240030,frame_burberry_1145_1092_53,1,eyewear
+240031,frame_burberry_1146_1092_52-17,1,eyewear
+240032,frame_burberry_1171_1005_51,1,eyewear
+240033,frame_burberry_1221_1145_52,1,eyewear
+240034,frame_burberry_1297_1007_54,1,eyewear
+240035,frame_burberry_1335_1007_54,1,eyewear
+240036,frame_burberry_2006_3030_50-16,1,eyewear
+240037,frame_burberry_2008_3011_52-16,1,eyewear
+240038,frame_burberry_2009_3014_49-16,1,eyewear
+240039,frame_burberry_2009_3029_51-16,1,eyewear
+240040,frame_burberry_2010_3029_50-16,1,eyewear
+240041,frame_burberry_2017_3042_50-16,1,eyewear

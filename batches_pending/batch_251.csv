@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+452059,pk- spinal biopsy (bone,1,imaging
+452060,pk- saico wellness package proposal (males) - 2023,1,other
+452061,pk- scoliosis 10 levels posterior spinal fusion 1icu + fixators,1,lab_test
+452062,pk- scoliosis 5 levels posterior spinal fusion 1icu + fixators,1,lab_test
+452063,pk- scoliosis 6 levels posterior spinal fusion 1icu + fixators,1,lab_test
+452064,pk- scoliosis 8 levels posterior spinal fusion 1icu + fixators,1,lab_test
+452065,pk- scoliosis <more than 10 levels> posterior spinal fusion + (fixators only included) - ( taw,1,lab_test
+452066,pk- thd- (transanal haemorrhoidal dearterialisation) haemorrhoidopexy,1,other
+452067,pk- thoracotomy for lobectomy,1,procedure
+452068,pk- turbinectomy,2,procedure
+452070,pk- total thyroidectomy,1,procedure
+452071,pk- trans-catheter aortic valve implantation (tavi valve)- 2 days picu & 2 days ward,1,supplies
+452072,pk- trans-oral minimal invasive incisionless fundoplication,1,other
+452073,pk- ulnar nerve transposition,1,other
+452074,pk- undescended tests or orchidopexy - unilateral ( surgical,1,lab_test
+452075,pk- undescended tests or orchidopexy - unilateral (laparoscopic,1,lab_test
+452076,pk- vesicostomy,1,procedure
+452077,pk-a-v fistula for dailysus/s62,1,other
+452078,pk-abdo hystrectmy w r/o adnexa,1,lab_test
+452079,pk-abdominal aortic aneurysm repair,1,procedure
+452080,pk-abdominal exploration,1,procedure
+452081,pk-abdominal paracentesis,1,procedure
+452082,pk-abdominal wall reconsruction with one hernia with mesh,1,supplies
+452083,pk-above knee amputation/r158,1,procedure
+452084,pk-abscess drainage under la,1,procedure
+452085,pk-acl reconstruction revision,1,procedure
+452086,pk-acl reconstruction unilateral,1,procedure
+452087,pk-adenoidectomy + gti,1,procedure
+452088,pk-adenoidectomy and myringotomy bilateral,1,procedure
+452089,pk-adenoidectomy and myringotomy unilateral,1,procedure
+452090,pk-adenoidectomy without tonsillectomy,1,procedure
+452091,pk-adenoidectomy/e1,1,procedure
+452092,pk-adhesiolysis,1,procedure
+452093,pk-adjust trnsven elec card defibrillator,1,other
+452094,pk-admission for 24 hours and hip spica for fracture femur,1,consultation
+452095,pk-amniotic membrane graft,1,procedure
+452096,pk-amputation of finger or toe u.g.a,1,procedure
+452097,pk-amputation of one finger/r151,1,supplies
+452098,pk-anal dilation under ga + evacuation of fecal impaction/s15,1,procedure
+452099,pk-anal examination under ga/s40,1,consultation
+452100,pk-anal plasty/s54,1,procedure
+452101,pk-angioplasty ccervical carotid,1,procedure
+452102,pk-angioplasty intracranial,1,procedure
+452103,pk-angioplasty peripheral (multiple vessels) - w/o stent,1,supplies
+452104,pk-angioscopy,1,procedure
+452105,pk-ankle fracture bimaleolar fixation,1,procedure
+452106,pk-ankle fracture maleolus fixation,1,procedure
+452107,pk-anoplasty,1,procedure
+452108,pk-anorectal examination,1,consultation
+452109,pk-anorectoplasty via laparotomy,1,procedure
+452110,pk-anterior cervical dissectomy with fixation 1 level+fixators,1,imaging
+452111,pk-anterior cervical dissectomy with fixation 2 levels+fixators,1,imaging
+452112,pk-anterior colpoperineorraphy/g22,1,other
+452113,pk-appendicectomy,1,procedure
+452114,"pk-application of hip spica,unilateral",1,other
+452115,pk-arterivenous fistula occlusion,1,other
+452116,"pk-arthro meniscectomy knee, debride/plasty, unilateral",1,procedure
+452117,"pk-arthro recon cruc ligmt w rep meniscus, unilateral",1,other
+452118,"pk-arthro release adhes/contract shoulder, unilateral",1,procedure
+452119,pk-arthrodesis 1st metatarsophalangeal jt,1,procedure
+452120,pk-arthrodesis of ankle,1,procedure
+452121,pk-arthrodesis of big toe/r131,1,procedure
+452122,"pk-arthrodesis of joint, nec, unilateral",1,procedure
+452123,pk-arthrodesis of subtalar joint,1,procedure
+452124,pk-arthroscopic a.c.l. reconstruction & meniscectomy/r227,1,procedure
+452125,pk-arthroscopic a.c.l. reconstruction/r226,1,procedure
+452126,pk-arthroscopic biceps tenodesis,1,procedure
+452127,"pk-arthroscopic chondroplasty of knee, unilateral",1,procedure
+452128,"pk-arthroscopic debridement of knee, unilateral",1,procedure
+452129,"pk-arthroscopic debridement of shoulder, unilateral",1,procedure
+452130,"pk-arthroscopic debridement of wrist, unilateral",1,procedure
+452131,"pk-arthroscopic lateral release of knee, unilateral",1,procedure
+452132,pk-arthroscopic lateral release of the patella,1,procedure
+452133,pk-arthroscopic meniscal rapair,1,procedure
+452134,"pk-arthroscopic meniscectomy of knee, unilateral",1,procedure
+452135,pk-arthroscopic menisectomy (inclusive)/r225,1,procedure
+452136,"pk-arthroscopic procurement of cartilage, unilateral",1,procedure
+452137,"pk-arthroscopic reconstruction of knee, unilateral",1,procedure
+452138,"pk-arthroscopic reconstruction of shoulder, unilateral",1,procedure
+452139,"pk-arthroscopic removal loose body shoulder, unilateral",1,procedure
+452140,pk-arthroscopic removal of loose bodies in joint/r223,1,procedure
+452141,"pk-arthroscopic removal of loose body, knee, unilateral",1,procedure
+452142,"pk-arthroscopic repair of meniscus of knee, unilateral",1,procedure
+452143,pk-arthroscopic rotator cuff repair,1,procedure
+452144,pk-arthroscopic shoulder (bankert repair,1,procedure
+452145,pk-arthroscopic shoulder subacromial decompression,1,procedure
+452146,pk-arthroscopic subacro.decom.w/ acromioclavicular joint res.(shoulder,1,procedure
+452147,pk-arthroscopic synovectomy (inclusive)/r224,1,procedure
+452148,pk-arthroscopic tenodesis of the long head of the biceps (shoulder,1,procedure
+452149,"pk-arthroscopic-2 (subacromial decomp., synovectomy",1,procedure
+452150,"pk-arthroscopic-3 (subacromial decomp., manipulation under, capsular release",1,procedure
+452151,"pk-arthroscopic-3 (subaromial decompression,rotator cuff repair, acromioplasty",1,procedure
+452152,"pk-arthroscopic-4 (subacromial decomp., acromioplasty, distal clavicle resectio",1,procedure
+452153,"pk-arthroscopic-5 (subacromial decomp., rotator cuff repair, acromioplasty, dis",1,procedure
+452154,"pk-arthroscopic/dbrdment of osteoarthritis, limited synovectomy & drilling of ca",1,lab_test
+452155,pk-arthroscopically assisted bankart rapair of shoulder,1,other
+452156,"pk-arthroscopy of ankle, unilateral",1,procedure
+452157,"pk-arthroscopy of knee, unilateral",1,procedure
+452158,"pk-arthroscopy of shoulder, unilateral",1,procedure
+452159,pk-arthroscopy w/ microfracture and debridement,1,procedure
+452160,pk-arthrosocopic bankart (shoulder) with shaver,1,other
+452161,pk-arthrosocopic bankart (shoulder) with shaver & turbovac,1,other
+452162,"pk-arthrotomy of elbow, unilateral",1,procedure
+452163,pk-asd closure (adult,1,procedure
+452164,pk-aspiration of skin & subcutaneous tissue (abscess hematoma,1,procedure
+452165,pk-avf ligation under g.a,1,procedure
+452166,pk-axillary abscess under g.a,1,procedure
+452167,pk-baby care each additional baby,1,other
+452168,pk-ballon pulmonary valvuloplasty (bpv,1,procedure
+452169,pk-below knee amputation/r157,1,procedure
+452170,pk-bilateral laparoscopic tubal ligation,1,procedure
+452171,pk-bilateral orchidopexy + ligation of ppv,1,procedure
+452172,pk-bilateral partial ostectomy (high tibial osteotomy,1,procedure
+452173,pk-bilateral turbinectomy or bil. partial inferior turbinectomy with tricut,1,procedure
+452174,pk-biopsy of a tumour (including histopathology)/r2,1,lab_test
+452175,pk-biopsy of bladder,1,procedure
+452176,pk-biopsy of bone (lesion or tumour,1,imaging
+452177,pk-biopsy of bone marrow,1,imaging
+452178,pk-biopsy of breast under ga including pathology fee/s16,1,procedure
+452179,"pk-biopsy of middle ear, unilateral",1,procedure
+452180,pk-biopsy of oral cavity,1,procedure
+452181,"pk-biopsy of pleura, unilateral",1,procedure
+452182,pk-biopsy of skin & subcutaneous tissue,1,procedure
+452183,pk-biopsy of soft palate,1,procedure
+452184,pk-biopsy of soft tissue (tumor,1,procedure
+452185,pk-bl femoral embolectomy for embolus,1,procedure
+452187,pk-block dissection of neck lymph nodes,1,procedure
+452188,pk-bone graft,1,imaging
+452189,"pk-bone graft to radius or ulna, unilateral",1,imaging
+452190,pk-bone grafting,1,imaging
+452191,pk-bone marrow aspiration,1,imaging
+452192,pk-brain tumour/n22,1,other
+452193,pk-breast augmentation (silicone) and extraction of breast expander,1,dental
+452194,pk-breast augmentation (silicone) including o.r. implant one night in hospital,1,supplies
+452195,pk-breast core biopsy,1,dental
+452196,pk-breast lump excision (large)/biopsy,1,procedure
+452197,pk-breast lump excision with wire localization,1,supplies
+452198,"pk-breast reduction (small-medium) including o.r, lab,two night in hospital",1,procedure
+452199,pk-breast wire placement under radiological guidance,1,supplies
+452200,pk-bronchoscopy & fb removal/e17,1,procedure
+452201,pk-bronchoscopy fiberoptic or rigid w/ biopsy,1,procedure
+452202,"pk-bronchoscopy, bilateral",1,procedure
+452203,pk-bupa arabia - sabic pre-employment checkup,1,consultation
+452204,pk-burr holes,1,other
+452205,pk-cabg,1,other
+452206,pk-cabg and valve replacment (single aortic or mitral w/o valve,1,other
+452207,pk-caesarian delivery section-additional baby born,1,procedure
+452208,"pk-capsulotomy of lens, unilateral",1,eyewear
+452209,pk-carotid angioplasty & stent,1,supplies
+452210,pk-carotid artery stenting,1,other
+452211,pk-carotid endarterectomy,1,procedure
+452212,pk-carpel tunnel syndrome decompression/n21,1,procedure
+452213,pk-cartilage grafting with implants (ankle,1,supplies
+452215,pk-caval filter,1,supplies
+452216,pk-ceasarian section first time/g25,1,procedure
+452217,pk-ceasarian section recurrent 2ed time/g26,1,procedure
+452218,pk-cerebral angiogram,1,imaging
+452219,pk-cervical cautery/g10,1,imaging
+452220,pk-cervical dissectomy with cage 2 level/n5,1,imaging
+452221,pk-cervical dissectomy with cage 3 level/n6,1,imaging
+452222,pk-chalazion removal uga,1,procedure
+452223,"pk-chalazion removal, two",1,procedure
+452224,pk-chalazion removal/o1,1,procedure
+452225,pk-cholangiopancreatoscopy,1,procedure
+452226,"pk-cholecystectomy, choledochotomy & anstms",1,procedure
+452227,pk-circumcision (less than one year)/s1,1,supplies
+452228,pk-circumcision nuder ga 5m-3y/s2,1,procedure
+452229,pk-circumcision under ga 3y-12y/s3,1,procedure
+452230,pk-classical repair/g28,1,procedure
+452231,pk-clonoscopy + biopsy,1,procedure
+452232,"pk-closed biopsy of kidney, unilateral",1,procedure
+452233,pk-closed endoscopic biopsy of larynx (microlaryngoscopy,1,procedure
+452234,"pk-closed rdctn dislocation elbow w if, unilateral",1,procedure
+452235,"pk-closed rdctn fracture distal radius if, unilateral",1,procedure
+452236,"pk-closed rdctn fracture metacarpus w if, unilateral",1,procedure
+452237,"pk-closed rdctn fracture shaft radius w if, unilateral",1,procedure
+452238,"pk-closed rdctn fx proximal humerus w if, unilateral",1,procedure
+452239,"pk-closed rdctn fx radial head/neck w if, unilateral",1,procedure
+452240,"pk-closed rdctn fx shaft radius & ulna if, unilateral",1,procedure
+452241,pk-closed reduc. of supracondylar fract. in children & percutaneous k.wire f/r74,1,supplies
+452242,"pk-closed reduction dislocation mcp joint, unilateral",1,procedure
+452243,"pk-closed reduction fracture distal humerus, unilateral",1,procedure
+452244,"pk-closed reduction fracture distal radius, unilateral",1,procedure
+452245,"pk-closed reduction fracture femur with if, unilateral",1,procedure
+452246,"pk-closed reduction fracture shaft of tibia, unilateral",1,procedure
+452248,pk-closed reduction of fracture mandible /d14,1,procedure
+452249,"pk-closed reduction of fracture of femur, unilateral",1,procedure
+452250,pk-closed reduction+k-wire fix. of communuted fracture b.b forearm in adult,1,supplies
+452251,pk-closure of wound large,1,procedure
+452252,pk-cls abdo w rep musculoaponeurotic layer,1,other
+452253,"pk-clsd rdctn intrartclr fx mid phlx hnd if, unilateral",1,procedure
+452254,pk-coblation uvulectomy,1,procedure
+452255,pk-colonosc to caecum w tattooing,1,other
+452256,pk-colonoscopy,1,procedure
+452257,pk-colonoscopy + polypectomy,1,procedure
+452258,pk-colostomy,1,procedure
+452259,pk-coloured retinal photography,1,other
+452260,"pk-complex cataract surgery, unilateral",1,procedure
+452261,pk-complex ep study + 3d mapping + ablation,1,procedure
+452262,pk-complex release of club foot,1,procedure
+452263,pk-compound depressed skull fracture,1,other
+452264,pk-congenital inguinal herniotomy,1,procedure
+452265,pk-conization of cervix,1,other
+452266,pk-construction av fistula w graft of vein,1,procedure
+452267,pk-continuous haemofiltration,1,other
+452268,pk-coron art byps usg 1 other gft nec,1,imaging
+452269,pk-coron art byps usg >= 4 other gft nec,1,imaging
+452270,pk-coronary angiography,1,imaging
+452271,pk-coronary angiography w l & r heart cath,1,imaging
+452272,pk-coronary angiography_old,1,other
+452273,pk-coronary artery by pass graft (cabg,1,procedure
+452274,pk-coronary ptca-dv,1,procedure
+452275,pk-coronary ptca-dv + 1 drug eluting stent,1,supplies
+452276,pk-coronary ptca-dv + 2 drug eluting stents,1,procedure
+452277,pk-coronary ptca-dv + 3 drug eluting stents,1,procedure
+452278,pk-coronary ptca-sv + 1 drug eluting stent,1,eyewear
+452279,pk-coronary ptca-sv + 2 drug eluting stents,1,eyewear
+452280,pk-coronary ptca-sv + 3 drug eluting stents,1,eyewear
+452281,pk-correction of chordee of penis,1,other
+452282,pk-correction of hammer toe,1,other
+452283,pk-craniotomy & evacuation of intracerebral hematoma,1,procedure
+452284,pk-craniotomy and excision of suprasellar tumor,1,procedure
+452285,pk-craniotomy r/l frontal,1,procedure
+452286,pk-crt-d implant/explant/revision,1,supplies
+452287,pk-ct guided biopsies,1,imaging
+452288,pk-ct-guided percutanious drainage (catheter,1,imaging
+452289,pk-cut ear lobule unilat la/s32,1,other
+452290,pk-cysto-uretheroscopy & tur prostatectomy/u31,1,procedure
+452291,pk-cysto-uretheroscopy + biopsy of bladder tumour/u20,1,procedure
+452292,pk-cysto-urethroscopy +dilatation bladder neck (diagnostic)/u15,1,procedure
+452293,pk-cystoscopy,1,procedure
+452294,pk-cystoscopy & diathermy,1,procedure
+452295,pk-cystoscopy through artificial stoma,1,procedure
+452296,pk-cystoscopy with bladder urethral biopsy,1,procedure
+452297,pk-cystoscopy with retrograde pylogram,1,procedure
+452298,pk-cystoscopy_old,1,other
+452299,pk-d & c with conization or cryosurgery,1,procedure
+452300,pk-d & c/g4,1,other
+452301,pk-d.j removal,1,procedure
+452302,"pk-debride sft tis incl bone or cart, unilateral",1,imaging
+452303,pk-debridement & lavage peritoneal cavity,1,procedure
+452304,pk-debridement diabetic foot,1,procedure
+452305,pk-debridement of fingernail,1,procedure
+452306,pk-debridement of open fracture & k. wire fixa/r79,1,supplies
+452307,pk-debridement of open fracture grade c & external fixa/r80,1,procedure
+452308,"pk-debridement of open fracture site, unilateral",1,procedure
+452309,pk-debridement of sternotomy wound,1,procedure
+452310,"pk-debridement of toenail,unilateral",1,procedure
+452311,pk-debridment of granuations,1,procedure
+452312,"pk-decompression fasciotomy of forearm, unilateral",1,procedure
+452313,"pk-decompression fasciotomy of hand, unilateral",1,procedure
+452314,"pk-decompression of subacromial space, unilateral",1,procedure
+452315,pk-deep sclerectomy,1,procedure
+452316,pk-definitive intest resec and p-t anstms,1,other
+452317,pk-des,1,other
+452318,pk-des (drug elluting stent,1,supplies
+452319,pk-des cor,1,other
+452320,pk-diag. laparascopy w/o rchidopexy,1,procedure
+452321,pk-diagnostic angiography peripheral vessels not used,1,imaging
+452322,pk-diagnostic cerebral angiogram,1,imaging
+452323,pk-diagnostic cerebral angiography,1,imaging
+452324,pk-diagnostic cystoscopy and urethroscopy,1,procedure
+452325,pk-diagnostic flexible ureteroscopy +biopsy,1,procedure
+452326,pk-diagnostic hysteroscopy,1,procedure
+452327,pk-diagnostic laparoscopy (not for infertility inv.)/g3,1,procedure
+452328,pk-dialysis line insertion,1,procedure
+452329,pk-diathermy of warts,1,other
+452330,pk-dilatation of bladder neck,1,procedure
+452331,pk-dilation & curettage of uterus [d&c,1,procedure
+452332,pk-dilation and evacuation of uterus [d&e,1,procedure
+452333,pk-dilation of anus,1,other
+452334,pk-direct laryngoscopy with biopsy/e6,1,procedure
+452335,"pk-distal hypospadias, single stage repair",1,procedure
+452336,pk-distal tibia fracture (complex/bone graft unilateral,1,imaging
+452337,pk-division of abdominal adhesions,1,other
+452338,"pk-division uterine septum, hysteroscopy",1,procedure
+452339,pk-drain retrpertnl abs haemtma cyst,1,lab_test
+452340,pk-drainage and irrigation of priapism,1,procedure
+452341,pk-drainage of abscess of breast under ga/s17,1,procedure
+452342,pk-drainage of gluteal abscess under ga/s18,1,procedure
+452343,pk-drainage of hand collection/r21,1,procedure
+452344,pk-drainage of intra-anal abscess,1,procedure
+452345,pk-drainage of ischiorectal abscess,1,procedure
+452346,pk-drainage of perianal abscess,1,procedure
+452347,pk-drainage of subperiosteal abscess/r22,1,procedure
+452348,pk-drainage og bartholin abscess,1,procedure
+452349,pk-dual chamber permanent pacemaker insertion,1,supplies
+452350,pk-duodenoduodenostomy,1,procedure
+452351,pk-day case-gh stimulating test dynamic protocol,1,lab_test
+452352,pk-egd,1,other
+452353,pk-egd + band ligation,1,procedure
+452354,pk-egd + biopsy,1,procedure
+452355,pk-elective caesarean section nec c/s,1,lab_test
+452356,pk-elective classical caesarean section c/s,1,lab_test
+452357,pk-elective first caesarean section,1,other
+452358,pk-elective lower segment caesarean section c/s,1,lab_test
+452359,pk-elective second caesarean section,1,other
+452360,pk-electrocautery of penile and scrotal warts under general anaesthesia,1,procedure
+452361,pk-electrophysiology study w/out ablation,1,procedure
+452362,pk-embolization uterine fibroid,1,procedure
+452363,pk-emergency caesarean section nec c/s,1,lab_test
+452364,pk-emergency classical caesarean section c/s,1,lab_test
+452365,pk-emergency second caesarean sect,1,other
+452366,pk-endosc dest bladder lsn / tiss <= 2 cm,1,other
+452367,pk-endosc dest of multiple lesions bladder,1,other
+452368,pk-endosc dest single lesion bladder > 2 cm,1,other
+452369,"pk-endosc frag and extr of calc of kidney, unilateral",1,other
+452370,pk-endosc removal of oesophageal prosthesis,1,supplies
+452371,pk-endosc resec single lsn bladder > 2 cm,1,other
+452372,pk-endosc resection mult lesions bladder,1,procedure
+452373,pk-endosc uretc cath fluorosc image ut uni,1,supplies
+452374,pk-endoscopic balloon dilation oesophagus,1,supplies
+452375,pk-endoscopic banding of oesophageal varice,1,procedure
+452376,pk-endoscopic biopsy of bladder,1,procedure
+452377,pk-endoscopic cyclophotocoagulation glaucoma (ecp,1,procedure
+452378,pk-endoscopic destruction ureteric lesion,1,procedure
+452379,pk-endoscopic excision of conchabullosa,1,procedure
+452380,pk-endoscopic f.b. removal under g.a,1,procedure
+452381,pk-endoscopic incision of bladder neck,1,procedure
+452382,pk-endoscopic ins oesophageal prosthesis,1,supplies
+452383,pk-endoscopic insertion of ureteric stent,1,supplies
+452384,pk-endoscopic manip/extr ureteric calculus,1,procedure
+452385,pk-endoscopic ph monitoring,1,procedure
+452386,"pk-endoscopic pleurodesis, unilateral",1,procedure
+452387,"pk-endoscopic release of carpal tunnel, unilateral",1,procedure
+452388,pk-endoscopic removal device from stomach,1,procedure
+452389,pk-endoscopic removal of biliary stent,1,supplies
+452390,pk-endoscopic removal of ureteric stent,1,supplies
+452391,pk-endoscopic replacement of biliary stent,1,supplies
+452392,pk-endoscopic replacement of ureteric stent,1,supplies
+452393,pk-endoscopic resection of bladder neck,1,procedure
+452394,pk-endoscopic resection of prostate,1,procedure
+452396,pk-endoscopic ultrasound diagnostic w. or w/out sedation,1,imaging
+452397,pk-endoscopic ultrasound therapeutic w. or w/out sedation,1,imaging
+452398,"pk-endoscopic ureteric cath, unilateral",1,supplies
+452399,pk-endoscopic visual urethrotomy,1,procedure
+452400,pk-endovascular ttt of aorto iliac disease (kissing stents,1,other
+452401,pk-enucleation of a cyst ga/d10,1,other
+452402,pk-epididymal cyst excision,1,procedure
+452403,pk-epidural cervical,1,imaging
+452405,pk-epidural infusion of steroid,1,supplies
+452406,pk-epidural injct for lysis of adhesions,1,procedure
+452408,pk-epidural lumbar,1,procedure
+452410,pk-episiotomy revision,1,procedure
+452411,pk-ercp,1,procedure
+452412,pk-ercp + spincterotomy + stent w. or w/out sedation,1,supplies
+452413,pk-ercp + spincterotomy w. or w/out sedation,1,procedure
+452414,pk-ercp with cbd balloon sweep,1,supplies
+452415,pk-ercp with cbd stent removal,1,supplies
+452416,pk-ercp with stent insertion,1,supplies
+452417,pk-esophagoscopy with balloon dilation,1,supplies
+452418,pk-eswl extra session (ref,1,physiotherapy
+452419,pk-eswl first session (ref,1,physiotherapy
+452420,pk-eswl of urinary tract,1,procedure
+452421,pk-eswl/u19,1,procedure
+452422,pk-evacuation and curettage,1,procedure
+452423,pk-evacuation of hematoma under g.a,1,procedure
+452424,pk-evacuation of intramuscular hematoma,1,procedure
+452425,pk-evar ( endovascular abdominal aortic repair,1,procedure
+452426,pk-exc anal fistula inv low anal sphincter,1,procedure
+452427,pk-exc anal fistula inv upp anal sphincter,1,procedure
+452428,"pk-exc debridement skin & sbc tissue, large",1,procedure
+452429,"pk-exc debridement skin & sbc tissue, medium",1,procedure
+452430,"pk-exc debridement skin & sbc tissue, small",1,procedure
+452431,"pk-exc lesion ssct, oth site of head, small",1,procedure
+452432,"pk-exc musc, bne, cart inv with sk lsn, unilateral",1,procedure
+452433,pk-excicion of sebaceous cyst under l a,1,lab_test
+452434,pk-excicional biopsy of unknown nature tumor,1,procedure
+452435,pk-excis or destruction of lesion or tissue of skin subcutan tissue (lipomacyst,1,other
+452436,pk-excision & cauterization granuloma py0genica,1,procedure
+452437,pk-excision biopsy under local anesthesia including histopathology,1,lab_test
+452438,pk-excision cystoma multiple on the scrotum,1,procedure
+452439,"pk-excision lesion ssct, finger,unilateral",1,procedure
+452440,pk-excision mass body under general anesthesia,1,procedure
+452441,pk-excision of anal polyp,1,procedure
+452442,"pk-excision of avm of finger,unilateral",1,procedure
+452443,pk-excision of bartholin?s cyst/g6,1,procedure
+452444,pk-excision of benign tumours/r191,1,procedure
+452445,pk-excision of cacific deposits in shoulder/r41,1,procedure
+452446,pk-excision of chalazion under general anesthesias,1,procedure
+452447,pk-excision of clitorial cyst,1,procedure
+452448,"pk-excision of exostosis of bne of foot, unilateral",1,procedure
+452449,"pk-excision of exostosis of large bone, unilateral",1,imaging
+452450,pk-excision of external angular dermoid cyst,1,procedure
+452451,"pk-excision of ganglion of dorsal wrist, unilateral",1,imaging
+452452,"pk-excision of ganglion of hand, unilateral",1,procedure
+452453,"pk-excision of ganglion, nec, unilateral",1,procedure
+452454,pk-excision of ganglion/r6,1,procedure
+452455,pk-excision of hemangioma simple,1,procedure
+452456,"pk-excision of hydrocele,bilateral",1,procedure
+452457,"pk-excision of hydrocele,unilateral",1,procedure
+452458,pk-excision of intra-abdominal tumor,1,procedure
+452459,"pk-excision of lesion of breast, bilateral",1,procedure
+452460,pk-excision of lesion of tunica vaginalis,1,procedure
+452461,pk-excision of lesion of vagina,1,procedure
+452462,"pk-excision of lesion ssct, hand, medium,unilateral",1,procedure
+452463,pk-excision of lipoma / mass medium,1,procedure
+452464,pk-excision of meckel's diverticulum,1,procedure
+452465,pk-excision of periauricular fistula/e18,1,procedure
+452466,pk-excision of pilonidal sinus/cyst/abscess,1,procedure
+452467,pk-excision of planter wart ( l.a,1,procedure
+452468,pk-excision of scattered multiple lipoma under g.a,1,procedure
+452469,pk-excision of sebaceous cyst,1,procedure
+452470,pk-excision of sinus of ssct,1,procedure
+452471,pk-excision of skull tumour 1,1,procedure
+452472,pk-excision of smal cyst+local ana/s35,1,lab_test
+452473,pk-excision of small eye lid swelling,1,procedure
+452474,pk-excision of small eyelid swelling,1,procedure
+452475,pk-excision of small lid tumour+histopathology analysis,1,lab_test
+452476,"pk-excision of soft tissue, nec, unilateral",1,procedure
+452477,pk-excision of vaginal hydrocele (unilateral,1,procedure
+452478,pk-excisional biopsy ga/d22,1,procedure
+452479,pk-explatory lap.extensive lysis of adhesion w/ bowel resection,1,procedure
+452480,pk-exploration for post operative vascular surgical bleeding-cavity vessel,1,lab_test
+452481,pk-exploration for post operative vascular surgical bleeding-limb vessel,1,lab_test
+452482,pk-exploration groin for impalpable testis,1,procedure
+452483,"pk-exploration scrotal contents, unilateral",1,procedure
+452484,pk-exploratory laparotomy,1,procedure
+452485,pk-extended right hemicolectomy w anstms,1,procedure
+452486,pk-extraction of multiple foreign body under general anesthesia,1,dental
+452487,pk-face laceration medium /ga,1,other
+452488,pk-face laceration small /ga,1,other
+452489,pk-fb removal with or without x-ray,1,imaging
+452490,pk-femoral embolectomy,1,procedure
+452491,pk-femur shaft (im nail,1,supplies
+452492,pk-fiberoptic bronchoscopy diagnostic (ga,1,procedure
+452493,"pk-fibreoptic colonoscopy heptc flexure, bx",1,procedure
+452494,pk-fibreoptic colonoscopy to caecum,1,procedure
+452495,pk-fibreoptic colonoscopy to caecum w bx,1,procedure
+452496,pk-fibreoptic colonoscopy to caecum w pp,1,procedure
+452497,pk-fibroptc colonsc to hepatic flexure w pp,1,other
+452498,pk-fissurectomy,1,procedure
+452499,pk-fissurectomy&sphincterectomy,1,procedure
+452500,pk-fissurectomy+low fistula/s64,1,procedure
+452501,pk-fissurectomy/s63,1,procedure
+452502,pk-fistulectomy,1,procedure
+452503,pk-fixation of testis unilateral,1,procedure
+452504,"pk-flexible cystoscopy, diagnostic",1,procedure
+452505,pk-flexible fiberoptic colonoscopy,1,procedure
+452506,pk-flexible ureteroscopy + dormia stone extraction + dj insertion,1,dental
+452507,pk-flexible ureteroscopy+laser with endoscopic stone extraction,1,dental
+452508,"pk-flexible urs, stone fragmentation by laser icl",1,procedure
+452511,pk-foot amputation/r155,1,procedure
+452512,pk-fractional flow reserve (ffr,1,other
+452513,pk-full abdominoplasty - large (skincare) including o.r. anaeasthesia two night in hospital,1,consultation
+452514,pk-full thickness skin graft of genitals,1,procedure
+452515,pk-functional endoscopic sinus surgery (fess,1,procedure
+452516,pk-functional endoscopic sinus surgery (fess) with tricut,1,procedure
+452517,pk-functional endoscopy sinus surgery (fess)/e47,1,procedure
+452518,pk-functional endoscopy sinus surgery grade 1 (f.e.s.s,1,procedure
+452519,pk-functional endoscopy sinus surgery grade 2 (f.e.s.s,1,procedure
+452520,pk-functional endoscopy sinus surgery grade 3 (f.e.s.s,1,procedure
+452521,pk-functional endoscopy sinus surgery grade 3 (f.e.s.s.) with navigation,1,procedure
+452522,pk-functional endoscopy sinus surgery grade 4 (f.e.s.s,1,procedure
+452523,pk-functional endoscopy sinus surgery grade 4 (f.e.s.s.) with navigation,1,procedure
+452524,"pk-fundoplasty, laparoscopic approach",1,procedure
+452525,"pk-fundoplication, laparoscopic approach",1,procedure
+452526,"pk-fundoplication, transoral approach",1,other
+452527,pk-ga biopsy include pathology fee/s20,1,procedure
+452528,pk-ga debridement of diabetic foot infection/s61,1,procedure
+452529,pk-ga debridement of wound/s28,1,procedure
+452530,pk-ga lipoma excision/s27,1,procedure
+452531,pk-ga lymph node biopst/s22,1,other
+452532,pk-ga removal of foreign body from foot / hand + fluroscopy/s26,1,procedure
+452533,pk-ga removal of foreign body from foot / hand/s25,1,procedure
+452534,pk-gastric sleeve,1,other
+452536,pk-gastroscopy w or w/o sedation (w or w/o clo test,1,lab_test
+452537,pk-gastrostomy / peg,1,procedure
+452538,pk-gonioscopic glaucoma surgery,1,procedure
+452539,pk-haemorrhoidectomy,1,procedure
+452540,pk-haemorrhoidectomy w/ or w/o sigmoidoscopy with ligasure,1,procedure
+452541,pk-haemorrhoidectomy with use of harmonic,1,procedure
+452542,"pk-hemiarthroplasty of knee, unilateral",1,procedure
+452543,pk-hemithyroidectomy + histopathology,1,lab_test
+452544,pk-hemorrhoidectomy & fissurectomy/s50,1,procedure
+452545,pk-hemorrhoidectomy or pile under ga (surg.exc)/s48,1,procedure
+452546,pk-hemorrhoidectomy&fissurectomy&fistulactomy/s52,1,procedure
+452547,pk-hernia umbilical adult big,1,procedure
+452548,pk-hernia umbilical adult medium,1,procedure
+452549,pk-hernia umbilical adult small,1,procedure
+452550,pk-hip hemiarthroplasty for fracture neck femur/r194,1,procedure
+452551,pk-hydrocele/s57,1,other
+452552,pk-hysterectomy vaginal or abdominal/g41,1,procedure
+452553,pk-hysteroscopic myomectomy,1,procedure
+452554,pk-hysteroscopic polypectomy,1,procedure
+452555,pk-hysteroscopy operative including endometrial ablation,1,procedure
+452556,pk-hysteroscopy operative simple,1,procedure
+452557,pk-hysteroscopy w/ biopsy,1,procedure
+452558,pk-hysteroscopy with dense shaver,1,procedure
+452559,pk-hysteroscopy/g9,1,procedure
+452560,pk-i c d (defibrellation,1,lab_test
+452561,pk-i&d abscess under ga/s9,1,procedure
+452562,pk-i&d of inguinal abscess under genral anesthesia,1,procedure
+452563,pk-icu accommodation adult package,1,eyewear
+452564,"pk-if fx tibial artlr surf rep/recon ligmt, unilateral",1,other
+452565,"pk-immobilisation fracture of shaft of ulna, unilateral",1,other
+452566,pk-implantable loop recorder (ilr) implant/explant/revision,1,supplies
+452567,"pk-incision & drain abscess, soft tissue, unilateral",1,procedure
+452568,pk-incision & drainage of abscess of ssct,1,procedure
+452569,"pk-incision & drainage of abscess of ssct, cmplct/mltpl",1,procedure

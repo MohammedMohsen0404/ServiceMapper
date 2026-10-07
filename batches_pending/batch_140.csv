@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+330037,left ventricular assist system (impella) - 3days pkg,1,other
+330038,left ventricular myectomy ( up to 10 days package) 3 icu+7 ward,1,consultation
+330039,left wrist,1,other
+330040,left/ right - hemicolectomy with formation of stoma (includes: resection of descending and sigmoid colon,1,procedure
+330041,"left/right hemicolectomy with anastomosis, includes; resection of descending and sigmoid colon (up to 7-days package",1,procedure
+330042,left/right lateral anal sphincterotomy - pkg 2 days,2,procedure
+330044,left/right-ankle foot orthosis (mafsal,1,supplies
+330045,leg,3,other
+330046,leg ( 2 views,1,imaging
+330047,leg - 2 view,3,imaging
+330048,leg 2 views,9,imaging
+330050,leg ap,3,imaging
+330051,leg ap/lat,6,imaging
+330052,leg lateral,3,other
+330053,leg one view,2,supplies
+330054,leg ( 2 v,2,other
+330055,leg (1v,1,imaging
+330056,leg (ap & lat,2,imaging
+330057,leg (both,1,other
+330058,leg (r.l,1,lab_test
+330059,leg (tibia - fibula) rt. x- ray ap & lat,1,imaging
+330060,leg (tibia and fibula) ap+lat,2,imaging
+330061,leg (tibia) x-ray,2,imaging
+330062,leg (tibia+fibula) ap-lat 2views,1,imaging
+330063,leg (two views,2,imaging
+330064,"leg , 2 views",2,imaging
+330067,leg - 1 views,1,imaging
+330070,leg - 2 views (unilateral,1,imaging
+330071,leg - 2 views bilateral,1,imaging
+330072,leg - 2 views infant,3,imaging
+330074,leg - 2 views(300110,1,imaging
+330082,leg - 2 vs,1,other
+330083,leg - 2v,1,imaging
+330085,leg - 3 views (unilateral,1,imaging
+330088,leg - ap,1,imaging
+330089,leg - ap & lat,1,imaging
+330090,leg -1 view,1,imaging
+330091,leg -3 view,2,imaging
+330092,leg /2v,1,imaging
+330093,leg 1 film,2,other
+330094,leg 1 side 2 views,1,imaging
+330095,leg 1 view,3,imaging
+330096,leg 1 views,1,imaging
+330097,leg 1film x-ray,1,imaging
+330099,leg 2 v,1,other
+330100,leg 2 view,3,imaging
+330102,"leg 2 views (ap/lat, l/r",1,imaging
+330103,leg 2 views 1f,1,imaging
+330104,leg 2 views-1352,1,imaging
+330107,leg 2v,1,imaging
+330108,leg 3 view,2,imaging
+330110,leg 3 views 2f,1,imaging
+330111,leg 3 views one film,1,supplies
+330112,leg 3 views-1353,1,imaging
+330113,leg : 2v,1,imaging
+330114,leg ?ap ?/ ?lat,1,imaging
+330115,leg a-p,2,other
+330116,leg a.p,1,lab_test
+330117,leg a.p \ lat,1,imaging
+330118,leg a.p. & lat. one film,1,imaging
+330119,leg a.p. & lateral 2 films,1,lab_test
+330121,leg ap lat both obliques,1,imaging
+330122,leg ap & lat,3,imaging
+330123,leg ap & lat (tibia-fibula,1,imaging
+330124,leg ap & lateral,2,imaging
+330125,leg ap & lateral views,1,imaging
+330126,leg ap &lat,1,imaging
+330127,leg ap &lat ( r or l,1,imaging
+330128,leg ap + lat,1,imaging
+330129,leg ap - lat / right,1,imaging
+330130,leg ap -lat,1,imaging
+330131,leg ap / lat,1,imaging
+330132,leg ap /lat,1,imaging
+330133,leg ap /lat 1 side view,1,imaging
+330134,leg ap 1 view,2,imaging
+330135,leg ap lat,1,imaging
+330136,leg ap lat xrleg 2 views,1,imaging
+330137,"leg ap, 1 view",2,imaging
+330141,leg ap/l (2v,1,imaging
+330144,"leg ap/lat, xr-leg",1,imaging
+330145,"leg ap/lat, xr-leg 2 views",2,imaging
+330148,leg apl (2v,1,imaging
+330149,leg apl 2v-plain x-rays 2 views,1,imaging
+330150,leg apl-2v,1,imaging
+330151,leg bond,1,other
+330152,leg bone,2,imaging
+330154,leg bones 2 views,2,imaging
+330156,leg bones 2v,2,imaging
+330157,leg bones a.p&lateral,1,imaging
+330158,leg bones ap-lat 2 views,1,imaging
+330159,leg bones tow positions,1,imaging
+330160,leg both view x ray,1,imaging
+330161,leg both(2 view,1,imaging
+330162,leg cast rem,1,supplies
+330163,leg crepe bandge,1,other
+330164,leg fasciotomy,1,procedure
+330165,leg joint 2 views,2,imaging
+330167,leg oblique,1,other
+330169,leg splint l,1,supplies
+330170,leg splint m,1,supplies
+330171,leg splint s,1,supplies
+330172,leg splint xl,1,supplies
+330173,leg splint xxl,1,supplies
+330174,leg tibia+fibula ( ap+lat,1,imaging
+330175,leg tow positions,2,other
+330176,leg tow positions-15205,1,other
+330177,leg trauma 4 views,1,imaging
+330178,leg two positions,1,other
+330179,leg two views,3,imaging
+330182,leg with contrast,1,imaging
+330183,leg wound debridement,1,procedure
+330184,leg x-ray,2,imaging
+330185,leg x-ray (ap&lat,1,imaging
+330186,leg x-ray 1 view,1,imaging
+330187,leg x-ray 2 views,2,imaging
+330188,leg x-ray 3 views,1,imaging
+330189,leg x-ray ???? ??? ?????,1,imaging
+330190,leg x-ray ap/lat,1,imaging
+330191,leg x-ray(ap&lat,2,imaging
+330193,leg(2 views,1,imaging
+330194,leg(tibia&fibula)- 1 view ap,1,imaging
+330195,leg(tibia&fibula)- 2 views ap/lat,1,imaging
+330196,leg- 1 view,3,imaging
+330198,leg- 2 view ??????,1,imaging
+330199,leg- 2 views,2,imaging
+330200,leg- 3 views,1,imaging
+330201,leg-1f,1,other
+330202,leg-2 views,1,imaging
+330203,leg-3 views,1,imaging
+330204,leg-a view,1,imaging
+330205,leg-ap & lat,1,imaging
+330206,leg-ap &alat,1,imaging
+330207,leg/ap0&lat0,1,other
+330208,leg/forearm ap and lateral,2,imaging
+330210,leg/forearm ap&lateral,1,imaging
+330211,leg/forearm lteral,1,other
+330212,"legacy , cdh , sz. 6.5x45mm mas titanium,sofamor danek , 7191645",1,supplies
+330213,"legacy posterior stabilizer flex prolong surface cd 3-4 size 12mm., (zimmer) # 00-5962-030-12",1,other
+330214,legaflex classic open [unthu-0175,1,other
+330256,legalon fort140mg 100tab,1,other
+330257,legalon forte,2,other
+330259,legalon forte 30cap (silymarin,1,other
+330262,legalon forte 100cap,1,other
+330263,legalon forte 140,1,other
+330301,legalon forte dried extract of milk thistle fruits,1,procedure
+330302,legalon forte meda,1,other
+330303,legalon forte vol: cocentrate: unit:100 bottle,1,supplies
+330313,legapl 2v,1,imaging
+330315,legend 17 - moderate to sever (bte p) - per pcs,1,other
+330316,legion con art ins 9mm sz 3-4,1,other
+330317,legion offset coupler 4mm,1,other
+330318,legion pressfit stem 16mmx120mm,1,supplies
+330319,legion rev tibia base sz 3 right,1,other
+330320,legion size 4 constrained femoral component,1,other
+330321,legion straight 12mm x120mm pressfit stem screw,1,supplies
+330322,legion straight 14mm x160mm pressfit stem screw,1,supplies
+330323,legionella antigen,2,lab_test
+330324,legionella ab - s.o,1,lab_test
+330325,legionella ab's direct serotype 1-6 (if,1,lab_test
+330326,legionella abs,4,lab_test
+330328,legionella antibodies,1,lab_test
+330330,legionella antigen in urine,1,lab_test
+330331,legionella pm antibodies,1,lab_test
+330332,legionella pnemophila antigen,1,lab_test
+330333,legionella pneumophila antigen,1,lab_test
+330334,legionella pneumophila antigen (urine,1,lab_test
+330335,legionella pneumophila antigen (urine)( so,1,lab_test
+330336,legionella pneumphila antigen,1,lab_test
+330337,legionella urinary antigen,1,lab_test
+330338,leica microscopic machine (per use,1,supplies
+330339,leiden mutation,1,lab_test
+330340,leiden mutation / factor v,1,lab_test
+330341,leiden variant test,1,lab_test
+330342,leiden variant test (fac v,2,lab_test
+330344,"leiomyoma(s), uterine myomectomy - without uterus",1,procedure
+330345,leishmania (ab,2,lab_test
+330346,leishmania ab - s.o,1,lab_test
+330347,leishmania ab,2,lab_test
+330348,leishmania abs (iha,1,lab_test
+330349,leishmania abs,1,lab_test
+330350,leishmania antibodies,2,lab_test
+330351,leishmania antibodies (ift,1,lab_test
+330352,leishmania antibodies (iha,1,lab_test
+330353,leishmania antibody,2,lab_test
+330354,leishmania antibody igg,3,lab_test
+330355,leishmania antibody igg (leishmaniasis,1,lab_test
+330358,leishmania canis abs,1,lab_test
+330359,leishmania don avon bodies m (smear,1,lab_test
+330360,leishmania film,1,other
+330361,leishmania if & iha,1,lab_test
+330362,leishmania iha,1,lab_test
+330363,leishmania pcr - s.o,1,lab_test
+330364,leishmania screen,1,other
+330365,leishmania smear,2,lab_test
+330366,leishmania smear (procedure staining & reading,1,lab_test
+330367,"leishmania smear (procedure, staining & reading",1,lab_test
+330368,"leishmania smear (staining, reading",1,lab_test
+330369,leishmania smear analysis (l121,1,lab_test
+330370,leishmaniasis - screeninig serology,1,lab_test
+330371,leision excision complete medium -pkg,1,procedure
+330372,leision excision complete small - 1day pkg,1,procedure
+330373,leision excision medium - 1day pkg,1,procedure
+330374,leision excision small - 1day pkg,1,procedure
+330375,leision excision small -pkg,1,procedure
+330394,lellini lellini1343cc,1,other
+330395,"lemaitre single lumen catheter 3f, 8.0mm x 80cm",1,supplies
+330396,lemilan,1,other
+330397,lemon glycerin swabstick 750/case,1,other
+330398,lemon-glycerine swab stick,1,lab_test
+330447,lenght adjustable rom knee (mafsal,1,other
+330448,length adjusttable rom knee 57260,1,other
+330450,lengthening and corr of deformity (femur,1,procedure
+330451,lengthening and corr of deformity (humerus,1,procedure
+330452,lengthening of tendon repair thum,1,procedure
+330453,"lengthening of tendon, not elsewhere classified",1,procedure
+330454,lengthening of the rod by scoliosis,1,supplies
+330455,lengthening procedure on one extraocular muscle (strabismus) - 1 day pkg,1,supplies
+330456,"lengthening, bone, femur (unilateral) - 4 days pkg",1,imaging
+330460,lens,1,eyewear
+330461,"lens , acrysof , foldable lenses(all sizes),johnson & johnson , dcb00xxx",1,eyewear
+330462,"lens , acrysoft , iq size 25.5 a-constant 118.7,hoya iol , ny-251+25.5",1,eyewear
+330463,"lens , intraoccular , acrylic 20.5 d,----- , 74701205",1,eyewear
+330464,"lens , intraocular preloaded posterior , chamber 118.7 sz.26.5.,johnson & johnson",1,eyewear
+330465,"lens , preloaded , hoya yellow single 251+24.5,hoya company , isert 251",1,eyewear
+330466,lens 006,1,eyewear
+330467,lens 1,1,eyewear
+330468,lens 1.59 air wear crizal 1.59 h.i crizal 65mm mix mix,1,eyewear
+330469,lens 1969 plastic normal transparent multi coat 65mm +0.25 +0.50,1,eyewear
+330470,lens 1969 plastic normal transparent multi coat 65mm +1.50 +0.25,1,eyewear
+330471,lens 1969 plastic normal transparent multi coat 65mm 0.00 +0.25,1,eyewear
+330472,lens 1969 plastic normal transparent multi coat 70mm -0.25 -0.75,1,eyewear
+330473,lens 1969 plastic normal transparent multi coat 70mm -0.50 -0.50,1,eyewear
+330474,lens 1969 plastic normal transparent multi coat 70mm -0.50 -1.25,1,eyewear
+330475,lens 1969 plastic normal transparent multi coat 70mm -1.00 -0.50,1,eyewear
+330476,lens 1969 plastic normal transparent multi coat 70mm -1.25 -0.50,1,eyewear
+330477,lens 1969 plastic normal transparent multi coat 70mm -2.25 0.00,1,eyewear
+330478,lens 1969 plastic normal transparent multi coat 70mm 0.00 -0.50,1,eyewear
+330479,lens 1969 plastic normal transparent multi coat 70mm 0.00 -1.25,1,eyewear
+330480,lens 2,1,eyewear
+330481,lens 4,1,eyewear
+330482,lens 5,1,eyewear
+330483,lens aspiration,1,eyewear
+330484,lens aspiration + pc iol,1,eyewear
+330485,lens aspiration per eye,1,eyewear
+330486,lens bifocal plastic,1,eyewear
+330491,lens essilor 1.59 air wear crizal a2 70mm -1.25 -0.50,1,eyewear
+330492,lens essilor 1.59 air wear crizal a2 70mm -1.50 -1.75,1,eyewear
+330493,lens essilor 1.59 air wear crizal a2 70mm -4.25 -0.75,1,eyewear
+330494,lens essilor 1.59 air wear crizal a2 70mm -4.50 -1.50,1,eyewear
+330495,lens essilor 1.59 air wear crizal a2 70mm -5.50 -1.25,1,eyewear
+330496,lens essilor 1.59 airwear trio +4.00 to -6.00 up -2.00 cyl,1,eyewear
+330497,lens essilor 1.59 airwear varilux comfort crizal fuv gp 2/4 add mix,1,eyewear
+330498,lens essilor 1.59 as airwear crizal fort uv+4.00 to -6.00 up -4.25 to -6.00 cyl,1,eyewear
+330499,lens essilor 1.67 trio +8.00 to -13.00 up -2.25 to -3.00 cyl,1,eyewear
+330500,lens essilor 1.67 trio +8.00 to -13.00 up 3.25 to -3.25 to -6.00 cyl,1,eyewear
+330501,lens essilor 1.67 uc +8.00 to -13.00 up -4.25 to -6.00 cyl,1,eyewear
+330502,lens essilor 800/1000,1,eyewear
+330504,lens essilor espace 1.5 dfb trio 65mm +0.50 +0.50 +1.50,1,eyewear
+330505,lens essilor espace 1.5 dfb trio 70mm +0.50 +0.75 +1.50,1,eyewear
+330506,lens essilor espace 1.5 dfb trio 70mm +0.75 0.00 +1.50,1,eyewear
+330507,lens essilor espace 1.5 dfb trio 70mm +3.25 +0.25 +2.50,1,eyewear
+330508,lens essilor espace 1.5 dfb trio 70mm 0.00 +1.50 +2.75,1,eyewear
+330509,lens essilor espace 1.5 dfb trio 70mm 0.00 0.00 +2.75,1,eyewear
+330510,lens essilor espace 1.5 dfb trio 75mm -0.75 -1.25 +2.50,1,eyewear
+330511,lens essilor espace 1.5 dfb trio 75mm 0.00 -0.75 +1.50,1,eyewear
+330512,lens essilor espace+ 1.5 dfb trio +6.00 to -10.00 up -2.00 cyl add mix,1,eyewear
+330513,lens essilor espace+ 1.5 dfb uc +6.00 to -10.00 up -2.25 to -4.00 cyl add mix,1,eyewear
+330528,lens essilor fsv 1.59 airwear crizal prv 65mm +1.75 +1.00,1,eyewear
+330529,lens essilor fsv 1.59 airwear crizal prv 70mm -0.25 -2.00,1,eyewear
+330530,lens essilor fsv 1.59 airwear crizal sapphire uv 65mm -1.50 -0.50,1,eyewear
+330531,lens essilor fsv 1.59 airwear transition sig vii gray crizal fuv 70mm 0.00 +0.25,1,eyewear
+330532,lens essilor fsv 1.59 airwear transition sig vii gray crizal fuv 70mm 0.00 0.00,1,eyewear
+330533,lens essilor fsv 1.67 stylis crizal sapphire uv 70mm -4.50 0.00,1,eyewear
+330534,lens essilor ormix 1.60 hmc +8.00 to -13.00 up to -2.00 cyl,1,eyewear
+330535,lens essilor rx 1.59 airwear crizal prv 70mm +0.25 -3.00,1,eyewear
+330536,lens essilor rx 1.59 airwear crizal prv 70mm 0.00 -2.50,1,eyewear
+330537,lens essilor rx 1.61 ormix crizal fuv 65mm +6.00 +0.50,1,eyewear
+330538,lens essilor rx 1.61 ormix trio 60mm +3.00 -5.75,1,eyewear
+330539,lens essilor rx 1.61 ormix trio 70mm -6.00 -5.00,1,eyewear
+330550,lens essilor rx sv 1.67 stylis crizal fuv 65mm +5.50 0.00,1,eyewear
+330551,lens essilor rx sv 1.67 stylis crizal prv 70mm -6.75 -3.25,1,eyewear
+330552,lens essilor rx sv lineis 1.74 crizal fuv 65mm -9.00 -3.50,1,eyewear
+330556,lens essilor varilux lib 1.59 a.w crizal fuv tran. xtractive grey +6.00 to -10.00 up -2.00 cyl add m,1,eyewear
+330557,lens foldable iol w/injector 23 cimaflex 63212032,1,eyewear
+330558,lens hix mc 1.67,1,eyewear
+330559,lens hux mc 167,1,eyewear
+330560,lens ice 1.53 trivex shmc emi uv,1,eyewear
+330561,lens ice 1.53 trivex shmc emi uv 65mm +0.25 +0.75,1,eyewear
+330562,lens ice 1.53 trivex shmc emi uv 65mm +0.25 +1.00,1,eyewear
+330563,lens ice 1.53 trivex shmc emi uv 65mm +0.25 +1.75,1,eyewear
+330564,lens ice 1.53 trivex shmc emi uv 65mm +0.25 -1.75,1,eyewear
+330565,lens ice 1.53 trivex shmc emi uv 65mm +0.25 0.00,1,eyewear
+330566,lens ice 1.53 trivex shmc emi uv 65mm +0.50 +1.25,1,eyewear
+330567,lens ice 1.53 trivex shmc emi uv 65mm +0.50 +1.75,1,eyewear
+330568,lens ice 1.53 trivex shmc emi uv 65mm +0.50 0.00,1,eyewear
+330569,lens ice 1.53 trivex shmc emi uv 65mm +0.75 +1.00,1,eyewear
+330570,lens ice 1.53 trivex shmc emi uv 65mm +0.75 -1.00,1,eyewear
+330571,lens ice 1.53 trivex shmc emi uv 65mm +0.75 0.00,1,eyewear
+330572,lens ice 1.53 trivex shmc emi uv 65mm +1.00 +0.50,1,eyewear
+330573,lens ice 1.53 trivex shmc emi uv 65mm +1.00 +1.00,1,eyewear
+330574,lens ice 1.53 trivex shmc emi uv 65mm +1.00 +1.50,1,eyewear
+330575,lens ice 1.53 trivex shmc emi uv 65mm +1.00 0.00,1,eyewear
+330576,lens ice 1.53 trivex shmc emi uv 65mm +1.50 +1.50,1,eyewear
+330577,lens ice 1.53 trivex shmc emi uv 65mm +1.50 -2.00,1,eyewear
+330578,lens ice 1.53 trivex shmc emi uv 65mm +1.75 -2.00,1,eyewear
+330579,lens ice 1.53 trivex shmc emi uv 65mm +2.25 0.00,1,eyewear
+330580,lens ice 1.53 trivex shmc emi uv 65mm +2.50 0.00,1,eyewear
+330581,lens ice 1.53 trivex shmc emi uv 65mm +2.75 +1.00,1,eyewear
+330582,lens ice 1.53 trivex shmc emi uv 65mm +2.75 0.00,1,eyewear
+330583,lens ice 1.53 trivex shmc emi uv 65mm +3.00 +0.75,1,eyewear
+330584,lens ice 1.53 trivex shmc emi uv 65mm 0.00 +0.25,1,eyewear
+330585,lens ice 1.53 trivex shmc emi uv 65mm 0.00 +0.50,1,eyewear
+330586,lens ice 1.53 trivex shmc emi uv 70mm -0.25 -0.50,1,eyewear
+330587,lens ice 1.53 trivex shmc emi uv 70mm -0.25 -3.00,1,eyewear
+330588,lens ice 1.53 trivex shmc emi uv 70mm -0.50 -1.50,1,eyewear
+330589,lens ice 1.53 trivex shmc emi uv 70mm -0.50 -3.00,1,eyewear
+330590,lens ice 1.53 trivex shmc emi uv 70mm -0.75 -1.75,1,eyewear
+330591,lens ice 1.53 trivex shmc emi uv 70mm -0.75 -2.75,1,eyewear
+330592,lens ice 1.53 trivex shmc emi uv 70mm -1.00 -0.75,1,eyewear
+330593,lens ice 1.53 trivex shmc emi uv 70mm -1.25 -0.75,1,eyewear
+330594,lens ice 1.53 trivex shmc emi uv 70mm -1.25 -1.50,1,eyewear
+330595,lens ice 1.53 trivex shmc emi uv 70mm -1.25 -2.00,1,eyewear
+330596,lens ice 1.53 trivex shmc emi uv 70mm -1.75 -2.00,1,eyewear
+330597,lens ice 1.53 trivex shmc emi uv 70mm -2.00 -0.75,1,eyewear
+330598,lens ice 1.53 trivex shmc emi uv 70mm -2.00 -1.50,1,eyewear
+330599,lens ice 1.53 trivex shmc emi uv 70mm -2.00 -1.75,1,eyewear
+330600,lens ice 1.53 trivex shmc emi uv 70mm -2.25 -0.25,1,eyewear
+330601,lens ice 1.53 trivex shmc emi uv 70mm -2.25 -1.00,1,eyewear
+330602,lens ice 1.53 trivex shmc emi uv 70mm -2.25 0.00,1,eyewear
+330603,lens ice 1.53 trivex shmc emi uv 70mm -2.50 -0.25,1,eyewear
+330604,lens ice 1.53 trivex shmc emi uv 70mm -2.50 -0.75,1,eyewear
+330605,lens ice 1.53 trivex shmc emi uv 70mm -2.50 -1.00,1,eyewear
+330606,lens ice 1.53 trivex shmc emi uv 70mm -2.50 -1.50,1,eyewear
+330607,lens ice 1.53 trivex shmc emi uv 70mm -2.75 0.00,1,eyewear
+330608,lens ice 1.53 trivex shmc emi uv 70mm -3.00 -0.75,1,eyewear
+330609,lens ice 1.53 trivex shmc emi uv 70mm -3.00 -1.00,1,eyewear
+330610,lens ice 1.53 trivex shmc emi uv 70mm -3.00 -2.25,1,eyewear
+330611,lens ice 1.53 trivex shmc emi uv 70mm -3.25 -1.50,1,eyewear
+330612,lens ice 1.53 trivex shmc emi uv 70mm -3.25 -2.00,1,eyewear
+330613,lens ice 1.53 trivex shmc emi uv 70mm -3.25 0.00,1,eyewear
+330614,lens ice 1.53 trivex shmc emi uv 70mm 0.00 -1.50,1,eyewear
+330615,lens ice 1.53 trivex shmc emi uv 70mm 0.00 -1.75,1,eyewear
+330616,lens ice 1.53 trivex shmc emi uv 70mm 0.00 -2.25,1,eyewear
+330617,lens ice 1.53 trivex shmc emi uv 70mm 0.00 -2.75,1,eyewear
+330618,lens ice 1.56 uc asp uv,1,eyewear
+330619,lens ice 1.59 poly blue cut emi uv,1,eyewear
+330620,lens ice 1.59 poly blue cut emi uv 65mm +0.50 -0.75,1,eyewear
+330621,lens ice 1.59 poly blue cut emi uv 65mm +1.75 +0.25,1,eyewear
+330622,lens ice 1.59 poly blue cut emi uv 65mm +1.75 0.00,1,eyewear
+330623,lens ice 1.59 poly blue cut emi uv 65mm +2.25 +1.25,1,eyewear
+330624,lens ice 1.59 poly blue cut emi uv 65mm 0.00 +0.75,1,eyewear
+330625,lens ice 1.59 poly blue cut emi uv 70mm -0.25 -0.50,1,eyewear
+330626,lens ice 1.59 poly blue cut emi uv 70mm -0.25 -1.00,1,eyewear
+330627,lens ice 1.59 poly blue cut emi uv 70mm -1.75 -1.25,1,eyewear
+330628,lens ice 1.59 poly blue cut emi uv 70mm -1.75 -2.00,1,eyewear
+330629,lens ice 1.59 poly blue cut emi uv 70mm -2.00 -0.50,1,eyewear
+330630,lens ice 1.59 poly blue cut emi uv 70mm -2.00 -1.50,1,eyewear
+330631,lens ice 1.59 poly blue cut emi uv 70mm -2.25 -1.25,1,eyewear
+330632,lens ice 1.59 poly blue cut emi uv 70mm -2.25 0.00,1,eyewear
+330633,lens ice 1.59 poly blue cut emi uv 70mm -2.50 -1.25,1,eyewear
+330634,lens ice 1.59 poly blue cut emi uv 70mm -3.75 0.00,1,eyewear
+330635,lens ice 1.59 poly blue cut emi uv 70mm 0.00 -1.50,1,eyewear
+330636,lens ice 1.59 poly p.g.x shmc emi uv400,1,eyewear
+330637,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -0.25 -0.75,1,eyewear
+330638,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -0.25 0.00,1,eyewear
+330639,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -0.50 -0.25,1,eyewear
+330640,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -0.50 -0.50,1,eyewear
+330641,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -0.50 -1.50,1,eyewear
+330642,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -0.50 -1.75,1,eyewear
+330643,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -0.75 -0.75,1,eyewear
+330644,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.00 -0.50,1,eyewear
+330645,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.00 -1.75,1,eyewear
+330646,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.25 -0.25,1,eyewear
+330647,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.25 -0.50,1,eyewear
+330648,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.50 -0.50,1,eyewear
+330649,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.50 -0.75,1,eyewear
+330650,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.75 -0.25,1,eyewear
+330651,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -1.75 -0.50,1,eyewear
+330652,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -2.25 -0.50,1,eyewear
+330653,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -2.25 -0.75,1,eyewear
+330654,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -2.25 0.00,1,eyewear
+330655,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -3.00 -0.50,1,eyewear
+330656,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -3.00 -0.75,1,eyewear
+330657,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -3.50 -2.00,1,eyewear
+330658,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -3.75 -1.75,1,eyewear
+330659,lens ice 1.59 poly p.g.x shmc emi uv400 70mm -4.00 -2.00,1,eyewear
+330660,lens ice 1.59 poly p.g.x shmc emi uv400 70mm 0.00 -0.25,1,eyewear
+330661,lens ice 1.59 poly p.g.x shmc emi uv400 70mm 0.00 -1.75,1,eyewear
+330662,lens ice sv 1.5 eco+blue 0.00 -0.50,1,eyewear
+330663,lens ice sv 1.56 bluecut +1.75 0.00,1,eyewear
+330664,lens ice sv 1.56 bluecut -0.50 -0.50,1,eyewear
+330665,lens ice sv 1.56 bluecut -1.25 0.00,1,eyewear
+330666,lens ice sv 1.56 bluecut -3.00 -0.50,1,eyewear
+330667,lens ice sv 1.56 bluecut 0.00 -0.25,1,eyewear
+330668,lens ice sv 1.56 bluecut 0.00 -0.50,1,eyewear
+330669,lens ice sv 1.56 eco+bluecut +1.00 0.00,1,eyewear
+330670,lens ice sv 1.56 eco+bluecut +1.50 0.00,1,eyewear
+330671,lens ice sv 1.56 eco+bluecut -1.00 0.00,1,eyewear
+330672,lens ice sv 1.56 eco+bluecut -1.25 -0.50,1,eyewear
+330673,lens ice sv 1.56 eco+bluecut -1.75 -0.25,1,eyewear
+330674,lens ice sv 1.56 eco+bluecut 0.00 -0.50,1,eyewear
+330675,lens ice sv 1.56 eco+bluecut 0.00 -0.75,1,eyewear
+330676,lens ice sv 1.56 hmc +2.00 0.00,1,eyewear
+330677,lens ice sv 1.56 hmc -3.75 -1.00,1,eyewear
+330678,lens ice sv 1.56 hmc 0.00 -0.50,1,eyewear
+330679,lens ice sv 1.56 hmc 0.00 -0.75,1,eyewear
+330680,lens ice sv 1.56 hmc 0.00 0.00,1,eyewear
+330681,lens ice sv 1.56 transmatic gray eco+bluecut -1.25 -2.50,1,eyewear
+330682,lens ice sv 1.56 transmatic gray eco+bluecut -2.00 -0.50,1,eyewear
+330683,lens ice sv 1.61 eco+bluecut -3.25 -0.75,1,eyewear
+330684,lens ice sv 1.61 eco+bluecut -3.25 -1.00,1,eyewear
+330685,lens inteaocular acrylic multipiece foldable alcon #ma60ac,1,eyewear
+330686,lens intraocular injectable iq alco 2000,1,eyewear
+330687,"lens intraocular iol phakic artisan, assorted sizes, 205001 yxxx",1,eyewear
+330688,lens io alcon ma60ac 6-30 power range - per pcs,1,eyewear
+330689,lens iol alcon asph toric (any power) - per each,1,eyewear
+330690,lens iol anterior power range 6~30 ajl #a601250,1,eyewear
+330691,lens mhix,1,eyewear
+330692,lens mhix 1.6 350/400,1,eyewear
+330693,lens mhix 150/200,2,eyewear
+330694,lens mhix 200/250,2,eyewear
+330695,lens mhix 250/300,1,eyewear
+330696,lens mhix 300/350,2,eyewear
+330697,lens mhix 350/400,1,eyewear
+330698,lens mhix 350/45%0,1,eyewear
+330699,lens mhix 350/450,1,eyewear
+330700,lens mhix 450/500,1,eyewear
+330701,lens mhix 500/550,1,eyewear
+330702,lens mhix 700/750,1,eyewear
+330703,lens mhix 750/800,1,eyewear
+330704,lens mhix 800/850,1,eyewear
+330705,lens mhix900/950,1,eyewear
+330706,lens nikon 100/150,1,eyewear
+330707,lens nikon 7666 sc+uv 70mm -3.25 -1.25,1,eyewear
+330708,lens nikon fsv 1.50 as sc+uv gp 2/2,1,eyewear
+330709,lens nikon fsv 1.50 ecc 65mm +1.75 +0.50,1,eyewear
+330710,lens nikon fsv 1.50 hard coat 70mm +3.00 0.00,1,eyewear
+330711,lens nikon fsv 1.50 hard coat 70mm -0.50 -0.50,1,eyewear
+330712,lens nikon fsv 1.50 hcc 65mm +2.50 +0.50,1,eyewear
+330713,lens nikon fsv 1.50 hcc 70mm -0.50 -0.75,1,eyewear
+330714,lens nikon fsv 1.50 hcc 70mm -1.25 -1.25,1,eyewear
+330715,lens nikon fsv 1.50 hcc 70mm -1.75 -0.50,1,eyewear
+330716,lens nikon fsv 1.50 hcc 70mm 0.00 -0.75,1,eyewear
+330717,lens nikon fsv 1.50 hcc gp 2/2,1,eyewear
+330718,lens nikon fsv 1.50 hcc tr gr br gp 2/2,1,eyewear
+330719,lens nikon fsv 1.50 sc+uv 65mm +0.50 +1.00,1,eyewear
+330720,lens nikon fsv 1.50 sc+uv 65mm +0.75 +0.75,1,eyewear
+330721,lens nikon fsv 1.50 sc+uv 65mm +1.00 +0.25,1,eyewear
+330722,lens nikon fsv 1.50 sc+uv 65mm +1.00 +0.75,1,eyewear
+330723,lens nikon fsv 1.50 sc+uv 65mm +2.00 0.00,1,eyewear
+330724,lens nikon fsv 1.50 sc+uv 65mm 0.00 -1.00,1,eyewear
+330725,lens nikon fsv 1.50 sc+uv 70mm +0.50 +1.50,1,eyewear
+330726,lens nikon fsv 1.50 sc+uv 70mm +0.75 -1.75,1,eyewear
+330727,lens nikon fsv 1.50 sc+uv 70mm 0.00 -1.25,1,eyewear
+330728,lens nikon fsv 1.50 scbuv 65mm +1.75 +0.50,1,eyewear
+330729,lens nikon fsv 1.50 scbuv 70mm -0.50 -0.50,1,eyewear
+330730,lens nikon fsv 1.50 seecoat plus uv 70mm -0.25 -0.50,1,eyewear
+330731,lens nikon fsv 1.50 seecoat plus uv 70mm -0.50 -0.50,1,eyewear
+330732,lens nikon fsv 1.50 seecoat plus uv 70mm -0.75 -1.00,1,eyewear
+330733,lens nikon fsv 1.50 seecoat plus uv 70mm -1.00 -0.50,1,eyewear
+330734,lens nikon fsv 1.50 seecoat plus uv 70mm -2.00 -0.25,1,eyewear
+330735,lens nikon fsv 1.50 seecoat plus uv 70mm 0.00 -0.25,1,eyewear
+330736,lens nikon fsv 1.59 hcc 70mm -1.25 0.00,1,eyewear
+330737,lens nikon fsv 1.59 hcc 70mm -1.50 -1.25,1,eyewear
+330738,lens nikon fsv 1.59 hcc 70mm -1.50 0.00,1,eyewear
+330739,lens nikon fsv 1.59 hcc 70mm -1.75 -2.00,1,eyewear
+330740,lens nikon fsv 1.59 hcc 70mm -2.50 -1.25,1,eyewear
+330741,lens nikon fsv 1.59 hcc 70mm -3.00 -0.75,1,eyewear
+330742,lens nikon fsv 1.59 hcc 70mm -3.50 -0.25,1,eyewear
+330743,lens nikon fsv 1.59 hcc 70mm 0.00 -1.25,1,eyewear
+330744,lens nikon fsv 1.59 hcc gp 4/2,1,eyewear
+330745,lens nikon fsv 1.60 hcc 70mm -3.00 -2.00,1,eyewear
+330746,lens nikon fsv 1.60 hcc 70mm -3.75 -2.00,1,eyewear
+330747,lens nikon fsv 1.60 hcc gp 2/2,1,eyewear
+330748,lens nikon sv lite 1.60 hcc 65mm +4.00 +0.75,1,eyewear
+330749,lens normal,1,eyewear
+330750,lens normal 10/20,1,eyewear
+330751,lens normal 10/25,1,eyewear
+330752,lens plastic,1,eyewear
+330753,lens plastic 1.56 asp blue cut 70mm +1.50 -3.25,1,eyewear
+330754,lens plastic 1.56 asp synchrony silkcoat 65mm +0.25 -1.00,1,eyewear
+330755,lens plastic 1.56 asp synchrony silkcoat gray 70mm 0.00 -0.50,1,eyewear
+330756,lens plastic 1.56 poly carbonate multi caot 65mm +1.50 0.00,1,eyewear
+330757,lens plastic 1.56 poly carbonate multi caot 65mm +2.50 +0.25,1,eyewear
+330758,lens plastic 1.56 poly carbonate multi caot 65mm +2.50 +0.50,1,eyewear
+330759,lens plastic 1.56 poly carbonate multi caot 70mm -0.25 -0.50,1,eyewear
+330760,lens plastic 1.56 poly carbonate multi caot 70mm -0.50 -0.50,1,eyewear
+330761,lens plastic 1.56 poly carbonate multi caot 70mm -0.75 -0.50,1,eyewear
+330762,lens plastic 1.56 poly carbonate multi caot 70mm -1.00 -1.75,1,eyewear
+330763,lens plastic 1.56 poly carbonate multi caot 70mm -2.00 0.00,1,eyewear
+330764,lens plastic 1.56 poly carbonate multi caot 70mm -2.25 -0.25,1,eyewear
+330765,lens plastic 1.56 poly carbonate multi caot 70mm 0.00 -0.50,1,eyewear
+330766,lens plastic 1.60 h.i transparent 55mm +1.00 0.00,1,eyewear
+330767,lens plastic 1.60 h.i transparent 65mm +4.50 +3.50,1,eyewear
+330768,lens plastic 1.60 h.i transparent 70mm -3.25 -0.50,1,eyewear
+330769,lens plastic 1.60 h.i transparent multi coat 55mm +2.50 -3.50,1,eyewear
+330770,lens plastic 1.60 h.i transparent multi coat 55mm +5.50 +0.75,1,eyewear
+330771,lens plastic 1.60 h.i transparent multi coat 55mm +6.50 +1.00,1,eyewear
+330772,lens plastic 1.60 h.i transparent multi coat 60mm +1.75 +3.25,1,eyewear
+330773,lens plastic 1.60 h.i transparent multi coat 65mm,1,eyewear

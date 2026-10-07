@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+494463,"repair, flexor tendon, leg; primary, without graft, each tendon",1,procedure
+494464,"repair, laceration 2.5 cm/<; mouth floor, &/or anterior two-thirds, tongue",1,procedure
+494465,"repair, laceration 2.5 cm/<; suturing - large area",1,procedure
+494466,"repair, laceration, application, tissue glue, wounds, cornea &/or sclera",1,procedure
+494467,"repair, other aneurysm",1,procedure
+494468,"repair, other blood vessel",1,lab_test
+494469,"repair, primary, open or percutaneous, ruptured achilles tendon",1,procedure
+494470,"repair, primary, open or percutaneous, ruptured achilles tendon;with g",1,procedure
+494473,"repair, pulmonary artery stenosis reconstruction with patch or graft",1,supplies
+494474,"repair, rotator cuff",1,procedure
+494475,"repair, secondary disrupted ligament, ankle, collateral",1,procedure
+494476,"repair, secondary, achilles tendon, w/wo graft",1,procedure
+494477,"repair, secondary, achilles tendon, with or without graft",2,procedure
+494478,"repair, tendon or muscle, extensor, forearm and/or wrist; primary, sin",1,procedure
+494479,"repair, tendon or muscle, flexor, forearm and/or wrist; primary, singl",1,procedure
+494480,"repair, tendon or muscle, flexor, forearm and/or wrist;secondary, with",1,procedure
+494481,"repair, tendon, extensor, foot, primary/secondary, each tendon",1,procedure
+494482,"repair, tendon, extensor, foot;secondary with free graft, each tendon",1,procedure
+494483,"repair, tendon, flexor, foot, primary/secondary, w/o free graft, each tendon",1,procedure
+494484,"repair, umbilical hernia, age 5+, incarcerated/strangulated",1,procedure
+494485,"repair, umbilical hernia, age 5+, reducible",1,procedure
+494486,repair- amputated finger g.a. + x-ray,1,imaging
+494487,"repair- aneurysm-direct-excision &graft insertion-axillary,brachial a",1,procedure
+494488,repair- retinal detachment by photocoagulation! laser,1,procedure
+494489,repair- retinal hole prophylactic laser treatment (lattice degeneration,1,procedure
+494490,repair-blood vessel with/without graft,1,lab_test
+494491,"repair-ear lobule, unilat",1,procedure
+494492,repair-intermed..laceration,1,procedure
+494493,"repair-recurrent dislocation,patella,elbow,shoulder -open",1,procedure
+494494,"repair-simple aneurysm (no stenting,no angioplasty,no thrombolysis)-pkg",1,procedure
+494495,repaire of curclate ligament,1,other
+494496,repaire of laceration involving tendon cut and tendon repaire,1,other
+494497,repaire of penis fracture,1,other
+494498,"repaired tendon achilles, grafting & transfer",1,procedure
+494499,repairing broken base of a partial denture,1,dental
+494500,repairt of soft tissue laciration of nose,1,other
+494501,repair of current obs. laceration of blad. & ureth. - ob/gyn,1,procedure
+494502,"repair of diaphragmatic hernia,abdominal approach - general surgery",1,procedure
+494503,repair of fistula involv. bladder & intestine - general surgery,1,procedure
+494978,reparil20mg tpa,1,other
+495014,repeat caesarian section with baby care,1,procedure
+495015,repeat consultation consultant,2,consultation
+495016,repeat consultation gp,2,consultation
+495017,"repeat i.v. infusion n.b.babie infant, 30min +up",1,supplies
+495018,repeat i.v. infusion of fluids,1,supplies
+495019,repeat i.v. infusion of fluids of children over 5 yrs 30+min,1,supplies
+495020,repeat ins perc endosc ga,1,other
+495021,repeat ins perc endosc gastrostomy tube,2,supplies
+495022,repeat insertion of percutaneous endoscopic gastrostomy [peg] tube,2,supplies
+495023,repeat l s c s as per p,1,lab_test
+495024,repeat l.s.c.s 3rd time pd,1,lab_test
+495025,repeat lsc,1,other
+495026,repeat lscs pd,1,other
+495027,repeated c-section,1,other
+495028,repeated c-section package,1,other
+495029,repeated c.s + baby care,2,lab_test
+495030,repeated c.s after 2nd time with normal baby care,1,lab_test
+495031,repeated c.s with normal baby care,1,lab_test
+495032,repeated c.s+ baby care,1,lab_test
+495033,repeated c.s+baby care,2,lab_test
+495034,repeated c.s,1,lab_test
+495036,repeated c.s. + baby care + circumcission / ear peircing of new born,1,procedure
+495038,repeated c.s. bc,1,lab_test
+495039,repeated c.s. bc + curcumcision/ear pearing,1,lab_test
+495040,repeated c.s. with normal baby care,2,lab_test
+495041,repeated c/s +baby care,1,lab_test
+495042,repeated c/s normal baby care (one baby only,1,supplies
+495043,repeated c/s twins delivery + baby care,1,procedure
+495044,repeated caeesrian sectiom,1,other
+495045,repeated caesarean section,1,other
+495046,repeated caesarean section - shared ( up to 5 days package,1,other
+495047,repeated caesarean section - single ( up to 5 days package,1,other
+495048,repeated caesarian,1,procedure
+495049,repeated caesarian ( with normal baby,2,procedure
+495051,repeated caesarian section + baby care - 5 days,1,procedure
+495052,repeated caesarian section with baby care,1,procedure
+495053,repeated caesarian(with normal baby,1,procedure
+495054,repeated caeserian section,1,other
+495055,repeated caesrrian section,1,other
+495056,repeated casarian section,1,other
+495057,repeated ceasarian section,1,procedure
+495058,repeated cesarian section,1,other
+495059,"repeated cesarian section 2-nd, 3-rd",1,other
+495060,repeated cesarian section->c74.1-c,1,other
+495061,repeated cesarian section-c74.1-c,1,other
+495062,repeated cs + baby care,2,other
+495063,repeated cs +baby care,1,other
+495064,repeated cs+baby care,1,other
+495065,repeated ear dressing for otitis externa (each,1,supplies
+495066,repeated ear dressing for otitis externa each,1,supplies
+495067,repeated ear dressing for otitis external each,1,supplies
+495068,repeated ear packing,1,procedure
+495069,repeated echo (pediatrics,2,imaging
+495070,repeated fetal monitor/day / max,1,other
+495072,repeated lscs,2,other
+495073,repeated lscs + adhesiolysis,1,procedure
+495074,repeated lscs + tubal ligation,1,procedure
+495075,repeated lscs+laproscopy,1,procedure
+495076,repeated ultrasound,1,imaging
+495077,repetative stimulation test,1,lab_test
+495078,repetitive nerve stimulation,2,other
+495079,"repetitive nerve stimulation study, each nerve, any one method",2,supplies
+495080,repetitive neuromuscular conduction stud,1,other
+495081,repetitive neuromuscular conduction studies,1,consultation
+495082,repetitive neuromuscular conduction studies with quantitative computer,1,consultation
+495083,replace aortic valve with mechnical prosthesis,1,supplies
+495084,"replacement - nephrostomy, pyelostomy cyctostomy, ureterostomy tube",1,supplies
+495085,"replacement duodenostomy/ jejunostomy tube, percutaneous under fluoroscopic guidance including contrast injections",1,supplies
+495086,"replacement of gastro jejunostomy tube, percutaneous, under fluoroscopic guidance",1,supplies
+495087,replacement of aortic valve - 7 days pkg,1,other
+495088,replacement of aortic valve with bio prosthesis- 6 days pkg,1,supplies
+495089,replacement of aortic valve with bioprosthesis ( up to 9 days package) 3 icu + 6 ward,1,consultation
+495090,replacement of aortic valve with mechanical prosthesis- 5days & 2days icu pkg,1,supplies
+495091,replacement of cast->c97.13,1,supplies
+495092,replacement of contact lens,1,eyewear
+495093,replacement of gastrostomy tube (including tube price ) (clinic,1,supplies
+495094,replacement of intrauterine device [iud,2,other
+495095,replacement of mitral valve with bioprosthesis-4days & 2days icu pkg,1,consultation
+495096,replacement of mitral valve with mechanical prosthesis-7 days pkg,1,supplies
+495097,replacement of tracheostomy tube,1,supplies
+495098,replacement of ventricular shunt->c02.42,1,procedure
+495099,replacement tube,1,supplies
+495100,"replacement, heart, valve",1,other
+495101,"replacement, hip, partial - 7 days pkg",1,other
+495102,"replacement, hip, total - 7 days pkg",1,other
+495103,"replacement, tissue expander w/ permanent prosthesis",1,supplies
+495104,"replacement, ventricular shunt - 5 days pkg (1 icu + 4 ward",1,procedure
+495105,"replacement,forearm,wrist or hand - 7 days pkg",1,other
+495106,"replacement,shoulder,partial - 7 days pkg",1,other
+495107,replacement/insertion of skull plate->c02.05,1,supplies
+495108,replacing missing retainer or headgear,1,other
+495109,replacing/adding clasp to denture per clasp,2,dental
+495110,replacing/adding new tooth on denture per tooth,3,dental
+495111,replacment of cast,1,supplies
+495112,replantation and splinting of a tooth per tooth,1,dental
+495113,replantation of one digit (microvascular,1,supplies
+495114,reply/re0238/753/52/f,1,other
+495115,reply/re0245/772/52/f,1,other
+495116,reply/re0264/449/f,1,other
+495117,reply/re0278/e93/f,1,other
+495118,reply/re0306/644/52/f,1,other
+495119,reply/re0306/ob5/f,1,other
+495120,reply/re0309/202/50/f,1,other
+495121,reply/re0309/obr/52/f,1,other
+495122,reply/re0311/b68/f,1,other
+495123,reply/re0312/731/54/f,1,other
+495124,reply/re0336/026/f,1,other
+495125,reply/re0337/013/f,1,other
+495126,reply/re0341/66/49/f,1,other
+495127,reply/re0342/17/51 /f,1,other
+495128,reply/re0368/014/f,1,other
+495129,reply/re0369/002/f,1,other
+495130,reply/re0373/012/f,1,other
+495131,reply/re0373/045/f,1,other
+495132,reply/re0380/014/f,1,other
+495133,reply/re0380/016/f,1,other
+495134,reply/re0380/048/f,1,other
+495135,reply/re0381/045/f,1,other
+495136,reply/re0595/k94/52/f,1,other
+495137,reply/re0595/p36/52/f,1,other
+495138,reply/re0651/t08/f,1,other
+495139,report of ecg,2,diagnostic
+495140,report - detailed english,1,other
+495141,report on mri/ct done outside,1,imaging
+495142,report radiology consultation,1,consultation
+495143,report-chem csf,1,other
+495144,report-chem pleu.f,1,other
+495145,report-hem csf,1,other
+495146,reporter,1,other
+495147,reporting for outside ct/mri/x-ray,1,imaging
+495148,reposition of iol,1,supplies
+495149,reposition of lasik flap +/- cleaning/dr. mohanna al jindan,1,procedure
+495150,reposition of the iris(single,1,other
+495151,repositioning for vertigo,1,other
+495152,repositioning maneuver,1,diagnostic
+495153,repositioning maneuver for vertigo,1,diagnostic
+495154,repositioning manuever,1,other
+495155,repositioning of iol (releasing iris capture,1,supplies
+495156,repositioning of iol (releasing iris capture) (one eye)/dr. 01 adel rushood,1,supplies
+495157,repositioning of iol (releasing iris capture) (one eye)/dr. mohanna al jindan,1,supplies
+495158,repositioning of iol (releasing iris capture) (one eye)/dr. z adel or,1,supplies
+495159,"repr cleft lip/palate, majc",1,inpatient
+495160,"repr cleft lip/palate, minc",1,inpatient
+495161,repr lumbar/thoracic meningocele,1,other
+495164,repr. rupturd/injurd intestine,1,other
+495165,repr.soft tissue injury-face(maj,1,other
+495166,reprint of ct films,1,imaging
+495167,reproductive endocrinology and surgery follow-up,1,procedure
+495168,reproductive endocrinology and surgery new follow-up,1,procedure
+495169,reprograming of permanet pacemaker,1,supplies
+495170,reprogramming of spinal cord,1,other
+495176,resbed 5,1,other
+495184,rescucitation,1,other
+495185,resect.of exterior.segm.of small intest.(strangul.->c46.02,1,other
+495186,resection & anastomosis of bowel,1,procedure
+495187,resection & anastomosis of bowel - pkg 5 days,1,procedure
+495188,resection & anastomosis or reimplantation of ureter,1,procedure
+495189,resection anastomosis bowel,1,procedure
+495190,resection anastomosis for inte,1,procedure
+495191,resection anastomosis of bowel,3,procedure
+495192,resection anatomosis of bowel,1,procedure
+495193,resection anatomosis of boweltcs,1,procedure
+495194,resection and anastomosis of bowel,1,procedure
+495195,resection and anastomosis or reimplantation of urether,2,procedure
+495196,resection and anastomosis- surgical,1,procedure
+495197,resection and reconstruction of distal/ mid/ proximal femur (tumor prosthesis) (with material cost) unilateral,1,supplies
+495198,resection ansatomosis of bowel,1,procedure
+495199,resection distal end clavicle,1,procedure
+495200,resection ext. haemorrhoidal thrombosis,1,procedure
+495201,resection of abdominal extraprotenal - 4days pkg,1,procedure
+495202,resection of abdominal wall mass or tumour,1,procedure
+495203,resection of bone or benign tumor with or without grafting,1,imaging
+495204,resection of concha bullosa,1,procedure
+495205,resection of coracoacromialis ligament,1,procedure
+495206,resection of exterior segment of small intestine(strangular,1,procedure
+495207,resection of exteriorized segment of large intesti->c46.04,1,procedure
+495208,resection of huge abdominal mass,1,procedure
+495209,resection of injured small bowel,1,procedure
+495210,resection of large malignant bone tumor + use of prosthesis + histopathology - 9 days pkg (2 icu + 7 ward,1,imaging
+495211,resection of large soft tissue tumor and soft reconstruction + histopathology + frozen section - 8 days pkg (1 icu + 7 ward,1,lab_test
+495212,resection of lateral clavicle and acromion clavicle reconstruction (2 days)-pkg,1,procedure
+495213,resection of liver - trisegmental (extended,1,procedure
+495214,resection of liver-hepatic lobec/segmntm,1,procedure
+495215,resection of mandibular residual tumor and ao plating-4days + 1day icu pkg,1,procedure
+495216,resection of meckles diverticulum,1,procedure
+495217,resection of sinus,1,procedure
+495218,resection of small intestine with anastomosis,2,procedure
+495219,resection of small intestine with anastomosis ( up to 7 days package,1,procedure
+495220,resection of soft tissue neoplasm (large) - 1day pkg,1,procedure
+495221,resection of spinal cord soft tissue tomour,1,procedure
+495222,resection of strangulated hernia,1,procedure
+495223,resection of submandibular gland,1,procedure
+495224,resection of subraortic membrane - 3days icu & 4days pkg,1,procedure
+495225,resection of transverse colon,1,procedure
+495226,resection of uretheral tumors,1,procedure
+495227,resection or excision of pilonidal sinus,1,procedure
+495228,resection&anastom.small intest,1,procedure
+495229,"resection, ovarian malignancy w/ bso, omentectomy",1,procedure
+495230,"resection, segmental, lung",1,procedure
+495231,"resection,aneurysm,other arteries -w/o graft- (p.d",1,procedure
+495232,"resection-anastomosis of cervical trachea stenosis ( 7 days ward, first day icu",1,imaging
+495233,resection/enucleation of mandibular lesion without chargable material,1,procedure
+495234,"resection/transplantation, long tendon, biceps",1,procedure
+495235,"resector, full radius, sterling, 2.9mm,conmed, c9944a",1,supplies
+495236,resectoscopy with biopsy package,1,procedure
+495248,resemed cpap mask f30 full face med,1,supplies
+495253,reservoir bag 1 ltr. (2810,1,other
+495260,resident (gp,1,consultation
+495261,resident orthopedic consultation,1,consultation
+495262,resilia,3,other
+495370,resilient lining,2,other
+495371,resin - based composite - four or more surface,1,dental
+495372,"resin - based composite - four or more surfaces, posterior",1,dental
+495373,resin - based composite - three furface,1,dental
+495374,"resin - based composite - three surface, anterior",1,dental
+495375,resin -based composite - two furface,1,dental
+495376,resin -based composite-one surface,1,dental
+495377,resin based composite,1,dental
+495378,resin flipper - repla. 6 teeth or more,1,dental
+495379,resin or composite filling (3 surfaces,1,dental
+495380,resin-based composite - 1 surface,1,dental
+495381,resin-based composite - four or more surfaces or involving incisal angle (anterior,1,dental
+495382,"resin-based composite - four or more surfaces, posterior",7,dental
+495383,resin-based composite - one surface anterior,4,dental
+495385,"resin-based composite - one surface, anterior",5,dental
+495386,"resin-based composite - one surface, posterior",6,dental
+495387,"resin-based composite - three surfaces, anterior",6,dental
+495388,"resin-based composite - three surfaces, posterior",7,dental
+495389,"resin-based composite - two surfaces, anterior",6,dental
+495390,"resin-based composite - two surfaces, posterior",6,dental
+495391,resin-based composite four surface,1,dental
+495393,resin-based composite-one surfaceanterior,1,dental
+495394,resin-based composite-one surfaceposterior,1,dental
+495395,resin-based composite-three surfacesanterior,1,dental
+495396,resin-based composite-three surfacesposterior,1,dental
+495397,resin-based composite-two surfacesanterior,1,dental
+495398,resin-based composite-two surfacesposterior,1,dental
+495399,resin-based- composite-three surfaceposterior,1,dental
+495400,resin-based- composite-three surfaceanterior,1,dental
+495401,resin-based- composite-two surfaceposterior,1,dental
+495402,resin-based- composite-two surfaceanterior,1,dental
+495403,resin-five surf post perm,1,other
+495404,resin-four surf inv incisal,1,other
+495405,resin-four surf post perm,1,other
+495406,resin-one post perm,1,supplies
+495407,resin-one surf anterior restoration,1,dental
+495408,resin-one surf post primary,1,supplies
+495409,"resin-one surface,posterior",1,supplies
+495410,resin-three surf anterior rest,1,other
+495411,resin-three surf post perm,1,other
+495412,"resin-three surface,posterior",1,other
+495413,resin-two surf anterior restor,1,other
+495414,resin-two surf post perm,1,other
+495415,resin-two surf post primary,1,other
+495416,resin/composite filling (2 surfaces,1,dental
+495417,"resin/composite filling, one surface, anterior",1,dental
+495418,"resin/composite filling, one surface, posterior",1,dental
+495423,resmed aircurve10 v-auto bipap,1,other
+495424,resmed airfit f20 med sys,1,other
+495425,resmed airfit f30 med mask,1,supplies
+495426,resmed airfit p10 mask,1,supplies
+495427,resmed airsense 10 elite basic cipap,1,other
+495428,resmed airsense10 autoset auto cpap,1,supplies
+495429,resmed astral 150 portable ventilator,1,supplies
+495430,resmed bipap aircurve 10auto edn,1,other
+495431,resmed bipap auto w/ mask free (37267,1,supplies
+495432,resmed cpap auto w/ mask free (37266,1,supplies
+495433,resmed hosp face mask large 60,1,supplies
+495434,resmed hosp face mask med 6070,1,supplies
+495435,resmed lumis 150 vpap st machine apac1 t,1,supplies
+495436,resmed nv ffm mask large,1,supplies
+495437,resmed nv ffm mask med,1,supplies
+495466,resolute onyx stent open sizes,1,supplies
+495467,resolution 360 clip 235cm cat # 2123,1,supplies
+495468,resolution clipping devise 235cm - per pcs,1,other
+495469,resolve drainage catheter fr8.0 (2.85mm) x 30cm pigtai,1,supplies
+495473,resolve plus 1% cr,1,other
+495492,resolve plus 1.0,1,other
+495513,resolve plus 1.0cream,1,other
+495536,resource dbtc vanilla 24x237ml,1,nutrition
+495538,resource diabetic *24,1,other
+495544,resource diabetic milk,1,nutrition
+495556,resource fruit beverage(wild berry/peach)24's,1,other
+495564,resource liquid,1,other
+495565,resource optimum vanilla flavour 24x200 ml,1,nutrition
+495566,resource optimum vanilla flavour 4x200 ml,1,nutrition
+495579,resource thickenup 8oz,1,other
+495711,resp medication administered nebuliser,13,supplies
+495712,resp panel,1,lab_test
+495713,resp probs from neonatl period,1,other
+495714,"resp signs and symptoms, majc",1,inpatient
+495715,"resp signs and symptoms, minc",1,inpatient
+495716,"resp signs & symptoms, majc",1,inpatient
+495717,"resp signs & symptoms, minc",1,inpatient
+495720,"resp sys dis,non-inv vent,majc",1,inpatient
+495721,"resp sys dis,non-inv vent,minc",1,inpatient
+495722,resp%20medication%20administered%20nebuliser%20(home%20care)%09,1,other
+495723,resp. exerciser incentive deep breathing,1,other
+495724,resp. viral screen,1,other
+495725,resp.tech. for split study sleep test,1,lab_test
+495761,resped,1,other
+495762,resped 5,1,other
+495766,"respir infectn/inflamm, majc",1,inpatient
+495767,"respir infectn/inflamm, minc",1,inpatient
+495771,respira aurohaler 125 micrograms,1,other
+495772,respira aurohaler 250 120m.actuations,1,other
+495773,respira aurohaler 250 micrograms,1,other
+495775,respira aurohelar 250/25 micro gm x 120 puff,1,other
+495777,respira aurohaler 25 250,1,other
+495778,respira aurohaler 25/125,2,other
+495780,respira aurohaler 25/250,1,other
+495781,respira aurohaler 25/250 120 df,1,other
+495783,respira aurohaler 25/50,1,other
+495784,respira diskair 50/100,2,other
+495786,"respira diskair 50/100 50, 100 micro g 60df buf",1,other
+495787,respira diskair 50/250,1,other
+495790,respira diskair 50/500,1,other
+495792,respiraroty test,1,lab_test
+495793,respiration monitor for 24hrs,1,other
+495794,respirator hour,1,other
+495795,respirator per day,1,other
+495796,respirator/day,1,other
+495797,respiratory assessment,1,consultation
+495798,respiratory assessment follow up,1,consultation
+495799,respiratory associated infection panel (viral,2,lab_test
+495800,"respiratory associated infection panel ,vtm swab",1,lab_test
+495801,respiratory associated infection panel - pcr,2,lab_test
+495802,respiratory care session,1,physiotherapy
+495803,"respiratory care system, infant,dispo,fisher&paykel,rt225",1,other
+495804,respiratory consumable equip set-up package,1,other
+495805,"respiratory exerciser, incentive deep breathing",1,other
+495806,respiratory face mask kn95,1,supplies
+495807,respiratory flow volume loop,1,other
+495808,respiratory infection panel 23,1,lab_test
+495809,respiratory infection panel multiplex pcr,1,lab_test
+495810,respiratory infections panel (viral-bacterial) by pcr,1,lab_test
+495811,"respiratory infectious panel, limited , rt-pcr (covid 19, influenza a,b",1,lab_test
+495812,"respiratory infectious panel, limited ,rt-pcr , fast track (covid 19, influenza a,b",1,lab_test
+495813,respiratory insufficiency peds follow-up,1,consultation
+495814,respiratory managment,1,other
+495815,respiratory mask n-95 #1860 3m,1,supplies
+495818,respiratory medication administered by nebuliser 1 sission,1,supplies
+495821,respiratory medication administered by nebulizer,3,supplies
+495822,respiratory medication adminstrated by nebulizer,1,supplies
+495823,respiratory monitor,1,other
+495824,respiratory motion management simulation,1,other
+495825,respiratory nabulyser,1,other
+495826,"respiratory neoplasms, majc",1,inpatient
+495827,"respiratory neoplasms, minc",1,inpatient
+495828,respiratory panel by multiplex pcr,1,lab_test
+495829,respiratory panel by pcr,1,lab_test
+495830,respiratory panel multiplex pcr (bacterial and viral) in-house,1,lab_test
+495831,respiratory panel multplex pcr,1,lab_test
+495832,respiratory pathogen panel pcr,1,lab_test
+495833,"respiratory pathogen panel, pcr",1,lab_test
+495834,respiratory set-up bag,1,other
+495835,respiratory solutin,1,other
+495836,respiratory srvases in critical area (gosi,1,other
+495837,respiratory swab,1,lab_test
+495838,respiratory syn. v,1,other
+495839,respiratory syncitial antibodi d,1,other
+495840,respiratory syncitial virus (rsv) abs,1,lab_test
+495841,"respiratory syncitial virus, igg",1,lab_test
+495842,respiratory syncitical ag,1,lab_test
+495843,respiratory synctial virus abs,3,lab_test
+495844,respiratory synctial virus abs frozen serum,1,lab_test
+495846,"respiratory syncytal virus, direct",1,other
+495847,respiratory syncytial virus,2,other
+495848,respiratory syncytial virus (rsv,3,other
+495850,"respiratory syncytial virus ,direct (rsv) abs",1,lab_test
+495851,respiratory syncytial virus / rsv (s,1,other
+495852,respiratory syncytial virus / rsv abs serum ( so,1,lab_test
+495853,respiratory syncytial virus a/b,1,other
+495854,respiratory syncytial virus abs,2,lab_test
+495855,respiratory syncytial virus abs ( rsv )( synctical syncitial,1,lab_test
+495856,respiratory syncytial virus abs (rsv,1,lab_test
+495858,respiratory syncytial virus antigen (rsv,1,lab_test
+495859,respiratory syncytial virus culture (virology,1,lab_test
+495860,respiratory syncytial virus rsv,2,other
+495861,respiratory syncytial virus screen,2,other
+495862,respiratory syncytial virus test (poct) - point of care,1,lab_test
+495863,respiratory syncytial virus test(rsv,1,lab_test
+495864,respiratory syncytial virus/rsv (s,2,other
+495866,respiratory therapist stat ( 15 min,1,other
+495867,respiratory therapist time / 30 min,1,other
+495868,respiratory therapy,2,physiotherapy
+495869,respiratory therapy (hourly p/d,1,physiotherapy
+495870,respiratory therapy (rt)-inpatients,1,physiotherapy
+495871,respiratory therapy by ventilator / day,1,physiotherapy
+495872,respiratory therapy fee,1,physiotherapy
+495873,respiratory therapy session (in the clinic,1,physiotherapy
+495874,respiratory therapy session (in the ward,1,physiotherapy
+495876,respiratory tuberculosis,1,other
+495877,respiratory viral multiplex pcr,1,lab_test
+495878,respiratory viral panel,1,lab_test
+495879,respiratory viral panel (pcr,1,lab_test
+495880,respiratory viral panel by pcr,1,lab_test
+495881,respiratory/meningitis multiplex pcr,1,lab_test
+495883,respred 15,1,other
+495978,respred 5,1,other
+496098,respred15,1,other
+496100,respred5g/5lyrup,1,other
+496101,ressection of cyst,1,other
+496103,rest 2 view,1,imaging
+496104,rest 2 views,2,imaging
+496105,rest ecg 1,1,diagnostic
+496107,rest time cranberry 10tab,1,other
+496115,rest time lactoferrin 30's,1,other
+496118,rest time multivitamin 30tab,1,other
+496120,rest time omeg-3 fish oil,1,lab_test
+496122,rest time omega3 30cap,1,other
+496133,restasis 0.05% ed (minims) 30s,1,other
+496147,restasis ed,1,other
+496160,restasiss,1,other
+496162,resternotomy,2,procedure
+496164,resting ecg,1,diagnostic
+496165,resting ecg with report,4,diagnostic
+496166,resto - 23305,1,other
+496167,resto-composite complex,1,dental
+496168,resto-composite complex w/post & core,1,dental
+496169,resto-composite simple,1,dental
+496170,restoration (class 2 -mod,1,dental
+496171,restoration (class 2- big,1,dental
+496172,restoration (class1- small,1,dental
+496173,restoration adm/mdm x3 insert 46f 1236-2-852,1,dental
+496174,restoration amalgam,1,dental
+496175,restoration amalgam restoration,2,dental
+496176,restoration composite,1,dental
+496177,restoration composite face,1,dental
+496178,restoration composite restoration,1,dental
+496179,restoration composite restoration one surface,1,dental
+496180,restoration composite restoration three surfaces,1,dental
+496181,restoration composite restoration two surfaces,1,dental
+496182,restoration glass ionomer restoration light cured,1,dental
+496183,restoration of an incisal corner per corner,1,dental
+496184,restoration of bowel continuity after hartmanns procedure,1,dental
+496185,"restoration of incisal corner of anterior tooth, per corner",1,dental
+496186,restoration teeth,1,dental
+496187,restoration temporary restoration,1,dental
+496188,restoration wd amalgam pins,1,dental
+496189,restrain limb holder,1,supplies
+496190,restraining strap disposable - per each,1,supplies
+496191,restraint limb soft,1,other
+496192,restraints limb holder foam with strap pair sterile disposable,1,supplies
+496193,restrints,1,other
+496194,resucitation room fee,1,consultation
+496195,resus kit single use w/mask 50mm fisher paykel #900rd015-10,1,supplies
+496196,resus kit single use w/out mask 50mm fisher & paykel #900rd0-10,1,supplies
+496197,resuscitation - c.p.r,1,procedure
+496198,resuscitation area monitoring (under er,1,procedure
+496199,resuscitation kit neopuff (adj t piece & 50mm mask) disposable fisher & paykel 900rd015-10,1,supplies
+496200,resuscitation kit single use w/mask 42mm fisher paykel #900rd014-10,1,supplies
+496201,resuscitation room (cpr\ code blue,1,procedure
+496202,resuscitation room per hour,1,procedure
+496203,resuscitation room/ hr,1,procedure
+496204,resuscitation= code blue resussitation,1,procedure
+496205,resuscitator silicone infant with oxygen (o2) reservoir sterile reusable,1,supplies
+496206,resuscitator silicone pediatric with oxygen (o2) reservoir and masks sterile disposable,1,supplies
+496207,resussitation mechanical ventilation in er,1,other
+496208,resuture of abdominal wound evisceration,1,other

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+569733,thumb / finger / toe ( one view,1,supplies
+569734,thumb / finger / toe ( two view,3,imaging
+569736,thumb / finger / toe flouroscopy,1,procedure
+569737,thumb / fingers ap / lat,1,imaging
+569738,thumb 2 v,1,other
+569739,thumb 2 view,2,imaging
+569740,thumb 2v,1,imaging
+569741,thumb 2v x-ray,1,imaging
+569742,thumb ??finger ??ap / lat ??/ ??oblique,1,imaging
+569743,thumb a / l(left) ????,1,other
+569744,thumb and finger orthosis,1,supplies
+569745,thumb ap & lat,2,imaging
+569746,thumb ap & ob,1,imaging
+569748,thumb ap / lat / oblique,1,imaging
+569749,thumb ap lat,1,imaging
+569750,thumb ap lat (2v,1,imaging
+569751,thumb ap. lat & ob,1,imaging
+569752,thumb b/v,3,other
+569753,thumb b/v (s,1,other
+569754,thumb b/v left,1,other
+569755,thumb b/v right,1,other
+569756,thumb b/v-x-ray,1,imaging
+569757,thumb brace,1,supplies
+569758,thumb brace (l,1,supplies
+569759,thumb brace (m) hd005,1,supplies
+569760,thumb brace (s) hd005,1,supplies
+569764,thumb finger ap / lat. / oblique,1,imaging
+569765,thumb finger ap /lat /oblique,1,imaging
+569766,thumb finger ap lat oblique,1,imaging
+569767,thumb finger ap/lat/oblique,1,imaging
+569768,thumb or fingers (two views,1,imaging
+569769,thumb pa/lat,1,imaging
+569770,thumb reconstruction- 1day pkg,1,procedure
+569771,thumb spica,1,other
+569772,thumb spica rt (l,1,other
+569773,thumb spica (fibre,1,other
+569774,thumb spica - large (scotch,1,other
+569776,thumb spica cast synthetic,3,supplies
+569777,thumb spica large right,1,other
+569778,thumb spica lt (s,1,other
+569779,thumb spica rt (m,1,other
+569780,thumb spica splint,1,supplies
+569781,thumb spica splint(dyna,1,supplies
+569782,thumb spica splint(dyna) univesal,1,supplies
+569783,"thumb spica splint, custom",1,supplies
+569784,thumb spica-(large scotch,1,other
+569785,thumb spica-(medium scotch,1,other
+569786,thumb spica-(small scotch,1,other
+569787,thumb spica-gipsona,1,other
+569788,"thumb splint air soft, short right medium, blue color, (deroyal) # 313cr",1,eyewear
+569789,"thumb splint air soft, short right, large, blue color, (deroyal) # 313dr",1,eyewear
+569790,"thumb splint air soft, short right, small, blue color, (deroyal) # 313br",1,eyewear
+569791,thumb stabilize l-xl,1,other
+569792,"thumb stabilizer ""all sizes"" (ortho",1,other
+569793,thumb stabilizer (uni size) (ortho) (iming) ^^,1,other
+569794,thumb stabilizer futuro (l/xl,1,supplies
+569795,thumb stabilizer futuro (s/m,1,supplies
+569796,thumb stabilizer l-xl 51,1,other
+569797,thumb stabilizer s-m 45843en,1,other
+569798,thumb staibilizer black,1,other
+569799,thumb support,2,supplies
+569800,thumb support l,1,supplies
+569801,"thumb support w/ splint, large",1,supplies
+569802,"thumb support w/ splint, medium",1,supplies
+569803,"thumb support w/ splint, small",1,supplies
+569804,"thumb support w/ splint, xl",1,supplies
+569805,thumb support xl,1,supplies
+569806,thumb with wrist splint,1,supplies
+569807,thumb wrap left large #082-211dl,1,other
+569808,thumb wrap right large #082-211dr,1,other
+569809,thumb wrap right medium #082-211cr,1,other
+569810,thumb wrist splint,1,supplies
+569811,thumb wrist splint #53160 conwel,1,supplies
+569812,thumb wrist splint (mafsal,1,supplies
+569813,thumb x-ray 2 view,1,imaging
+569814,thumb xray,1,imaging
+569815,thumb \ fingers,1,other
+569816,thumb(2 views,1,imaging
+569817,thumb-3 views (ap/lat/obl,1,imaging
+569818,thumb-b/v,1,other
+569819,thumb/finger (two views,1,imaging
+569820,thumb/finger support,1,supplies
+569821,thumb/fingers /toe one view,2,supplies
+569822,thumb/fingers ap/lat,2,imaging
+569823,thumb/fingers ap/lat/oblique,1,imaging
+569824,thump / fingers ap / lat,2,imaging
+569826,thuvenoflexfastsockswomen2036mmhg[unthu145,1,other
+569827,thuvenoflexincogsecretsocks1520mmhg[unthu138,1,other
+569828,thyc (mec,1,other
+569835,thyoid stimulating horone (tsh,1,lab_test
+569836,thypoid antibody,1,lab_test
+569837,thyr. stimulatin hormon,1,other
+569838,thyreoglobulin,1,other
+569839,thyreoglobulin abs,1,lab_test
+569840,thyreoglobulin abs @ (s,1,lab_test
+569841,thyreoglobulin s -(send-out tests,1,lab_test
+569842,thyriod microsomal ab,1,lab_test
+569843,thyriod thyroglobulin abs,1,lab_test
+569844,thyriod u s,1,imaging
+569846,thyro-glossal cyst excision,1,procedure
+569847,thyro-glossal fistula excision,1,procedure
+569848,thyrod panel,1,lab_test
+569854,thyroglobin anti body(anti tpo,1,other
+569855,thyroglobulene anti bodies,1,other
+569856,thyroglobulin,3,lab_test
+569857,thyroglobulin (quantitative,1,lab_test
+569858,thyroglobulin -(send out tests (nbc,1,lab_test
+569859,thyroglobulin serum,1,lab_test
+569860,thyroglobulin (immunohistochemistry,1,lab_test
+569861,thyroglobulin (s,1,lab_test
+569862,thyroglobulin (s) @,1,lab_test
+569863,thyroglobulin ab,3,lab_test
+569866,thyroglobulin abs (anti thyrog,1,lab_test
+569869,thyroglobulin abs serum,1,lab_test
+569870,thyroglobulin antibo,1,lab_test
+569871,thyroglobulin antibodies,2,lab_test
+569872,thyroglobulin antibodies so,1,lab_test
+569873,thyroglobulin antibody,2,lab_test
+569874,thyroglobulin antibody (tgab,1,lab_test
+569875,thyroglobulin antibody - serum,1,lab_test
+569876,thyroglobulin antibody - serum-5-6-120272,1,lab_test
+569877,thyroglobulin antibody serum,1,lab_test
+569878,thyroglobulin antibody/ thyroid antibody,1,lab_test
+569879,"thyroglobulin ab,s",1,lab_test
+569882,thyroglobulin immunohistochemistry,1,lab_test
+569883,thyroglobulin level,3,lab_test
+569884,thyroglobulin protein (antigen,1,lab_test
+569885,thyroglobulin quantitative,2,lab_test
+569886,thyroglobulin%20abs%20(anti%20thyroglobulin,1,lab_test
+569887,"thyroglobulin,abs",1,lab_test
+569888,thyroglossa cyst or fistual,1,other
+569889,thyroglossal cyst,3,other
+569890,thyroglossal cyst excision,1,procedure
+569891,thyroglossal cyst excision - 1day pkg,1,procedure
+569892,thyroglossal cyst fistula - 3 days pkg,1,other
+569893,thyroglossal cyst or fistual,1,other
+569894,thyroglossal cyst or fistula,2,other
+569896,thyroglossal cystectomy,1,procedure
+569897,thyroglossal dyuct/cyst excision,1,procedure
+569898,thyroglossal procedures,2,other
+569899,thyroglussal cyst excision(pkg,1,procedure
+569900,thyroid,2,other
+569901,thyroid function profile,3,lab_test
+569903,thyroid u / s,2,imaging
+569906,thyroid & neck doppler,2,imaging
+569907,thyroid & neck vessels doppler,2,imaging
+569909,thyroid & parathyroid sonography,1,lab_test
+569910,thyroid + doppler,1,imaging
+569911,thyroid - hormons/ 3 types,1,other
+569912,thyroid . us,1,imaging
+569913,thyroid ab(a.tpo.+ a.thyro,1,lab_test
+569914,thyroid ab(micro.+ thyro,1,lab_test
+569915,thyroid abs,3,lab_test
+569916,thyroid abs (anti-tg and anti-tpo,1,lab_test
+569917,"thyroid abs (thyroglubin abs, anti-tpo",1,lab_test
+569918,thyroid abs. microsomal,2,lab_test
+569919,thyroid and neck vessel doppler*4d,1,imaging
+569920,thyroid antibodies,2,lab_test
+569921,thyroid antibodies - 030-20901,1,lab_test
+569922,thyroid antibody,2,lab_test
+569923,"thyroid antibody , anti tpo",1,lab_test
+569924,thyroid antibody - serum,1,lab_test
+569925,thyroid antibody - serum-5-6-120238,1,lab_test
+569926,thyroid antibody serum,1,lab_test
+569927,thyroid antibody profile(anti tsh receptor-anti peroxidase-anti thyroglobulin,1,lab_test
+569928,thyroid antibody(520058,1,lab_test
+569929,thyroid antibodythyroid antibody,1,lab_test
+569930,thyroid autoantibodies pkg (tpo + thyroglobulin) - s.o,1,lab_test
+569931,thyroid binding globulin,1,other
+569932,thyroid binding globulin (tbg,1,other
+569933,thyroid cancer (ablative dose,2,other
+569934,thyroid cancer follow-up,1,consultation
+569935,thyroid cancer new follow-up,1,consultation
+569936,thyroid cancer new patient,1,other
+569937,thyroid cancer radio active iodine treatment,1,other
+569938,thyroid carcinoma metastases imaging whole body (1-131) dd,1,other
+569939,thyroid colloid abs,1,lab_test
+569940,thyroid ct scan with contrast,1,imaging
+569941,thyroid cyst enucleation,1,other
+569942,thyroid fine needle aspiration,1,supplies
+569943,thyroid fine needle aspiration cytology,1,lab_test
+569944,thyroid function (tsh+ft3+ft4,1,lab_test
+569945,thyroid function a & b profile,1,lab_test
+569948,thyroid function profile (3test,2,lab_test
+569949,thyroid function test,3,lab_test
+569950,thyroid function test ( tft,1,lab_test
+569951,thyroid function test (tsh,1,lab_test
+569952,"thyroid function test -thyroid profile (tsh,t3,t4",1,lab_test
+569953,thyroid function test. profile 10,1,lab_test
+569954,thyroid function tests -profile,1,lab_test
+569955,thyroid function tests profile,1,lab_test
+569956,thyroid function total,1,lab_test
+569957,thyroid functions,1,other
+569958,thyroid gland,3,other
+569959,thyroid gland hormones,2,other
+569960,thyroid gland u s,1,imaging
+569961,thyroid gland u.s,1,imaging
+569962,thyroid gland u/s,6,imaging
+569963,thyroid gland ultrasound,3,imaging
+569964,thyroid gland ultrasound (306,1,imaging
+569966,thyroid gland(03063,1,other
+569967,thyroid gland*4d,1,other
+569968,thyroid hormon free t4,2,lab_test
+569970,thyroid hormon tsh,1,lab_test
+569971,thyroid hormone binding evaluation,2,lab_test
+569972,"thyroid hormone, rt3 measurement",2,lab_test
+569973,"thyroid hormone, t3 (ria) measurement",2,lab_test
+569975,thyroid hormones,1,other
+569976,thyroid hormones ( t4 + t3 + tsh,1,lab_test
+569977,"thyroid hormones package (tsh, ft3, ft4) - pkg",1,lab_test
+569978,thyroid hormones-thyroid hormones,1,other
+569979,thyroid hormonfree t3,2,lab_test
+569981,thyroid imaging,1,other
+569982,thyroid imaging only,1,other
+569983,thyroid imaging with uptake multiple determination,1,other
+569984,thyroid imaging with vascular flow + us,1,imaging
+569985,thyroid imaging with vascular flow+ u/s,1,imaging
+569986,thyroid imaging with vascular flow+ ultrasound,1,imaging
+569987,thyroid imaging with vascular low +us,1,imaging
+569988,"thyroid imaging, w/ uptake; multiple determinations-1311",1,other
+569989,thyroid lobectomy,1,procedure
+569990,thyroid lobectomy (vats) minor,1,procedure
+569991,thyroid lobectomy + isthmusectomy,1,procedure
+569992,thyroid lobectomy and isthmectomy (retrosternal thyroid lobe) suture - less without median sternotomy - 3 days pkg,1,supplies
+569993,thyroid lobectomy and isthmectomy suture - less - 3 days pkg,1,supplies
+569994,thyroid lobectomy suture-less -3 days pkg,1,supplies
+569995,thyroid micro somd anti body,1,other
+569996,thyroid microsomal ab,2,lab_test
+569997,thyroid microsomal abs,3,lab_test
+569998,thyroid microsomal abs (anti tpo,1,lab_test
+569999,thyroid microsomal abs (anti-tpo,1,lab_test
+570000,thyroid microsomal abs (p s) @,1,lab_test
+570001,thyroid microsomal abs s -(send-out tests,1,lab_test
+570003,thyroid microsomal antibodies,1,lab_test
+570004,thyroid microsomal antibodies (tpo,1,lab_test
+570005,thyroid microsomal antibodies anti tpo,1,lab_test
+570006,thyroid microsomal antibodies anti tpo( so,1,lab_test
+570007,thyroid microsomal antibody,1,lab_test
+570009,thyroid nuclear scan,1,imaging
+570010,thyroid or neck u/s,1,imaging
+570011,"thyroid panal basic.t3,t4,free t4,tsh",1,lab_test
+570012,thyroid panel,2,lab_test
+570013,"thyroid panel (basic) t3,t4",1,lab_test
+570014,thyroid peroxiase abs,1,lab_test
+570015,thyroid peroxidase abs,2,lab_test
+570016,thyroid peroxidase (tpo) antibody,1,lab_test
+570017,thyroid peroxidase ab,1,lab_test
+570018,thyroid peroxidase ab (anti tpo,1,lab_test
+570020,thyroid peroxidase abs -(send-out tests,1,lab_test
+570021,thyroid peroxidase abs (anti tpo) -(send-out tests,1,lab_test
+570022,thyroid peroxidase abs (tpo ab,1,lab_test
+570023,thyroid peroxidase abs (tpo-ab,1,lab_test
+570024,thyroid peroxidase antibodies,2,lab_test
+570025,thyroid peroxidase antibody,2,lab_test
+570027,thyroid peroxidose abs,1,lab_test
+570028,"thyroid procedures, majc",1,inpatient
+570029,"thyroid procedures, minc",1,inpatient
+570030,thyroid profile,4,lab_test
+570031,thyroid profile # 044-20131,1,lab_test
+570032,"thyroid profile ( tsh ,t3,t4,ft4",1,lab_test
+570033,"thyroid profile (ft3, ft4, tsh",1,lab_test
+570034,thyroid profile (tsh t3 t4) thyroid function test,1,lab_test
+570035,"thyroid profile (tsh, ft3, ft4",2,lab_test
+570036,"thyroid profile (tsh, t3,t4) thyroid functiontest, thyroid panel",1,lab_test
+570037,"thyroid profile (tsh,t3,t4",2,lab_test
+570039,"thyroid profile (tsh,t4 & t3",1,lab_test
+570040,"thyroid profile (tsh,t4 t3",1,lab_test
+570041,thyroid profile (tsht3t4) thyroid function test thyroid pa,2,imaging
+570043,thyroid profile - 044-20131,1,lab_test
+570044,"thyroid profile tsh,t3,t4 thyroid function test , thyroid panel",2,lab_test
+570045,thyroid profile(3test,1,lab_test
+570046,thyroid profile(gnp,1,lab_test
+570047,thyroid radiofrequency ablation (us guide,1,procedure
+570048,thyroid receptor abs,1,lab_test
+570049,thyroid region,1,other
+570050,thyroid scan,2,imaging
+570051,"thyroid scan & uptake, iodine-131",1,imaging
+570052,thyroid scan + %uptake thyroid function,1,imaging
+570053,"thyroid scan uptake, iodine-131",1,imaging
+570054,thyroid scan w/technitium,1,imaging
+570055,thyroid scan with radio-active iodine,1,imaging
+570056,thyroid scan(14261,1,imaging
+570057,thyroid scan(only,1,imaging
+570058,thyroid scaning,2,other
+570059,thyroid scanning,2,other
+570060,thyroid scanning (neck,2,other
+570061,thyroid scintigraphy (tc-99,1,imaging
+570062,thyroid scintigraphy + spect/ct,1,imaging
+570063,thyroid single uptake,1,other
+570064,thyroid sonar - 507,1,imaging
+570065,thyroid sonogram,2,imaging
+570066,thyroid st. hormone: tsh,1,lab_test
+570067,thyroid stim hormone (tsh,1,lab_test
+570068,thyroid stimulating hormone(tsh,2,lab_test
+570069,thyroid stimulating ab,1,lab_test
+570070,thyroid stimulating hormone,2,lab_test
+570071,thyroid stimulating hormone ( tsh,4,lab_test
+570072,thyroid stimulating hormone (card) neonatal,1,lab_test
+570075,thyroid stimulating hormone (tsh) # 042-21121,1,lab_test
+570076,thyroid stimulating hormone (tsh) (medgulf,1,lab_test
+570077,thyroid stimulating hormone (tsh) receptor antibodies,1,lab_test
+570078,thyroid stimulating hormone (tsh) total serum,1,lab_test
+570079,thyroid stimulating hormone (tsh)(518026,1,lab_test
+570080,thyroid stimulating hormone - tsh,2,lab_test
+570081,thyroid stimulating hormone level,2,lab_test
+570082,thyroid stimulating hormone neonatal- tsh neonatal,1,lab_test
+570083,thyroid stimulating hormone neonatal- tsh neonatal(518028,1,lab_test
+570084,thyroid stimulating hormones (tsh,1,lab_test
+570085,thyroid stimulating hormonetsh,3,other
+570086,thyroid stimulating immune globulins (tsi,1,other
+570087,thyroid stimulating immunoglob s -(send-out tests,1,lab_test
+570088,thyroid stimulating immunoglobulin,1,other
+570089,thyroid stimulating immunoglobulin ( so,1,other
+570090,thyroid stimulating immunoglobulin ( tsi,1,other
+570091,thyroid stimulating immunoglobulin (q,1,other
+570092,thyroid stimulating immunoglobulin (tsh receptor abs,1,lab_test
+570093,thyroid stimulating immunoglobulin (tsi,2,other
+570094,thyroid stimulating immunoglobulin tsi (tsh receptors abs,2,lab_test
+570096,thyroid stimuliting igs,1,other
+570097,thyroid study,2,consultation
+570098,thyroid t4,2,lab_test
+570099,thyroid theraphy for hyperthyroidism,1,other
+570100,thyroid thyroglobulin abs,1,lab_test
+570101,thyroid transcription factor (ttf-1,1,lab_test
+570102,thyroid tsh,1,lab_test
+570104,thyroid u. s,2,imaging
+570105,thyroid u.s,4,imaging
+570107,thyroid u/s1290,1,other
+570108,thyroid u/sound,1,other
+570109,thyroid ultra sound,2,imaging
+570110,thyroid ultrasonagraphy,1,other
+570111,thyroid ultrasonography,1,imaging
+570113,thyroid ultrasound with vascular flow+ u/s,1,imaging
+570115,thyroid ultrsound,1,imaging
+570116,thyroid uptake - multiple determination (w/o imaging,1,other
+570117,thyroid uptake and scan 99mtc,1,imaging
+570118,thyroid uptake scan using i-131,1,imaging
+570119,thyroid uptake study,2,consultation
+570120,thyroid uptake/perfusion,1,other
+570121,thyroid us,3,imaging
+570122,thyroid us multisection,1,imaging
+570123,thyroid us scan,1,imaging
+570124,thyroid us scnning,1,imaging
+570126,thyroid vascularity (colored dopp.us,1,imaging
+570127,thyroid&neck vessels doppler,1,imaging
+570128,thyroid&neck vessels doppler (medgulf,1,imaging
+570129,"thyroid, one breast, scrotum, soft tissues, joints, transfontaneller, etc",1,supplies
+570130,"thyroid, total/lobe",1,other
+570131,"thyroid,one breast,scrotum,soft tissues,joints tra",1,supplies
+570132,"thyroid,one breast,scrotum,soft tissues,joints transfon",1,supplies
+570133,thyroid3,1,other
+570134,thyroidectomy,4,procedure
+570135,thyroidectomy (one side)-p deal - 3 days pkg,1,supplies
+570136,thyroidectomy (partial/subtotal,1,procedure
+570137,thyroidectomy (total,2,procedure
+570138,thyroidectomy (two sides)-p deal - 3 days pkg,1,procedure
+570140,thyroidectomy - lobectomy,1,procedure
+570141,thyroidectomy - moderate,1,procedure
+570142,thyroidectomy - subtotal,1,procedure
+570143,thyroidectomy - total,2,procedure
+570144,thyroidectomy - total-package,1,procedure
+570145,thyroidectomy / total,1,procedure
+570146,thyroidectomy one lobe + histopathology,1,lab_test
+570147,thyroidectomy partial,1,procedure
+570148,thyroidectomy radical,1,procedure
+570149,thyroidectomy radical - pkg 4 days,1,procedure
+570150,"thyroidectomy reccurent, compl",1,procedure
+570151,thyroidectomy sub total-1day pkg,1,procedure
+570152,thyroidectomy subtotal,1,procedure
+570153,thyroidectomy total,3,procedure
+570154,thyroidectomy total - pkg,1,procedure
+570155,"thyroidectomy total , 2days",1,procedure
+570157,thyroidectomy w neck dissect w o histo,1,procedure
+570158,"thyroidectomy, total or complete",3,procedure
+570159,thyroidectomy-subtotal,1,procedure
+570160,thyroidectomy-total,1,procedure
+570162,thyrold u/s,1,imaging
+570163,thyroperoxidase (tpo) antibodies,1,lab_test
+570164,thyroperoxidase ab,2,lab_test
+570165,thyroperoxidase abs,1,lab_test
+570166,thyroperoxidase antibodies,1,lab_test
+570167,thyroperoxidase antibody,1,lab_test
+570168,"thyroperoxydase (tpo), abs",1,lab_test
+570169,thyroplasty - 1 day pkg,1,procedure
+570171,thyrotropin hormone panel (tsh x3,1,lab_test
+570172,thyrotropin releasing hormone stimulation panel [thyroid stimulating hormone (tsh) x 4,1,lab_test
+570173,thyroud ultrasonagraphy,1,other
+570177,thyroxin binding globulin (tbg,1,other
+570178,thyroxin binding globulin - s.o,1,lab_test
+570199,thoracic spine (ap lat,1,imaging
+570200,ti - rod 6 x 600mm,1,supplies
+570201,ti cannulated screw 7mm x 56mm,1,supplies
+570202,ti rod 6 x 600 mm spinecraft usa 6 # 6000-600,1,supplies
+570203,ti rod 6x600mm,3,supplies
+570204,ti rod 6x600mm # 6000-600,1,supplies
+570205,ti rod 6x600mm spinecraft usa,1,supplies
+570206,ti rod 6x600mm-inma,1,supplies
+570207,ti rod 6x600mm spinecraft,1,supplies
+570208,ti screw diff. size,1,supplies
+570209,ti screw diff.size,1,supplies
+570210,"ti,elagtic,nail,3.0*400",1,supplies
+570211,ti- rod 6 x 600mm,1,supplies
+570212,"ti-104.214 , comperssion screw 3.5x14mm-auxien",1,supplies
+570213,"ti-104.216 , comperssion screw 3.5x16mm-auxien",1,supplies
+570214,"ti-117.012 , locking screw 3.5x12mm-auxien",1,supplies
+570215,"ti-117.014 , locking screw 3.5x14mm-auxien",1,supplies
+570216,ti-526.006r clavicle plate 6 hole right,1,supplies
+570217,ti-aa012-f - titeuf,1,other
+570218,ti-aa013-f - titeuf,1,other
+570219,ti-aa052-f - titeuf,1,other
+570220,ti-aa063-f - titeuf,1,other
+570221,ti-am007-f - titeuf,1,other
+570222,ti-gr006-f - titeuf,1,other
+570223,"tia and precerebrl occlusn, majc",1,inpatient
+570224,"tia and precerebrl occlusn, minc",1,inpatient
+570225,"tia & precerebrl occlusn, majc",1,inpatient
+570226,"tia & precerebrl occlusn, minc",1,inpatient
+570227,"tia and precerebral occlusion, minor complexity",1,inpatient
+570230,tiba & fibula,1,other
+570231,tiba febula toes two positions,1,other
+570248,tibc (mhl lab,1,lab_test
+570249,tibc (measured uibc is reported,1,lab_test
+570250,tibc (serum,1,lab_test
+570256,tibc -duplicate,1,lab_test
+570257,tibc - ?????,1,lab_test
+570259,tibc - tat (8 duty hrs,1,lab_test
+570266,tibc(fe,1,lab_test
+570273,tibc[8.38,1,lab_test
+570275,tibia & fibula,3,other
+570276,tibia & fibula 2f,2,imaging
+570277,tibia & fibula -x-ray,1,imaging
+570278,tibia & fibula / leg (2 views,1,imaging
+570279,tibia & fibula / leg 2 views,1,imaging
+570280,tibia & fibula 2 views,1,imaging
+570281,tibia & fibula 2 views left side,1,imaging
+570282,tibia & fibula 2 views right side,1,imaging
+570284,tibia & fibula 2v,1,imaging
+570285,tibia & fibula ap / lat 2 views,1,imaging
+570286,tibia & fibula ap&lat ( rt / lt,1,imaging
+570287,tibia & fibula ap&lat 2f,1,imaging
+570288,tibia & fibula b / v,2,other
+570289,tibia & fibula b/v,3,other
+570290,tibia & fibula b/v-x-ray,1,imaging
+570292,tibia & fibula both views,1,imaging
+570293,tibia & fibula bv,1,other
+570294,tibia & fibula left,1,other
+570295,tibia & fibula right,1,other
+570296,tibia & fibula x-ray,1,imaging
+570297,tibia & fibula/leg (2 views,1,imaging
+570298,"tibia , osteotomy with internal fixation",1,procedure
+570299,"tibia , stemed , 5 deg sz d left.,zimmer-biomet , 42-5320-067-01",1,other
+570300,"tibia ,closed reduction of fracture of shaft with internal fixation (i",1,procedure
+570301,tibia - ap &lateral,1,imaging
+570302,tibia - fibula ap/lat. (left) ????,1,imaging
+570303,tibia - fibula ap/lat. (right) ????,1,imaging
+570304,tibia / febula (lower leg) 2views,1,imaging
+570305,tibia / febula / toes - 2 view,4,imaging
+570307,tibia / febula / toes - 2 views,1,imaging
+570308,tibia / febula /toes-2 views (infant,1,imaging
+570309,tibia / fibula,1,other
+570310,tibia / fibula 2 views,1,imaging
+570311,tibia 2 views,1,imaging
+570312,tibia ??fibula ??ap / lat ?? 2 ??views,1,imaging
+570313,tibia and fibula,1,other
+570314,tibia and fibula 1 f,1,other
+570315,tibia and fibula 1v,4,imaging
+570317,tibia and fibula 2 v,1,imaging
+570318,tibia and fibula 2 views,2,imaging
+570319,tibia and fibula ap -l -bilat,1,imaging
+570320,tibia and fibula ap/l (bilat,1,imaging
+570321,tibia and fibula ap/lat,1,imaging
+570322,tibia and fibula one view,1,supplies
+570323,tibia and fibula(03105,1,other
+570324,"tibia ceramic coated , implantcast acs fb tibia ceramic coated , (catalog no. 42010424",1,supplies
+570325,tibia distal locking plate diff.size,1,supplies
+570326,tibia febula toes - 2 views,1,imaging
+570327,tibia febula toes 2 views infant,1,imaging
+570328,tibia febula toes 4 views ( infant,1,imaging
+570329,tibia febula toes 4 views infant,1,imaging
+570330,tibia fibula ap / lat,2,imaging
+570331,tibia fibula 2f,1,imaging
+570332,tibia fibula 2views,1,imaging
+570334,tibia fibula ap / lat - 2 views,4,imaging
+570336,tibia fibula ap / lat 2 views(05182,1,imaging
+570340,tibia fibula ap / lat ? 2 views,1,imaging
+570342,tibia fibula ap / lat. 2 views,1,imaging
+570343,tibia fibula ap lat 2 views,2,imaging
+570344,tibia fibula ap lateral 2 views,1,imaging
+570345,tibia fibula ap/ lat,2,imaging
+570347,tibia fibula ap/lat,2,imaging
+570348,tibia fibula ap/lat - 2 views,2,imaging
+570349,tibia fibula ap/lat-2views,1,imaging
+570350,tibia fibular ap/lat 600174,1,imaging
+570351,tibia lengthening with equinox correction-1day pkg,1,procedure
+570352,tibia nail 8 x 300,1,supplies
+570353,"tibia natural cemented 5 degree size c,zimmer #42-5320-064-01",1,other
+570354,"tibia plate distal 14 holes, left, (auxien) # ti-746.114l",1,supplies
+570355,tibia removal plate and screw,1,supplies
+570356,tibia sz2 mk genux lmplant cast germany # 57510602,1,supplies
+570357,tibia with or without fibula fracture operative reduction,1,procedure

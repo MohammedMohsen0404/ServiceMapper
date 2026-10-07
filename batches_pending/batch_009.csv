@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+130997,consultation fees [g/p,1,consultation
+130998,consultation fixed,1,consultation
+130999,consultation flowup,2,consultation
+131000,consultation follow up,4,consultation
+131001,consultation follow up - consultant,1,consultation
+131002,consultation follow up consultant,1,consultation
+131003,consultation follow-up,1,consultation
+131004,consultation followup,1,consultation
+131005,consultation follow up gp,1,consultation
+131006,consultation for cardio/intermed,1,consultation
+131007,consultation for consultant,3,consultation
+131008,consultation for dermatology,1,consultation
+131009,consultation for e.n.t,1,consultation
+131010,consultation for er services,1,consultation
+131011,consultation for general pratitioner,1,consultation
+131012,consultation for im(internal medicine,1,consultation
+131013,consultation for medical checkup,1,consultation
+131014,consultation for medical checkup only,1,consultation
+131016,consultation for ob,1,consultation
+131017,consultation for obstetric gynecologist,1,consultation
+131018,consultation for obstetric gynecology,1,consultation
+131019,consultation for orthopedic,1,consultation
+131020,consultation for pediatric,1,consultation
+131021,consultation for referred doctor,1,consultation
+131022,consultation for surg,1,consultation
+131023,consultation for urologist,1,consultation
+131025,consultation for visiting doctor,1,consultation
+131026,consultation for opthalmology,1,consultation
+131027,consultation free- specialist,1,consultation
+131028,consultation free-consultant,1,consultation
+131029,consultation free-specialist,1,consultation
+131030,consultation g p,2,consultation
+131031,consultation g.p,5,consultation
+131033,consultation g.p/er,1,consultation
+131034,consultation g.p/er/dental,1,dental
+131035,consultation g/p,1,consultation
+131036,consultation gap 200 - external doctors,1,consultation
+131037,consultation gb,1,consultation
+131038,consultation general,1,consultation
+131040,consultation general practitioner,2,consultation
+131041,consultation general practitioner -gp,1,consultation
+131042,consultation gp,10,consultation
+131043,consultation gp - er - dental,1,dental
+131045,consultation gp dental,2,dental
+131046,consultation gp doctor,1,consultation
+131051,consultation gp.doctor,1,consultation
+131052,consultation gp/emergency,1,consultation
+131053,consultation gp2,1,consultation
+131054,consultation gper,1,consultation
+131055,consultation gynac,1,consultation
+131056,consultation gynecologist,1,consultation
+131057,consultation gp ?????? ???????? ??????,1,consultation
+131058,consultation gp كشف طبيب عام,1,consultation
+131059,consultation int,2,consultation
+131060,consultation int ( saudi consultant,1,consultation
+131061,consultation int (consultant,1,consultation
+131062,consultation int (saudi consultant,1,consultation
+131063,consultation int specialist,1,consultation
+131064,consultation int specialist class1,1,consultation
+131065,consultation int. consultant,1,consultation
+131066,consultation int. med,1,consultation
+131067,consultation int. specialist,1,consultation
+131068,consultation int. specialist one,1,supplies
+131069,consultation internal,3,consultation
+131070,consultation internal medicine (specialist,1,consultation
+131071,consultation internal medicine consultant,1,consultation
+131072,consultation internal medicine spacialist,1,consultation
+131073,consultation internal medicine specialist,2,consultation
+131074,consultation internal specialist,1,consultation
+131076,consultation isolation room adult,1,consultation
+131077,consultation int.med and cardio specialist,1,consultation
+131080,consultation neurology (consultant,1,consultation
+131081,consultation nutrition,1,consultation
+131082,consultation ny specialist 1,1,consultation
+131084,consultation ob,1,consultation
+131085,consultation ob gyne,3,consultation
+131088,consultation ob-g specialist,1,consultation
+131089,consultation ob-gyn (yasmeen mai )senior registarar,1,consultation
+131090,consultation ob-gyne morning offer,1,consultation
+131091,consultation ob.gyne,1,consultation
+131092,consultation ob/gyn &ivf dr.ayman oraif,1,consultation
+131093,consultation obg,2,consultation
+131094,consultation obg consultant,1,consultation
+131095,consultation obg specialist,1,consultation
+131096,consultation obg specialist one,1,supplies
+131097,consultation obgyne,1,consultation
+131098,consultation obgyne (consultan,1,consultation
+131099,consultation obgyne (consultant,1,consultation
+131100,consultation obgyne (consultant-ns,1,consultation
+131101,consultation obgyne (resident,1,consultation
+131102,consultation obgyne (specialist,1,consultation
+131103,consultation obgyne specialist,1,consultation
+131104,consultation of anesthesia,1,procedure
+131105,consultation of cardiologist,1,consultation
+131106,consultation of consaltants,1,consultation
+131107,consultation of consultant,3,consultation
+131108,consultation of external doctor,1,consultation
+131109,consultation of parents,1,consultation
+131110,consultation of specialist,3,consultation
+131111,consultation of wound care,1,consultation
+131112,consultation on call/gp,1,consultation
+131113,"consultation on x-ray exam made elsewhere, written report",1,imaging
+131114,consultation oncology consultant,1,consultation
+131115,consultation oph,1,consultation
+131116,consultation ophtha consultant,1,consultation
+131117,consultation optha consultant,1,consultation
+131118,consultation optha specialist one,1,supplies
+131119,consultation optha specialist(registrar,1,consultation
+131120,consultation optha specialist(senior registrar,1,consultation
+131121,consultation opthalmologist,1,consultation
+131122,consultation orth,1,consultation
+131123,consultation ortho,1,consultation
+131124,consultation ortho (consultant,1,consultation
+131125,consultation ortho (consultant-s,1,consultation
+131126,consultation ortho consultant,1,consultation
+131127,consultation ortho consultant(1,1,consultation
+131128,consultation ortho specialist,1,consultation
+131129,consultation ortho specialist one,1,supplies
+131131,consultation orthopedic,6,consultation
+131135,consultation other speciality,1,consultation
+131136,consultation outs. cl. hrs.- consultant,1,eyewear
+131138,consultation ped,3,consultation
+131139,consultation pedia consultant,1,consultation
+131140,consultation pedia specialist,1,consultation
+131141,consultation pedia specialist one,1,supplies
+131142,consultation pediatric,1,consultation
+131143,consultation pediatric (consultant,1,consultation
+131144,consultation pediatric - consultant,1,consultation
+131145,consultation pediatric first visit,2,consultation
+131146,consultation pediatric specialist,2,consultation
+131147,consultation pediatric urology,1,consultation
+131148,consultation pediatrician,1,consultation
+131149,consultation pediatrics,3,consultation
+131152,consultation physiot,1,consultation
+131153,consultation physiotheraphy (specialist,1,consultation
+131154,consultation plastic surgery consultant,1,eyewear
+131155,consultation prof,1,consultation
+131156,consultation psychiatry,2,consultation
+131157,consultation pulmonology (consultant,1,consultation
+131158,consultation practitioner,1,consultation
+131160,consultation psychiatry consultant,1,consultation
+131161,consultation referal from any doctor to consultant -1,1,consultation
+131162,consultation referral for seniour consultant out side referral,1,consultation
+131163,consultation residenr doctor,1,consultation
+131164,consultation rrc consultant,1,consultation
+131165,consultation rrc specialist,1,consultation
+131166,consultation rv (psychiatric,1,consultation
+131167,consultation senior sp,1,consultation
+131169,consultation sp,1,consultation
+131170,consultation spcialist,1,consultation
+131171,consultation spe,2,consultation
+131173,consultation specialis,1,consultation
+131175,consultation specialist ( registrar,1,consultation
+131176,consultation specialist / oncall,1,consultation
+131177,consultation specialist class 1,1,consultation
+131178,consultation specialist fee (internist,1,consultation
+131179,consultation specialist obg,1,consultation
+131180,consultation specialist one,1,supplies
+131181,consultation specialist paediatrics,1,consultation
+131182,consultation specialists,1,consultation
+131183,consultation speclist,1,consultation
+131184,consultation surg,1,consultation
+131185,consultation surgery (consultant,1,procedure
+131186,consultation surgery (consultant)1.2 1 200.00,1,procedure
+131187,consultation surgery (consultant)1.20.3,1,procedure
+131188,consultation surgery (saudi consultant,1,procedure
+131189,consultation surgery - consultant,1,procedure
+131190,consultation surgery consultant,1,procedure
+131191,consultation surgery specialist,1,procedure
+131192,consultation surgery specialist one,1,supplies
+131193,consultation surgry,1,consultation
+131194,consultation senior registerar,1,consultation
+131197,consultation to/from other hospital,1,consultation
+131198,consultation url,1,consultation
+131199,consultation uro consultant,1,consultation
+131200,consultation uro specialist,1,consultation
+131201,consultation urologist,1,consultation
+131202,consultation urology consultant,1,consultation
+131203,consultation urology/surgeon,4,consultation
+131207,consultation visit,1,consultation
+131208,consultation visiting (consultant,1,consultation
+131209,consultation ward management per day by department in charge,2,consultation
+131210,consultation ward management per day by department in chargeconsultation ward management per day by department in charge,1,consultation
+131211,consultation with services,1,consultation
+131212,consultation with treatment planing,1,consultation
+131213,consultation without medical procedure,1,consultation
+131214,consultation without service,3,consultation
+131215,consultation without services,3,consultation
+131220,consultation peds,1,consultation
+131222,consultation كشف عام,1,consultation
+131223,consultation%20%20fee,1,consultation
+131225,consultation%20-%20specialist,1,consultation
+131226,consultation%20fee,1,consultation
+131227,consultation(dental,1,dental
+131229,consultation(gp,1,consultation
+131230,consultation(pedia,1,consultation
+131231,consultation(specialist,1,consultation
+131232,consultation(specilaist,1,consultation
+131235,"consultation, (obs & gyna",1,consultation
+131236,"consultation, (paediatrics",1,consultation
+131237,"consultation, consultant",6,consultation
+131238,"consultation, consultant (cardiology",1,consultation
+131239,"consultation, consultant (dental",2,dental
+131240,"consultation, consultant (e.n.t",1,consultation
+131241,"consultation, consultant (endocrinology",1,consultation
+131242,"consultation, consultant (endoscopes",1,consultation
+131243,"consultation, consultant (endoscopes-paedia",1,consultation
+131244,"consultation, consultant (family medicine",1,consultation
+131245,"consultation, consultant (general surgery",1,procedure
+131246,"consultation, consultant (internal medicine",2,consultation
+131248,"consultation, consultant (neurology",1,consultation
+131249,"consultation, consultant (obs & gyna",1,consultation
+131250,"consultation, consultant (opthalmology",1,consultation
+131251,"consultation, consultant (orthopaedic",1,consultation
+131252,"consultation, consultant (paedi surgery",1,procedure
+131253,"consultation, consultant (paediatrics",1,consultation
+131254,"consultation, consultant (psychiatry",1,consultation
+131255,"consultation, consultant (psychiatry-cash",1,consultation
+131256,"consultation, consultant (urology",1,consultation
+131257,"consultation, consultant (vascular",1,consultation
+131258,"consultation, consultant 96037-04",1,consultation
+131259,"consultation, consultant 96037-09",1,consultation
+131260,"consultation, consultant 96037-11",1,consultation
+131261,"consultation, consultant 96037-12",1,consultation
+131262,"consultation, consultant(internal med",1,consultation
+131263,"consultation, emergency",1,consultation
+131264,"consultation, er",1,consultation
+131265,"consultation, er, consultant",1,consultation
+131266,"consultation, er, specialist",1,consultation
+131267,"consultation, family medicine, senior specialist",1,consultation
+131268,"consultation, family medicine, specialist",1,consultation
+131269,"consultation, gp",2,consultation
+131270,"consultation, gp / er",6,consultation
+131271,"consultation, in patient, senior consultant",1,consultation
+131272,"consultation, in patient, specialist",1,consultation
+131273,"consultation, in patient, visiting consultant",1,consultation
+131274,"consultation, resident (obs & gyna",1,consultation
+131275,"consultation, resident (paediatrics",1,consultation
+131276,"consultation, senior consultant",1,consultation
+131277,"consultation, senior-specialist, psychiatrist",1,consultation
+131278,"consultation, specialist",8,consultation
+131279,"consultation, specialist (e.n.t",1,consultation
+131280,"consultation, specialist (internal med",1,consultation
+131281,"consultation, specialist (neurology",1,consultation
+131282,"consultation, specialist (opthalmology",1,consultation
+131283,"consultation, specialist (paediatric",1,consultation
+131284,"consultation, specialist (paediatrics",1,consultation
+131285,"consultation, specialist (physiotherapy",1,physiotherapy
+131286,"consultation, specialist (respiratory chest physiotherapy",1,physiotherapy
+131287,"consultation,external consultant",1,consultation
+131288,"consultation,family medicine, consultant",1,consultation
+131289,"consultation,in patient, consultant",1,consultation
+131290,"consultation,in patient,icu consultant",1,consultation
+131291,"consultation,senior specialist",1,consultation
+131292,consultation- cardiothoracic surgery(spe,1,procedure
+131293,consultation- consultant,2,consultation
+131294,consultation- dental s.specialist,1,dental
+131295,consultation- dentist,1,consultation
+131296,consultation- dermatology (specialist,1,consultation
+131299,consultation- gastroenterology(specialis,1,consultation
+131300,consultation- general surgery,1,procedure
+131301,consultation- hematology,1,consultation
+131302,consultation- hematology (expert,1,consultation
+131303,consultation- internal medicine (expert,1,consultation
+131304,consultation- nephrology (expert,1,consultation
+131305,consultation- nephrology (specialist,1,consultation
+131306,consultation- opthalmology,2,consultation
+131307,consultation- orthopedic,1,consultation
+131308,consultation- orthopedic (expert,1,consultation
+131309,consultation- pediatric neurology,1,consultation
+131310,consultation- pediatric surgery (expert,1,procedure
+131311,consultation- radiology - specialist,1,consultation
+131312,consultation- rheumatology & rehab.(expt,1,consultation
+131313,consultation- rheumatology rehab.(expt,1,consultation
+131314,consultation- rheumatologyrehabilitaion,1,consultation
+131315,consultation- specialist,3,consultation
+131316,consultation- specialist ?????,1,consultation
+131317,consultation- urology,1,consultation
+131318,consultation- vascular surgery (expert,1,procedure
+131319,consultation- vascular surgery(specialit,1,procedure
+131321,consultation-103,1,consultation
+131323,consultation-consultant,4,consultation
+131325,consultation-dentist,1,consultation
+131326,consultation-dental gp,2,dental
+131328,consultation-endocrinology,1,consultation
+131329,consultation-follow up,1,consultation
+131330,consultation-gb,1,consultation
+131331,consultation-general physician,1,consultation
+131332,consultation-general practitioner -gp,1,consultation
+131333,consultation-general surgeon,1,consultation
+131334,consultation-general surgery(specialist,1,procedure
+131335,consultation-gp,2,consultation
+131336,consultation-gp (alone) without service,1,consultation
+131337,consultation-gynecologist,1,consultation
+131338,consultation-general practitioner,1,consultation
+131339,consultation-husam eldeen nasr,1,consultation
+131340,consultation-internal medicine(specialis,1,consultation
+131341,consultation-internist,1,consultation
+131342,consultation-new visit,2,consultation
+131343,consultation-optometric,1,consultation
+131344,consultation-or-on call,1,consultation
+131345,consultation-or-on-call,1,consultation
+131346,consultation-orthopedic,1,consultation
+131347,consultation-pediatric neurology (expert,1,consultation
+131348,consultation-plastic surgery,1,eyewear
+131349,consultation-psychiatry,1,consultation
+131350,consultation-pulmonology,1,consultation
+131351,consultation-rheumatology & rehabilitati,1,consultation
+131352,consultation-specialist,7,consultation
+131353,consultation-specialist -(pediatician,1,consultation
+131354,consultation-specialist*con0002*????? ???? ??????,1,consultation
+131355,consultation-specialists(eye,1,consultation
+131357,consultation-vascular surgery,1,procedure
+131358,consultation. 6719000,1,consultation
+131359,consultation.. specialist,1,consultation
+131360,consultation= gp,1,consultation
+131361,consultationconsultant ob gyne,1,other
+131362,consultationfee - consultant,1,consultation
+131363,consultationfee - general practitioner -gp,1,consultation
+131364,consultationfee - specialist,1,consultation
+131365,consultationfee specialist,1,consultation
+131366,consultationfee- general practitioner- gp,1,consultation
+131367,consultationfee-specialist?,1,consultation
+131368,consultations,3,other
+131369,consultations - bupa,1,insurance
+131370,consultationdental,1,other
+131371,consultation ward management per day by department in,1,consultation
+131373,consultatnt,2,other
+131374,consultatnt visit in duty,1,consultation
+131375,consultaton - rheumatology + rehab,1,physiotherapy
+131376,consultatton fee . consultant,1,consultation
+131378,consulting - dentist,1,consultation
+131379,consulting - general,1,other
+131380,consulting - general practitioner,1,consultation
+131382,consulting - specialists,1,other
+131383,consulting -general parctionar,1,other
+131384,consulting fee bupa,1,consultation
+131385,consulting--specialist,1,consultation
+131386,consultion,3,other
+131387,consultion (medgulf,1,other
+131388,consultion - dentist,1,consultation
+131389,consultion 1st spicialist,1,other
+131390,consultion consultion,1,other
+131391,consultion dentist,1,consultation
+131392,consultion&diagnosis (medgulf,1,other
+131393,consultstion jamal alwakil,1,other
+131394,consumable + items ( disposable,1,supplies
+131395,consumable + items(disposable,1,supplies
+131396,consumable charges in or,1,other
+131397,consumable in e.r. critical care,1,lab_test
+131398,consumable in icu / day,1,consultation
+131399,consumable in ward / day,1,other
+131400,consutaion fee dentist,1,consultation
+131401,consutation,1,other
+131402,consutation fees-rheumatology,1,consultation
+131403,consutation specialist,1,consultation
+131404,consultant consultation - ob/gy,1,consultation
+131405,cont bp mon. (non-invas) /day,1,eyewear
+131406,cont bp mon./hr,1,eyewear
+131407,cont. cntrl.plse. ecg 5-12 hrs,1,diagnostic
+131408,cont. contrl. plse. ecg 1-4 hr,1,diagnostic
+131409,cont. control pulse ecg resp temp.etc.by monitor upto 24hrs,1,diagnostic
+131410,"cont. control pulse,ecg,resp. temp.etc.by monitor upto 24hrs",1,diagnostic
+131411,"cont. control pulse,ecg,resp. temp.etc.by monitor upto 24hrs - per hour",1,diagnostic
+131412,cont. man. control of temp by monitor up to 12 hrs,1,other
+131413,cont. positive airway pressure (cpap,1,supplies
+131414,cont. veno-venous hemofiltration,1,other
+131415,cont.control of pulse by monitor up to 24 hrs,1,other
+131417,contact lens,3,eyewear
+131419,contact lens acuvue moist astigmatism 8.5 ( 30 pac ) daily transparent +0.50 -1.75,1,eyewear
+131420,contact lens acuvue moist astigmatism 8.5 ( 30 pac ) daily transparent -6.00 -0.75,1,eyewear
+131421,contact lens acuvue moist daily transparent -1.50,1,eyewear
+131422,contact lens acuvue moist daily transparent -2.00,1,eyewear
+131423,contact lens acuvue oasys astigmatism-8.6 weekly transparent -0.75 -1.25,1,eyewear
+131424,contact lens acuvue oasys astigmatism-8.6 weekly transparent -1.50 -1.75,1,eyewear
+131425,contact lens acuvue oasys astigmatism-8.6 weekly transparent 0.00 -1.75,1,eyewear
+131426,contact lens acuvue oasys weekly transparent +1.00,1,eyewear
+131427,contact lens acuvue oasys weekly transparent +1.25,1,eyewear
+131428,contact lens acuvue oasys weekly transparent -2.75,1,eyewear
+131429,contact lens air optix aqua monthly transparent -4.00,1,eyewear
+131430,contact lens air optix aqua monthly transparent -4.50,1,eyewear
+131432,contact lens air optix plus hydraglyde monthly transparent -3.50,1,eyewear
+131433,contact lens aur optix astigmatism - per pack,1,eyewear
+131434,contact lens bandage,1,eyewear
+131435,contact lens dailies aqua comfort daily transparent -2.25,1,eyewear
+131436,contact lens examinition,1,eyewear
+131437,contact lens fitting (one eye,1,eyewear
+131438,contact lens fitting adult,1,eyewear
+131439,contact lens for keato conus,1,eyewear
+131440,contact lens rose k2 soft silicon hydrogel (any range) - per each,1,eyewear
+131441,contact lens soft daily use,1,eyewear
+131442,contact lens test 1 - specialist,2,lab_test
+131444,contact lens-freq. 1day clearb,1,eyewear
+131445,contact lens-freq. evolv clear,1,eyewear
+131446,contact lens-freq. premir clea,1,eyewear
+131447,contact lens-freq55 1 day clea,1,eyewear
+131448,contact lenses,3,eyewear
+131449,contact lenses 0.25 sterile disposable (6s,1,eyewear
+131450,contact lenses rigid gas pearmiable,1,eyewear
+131451,contact lense_acuvue advance_astigmatism_clear_0.00,1,eyewear
+131452,contact lense_acuvue advance_weekly_clear_0.50,1,eyewear
+131453,contact lense_acuvue advance_weekly_clear_1.50,1,eyewear
+131454,contact lense_acuvue advance_weekly_clear_1.75,1,eyewear
+131455,contact lense_acuvue advance_weekly_clear_2.25,1,eyewear
+131456,contact lense_acuvue advance_weekly_clear_2.75,1,eyewear
+131457,contact lense_acuvue advance_weekly_clear_3.25,1,eyewear
+131458,contact lense_acuvue advance_weekly_clear_3.75,1,eyewear
+131459,contact lense_acuvue advance_weekly_clear_4.00,1,eyewear
+131460,contact lense_acuvue advance_weekly_clear_5.25,1,eyewear
+131461,contact lense_acuvue advance_weekly_clear_5.75,1,eyewear
+131462,contact lense_acuvue advance_weekly_clear_6.00,1,eyewear
+131463,contact lense_acuvue2_weekly_clear_2.00,1,eyewear
+131464,contact lense_acuvue2_weekly_clear_3.00,1,eyewear
+131465,contact lense_air optix aqua astigmatism_monthly_clear_0,1,eyewear
+131466,contact lense_air optix aqua_monthly_clear_1.50,1,eyewear
+131467,contact lense_air optix_monthly_clear_4.00,1,eyewear
+131468,contact lense_bausch & lomb_monthly softlense_clear_all powers,1,eyewear
+131469,contact lense_bio true_daily_clear_1.50,1,eyewear
+131470,contact lense_bio true_daily_clear_1.75,1,eyewear
+131471,contact lense_biomedics_monthly toric_clear_0,1,eyewear
+131472,contact lense_dailies acp 30_dailes_clear_0.50,1,eyewear
+131473,contact lense_dailies acp 30_dailes_clear_3.00,1,eyewear
+131474,contact lense_dailies acp toric_daily_clear_all,1,eyewear
+131475,contact lense_dailies_30 pes_clear_1.25,1,eyewear
+131476,contact lense_dailies_90 lenses_clear_2.50,1,eyewear
+131477,contact lense_flexcon_yearly_clear_1.75,1,eyewear
+131478,contact lense_flexcon_yearly_clear_2.50,1,eyewear
+131479,contact lense_moist30 astigmatism_daily_0_all,1,eyewear
+131480,contact lense_moist30_daily_clear_0.50,1,eyewear
+131481,contact lense_moist30_daily_clear_1.00,1,eyewear
+131482,contact lense_moist30_daily_clear_1.25,1,eyewear
+131483,contact lense_moist30_daily_clear_1.50,1,eyewear
+131484,contact lense_moist30_daily_clear_1.75,1,eyewear
+131485,contact lense_moist30_daily_clear_2.00,1,eyewear
+131486,contact lense_moist30_daily_clear_2.25,1,eyewear
+131487,contact lense_moist30_daily_clear_2.50,1,eyewear
+131488,contact lense_moist30_daily_clear_2.75,1,eyewear
+131489,contact lense_moist30_daily_clear_3.00,1,eyewear
+131490,contact lense_moist30_daily_clear_3.25,1,eyewear
+131491,contact lense_moist30_daily_clear_3.50,1,eyewear
+131492,contact lense_moist30_daily_clear_3.75,1,eyewear
+131493,contact lense_moist30_daily_clear_4.00,1,eyewear
+131494,contact lense_moist30_daily_clear_4.25,1,eyewear
+131495,contact lense_moist30_daily_clear_4.50,1,eyewear
+131496,contact lense_moist30_daily_clear_4.75,1,eyewear
+131497,contact lense_moist30_daily_clear_5.50,1,eyewear
+131498,contact lense_moist30_daily_clear_6.00,1,eyewear
+131499,contact lense_moist90_daily_clear_2.25,1,eyewear
+131500,contact lense_moist90_daily_clear_3.00,1,eyewear
+131501,contact lense_oasys 1-day 30_daily _clear_2.50,1,eyewear
+131502,contact lense_oasys 1-day 30_daily _clear_2.75,1,eyewear
+131503,contact lense_oasys 1-day 30_daily _clear_3.50,1,eyewear
+131504,contact lense_oasys astigmatism_weekly_clear_all,1,eyewear
+131505,contact lense_oasys_weekly_clear_1.50,1,eyewear
+131506,contact lense_oasys_weekly_clear_2.25,1,eyewear
+131507,contact lense_purevision2_monthly_clear_2.00,1,eyewear
+131508,contact lense_purevision2_monthly_clear_6.50,1,eyewear
+131509,contact lense_trueye30_daily_clear_1.50,1,eyewear
+131510,contact lense_trueye30_daily_clear_3.50,1,eyewear
+131511,contactin 1 abs (caspr1 abs) - s.o,1,lab_test
+131514,container sharp disposable 4 litres,1,supplies
+131515,container sharp disposable yellow 5ltr,1,supplies
+131525,container urine 24 hrs,1,lab_test
+131529,container urine plastic male disp. 1000cc,1,lab_test
+131531,"container, lock-ups sharps 5 to 7 ltr",1,other
+131532,"container, multipurpose, plastic, laboratory, lid 64 oz, pl 2738 / r-4/1",1,eyewear
+131533,"container, sharp disposal small",1,other
+131534,"container, sharp, trans red 5qt, kendall, 8509sa",1,other
+131539,"container, specimen, sterile, jm-c1001",1,supplies
+131543,"container, urinal male w/cover gold cover 1lt",1,nutrition
+131544,"container, urinal male w/cover gold cover 1lt ,hsiner , jm-u3015",1,nutrition
+131546,"container, urine 24 hours, white, premium plastic, 4711",1,lab_test
+131549,contax extended clear,1,other
+131550,contin measure relatnshp b flow & vol,1,other
+131551,contin monitor pulmonary function >=6 hr,2,lab_test
+131552,contineous artero-veine hemo- dialysis,2,procedure
+131553,contineous glucose monitoring,1,lab_test
+131554,contineous monitoring ecg for 24hrs,1,diagnostic
+131555,contineous o2/day,1,other
+131556,contineous renal replacement therapy/day,1,physiotherapy
+131557,continious glucose monitoring sensor,1,lab_test
+131558,continious passive movement/session,1,physiotherapy
+131559,continiuos positive airway pressue cpap,1,supplies
+131560,continous arterio-venous haemofiltration (per session,1,physiotherapy
+131561,continous arteriovenous haemofiltmtion 12 to 24 hours per session (icu,1,physiotherapy
+131562,continous arteriovenous haemofiltration 12 to 24 h,1,other
+131563,continous arteriovenous haemofiltration 12 to 24 hours per session,1,physiotherapy
+131569,"continous ecg monitoring, unlisted",1,diagnostic
+131570,continous ecg monitoring- per hour,1,diagnostic
+131571,continous ecg monitoring-per day,1,diagnostic
+131572,continous ecg monitoringcontinous ecg monitoringcontinous ecg monitoringcontinous ecg monitoringcont,1,diagnostic
+131573,continous glucose monitoring (cgm,1,lab_test
+131574,continous haemofiltration 12 to 24 hours per session,1,physiotherapy
+131575,continous oxygen therapy - per hour,1,physiotherapy
+131576,continous passive motion - cpm,1,other
+131577,continous veno-venous haemodiafiltration 6 to 12 hours per session (cvv-hdf,1,physiotherapy
+131578,continous venovenus hemodiafiltration (12-24 hours per session)-crrt,1,physiotherapy
+131579,continous venovenus hemodiafiltration (4-12 hours per session)-crrt,1,physiotherapy
+131580,continous%20ecg%20monitoring,1,other
+131581,continuation of admission,1,consultation

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+623572,wound dressing major,2,supplies
+623573,wound dressing medium,2,supplies
+623574,wound dressing medium - ???????? ??????????,1,supplies
+623575,wound dressing medium - غيار متوسط,1,supplies
+623576,wound dressing minor,1,supplies
+623577,wound dressing moderate,1,supplies
+623578,wound dressing small,4,supplies
+623579,wound dressing small - er,1,supplies
+623580,wound dressing under g.a,1,supplies
+623582,wound dressing(1,2,supplies
+623583,wound dressing(1)-8033,1,supplies
+623584,wound dressingdeep,1,other
+623589,wound exploration & repair large wound,1,procedure
+623590,wound exploration & repair small wound,1,procedure
+623591,wound exploration (deep) & debridment,1,procedure
+623592,wound exploration and debridement in o.r,1,procedure
+623593,wound exploration and debridement in or (pkg,1,procedure
+623594,wound exploration and debridement under ga,2,procedure
+623595,wound exploration and removal of f.b under l.a,1,procedure
+623596,wound exploration tendon nerve repair,1,procedure
+623597,wound exploration under ga,1,procedure
+623598,wound exploration under ga(pkg,1,procedure
+623599,"wound exploration, muscle repair",1,procedure
+623600,"wound exploration, muscle repair_ort2840",1,procedure
+623601,wound glue application (acrylate,1,other
+623602,wound irrigation clousre under g. a,1,procedure
+623603,wound or burn dead tissue debridement,1,procedure
+623604,wound plaster,1,supplies
+623605,"wound protector, large incision, size 9-14cm, surgisleeve, wplg914",1,procedure
+623606,wound reclosure,1,other
+623607,wound repair major under (l.a,1,procedure
+623608,wound repair moderate (opd cases,1,procedure
+623609,wound repair moderate under (g.a,1,procedure
+623610,wound repair moderate under (l.a,1,procedure
+623611,wound repair moderate under (l.a.) (partially approved,1,procedure
+623612,wound repair simple (opd cases,1,procedure
+623613,wound repair simple under (g.a,1,procedure
+623614,wound repair under (l.a.) simple,1,procedure
+623615,wound repair(maj,1,procedure
+623619,wound retractor alexis medium 5-9cm disposable,1,supplies
+623620,wound smear,1,lab_test
+623621,wound stich under ga,1,other
+623622,wound stich under local,1,other
+623623,wound stiches ( 7-10 stiches,2,other
+623624,wound stiching (medium,2,other
+623625,wound stiching(small,2,other
+623626,wound stitches,2,procedure
+623627,wound stitches (10-20,2,procedure
+623628,wound stitches (5-10,2,procedure
+623629,wound stitches -l/a,1,procedure
+623630,wound stitches with l.a (medium - 2cm to 5 cm wound,1,procedure
+623631,wound stitches with l.a (small - 2 cm and below wound,1,procedure
+623632,wound stitches with l.a. (large - 5cm & above & deep wound,1,procedure
+623633,wound stitching (medium,1,other
+623634,wound stitching medium,1,other
+623635,wound stitching small,1,other
+623639,"wound suction set novovac 16 fg, 9005-16 polymed",1,supplies
+623640,"wound suction set novovac 16 fg, 9005-18 polymed",1,supplies
+623641,wound suture,2,supplies
+623642,wound suture (aesthetic) under ga (< 1 hr,1,supplies
+623643,wound suture (aesthetic) under ga (< 2 hrs,1,supplies
+623644,wound suture (aesthetic) under ga (> 2 hrs,1,supplies
+623645,wound suture (aesthetic) under ga < 2hrs,1,supplies
+623646,wound suture in the face in o.r. under l.a. +- sed or g.a. (+- local plasty) grade i - 1 day pkg,1,supplies
+623647,wound suture in the face in o.r. under l.a. +- sed or g.a. (+- local plasty) grade ii - 1 day pkg,1,supplies
+623648,wound suture in the face in o.r. under l.a. +- sed or g.a. (+- local plasty) grade iii - 2 days pkg,1,supplies
+623649,wound suture more than three,1,supplies
+623650,wound suture one,1,supplies
+623651,wound suture one or tow,1,supplies
+623652,wound suture one stitsh(skin only,1,supplies
+623653,wound suture removal,1,supplies
+623654,wound suture under g/a,1,supplies
+623655,wound suturing,3,procedure
+623656,wound suturing medium,2,procedure
+623657,wound suturing ( l )ِ,1,procedure
+623658,wound suturing ( m )ِ,1,procedure
+623659,wound suturing ( s,1,procedure
+623660,wound suturing ( s )ِ,1,procedure
+623661,wound suturing (ga) - a (l) - 1day pkg,1,procedure
+623662,wound suturing (ga) - b (m) -1day pkg,1,procedure
+623663,wound suturing (local) small,1,procedure
+623664,wound suturing (maxi) g a,1,procedure
+623665,wound suturing - 17006016,1,procedure
+623666,wound suturing - small,1,procedure
+623667,wound suturing / suture 1-4,1,supplies
+623668,wound suturing / suture 5-10,1,supplies
+623669,wound suturing in the operation room under local anesthesia,1,procedure
+623670,wound suturing lag,3,procedure
+623671,wound suturing large,1,procedure
+623672,wound suturing mid,3,procedure
+623674,wound suturing minor ( local,1,procedure
+623675,wound suturing small,3,procedure
+623677,wound swab,3,lab_test
+623678,wound swab c & s,1,lab_test
+623679,wound swab c&s,1,lab_test
+623680,wound swab c/s,2,lab_test
+623681,wound swab culture,1,lab_test
+623682,wound swab culture & sensitivitiy,1,lab_test
+623683,wound swab culture & sensitivity,2,lab_test
+623684,wound swab culture & sesitivity,1,lab_test
+623685,wound swab culture (anaerobic,1,lab_test
+623686,wound swab culture (areobic,1,lab_test
+623687,wound swab culture and sensitivity,1,lab_test
+623688,wound swab culture c/s,1,lab_test
+623689,wound swab culture for fungi,1,lab_test
+623690,wound swab cands,1,lab_test
+623691,wound swab ex,1,lab_test
+623692,wound swab gram stain& culture,1,lab_test
+623693,wound swab/abscess culture & s,1,lab_test
+623694,wound swab/abscess culture s,1,lab_test
+623695,wound swab/aspirate c/s,1,lab_test
+623696,wound swabs c/s,1,lab_test
+623697,wound swap culture,1,lab_test
+623698,wound therapy negative pressure 10x20cm avance solo molnlycke #8881020,1,eyewear
+623699,wound therapy negative pressure 10x30cm avance solo molnlycke #8881030,1,eyewear
+623700,wound therapy negative pressure set 10x8cm #9994152,1,physiotherapy
+623701,wound toilet debridment,1,procedure
+623702,wound toilet & debridment,4,procedure
+623703,wound toilet & debridment / bio dressing,1,supplies
+623705,wound toilet and debridment,1,procedure
+623706,wound toilet debridement complcated- (p.d,1,procedure
+623707,wound toilet debridement simple- (p.d,1,procedure
+623708,wound toilet with debridment,1,procedure
+623709,wound trocar 10fr 2227 jvac,1,other
+623710,wound trocar 15fr jvac 2229,1,other
+623711,wound trocar 19fr jvac 2231,1,other
+623712,wound tube revision / resuturing,1,supplies
+623713,wound vac with abthera dressing,1,supplies
+623714,wound vac with silver granafoam dressing,1,supplies
+623715,wound(s) care non-selective,1,other
+623716,wound-suture-deep,1,supplies
+623717,wound-suture-superficial,1,supplies
+623718,wound/burn dressing (large)-opd,1,supplies
+623719,wound/burn dressing (medium)-opd,1,supplies
+623720,wound/burn dressing (small)-opd,1,supplies
+623721,wound/burn dressing under ga (< 1 hr,1,supplies
+623722,wound/burn dressing under ga (< 1 hr)-gsr,1,supplies
+623723,wound/burn dressing under ga (< 2 hrs,1,supplies
+623724,wound/burn dressing under ga (< 2 hrs)-gsr,1,supplies
+623725,wound/burn dressing under ga (> 2 hrs,1,supplies
+623726,wound/burn dressing under ga (> 2 hrs)-gsr,1,supplies
+623727,wound: 1 stitch,2,procedure
+623728,wounds dressing large or elastic bandage,1,supplies
+623729,wounds dressing medium or elastic bandage,1,supplies
+623730,wounds dressing:* local anathesia,1,supplies
+623731,wounds suturing ( local)small,1,procedure
+623732,wound debridement & bone debridement - general surgery,1,imaging
+623733,wound debridement & bone debridement - pediatrics surgery,1,imaging
+623734,wow plus mouthwash,1,other
+623735,"wpmd509 med wound protector 5-9cm, wpmd509, ms",1,other
+623736,wrap around ankle support futuro (s/s,1,supplies
+623737,wrap around knee brace u,1,supplies
+623738,wrap chest large su cpt hillrom #p300632000,1,other
+623739,wrap chest medium su cpt hillrom #p300631000,1,other
+623740,"wrap paper sterilizing 100x100 , wrap paper sterilizing 100x100",1,other
+623741,wrap paper sterilizing 120x120,1,other
+623742,wrat cautarization,1,other
+623743,"wrench, disposable, 36 khz, integra, c5602",1,supplies
+623744,wrest (2 views,1,imaging
+623745,"wrest joint , 2 views",1,imaging
+623746,"wrest joint , 3 views",1,imaging
+623747,wrest joint 2 views,1,imaging
+623748,wrest joint 3 views,1,imaging
+623750,wrist a.p \ lat,1,imaging
+623751,wrist 2 views,10,imaging
+623753,wrist 2f ap & lat,3,imaging
+623754,wrist 4 views,6,imaging
+623755,wrist jpa &lat ( r or l,1,imaging
+623756,wrist & forearm splint l-large,1,supplies
+623757,wrist & forearm splint-06,1,supplies
+623758,wrist & palm support,1,supplies
+623759,wrist & palm support (large,1,supplies
+623760,wrist & palm support (large) - r,1,supplies
+623761,wrist & palm support (xl,1,supplies
+623762,"wrist & palm support, medium",1,supplies
+623763,"wrist & palm support, small",1,supplies
+623764,wrist & scaphoid 2f,3,imaging
+623766,wrist & scaphoid 4,1,other
+623767,wrist & scaphoid 4f,1,other
+623768,wrist & scaphoid/ 4,1,other
+623769,wrist & thumb splint,1,supplies
+623770,wrist & thumb support l,1,supplies
+623771,wrist & thumb support m,1,supplies
+623772,wrist & thumb support s,1,supplies
+623773,wrist & thumb support xl,1,supplies
+623774,wrist & thumb support xxl,1,supplies
+623775,wrist ( 2 views,1,imaging
+623776,wrist ( ap-lat ) left,1,imaging
+623777,wrist ( ap-lat ) right,1,imaging
+623778,wrist ( both ) a-p view,1,imaging
+623779,wrist ( one view,1,supplies
+623780,wrist ( two view,3,imaging
+623781,wrist (2 views,2,imaging
+623782,wrist (2 views) x-ray,1,imaging
+623783,wrist (2v,2,imaging
+623784,wrist (2vs,1,other
+623785,wrist (3 views,1,imaging
+623786,wrist (3v,1,imaging
+623787,wrist (ap & lat,2,imaging
+623788,wrist (ap & scaphoid view,2,imaging
+623789,wrist (complete) - 3 view,1,imaging
+623790,wrist (complete) - 3v,1,imaging
+623791,wrist (left) (mri,1,imaging
+623792,wrist (limited) - 2 views,1,imaging
+623793,wrist (limited) - 2v,2,imaging
+623795,wrist (one view,1,supplies
+623796,wrist (right) (mri,1,imaging
+623797,wrist (two view,2,imaging
+623798,wrist (two views,2,imaging
+623799,wrist + scaphoid - 2 films,1,other
+623800,"wrist , stabilization , kit., fisher & paykel healthcare, fisher & paykel healthcare, , , fisher & paykel healthcare",1,other
+623801,wrist - 1 view,1,imaging
+623802,wrist - 1v,1,imaging
+623803,wrist - 2 view,1,imaging
+623805,wrist - 2 views (unilateral,1,imaging
+623806,wrist - 2 views ap/lat,1,imaging
+623807,wrist - 2 views t73100,1,imaging
+623815,wrist - 2v,2,imaging
+623816,wrist - 2vs,1,other
+623818,wrist - 3 views (unilateral,1,imaging
+623819,wrist - 3 views ap/lat/obl,1,imaging
+623823,wrist - 3/4 views,1,imaging
+623824,wrist - 3v,1,imaging
+623825,wrist - 4 views,6,imaging
+623826,wrist - 4 views(300090,1,imaging
+623829,wrist - additional view,1,imaging
+623830,wrist - ap,1,imaging
+623831,wrist - ap & lat,1,imaging
+623832,wrist - ap & lat & obil,1,imaging
+623834,wrist -1 view(300089,1,imaging
+623835,wrist -1 views,1,imaging
+623836,wrist -2 view,1,imaging
+623837,wrist -2 views,1,imaging
+623838,wrist -4 views,1,imaging
+623839,wrist / 2v,1,imaging
+623840,wrist / hand ap&lat,1,imaging
+623842,wrist /2v,1,imaging
+623843,wrist /ap0&lat0,1,other
+623844,wrist 1 2 views (x-ray,1,imaging
+623845,wrist 1 or 2 views unilateral,1,imaging
+623846,wrist 1 view,3,imaging
+623848,wrist 1v,1,imaging
+623849,wrist 2 films,2,other
+623850,"wrist 2 films , pa & lateral",1,imaging
+623851,wrist 2 v,1,imaging
+623852,wrist 2 view,4,imaging
+623854,wrist 2 views (354,1,imaging
+623855,wrist 2 views left side,1,imaging
+623856,wrist 2 views right side,1,imaging
+623857,wrist 2 views(03041,1,imaging
+623858,wrist 2 views(300088,1,imaging
+623861,wrist 2.v,1,other
+623863,wrist 2v,6,imaging
+623864,wrist 2v (left) (xray,1,imaging
+623865,wrist 2v x-ray,1,imaging
+623868,wrist 2views right side,1,imaging
+623869,wrist 3 4 views (x-ray,1,imaging
+623870,wrist 3 view,2,imaging
+623871,wrist 3 views,5,imaging
+623872,wrist 3 views-1340,1,imaging
+623874,wrist 4v,1,imaging
+623875,wrist a /l (left) ????,1,other
+623876,wrist a /l (right) ????,1,other
+623877,wrist a.p. for rickets,1,lab_test
+623878,wrist a/l(left,1,other
+623879,wrist a/l(right,1,other
+623880,wrist additional view ( scaphoid vi,1,imaging
+623883,wrist additional view _ scaphoid view _,1,imaging
+623884,wrist additional view scaphoid view,1,imaging
+623885,wrist additional view- single v,1,imaging
+623886,wrist and finger splint-per pcs,1,supplies
+623887,wrist and scaphoid bone,1,imaging
+623888,wrist and thumb splint,1,supplies
+623889,wrist and thumb splint (large,1,supplies
+623890,wrist and thumb splint (medium,1,supplies
+623891,wrist and thumb splint-small,1,supplies
+623892,wrist ap & lat,2,imaging
+623893,wrist ap & lateral views,1,imaging
+623894,wrist ap + lat,1,imaging
+623895,wrist ap -lat,1,imaging
+623896,wrist ap / lat,1,imaging
+623897,wrist ap / lat / scaphoid,1,imaging
+623898,wrist ap / lat /oblique 3 views,1,imaging
+623899,wrist ap / lat 2 views,1,imaging
+623900,wrist ap / lat. 2 films,1,imaging
+623901,wrist ap / lat. 2 views,1,imaging
+623902,wrist ap / lateral,1,imaging
+623903,wrist ap / latwrist ap / lat,1,imaging
+623904,wrist ap / oblique / lat. 3 views,1,imaging
+623905,wrist ap /lat,1,imaging
+623906,wrist ap lat,1,imaging
+623907,wrist ap lat (2v,1,imaging
+623908,wrist ap lat oblique,1,imaging
+623909,wrist ap lat oblique (3v,1,imaging
+623910,wrist ap \ lat \ oblique,1,imaging
+623911,wrist ap&lat ( rt / lt,1,imaging
+623912,wrist ap+lat (2 views,1,imaging
+623913,wrist ap+lat 2 views,1,imaging
+623914,"wrist ap, lat &oblique (rt/lt",1,imaging
+623915,"wrist ap, lat& oblique( rt/ lt",1,imaging
+623916,"wrist ap, lateral & scaphoid",1,imaging
+623917,"wrist ap,lat&scophiod-3 views",1,imaging
+623919,wrist ap-lat 2 ??views,2,imaging
+623921,wrist ap-lat 2 view,1,imaging
+623923,wrist ap-lat 2views,1,imaging
+623924,wrist ap-lateral (one side,1,imaging
+623925,wrist ap-lateral-oblique,1,imaging
+623926,wrist ap. lat & ob,1,imaging
+623927,wrist ap/ lat,1,imaging
+623928,wrist ap/ lat/scaphoid v,1,imaging
+623930,wrist ap/lat 2 views,3,imaging
+623931,wrist ap/lat 2 ??views,1,imaging
+623936,wrist ap/lat/obl,1,imaging
+623937,wrist ap/lat/oblique,1,imaging
+623938,wrist ap/lat/oblique 57506-03-21,1,imaging
+623939,"wrist arthroscopy, tfcc debridement and/or chondroplasty",1,procedure
+623940,wrist arthroscopy-1 day pkg,1,procedure
+623941,wrist bandage,1,supplies
+623942,wrist block,1,procedure
+623943,wrist bmd,1,other
+623944,wrist brace,1,supplies
+623945,wrist brace m/s/l,1,supplies
+623946,"wrist brace ""all sizes"" (ortho",1,supplies
+623947,wrist brace (s/m/l/xl/2xl) (both hands) (iming) (ortho,1,supplies
+623948,wrist brace (s/m/l/xl/2xl) (both hands) (iming) (ortho) ^^,1,supplies
+623949,wrist brace -diff.size,1,supplies
+623950,wrist brace -m,1,supplies
+623951,wrist brace -s,1,supplies
+623952,wrist brace large l,1,supplies
+623953,wrist brace large left,1,supplies
+623954,wrist brace large right,1,supplies
+623955,wrist brace large right # 5015-04,1,supplies
+623956,wrist brace left large #5015-09,1,supplies
+623957,wrist brace left medium,1,supplies
+623958,wrist brace medium left,1,supplies
+623959,wrist brace orthocare,1,supplies
+623960,wrist brace right medium,1,supplies
+623961,wrist brace small left,1,supplies
+623962,wrist brace small right # 5015-02,1,supplies
+623963,wrist brace w/ splint (xxl,1,supplies
+623964,wrist brace w/ support,1,supplies
+623965,wrist brace w/ thumb splint 8* left -black l,1,supplies
+623966,wrist brace w/ thumb splint 8* left -black m,1,supplies
+623967,wrist brace w/ thumb splint 8* left -black xl,1,supplies
+623968,wrist brace w/ thumb splint 8* right -black s,1,supplies
+623969,wrist brace w/ thumb splint 8* right -black l,1,supplies
+623970,wrist brace w/ thumb splint 8* right -black m,1,supplies
+623971,wrist brace w/ thumb splint 8* right -black xl,1,supplies
+623972,wrist brace w/ thumb splint 8* right -black xxl,1,supplies
+623973,wrist brace with 2 aluminium stays l,1,supplies
+623974,wrist brace with 2 aluminium stays m,1,supplies
+623975,wrist brace with 2 aluminium stays s,1,supplies
+623976,wrist brace with 2 aluminium stays xl,1,supplies
+623977,wrist brace with 2 aluminium stays xxl,1,supplies
+623978,wrist brace with splint (m,1,supplies
+623979,wrist brace with splint r/l (s,1,supplies
+623980,wrist brace with splint r/l (xl,1,supplies
+623981,wrist brace wth splint r/l (l,1,supplies
+623982,wrist brace xl left,1,supplies
+623983,wrist brace xl right,1,supplies
+623984,wrist brace(orthocare,1,supplies
+623985,wrist creepe bandage,1,supplies
+623986,wrist crepe bandage,1,supplies
+623987,wrist ct multisectionwo contrast,1,imaging
+623988,wrist ct multisection^wo contrast,1,imaging
+623989,wrist determination of age,1,other
+623990,wrist examination,1,consultation
+623991,wrist exercise ball,1,other
+623992,wrist exerciser ball (mafsal,1,other
+623993,wrist fixing belt large,1,supplies
+623994,wrist four position,1,other
+623995,wrist four views,1,imaging
+623996,wrist fusion,1,procedure
+623997,wrist fusion plate -auxien#ti-586-000,1,supplies
+623998,wrist fusion plate diff.sizes,1,supplies
+623999,wrist fusion total or partial,1,procedure
+624000,wrist hand orthosis - adult,1,supplies
+624001,wrist hand-thumb lmmobilizer,1,other
+624003,wrist j ap & lat 2f,1,imaging
+624004,wrist j pa &lat ( r or l,1,imaging
+624005,wrist joint,4,imaging
+624006,wrist joint ( 14001118,1,imaging
+624007,wrist joint ( 2 v,1,imaging
+624008,wrist joint ( ap+lat,2,imaging
+624009,wrist joint (1 view,1,imaging
+624010,wrist joint (1v,1,imaging
+624011,wrist joint (ap/lat/ulnar deviation,1,imaging
+624012,"wrist joint , 2 views",1,imaging
+624013,"wrist joint , 3 views",1,imaging
+624014,wrist joint - 2 view,3,imaging
+624016,wrist joint - 4 view,3,imaging
+624018,wrist joint - 535,1,imaging
+624019,wrist joint -ap-lat- os,1,imaging
+624020,wrist joint -ap-lat-ob- os,1,imaging
+624021,wrist joint / ap / lat,3,imaging
+624024,wrist joint 1 film,2,imaging
+624025,wrist joint 2 views,5,imaging
+624026,wrist joint 2 views-1339,1,imaging
+624027,wrist joint 2f,3,imaging
+624029,wrist joint 2v,1,imaging
+624030,wrist joint 3 views,1,imaging
+624031,wrist joint 4 views,4,imaging
+624032,wrist joint 4 views-1341,1,imaging
+624033,wrist joint 4v,2,imaging
+624034,wrist joint a-p,3,imaging
+624035,wrist joint a.p&lateral,1,lab_test
+624036,wrist joint ap,5,imaging
+624037,wrist joint ap & lat,2,imaging
+624038,wrist joint ap & lateral left,1,imaging
+624039,wrist joint ap & lateral right,1,imaging
+624040,wrist joint ap &lat,1,imaging
+624041,wrist joint ap + lat,1,imaging
+624042,wrist joint ap / lat/ ulnar,1,imaging
+624043,wrist joint ap lat,1,imaging
+624044,wrist joint ap left,1,imaging
+624045,wrist joint ap right,1,imaging
+624046,wrist joint ap&lat view,1,imaging
+624048,wrist joint ap/lat,1,imaging
+624049,wrist joint ap/lat/obl,1,imaging
+624050,wrist joint ap/lat/ulnar dev,1,imaging
+624051,wrist joint ap/lat/ulnar devia,1,imaging
+624052,wrist joint ap/lat/ulnar deviation,1,imaging
+624053,wrist joint b / v,1,imaging
+624054,wrist joint b/v,1,imaging
+624055,wrist joint both views,1,imaging
+624056,wrist joint bv,1,imaging
+624057,wrist joint ct scanning,2,imaging
+624058,wrist joint lat,2,imaging
+624059,wrist joint lateral,4,imaging
+624060,wrist joint lateral left,1,imaging
+624061,wrist joint lateral-x-ray,1,imaging
+624062,wrist joint lateral-x-ray&ap,1,imaging
+624063,wrist joint obli / ap / lat,1,imaging
+624064,wrist joint obli / ap/ lat,1,imaging
+624065,wrist joint one side two views,1,supplies
+624066,wrist joint p.a,1,lab_test
+624067,wrist joint scaphoid view,2,imaging
+624068,wrist joint two views,3,imaging
+624070,wrist joint ulnar dev,2,imaging
+624072,wrist joint ulnar dev. m3v,1,imaging
+624073,wrist joint ulnar deviation,1,imaging
+624074,wrist joint ulnar deviation-x-ray,1,imaging
+624075,wrist joint x ray ap&lat,1,imaging
+624076,wrist joint x-ray,1,imaging
+624077,wrist joint x-ray (pa&lat,1,imaging
+624078,wrist joint x-ray(pa&lat,2,imaging
+624080,wrist joint x-ray2,1,imaging
+624081,wrist joint(ap+lateral,1,imaging
+624082,wrist joint-carpal canal (tunnel view,1,dental
+624083,wrist joint-ulnar deviation,1,imaging
+624084,wrist joints,1,imaging
+624085,wrist jt. b/v,2,other
+624086,wrist lt x-ray pa & obl,1,imaging
+624087,wrist minimum three views,1,imaging
+624088,wrist one side 2 views,1,supplies
+624089,wrist or ankle joint,1,imaging
+624090,wrist or hand 2 views,1,imaging
+624091,wrist pa & la 2v,1,imaging
+624092,wrist pa & lat,1,imaging
+624093,wrist pa and lat,1,imaging
+624094,"wrist pa, lat",1,imaging
+624095,wrist pa- lat ob 3v,1,imaging
+624096,wrist pa. lat. oblique,1,imaging
+624097,"wrist pa., lat. & obl",1,imaging
+624098,wrist pa/lat,1,imaging
+624099,wrist pollex-med 50mm strap[unthu-197,1,supplies
+624100,"wrist rap (oppo) , 2081",1,supplies
+624101,wrist reconstruction- 1 day pkg,1,procedure
+624102,wrist restraint mdt 829070c,1,other
+624103,wrist routine 1 film 4 views 0115,1,imaging
+624104,wrist rt. x-ray pa & obl,1,imaging
+624105,"wrist rt. x-ray pa, obl & lat",1,imaging
+624106,wrist scaphoid xr 4-views,1,imaging
+624107,wrist scaphoidectomy - 1day pkg,1,procedure
+624108,wrist single joint pa/lat,1,imaging
+624109,wrist splint,1,supplies
+624110,wrist splint (dyna) size 1,1,supplies
+624111,wrist splint (dyna) size 2,1,supplies
+624112,wrist splint (l&r) (mafsal,1,supplies
+624113,"wrist splint (l&r) (mafsal), conwell taiwan",1,supplies
+624114,wrist splint (left/right,1,supplies
+624115,wrist splint 5308,1,supplies
+624116,wrist splint brace (futuro,1,supplies
+624117,wrist splint elas right-large,1,supplies
+624118,"wrist splint elastic 6-inch, right, small, (deroyal) # 5015-02",1,supplies
+624119,wrist splint elastic lge-left,1,supplies
+624120,wrist splint elastic lge-right,1,supplies
+624121,wrist splint elastic med-right,1,supplies
+624122,"wrist splint elastic, 6-inch, left x-larg, (deroyal) 5015-10",1,supplies
+624123,"wrist splint elastic, 6-inch, left, medium , (deroyal) 5015-08",1,supplies
+624124,"wrist splint elastic, 6-inch, right large, (deroyal) # 5015-04",1,supplies
+624125,"wrist splint elastic, 6-inch, right, medium, (deroyal) # 5015-03",1,supplies
+624126,wrist splint hand,1,supplies
+624127,wrist splint left hand,1,supplies
+624128,wrist splint r&l all size,1,supplies
+624129,wrist splint right hand,1,supplies
+624130,wrist splint right medium 6,1,supplies
+624131,wrist splint with strap 5304,1,supplies
+624132,wrist splint w/ strap (mafsal,1,supplies
+624133,"wrist splint, canvas cock-up white, left, small, (deroyal) # 5017-06",1,supplies

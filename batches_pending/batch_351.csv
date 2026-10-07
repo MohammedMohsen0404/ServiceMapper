@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+554463,septoplasty with turbinectomy,1,procedure
+554464,septoplasty with turbinectomy p/d,1,procedure
+554465,"septoplasty or submucous resection, with or without cartilage scoring, contouring or replacement with graft",2,procedure
+554468,septoplasty+smd,1,procedure
+554471,septoplastypd,1,other
+554472,septoplasy,1,other
+554474,"sequelae of treatment, major complexity",1,inpatient
+554475,"sequelae of treatment, minor complexity",1,inpatient
+554476,"sequent meniscal repair device, curved needle 4 implants",1,supplies
+554477,"sequent please neo drug coated balloon, b.braun #50232",1,supplies
+554478,"sequent please neo ptca-catheter, assorted sizes, b. braun",1,supplies
+554479,sequential compression dev,1,other
+554482,sequential venous compression system,1,other
+554483,sequential%20compression%20device,1,other
+554484,sequestractomy of small bones p/d,1,imaging
+554488,sequestrectomy (small bone,1,imaging
+554490,sequestrectomy of short bone,1,imaging
+554491,sequestrectomy of fibula,1,procedure
+554609,seretide250mcg,1,other
+554610,seretidediskus250mcg,1,other
+554611,seretidediskus500mcg,1,other
+554612,seretidediskus500mgmcg,1,other
+554613,seretideevohaler125mic,1,other
+554614,seretideevohaler125mcg,1,other
+554615,seretideevohaler250mcg,1,other
+554616,seretideevohaler50mic,1,other
+554619,sergical . extraction,1,dental
+554620,sergical extraction of complytly impacted tooth in the jaw bone,1,imaging
+554621,sergical stitch - one stitch,1,supplies
+554624,serial tonometry of intraocular pressure,1,diagnostic
+554628,seroflo,1,other
+554641,seroflo 50 250 ciphaler,1,other
+554642,seroflo 50 500 ciphaler,1,other
+554643,seroflo 50/100 ciphaler,1,other
+554688,serotonin so my,1,other
+554689,serotonin blood test,1,lab_test
+554690,"serotonin, serum",1,lab_test
+554691,serova,1,other
+554715,sertidep,1,other
+554720,serum .cl,1,lab_test
+554721,serum .k,1,lab_test
+554722,serum .na,1,lab_test
+554725,serum alkaline phosphatase (alp,2,lab_test
+554726,serum alkaline phosphatase b,1,lab_test
+554729,serum amyloid a,1,lab_test
+554730,serum amyloid a (so,1,lab_test
+554731,serum amyloid a protein - saa - serum,1,lab_test
+554736,serum bilirubin (total / direct,1,lab_test
+554740,serum bilirubin t,1,lab_test
+554744,serum blood urea,1,lab_test
+554746,serum ca 19.9 (tumour marker,1,lab_test
+554749,serum ca (total,1,lab_test
+554762,serum cholesterol (total,1,lab_test
+554763,serum cholestrerol,1,lab_test
+554765,serum chromgranin a,1,lab_test
+554767,serum cortisone (1 sample,1,lab_test
+554768,serum cortisone (1 sample)696,1,lab_test
+554769,serum cortisone (2 sample)699,1,lab_test
+554770,serum createnine,1,lab_test
+554771,serum creatine,2,lab_test
+554773,serum creatinine (lab,1,lab_test
+554774,serum creatinine ??? ???? ???????????,1,lab_test
+554777,serum creatinine--????????? ????? 12.28,1,lab_test
+554778,serum direct bilirubin(d-bil,1,lab_test
+554779,"serum electrolyte panel (co2,cl,k,na",1,lab_test
+554781,"serum electrolyte panel(co2,cl,k,na). ?????????????",1,lab_test
+554782,"serum electrolyte panel(co2,cl,k,na).?????????????",1,lab_test
+554784,serum electrolytes (mhl lab,1,lab_test
+554785,serum electrolytes panel,1,lab_test
+554786,serum electrophoresis - ?????,1,lab_test
+554787,serum estradiol level,1,lab_test
+554789,serum ferrettin,1,lab_test
+554797,serum ferritin ???? ???????? ?????,1,lab_test
+554798,serum ferritin(lab,1,lab_test
+554800,serum folat,1,lab_test
+554801,serum folate,1,lab_test
+554802,serum folate - ?????,1,lab_test
+554804,serum free light chains (biosc,1,lab_test
+554805,serum got,1,lab_test
+554806,serum gpt,1,lab_test
+554807,serum gamma gt (ggt,1,lab_test
+554808,serum gamma glutamyl transferase (ggt,1,lab_test
+554809,serum glucose 6 phosphatedehydrogen (g6 pd,1,lab_test
+554810,serum glutamate oxaloacetate transaminase (sgot,1,lab_test
+554811,serum glutamate pyruvate transaminase (sgpt,1,lab_test
+554814,serum h pylori,1,lab_test
+554815,serum h. pylori abs titre,1,lab_test
+554816,serum h.pylori (igg,1,lab_test
+554817,serum hcg (quantitative) - 277,1,lab_test
+554818,serum hiv 1/2 abs,1,lab_test
+554822,serum ige (total,1,lab_test
+554823,serum immunoelectrophoresis,1,lab_test
+554824,serum immunofixation electrophoresis,1,lab_test
+554825,serum immunofixation electrophoresis - ?????,1,lab_test
+554842,serum l h,1,lab_test
+554843,serum ldl cholesterol (ldl-c,1,lab_test
+554847,serum level of igg,1,lab_test
+554848,serum level of igm,2,lab_test
+554850,serum lipase (l167,1,lab_test
+554855,serum mg,2,lab_test
+554857,serum na & k,1,lab_test
+554859,serum osmolality (measured,1,lab_test
+554861,serum phosphates,1,lab_test
+554863,serum potasium (k+) ???? ?????????? ?????,1,lab_test
+554871,serum pregnancy test ?????????? ?????????? ???? ????????,1,lab_test
+554872,serum pregnancy test bupa,1,lab_test
+554873,serum pregnancy test medgulf,1,lab_test
+554874,serum pregnancy test تحليل الحمل في الدم,1,lab_test
+554882,serum pregnany test in blood,1,lab_test
+554885,serum protein electrophoresis (spep,1,lab_test
+554886,serum qualitative,1,lab_test
+554887,serum sgot/ast,1,lab_test
+554888,serum sgpt (alt,1,lab_test
+554889,serum sgpt/alt,1,lab_test
+554892,serum sodium (na+) ???? ???????? ?????,1,lab_test
+554893,serum sugar ( after 2 hours,1,lab_test
+554899,serum total bilirubin(t-bil,1,lab_test
+554904,serum tri glycrid,1,lab_test
+554907,serum triglycerides (tg,1,lab_test
+554909,serum urea ??? ???? ???????? ?????,1,lab_test
+554925,serum zn,1,lab_test
+554930,serum bilirubin total 572,1,lab_test
+554931,serum bilirubin-total,1,lab_test
+554937,serum electrolyte panel(co2 cl k na,1,lab_test
+554941,serum electrolyte panelco2clkna,1,lab_test
+554942,serum electrolyte panel,3,lab_test
+554948,serum ferritin levels,1,lab_test
+554949,serum ferritin levels1291,1,lab_test
+554951,serum for pregnancy,1,lab_test
+554952,serum free light chain(sflc)testing,1,lab_test
+554953,serum glutamic pyruvic transaminase(sgpt,1,lab_test
+554959,serum level of ige,1,lab_test
+554960,serum level of iga,1,lab_test
+554973,serum reactive protien (c.r.p,1,lab_test
+554982,serum%20ferritin%20,1,lab_test
+554983,serum%20folic%20acid%20,1,lab_test
+554984,serum%20preg%20test%09,1,lab_test
+554985,serum%20electrolyte%20panel,1,lab_test
+554989,serum. cholesterol,1,lab_test
+554991,serum. k,1,lab_test
+554992,serum. na,1,lab_test
+554994,serum. triglycerides,1,lab_test
+554995,serum.pregnancy test,1,lab_test
+554996,serumceruloplasmin,1,other
+554997,serumferritin,1,other
+554998,serum_ferritin,1,lab_test
+554999,serum_h. pylori antibodies,1,lab_test
+555000,serun albumin,1,lab_test
+555001,serun albumin ????? ???? ?????? ???????,1,lab_test
+555020,service charge - primpran,1,consultation
+555021,service charge - ringerlactate,1,consultation
+555025,service charge - voltarin,1,consultation
+555031,service charge for iv fluids,2,supplies
+555039,service cost of transfusion of blood products,1,lab_test
+555040,service encounter,1,other
+555041,service infusion,1,supplies
+555043,service giving visit,1,consultation
+555045,session for physiotherapy second degree,1,physiotherapy
+555046,session of p.t 30 m,1,physiotherapy
+555047,session after consultation,1,physiotherapy
+555048,session for hemi plagic patient,1,physiotherapy
+555049,session in gym for 1 days,1,physiotherapy
+555050,session physiotherapy clinic,1,physiotherapy
+555051,"session physiotherapy, chest",1,physiotherapy
+555052,"session physiotherapy, multiple",1,physiotherapy
+555053,"session physiotherapy, one service",1,physiotherapy
+555054,session to modify the behavior,1,physiotherapy
+555055,session with a behavioral therapist,1,physiotherapy
+555056,session with kinesiotape,1,physiotherapy
+555057,session-based packeage (8 sessions of one specialisty) applied behavioural analysis,1,physiotherapy
+555058,session-based packeage (8 sessions of one specialisty) occupational therapy,1,physiotherapy
+555059,session-based packeage (8 sessions of one specialisty) speech language pathology,1,physiotherapy
+555060,sesson ( excercises + electrotherapy,1,other
+555061,set screw locker,1,supplies
+555062,set screw t-30 9.5mm,1,supplies
+555063,"set screw, smith & nephew, #112727",1,supplies
+555064,"set, blood administration, consumable",1,lab_test
+555065,"set, blood transfusion, ""y"" type",1,lab_test
+555066,"set, chest aspiration with catheter 6 fr",1,eyewear
+555067,"set, continuous renal replacement therapy (crrt",1,physiotherapy
+555068,"set, iv administration, vented 210cm",1,supplies
+555069,"set, iv extension 100 cm",1,supplies
+555070,"set, iv extension 80cm",1,supplies
+555071,"set, iv pump, primary, with filter",1,supplies
+555072,"set, iv, plum primary (orange",1,supplies
+555073,"set, iv, primary, without filter",1,supplies
+555074,"set, infusion, volumat, 15u filter, vl on90",1,supplies
+555075,"set, infusion, volumat, 15u filter, vl st00",1,supplies
+555077,"set, irrigation, tur",1,procedure
+555078,"set, lead, ecg wire, 72 in",1,diagnostic
+555079,"set, quickclip rotatable, size: 2.8mm",1,other
+555080,"set, quickclip, rotatable, size 2.8mm",1,other
+555081,"set, sitz bath",1,other
+555082,"set, tracheosotomy percutaneous, size: 8",1,procedure
+555083,"set, transfusion, volumat, 200u filter, vl tr00",1,supplies
+555084,"set, tubing, with extension, disposable",1,supplies
+555085,"set,tubing dp 30 infiltration pump",1,supplies
+555086,"setimplantation single-use instrumentation 8mm, 0.5 to 1.5mm proud, cartiva #mtk-08",1,other
+555108,sevelamer spc,1,other
+555114,seven senses program (one month - 5 days a week - 5 hours a day,1,supplies
+555115,seven street/s234/xys/f,1,other
+555116,sevenseasjointcaremaxcap&tab30,1,other
+555118,seventh.street 077 fr j5g 54,1,eyewear
+555119,seventh.street 086 fr 807 50,1,eyewear
+555120,seventh.street 110c fr o6w/m9 50 clip,1,eyewear
+555121,seventh.street 337 fr 35j 46,1,eyewear
+555122,seventh.street 572 fr 807 52,1,eyewear
+555123,seventy 0415,1,other
+555124,sever coronal prophy & scaling,1,dental
+555127,severe scaling and polishing,1,dental
+555128,"severing of blepharorrhaphy, bilateral",1,other
+555346,"sex hormone binding globulin (shbg), serum",1,lab_test
+555347,sex hormone binding globulin p,1,lab_test
+555349,sex identification; drumsticks,1,other
+555350,sex%20identification%3b%20drumsticks,1,other
+555351,sexual transmitted infections by multiplex array,1,other
+555353,sexually transmitted diseases panel (stds,1,lab_test
+555354,sexually transmitted infections (sti) detection in urine by pcr,1,lab_test
+555355,"sexually transmitted infections - sti , qualitative multiplex pcr - 10 pathogens",1,lab_test
+555356,sf2136/slg8/47,1,other
+555357,sfero flex frm 2261/54/18/268,1,eyewear
+555359,sferoflex fm mod 2828 col 307,1,eyewear
+555360,sferoflex fm mod 2829 col.307,1,eyewear
+555361,sferoflex fm mod.1114 col.209,1,eyewear
+555362,sferoflex fm mod.1117 col.235,1,eyewear
+555363,sferoflex fm mod.2521 col.l316,1,eyewear
+555366,sferritin,1,other
+555376,sgotast,1,other
+555386,shaaban abd elhamid elwan,1,other
+555393,shaft of tibia ilizarov ext fixation,1,procedure
+555394,shahad essam said al,1,other
+555395,shaima abdelsalam abdelghany arfeen,1,other
+555396,shaima magdy mahmoud sabra,1,other
+555397,shaimaa aly genedy,1,other
+555400,shanil,1,other
+555401,share 1.2 bte hearing aid,1,supplies
+555402,share 1.2 cic hearing aid,1,supplies
+555403,share 1.3 bte hearing aid,1,supplies
+555404,share 1.3 cic hearing aid,1,supplies
+555405,share 1.3 itc hearing aid,1,supplies
+555406,share room,1,consultation
+555407,shared intermediate care unit - medical care,1,other
+555408,shared intermediate care unit - nursing care,1,consultation
+555410,shared room ( package with its inclusions,1,consultation
+555412,shared room (per day / day case,1,consultation
+555413,shared room 4 beds/day,1,consultation
+555414,shared room accomedation,1,consultation
+555415,shared room accomodation,1,consultation
+555416,shared room package,1,consultation
+555420,shared room+nursing care,1,consultation
+555421,shared room-medgulf,1,consultation
+555422,shared rooms charges,1,other
+555423,sharp container 21 liters with lid yellow,1,other
+555424,sharp container 5 qt wall mounted (red,1,other
+555425,sharps container,1,other
+555426,shaver blade,1,supplies
+555427,shaver blade 5.0mm,1,supplies
+555428,shaver tip 4.5 059 720530,1,other
+555429,"shaver, soft tisssue, mini",1,other
+555430,shavers blades 4.8mm,1,other
+555433,sheath hand controller,1,supplies
+555434,sheehan suicidal scale,1,lab_test
+555435,sherif hassan,1,other
+555439,"shields, eye, clear plastic with vent holes, universal",1,eyewear
+555440,shigella ab,1,lab_test
+555441,shigella by pcr,1,lab_test
+555442,shingrix vaccines,1,other
+555445,"shingrix® herpes zoster vaccine (recombinant, adjuvanted",1,lab_test
+555446,shirmer test,1,lab_test
+555447,shirodkar removal / cerclage removal bedside,1,procedure
+555448,shirodkar removal / cerclage removal - in o.r,1,procedure
+555450,shirodkar suture inclusive,1,supplies
+555453,shoaib syed,1,other
+555454,shock wave c2 cathlab,1,eyewear
+555456,shock wave therapy (30 mint,1,physiotherapy
+555457,shock wave therapy / ?????? ???????? ???????,1,physiotherapy
+555458,shock waves,1,other
+555459,shock wave balloon,1,supplies
+555461,shockwave,1,other
+555462,"shockwave c2 , ivl catheter, 2.5x12mm, intelmed #c2ivl2512",1,eyewear
+555465,shockwave therapy unilateral,1,physiotherapy
+555466,shockwave treatment session,1,physiotherapy
+555467,shockwave session,1,physiotherapy
+555470,shockwave therapyb`,1,other
+555471,shockwavetherapy,1,other
+555473,shoe cover plastic,1,eyewear
+555475,"shoe cover, non-conductive, non-sterile",1,supplies
+555476,shoes cover 1/100,1,other
+555477,short arm cast synthetic,1,supplies
+555478,short arm cast plaster,2,supplies
+555479,short elbow/ knee slabt(p,1,other
+555480,short elbow/knee cast (s,1,supplies
+555481,short elbow/knee slabt(p,1,other
+555482,short leg cast plaster,2,supplies
+555483,short posterior ankle slap,1,procedure
+555484,short stay room - hourly rate,2,consultation
+555485,short synacthan test,1,lab_test
+555486,short ultrasound,2,imaging
+555491,short arm cast plaster(adult,1,supplies
+555492,short arm cast plaster(child,1,supplies
+555493,short arm or leg cast plaster(adult,1,supplies
+555494,short arm slab plaster(adult,1,supplies
+555495,short arm slab plaster(child,1,supplies
+555496,short leg cast synthetic,1,supplies
+555498,short leg cast plaster(adult,1,supplies
+555499,short leg slab plaster adult,1,supplies
+555500,short stay 1 hour,1,other
+555501,short stay room - daily rate,1,consultation
+555504,short wave (s.w,1,lab_test
+555507,short-wave diathermy treatment system electrode,1,supplies
+555508,short-wave diathermy treatment system generator,1,other
+555509,shortening osteotomy of ulna,1,procedure
+555512,shoulder joint a/p & lateral,1,imaging
+555513,shoulder & clavicle 2 views,1,imaging
+555514,shoulder ( 1 v )-shoulder ( 1 v,1,imaging
+555515,shoulder ( 2 v,2,imaging
+555517,shoulder ( 2 v )-shoulder ( 2 v,1,imaging
+555518,shoulder ( a.p-lat -axial,2,imaging
+555526,shoulder (ext. rot,1,other
+555530,shoulder (r l) 3 v,1,lab_test
+555534,shoulder (two views) x-ray,1,imaging
+555539,shoulder - 4 views,1,imaging
+555540,shoulder - ap (neutral + ext. rotation,1,imaging
+555541,shoulder / scapula - 1 view,1,imaging
+555542,shoulder / scapula - 2 views,1,imaging
+555543,shoulder / scapula - 2 views ( ap / lat,1,imaging
+555544,shoulder / scapula - 3 view (ap / lat / oblique,1,imaging
+555546,shoulder / scapula-1 view,1,imaging
+555547,shoulder / scapula 1 views,1,imaging
+555548,shoulder / scapula 2 views,1,imaging
+555551,shoulder 1 view ????? ????? ??? ????,1,imaging
+555552,shoulder 1 view rad. exam,1,imaging
+555553,shoulder 1-view,1,imaging
+555554,shoulder 1v,1,imaging
+555556,shoulder 2 view - ????? ????? ?????,1,imaging
+555558,shoulder 2 views ????? ????? ?????,1,imaging
+555561,shoulder 2 views[15.32,1,imaging
+555562,shoulder 2-views,1,imaging
+555566,shoulder 2v-plain x-rays 2 views,1,imaging
+555568,shoulder 4 views,1,imaging
+555569,shoulder a p-5019,1,lab_test
+555574,shoulder ap & lat. 2 films,1,imaging
+555576,shoulder ap int. ext. rotation,2,imaging
+555577,shoulder ap v,1,imaging
+555578,"shoulder ap, axial lt",1,imaging
+555579,"shoulder ap, lat lt",1,imaging
+555582,shoulder apaxial (1v,1,imaging
+555583,shoulder apint. ext. rotation (3v,1,imaging
+555584,shoulder apneutral (1v,1,imaging
+555590,shoulder arm abduction orthosis (triple-china,1,supplies
+555592,shoulder arthroscopy for subacromial decompression + rotator cuff repair,1,procedure
+555593,shoulder both sides 2f,1,imaging
+555594,shoulder brace with abduction and adduction adjustment - (ms,1,supplies
+555595,shoulder clavicle fr. orif,1,eyewear
+555596,shoulder complete rad. exam,1,imaging
+555599,shoulder dislocation cr/ga,1,procedure
+555600,shoulder immobilizer xl,1,supplies
+555601,shoulder inter & external rotation-5020,1,other
+555602,shoulder internal & external rotation,1,other
+555603,shoulder internal and external rotation,1,other
+555608,shoulder j. 2 views,1,imaging
+555611,shoulder joint (ap) 1film x-ray,1,imaging
+555612,shoulder joint - 1 view,1,imaging
+555613,shoulder joint - 2 views ( ap / lat,1,imaging
+555614,shoulder joint - 3 view (ap / lat / oblique,1,imaging
+555621,shoulder joint ap&lat,1,imaging
+555624,shoulder joint ap& lat,1,imaging
+555625,shoulder joint ap/lat - ???? ??? ???? ????? ????? ???? ??????,1,imaging
+555627,shoulder joint lat/ap,1,imaging
+555633,shoulder joint x ray 1 film,1,imaging
+555634,shoulder joint x ray 2 film,1,imaging
+555635,shoulder joint xray a.p.- l,1,imaging
+555636,shoulder joint xray a.p.- r,1,imaging
+555637,shoulder joint xray l - 2 views,1,imaging
+555638,shoulder joint xray r - 2 views,1,imaging
+555639,shoulder joint(ap)&(lat,1,imaging
+555640,shoulder joint(ap)&(lat) 2film x-ray,1,imaging
+555641,shoulder joint/1 view,1,imaging
+555642,shoulder joint/2 views,1,imaging
+555643,shoulder joint/3 views,1,imaging
+555644,shoulder jt. -2v,1,imaging
+555646,shoulder lat v,1,imaging
+555647,shoulder neutral 2 film,1,other
+555648,shoulder one film,1,supplies
+555650,shoulder open laterjet procedure (coracoid transfer,1,procedure
+555652,shoulder rl,1,other
+555653,"shoulder replacement, total - excluding supplies",1,other
+555658,shoulder scapula - 3 views - ????? ????? 3 ?????,1,imaging
+555663,shoulder sling - ear007,1,procedure
+555664,shoulder subacromial decomp acromioplasty distal clavicle resection biceps tenodesis,1,procedure
+555665,shoulder subacromial decomp rotator cuff repair acromioplasty distal clavicle resection biceps tenodesis,1,procedure
+555666,shoulder subacromial decomp. acromioplasty distal clavicle resection biceps tenodesis,1,procedure
+555668,shoulder superior labrum repair (unilateral,1,procedure
+555669,shoulder support bandage - velpau,1,supplies
+555671,shoulder support x-large,1,supplies
+555672,"shoulder support, brace with abduction pad - (ms",1,supplies
+555675,shoulder u/s (one side) (right / left,1,supplies
+555676,shoulder unilateral x ray 2 views,1,imaging
+555677,shoulder unilateral x ray 3 views,1,imaging
+555678,shoulder unilateral x- ray 1 views,1,eyewear
+555679,shoulder unilateral x- ray 2 views,1,eyewear
+555680,shoulder unilateral x- ray 3 views,1,eyewear
+555681,shoulder w / wo weight bearing,1,other
+555682,shoulder w/wo weight bearing,1,other
+555683,shoulder x ray 1 view,2,imaging
+555684,shoulder x ray 2 view,1,imaging
+555685,shoulder x ray 3 view,1,imaging
+555686,shoulder x yay special mode,1,other
+555688,shoulder x-ray (ap,1,imaging
+555689,shoulder x-ray (ap) ???? ??? ???? ?????,1,imaging
+555691,shoulder x-ray 1 view,2,imaging
+555692,shoulder x-ray 2 view,1,imaging
+555693,shoulder xr,1,imaging
+555695,shoulder and scapula 3 views-534,1,imaging
+555696,shoulder and scapula 1 view,1,imaging
+555697,shoulder and scapula 1view-532,1,other
+555698,shoulder and scapula 2 view-533,1,imaging
+555699,shoulder and scapula 2 views,1,imaging
+555701,shoulder bandage,1,supplies
+555702,shoulder bilateral,1,imaging
+555703,shoulder continuous passive motion exerciser,1,other
+555704,shoulder immobilizer -(ms,1,supplies
+555705,"shoulder immobilizer, reusable",1,supplies
+555706,"shoulder immobilizer, single-use",1,supplies
+555708,shoulder joint (2 views,1,imaging
+555709,shoulder joint (3views,1,imaging
+555711,shoulder joint 1 p,1,imaging
+555713,shoulder joint 3 view,1,imaging
+555714,shoulder joint ap - lateral,1,imaging
+555716,shoulder joint anteroposterior,1,imaging
+555717,shoulder joint anteroposterior axial,1,imaging
+555722,shoulder joint- ct scan,1,imaging
+555723,shoulder joint-scapula,1,imaging
+555724,shoulder joint-scapula 2views,1,imaging
+555725,shoulder jt 1v,2,imaging
+555726,shoulder jt 2v-plain x-rays 2 views,1,imaging
+555729,"shoulder or scapula (one position, one film) plain x-ray",1,imaging
+555730,shoulder or scapula ap/axial 2v,1,imaging
+555731,shoulder orthosis,1,supplies
+555732,shoulder reverse/standard adaptor prosthesis,1,supplies
+555736,shoulder support/thermal therapy bandage,1,physiotherapy
+555738,shoulder with & without weight bearing-shoulder with & without weight bearing,1,other
+555739,shoulder xray,1,imaging
+555740,shoulder(p.a.l,1,lab_test
+555741,shoulder(r.l,1,lab_test
+555742,shoulder- both,1,other
+555743,shoulder-shoulder,1,other
+555744,shoulder/scapula 2 view,1,imaging
+555745,shoulder/scapula 2 or more views,2,imaging
+555746,shoulder/scapula 1 view,1,imaging
+555748,shoulder/elbow/knee & ankle joint ap/lat,1,imaging
+555749,shoulder/scapula -2 views,1,imaging
+555750,shoulder/scapula -3 views,1,imaging
+555751,shoulder/scapula-1view,1,other
+555753,shouloder joint,1,other
+555754,shower bath kit (nex clorex c2,1,eyewear
+555756,shrek frm 233,1,eyewear
+555757,shrek frm sk 1002,1,eyewear
+555759,"shroud kit,adult size(71x108",1,other
+555762,shunt tap - clinic or bedside,1,procedure
+555763,shunt system progav 2.0 with control reservoir,1,procedure
+555766,sickel cell electrophoresis,1,lab_test
+555767,sickel cells test,1,lab_test
+555768,sickeling test,1,lab_test
+555772,sickle cell (b,1,lab_test
+555773,sickle cell (screen test,1,lab_test
+555775,sickle cell anemia (hbb gene mutation analysis by pcr,1,lab_test
+555778,sickle cell screening test,1,lab_test
+555780,sickle cell solubility test (sfv,1,lab_test
+555782,"sickle cell test, blood",1,lab_test
+555784,sickle cells anemia-1158,1,lab_test
+555785,sickle cells test,1,lab_test
+555790,sickle cell screen765,1,lab_test
+555794,sickle cell test (sickling test,1,lab_test
+555797,sickle test - tat (8 duty hrs,1,lab_test
+555799,sickledex test,1,lab_test
+555800,sickling cell,1,other
+555801,"sickling cell test, hemoglobin s, screen, blood",1,lab_test
+555802,sickling cells test,1,lab_test
+555806,"sickling test, screen",1,lab_test
+555810,sickling test - screen,1,lab_test
+555811,sicky cell anemia test,1,lab_test
+555827,sigmoid colectomy,1,procedure
+555828,sigmoidocopy w/ biopsy,1,procedure
+555830,"sigmoidoscopy, flexible, diagnostic, with or without collection of specimen(s) by brushing or washing (separate procedure",1,procedure
+555844,signal.2.t.b.mix,1,lab_test
+555845,signia shell,1,other
+555846,"signs and symptoms, minor complexity",1,inpatient
+555847,signus rotaio titanium,1,supplies
+555848,sigvaris advanced arm sleeve with mitten,1,other
+555849,sigvaris advanced arm sleeve without mitten,1,other
+555850,sigvaris cotton stocking above knee (thigh) grip top (compression 18-21 mm.hg,1,supplies
+555851,sigvaris cotton stocking above knee (thigh) grip top (compression 23-32 mm.hg,1,supplies
+555852,sigvaris cotton stocking below knee (calf) (compression 18-21 mm.hg,1,supplies
+555853,sigvaris cotton stocking below knee (calf) (compression 23-32 mm.hg,1,supplies
+555858,silhouette 2886 fr 40/6064 53,1,eyewear
+555859,silhouette 2903 fr 20/6050 52,1,eyewear
+555860,silhouette 2909 fr 75/3040 51,1,eyewear
+555861,silhouette 2914 fr 75/6230 53,1,eyewear
+555862,silhouette 2921 fr 75/9020 53,1,eyewear

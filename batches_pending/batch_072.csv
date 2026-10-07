@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+246396,fsv;1.67;hmc;shodo core;75;--;3.25;0.50,1,dental
+246397,fsv;1.67;hmc;shodo core;75;--;3.25;1.75,1,dental
+246398,fsv;1.67;hmc;shodo core;75;--;3.50;0.00,1,dental
+246399,fsv;1.67;hmc;shodo core;75;--;3.50;1.00,1,dental
+246400,fsv;1.67;hmc;shodo core;75;--;3.50;2.00,1,dental
+246401,fsv;1.67;hmc;shodo core;75;--;3.75;0.00,1,dental
+246402,fsv;1.67;hmc;shodo core;75;--;3.75;0.75,1,dental
+246403,fsv;1.67;hmc;shodo core;75;--;3.75;1.25,1,dental
+246404,fsv;1.67;hmc;shodo core;75;--;4.00;0.00,1,dental
+246405,fsv;1.67;hmc;shodo core;75;--;4.00;0.50,1,dental
+246406,fsv;1.67;hmc;shodo core;75;--;4.25;0.00,1,dental
+246407,fsv;1.67;hmc;shodo core;75;--;4.25;2.00,1,dental
+246408,fsv;1.67;hmc;shodo core;75;--;4.50;0.00,1,dental
+246409,fsv;1.67;hmc;shodo core;75;--;4.50;0.50,1,dental
+246410,fsv;1.67;hmc;shodo core;75;--;4.50;1.25,1,dental
+246411,fsv;1.67;hmc;shodo core;75;--;4.75;0.00,1,dental
+246412,fsv;1.67;hmc;shodo core;75;--;4.75;0.25,1,dental
+246413,fsv;1.67;hmc;shodo core;75;--;5.00;0.00,1,dental
+246414,fsv;1.67;hmc;shodo core;75;--;5.00;0.50,1,dental
+246415,fsv;1.67;hmc;shodo core;75;--;5.00;2.00,1,dental
+246416,fsv;1.67;hmc;shodo core;75;--;5.25;1.25,1,dental
+246417,fsv;1.67;hmc;shodo core;75;--;5.50;1.00,1,dental
+246418,fsv;1.67;hmc;shodo core;75;--;5.50;1.25,1,dental
+246419,fsv;1.67;hmc;shodo core;75;--;6.00;0.00,1,dental
+246420,fsv;1.67;shmc;shodo pr;65;+-;3.00;0.00,1,eyewear
+246421,fsv;1.67;shmc;shodo pr;65;+-;4.25;0.00,1,eyewear
+246422,fsv;1.67;shmc;shodo pr;65;+-;4.25;0.75,1,eyewear
+246423,fsv;1.67;shmc;shodo pr;65;+-;4.50;1.25,1,eyewear
+246424,fsv;1.67;shmc;shodo pr;65;+-;5.00;1.00,1,eyewear
+246425,fsv;1.67;shmc;shodo pr;75;--;3.00;0.00,1,eyewear
+246426,fsv;1.67;shmc;shodo pr;75;--;3.75;0.00,1,eyewear
+246427,fsv;1.67;shmc;shodo pr;75;--;3.75;1.00,1,eyewear
+246428,fsv;1.67;shmc;shodo pr;75;--;3.75;1.25,1,eyewear
+246429,fsv;1.67;shmc;shodo pr;75;--;4.00;0.00,1,eyewear
+246430,fsv;1.67;shmc;shodo pr;75;--;4.00;1.50,1,eyewear
+246431,fsv;1.67;shmc;shodo pr;75;--;4.25;0.50,1,eyewear
+246432,fsv;1.67;shmc;shodo pr;75;--;4.25;1.00,1,eyewear
+246433,fsv;1.67;shmc;shodo pro;65;+-;3.00;0.00,1,eyewear
+246434,fsv;1.67;shmc;shodo pro;65;+-;3.00;0.50,1,eyewear
+246435,fsv;1.67;shmc;shodo pro;65;+-;3.00;1.00,1,eyewear
+246436,fsv;1.67;shmc;shodo pro;65;+-;3.00;1.25,1,eyewear
+246437,fsv;1.67;shmc;shodo pro;65;+-;3.00;1.50,1,eyewear
+246438,fsv;1.67;shmc;shodo pro;65;+-;3.25;0.00,1,eyewear
+246439,fsv;1.67;shmc;shodo pro;65;+-;3.25;0.50,1,eyewear
+246440,fsv;1.67;shmc;shodo pro;65;+-;3.25;1.00,1,eyewear
+246441,fsv;1.67;shmc;shodo pro;65;+-;3.50;0.00,1,eyewear
+246442,fsv;1.67;shmc;shodo pro;65;+-;3.50;0.50,1,eyewear
+246443,fsv;1.67;shmc;shodo pro;65;+-;3.50;1.50,1,eyewear
+246444,fsv;1.67;shmc;shodo pro;65;+-;3.50;1.75,1,eyewear
+246445,fsv;1.67;shmc;shodo pro;65;+-;3.50;2.00,1,eyewear
+246446,fsv;1.67;shmc;shodo pro;65;+-;3.75;0.00,1,eyewear
+246447,fsv;1.67;shmc;shodo pro;65;+-;3.75;0.25,1,eyewear
+246448,fsv;1.67;shmc;shodo pro;65;+-;3.75;0.50,1,eyewear
+246449,fsv;1.67;shmc;shodo pro;65;+-;3.75;1.50,1,eyewear
+246450,fsv;1.67;shmc;shodo pro;65;+-;4.00;0.00,1,eyewear
+246451,fsv;1.67;shmc;shodo pro;65;+-;4.00;0.50,1,eyewear
+246452,fsv;1.67;shmc;shodo pro;65;+-;4.00;0.75,1,eyewear
+246453,fsv;1.67;shmc;shodo pro;65;+-;4.00;1.00,1,eyewear
+246454,fsv;1.67;shmc;shodo pro;65;+-;4.00;1.25,1,eyewear
+246455,fsv;1.67;shmc;shodo pro;65;+-;4.25;0.00,1,eyewear
+246456,fsv;1.67;shmc;shodo pro;65;+-;4.25;0.25,1,eyewear
+246457,fsv;1.67;shmc;shodo pro;65;+-;4.25;0.50,1,eyewear
+246458,fsv;1.67;shmc;shodo pro;65;+-;4.25;1.25,1,eyewear
+246459,fsv;1.67;shmc;shodo pro;65;+-;4.25;2.00,1,eyewear
+246460,fsv;1.67;shmc;shodo pro;65;+-;4.50;0.00,1,eyewear
+246461,fsv;1.67;shmc;shodo pro;65;+-;4.50;0.25,1,eyewear
+246462,fsv;1.67;shmc;shodo pro;65;+-;4.50;1.25,1,eyewear
+246463,fsv;1.67;shmc;shodo pro;65;+-;4.75;1.00,1,eyewear
+246464,fsv;1.67;shmc;shodo pro;65;+-;5.00;1.00,1,eyewear
+246465,fsv;1.67;shmc;shodo pro;65;+-;5.00;2.00,1,eyewear
+246466,fsv;1.67;shmc;shodo pro;65;+-;5.25;1.50,1,eyewear
+246467,fsv;1.67;shmc;shodo pro;65;+-;5.50;0.00,1,eyewear
+246468,fsv;1.67;shmc;shodo pro;65;+-;5.50;0.75,1,eyewear
+246469,fsv;1.67;shmc;shodo pro;65;+-;5.50;1.00,1,eyewear
+246470,fsv;1.67;shmc;shodo pro;65;+-;6.00;0.75,1,eyewear
+246471,fsv;1.67;shmc;shodo pro;65;+-;6.00;1.00,1,eyewear
+246472,fsv;1.67;shmc;shodo pro;70;--;6.25;0.00,1,eyewear
+246473,fsv;1.67;shmc;shodo pro;70;--;6.25;0.75,1,eyewear
+246474,fsv;1.67;shmc;shodo pro;70;--;6.50;0.00,1,eyewear
+246475,fsv;1.67;shmc;shodo pro;70;--;6.75;0.00,1,eyewear
+246476,fsv;1.67;shmc;shodo pro;70;--;7.00;0.00,1,eyewear
+246477,fsv;1.67;shmc;shodo pro;75;--;3.00;0.00,1,eyewear
+246478,fsv;1.67;shmc;shodo pro;75;--;3.00;1.00,1,eyewear
+246479,fsv;1.67;shmc;shodo pro;75;--;3.00;1.25,1,eyewear
+246480,fsv;1.67;shmc;shodo pro;75;--;3.00;1.50,1,eyewear
+246481,fsv;1.67;shmc;shodo pro;75;--;3.25;0.00,1,eyewear
+246482,fsv;1.67;shmc;shodo pro;75;--;3.25;0.25,1,eyewear
+246483,fsv;1.67;shmc;shodo pro;75;--;3.25;0.50,1,eyewear
+246484,fsv;1.67;shmc;shodo pro;75;--;3.25;0.75,1,eyewear
+246485,fsv;1.67;shmc;shodo pro;75;--;3.25;2.00,1,eyewear
+246486,fsv;1.67;shmc;shodo pro;75;--;3.50;0.00,1,eyewear
+246487,fsv;1.67;shmc;shodo pro;75;--;3.50;0.50,1,eyewear
+246488,fsv;1.67;shmc;shodo pro;75;--;3.50;1.00,1,eyewear
+246489,fsv;1.67;shmc;shodo pro;75;--;3.50;1.25,1,eyewear
+246490,fsv;1.67;shmc;shodo pro;75;--;3.50;1.50,1,eyewear
+246491,fsv;1.67;shmc;shodo pro;75;--;3.50;2.00,1,eyewear
+246492,fsv;1.67;shmc;shodo pro;75;--;3.75;0.00,1,eyewear
+246493,fsv;1.67;shmc;shodo pro;75;--;3.75;0.25,1,eyewear
+246494,fsv;1.67;shmc;shodo pro;75;--;3.75;0.75,1,eyewear
+246495,fsv;1.67;shmc;shodo pro;75;--;3.75;1.00,1,eyewear
+246496,fsv;1.67;shmc;shodo pro;75;--;4.00;0.00,1,eyewear
+246497,fsv;1.67;shmc;shodo pro;75;--;4.00;0.25,1,eyewear
+246498,fsv;1.67;shmc;shodo pro;75;--;4.00;0.50,1,eyewear
+246499,fsv;1.67;shmc;shodo pro;75;--;4.00;0.75,1,eyewear
+246500,fsv;1.67;shmc;shodo pro;75;--;4.00;1.75,1,eyewear
+246501,fsv;1.67;shmc;shodo pro;75;--;4.25;0.00,1,eyewear
+246502,fsv;1.67;shmc;shodo pro;75;--;4.25;0.25,1,eyewear
+246503,fsv;1.67;shmc;shodo pro;75;--;4.25;0.50,1,eyewear
+246504,fsv;1.67;shmc;shodo pro;75;--;4.25;1.50,1,eyewear
+246505,fsv;1.67;shmc;shodo pro;75;--;4.50;0.00,1,eyewear
+246506,fsv;1.67;shmc;shodo pro;75;--;4.50;0.50,1,eyewear
+246507,fsv;1.67;shmc;shodo pro;75;--;4.50;0.75,1,eyewear
+246508,fsv;1.67;shmc;shodo pro;75;--;4.50;1.25,1,eyewear
+246509,fsv;1.67;shmc;shodo pro;75;--;4.50;1.75,1,eyewear
+246510,fsv;1.67;shmc;shodo pro;75;--;4.75;0.00,1,eyewear
+246511,fsv;1.67;shmc;shodo pro;75;--;4.75;1.00,1,eyewear
+246512,fsv;1.67;shmc;shodo pro;75;--;4.75;1.25,1,eyewear
+246513,fsv;1.67;shmc;shodo pro;75;--;5.00;0.50,1,eyewear
+246514,fsv;1.67;shmc;shodo pro;75;--;5.00;0.75,1,eyewear
+246515,fsv;1.67;shmc;shodo pro;75;--;5.00;1.00,1,eyewear
+246516,fsv;1.67;shmc;shodo pro;75;--;5.25;0.00,1,eyewear
+246517,fsv;1.67;shmc;shodo pro;75;--;5.25;0.50,1,eyewear
+246518,fsv;1.67;shmc;shodo pro;75;--;5.25;1.50,1,eyewear
+246519,fsv;1.67;shmc;shodo pro;75;--;5.50;0.50,1,eyewear
+246520,fsv;1.67;shmc;shodo pro;75;--;5.50;1.00,1,eyewear
+246521,fsv;1.67;shmc;shodo pro;75;--;5.50;1.25,1,eyewear
+246522,fsv;1.67;shmc;shodo pro;75;--;6.00;0.00,1,eyewear
+246523,fsv;1.67;shmc;shodo pro;75;--;6.00;0.25,1,eyewear
+246524,fsv;1.67;shmc;shodo pro;75;--;6.00;0.75,1,eyewear
+246546,ft 3,2,other
+246547,ft 3 ( free triiodothyronine,1,other
+246548,ft 4,2,other
+246551,ft-v001-f - flexus,1,other
+246552,ft-v008-f - flexus,1,other
+246553,ft-v010-f - flexus,1,other
+246555,ft3 & ft4,1,lab_test
+246556,ft3 ( t3 free,1,lab_test
+246557,ft3 (free t3,2,lab_test
+246558,ft3 (free triiodothyronine,2,lab_test
+246562,ft3 (free,1,lab_test
+246563,ft3 + ft4 + tsh,1,lab_test
+246564,ft3 33002,1,lab_test
+246565,ft3 analysis,1,lab_test
+246566,ft3 analysis (l100,1,lab_test
+246567,ft3 hormon,1,lab_test
+246568,ft3(14966,1,lab_test
+246569,ft3(518082,1,lab_test
+246573,ft3+,1,lab_test
+246574,ft3+ft4+tsh package,1,lab_test
+246575,ft3- free t3 - ?????,1,lab_test
+246576,ft3- free t3 - مختبر,1,lab_test
+246577,ft3-free t3,2,lab_test
+246579,ft4 ( t4 free,1,lab_test
+246580,ft4 (free t4,2,lab_test
+246584,ft4 (free triiodothyronine,1,lab_test
+246585,ft4 33004,1,lab_test
+246586,ft4 4,1,lab_test
+246587,ft4 analysis,1,lab_test
+246588,ft4 analysis (l102,1,lab_test
+246589,ft4 bupa,1,lab_test
+246590,ft4 hormon,1,lab_test
+246591,ft4 harmon,1,lab_test
+246594,ft4- free t4 - ?????,1,lab_test
+246595,ft4- free t4 - مختبر,1,lab_test
+246596,ft4-free t4,2,lab_test
+246599,ft5400 001 48,1,other
+246600,ft5472 001 51,1,other
+246601,ft5478-b 001 55,1,other
+246602,ft5478b 052 57,1,other
+246603,ft5510 001 52,1,other
+246604,ft5535-b 001 52,1,other
+246605,ft5549-b 001 52,1,other
+246606,ft5584-b 001 56,1,other
+246607,ft5587-b 001 53,1,other
+246608,ft5622-b 016 57,1,other
+246609,ft5622-b 028 57,1,other
+246610,ft5627-b 002 55,1,other
+246611,ft5656 028 53,1,other
+246612,ft5661-b 052 51,1,other
+246613,fta fluorescent treponem ab,1,lab_test
+246614,fta-abs,1,lab_test
+246615,fta-abs (fluorescent treponemal antibody absorption test,1,lab_test
+246616,fta-abs igm spec. abs. serum,1,lab_test
+246617,fta-abs test,1,lab_test
+246618,ftaabs,1,other
+246619,ftemporary filling,1,dental
+246620,fti (t4 & t3 uptake,1,lab_test
+246621,ftr,1,other
+246622,fts-abs,1,lab_test
+246623,ftestesterone,1,other
+246624,fu corneal topography +pachymetry / eye,1,diagnostic
+246625,"fu reprogramming of ci, 7 y and older",1,other
+246626,fu-physiotherapy session (package) insurance,1,physiotherapy
+246641,fucicort,2,other
+246647,fucicort 2%,1,other
+246703,"fucicort 2% cream1cream2,0.1%",1,other
+246704,"fucicort 2% cream2,0.1%",1,other
+246705,fucicort 2% cream30 gm,2,other
+246706,fucicort 2% cream30g,1,other
+246729,fucicort cr,1,other
+247290,fucidin2%ointment30gm,1,other
+247295,fucidine crr,1,other
+247325,fucithalmic e.d,1,lab_test
+247328,fucithalmic eye dorps,1,other
+247390,fucithalmic viscous eye drops1%,1,other
+247410,fudion 2% cream15gm,1,other
+247416,fudoscopy examination,1,consultation
+247418,ful examination for the consultanat,1,consultation
+247419,ful radius sterling resector 3.5mm 6ea c9248,1,other
+247420,fulgration of urethral lesion (endoscopic excision or destruction of urethral lesion) - 1 day pkg,1,procedure
+247421,fulgration of urethral lesion (endoscopic excision or destruction of urethral lesion) - 1 day,1,procedure
+247422,fulgration of urethral lesion c58.31,1,other
+247423,fulguration of anal condylomata,1,other
+247424,full 2d & color doppler echo study,1,imaging
+247425,full arch banding per arch,3,dental
+247426,full arch banding - per arch,1,dental
+247427,"full assess.of intelligence, adult",1,other
+247428,"full assess.of intelligence, child",1,other
+247429,"full bl, pict",1,other
+247430,full blood count,3,lab_test
+247431,full blood count (cbc,1,lab_test
+247432,full blood test (fbc esr fbs serum creatinine bun sgot sgpt & ggt,1,lab_test
+247433,full body adult warming blanket,1,other
+247434,full body filteredflo blanket pediatric,1,other
+247435,full body message,1,other
+247436,full body without abd & back 6 session,1,physiotherapy
+247437,full bony impacted tooth de00366602,1,dental
+247438,full bony impaction,1,other
+247439,full bony impaction/ horizontal,1,other
+247440,full cast - above elbow,1,supplies
+247441,full cast - above knee,1,supplies
+247442,full cast - below elbow,2,supplies
+247443,full cast - below knee,2,supplies
+247444,full cast adults-above elbow,1,supplies
+247445,full cast children-below knee,1,supplies
+247446,full ceramic crown,1,dental
+247447,full ceramic crown ( impress / inceram,1,dental
+247448,full ceramic crown (empress,2,dental
+247450,full ceramic crown (zircon) no discount,1,dental
+247451,full ceramic crown-non-pre,1,dental
+247452,full ceramic zircon crown,1,dental
+247453,full ceramic/procelain crown,1,dental
+247454,full cercon crown,2,dental
+247455,full colon colonoscopy,1,procedure
+247456,full crown acrylic resin indirect,5,dental
+247459,full crown non-metallic indirect (ncci,1,dental
+247461,full crown - metallic - indirect,2,dental
+247462,full crown - non-metallic - indirect,2,dental
+247463,full crown - veneered - indirect,1,dental
+247464,full crown ? non-metallic ? indirect,1,dental
+247465,full crown ? veneered ? indirect,1,dental
+247467,full crown attached to osseointegrated implant non metallic indirec,1,dental
+247468,full crown attached to osseointegrated implant - non-metallic - indirect,1,dental
+247469,full crown attached to osseointegrated implant non-metallic indirect,3,dental
+247471,full crown non metallic indirect,2,dental
+247473,full crown tooth extraction ???? ?????,1,dental
+247475,full crown zirkon,1,dental
+247476,"full crown, nonmetallic, indirect",2,dental
+247477,full denture acrylic type iii,1,dental
+247479,full echocardiography study,1,imaging
+247480,full eye ultrasonography,1,imaging
+247481,full f.e.s.s,1,lab_test
+247482,full face mask,1,supplies
+247483,full lower limb (three views,1,imaging
+247484,full lower limb (two views,1,imaging
+247485,full lower limb minimum 2 views,1,imaging
+247486,full magic,2,other
+247487,full metal crown,3,dental
+247488,full metal crown (18 k gold,1,dental
+247489,"full metal,precious crown/pontiac",1,dental
+247490,full monitored nebulizer w/ pulse oxim.+pef,1,supplies
+247491,full moth x-ray periapical,2,imaging
+247492,full mouth panormic,2,other
+247493,full mouth (panoramic,1,dental
+247494,full mouth (panorex,2,other
+247495,full mouth flouride appl & ohi,2,other
+247497,full mouth inttro oral film ( 10 smoll film,1,other
+247498,full mouth panoramic,2,dental
+247499,full mouth panoramic film ( extra oral,1,dental
+247501,full mouth periapical 20 cms,1,dental
+247502,full mouth polishing,2,dental
+247503,full mouth x ray or panoramic view,1,imaging
+247504,full mouth x-ray (maximum 9,1,imaging
+247505,full mouth x-ray or panoramic view,2,imaging
+247506,full mouth x-ray or panoramic view 582,1,imaging
+247507,full mouth xrays,2,other
+247508,"full natal profile (hbsag, hcv ab, hiv,tpha",2,lab_test
+247509,"full natal profile: [hbsag, hcv ab, hiv, tpha",1,lab_test
+247510,"full natal profile: [hbsag, hcv ab, toxoplasma total, hiv, tpha",1,lab_test
+247511,full night psg,1,other
+247513,full oph,1,other
+247514,full oph ex (ref/fund/tens/sl,1,physiotherapy
+247515,full oph ex(ref/fund/tens/sl,1,physiotherapy
+247516,full ophth. exam,2,other
+247517,full pft,1,other
+247518,full porc crown,1,dental
+247519,full porcelain crown,3,dental
+247520,full porcelain crown (zircon,1,dental
+247521,full pulmonary function,1,lab_test
+247522,"full pulmonary function test ( spirometry (pre-post bronchodilator,diffusion,lung volume",2,lab_test
+247523,full quantitative comput perimetry bil,3,other
+247524,"full quantitative computerised perimetry, unilateral",1,other
+247525,full quantitatv comput perimetry uni,1,other
+247526,full quntitative visual field perimetry (both eyes,1,other
+247527,"full radius resector 4,8",1,other
+247528,full rct (anterior,1,dental
+247529,full rct (molar,1,dental
+247530,full rct (premolar,1,dental
+247531,full rct ant (infected,1,dental
+247532,full rct molar (infected,1,dental
+247533,full rct premolar ( infected,1,dental
+247534,full rine analysis,1,procedure
+247535,full ring 140-jinlu china,1,other
+247536,full scaling,1,dental
+247537,full skeleton screening (two views)-pediatric,1,lab_test
+247538,full spiro + bd + ios,1,other
+247539,full spiro = f/v loop + volumes,1,other
+247540,full study + bd + ios,1,consultation
+247541,full study = full spiro + dlco,1,consultation
+247542,"full thickness graft, free, including direct closure of donor site, fo",1,procedure
+247543,full thickness skin graft,1,procedure
+247544,full thickness skin graft any part of body,1,procedure
+247545,full thickness skin graft of other site,1,procedure
+247546,full thickness wedge excision of eyelid (excision of major lesion of eyelid full thickness,1,procedure
+247547,full transthoracic echo,2,imaging
+247549,full upper limb (three views,1,imaging
+247550,full upper limb (two views,1,imaging
+247551,full urine alalysis,1,lab_test
+247552,full urine analaysis,1,lab_test
+247553,full urine analysis,4,lab_test
+247554,full vertebral column (three views,1,imaging
+247555,full vertebral column (two views,1,imaging
+247556,fulla,1,other
+247557,fullmoth x-ray periapical,1,imaging
+247572,fumer - 1 view,1,imaging
+247573,fumer - 2 views,1,imaging
+247574,fumer x-ray(ap,1,imaging
+247575,funazol 150 fluconazole,1,other
+247577,function endo sinus surg full(pkg,1,lab_test
+247578,function endo sinus surg limited(pkg,1,lab_test
+247579,functional appliance (moderate,1,supplies
+247580,functional endo sinus surgery (fess - grade - ii,1,procedure
+247581,functional endocsopic sinus surgery (bilateral,1,procedure
+247582,functional endocsopic sinus surgery (unilateral,1,procedure
+247583,functional endoscopic sinus,1,procedure
+247584,functional endoscopic sinus surgery,2,procedure
+247585,functional endoscopic sinus surgery (bilateral,1,procedure
+247586,functional endoscopic sinus surgery (f.e.s.s,1,procedure
+247587,functional endoscopic sinus surgery (fees,2,procedure
+247588,functional endoscopic sinus surgery (fess,4,procedure
+247589,functional endoscopic sinus surgery (fess grade-ii,1,procedure
+247590,functional endoscopic sinus surgery (fess grade-iii,1,procedure
+247591,functional endoscopic sinus surgery (fess surgery,1,procedure
+247594,functional endoscopic sinus surgery (fess) - 1 day pkg,1,procedure
+247595,functional endoscopic sinus surgery (fess) bilateral - 2 days,1,procedure
+247596,functional endoscopic sinus surgery (fess) with tricut - 1 day pkg,1,procedure
+247597,functional endoscopic sinus surgery (fess) unilateral - 1 days,1,procedure
+247598,"functional endoscopic sinus surgery (fess), bilateral",2,procedure
+247599,functional endoscopic sinus surgery (fess)->c22.19,1,procedure
+247600,functional endoscopic sinus surgery (fess)->c22.19-a,1,procedure
+247601,functional endoscopic sinus surgery (fess)-package,1,procedure
+247602,functional endoscopic sinus surgery (fess)2days,1,procedure
+247603,functional endoscopic sinus surgery (fess- grade-2,1,procedure
+247604,functional endoscopic sinus surgery (fess- grade-i,1,procedure
+247605,functional endoscopic sinus surgery (fess- grade-ii,1,procedure
+247606,functional endoscopic sinus surgery (unilateral,1,procedure
+247607,functional endoscopic sinus surgery /fess (unilateral,1,procedure
+247608,functional endoscopic sinus surgery bilateral,1,procedure
+247609,functional endoscopic sinus surgery g3,1,procedure
+247610,functional endoscopic sinus surgery grade 1 (f.e.s.s. grade 1,1,procedure
+247611,functional endoscopic sinus surgery grade 2 (f.e.s.s. grade 2,1,procedure
+247612,functional endoscopic sinus surgery grade 3 (f.e.s.s. grade 3,1,procedure
+247613,functional endoscopic sinus surgery unilateral,1,procedure
+247614,functional endoscopic sinus surgery [ fess,1,procedure
+247615,functional endoscopic sinus surgery(fess,2,procedure
+247616,functional endoscopic sinus(fess,1,procedure
+247617,functional endoscopic sinus.surg. g-ii,1,procedure
+247618,functional endoscopic sinuses surgery,1,procedure
+247619,functional endoscopy sinus surgery grade 1 ( f.e.s.s,2,procedure
+247620,functional endoscopy sinus surgery grade 1 ( fess,1,procedure
+247621,functional endoscopy sinus surgery grade 1 (f.e.s.s,3,procedure
+247623,functional endoscopy sinus surgery grade 2 ( f.e.s.s,3,procedure
+247625,functional endoscopy sinus surgery grade 2 ( fess,1,procedure
+247626,functional endoscopy sinus surgery grade 2 (f.e.s.s,3,procedure
+247628,functional endoscopy sinus surgery grade 3 ( f.e.s.s,3,procedure
+247630,functional endoscopy sinus surgery grade 3 ( fess,1,procedure
+247631,functional endoscopy sinus surgery grade 3 (f.e.s.s,3,procedure
+247633,functional endoscopy sinus surgery grade 3 (fess,1,procedure
+247634,functional endoscopy sinus surgery grade 4 ( f.e.s.s,2,procedure
+247635,functional endoscopyinusurgery grade 2 (f.e.s.s,1,lab_test
+247636,functional hemispherectomy - 21days icu & 45days pkg,1,consultation
+247637,"functional mri of brain, w/o contrast",2,imaging
+247638,"functional mri of brain, with contrast",1,imaging
+247639,functional orthopaedic appliance prefabricated,3,supplies
+247640,functional orthopaedic appliance - custom fabrication,2,supplies
+247641,functional orthopaedic appliance custom fabrication,3,supplies
+247642,functional postion wrist splint,1,supplies
+247643,functional residual capacity,1,other
+247644,"functional residual capacity or residual volume: helium method, nitrogen open circuit method, or other method",1,supplies
+247645,functional resting splint with hand deviation,1,supplies
+247646,functional training,2,other
+247647,functional vestibular evaluation,2,consultation
+247648,fundal exam,3,other
+247649,fundal photo,1,other
+247650,fundas examination,1,consultation
+247651,fundo endoscopic sinus surgery (fess,1,procedure
+247652,fundo endoscopic sinus surgery (fess) ( up to 2 days package,1,procedure
+247653,"fundoplasty laparoscopic approach (eg, nissen procedure",1,procedure
+247654,fundoplasty (nissens' fundoplication) laparoscopic approach ( up to 3-days package,1,procedure
+247655,fundoplasty with cardiopexy,1,procedure
+247656,"fundoplasty, laparoscopic approach",1,procedure
+247657,fundoplication,1,other
+247658,fundoplication hiatus hernia,1,procedure
+247660,fundoscopy ( both eyes,1,procedure
+247661,fundoscopy (3- mirror,2,procedure
+247662,fundoscopy - one eye,1,supplies
+247663,fundoscopy exam,1,procedure
+247664,fundoscopy examination,1,consultation
+247665,fundoscopy indirect,1,procedure
+247666,fundoscopy with dir./indir. and 3 mir,1,procedure
+247669,fundoscopy with direct / indirect / 3 mirror fundus lenses fundus exam,2,imaging
+247670,fundoscopy with direct. indirect & 3 mirror fundus lens,2,imaging
+247671,fundoscopy-12004,1,procedure
+247672,funds examination,2,consultation
+247673,funds examination-1012,1,consultation
+247674,funds examintion,1,other
+247675,fundscopy,1,procedure
+247676,fundscopy examination,2,consultation
+247677,fundus,2,imaging
+247678,fundus & nerve fiber photography,1,imaging
+247679,fundus & nerve fiber photography (ec044,1,imaging
+247680,fundus an nerve fiber photography,1,imaging
+247681,fundus and anterior segment photography,1,imaging
+247682,fundus autofluorescence,1,imaging
+247683,fundus biomicroscopy,1,imaging
+247684,fundus color photography of eyes,1,imaging
+247685,fundus dilatation,2,imaging
+247686,fundus evaluaion,1,imaging
+247687,fundus evaluation,3,imaging
+247688,fundus exam,7,imaging
+247689,fundus exam by dilating,1,imaging
+247690,fundus exam l.a,1,imaging
+247691,fundus exam under dilatation,1,imaging
+247692,fundus exam with indirect ophthalmoscop - eye,1,imaging
+247694,fundus examenation,2,imaging
+247696,fundus examination & colored w/ interpretation & report,1,imaging
+247697,fundus examination (both eyes,1,imaging
+247698,fundus examination (dilated,1,imaging
+247699,fundus examination (indirect,1,imaging
+247700,fundus examination (opthalmoscopy,1,imaging
+247701,fundus examination - ?????? ?????? ??????????,1,imaging
+247702,fundus examination - indirect,1,imaging
+247703,fundus examination - فحص قاع العين,1,imaging
+247705,fundus examination in dm & htn,2,imaging
+247706,fundus examination w/ interpretation & report,1,imaging
+247707,fundus examination with 360 scleral indentation,2,imaging
+247708,fundus examination(ophthalmosc,1,imaging
+247710,fundus examination/fundoscopy,1,imaging
+247711,fundus examinaton,1,imaging
+247712,fundus excission,1,imaging
+247713,fundus eye exam/diabetic-htn,1,imaging
+247714,fundus floresc. angioscopy,1,imaging
+247715,fundus florocene angiograpgy -both eye,1,imaging
+247716,fundus flourescein (ff) angiography,1,imaging
+247717,fundus flourescein angiography 2 eyes (ffa,1,imaging
+247718,fundus flourescin angiography,2,imaging
+247720,fundus flourocene angiogaphy -bo,1,imaging
+247721,fundus flourocene angiography - both eye,3,imaging
+247722,fundus flourocene angiography both eye,1,imaging
+247723,fundus fluorescein angiogram,1,imaging
+247724,fundus fluorescein angiography - both eyes,1,imaging
+247725,fundus fluorescein angiography - one eye,1,imaging
+247726,fundus fluorocine angiography,1,imaging
+247727,fundus gastric mucosa,1,imaging
+247728,fundus microscopy,1,imaging
+247729,fundus nerve fiber photography,1,imaging
+247730,fundus or anterior segment ocular photography,1,imaging
+247731,fundus photo,2,imaging
+247732,fundus photo (one eye,1,imaging
+247733,fundus photograghy(both eyes,1,imaging
+247734,fundus photography,4,imaging
+247735,fundus photography ( ou,1,imaging
+247736,fundus photography ( one eye,1,imaging
+247739,fundus photography -fluorescein,1,imaging
+247740,fundus photography / follow up,1,imaging
+247741,fundus photography both eyes,1,imaging
+247742,fundus photography fluorescein,1,imaging
+247743,fundus photography one eye,2,imaging
+247744,fundus photography two eyes,1,imaging
+247745,fundus photography w/ interpretation & report,1,imaging
+247746,fundus photography w/interpretation report,1,imaging
+247747,fundus photography w/interpretation & report,1,imaging
+247748,fundus photography-3-20-20113,1,imaging
+247750,"fundus photos, both eyes",1,imaging
+247751,fundus phoyography,1,imaging
+247752,fundus picture,1,imaging
+247753,fundus and nerve fiber photography,2,imaging
+247754,fundus s nerve fiber photography,1,imaging
+247755,fundus%20flourocene%20angiography%20-%20both%20eye%2c%20unlisted,1,imaging
+247756,funduscopy,3,procedure

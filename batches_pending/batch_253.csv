@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+453109,pk-right heart catheterisation,1,procedure
+453110,pk-right hemicolectomy without histopathology,1,lab_test
+453111,pk-rigid sigmoidoscopy with biopsy,1,procedure
+453112,pk-rt cardiac cath w/o angio,1,supplies
+453113,pk-sacro-iliac joint treatment,1,other
+453114,pk-sacrospinous colpopexy,1,other
+453115,"pk-salpingectomy, unilateral",1,procedure
+453116,pk-salpingo - oopherectomy by laparotomy,1,procedure
+453117,"pk-salpingo-oophorectomy, bilateral",1,procedure
+453118,"pk-salpingo-oophorectomy, unilateral",1,procedure
+453119,pk-salpingotomy w removal tubal pregnancy,1,procedure
+453120,pk-scrotal orchiectomy + controlateral fixation,1,procedure
+453121,pk-segmental resection of lung,1,procedure
+453122,pk-septoplasty,1,procedure
+453124,pk-septoplasty/e33,1,procedure
+453125,pk-shirookar suture/g1,1,supplies
+453126,pk-shoulder arthroscopic assisted repair of ruptured long head of biceps brachii,1,procedure
+453127,pk-single intracerebral hematoma drainage burrhole/n10,1,procedure
+453128,pk-single level spinal fusion,1,lab_test
+453129,pk-spermatocelectomy (unilateral,1,procedure
+453130,pk-spontaneous vertex delivery,1,procedure
+453131,pk-spontaneous vertex delivery nvd,1,procedure
+453132,pk-stabilisation of ankle,1,other
+453133,"pk-stapedectomy, unilateral",1,procedure
+453134,pk-stent removal c b d,1,supplies
+453135,pk-stenting intra cranial,1,other
+453136,pk-stripping of varicose vein,1,procedure
+453137,pk-submandibular sialoadenectomy/s73,1,procedure
+453138,pk-submucous resection turbinate unilateral,1,procedure
+453139,pk-submucus diathermy of turbinates/e3,1,other
+453140,pk-subtotal parathyroidectomy,1,procedure
+453141,"pk-subtotal thyroidectomy, bilateral",1,procedure
+453142,"pk-subtotal thyroidectomy, unilateral",1,procedure
+453143,pk-suction curettage of uterus,1,supplies
+453144,pk-superficial paratidectomy/s74,1,procedure
+453145,pk-superficial parotidectomy for parotid tumour,1,procedure
+453146,pk-superficialization of basilic vein,1,other
+453147,pk-supra condylar osteotomy humerus/r31,1,procedure
+453148,pk-suprapubic cystocath,1,other
+453149,pk-surgery of strangulated piles/s53,1,procedure
+453150,pk-suture 1st/2nd degree tear of perineum,1,supplies
+453151,pk-suture current obst laceration of vagina,1,supplies
+453152,pk-suture of laceration of large intestine,1,supplies
+453153,pk-suture of perforated ulcer,1,supplies
+453154,pk-temporary colostomy,1,procedure
+453155,pk-temporary ileostomy,1,procedure
+453156,pk-temporary transvenous pacemaker,1,supplies
+453157,pk-tendon patellar tear (chronic,1,other
+453158,pk-tenolysis of finger tendons r10,1,procedure
+453159,pk-tenolysis of finger tendons/r9,1,procedure
+453160,"pk-tenolysis of flexor tendon of hand, unilateral",1,procedure
+453161,pk-tenolysis of wrist nerve/r8,1,procedure
+453162,pk-tension free vaginal tape (tvt) insertion,1,supplies
+453163,pk-tevar (thoracic endovascular aortic repair,1,procedure
+453164,pk-therapeutic arthroscopy (inclusive)/r222,1,procedure
+453165,pk-thoracentesis,1,other
+453166,pk-thoracic kyphoplasty +fixators 2 levels,1,lab_test
+453167,pk-thoracoscopy,1,procedure
+453168,pk-thoracotomy for non-pulmonary resection (cyst mass abscess,1,procedure
+453169,pk-tonsillectomy (adults)/e11,1,procedure
+453170,pk-tonsillectomy (children)/e10,1,procedure
+453171,pk-tonsillectomy with adenoidectomy,1,procedure
+453172,pk-tonsillectomy with adenoidectomy/e12,1,procedure
+453173,pk-tonsillectomy without adenoidectomy,1,procedure
+453174,pk-tot arthroplasty knee bne gft tibia uni,1,procedure
+453175,pk-tot arthroply knee gft femr & tibia uni,1,other
+453176,pk-tot lap abdo hystrectmy w r/o adnexa,1,procedure
+453177,pk-total abdominal hysterectomy,1,procedure
+453178,"pk-total arthroplasty of hip, unilateral",1,procedure
+453179,"pk-total arthroplasty of knee, unilateral",1,procedure
+453180,pk-total cystectomy/u43,1,procedure
+453181,pk-total hip arthroplasty/r195,1,procedure
+453182,pk-total knee arthroplasty/r198,1,procedure
+453183,"pk-total knee replacement, revision system (with wedges and stem -tibial",1,supplies
+453184,pk-total laparoscopic abdo hysterectomy,1,procedure
+453185,pk-total or partial nephrectomy/u36,1,procedure
+453186,pk-total parathyroidectomy,1,procedure
+453187,pk-total shoulder arthroplasty (replacement) < prosthesis is included >,1,supplies
+453188,pk-total thyroidectomy,1,procedure
+453189,"pk-total turbinectomy, unilateral",1,procedure
+453190,"pk-trabeculectomy, unilateral",1,procedure
+453191,pk-tracheostomy/e14,1,procedure
+453192,pk-trans-catheter aortic valve implantation (tavi with implants) for bupa,1,supplies
+453193,pk-transabdominal gastroscopy,1,procedure
+453194,"pk-transfer of tendon or ligament, nec, unilateral",1,procedure
+453195,pk-transpleural thoracoscopy for pneumotho hemoth & pleural effusion,1,procedure
+453196,pk-transurethral water vapour therapy of the prostate,1,physiotherapy
+453197,pk-treatment bartholins gland abscess,1,procedure
+453198,pk-trendlenberg & stripping operation,1,procedure
+453199,pk-trigeminal gangliotomy by radiofrequency,1,procedure
+453200,pk-triple arthrodesis of foot,1,procedure
+453201,"pk-trnscath embolisation bl vesl, pelvis",1,other
+453202,pk-tumor resection 5 cm,1,procedure
+453203,pk-tumor resection 9 cm,1,procedure
+453204,pk-tur of bladder (tumours)/u33,1,other
+453205,pk-turbinectomy/e16,1,procedure
+453206,pk-two vessels angioplasty + coronary angio without stent,1,supplies
+453207,pk-tympanotomy/tympanoplasty type1,1,procedure
+453208,pk-u/s guided percutanious drainage (catheter,1,supplies
+453209,pk-u/s-guided fna,1,imaging
+453210,pk-ultrasound guide fine needle aspiration-multiple,1,imaging
+453211,pk-ultrasound soft tissue biopsy,1,imaging
+453212,pk-unicompartmental knee arthroplasty/r197,1,procedure
+453213,pk-unilateral dacrocystor. with insertion of stent,1,supplies
+453214,pk-unilateral fess,1,other
+453215,pk-unilateral repair of cruciate ligament (arthrotomy for acl,1,procedure
+453216,pk-upper gastrointestinal endosco,1,other
+453217,pk-upper tibial osteotomy with internal fixation/r35,1,procedure
+453218,pk-upper tibial osteotomy/r34,1,procedure
+453219,pk-ureteral dilatation + stent/u17,1,supplies
+453220,pk-ureteroscopic removal of stiene strassi,1,procedure
+453221,pk-ureteroscopic stone extraction + djs,1,dental
+453222,pk-ureteroscopic stone extraction/u21,1,dental
+453223,pk-ureteroscopy,1,procedure
+453224,pk-ureteroscopy & intercopreal lithotripsy,1,procedure
+453225,pk-ureteroscopy + djs,1,procedure
+453226,pk-ureteroscopy_old,1,other
+453227,"pk-uvulectomy, prt palatectomy tonsilectmy",1,procedure
+453228,pk-vacuum assisted delivery,1,procedure
+453229,pk-vaginal / perineal repair/g14,1,procedure
+453230,pk-vaginal hysterectomy,1,procedure
+453231,pk-vaginal polypectomy/g5,1,procedure
+453232,"pk-valve replacement (single,aortic or mitral,w/o valve)(pk0030275",1,other
+453233,pk-varicocelectomy -unilateral/s41,1,procedure
+453234,pk-varicocelectomy-bilateral/s42,1,procedure
+453235,pk-varicose vein radio-frequency ablation,1,procedure
+453236,pk-varicose viens stripping unilateral/s59,1,procedure
+453237,pk-ventricular muscle ablation,1,procedure
+453238,pk-vvi mode,1,other
+453239,pk-wedge exsecion of liver masses,1,other
+453240,pk-wedge resection of ingrown fingernail,1,procedure
+453241,"pk-wedge resection of ingrown toenail,unilateral",1,procedure
+453242,pk-wide resection of soft tissue mass,1,procedure
+453243,pk-wound deridment under ga/d19,1,other
+453244,pk-wound suturing (ga) a (l,1,procedure
+453245,pk-wound suturing (ga) b(m,1,procedure
+453246,pk-yag laser one eye ( one session,1,physiotherapy
+453247,pk-zadeks operation,1,procedure
+453248,pk000su020l.a. ingrowing toenail removal unilat,1,procedure
+453249,pk000ur004cystoscopy & urethral catheterization (one side,1,supplies
+453250,pkg ear piercing,1,procedure
+453251,pkp,1,other
+453252,pkp (11000 corneal,1,other
+453253,pkp (penetrating kplasty,1,procedure
+453254,pkp by wave light,1,other
+453255,pku screen,1,other
+453256,pk_drainage of pelvic abscess,1,procedure
+453257,pk_paraumbilical hernia repair with mesh divercation of recti repair,1,supplies
+453258,pk_paraumbilical hernia repair with mesh divercation of recti repair with mesh,1,supplies
+453259,pl,1,eyewear
+453260,pl - vlux m.c,1,eyewear
+453261,pl -impr-mono-1.50,1,eyewear
+453262,pl -solitair,1,eyewear
+453263,pl -solitair topcoat,1,eyewear
+453264,pl -solitair topcoat mrafeq,1,eyewear
+453265,pl . mc vl 1.6,1,eyewear
+453266,pl . mc vl z 1.6,1,eyewear
+453267,pl 1 5 transitions vii crizal forte uv,1,eyewear
+453268,pl 1 5 transitions vii crizal prevencia,1,eyewear
+453269,pl 1 5 zeiss progressive light d,1,eyewear
+453270,"pl 1,5 synchrony bifocal",1,eyewear
+453271,"pl 1,5 transitions vii crizal forte uv",1,eyewear
+453272,"pl 1,5 transitions vii crizal prevencia",1,eyewear
+453273,"pl 1,5 zeiss progressive light d",1,eyewear
+453274,pl 1.5 b/f d28,1,eyewear
+453275,pl 1.5 b/f d28 sp,1,eyewear
+453276,pl 1.5 bf ct25 norml,1,eyewear
+453277,pl 1.5 bf ct28 norml,1,eyewear
+453278,pl 1.5 bf kt22 norml,1,eyewear
+453279,pl 1.5 crizal a2,1,eyewear
+453280,pl 1.5 crizal forte uv,1,eyewear
+453281,pl 1.5 crizal hi-sph,1,eyewear
+453282,pl 1.5 crizal prevencia,1,eyewear
+453283,pl 1.5 crizal prevencia varylux,1,eyewear
+453284,pl 1.5 crizal sapphire,1,eyewear
+453285,pl 1.5 crizal sapphire trs,1,eyewear
+453286,pl 1.5 easy view uc,1,eyewear
+453287,pl 1.5 hmc es,1,eyewear
+453288,pl 1.5 muttigrassiv mono,1,eyewear
+453290,pl 1.5 rx hmc,1,eyewear
+453291,pl 1.5 rx normal,1,eyewear
+453292,pl 1.5 s.v crizal prevencia,1,eyewear
+453293,pl 1.5 s.v crizal sapphire uv,1,eyewear
+453294,pl 1.5 sv,1,eyewear
+453295,pl 1.5 stk hmc,1,eyewear
+453296,pl 1.5 stk normal,1,eyewear
+453297,pl 1.5 stk spl hmc,1,eyewear
+453298,pl 1.5 transition vll crizal forte uv,1,eyewear
+453299,pl 1.5 uc essilor,1,eyewear
+453300,pl 1.5 zeiss progressive photo fusion,1,eyewear
+453301,pl 1.5 col crizal coating on back side,1,eyewear
+453302,pl 1.5 col tiro coating on back side,1,eyewear
+453303,pl 1.5 colzeiss coating on back side,1,eyewear
+453304,pl 1.50,1,eyewear
+453305,pl 1.50 3d mono2 rx,1,eyewear
+453306,pl 1.50 3d mono3 rx,1,eyewear
+453307,pl 1.50 abc hi cyl st,1,eyewear
+453308,pl 1.50 abc st,1,eyewear
+453309,pl 1.50 bf e-line,1,eyewear
+453310,pl 1.50 bf es nrml,1,eyewear
+453311,pl 1.50 bf itl nrml,1,eyewear
+453312,pl 1.50 bf pvo nrml,1,eyewear
+453313,pl 1.50 bf s2 nrml,1,eyewear
+453314,pl 1.50 bf s25 hard coat,1,eyewear
+453315,pl 1.50 bf s28,1,eyewear
+453316,pl 1.50 bf s45,1,eyewear
+453317,pl 1.50 bf zs nrml,1,eyewear
+453318,pl 1.50 bl 420 1 rx,1,eyewear
+453319,pl 1.50 bl 420 2 rx,1,eyewear
+453320,pl 1.50 bl 420 prime 1 rx,1,eyewear
+453321,pl 1.50 bl 420 prime 2 rx,1,eyewear
+453322,pl 1.50 cozsmolit2 rx,1,eyewear
+453323,pl 1.50 cozsmolit3 rx,1,eyewear
+453324,pl 1.50 es nrml,1,eyewear
+453325,pl 1.50 excutive rx,1,eyewear
+453326,pl 1.50 itl nrml,1,eyewear
+453327,pl 1.50 lanticular rx,1,eyewear
+453328,pl 1.50 nbr,1,eyewear
+453329,pl 1.50 nikon as st,1,eyewear
+453330,pl 1.50 nikon st,1,eyewear
+453331,pl 1.50 nk nrml,1,eyewear
+453332,pl 1.50 normal lens s.v.rx hi cyl,1,eyewear
+453333,pl 1.50 perfalit1 rx,1,eyewear
+453334,pl 1.50 perfalit2 rx,1,eyewear
+453335,pl 1.50 perfalit3 rx,1,eyewear
+453336,pl 1.50 prog premium hc,1,eyewear
+453337,pl 1.50 prog twice hc,1,eyewear
+453338,pl 1.50 progressive pure life2 rx,1,eyewear
+453339,pl 1.50 pvo nrml,1,eyewear
+453340,pl 1.50 rd nrml,1,eyewear
+453341,pl 1.50 relax hi cyl st,1,eyewear
+453342,pl 1.50 relax rx,1,eyewear
+453343,pl 1.50 relax st,1,eyewear
+453344,pl 1.50 s2 nrml,1,eyewear
+453345,pl 1.50 sko nrml,1,eyewear
+453346,pl 1.50 zeiss pro,1,eyewear
+453347,pl 1.50 zeiss rx,1,eyewear
+453348,pl 1.50 zeiss st,1,eyewear
+453349,pl 1.50 zs nrml,1,eyewear
+453350,pl 1.53 crizal airwear rx,1,eyewear
+453351,pl 1.53 crizal airwear st,1,eyewear
+453354,pl 1.53 crizal trivex rx,1,eyewear
+453355,pl 1.53 trylogy trivex rx,1,eyewear
+453356,pl 1.54 abc st,1,eyewear
+453357,pl 1.54 relax st,1,eyewear
+453358,pl 1.54 seiko rx,1,eyewear
+453359,pl 1.56,1,eyewear
+453360,pl 1.56 bf nbr,1,eyewear
+453361,pl 1.56 divel italia st,1,eyewear
+453362,pl 1.56 nbr,1,eyewear
+453363,pl 1.56 nikon st,1,eyewear
+453364,pl 1.56 synchrony hi cyl st,1,eyewear
+453365,pl 1.56 synchrony st,1,eyewear
+453366,pl 1.56 stk hmc,1,eyewear
+453367,pl 1.56 stk normal,1,eyewear
+453368,pl 1.59 cr prv,1,eyewear
+453369,pl 1.59 cr sph,1,eyewear
+453370,pl 1.59 crizal airwear rx,1,eyewear
+453371,pl 1.59 crizal airwear st,1,eyewear
+453372,pl 1.59 divel polyc st,1,eyewear
+453373,pl 1.6 muttigrassiv mono,1,eyewear
+453374,pl 1.6 progpure norml,1,eyewear
+453376,pl 1.60 3d mono2 rx,1,eyewear
+453377,pl 1.60 3d mono3 rx,1,eyewear
+453378,pl 1.60 abc rx,1,eyewear
+453379,pl 1.60 abc st,1,eyewear
+453380,pl 1.60 cozsmolit2 rx,1,eyewear
+453381,pl 1.60 cozsmolit3 rx,1,eyewear
+453382,pl 1.60 nikon rx,1,eyewear
+453383,pl 1.60 nikon se rx,1,eyewear
+453384,pl 1.60 nikon st,1,eyewear
+453385,pl 1.60 perfalit2 rx,1,eyewear
+453386,pl 1.60 perfalit3 rx,1,eyewear
+453387,pl 1.60 progressive pure life2 rx,1,eyewear
+453388,pl 1.60 relax wt rx,1,eyewear
+453389,pl 1.60 relax1 rx,1,eyewear
+453390,pl 1.60 synchrony hi cyl st,1,eyewear
+453391,pl 1.60 synchrony st,1,eyewear
+453392,pl 1.60 zeiss pro,1,eyewear
+453393,pl 1.60 zeiss rx,1,eyewear
+453394,pl 1.61,1,eyewear
+453395,pl 1.61 bf itl nbr,1,eyewear
+453396,pl 1.61 divel italia st,1,eyewear
+453397,pl 1.61 es nrml,1,eyewear
+453398,pl 1.61 itl nrml,1,eyewear
+453399,pl 1.61 nbr,1,eyewear
+453400,pl 1.61 nk nrml,1,eyewear
+453401,pl 1.61 pvo nrml,1,eyewear
+453402,pl 1.61 rd nrml,1,eyewear
+453403,pl 1.61 rx,1,eyewear
+453404,pl 1.61 s2 nrml,1,eyewear
+453405,pl 1.61 sko nrml,1,eyewear
+453406,pl 1.61 stk hmc,1,eyewear
+453407,pl 1.61 uc ?????,1,eyewear
+453408,pl 1.61 zsnrml,1,eyewear
+453409,pl 1.61rx spl hmc,1,eyewear
+453410,pl 1.67,1,eyewear
+453411,pl 1.67 3d mono3 rx,1,eyewear
+453412,pl 1.67 abc st,1,eyewear
+453413,pl 1.67 bl 420 1 rx,1,eyewear
+453414,pl 1.67 bl 420 2 rx,1,eyewear
+453415,pl 1.67 cozsmolit1 rx,1,eyewear
+453416,pl 1.67 cozsmolit3 rx,1,eyewear
+453417,pl 1.67 crizal stylis2 rx,1,eyewear
+453418,pl 1.67 es nrml,1,eyewear
+453419,pl 1.67 itl nrml,1,eyewear
+453420,pl 1.67 nbr,1,eyewear
+453421,pl 1.67 nikon rx,1,eyewear
+453422,pl 1.67 nikon st,1,eyewear
+453423,pl 1.67 nk nrml,1,eyewear
+453424,pl 1.67 perfalit2 rx,1,eyewear
+453425,pl 1.67 perfalit3 rx,1,eyewear
+453426,pl 1.67 prog premium hc,1,eyewear
+453427,pl 1.67 pvo nrml,1,eyewear
+453428,pl 1.67 rd nrml,1,eyewear
+453429,pl 1.67 relax rx,1,eyewear
+453430,pl 1.67 relax st,1,eyewear
+453431,pl 1.67 s2 nrml,1,eyewear
+453432,pl 1.67 sko nrml,1,eyewear
+453433,pl 1.67 sv hmc,1,eyewear
+453434,pl 1.67 zeiss st,1,eyewear
+453435,pl 1.67 zsnrml,1,eyewear
+453436,pl 1.74 3d mono3 rx,1,eyewear
+453437,pl 1.74 abc rx,1,eyewear
+453438,pl 1.74 abc up rx,1,eyewear
+453439,pl 1.74 cozsmolit2 rx,1,eyewear
+453440,pl 1.74 cozsmolit3 rx,1,eyewear
+453441,pl 1.74 crizal uv ?????,1,eyewear
+453442,pl 1.74 es nrml,1,eyewear
+453443,pl 1.74 itl nrml,1,eyewear
+453444,pl 1.74 nbr,1,eyewear
+453445,pl 1.74 nikon sm 2 rx,1,eyewear
+453446,pl 1.74 nk nrml,1,eyewear
+453447,pl 1.74 perfalit2 rx,1,eyewear
+453448,pl 1.74 perfalit3 rx,1,eyewear
+453449,pl 1.74 pvo nrml,1,eyewear
+453450,pl 1.74 rd nrml,1,eyewear
+453451,pl 1.74 relax rx,1,eyewear
+453452,pl 1.74 sko nrml,1,eyewear
+453453,pl 15 transitions vii crizal forte uv,1,eyewear
+453454,pl 50,1,eyewear
+453455,pl 55,1,eyewear
+453456,pl 60,1,eyewear
+453457,pl 75mm,1,eyewear
+453458,pl a/r,1,eyewear
+453459,pl airwear 1.59 antireflection,1,eyewear
+453460,pl airwear crizal uv,1,eyewear
+453461,pl airwear crizal uv transtion,1,eyewear
+453462,pl american p.g,1,eyewear
+453463,pl anti scr ftop plano-6/2,2,eyewear
+453464,pl anti-blue mc,1,eyewear
+453465,"pl ao , silk coat",1,eyewear
+453466,pl ar 1.5/shp+3.0/-4.0.cyl.-2,1,eyewear
+453467,pl ar 1.5/shp-4.0/cyl-4.0,1,eyewear
+453468,pl ar 55mm 2.25 up to 4cyl,1,eyewear
+453469,pl ar 55mm up to 2cyl,1,eyewear
+453471,"pl b/f mc, white",1,eyewear
+453472,pl bif,1,eyewear
+453473,pl bif hi 1.6 mc,1,eyewear
+453474,pl bif hi 1.6 pho mc,1,eyewear
+453475,pl bif mc,1,eyewear
+453476,pl bif pho,1,eyewear
+453477,pl bif pho mc,1,eyewear
+453478,pl bifocal,1,eyewear
+453479,pl bifocal 1.53 trivex mc,1,eyewear
+453480,pl bifocal antireflection,1,eyewear
+453481,pl bifocal crizal tra uv 1.5,1,eyewear
+453482,pl bifocal crizal uv 1.5,1,eyewear
+453483,pl bifocal mc,1,eyewear
+453484,pl bifocal normal,1,eyewear
+453485,pl bifocal p. b,1,eyewear
+453486,pl bifocal trs. b mc,1,eyewear
+453487,pl bifocal trs. g mc,1,eyewear
+453488,pl bifokal antireflecting coating,1,eyewear
+453489,pl color 1.56,1,eyewear
+453490,pl color 1.67,1,eyewear
+453491,pl color base 6,1,eyewear
+453492,pl color hi -cyl,1,eyewear
+453493,pl color mc,1,eyewear
+453494,pl comfort 1.61 mc,1,eyewear
+453495,pl comfort 55 mc,1,eyewear
+453496,pl comfort cr uv trs 1.59 airwear,1,eyewear
+453497,pl comfort mc,1,eyewear
+453498,pl comfort p.gmc,1,eyewear
+453499,pl comport 1.67 mc,1,eyewear
+453500,pl crizal 1.61 uv,1,eyewear
+453501,pl crizal drive trs,1,eyewear
+453502,pl crizal forte uv 1.67,1,eyewear
+453503,pl crizal forte uv 1.74,1,eyewear
+453504,pl crizal uv ?????,1,eyewear
+453505,pl divel 1.50 single vision,1,eyewear
+453506,pl divel 1.56 single vision,1,eyewear
+453507,pl divel 1.67 single vision,1,eyewear
+453508,pl divel 1.67 single vision pb,1,eyewear
+453509,pl divel 1.74 single vision,1,eyewear
+453510,pl espace 1.5 dfb trio,1,eyewear
+453511,pl espace 1.5 dfb trs br,1,eyewear
+453512,pl espace 1.5 dfb trs g,1,eyewear
+453513,pl espace 1.56 trio blue cut,1,eyewear
+453514,pl espsce 1.5 uc,1,eyewear
+453515,pl essilor 1.5 trio,1,eyewear
+453516,pl essilor 1.5 trio pg,1,eyewear
+453517,pl essilor trio,1,eyewear
+453518,pl eyezen start 1.5,1,eyewear
+453519,pl eyezen start 1.61,1,eyewear
+453520,pl eyezen start 1.67,1,eyewear
+453521,pl eyezen start transtion 1.5,1,eyewear
+453522,pl f.top,2,eyewear
+453524,pl fg r 1.50,1,eyewear
+453525,pl gm 4256,1,eyewear
+453526,pl h1 lens,1,eyewear
+453527,pl hi -cyl-2.00/-4.00,1,eyewear
+453528,pl hi -cyl-4.00/-6.00,1,eyewear
+453529,pl hi 1.6 mc hc,1,eyewear
+453530,pl hi 1.61 as mc 1.61,1,eyewear
+453531,pl hi index 1.6 hi sph / cyl,1,eyewear
+453532,pl hi index 1.67 hi sph / cyl,1,eyewear
+453533,pl hi index 1.67 very hi sph / cyl,1,eyewear
+453534,pl hi mc,1,eyewear
+453535,pl hi-index transsision 2/2-8/2,1,eyewear
+453536,pl hi-index1.5 shp -4.0/cyl-3.0,1,eyewear
+453537,pl hi-index1.6 shp -6.0/cyl -2.0,1,eyewear
+453538,pl hi-index1.6shp -6.0/cyl -2.0,1,eyewear
+453539,pl hlens,1,eyewear
+453540,pl hi 1.6,1,eyewear
+453541,pl hi 1.6 mc,1,eyewear
+453542,pl hi 1.6 pho,1,eyewear
+453543,pl hi 1.6 pho mc,1,eyewear
+453544,pl kodak 1.49 multi focal,1,eyewear
+453545,pl kodak 1.50 single vision,1,eyewear
+453546,pl kodak 1.67 single vision,1,eyewear
+453547,pl kodak 1.74 single vision,1,eyewear
+453548,pl ligh,1,eyewear
+453549,pl light,1,eyewear
+453550,"pl m/f mc, transition gray,brown",1,eyewear
+453551,"pl m/f mc, white",1,eyewear
+453552,pl mc,1,eyewear
+453553,pl mc (-/-) (+,1,eyewear
+453554,pl mc + cr39 1.61 cyl -2.00,1,eyewear
+453555,pl mc + cr39 1.61 cyl -2.25 to cyl -3.00,1,eyewear
+453556,pl mc + cr39 1.61 cyl 2.25 to cyl 3.00,1,eyewear
+453557,pl mc + cr39 1.67 cyl -2.00,1,eyewear
+453558,pl mc + cr39 1.67 cyl -2.25 to cyl -3.00,1,eyewear
+453559,pl mc + cr39 1.67 cyl 2.25 to cyl 3.00,1,eyewear
+453560,pl mc + cr39 1.74 sph -10.00 to cyl -2.00,1,eyewear
+453561,pl mc + cr39 1.74 sph 10.00 to cyl 2.00,1,eyewear
+453562,pl mc + cr39 1374 sph 10.00 to cyl 2.00,1,eyewear
+453563,pl mc + cr39 cyl -2.25 to cyl -4.00,1,eyewear
+453564,pl mc + cr39 cyl -4.25 to cyl -6.00,1,eyewear
+453565,pl mc + cr39 pl mc + cr39 1.74 sph -10.00 to cyl -2.001.74 sph -10.00 to cyl -2.00,1,eyewear
+453566,pl mc +cr39,1,eyewear
+453567,pl mc 1.56,1,eyewear
+453568,pl mc 1.61,1,eyewear
+453569,pl mc 1.67,1,eyewear
+453570,pl mc 1.74,1,eyewear
+453571,pl mc 50,1,eyewear
+453572,pl mc 55,1,eyewear
+453573,pl mc 60,1,eyewear
+453574,pl mc bifocal,1,eyewear
+453575,pl mc essilor 1.5 bifocal,1,eyewear
+453576,pl mc essilor 1.5 bifocal uv,1,eyewear
+453577,pl mc essilor 1.5 crizal uv,1,eyewear
+453578,pl mc essilor 1.5 vrrilux comfort uv,1,eyewear
+453579,pl mc essilor 1.5 vrrilux liberty drive,1,eyewear
+453580,pl mc essilor 1.5 vrrilux liberty pervencia,1,eyewear
+453581,pl mc essilor 1.56 singel,1,eyewear
+453582,pl mc essilor 1.67 crizal rx drive,1,eyewear
+453583,pl mc essilor 1.49 multi focal ellipse opticle lense,1,eyewear
+453584,pl mc essilor 1.49 multi focal espace opticle lense,1,eyewear
+453585,pl mc essilor 1.49 multi focal liberty opticle lense,1,eyewear
+453586,pl mc essilor 1.49 multi focal physio opticle lense,1,eyewear
+453587,pl mc essilor 1.49 single grizala2 opticle lense,1,eyewear
+453588,pl mc essilor 1.49 single opticle lense,1,eyewear
+453589,pl mc essilor 1.49 single pb grizala2 opticle lense,1,eyewear
+453590,pl mc essilor 1.49 single pb opticle lense,1,eyewear
+453591,pl mc essilor 1.49 single pg opticle lense,1,eyewear
+453592,pl mc essilor 1.5 single opticle lense,1,eyewear
+453593,pl mc essilor 1.56 single pb opticle lense,1,eyewear
+453594,pl mc essilor 1.6 single opticle lense,1,eyewear
+453595,pl mc essilor 1.67 single opticle lense,1,eyewear
+453596,pl mc hc,1,eyewear
+453597,pl mc hi -cyl-2.00/-4.00,1,eyewear
+453598,pl mc hi -cyl-4.00/-6.00,1,eyewear
+453599,pl mc hix 1.61,1,eyewear
+453600,pl mc hix 1.74,1,eyewear
+453601,pl mc nikin 1.5 seecoat blue,1,eyewear
+453602,pl mc nikin 1.59,1,eyewear
+453603,pl mc nikin1.5 pg,1,eyewear
+453604,pl mc nikon 1.5 multifocal,1,eyewear
+453605,pl mc nikon 1.5 singel,1,eyewear
+453606,pl mc nikon 1.59 multifocal,1,eyewear
+453607,pl mc normal 1.49 blue cat,1,eyewear
+453608,pl mc normal 1.49 blue cat hi cyl,1,eyewear
+453609,pl mc normal 1.49 blue cat hi cyl2,1,eyewear
+453610,pl mc normal 1.49 blue cat pg,1,eyewear
+453611,pl mc normal 1.49 mulit focal pg,1,eyewear
+453612,pl mc normal 1.49 singel,1,eyewear
+453613,pl mc normal 1.56 single b.c opticle lense,1,eyewear
+453614,pl mc normal 1.56 single pb opticle lense,1,eyewear
+453615,pl mc normal 1.56 single pg opticle lense,1,eyewear

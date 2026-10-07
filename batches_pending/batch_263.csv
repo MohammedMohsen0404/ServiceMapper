@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+458719,plural tap,1,other
+458720,plvic c.t,1,imaging
+458722,pm device interrogate remote,1,other
+458723,pm&r consultation fee,1,consultation
+458724,pm&r specialist consultation,1,consultation
+458727,pm- epidural blood patch,1,lab_test
+458728,pm- epidural blood patch - (clinic or bedside,1,lab_test
+458733,pm- peripheral nerve block (non axial) - (clinic or bedside,1,procedure
+458736,pmf crown,1,dental
+458737,"pml / rara quantitative, pcr ""translocation 15;17 for apl",1,lab_test
+458738,pml /rara - pcr,1,lab_test
+458739,"pml-rar-alpha t(15;17), quantitative pcr",1,lab_test
+458740,"pml-rara t(15,17) translocation (qualitative) - s.o",1,lab_test
+458741,"pml-rara t(15,17) translocation molecular genetic analysis",1,procedure
+458742,"pml-rara t(15,17) translocation(quantitative",1,other
+458743,pml/rara t(15;17) qulitative analysis,1,procedure
+458744,pml/rara t(15 17,1,other
+458745,"pml/rara, t(15;17",1,other
+458750,pms,1,other
+458761,pmscl abs - s.o,1,lab_test
+458762,pn 120 pneumoneedle,1,other
+458763,pn pnpran,1,other
+458764,pnadol actifast film coated tablete,1,other
+458767,pnadol cold and flu day f.c. cablets,1,lab_test
+458770,pnadol sinus caplet,1,procedure
+458771,pnca,1,other
+458772,pncl,1,other
+458773,pnemocystitis pneumonia (p.jirovecii)screen - s.o,1,lab_test
+458774,pneumatic compression,1,other
+458775,pneumatic cuff compressor per day,1,other
+458776,pneumatic pressure /session,1,physiotherapy
+458777,pneumatic retinopexy,2,other
+458779,"pneumatic walker boot ""all sizes"" (ortho",1,supplies
+458780,pneumatic walker boot long (s/m/l/xl) (ortho) (icaremed) ^^,1,supplies
+458781,pneumatic walker boot short (s/m/l/xl) (ortho) (icaremed) ^^,1,supplies
+458782,pneumo - vax,1,other
+458785,pneumo test (ifa,1,lab_test
+458786,pneumococcal,2,other
+458787,pneumococcal abs,1,lab_test
+458788,pneumococcal (???? ????? ??????? ??????,1,other
+458790,pneumococcal (prevenar)vac,1,other
+458791,pneumococcal *prevenar,1,other
+458794,pneumococcal abs. (vaccine antigen/igg) - s.o,1,lab_test
+458800,pneumococcal conjugste (pcv,1,other
+458808,pneumococcal vacc antigen igg specific abs,1,lab_test
+458818,pneumococcal vaccine abs - s.o,1,lab_test
+458821,pneumococcal valent conjugated (prevenar 13,1,other
+458824,pneumocystic carinii,1,other
+458825,pneumocystic carnii (pcr,1,lab_test
+458826,pneumocystis carinii,1,other
+458827,pneumocystis carinii detection,1,other
+458828,pneumocystis carinii( so,1,other
+458829,pneumocystis carnii by pcr,1,lab_test
+458830,pneumocystis jiroveci (p.carinii)-pcr,1,lab_test
+458831,pneumocystis jiroveci (pcr) - s.o,1,lab_test
+458832,pneumocystis jiroveci (pcr)(send out,1,lab_test
+458833,pneumoneedle pn 120,1,other
+458834,pneumonia - mgmt 1-5 days,1,other
+458835,pneumonia associated infection panel - pcr,2,lab_test
+458836,pneumonia infections panel multiplex pcr,1,lab_test
+458839,"pneumothorax, majc",1,inpatient
+458840,"pneumothorax, minc",1,inpatient
+458841,pneumotology consultant fee,1,consultation
+458850,pnh,1,other
+458851,pnh ( paroxysmal nocturnal hemoglobinuria ) test,1,lab_test
+458852,pnh (paroxysmal nocturnal haemoglobinuria,1,other
+458853,pnh by flocytometry,1,other
+458854,pnh by flow cytometry,1,other
+458855,pnh clone screening,1,lab_test
+458856,pns,4,imaging
+458857,pns (2) view,1,imaging
+458858,pns (axial + coronal) ct scan,1,imaging
+458859,pns (axial + coronal) ct scan with contrast,1,imaging
+458860,pns (axial + coronal) ct scan without contras,1,imaging
+458861,pns (axial + coronal) ct scan without contrast,1,imaging
+458862,pns (o.m view,2,imaging
+458864,pns (o.m view) / radiography of paranasal sinus,1,procedure
+458865,pns (one view,1,supplies
+458867,pns (paranasal sinus,1,procedure
+458868,pns (sinuses) one view,1,supplies
+458869,pns (water's view,2,imaging
+458876,pns - 2,1,imaging
+458877,pns - 2v,1,imaging
+458896,pns -x-ray,1,imaging
+458910,pns / ????? sinuses - 1 view,1,imaging
+458930,pns / facial,1,imaging
+458971,pns / sinuses - 1 view,1,imaging
+458972,pns / sinuses - 2 views / sinus waters/lat,1,imaging
+458977,pns /adenoid ????,1,imaging
+458981,pns 1 v,1,imaging
+458982,pns 1 view,2,imaging
+458984,pns 1film,3,imaging
+458986,pns 2,1,imaging
+458987,pns 2 f,1,imaging
+458988,pns 2 v,1,imaging
+458989,pns 2 view,1,imaging
+458990,pns 2 views,1,imaging
+458991,pns 2 film,1,imaging
+458992,pns 2 films,1,imaging
+458993,pns 2films,2,imaging
+458994,pns 2v,1,imaging
+458995,pns 3 view,1,imaging
+458996,pns 3 views,2,imaging
+458997,pns ap& lat,1,imaging
+458998,pns axial & coronal,2,imaging
+458999,pns ap&lat,1,imaging
+459000,pns ct scanning,2,imaging
+459002,pns excision,1,procedure
+459003,pns film,1,imaging
+459004,pns i film,1,imaging
+459005,pns laser therapy,1,physiotherapy
+459014,pns o.m view,1,imaging
+459015,pns o.m view ( 14001105,1,imaging
+459016,pns om & lat,1,imaging
+459017,pns om view,1,imaging
+459018,pns one view,1,supplies
+459020,pns sinuses - 2 views,1,imaging
+459021,pns sinuses (one view,1,supplies
+459022,pns two films,1,imaging
+459023,pns two vicws,3,imaging
+459024,pns two views,1,imaging
+459025,pns view,2,imaging
+459026,pns view (waters view,1,imaging
+459027,pns water view +lat view 2f,1,imaging
+459028,pns water view,2,imaging
+459029,pns water view + lat view-2f,1,imaging
+459030,pns water's view,1,imaging
+459031,pns waters view,3,imaging
+459033,pns x ray,1,imaging
+459034,pns x ray 1 film,1,imaging
+459035,pns x ray 1 view,1,imaging
+459036,pns x ray 2 view,1,imaging
+459037,pns x-ray,3,imaging
+459038,pns x-ray -1 film,1,imaging
+459039,pns x-ray-1 film,1,imaging
+459042,pns frontal view,1,imaging
+459043,pns lateral & water`s views,1,imaging
+459044,pns lateral view,1,imaging
+459045,pns occipito-mental view,1,imaging
+459046,pns single view,1,imaging
+459048,pns xray,1,imaging
+459050,pns(2) view,1,imaging
+459051,pns(2)view,1,imaging
+459052,"pns, 2 view",1,imaging
+459054,pns-x-ray,1,imaging
+459056,pns.open mouth,1,imaging
+459059,pns/facial bones 1 view,1,imaging
+459069,pns/sinuses 1 view,1,imaging
+459070,po tassium,1,other
+459071,po-co-6050-5236-51-plf,1,eyewear
+459073,po2,1,other
+459074,"poc , dca, microalbuminurea, random urine",1,lab_test
+459075,"poc ,dca, hba1c",1,lab_test
+459076,poc - product of conception chromosome analysis / karyotyping,1,eyewear
+459077,poc alt (miscellaneous,1,lab_test
+459078,poc cbc (miscellaneous,1,lab_test
+459079,poc glucose (accu check,1,lab_test
+459080,poc k (miscellaneous,1,eyewear
+459081,poc product of conception using ngs so igx,1,eyewear
+459082,poc using acgh-product of conception using acgh,1,eyewear
+459083,"poc, blood glucose check",1,lab_test
+459084,"poc, bilirubin check test",1,lab_test
+459085,"poc, urine dipstick",1,lab_test
+459086,pocket treatment per quadrant - laser,1,procedure
+459087,poct - inr,1,lab_test
+459088,"poct - pt / provision of test materials and equipment for inr monitoring of patient with either mechanical heart valve(s), chronic atrial fibrillation, or venous thromboembolism - poct",1,lab_test
+459089,poct abg (arterial blood gases,1,lab_test
+459090,poct alanine aminotransferase,1,lab_test
+459091,poct albumin,1,lab_test
+459092,poct aspartate aminotransferase,1,lab_test
+459093,poct arterial blood gas,1,lab_test
+459094,poct blood urea nitrogen,1,lab_test
+459097,poct creatinine,1,lab_test
+459098,poct crp,1,lab_test
+459099,poct capillary blood gas,1,lab_test
+459100,poct d-dimer,2,lab_test
+459102,poct glucose,2,lab_test
+459103,poct glucose (random,1,lab_test
+459105,poct glucose fasting,1,lab_test
+459106,poct glucose random,1,lab_test
+459107,poct hba1c,1,lab_test
+459108,poct high sensitive troponin i,1,lab_test
+459109,poct istat bhcg,1,lab_test
+459113,poct methemoglobin,1,lab_test
+459114,poct nnbg (neonatal blood gases,1,lab_test
+459115,poct occult blood,1,lab_test
+459117,poct pt/inr,1,lab_test
+459118,poct pregnancy test,1,lab_test
+459119,poct sodium,1,lab_test
+459120,poct total bilirubin,1,lab_test
+459121,poct total carbon dioxide,1,lab_test
+459122,poct total carbon dioxide (a,1,lab_test
+459123,poct total carbon dioxide (v,1,lab_test
+459124,poct total protein,1,lab_test
+459125,poct troponin i,1,lab_test
+459126,poct urine dipstick,1,lab_test
+459127,poct vbg (venous blood gases,1,lab_test
+459128,poct venous blood gas,1,lab_test
+459129,poct- alanine aminotransferase (alt,1,lab_test
+459130,poct- aspartate transferase (ast,1,lab_test
+459131,poct- complete blood count (cbc,1,lab_test
+459132,poct- glucose,1,lab_test
+459133,"poct- lipid panel(hdl,ldl,triglycerides,glucose,total cholesterol",1,lab_test
+459134,poct-ldl,1,lab_test
+459135,poct-prothrombin time (pt/inr,1,lab_test
+459136,poct-troponin,1,lab_test
+459137,poct-troponin i high sensitive,1,lab_test
+459138,podo-med[unth-206,1,other
+459139,podosil denim blue[unthu-195,1,other
+459140,poem (per-oral endoscopic myotomy,1,procedure
+459141,poice/v8452/0568/f,1,other
+459143,point of care arterial blood gas (abg,2,lab_test
+459144,point of care glucotest (r.b.s,1,lab_test
+459145,point of care ketone whole blood,2,lab_test
+459146,point of care sars cov2 (covid-19) antigen,2,lab_test
+459147,point of care venous blood gas (vbg,2,lab_test
+459149,"poison/toxic eff drugs, majc",1,inpatient
+459150,"poison/toxic eff drugs, minc",1,inpatient
+459151,pol,1,other
+459152,pol-1523,1,other
+459153,polar,3,other
+459154,polar alice p,1,other
+459155,polar antelaao,1,other
+459156,polar antelaao p,1,other
+459157,polar bonnie p,1,other
+459158,polar cima,1,other
+459159,polar cima11,1,other
+459160,polar civetta,1,other
+459161,polar civetta p,1,other
+459162,polar clyde gold,1,nutrition
+459163,polar clyde p,1,other
+459164,polar extram p,1,other
+459165,polar extram sp,1,other
+459166,polar fm mod 567 col 73,2,eyewear
+459167,polar fm mod 570 col 63,2,eyewear
+459180,polar frm 280,1,eyewear
+459181,polar frm 805,1,eyewear
+459182,polar frm 805/56/15/06,1,eyewear
+459183,polar frm 807 c12,1,eyewear
+459190,polar fm mod 401 col 92,1,eyewear
+459192,polar fm mod 567 col 80,1,eyewear
+459193,polar fm mod 569 col 56,1,eyewear
+459194,polar fm mod 570 col 61,1,eyewear
+459196,polar fm mod villefranche col,1,eyewear
+459197,polar fm mod.569 col 73,1,eyewear
+459198,polar fm mod.569 col 83,1,eyewear
+459202,polar george p,1,other
+459203,polar metal fr 202 c04,1,eyewear
+459205,polar model 337 p,1,other
+459206,polar model 343 p,1,other
+459207,polar model 357 p,1,other
+459208,polar model 380 p,1,other
+459209,polar model 394 p,1,other
+459210,polar model 930,1,other
+459211,polar model 935 p,1,other
+459212,polar model 937,1,other
+459213,polar model 937 p,1,other
+459214,polar model 950,1,other
+459215,polar model 951,1,other
+459216,polar model 953,1,other
+459217,polar model 954,1,other
+459218,polar nuvolau,1,other
+459220,polar preformed t. tube 7.5 cuffed,1,supplies
+459221,polar preformed t.tube 5.5 cuffed,1,supplies
+459222,polar preformed t.tube 6.0 cuffed,1,supplies
+459223,polar preformed t.tube 7.0 cuffed,1,supplies
+459224,polar warran p,1,other
+459227,polarized 1.5 brown,1,other
+459229,polaroid,1,eyewear
+459230,polaroid 2084/g/s 807/m9,1,eyewear
+459235,polaroid frm,1,eyewear
+459236,polaroid frm 343/52/pjp/18,1,eyewear
+459237,polaroid frm 347/50/086/20,1,eyewear
+459238,polaroid frm 352/49/807,1,eyewear
+459239,polaroid frm 356/51/807/19,1,eyewear
+459240,polaroid frm 357/51/807/20,1,eyewear
+459241,polaroid frm 357/51/kb7/20,1,eyewear
+459242,polaroid frm 359/57/j5g/17,1,eyewear
+459243,polaroid frm 360/48/01q/19,1,eyewear
+459244,polaroid frm 373/54/807/17,1,eyewear
+459245,polaroid frm 374/51/086/18,1,eyewear
+459246,polaroid frm 374/51/807,1,eyewear
+459247,polaroid frm 381/51/086,1,eyewear
+459248,polaroid frm 384/51/2ik/20,1,eyewear
+459249,polaroid frm 388/52/086,1,eyewear
+459250,polaroid frm 388/52/807,1,eyewear
+459251,polaroid frm 391/48/0t5,1,eyewear
+459252,polaroid frm 391/48/7c5,1,eyewear
+459253,polaroid frm 391/48/krz,1,eyewear
+459254,polaroid frm 391/48/oit,1,eyewear
+459255,polaroid frm 391/48/zx9,1,eyewear
+459256,polaroid frm 393/49/dh4,1,eyewear
+459257,polaroid frm 394/55/8lz,1,eyewear
+459258,polaroid frm 395/52/0t5,1,eyewear
+459259,polaroid frm 395/52/7c5,1,eyewear
+459260,polaroid frm 419/51/086,1,eyewear
+459261,polaroid frm 419/51/086/19,1,eyewear
+459262,polaroid frm 422/53/807,1,eyewear
+459263,polaroid frm 422/53/900,1,eyewear
+459264,polaroid frm 423/51/086,1,eyewear
+459265,polaroid frm 423/51/35j,1,eyewear
+459266,polaroid fram,1,eyewear
+459267,polaroid kids 7015/s 807/m9,1,eyewear
+459268,polaroid kids 8027/s 807/ex,1,eyewear
+459269,polaroid kids 8028/s 807/ex,1,eyewear
+459270,polaroid kids 8039/s 807/m9,1,eyewear
+459271,polaroid kids frm,1,eyewear
+459272,polaroid kids frm 809/43/5cb/12,1,eyewear
+459273,polaroid kids frm 811/48/pjp/16,1,eyewear
+459274,polaroid kids frm 814/45/848/18,1,eyewear
+459275,polaroid kids frm 820/48/22a,1,eyewear
+459276,polaroid kids frm 820/48/3h2,1,eyewear
+459277,polaroid kids frm 821/48/4e3,1,eyewear
+459278,polaroid kids frm 821/48/d51,1,eyewear
+459279,polaroid kids frm 822/45/d51,1,eyewear
+459280,polaroid kids frm 822/45/rnb,1,eyewear
+459281,polaroid kids frm 822/45/t3l,1,eyewear
+459282,polaroid kids p0425 d28/y2,1,eyewear
+459283,polaroid opt d334 ful pls 55 086 van m,1,eyewear
+459284,polaroid opt d336 ful pls 53 n9p van m,1,eyewear
+459285,polaroid opt d368/f ful mtl 50 0am van/gld m,1,eyewear
+459286,polaroid opt d377/g ful mtl 51 6lb slv/gry m,1,eyewear
+459287,polaroid opt d383/g ful mtl 51 kj1/21 gun m,1,eyewear
+459288,polaroid opticla,1,eyewear
+459289,polaroid picture ( per shot,1,eyewear
+459297,polaroid2073/s086la,1,other
+459298,polaroid308,1,other
+459299,polaroid343,1,other
+459303,pole optik m.f - 68,1,lab_test
+459304,pole optik m.f - r507,1,lab_test
+459305,pole optik mod9938,1,other
+459307,police,3,eyewear
+459308,police po810754i66,1,eyewear
+459309,police policev1865m 55 761m,1,eyewear
+459310,police policev244 58 531,1,eyewear
+459311,police policev538 52 12l,1,eyewear
+459312,police - po258,1,eyewear
+459313,police - pol,1,eyewear
+459314,police - poli293,1,eyewear
+459315,police - poli8333,1,eyewear
+459316,police 1704,1,eyewear
+459317,police 1707,1,eyewear
+459318,police 2106 0 55,1,eyewear
+459319,police 229,1,eyewear
+459320,police 5318,1,eyewear
+459321,police 7162,1,eyewear
+459322,police 8685,1,eyewear
+459323,police c1,1,eyewear
+459324,police court3spl379,1,eyewear
+459334,police frm,1,eyewear
+459335,police frm v 3075,1,eyewear
+459336,police frm v1867,1,eyewear
+459337,police fram,1,eyewear
+459344,police mex b = 04/2019,1,eyewear
+459345,police nylon,1,eyewear
+459346,police optical,1,eyewear
+459348,police pl3305,1,eyewear
+459349,police policev038 50 703,1,eyewear
+459350,police vi699 col 01,1,eyewear
+459351,police vk022 col 01,1,eyewear
+459352,police vk022 col 03,1,eyewear
+459353,police vk022 col 11,1,eyewear
+459354,"police vk089, 950, 01-gp fr",1,eyewear
+459355,"police vk089, 950, 09-gu fr",1,eyewear
+459356,police vk103 co 01bt 50-17-135 fr,1,eyewear
+459357,police vk103 co 0b32 50-17-135 fr,1,eyewear
+459358,police vpl 0705s,1,eyewear
+459359,police vpl93m co 0700y 50-21-145 fr,1,eyewear
+459360,police vpld21m co 0700 55-15-140 fr,1,eyewear
+459361,police vpld99 co 0700 51-19-145 fr,1,eyewear
+459362,police-1,1,eyewear
+459363,police/8714/0627/f,1,eyewear
+459364,police/8733/oh68/f,1,eyewear
+459367,police/raven/vk035/9uxm/f,1,eyewear
+459368,police/v1525/o9b3/f,1,eyewear
+459369,police/v1526/08ff/f,1,eyewear
+459370,police/v1526/o9em/f,1,eyewear
+459371,police/v1526/o9ep/f,1,eyewear
+459372,police/v1526/o9eq/f,1,eyewear
+459373,police/v1526/o9er/f,1,eyewear
+459374,police/v1582c/5309sz/f,1,eyewear
+459375,police/v1582c/53p79g/f,1,eyewear
+459376,police/v1582n/53p79r/f,1,eyewear
+459377,police/v1583c/5109sz /f,1,eyewear
+459378,police/v1583n/5109sx/f,1,eyewear
+459379,police/v1634/op79/f,1,eyewear
+459380,police/v1642/p79b/f,1,eyewear
+459381,police/v1642/p79x/f,1,eyewear
+459382,police/v1643/og35/f,1,eyewear
+459383,police/v1678/o925/f,1,eyewear
+459384,police/v1771/oagz/f,1,eyewear
+459385,police/v1789/agtm/50/f,1,eyewear
+459386,police/v1792/0v14/52/f,1,eyewear
+459387,police/v1833/0700/f,1,eyewear
+459388,police/v1839/0703/57/f,1,eyewear
+459389,police/v5182/0952/53/f,1,eyewear
+459390,police/v8156/550k54/f,1,eyewear
+459391,police/v8269/530589 /f,1,eyewear
+459392,police/v8270m/530568 /f,1,eyewear
+459393,police/v8271/540sd3/f,1,eyewear
+459394,police/v8273/5308hq/f,1,eyewear
+459395,police/v8367m/0568/f,1,eyewear
+459396,police/v8367m/520k03/f,1,eyewear
+459397,police/v8376/5508cj/f,1,eyewear
+459398,police/v8376/550c66/f,1,eyewear
+459399,police/v8377/550597/f,1,eyewear
+459400,police/v8378/5408gt/f,1,eyewear
+459401,police/v8437/530531/f,1,eyewear
+459402,police/v8437/530568/f,1,eyewear
+459403,police/v8438/0579/54/f,1,eyewear
+459404,police/v8458/08nc/f,1,eyewear
+459405,police/v8458m/08nc/f,1,eyewear
+459406,police/v8458m/0k05/f,1,eyewear
+459407,police/v8605/0k03/f,1,eyewear
+459408,police/v8671/0568/f,1,eyewear
+459409,police/v8671/0e70/f,1,eyewear
+459410,police/v8671/0e92/f,1,eyewear
+459411,police/v8671/0h48/f,1,eyewear
+459412,police/v8671/0n53/f,1,eyewear
+459413,police/v8672/0h48/f,1,eyewear
+459414,police/v8672/0n53/f,1,eyewear
+459415,police/v8673/08ff/f,1,eyewear
+459416,police/v8673/oe70/f,1,eyewear
+459417,police/v8673/oe92/f,1,eyewear
+459418,police/v8673/oh48/f,1,eyewear
+459419,police/v8673/on53/f,1,eyewear
+459420,police/v8717/oko3/53/f,1,eyewear
+459421,police/v8718m/0568/54/f,1,eyewear
+459422,police/v8727/0584/f,1,eyewear
+459423,police/v8733/oh68/f,1,eyewear
+459424,police/v8793/0488/56/f,1,eyewear
+459425,police/v8793/049a/56/f,1,eyewear
+459426,police/v8793/0627/56/f,1,eyewear
+459427,police/vk017/oacd/f,1,eyewear
+459428,police/vk029/d83m/f,1,eyewear
+459429,police/vk532/08fk/f,1,eyewear
+459430,police1,1,other
+459431,police2,1,other
+459432,police3,1,other
+459433,policespl165955,1,other
+459434,policresulen,1,other
+459440,policresulen v. 6 ovule,1,other
+459442,policresulen v. ovules,1,other
+459446,policresulen90mgvaginalsupp,1,other
+459462,"polio virus 1, 2 , & 3 abs - s.o",1,lab_test
+459463,polio virus antibody,1,lab_test
+459464,polio virus antibody ab,1,lab_test
+459476,polipectomy,1,procedure
+459477,polish,1,other
+459478,polish & scaling prophy jet,1,dental
+459479,polish-moderate,1,other
+459480,polishing,5,dental
+459481,polishing by paste & bowder,1,dental
+459484,polishing & scaling,2,dental
+459485,polishing ( ghlop med,1,dental
+459486,polishing (a.e,1,dental
+459487,polishing all teeth scaling,1,dental
+459488,polishing all teeth&scaling,1,dental
+459489,polishing all teeth-scaling,1,dental
+459491,polishing of teeth,2,dental
+459492,polishing of teeth (prophylaxis,1,dental
+459493,polishing of teeth ant,2,dental
+459495,polishing of teeth prophylaxis,1,dental
+459496,polishing only,3,dental
+459497,polishing only -3-84-209,1,dental
+459498,polishing the teeth,1,dental
+459501,polishing+scalling,1,dental
+459502,polishing--removal of plaque and/or stain,1,dental
+459503,polishingofteeth(prophylaxis,1,other
+459504,polite 4253,1,other
+459505,polite frm,1,eyewear
+459506,polite frm 65081 c5,1,eyewear
+459507,polite frm dc8010 c4,1,eyewear
+459508,polite frm dc8014 c3,1,eyewear
+459509,polite frm dc8021 c2,1,eyewear
+459510,polite frm dc8021 c3,1,eyewear
+459511,polite frm dc8021 c4,1,eyewear
+459512,polite frm dc8023 c2,1,eyewear
+459513,polite frm dc8023 c3,1,eyewear
+459514,polite frm dc8034 c3,1,eyewear
+459515,polite frm dc8034 c4,1,eyewear
+459516,polite frm dc8043 c3,1,eyewear
+459517,polite frm dc8043 c4,1,eyewear
+459518,polite frm pf8019 c4,1,eyewear
+459519,politenss202 = 01/2018,1,other
+459520,polivy,1,other
+459523,polivy lyophilized140mg,2,other
+459524,poliza,1,other
+459533,pollen cr,1,other
+459535,pollen mix,1,other
+459537,polo,2,eyewear
+459538,polo - polo2190,1,eyewear
+459539,polo 1.56 - 4.00 : 2.00,1,eyewear
+459540,polo 1.59 - 4.00 : 2.00,1,eyewear
+459541,polo 1.61 - 6.00 : 3.00,1,eyewear
+459542,polo 1.74 rx,1,eyewear
+459543,polo 1193 9116,1,eyewear
+459544,polo 2058,1,eyewear
+459545,polo 2126 53 5534,1,eyewear
+459546,polo 2211 5668,1,eyewear

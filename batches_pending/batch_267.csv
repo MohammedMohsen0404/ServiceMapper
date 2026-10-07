@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+462155,prbc unit (no replacement,2,other
+462157,prbc unit (with replacement,1,other
+462158,prbc unit - pediatrics,1,other
+462159,prbcs unit negative group,1,other
+462160,prbcs unit positive group,1,other
+462162,prct,1,other
+462164,pre - employment check - up for saudi male / female,1,consultation
+462165,pre - operative anti hcv,1,lab_test
+462166,pre - operative package deal,1,other
+462167,pre / post auricular fistula excision,1,procedure
+462168,pre and post bronchodilator spirometry,1,diagnostic
+462169,pre auriclar fistula excision,2,procedure
+462171,pre auricular sinus excision ( unilateral,1,procedure
+462172,pre auricullar sebaceous cyst excision blopsy,1,procedure
+462173,"pre chemotherapy chemistry panel includes (cbc, rbs, alt, ast, t.bili.,na, ca, k, urea, crea",1,lab_test
+462174,pre delivary investigation 750 sr,1,other
+462175,pre dialysis panel,1,lab_test
+462176,pre employement almarai arabian shield jeddah,1,other
+462177,pre employment almarai arabian shield jeddah,1,consultation
+462178,pre employment medical,1,consultation
+462179,pre employment medical-standard,1,consultation
+462180,pre employment sib,1,consultation
+462181,pre fabricated post & core,1,dental
+462182,pre implantation genetic screening (pgs) per embryo,1,lab_test
+462183,pre marital screening package,1,lab_test
+462184,pre molar tooth or 2 canals,1,dental
+462191,pre nan lbw r.t.f. premature infant milk,1,nutrition
+462198,pre nan stage-1 12x400gm,1,nutrition
+462199,pre nan stage-2 12x400gm,1,nutrition
+462205,pre op pediatric,1,other
+462206,pre op shaving mw,1,other
+462208,pre operative bariatric assessment package,1,consultation
+462209,pre operative (investigations,1,other
+462210,"pre operative assessment (cbc,pt,inr,creatinine , anathesia consultaion",1,lab_test
+462211,pre operative evaluation of osas,1,consultation
+462212,pre operative investigation,2,other
+462213,pre operative investigation (package,1,other
+462214,pre operative investigations - adult,1,other
+462215,pre operative laboratory investigation,1,other
+462216,pre operative profile,1,lab_test
+462217,pre operative test,1,lab_test
+462219,pre renal transplant consultant clinic follow-up,1,consultation
+462220,pre scrub iodine 40s/bx,1,procedure
+462221,pre surg inv pack-b (>40 chest x ray pa,1,imaging
+462222,pre surg inv package-b (>40 ecg,1,diagnostic
+462223,pre- dialysis bun,1,lab_test
+462224,"pre-admission clinic limited work-up (consultation, ecg,cxr",1,diagnostic
+462225,pre-anal absces,1,other
+462226,pre-anesthesia consultation fee,1,procedure
+462227,pre-anesthtesia new follow-up,1,consultation
+462228,pre-auricular sinus or cyst for excision under ga,1,procedure
+462229,"pre-bent rod, titanium, l/5.5x80mm -sterile ( medacta) 03.50.459",1,supplies
+462230,pre-eclamsia,1,other
+462231,pre-employment - maaden for admin/office,1,consultation
+462232,pre-employment - maaden for operations - security - field,1,consultation
+462233,pre-employment - takamol (male,1,consultation
+462234,pre-employment checkup for rua al- madinah,1,consultation
+462235,pre-employment checkup(peme) saudi,1,consultation
+462236,pre-employment health check up,1,consultation
+462237,pre-employment medical check up,1,consultation
+462238,pre-employment test - a -normal,1,lab_test
+462239,pre-employment%20-%20takamol%20(male)%09,1,consultation
+462241,pre-klenz مطهر طبى,1,other
+462242,pre-lasik assesment,1,other
+462243,pre-made inserts,1,other
+462244,pre-nan human milk fortifier,1,nutrition
+462245,pre-natal array 750 (amniotic fluid) - s.o,1,lab_test
+462246,pre-natal array hd (amniotic fluid) - s.o,1,eyewear
+462247,"pre-natal full gene analysis by ngs, (amniotic fluid or cvs), igenomix - s.o",1,lab_test
+462248,pre-natal tri-feto test,1,lab_test
+462249,pre-natal wes solo (amniotic fluid) - s.o,1,eyewear
+462250,pre-op dr. hassan,1,other
+462251,pre-op for outside surgery,1,procedure
+462252,pre-op hepa screening panel,1,lab_test
+462253,pre-op hepatitis screening,1,lab_test
+462254,"pre-op i <18y:cbc,fbs,hep b c,hiv",1,lab_test
+462255,"pre-op i <18y:cbc,fbs,hep b c,hiv, pt & ptt (cash only",1,lab_test
+462256,pre-op moderate case,1,other
+462257,pre-op package deal adult,1,other
+462258,pre-op screen,1,other
+462259,"pre-op screen - hiv, hbsag, hcv cash ony",1,lab_test
+462260,pre-op tests package,1,lab_test
+462261,pre-op vascular u/s mapping,1,imaging
+462262,pre-op-hepa screening panel,1,lab_test
+462263,"pre-op:cbc,fbs,hep,hiv,s.crea,sgpt,ecg,cx",1,lab_test
+462264,"pre-op<35y:cbc,fbs,hep b c,hiv,s.crea,sgpt",1,lab_test
+462265,pre-operative investigation,2,other
+462266,pre-operative investigation - inp,1,other
+462267,pre-operative investigations,3,other
+462268,pre-operative investigations for interventional cardiology cases,1,other
+462269,pre-operative investigations for surgeries,1,other
+462270,pre-operative investigations[cbc+blood group+pos+ss] [additional]+,1,lab_test
+462271,"pre-operative lab profile ii (cbc, fbs, alt, creatinine, hiv, hbgag, hcv",1,lab_test
+462272,pre-operative profile,3,lab_test
+462273,pre-operative profile # (s,1,lab_test
+462274,pre-operative profile #(s,1,lab_test
+462275,pre-operative profile (children,1,lab_test
+462276,pre-operative profile (co) (s,1,lab_test
+462277,pre-operative profile 1,1,lab_test
+462278,pre-operative profile 4,1,lab_test
+462279,pre-operative profile i - below 40 years (diabetic,1,lab_test
+462280,pre-operative profile ii - above 40 years (diabetic,1,lab_test
+462281,"pre-operative screening (hiv, hbgag, hcv",1,lab_test
+462282,pre-operative test,2,lab_test
+462283,pre-orthodontic treatment visit,1,dental
+462284,pre-sleeve checkup,1,consultation
+462285,pre-transepithelial prk examination,2,consultation
+462286,prealbumin,2,other
+462287,preanesthesia clinic consultation,1,consultation
+462288,preast,1,other
+462289,preauricular cyst excision-1day pkg,1,procedure
+462290,preauricular fistula - excision (unilateral,1,procedure
+462291,preauricular fistula excision,1,procedure
+462292,preauricular sinus excision (unilateral) - 1 day pkg,1,procedure
+462293,preauricular sinus excision - unilateral,1,procedure
+462294,preauricular sinus excision unil bupa,1,procedure
+462295,prebent rod titanium alloy 30 mm,1,supplies
+462296,prec central vein catheterisation,1,procedure
+462297,precedex (dexmetomidine,1,other
+462301,"precept screw 6.5x35 mm polyaxial , 8806535a / p0701000131 nuvasive",1,supplies
+462302,precept set screw,1,supplies
+462303,"precept set screw , 8800000 / p0701000142 nuvasive",1,supplies
+462304,"precept ti rod, 80mm prebent lordotic , p0701000155 nuvasive",1,supplies
+462305,precious metal porcelain crown,3,dental
+462306,precision 1 daily transparent,1,other
+462307,precision fit knee support (adj) futuro 01039,1,supplies
+462308,precision flow disposable patient circuit high flow (vapotherm)(nicu,1,supplies
+462309,precision flow patient circuit high disposable (pf-dpc-high,1,supplies
+462310,precision panels (genetic testing by ngs) - s.o,1,lab_test
+462311,precision rod straight cocr diff.size,1,supplies
+462312,"precision1 830, 14.20, -, 01.50, 00.00",1,other
+462313,"precision1 830, 14.20, -, 03.25, 00.00",1,other
+462314,"precision1 830, 14.20, -, 04.00, 00.00",1,other
+462315,"precision1 830, 14.20, -, 04.50, 00.00",1,other
+462316,"precision1 830, 14.20, -, 09.00, 00.00",1,other
+462317,precisor biopsy cep alligator cup 2.3mmx230cm dispo,1,procedure
+462318,preconceptual consulting follow-up,1,consultation
+462319,preconceptual consulting new follow-up,1,consultation
+462320,preconceptual consulting new patient,1,other
+462321,precotoneous discectomy ( any region,1,procedure
+462322,precut rod 90mm,1,supplies
+462323,precutaneous removal of intravascular foreign body,1,procedure
+462324,precutaneous rod/pre-bent 5.5 l 45 # mpf-bt 50 45-s,1,supplies
+462325,precutneous microdisectomy two levels,1,lab_test
+462337,pred fort e.d,1,lab_test
+462360,pred forte e.d,1,lab_test
+462411,pred forte opth. susp1%,1,other
+462415,pred%20forte%20opth.%20susp,1,other
+462422,predfort eye drps 0 % j,1,other
+462424,predforte 1 % eye drps,1,other
+462701,prednisolone20mg,1,other
+462702,prednisolone3mg/mlsyrup,1,other
+462707,prednisolone5mg,1,other
+462708,prednisone,1,other
+463192,predo5mgtab(b/30,1,other
+463213,pref e.t.tube cuffed oral 4.0,1,supplies
+463214,pref e.t.tube cuffed oral 5.0,1,supplies
+463215,pref e.t.tube cuffed oral 5.5,1,supplies
+463216,pref e.t.tube cuffed oral 7.0,1,supplies
+463217,pref e.t.tube cuffed oral 7.5,1,supplies
+463218,prefabricated intra-radi-cular pin,1,supplies
+463219,prefabricated post and core fiber post,1,dental
+463220,prefabricated post and core in addition to crown,4,dental
+463221,prefabricated post and core metal post,1,dental
+463222,prefabricated resin crown,1,dental
+463223,prefabricated ss crown,1,dental
+463224,prefabricated stainless steel crown,1,dental
+463225,prefabricated stainless steel crown primary,2,dental
+463226,prefabricated stainless steel crown primary tooth,2,dental
+463227,prefabricated stainless steel crown - primary tooth,2,dental
+463229,"prefabricated stainless steel crown, permanent tooth",1,dental
+463230,"prefabricated stainless steel crown, primary molars",1,dental
+463231,prefalgon,1,other
+463233,prefect k,1,other
+463235,preflagan,2,other
+463236,preformed metal post,1,other
+463237,preformed t.tube 8.0 cuffed,1,supplies
+463238,preformed tracheal tube rae/oral uncuff- cuffed 7.5 mm,1,supplies
+463239,preg -test,2,lab_test
+463240,preg .test (bl,1,lab_test
+463241,preg t(blood,1,lab_test
+463242,preg test (blood,1,lab_test
+463243,preg test blood serum,2,lab_test
+463244,preg. test,1,lab_test
+463245,preg. test (serum,2,lab_test
+463246,preg. test blood (serum,2,lab_test
+463247,preg. test in urine,1,lab_test
+463248,preg. test(u,1,lab_test
+463249,preg.follow-up ultrasound (3 s,1,imaging
+463250,preg.test (serum,2,lab_test
+463251,preg.test blood (serum,1,lab_test
+463252,preg.test in urine,1,lab_test
+463302,pregabaline (serum) - s.o,1,lab_test
+463332,pregancy test - urine,1,lab_test
+463333,pregenancy test (hcg) urine,1,lab_test
+463334,pregenency (hcg) test urine,1,lab_test
+463335,pregenency test (hcg) serum,1,lab_test
+463336,pregenency test (hcg) serum(l070,1,lab_test
+463337,pregna t cu380a loop,1,other
+463340,pregnacare,1,other
+463356,pregnacare 30cap,3,other
+463357,pregnacare 30caps,1,other
+463358,pregnacare adv.16vit&minerals 30caps,1,other
+463359,pregnacare advance 16vitamins & minerals 30cap,1,other
+463361,pregnacare advanced,2,other
+463365,pregnacare advanced 30cap,1,other
+463366,pregnacare advanced 30caps,1,other
+463378,pregnacare advances 30cap,1,other
+463394,pregnacare vitamins,1,other
+463396,pregnacre,1,other
+463399,pregnacy test,1,lab_test
+463400,pregnan test ( seurm,1,lab_test
+463401,pregnancey duplex,1,other
+463402,pregnancey serum,2,lab_test
+463403,pregnancey serum 32023,1,lab_test
+463404,pregnancy,3,other
+463406,pregnancy serum,2,lab_test
+463407,pregnancy test serum,13,lab_test
+463408,pregnancy test ( serum,10,lab_test
+463409,pregnancy test ( serum ) qualitative,5,lab_test
+463411,pregnancy test bhcg,1,lab_test
+463412,pregnancy u / s,2,imaging
+463413,pregnancy ( serum )/ s.h.c.g,1,lab_test
+463414,pregnancy (hgg) test-serum,1,lab_test
+463415,pregnancy (repeat / screening,1,lab_test
+463416,pregnancy (repeat,1,other
+463417,pregnancy (screening,1,lab_test
+463418,pregnancy - serum,3,lab_test
+463419,pregnancy - urine,2,lab_test
+463420,pregnancy / obstetrical,1,other
+463421,pregnancy and abdomen,1,other
+463422,pregnancy assessment,1,consultation
+463423,pregnancy assessment & d. u. a,1,consultation
+463424,pregnancy care multivitamins 30 strips,1,supplies
+463425,pregnancy doppler,1,imaging
+463426,pregnancy first scan,1,imaging
+463427,pregnancy in blood,3,lab_test
+463429,pregnancy in serum no,1,lab_test
+463430,pregnancy in urine,2,lab_test
+463431,pregnancy s. hcg (qualitative,1,lab_test
+463435,pregnancy serum special,1,lab_test
+463436,pregnancy serum-389,1,lab_test
+463442,pregnancy test - urine,4,lab_test
+463444,pregnancy test urine,7,lab_test
+463445,pregnancy test ( bhcg - qualitative,1,lab_test
+463446,pregnancy test ( bhcg qualitative,1,lab_test
+463447,pregnancy test ( blood,2,lab_test
+463448,pregnancy test ( blood )ِ,1,lab_test
+463450,"pregnancy test ( early , sensitive",1,lab_test
+463453,pregnancy test ( serum )-pregnancy test ( serum,1,lab_test
+463455,pregnancy test ( urin,1,lab_test
+463456,pregnancy test ( urin )ِ,1,lab_test
+463457,pregnancy test ( urine,7,lab_test
+463458,pregnancy test ( urine )-pregnancy test ( urine,1,lab_test
+463461,pregnancy test (beta-hcg-qualitative,1,lab_test
+463462,pregnancy test (bhcg,1,lab_test
+463464,pregnancy test (blood) hcg (qualitative,1,lab_test
+463465,pregnancy test (hcg titer) urine,1,lab_test
+463466,pregnancy test (qualitative,2,lab_test
+463468,pregnancy test (s,1,lab_test
+463469,pregnancy test (s.or u,1,lab_test
+463473,pregnancy test (serum) - spt,1,lab_test
+463474,pregnancy test (serum) pregnancy test (serum,1,lab_test
+463478,pregnancy test (serum-782,1,lab_test
+463479,pregnancy test (serum/urine,1,lab_test
+463480,pregnancy test (slide,1,lab_test
+463482,pregnancy test (u,1,lab_test
+463483,pregnancy test (ultra sensitive,2,lab_test
+463485,pregnancy test (urine or serum,1,lab_test
+463491,pregnancy test - serum,5,lab_test
+463492,pregnancy test - 034-20647,1,lab_test
+463493,pregnancy test - beta hcg - qualitative,1,lab_test
+463494,pregnancy test - blood,6,lab_test
+463497,pregnancy test - point of care,1,lab_test
+463498,pregnancy test - s,1,lab_test
+463500,pregnancy test - serum tube,3,lab_test
+463502,pregnancy test --- serum,1,lab_test
+463503,pregnancy test / qualitative (serum,1,lab_test
+463504,pregnancy test / serum,1,lab_test
+463505,pregnancy test : serum,1,lab_test
+463506,pregnancy test : urine,1,lab_test
+463507,pregnancy test blood,5,lab_test
+463508,pregnancy test blood i.c.o.n,1,lab_test
+463509,pregnancy test in blood,6,lab_test
+463510,pregnancy test in blood ( ql,1,lab_test
+463512,pregnancy test in serum,6,lab_test
+463513,pregnancy test in serum (qualitative,2,lab_test
+463514,pregnancy test in urine,6,lab_test
+463515,pregnancy test in urine (qualitative,2,lab_test
+463516,pregnancy test one step,1,lab_test
+463517,pregnancy test qualitative (serum,1,lab_test
+463518,pregnancy test qualitative (urine,2,lab_test
+463519,pregnancy test qualitative -urine,1,lab_test
+463520,pregnancy test qualitative / serum,1,lab_test
+463521,pregnancy test qualitative / serum (l18,1,lab_test
+463522,pregnancy test qualitative / urine,1,lab_test
+463523,pregnancy test qualitative-serum,1,lab_test
+463524,pregnancy test s,3,lab_test
+463526,pregnancy test serum (b-hcg,2,lab_test
+463527,pregnancy test serum ?????,1,lab_test
+463528,pregnancy test serum or urine,1,lab_test
+463529,pregnancy test serum/ urine,1,lab_test
+463532,pregnancy test urine i.c.o.n,1,lab_test
+463533,pregnancy test urine special,1,lab_test
+463534,pregnancy test _ urine_,1,lab_test
+463535,pregnancy test _urine_,1,lab_test
+463536,pregnancy test( serum,1,lab_test
+463537,pregnancy test(blood) s. hcg,2,lab_test
+463538,pregnancy test(ql,1,lab_test
+463539,pregnancy test(serum,3,lab_test
+463541,pregnancy test(urine,1,lab_test
+463542,pregnancy test) beta-hcg-qualitative,1,lab_test
+463543,"pregnancy test, (hcg titer), urine",1,lab_test
+463544,"pregnancy test, blood",1,lab_test
+463545,"pregnancy test, serum",3,lab_test
+463546,"pregnancy test, serum(510044",1,lab_test
+463547,"pregnancy test, urine",3,lab_test
+463548,"pregnancy test,serum",2,lab_test
+463549,"pregnancy test,urine",1,lab_test
+463550,pregnancy test- blood,1,lab_test
+463551,pregnancy test- urine,1,lab_test
+463552,pregnancy test-(lab,1,lab_test
+463553,pregnancy test-blood,2,lab_test
+463555,pregnancy test/blood,2,lab_test
+463556,pregnancy testqualitative-serum,1,lab_test
+463557,pregnancy testserum,1,other
+463558,pregnancy test[serum,1,lab_test
+463560,pregnancy u s,1,imaging
+463561,pregnancy u,1,other
+463562,pregnancy u.s,2,imaging
+463564,pregnancy u/s with fetus doppler,1,imaging
+463565,pregnancy ultra sound (06215992,1,imaging
+463567,pregnancy urine,1,lab_test
+463568,pregnancy us,1,imaging
+463569,pregnancy us with doppler,1,imaging
+463570,pregnancy utz with fetal doppler,1,imaging
+463571,pregnancy utz with fetal doppler(03070,1,imaging
+463573,pregnancy with biophysical profile,1,lab_test
+463574,pregnancy with biophysical profile_,1,other
+463575,pregnancy with doppler,1,imaging
+463576,"pregnancy, serum",1,lab_test
+463577,pregnancy- serum,1,lab_test
+463578,pregnancy- test,1,lab_test
+463579,pregnancy- urine,1,lab_test
+463580,pregnancy-serum,2,lab_test
+463581,pregnancy.blo,1,other
+463582,pregnancytest,1,other
+463585,pregnant u.s,1,imaging
+463586,pregnantriol,1,other
+463587,pregnantriolone,1,other
+463588,pregnata,1,other
+463595,pregnata 30cap,2,other
+463615,pregncy test,1,lab_test
+463616,pregnency (hcg) test serum,1,lab_test
+463617,pregnency (hcg)test-serum-4059-lab,1,lab_test
+463618,pregnency test,1,lab_test
+463619,pregnency test : serum,1,lab_test
+463620,pregnency test serum,1,lab_test
+463622,pregtest blood serum,1,lab_test
+463623,preliminary c.t. any organ,1,imaging
+463624,preliminary eye ultrasonography,1,imaging
+463625,preliminary mri,1,imaging
+463626,preliminary restoration for crown direct,3,dental
+463627,preliminary restoration for crown - direct,1,dental
+463628,preliminary scan i,1,imaging
+463629,"prelude, dynacast synthe. acute",1,supplies
+463630,premaban,1,other
+463649,premade a.f.o,1,lab_test
+463650,premanent tooth extraction,1,dental
+463661,premature ventricular complex ablation ( 3d - mappring ablation ) - p/d,1,procedure
+463662,premedication,1,other
+463663,premedication visit,2,consultation
+463665,premicath neonate 2fr,1,other
+463668,premium iol lense,1,eyewear
+463671,premolar tooth or 2 canals with fillings,1,dental
+463672,premolar tooth root canal,1,dental
+463673,premolar tooth root canal posterior,1,dental
+463675,premosan,3,other
+463679,premosan 1115,1,other
+463680,premosan 20tab,3,other
+463684,premosan (17123,1,other
+463685,premosan (im,1,other
+463686,premosan (iv,1,supplies
+463689,premosan - ???????? ????????????????,1,other
+463690,premosan - ابرة بريموزان,1,other
+463691,premosan -10013,1,other
+463874,premosan 20tab (06106,1,other
+463880,premosan 5amp,1,other
+463891,premosan ampule,2,other
+463892,premosan ampule vein,1,other
+463895,premosan i m,1,lab_test
+463896,premosan i v,1,lab_test
+463898,premosan im,1,other
+463899,premosan im(er service,1,other
+463908,premosan iv,1,supplies
+463909,premosan iv(er service,1,supplies
+463946,premosan(01036,1,other
+463958,premperan,1,other
+463963,premperan inject,1,other
+463965,premperan im-iv,1,supplies
+463967,premperon,1,other
+463968,prempiran,1,other
+463970,premployment checkup sfda,1,consultation
+463971,prempran,1,other
+463974,premum,1,other
+463977,prenan 1 rtf 32x70ml,1,other
+463980,prenanmilk infant liquid f/ premature,1,other
+463982,prenatal 60's,1,other
+463983,prenatal anomaly scan,1,imaging
+463984,prenatal genetic screen - sickle cell anemia (hbb gene) - s.o,1,lab_test
+463986,prenatal physiotherapy (6 session,1,physiotherapy
+463987,prenatal profile,1,lab_test
+463988,prenatal screen type anti body,1,other
+463989,prenatal testing for abcb11 gene with maternal cell contamination (to centogene,1,lab_test
+463990,prenatal vaginal swab ( group - b streptococcus - culture & sensitivity,1,lab_test
+463991,preop:cbc/ecg/cxr/hcv/hbv/hiv/cr/esr/rbs,1,lab_test
+463992,preoper. profile children,1,lab_test
+463993,preoperative (serology screening,2,lab_test
+463994,preoperative anaesthetist visit,1,consultation
+463995,preoperative hbs-ag,1,lab_test
+463996,preoperative hcv-abs,1,lab_test
+463997,preoperative investigation (insurance company,1,insurance
+463998,preoperative investigations - adult,1,other
+463999,"preoperative placement, needle localization wire, breast",1,supplies
+464000,preoperative screening,2,lab_test
+464001,preoperative tests,1,lab_test
+464002,preparation,1,other
+464003,preparation ( 10 ) . sr,1,other
+464004,preparation ( 100 ) . sr,1,other
+464005,preparation ( 110 ) . sr,1,other
+464006,preparation ( 115 ) . sr,1,other
+464007,preparation ( 120 ) . sr,1,other
+464008,preparation ( 125 ) . sr,1,other
+464009,preparation ( 130 ) . sr,1,other
+464010,preparation ( 140 ) . sr,1,other
+464011,preparation ( 15 ) . sr,1,other
+464012,preparation ( 150 ) . sr,1,other
+464013,preparation ( 170 ) . sr,1,other
+464014,preparation ( 180 ) . sr,1,other
+464015,preparation ( 190 ) . sr,1,other
+464016,preparation ( 20 ) . sr,1,other
+464017,preparation ( 200 ) . sr,1,other
+464018,preparation ( 25 ) . sr,1,other
+464019,preparation ( 30 ). sr,1,other
+464020,preparation ( 35 ). sr,1,other
+464021,preparation ( 40). sr,1,other
+464022,preparation ( 45 ) .sr,1,other
+464023,preparation ( 5 ) . sr,1,other
+464024,preparation ( 50 ) .sr,1,other
+464025,preparation ( 55 ) .sr,1,other
+464026,preparation ( 70 ) . sr,1,other
+464027,preparation ( 75 ) . sr,1,other
+464028,preparation ( 80 ) . sr,1,other
+464029,preparation ( 85 ) . sr,1,other
+464030,preparation ( 95 ) . sr,1,other
+464031,preparation any kind of iv fluids,1,supplies
+464032,prepatellar bursitis (arthroscopy)-1day pkg,1,procedure
+464033,prepatellar bursitis (open)(knee)-1day pkg,1,other
+464034,prerfalgan,2,other
+464035,presbyond,1,other
+464036,preschool vac. moh,1,other
+464039,presepsin,1,other
+464040,presipsen,1,other
+464043,pressure bandage,4,supplies
+464044,pressure bandage / elastic,1,supplies
+464045,"pressure bandage 27cm,#pb04b,kdl",1,supplies
+464046,pressure compartment measurement,1,other
+464047,pressure dressing bandage,1,supplies
+464048,pressure flow study,1,consultation
+464049,pressure flowmetry study,1,consultation
+464050,pressure garments (fitting f/u,1,other
+464051,pressure guide wire verrata,1,supplies
+464055,pressure releiving mattress,1,other
+464056,pressure relieving matress,2,other
+464057,pressure relieving matress per day,1,other
+464058,pressure test,1,lab_test
+464059,pressure ulcer care,1,procedure
+464060,pressure ulcer debridement (moderate,1,procedure
+464061,pressure wire,2,supplies
+464062,pressure wire certus - per pcs,1,supplies
+464063,pressure wire philips,1,supplies
+464064,"pressure wire, combomap, 7900",1,supplies
+464065,pressure wire; initial vessel,2,supplies
+464066,pressurized or nonpressurized inhalation treatment for acute airway ob,1,supplies
+464067,pressurized or nonpressurized inhalation treatment for acute airway obstruction / small volume nebulizer / mdi,1,supplies
+464069,presure band,1,other
+464070,presure tympanometery/??? ??? ??????,1,other
+464143,prevaildrugballoo,1,other
+464144,prevalin adults ns 120 spry/pack,1,supplies
+464149,prevenar,4,other
+464150,prevenar (pneumococcal) single dose vac -1s,1,other
+464175,prevenar 13 pre-filled syringe(pcv,1,supplies
+464176,prevenar 13 prefilled syringe,1,supplies
+464186,prevenar pfc-vaccone,1,other
+464193,prevenar syring,1,other
+464194,prevenar vacc. syring,1,other
+464206,prevention of dvt machine / day,1,supplies
+464207,preventive check-up for medical centers - package,1,other
+464208,preventive resin restoration,1,dental
+464209,preventive resin restoration in a moderate to high caries risk patient permanent tooth,2,dental

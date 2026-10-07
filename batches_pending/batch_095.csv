@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+277937,hcg -serum,2,lab_test
+277938,hcg -urine,1,lab_test
+277939,hcg / ??? ??. ??.??,1,lab_test
+277940,hcg beta (quantitative,1,lab_test
+277941,hcg beta for pregnancy serum/urine,1,lab_test
+277942,hcg beta quantitative,1,lab_test
+277943,hcg beta total serum,1,lab_test
+277946,hcg estradiol profile,2,lab_test
+277947,hcg human chorionic gonadotropin serum,2,lab_test
+277949,hcg harmon,1,lab_test
+277950,hcg in blood,1,lab_test
+277951,hcg pregnancy serum,2,lab_test
+277952,hcg pregnancy test : serum,1,lab_test
+277953,hcg pregnancy test : serum- lab test,1,lab_test
+277954,hcg pregnancy test : urine,1,lab_test
+277955,hcg pregnancy test : urine -lab test,1,lab_test
+277956,hcg pregnancy urine,2,lab_test
+277957,hcg pallidum test (tpha,1,lab_test
+277958,hcg pregnancy qualitative,1,lab_test
+277959,hcg pregnancy quantitative,1,lab_test
+277962,hcg qualitative (pregnancy test,1,lab_test
+277963,hcg quantitative,2,lab_test
+277964,hcg quantity (pregnancy test in blood,1,lab_test
+277965,hcg qualitaive {pregnancy test},1,lab_test
+277967,hcg qualitative {hcg} {b-hcg},1,lab_test
+277968,hcg qualitative {pregnancy test},1,lab_test
+277969,hcg qualitative(pregnancy test,1,lab_test
+277971,hcg quantitative (s,1,lab_test
+277972,hcg quantitative pregnancy,1,lab_test
+277976,hcg quantitative- urine,1,lab_test
+277978,hcg screen serum,1,lab_test
+277979,hcg screen urine,1,lab_test
+277980,hcg serum,1,lab_test
+277981,hcg titre,2,lab_test
+277983,hcg total quantitive-1087,1,lab_test
+277984,hcg urine,2,lab_test
+277987,hcg quanitative,1,lab_test
+277991,hcg titration,1,lab_test
+277992,hcg whole molecule,1,lab_test
+277993,hcg(humanchorionicgonadotropins,1,lab_test
+277994,hcg(qual)preg,2,lab_test
+277996,"hcg, serum/ urine, qualitative",1,lab_test
+277997,"hcg, beta quantitative",1,lab_test
+277998,hcg- screen serum,1,lab_test
+277999,hcg-(pregnancy test,2,lab_test
+278001,hcg-beta subunit quantitative,2,lab_test
+278002,hcg-beta subunit (quantitative,1,lab_test
+278003,"hcg-beta subunit, serum,qualitative",1,lab_test
+278004,hcg-galitative(ptegnancy test,1,lab_test
+278005,hcg-serum,1,lab_test
+278006,hcg. quantitative (elisa,1,lab_test
+278007,hcg.beta subunit.serum (quantitative,1,lab_test
+278008,hcg.serum/urine.qualitative,1,lab_test
+278009,hcgquantitative,1,other
+278010,hco3 - ?????,1,other
+278011,hco3 profile,1,lab_test
+278012,hco3 serum,1,lab_test
+278013,hcs headless compression screw 2.4 / 4/16,1,supplies
+278021,hcv ( card,1,lab_test
+278024,hcv antibody 3rdg,3,lab_test
+278025,hcv igg abs (immunoblot,2,lab_test
+278026,hcv ( ab,1,lab_test
+278027,hcv ( anti ) - ?????,1,lab_test
+278028,hcv ( hepatitis c virus,1,lab_test
+278029,hcv ( pcr ) qualitative,1,lab_test
+278030,hcv ( riba,1,lab_test
+278031,hcv (ab,1,lab_test
+278032,hcv (elisa,1,lab_test
+278033,hcv (hepatitis c virus) elisa,1,lab_test
+278034,hcv (pcr ) quantitative,1,lab_test
+278035,hcv (pcr) qualitative,1,lab_test
+278036,hcv (pcr) quantitative,1,lab_test
+278037,hcv (quantitative) genotyping,1,lab_test
+278038,hcv (rna) qual. (pcr) (hepatitis c,1,lab_test
+278039,hcv (rna) quant. pcr,1,lab_test
+278041,hcv - ab,3,lab_test
+278042,hcv - ab 32016,1,lab_test
+278044,hcv - ab screening,1,lab_test
+278045,hcv - ab-hcv - ab,1,lab_test
+278046,hcv - abs,1,lab_test
+278047,hcv - elisa,3,lab_test
+278050,hcv - pcr quantitative,1,lab_test
+278051,hcv - riba,1,lab_test
+278052,hcv - الكبد الوبائي س,1,lab_test
+278053,hcv -ab,2,lab_test
+278054,hcv -ab (total,1,lab_test
+278055,hcv / hcv igg by immunoblot,1,lab_test
+278056,hcv 3rd gen antibody,1,lab_test
+278058,hcv ab ( anti- hcv ab,2,lab_test
+278059,hcv ab - inpatient,1,lab_test
+278060,hcv ab 01050377-32,1,lab_test
+278061,hcv ab ?????,1,lab_test
+278062,hcv ab inpatient,1,lab_test
+278063,hcv ab total,6,lab_test
+278064,"hcv ab, elisa",1,lab_test
+278066,hcv ab. screening,1,lab_test
+278067,hcv ab.(hepatitis c antibody,1,lab_test
+278068,hcv abs,4,lab_test
+278069,hcv abs (hepatitis c,1,lab_test
+278070,hcv abs (s,1,lab_test
+278071,hcv abs-2880,1,lab_test
+278072,hcv anti body,1,lab_test
+278073,hcv antibodies,3,lab_test
+278074,hcv antibodies c.-856,1,lab_test
+278076,hcv antibody (rapid test,1,lab_test
+278077,hcv antibody - hepatitis c . virus abs,1,lab_test
+278078,"hcv antibody - hepatitis c, virus abs",1,lab_test
+278084,hcv antibody - hepatitus c. virus abc,1,lab_test
+278085,hcv antibody -hepatities c virus abs,1,lab_test
+278086,hcv antibody 3rd generattion,1,lab_test
+278088,hcv antibody elisa,1,lab_test
+278089,hcv antibody hepatitis c virus abs,1,lab_test
+278090,hcv antibody quantitative (elisa,1,lab_test
+278091,hcv antibody riba,1,lab_test
+278092,hcv antibody screening,1,lab_test
+278093,hcv antibody- hepatitis c virusc abs,1,lab_test
+278094,hcv antibody-hepatitis c virus abs,1,lab_test
+278095,hcv antibody-hepatitis c. virus abs,1,lab_test
+278096,hcv antibody-hepatitis c.virus abs,1,lab_test
+278097,hcv antibody-hepatitis. virus abs,1,lab_test
+278098,hcv antibody. hepatitisc. virus abs,1,lab_test
+278099,hcv antybody,1,lab_test
+278102,hcv ab (elisa,1,lab_test
+278103,hcv ab (igg,1,lab_test
+278109,hcv ab - hepatitis c virus ab,1,lab_test
+278110,hcv ab - hepatitis c virus ab. - ?????,1,lab_test
+278111,hcv ab 3rd generation (elfa,1,lab_test
+278112,hcv ab igg,1,lab_test
+278113,hcv ab screening test,1,lab_test
+278116,hcv ab by elisa,1,lab_test
+278117,hcv ab c,1,lab_test
+278119,hcv ab(mhl lab,1,lab_test
+278122,hcv ab-hcv ab,1,lab_test
+278131,hcv abs hepatitis c hbc ab hcv,1,lab_test
+278133,hcv ag,1,lab_test
+278134,hcv antibidy third generation,1,lab_test
+278136,"hcv antibodies , serum",1,lab_test
+278137,hcv antibodies by elisa,1,lab_test
+278139,"hcv antibody - hepatitis c , virus abs",1,lab_test
+278140,hcv antibody - hepatitis c.virus abs,1,lab_test
+278142,hcv antibody ??????? ??????? ???????? ?????? ?,1,lab_test
+278143,hcv by pcr (liv. asp,1,lab_test
+278144,hcv by pcr (quantitative,1,lab_test
+278145,hcv confirmation,1,lab_test
+278146,hcv confirmatory - ?????,1,lab_test
+278147,hcv dna (quantitative,1,lab_test
+278148,hcv elisa[11.16,1,lab_test
+278149,hcv geno typing,1,lab_test
+278150,hcv genotype (hepatitis c) - s.o,1,lab_test
+278151,hcv genotype pcr,1,lab_test
+278152,hcv genotyping,2,lab_test
+278153,hcv genotyping (pcr,1,lab_test
+278154,hcv hepatitis c virus ab. screening,1,lab_test
+278155,hcv hepatitis c virus ab,1,lab_test
+278156,hcv igg abs,3,lab_test
+278157,hcv igg abs (immunoblot) - 334-40403,1,lab_test
+278158,hcv igg abs(526206,1,lab_test
+278159,hcv igm,3,lab_test
+278160,hcv immunoblot (riba,1,lab_test
+278164,hcv pcr,2,lab_test
+278165,hcv pcr ( qualitative,1,lab_test
+278166,hcv pcr ( quantitative,1,lab_test
+278167,hcv pcr (quantitative,1,lab_test
+278168,hcv pcr qualitative,1,lab_test
+278169,hcv pcr quantitative,1,lab_test
+278170,hcv pcr quantitative (hcv pcr,1,lab_test
+278171,hcv pcr qunlitative,1,lab_test
+278172,hcv pcr quantitative. - ?????,1,lab_test
+278173,hcv quantitation & detection by pcr,1,lab_test
+278174,hcv quantitative,1,lab_test
+278175,hcv quantitative pcr,2,lab_test
+278177,hcv rna,1,lab_test
+278178,hcv rna (hepatitis c pcr quantitative,1,lab_test
+278179,hcv rna & hbv dna (pcr) for dialysis patient,1,lab_test
+278180,hcv rna (quantitative) by pcr,1,lab_test
+278181,hcv rna by pcr,1,lab_test
+278182,hcv rna by pcr (quantitative,1,lab_test
+278183,hcv rna by pcr qual,1,lab_test
+278184,hcv rna by pcr qual. s -(send-out tests,1,lab_test
+278185,hcv rna pcr quant,2,lab_test
+278186,hcv rna pcr- quantitative,1,lab_test
+278187,hcv rna qualitative (pcr,1,lab_test
+278188,hcv rna qualitative-pcr,1,lab_test
+278189,hcv rna quant,1,lab_test
+278190,hcv rna quant. b-dna,1,lab_test
+278191,hcv rna quantitative pcr,1,lab_test
+278192,hcv rna quantitative-pcr,1,lab_test
+278193,hcv rna qualitative - pcr,1,lab_test
+278194,hcv rna by b-dna/pcr (quantitative) - tat (4 days s.o,1,lab_test
+278195,hcv rna(quantitative by pcr,2,lab_test
+278197,hcv rna/pcr,1,lab_test
+278198,hcv rna/pcr (qualitative,2,lab_test
+278201,hcv titter,1,lab_test
+278202,hcv western blot,2,lab_test
+278206,hcv ab1137,1,lab_test
+278207,hcv anti body 3rd generation,1,lab_test
+278208,hcv by pcr quan,1,lab_test
+278210,hcv lgg-hcv lgg,1,lab_test
+278211,hcv%20antibody%20-%20hepatitis%20c.%20virus%20abs,1,lab_test
+278212,hcv%20ab%20,1,lab_test
+278213,hcv(520122,1,lab_test
+278214,hcv(hepatitis-c,1,lab_test
+278215,hcv(pcr) qualitative,1,lab_test
+278216,"hcv(pcr),quantitative",1,lab_test
+278217,hcv+hbsag+hav,1,lab_test
+278218,"hcv, ab",1,lab_test
+278219,"hcv, amplified probe",1,supplies
+278220,"hcv,hbsag,hiv(polyclinic",1,lab_test
+278221,"hcv,pcr,qualitative",3,lab_test
+278223,hcv- abs,1,lab_test
+278224,hcv- ab,3,lab_test
+278226,hcv- ag - pcr,1,lab_test
+278227,hcv- rna qualitative (pcr,1,lab_test
+278228,hcv-1466,1,lab_test
+278229,hcv-ab,3,lab_test
+278231,hcv-ab confirmatory test,1,lab_test
+278232,hcv-ab screening test,1,lab_test
+278233,hcv-abs (hepatitis c antibodies,1,lab_test
+278234,hcv-abs,1,lab_test
+278235,hcv-abs total,1,lab_test
+278236,hcv-abs/ hep c antibodies,1,lab_test
+278237,hcv-ag,1,lab_test
+278238,hcv-genotyping,1,lab_test
+278239,hcv-pcr,1,lab_test
+278240,hcv-pcr genotyping,1,lab_test
+278241,hcv-pcr quantitative,1,lab_test
+278242,hcv-rna (pcr,1,lab_test
+278243,hcv-rna (pcr) qualitative,2,lab_test
+278244,hcv-rna (pcr) quantitative,1,lab_test
+278245,hcv-rna (pcr) quantitative(526120,1,lab_test
+278247,hcv-rna (quantitative by pcr,1,lab_test
+278248,hcv-rna - quant,1,lab_test
+278249,hcv-rna by pcr,1,lab_test
+278250,hcv-rna by pcr (qualitative,1,lab_test
+278251,hcv-rna quantitative (pcr,1,lab_test
+278252,hcv-rna(pcr)qualitative,1,lab_test
+278253,hcv-rna(geno types,1,lab_test
+278254,hcv-rna/pcr/qual,1,lab_test
+278255,hcv3rd ab,1,lab_test
+278256,hcv; amplified probe,1,supplies
+278257,hcv; direct probe,1,supplies
+278258,hcv; quantification,1,lab_test
+278259,hcvab hepatitis c antibody,1,lab_test
+278260,hcvrna pcr qualitative,1,lab_test
+278261,hcvrna pcr quantitative,1,lab_test
+278262,hcvrna pcr quantitative edta plasma,1,lab_test
+278263,hd (hemodialysis) per sesion,1,eyewear
+278264,hd (hemodialysis) per session,2,eyewear
+278266,hd dialysis per session,1,eyewear
+278267,hd ear abscess (f.b,1,eyewear
+278268,hd esophagogastroduodenoscopy (egd) with biopsy,1,eyewear
+278269,hd esophagogastroduodenoscopy with biopsies,1,eyewear
+278270,hd esophagogastroduodenscopy with biopsies,1,eyewear
+278271,"hd for serology (hbv, hcv, hiv",1,lab_test
+278273,hd session,2,eyewear
+278274,hd session flat rate,2,eyewear
+278275,hd colonoscopy with biopsies,1,eyewear
+278276,hd colonoscopy with biopsy,1,eyewear
+278279,hd- cholesterol,1,eyewear
+278280,hdag; ifa; qual/semiquant,1,lab_test
+278282,hdl 73050-23-60,1,lab_test
+278284,hdl - ldl,1,lab_test
+278285,hdl chol,3,lab_test
+278286,hdl & ldl,1,lab_test
+278287,hdl ( cholesterol,1,lab_test
+278288,hdl ( high density lipoprotei,1,lab_test
+278291,hdl ( high density lipoprotein ) 6424,1,lab_test
+278299,hdl (cholesterol,3,lab_test
+278301,hdl (high density lipoprotein cholesterol,1,lab_test
+278303,hdl (high density lipoproten,1,lab_test
+278304,hdl (high density liprotein,1,lab_test
+278306,hdl (high density lipoproteins) - ?????,1,lab_test
+278307,hdl (high density lipoprotiens,2,lab_test
+278308,hdl (if requsetd together + complete lipidprofile,1,lab_test
+278309,hdl (measurement of hdl cholesterol,1,lab_test
+278311,hdl (if requested with complete lipid profile,1,lab_test
+278312,hdl (if requsetd together + complete lipidprofile)511,1,lab_test
+278317,hdl - chol,3,lab_test
+278319,hdl - cholesterol,6,lab_test
+278320,hdl - cholesterol-hdl - cholesterol,1,lab_test
+278321,hdl - cholestrol,4,lab_test
+278322,hdl - cholestrol-4003-lab,1,lab_test
+278325,hdl - high density lipoprotein,3,lab_test
+278329,hdl -cholesterol,2,lab_test
+278331,hdl -choles,1,lab_test
+278332,hdl / ldl - cholesterol,1,lab_test
+278333,hdl ??? ?????? ??????? ???????,1,lab_test
+278334,hdl analysis,1,lab_test
+278335,hdl bupa,1,lab_test
+278339,hdl cholesterol ( high density lipoprotein,1,lab_test
+278340,hdl cholesterol serum,1,lab_test
+278341,hdl cholesterol - lab test,1,lab_test
+278345,hdl cholesterol (544,1,lab_test
+278346,hdl cholesterol (fasting,1,lab_test
+278347,hdl cholesterol (non fasting,1,lab_test
+278348,"hdl cholesterol, serum",1,lab_test
+278349,hdl cholesterol[8.13,1,lab_test
+278351,hdl high density lipoprotein,1,lab_test
+278352,hdl medgulf,1,lab_test
+278357,"hdl -cholesterol, serum",1,lab_test
+278358,hdl( high density lipoprotein,1,lab_test
+278359,hdl( if reqested without lipid profile) - 528,1,lab_test
+278360,hdl( if reqested without lipid profile)528,1,lab_test
+278361,hdl( if requested without lipid profile,1,lab_test
+278362,hdl( if requested without lipid profile)248,1,lab_test
+278363,hdl(high density lipoprotein,2,lab_test
+278364,hdl(high density lipoprotine,1,lab_test
+278370,"hdl, cholesterol",1,lab_test
+278371,hdl- chol,2,lab_test
+278379,hdl-c,1,lab_test
+278380,"hdl-c 4, 350 tests, cobas c, integra (# 7528566190",1,lab_test
+278381,hdl-choles,2,lab_test
+278382,hdl-cholest,2,lab_test
+278383,hdl-cholesterol,5,lab_test
+278384,hdl-cholesterol 83718,1,lab_test
+278385,hdl-cholesterol ?????,1,lab_test
+278386,hdl-cholesterol(500070,1,lab_test
+278387,hdl-cholestrol,3,lab_test
+278389,hdl-cholesterol ????????? ??? ???????,1,lab_test
+278391,hdl-high density lipoprotein,1,lab_test
+278392,hdl-ldl,1,lab_test
+278396,hdl. cholesterol,1,lab_test
+278397,hdl.(high-density lipoprotein) cholesterol,1,lab_test
+278398,hdl.cho,2,lab_test
+278399,hdl.chol,1,lab_test
+278400,hdl/ldl cholesterol each - ?????,1,lab_test
+278401,hdl/ldl-cholesterol,1,lab_test
+278402,hdl/ldl/-cholestrol,1,lab_test
+278403,hdlc,1,other
+278404,hdlc- hdl cholesterol,2,lab_test
+278405,hdlcholesterol,1,other
+278406,hdlp,1,other
+278407,hdv ab,1,lab_test
+278408,hdv rna by pcr,2,lab_test
+278410,hdv rna quantitative (pcr,1,lab_test
+278411,hdv-rna qualitative (by pcr,1,lab_test
+278413,he esr (after 1 hour,1,lab_test
+278414,he esr (after 2 hour,1,lab_test
+278415,he4 (human epididymis protein 4) s.o,1,lab_test
+278416,head and neck oncology follow-up,1,consultation
+278417,head and neck oncology new follow-up,1,consultation
+278418,"head and neck procedures, majc",1,inpatient
+278419,"head and neck procedures, minc",1,inpatient
+278420,"head & neck procedures, majc",1,inpatient
+278421,"head & neck procedures, minc",1,inpatient
+278422,head & neck sebaceous cyst excision - 1 day pkg,1,procedure
+278423,head & neck soft tissue (thyr-parth-parotid,1,other
+278424,head 12cm x 2mm tool fluted midas telescoping match # mr8-t12mh30dc,1,other
+278425,"head 22 cocr medium, chm # 23122205",1,other
+278426,head 28mmx45mm bi-polar self centering jj # 1035-45-000,1,other
+278427,head and neck canc.exc.and repair w/maj flap,1,procedure
+278428,head and neck lymph node biopsy under ga - 1 day pkg,1,procedure
+278429,head and neck lymph node biopsy under general anaesthesia - pkg deal,1,procedure
+278430,head and neck lymph node biopsy under la - day case,1,procedure
+278431,head and neck sebaceous cyst excision - pkg deal,1,procedure
+278432,head and neck sebaceous cyst excision pkg deal,1,procedure
+278434,head bi mentum pfr pe liner 4728 attune #ds10004728,1,other
+278435,head bi-polar 28mm id 50mm od. joh. joh. # 1035-50-000,1,other
+278436,head bipolar 28mm #21510046 (implantcast,1,supplies
+278437,head bonnet ( bc309-05)(29-36cm) nicu,1,consultation
+278438,head bonnet (bc306-05) (25-29cm ) nicu,1,consultation
+278439,head bonnet midline 25-92cm bc306-05,1,other
+278440,head bonnett (25-29cm) bc306-05,1,other
+278441,head bonnett (29-36cm) bc-309-05,1,other
+278442,head bonnett bc-309-05 (29-36cm,1,other
+278443,head bonnett bc306-05 25-29cm,1,other
+278444,head bonnett midline 17-22cm fp #bc300-05 fisher paykel # bc300-05,1,other
+278445,head bonnett midline 22-25cm f/bubble cpap f&p #bc303-05,1,supplies
+278446,head bonnett midline 22-25cm f/bubble cpap fp #bc303-05,1,supplies
+278447,head bonnett midline 25-29cm f&p #bc306-05,1,other
+278448,head bonnett midline 25-29cm f/bubble cpap f&p #bc306-05,1,supplies
+278449,head bonnett midline 25-29cm f/bubble cpap fp/ficomed #bc306-05/st00269,1,supplies
+278450,head bonnett midline 29-36cm f/bubble cpap f&p #bc309-05,1,supplies
+278451,head bonnett midline 29-36cm fp #bc309-05,1,other
+278452,"head bonnett-midline 29-36cm, bc309-05",1,other
+278453,head box(neo-natal care,1,other
+278455,"head cocormo 12/14 , implantcast (cat# 23872815",1,supplies
+278456,head cover blue,1,other
+278457,head ct multisectionwo contrast,1,imaging
+278458,head ct multisection^w contrast iv,1,imaging
+278459,head ct multisection^wo contrast,1,imaging
+278460,head cup vario 51mm dia 28mm. link # 107-220/51,1,other
+278461,head femoral 28mm +12 taper j&j # 1365-14-000,1,other
+278462,head femoral 28mm +12 taper jj # 1365-14-000,1,other
+278463,"head femoral articul / eze 32mm+9 12/14 taper, joh. joh. # 1365-24-000/1365-23-000",1,other
+278464,head femoral articul/eze 28mm x +1.5 12/14 taper. joh. joh. # 1365-11-000,1,other
+278465,"head femoral articul/eze 32mm, joh. joh. # 1365-22-000",1,other
+278466,head fm mod.518 col.02 size 53,1,eyewear
+278467,head fm mod.520 col.01 size 53,1,eyewear
+278468,head fm mod.526 col.03 size 51,1,eyewear
+278469,head fm mod.524 col.01 size 51,1,eyewear
+278470,"head ic - bipolar cocrmo 50 mm. , 21510050 implantcast",1,supplies
+278471,head injury xray,1,imaging
+278472,head non contact thermometer beurer,1,eyewear
+278474,head of radius (2 views,1,imaging
+278476,head of radius xray 3 views,1,imaging
+278477,head pediatric us multisection,1,imaging
+278478,"head rest pillow 7*gentle touch# 1937, mizuho",1,supplies
+278479,head tilt table test (without provocation,1,lab_test
+278480,head titanium 12/14 32mm xl implantcast #27873215,1,supplies
+278481,head ultrasound (credit,1,imaging
+278482,head x-ray,1,imaging
+278483,"head, bi-polar, 28mm id, 48mm od, self centering, depuy, 1035-48-000",1,supplies
+278484,"head, bi-polar, 28mm id, 50mm od, self centering, depuy, 1035-50-000",1,supplies
+278485,"head, bi-polar, 28mm id, 53mm od, self centering, 1035-53-000",1,other
+278486,"head, bipolar, 28mm id, 52mm, self centering, depuy, 1035-52-000",1,supplies
+278487,"head, femoral, articul/eze, 28 mm, +1.5, depuy, 1365-11-500",1,supplies
+278488,"head, femoral, articul/eze, 28mm, +1.5, depuy, 1365-11-000",1,supplies
+278489,"head, femoral, articul/eze, 28mm, +12, depuy, 1365-14-000",1,supplies
+278490,"head, femoral, articul/eze, 28mm, +5, depuy, 1365-12-000",1,supplies
+278491,"head, femoral, articul/eze, 28mm, +8.5, depuy, 1365-13-000",1,supplies
+278492,"head, femoral, articul/eze, 32 mm, +1, 12/14, depuy, 1365-21-000",1,supplies
+278493,"head, femoral, articul/eze, 32 mm, +13, depuy, 1365-24-000",1,supplies
+278494,"head, femoral, articul/eze, 32 mm, +5, depuy, 1365-22-000",1,supplies
+278495,"head, femoral, ceramic, +8.5, 36mm dia, 12/14 taper, delta, biolox, depuy, 1365-36-330",1,supplies
+278496,"head, femoral, ceramic, 28mm, +5.0, 12/14, delta, biolox, depuy, 1365-28-320",1,supplies
+278497,"head, femoral, ceramic, 28mm, +8.5, 12/14, delta, biolox, depuy, 1365-28-330",1,supplies
+278498,"head, femoral, ceramic, 32mm, +9, 12/14 taper, biolox, depuy, 1365-32-330",1,supplies
+278499,"head, femoral, ceramic, articul/eze, 32mm, +5.0, biolox, 1365-32-320",1,other
+278500,"head, glenosphere, performed reversed, all sizes, tonier-stryker, dwj0xx",1,other
+278501,head/neck canc. exc. + block dissection,1,procedure
+278502,"headaches, majc",1,inpatient
+278503,"headaches, minc",1,inpatient
+278504,headed screw short 4x44mm,1,supplies
+278505,"headgear diff. size , drager",1,supplies
+278506,headgear neonatal size l drager # mp3884,1,supplies
+278507,headgear neonatal size m drager # mp3883,1,supplies
+278508,headgear neonatal size s drager # mp3882,1,supplies
+278509,headgear neonatal size xs drager # mp3881,1,supplies
+278510,headless cannulated compression screw 2.5*22mm,1,supplies
+278511,headless cannulated screw diff. size,1,supplies
+278512,headless cannulated screw diff.sizes,1,supplies
+278513,"headless cannulated screw short thread 3x32mm (d2d.30320), , d2d.30320",1,supplies
+278514,headless cannulated screw short thread3*38ti#d2d.30380,1,supplies
+278515,"headless compression screw 3.0 mm, cannulated, length 24/5 mm, s.s",1,supplies
+278516,headless herbrt screw 3.0x 22mm/newclip france,1,supplies
+278517,headlesscannulatedscrew3*2,1,other
+278520,"heal warmer infant w/tape 4x4#11460-010t, car",1,supplies
+278532,healax cream100gm,1,other
+278533,healfix mini ti suture anchor 1.8mm rejoin 800506000,1,supplies
+278534,"healfix ti suture , anchor 3.5mm , (800503300) rejoin",1,supplies
+278535,"healfix ti suture , healfix ti suture anchor 5.0mm , 800503700",1,supplies
+278536,healfix ti suture anchor 2.0mm,1,supplies
+278537,healfix ti suture anchor 2.0mm w/needles,1,supplies
+278538,healfix ti suture anchor 5.0mm with 2 suture rejoin,1,supplies
+278539,"healicoil 4.5mm suture anchor with one ultratape, 72203981",1,supplies
+278540,"healicoil pk 4.5mm suture anchor with one ultratape, smith&nephew, 72203982",1,supplies
+278541,healicoil regenesorb suture anchor 4.75mm plga/b-tcp/cs with two #2 ultrabraid sutures (blue\u0026cobraid,1,supplies
+278542,"healix-5.5, advance peek anchor, with dynacord suture (depuy) # 222032",1,supplies
+278543,"healix-5.5, advance sp peek, self-punching anchor, (depuy) # 228056",1,supplies
+278545,health care respirator & surgical mask #1805,1,supplies
+278546,health care respirator & surgical mask #1805s,1,supplies
+278547,health care respirator n95 #1860s 3m,1,supplies
+278548,health certificate check-up,1,consultation
+278549,health education - 3 sessions (30 min./ session,1,physiotherapy
+278550,health education - single session,1,physiotherapy
+278551,health screening (men,1,lab_test
+278552,health screening (women,1,lab_test
+278553,health screening by registered nurse,3,lab_test
+278554,"healthium - trusilk - 5c75dy40 - silk 1- 75cm, 40mm, 1 2 circle cutting",1,other
+278555,healthy skin cr,1,other
+278558,heamatoma evacuation small,1,procedure
+278560,heamodialysis (insurance,1,procedure
+278561,heamoglbin,1,other
+278562,heamoglobin,2,other
+278564,heamorrhoidectomy,2,procedure
+278565,heamorrhoidectomy or pile under g.a. (surgical excision,1,procedure
+278566,heamorrhoidectomy stapled bupa,1,insurance
+278567,heamotoma evacuation-pkg,1,procedure
+278568,hearing screening,3,lab_test
+278569,hearing aid,2,supplies
+278570,hearing aid cic complethy in canal,1,dental
+278571,hearing aid ric receiving canal,2,dental
+278572,hearing aid (arriva m trt,1,supplies
+278573,hearing aid (bte) e38p,1,supplies
+278574,hearing aid (d-fa)-per pcs,1,supplies
+278575,hearing aid (e-cic)-per pcs,1,supplies
+278576,hearing aid (e-cic-m)-per pcs,1,supplies
+278577,hearing aid (me3-sp)-per pcs,1,supplies
+278578,hearing aid (me5-sp)-per pcs,1,supplies
+278579,hearing aid (simple)-pkg-3-10-10020,1,supplies
+278580,hearing aid (u-cic 110)-per pcs,1,supplies
+278581,hearing aid (u-cic)-per pcs,1,supplies
+278582,hearing aid (u-cic-m)-per pcs,1,supplies
+278583,hearing aid (u-fa)-per pcs,1,supplies
+278584,hearing aid (u-fm)-per pcs,1,supplies
+278585,hearing aid (u-fp-110)-per pcs,1,supplies
+278586,hearing aid (u-xp)-per pcs,1,supplies
+278587,hearing aid (widex moment mrr2d 330) - per each,1,supplies
+278589,hearing aid - basic affordable technology ( per piece,1,supplies
+278590,hearing aid - beltone in the ear (cic-itc-ite,1,supplies
+278591,hearing aid - premium /high end digital technology ( per piece,1,supplies
+278592,hearing aid 1,1,supplies
+278593,hearing aid 12 channels,1,supplies
+278594,hearing aid 15 channels evoke widex e-fa 440,1,supplies
+278595,hearing aid 16 channels,1,supplies
+278596,hearing aid 2.6,1,supplies
+278597,hearing aid 4 channels,1,supplies
+278598,hearing aid 8 channels,1,supplies
+278599,"hearing aid adjust. & eval., bil",1,supplies

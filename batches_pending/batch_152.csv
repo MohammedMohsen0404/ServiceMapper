@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+345626,lumbo-sacral ap-lat,1,imaging
+345627,lumbo-sacral belt (sfv,1,supplies
+345628,lumbo-sacral junction ap view,1,imaging
+345629,lumbo-sacral junction lateral view,1,imaging
+345630,lumbo-sacral one view,1,supplies
+345631,lumbo-sacral spinal fusion including implant,1,supplies
+345632,lumbo-sacral spine,3,other
+345633,lumbo-sacral spine (1,2,other
+345634,lumbo-sacral spine (2,2,other
+345635,lumbo-sacral spine (2v,2,imaging
+345636,lumbo-sacral spine (3v,1,imaging
+345637,lumbo-sacral spine (a.p.lat+obl,1,imaging
+345638,lumbo-sacral spine (a.p.lat+both obliques,1,imaging
+345639,lumbo-sacral spine (ap+lat,2,imaging
+345640,lumbo-sacral spine (ap+lat.+ both obl,2,imaging
+345641,lumbo-sacral spine - 1 view,1,imaging
+345642,lumbo-sacral spine - 2 views,1,imaging
+345644,lumbo-sacral spine 1 view,1,imaging
+345645,lumbo-sacral spine 2 v,1,imaging
+345646,lumbo-sacral spine 2 views,5,imaging
+345647,lumbo-sacral spine 2 views (349,1,imaging
+345648,lumbo-sacral spine 2v,1,imaging
+345649,lumbo-sacral spine 2v - a.p & lat,1,imaging
+345650,lumbo-sacral spine 3 views,2,imaging
+345651,lumbo-sacral spine 3 views ap/lat/obl,1,imaging
+345652,lumbo-sacral spine 4 views,2,imaging
+345653,lumbo-sacral spine 4v,1,imaging
+345654,"lumbo-sacral spine 4v - a.p,lat flex & ext",1,imaging
+345655,lumbo-sacral spine a.p,1,lab_test
+345656,lumbo-sacral spine a.p./lat. & obliques,1,imaging
+345657,lumbo-sacral spine ap /ls,2,imaging
+345658,lumbo-sacral spine ap-lat-oblique 3views,1,imaging
+345659,lumbo-sacral spine ap-lateral (4-5 views,1,imaging
+345660,lumbo-sacral spine ap/lat,2,imaging
+345661,lumbo-sacral spine ap/lat / 2 v,1,imaging
+345662,lumbo-sacral spine ap/lat ????,1,imaging
+345663,lumbo-sacral spine ap/lat//obl,1,imaging
+345664,lumbo-sacral spine both side oblique,1,imaging
+345665,lumbo-sacral spine ct scan with contrast,1,imaging
+345666,lumbo-sacral spine ct without contrast,1,imaging
+345667,lumbo-sacral spine flex/extension,1,other
+345668,lumbo-sacral spine lateral,1,imaging
+345669,lumbo-sacral spine lateral view,1,imaging
+345670,lumbo-sacral spine w/obl,1,imaging
+345671,lumbo-sacral spine without contrast,2,imaging
+345672,lumbo-sacral spine(2,1,other
+345673,lumbo-sacral spine(ap,1,imaging
+345674,lumbo-sacral spines - ap & lat. two films,1,imaging
+345675,lumbo-sacral spines - obl. - two films,1,imaging
+345676,lumbo-sacral spines series,1,other
+345677,lumbo-sacral two views,1,imaging
+345678,lumbo-sacro spine ap-lateral,1,imaging
+345679,lumbo. sacral,1,other
+345680,lumboloc titan sz-2,1,other
+345681,lumboperitoneal shunt pkg deal,1,procedure
+345682,lumboperitonial shunt,1,procedure
+345683,lumbosacal spine(ap+lateral,1,imaging
+345684,lumbosacral,2,other
+345685,lumbosacral 1 view,2,imaging
+345686,lumbosacral (2v,1,imaging
+345687,lumbosacral (2vs,1,other
+345688,lumbosacral (4v,1,imaging
+345689,lumbosacral (ap+lat,1,imaging
+345691,lumbosacral 2 views,1,imaging
+345692,lumbosacral ap&lat 2f,2,imaging
+345693,lumbosacral ap/lateral/oblique,2,imaging
+345694,"lumbosacral back support belt (diamond, xxl",1,supplies
+345695,lumbosacral belt x large,1,supplies
+345696,lumbosacral decompression & fusion +pedical screw fixation (two level) 1 day icu,1,lab_test
+345697,"lumbosacral decompression & fussion, additional interbody cages, 1 day icu",1,procedure
+345698,lumbosacral decompression &fusion+pedical screw fixation (three level) 1 day icu,1,lab_test
+345699,lumbosacral decompression and fusion+ pedical screw fixation (three level,1,lab_test
+345700,lumbosacral decompression and fusion+ pedical screw fixation (one level,1,lab_test
+345701,lumbosacral decompression and fusion+ pedical screw fixation (two level,1,lab_test
+345702,lumbosacral decompression&fusion w/ pedical screw fixation(1 level)1day icu,1,lab_test
+345703,lumbosacral decompression&fusion w/pedical screw fixation(2 level)1day icu,1,lab_test
+345704,lumbosacral decompression&fusion w/pedical screw fixation(3 level)1day icu,1,lab_test
+345705,lumbosacral decompressionfusion pedical screw fixation two level tcs,1,lab_test
+345706,lumbosacral sp. ap & lat,1,imaging
+345707,lumbosacral spin ap-lat 1 views,1,imaging
+345708,lumbosacral spine,1,other
+345709,lumbosacral spine (1 v,3,imaging
+345711,lumbosacral spine (2 v,4,imaging
+345713,lumbosacral spine (2 views,3,imaging
+345714,lumbosacral spine (4 v,3,imaging
+345716,lumbosacral spine (ls spine,2,other
+345718,lumbosacral spine (one view,1,supplies
+345719,lumbosacral spine - 3 views,1,imaging
+345720,lumbosacral spine -1 position,1,imaging
+345721,lumbosacral spine 1 view,1,imaging
+345722,lumbosacral spine 2 - views,1,imaging
+345723,lumbosacral spine 2 f or 3 f,1,other
+345724,lumbosacral spine 2 positions,1,imaging
+345725,lumbosacral spine 2 view,2,imaging
+345726,lumbosacral spine 2 views,3,imaging
+345727,lumbosacral spine 3 views,2,imaging
+345728,lumbosacral spine 4 views,1,imaging
+345729,lumbosacral spine ap &lat,1,imaging
+345730,lumbosacral spine ap / lat,1,imaging
+345731,lumbosacral spine ap-lat,1,imaging
+345732,lumbosacral spine ap-lat 600016,1,imaging
+345733,lumbosacral spine ap/l (2 views,1,imaging
+345734,lumbosacral spine ap/l/ oblique,1,imaging
+345735,lumbosacral spine ap/lat,3,imaging
+345736,lumbosacral spine ap/lat 600016,1,imaging
+345737,lumbosacral spine ap/lat/flex/ext 600017,1,imaging
+345738,lumbosacral spine ap/lat/oblique,2,imaging
+345740,lumbosacral spine obliques,1,imaging
+345741,lumbosacral spine(1 view,1,imaging
+345742,lumbosacral spine- 1 view,1,imaging
+345743,lumbosacral spine- 2 view,1,imaging
+345744,lumbosacral spine- 4 view,1,imaging
+345745,lumbosacral spine-2 views,3,imaging
+345747,lumbosacral spine-4 views,1,imaging
+345748,lumbosacral spines a.p lat,1,imaging
+345749,lumbosacral spines a.p \ lat,1,imaging
+345750,lumbosacral spines ap / lat,1,imaging
+345751,lumbosacral spines ap \ lat,1,imaging
+345752,lumbosacral spines(2 pos,1,other
+345753,"lumbosacral spines, ap / lat",1,imaging
+345754,lumbosacral support large,1,supplies
+345755,lumbosacral vertebrae a-p,2,other
+345756,lumbosacral vertebrae ap & lateral & both obl,1,imaging
+345757,lumbosacral vertebrae ap &lateral& both obliques,1,imaging
+345758,lumbosacral vertebrae lateral,2,imaging
+345759,lumbosacral x-ray 1 view,2,imaging
+345760,lumbosacralspines x-ray4view,1,other
+345761,lumbosacralspinesx-ray 2views,1,imaging
+345762,lumbosacral_spine_ap_&_lat,1,other
+345763,lumbotrain lady titna sz-1,1,other
+345764,lumbotrain titan size 1,1,other
+345765,lumbotrain titan size 7,1,other
+345766,lumbr/lumbosacral spine -2view,1,other
+345767,lumbro sacral one view,1,supplies
+345768,lumdar spine2v,1,imaging
+345769,lume optics,1,other
+345770,lumen central venous cath 7.5 fr x 20 cm,1,eyewear
+345771,"lumen ercp catheter-tapered-wire 0-035""- 450 cm",1,supplies
+345772,lumen papillotome cutting wire 30mm (rotatable sphincterotom,1,supplies
+345773,"lumenis laser fiber for urology sis 200,lumenis , 0644-023-01",1,procedure
+345774,lumenis slim line ez200 mic. dis. fiber#0644-016-6,1,other
+345775,lumenis slimline 200um sis fiber -0644-023-01,1,other
+345776,lumer spinepa & lat & swimmer,1,imaging
+345854,lumineer,1,other
+345855,luminor 14m catheter pta balloon dilation 100x1.5x40mm bpdpc14m100150040,1,supplies
+345857,luminorptaballoon,1,other
+345858,lumis 150vpap st[resmed bipapa,1,other
+345859,lumix,1,other
+345861,lump excision - large,1,procedure
+345862,lump excision - medium,1,procedure
+345863,lump excision - small,1,procedure
+345864,lumpar/lumbo sacral spine - 2 views,1,imaging
+345865,lumpar/lumbo sacral spine - 4 views,1,imaging
+345866,lumpectomy,1,procedure
+345867,lumpectomy + histopathology,4,lab_test
+345868,lumpectomy + histopath,4,lab_test
+345869,lumpectomy + histopath / breast (2nd operation 50%,2,lab_test
+345871,lumpectomy + histopathology - 2 days,1,lab_test
+345872,lumpectomy - pkg 1 day,2,procedure
+345873,lumpectomy - (day care,1,procedure
+345875,lumpectomy for breast cancer,1,procedure
+345876,lumpectomy histopath mal,1,lab_test
+345877,lumpectomy with sentenial lymph node biopsy (frozen section + radioactive techintium 99mm ) followed by axlnd,1,procedure
+345878,lumpectomy [2,1,procedure
+345879,"lumpectomy, unilateral, w/o histo",1,procedure
+345880,lumpectomyhistopath bupa,1,insurance
+345882,luna ghassankazkaz,1,other
+345883,"lunairmed co=0007 l=980mm w=640mm th=12,00mm",1,other
+345884,lunch,1,other
+345885,lunch or dinner tray,1,other
+345886,lunch-complete,1,other
+345887,lung b)perfusion,1,other
+345888,lung biopsy,1,procedure
+345889,lung biopsy under ct guided,1,imaging
+345890,lung c)venogram,1,other
+345891,lung cancer follow-up,1,consultation
+345892,lung cancer new follow-up,1,consultation
+345893,lung cancer new patient,1,other
+345894,lung cancer ngs panel (in-house,1,lab_test
+345895,lung cancer panel,1,lab_test
+345896,lung cancer panel for mutations in 12 genes,1,lab_test
+345897,lung capacity(dlco,1,other
+345898,lung decortication for chronic empyema &or clotted hemothorax,1,other
+345899,lung function (complete,1,lab_test
+345900,lung function (complete) full pft,1,lab_test
+345901,lung function test,1,lab_test
+345902,lung function test (mbc/mvv,1,lab_test
+345903,lung or heart-lung transplant,1,other
+345904,lung perf/vent + quantitative ( v/q scan,1,imaging
+345905,lung perfusion,1,other
+345906,lung perfusion &ventillation,1,other
+345907,lung perfusion and ventelation scan (vq scan,1,imaging
+345908,lung perfusion and ventilation study,2,consultation
+345909,lung perfusion scan,1,imaging
+345910,lung perfusion scan(only,1,imaging
+345911,lung perfusion study,2,consultation
+345912,lung perfusion with or without quantification,1,other
+345913,lung volume,2,other
+345914,"lung volume ""or"" diffusion capacity",1,other
+345915,lung volume & co transfer factor,1,lab_test
+345917,lung volume - helium dilution,1,other
+345918,lung volume and co transfer factor,1,lab_test
+345919,lung volumes,2,other
+345920,lung volumes study,1,consultation
+345921,lung volumes without co transfer factor,1,lab_test
+345922,"lung, transbronchial biopsy",2,procedure
+345923,lung-function test (spirometry,1,lab_test
+345924,lunia,2,other
+345932,"lunia 10,20",1,other
+346008,"luofucon silicone post-operative dressing , 10 x 30 cm",1,supplies
+346020,"lupinus albus, vateria indica, mentha piperitia",1,other
+346021,"lupinus albus,vateria indica",1,other
+346022,"lupinusalbus,vateriaindica,menthapipe1rectalointment/boxointment,box",1,other
+346029,lups anti coagulant,1,other
+346030,lupus anti coagulant,5,lab_test
+346031,lupus anticoagulant,6,lab_test
+346032,lupus - anticoagulant,1,lab_test
+346033,lupus -type anticoagulant,1,lab_test
+346035,lupus anti coagulant (confiromatory test,1,lab_test
+346036,lupus anti coagulant investigation,1,lab_test
+346037,lupus anti-coagulant,1,lab_test
+346038,lupus anticoag,1,lab_test
+346039,lupus anticoaglant,1,lab_test
+346043,lupus anticoagulant / lupus inhibitor,1,lab_test
+346044,lupus anticoagulant ab / lupus inhibitors abs,1,lab_test
+346045,lupus anticoagulant abs,4,lab_test
+346047,lupus anticoagulant antibodies,1,lab_test
+346048,lupus anticoagulant citrate plasma frozen,1,lab_test
+346049,lupus anticoagulant ii,1,lab_test
+346050,lupus anticoagulant la,1,lab_test
+346051,lupus anticoagulant profile,2,lab_test
+346052,lupus anticoagulant screen,1,lab_test
+346053,lupus anticoagulant(526094,1,lab_test
+346054,lupus anticoagulants,1,lab_test
+346055,lupus anticoagulants immunoglobulin,1,lab_test
+346056,lupus anticoagulaut test,1,lab_test
+346057,lupus anticoaqulant ab igg,2,lab_test
+346058,lupus anticoaqulant ab igm,1,lab_test
+346060,lupus anticoaqulant ab( igg,1,lab_test
+346061,lupus anticoaqulant ab( igm,1,lab_test
+346062,lupus anticoogulant,1,lab_test
+346063,lupus antipcoagulant(lac,1,lab_test
+346064,lupus antocoagulant,1,lab_test
+346065,lupus abs,1,lab_test
+346066,lupus anti- coagulant,1,lab_test
+346067,lupus erythematosus cells,1,lab_test
+346068,lupus pype anticoagulant,1,lab_test
+346069,lupus type anticoagulant,2,lab_test
+346070,lupus type anticoagulant (preliminary tests,1,lab_test
+346071,lupus type anticoagulant @,1,lab_test
+346072,lupus type anticogulant d,1,lab_test
+346132,"lutathera (lutetium lu-177 dotate) for treatment of neuroendocrine tumors (four doses) (los isolation for 2 days/dose, post therapy scan",1,imaging
+346133,luteinising hormone (lh,3,lab_test
+346134,luteinising hormone level,2,lab_test
+346135,luteinizing hormon lh,1,lab_test
+346137,luteinizing hormone (lh,4,lab_test
+346138,luteinizing hormone (lh) serum,1,lab_test
+346139,luteinizing hormone (lh)(518014,1,lab_test
+346140,luteinizing hormone - 042-21124,1,lab_test
+346141,luteinizing hormone lh,7,lab_test
+346142,luteinizing hormone-2 ( lh,1,lab_test
+346143,luteinizing hormone-2 (lh,1,lab_test
+346144,lutenizing hormone,1,lab_test
+346147,lutenizing hormone l.h,1,lab_test
+346152,lutonix drug coated ballon pta catheter,1,supplies
+346156,luttagen 21tab,1,other
+346162,luxoline m.f - 4016,1,lab_test
+346163,luxor anti-embolism stocking knee high,1,eyewear
+346164,luxor 105 knitted ankle+silicon pad,1,eyewear
+346165,luxor 184 thumb astd.wrist sup,1,eyewear
+346167,luxor 184 thumb sup,1,eyewear
+346170,luxor 196 ligament ankle,1,eyewear
+346175,luxor 305 lumbostad corset l,1,eyewear
+346176,luxor 305 lumbostad corset xl,1,eyewear
+346177,luxor 305 lumbostad corset xx,1,eyewear
+346178,luxor 305 lumbostad corset xxl,1,eyewear
+346179,luxor 406 arm sling +mesh,1,eyewear
+346180,luxor 407 arm sling luxury l,1,eyewear
+346181,luxor 407 arm sling luxury xl,1,eyewear
+346182,luxor 411 kids arm sling o/s,1,eyewear
+346183,luxor 506 thumb assi. wrist splint,1,eyewear
+346184,luxor 507 h/wrist splint l/xl r/l,1,eyewear
+346185,luxor 507 h/wrist splint s/m r/l,1,eyewear
+346186,luxor 604 slcn.prftd.insole l,1,eyewear
+346187,luxor 606 slcn.heel cups l,1,eyewear
+346188,luxor 629 silicone bunion protector with toe sep,1,eyewear
+346189,luxor 703 foam neek collar l,1,eyewear
+346190,luxor 703 foam neek collar m,1,eyewear
+346191,luxor 808 comp.stoc.t/h opn.ski,1,eyewear
+346192,luxor 808 comp.stoc.t/h opn.skin clr xl6,1,eyewear
+346193,luxor 810 comp.stoc.t/h opn.ski,1,eyewear
+346194,luxor 810 comp.stoc.t/h opn.skin clr-l4,1,eyewear
+346195,luxor 810 comp.stoc.t/h opn.skin clr-xl5,1,eyewear
+346196,luxor 810 comp.stoc.t/h opn.skin clr-xxl6,1,eyewear
+346197,luxor abdominal support corest l,1,eyewear
+346198,luxor abdominal support corest xl,1,eyewear
+346199,luxor abdominal support corest xxl,1,eyewear
+346200,luxor abdominal support corest xxxl,1,eyewear
+346204,luxor ankle support cross strap adjustable,1,lab_test
+346206,luxor anti-emblism stocking knee high,1,eyewear
+346207,luxor anti-embolism stocking thigh high 819 l,1,eyewear
+346208,luxor arm sling 407/l,1,eyewear
+346209,luxor arm sling 407/xl,1,eyewear
+346210,luxor arm sling 407/xxl,1,eyewear
+346211,luxor arm sling l 407/m,1,eyewear
+346212,luxor arm sling luxury l,1,eyewear
+346213,luxor arm sling luxury large,1,eyewear
+346214,luxor arm sling luxury m,1,eyewear
+346215,luxor arm sling luxury xl,1,eyewear
+346216,luxor arm sling luxury xxl,1,eyewear
+346221,luxor baseball finger splint 520/1,1,eyewear
+346222,luxor baseball finger splint 520/2,1,eyewear
+346223,luxor baseball finger splint 520/3,1,eyewear
+346224,luxor cc12 m compression 810 3,1,eyewear
+346225,luxor cc12 m compression 810 4,1,eyewear
+346226,luxor cc12 m compression 810 5,1,eyewear
+346227,luxor cc12 m compression 810 6,1,eyewear
+346228,luxor cc12 m compression 810 7,1,eyewear
+346229,luxor cc12 m compression 810 8,1,eyewear
+346230,luxor ccl2 m comp. knee h-closed,1,eyewear
+346231,luxor ccl2 m comp. thigh h-closed,1,eyewear
+346232,luxor clavicle bandage 189,1,eyewear
+346233,luxor compression stocking,1,eyewear
+346234,luxor cot finger splint 521/1,1,eyewear
+346235,luxor cot finger splint 521/2,1,eyewear
+346236,luxor cot finger splint 521/3,1,eyewear
+346237,luxor elastic ankle+or-knee support,1,eyewear
+346238,luxor elastic ankle-knee support,1,eyewear
+346239,luxor elastic knee support 222,1,eyewear
+346240,luxor epicondylitis bandage (tennis elbow,1,eyewear
+346241,luxor epicondylitis bandage 404 adjustable,1,eyewear
+346242,luxor epicondylitistennis elbowadjustable,1,eyewear
+346243,luxor epicondylitis bandage (tennis elbow)-adj,1,eyewear
+346244,luxor epicondylitis bandage 404 adjus,1,eyewear
+346245,luxor foam neck collar l,1,eyewear
+346246,luxor foam neck collar m,1,eyewear
+346247,luxor foam neck collar s,1,eyewear
+346248,luxor foam neck coller,1,eyewear
+346249,luxor frog finger splint 522/1,1,eyewear
+346250,luxor frog finger splint 522/2,1,eyewear
+346251,luxor frog finger splint 522/3,1,eyewear
+346252,luxor hand wrist slpint l xlr l,1,eyewear
+346253,luxor hand wrist splint 192,1,eyewear
+346254,luxor hand wrist splint with thumb support 193,1,eyewear
+346255,luxor hand-wrist splint 192 one size left,1,eyewear
+346256,luxor hand-wrist splint l/xl,1,eyewear
+346257,luxor hand-wrist splint s/m,1,eyewear
+346258,luxor hand-wrist splint with thumb support 193 one size left,1,eyewear
+346259,luxor handwrist bandage xl,1,eyewear
+346260,luxor handwrist bandage xxl,1,eyewear
+346261,luxor handwrist splint with thumb one sizeleft,1,eyewear
+346262,luxor handwrist splint with thumb one sizer,1,eyewear
+346263,luxor hinged knee brace (with steel joint) 199,1,eyewear
+346264,luxor hinged knee brace 199,1,eyewear
+346265,luxor hinged knee brace with steel joint adjustable,1,eyewear
+346266,luxor hinged knee brace (with steel joint)-adj,1,eyewear
+346267,luxor k patella & ligment kne 104/l,1,eyewear
+346268,luxor k patella & ligment kne 104/m,1,eyewear
+346269,luxor k patella & ligment kne 104/xl,1,eyewear
+346270,luxor k patella & ligment kne 104/xxl,1,eyewear
+346271,luxor k. elbow suppo. silicon pad,1,eyewear
+346272,luxor kids arm sling 411,1,eyewear
+346273,luxor kids arm sling 411 child,1,eyewear
+346274,luxor kids arm sling luxury 411,1,eyewear
+346275,luxor kids arm sling luxury 411 child size,1,eyewear
+346276,luxor kids clavicle bandage 412,1,eyewear
+346277,luxor kids luxury arm sling child size,1,eyewear
+346278,luxor kids velpeau bandage 413 child,1,eyewear
+346279,luxor knee ex: brace 219 l,1,eyewear
+346280,luxor knee ex: brace 219 m,1,eyewear
+346281,luxor knee immobilizer extension brace 219,1,eyewear
+346282,luxor knitted ankle support with silicon pad 105,1,eyewear
+346283,luxor knitted ankle support with silicon pad l,1,eyewear
+346284,luxor knitted ankle support with silicon pad m,1,eyewear
+346285,luxor knitted ankle support with silicon pad xl,1,eyewear
+346286,luxor knitted ankle support with silicon pad xxl,1,eyewear
+346287,luxor knitted elbow support with silicon l,1,eyewear
+346288,luxor knitted elbow support with silicon m,1,eyewear
+346289,luxor knitted elbow support with silicon xl,1,eyewear
+346290,luxor knitted elbow support with silicon xxl,1,eyewear
+346291,luxor knitted p.+ligament a.knee,1,eyewear
+346292,luxor knitted patella ligment assited knee support l,1,eyewear
+346293,luxor knitted patella ligment assited knee support m,1,eyewear
+346294,luxor knitted patella ligment assited knee support xl,1,eyewear
+346295,luxor knitted patella ligment assited knee support xxl,1,eyewear
+346296,luxor knitted patella & ligament knee support 104,1,eyewear
+346297,luxor knitted patella & ligament knee support 104/200,1,eyewear
+346298,luxor knitted patella & ligment assited knee support 104 xxl,1,eyewear
+346299,luxor knitted patella&ligment assited knee support-l,1,eyewear
+346300,luxor knitted patella&ligment assited knee support-m,1,eyewear
+346301,luxor knitted patella&ligment assited knee support-xl,1,eyewear
+346302,luxor kids clavicula bandage,1,eyewear
+346303,luxor ligament assisted ankle support adjustable,2,eyewear
+346305,luxor lumbo-sacral corset 304 size xxxl,1,eyewear
+346306,luxor lumbo-sacral corset 304/l,1,eyewear
+346307,luxor lumbo-sacral corset 304/m,1,eyewear
+346308,luxor lumbo-sacral corset 304/xl,1,eyewear
+346309,luxor lumbo-sacral corset 304/xxl,1,eyewear
+346310,luxor lumbo-sacral corset 304/xxxl,1,eyewear
+346311,luxor lumbo-sacral support,1,eyewear
+346312,luxor lumbo-sacral support 304,1,eyewear
+346313,luxor lumbosacral croset xxxl,1,eyewear
+346314,luxor lumbosted corset 305/l,1,eyewear
+346315,luxor lumbosted corset 305/m,1,eyewear
+346316,luxor lumbosted corset 305/xl,1,eyewear
+346317,luxor lumbosted corset 305/xxl,1,eyewear
+346318,luxor lumbosted corset 305/xxxl,1,eyewear
+346319,luxor neck collar 705/2,1,eyewear
+346320,luxor neck collar 705/3,1,eyewear
+346321,luxor neck collar foam 703 l,1,eyewear
+346322,luxor neck collar foam 703 m,1,eyewear
+346323,luxor neck collar foam 703 s,1,eyewear
+346324,luxor neck collar philedlphia size1,1,eyewear
+346325,luxor neck collar philedlphia size3,1,eyewear
+346326,luxor open patella & ligment assisted knee support 200 adjustable,1,eyewear
+346327,luxor open patella assisted knee support adjustable,1,eyewear
+346328,luxor open patella assisted knee support l,1,eyewear
+346329,luxor open patella assisted knee support m,1,eyewear
+346330,luxor open patellaligament assisted knee support adjustable,1,eyewear
+346331,luxor open patella assisted knee support- adj,1,eyewear
+346332,luxor padded arm sling 30degreeadjustable,1,eyewear
+346336,luxor pregnant corset 316,1,eyewear
+346337,luxor silicon bunion pro 608,1,eyewear
+346338,luxor silicon heel cups m,2,eyewear
+346339,luxor silicon heel cups l,2,eyewear
+346340,luxor silicon heel cups s,1,eyewear
+346343,luxor silicon heel m,1,eyewear
+346344,luxor silicon metatarsal pad 622,1,eyewear
+346345,luxor silicon metatarsal pad with ring one size,1,eyewear
+346346,luxor silicon per insole 604/l,1,eyewear
+346347,luxor silicon per insole 604/m,1,eyewear
+346348,luxor silicon per insole 604/s,1,eyewear
+346349,luxor silicon per insole 604/xl,1,eyewear
+346350,luxor silicon per insole 604/xxl,1,eyewear
+346351,luxor silicon perforated insole 604 l,1,eyewear
+346352,luxor silicon perforated insole l,1,eyewear
+346353,luxor silicon perforated insole m,1,eyewear
+346354,luxor silicon perforated insole xl,1,eyewear
+346355,luxor silicon perforated insole xxl,1,eyewear
+346356,luxor silicon preforated insole s,1,eyewear
+346357,luxor silicon toe crest 621,1,eyewear
+346358,luxor stax mallet finger splint 1,1,eyewear
+346359,luxor stax mallet finger splint 2,1,eyewear
+346360,luxor stax mallet finger splint 3,1,eyewear
+346361,luxor stax mallet finger splint 4,1,eyewear
+346362,luxor stax mallet finger splint 5,1,eyewear
+346363,luxor stax mallet finger splint 6,1,eyewear
+346364,luxor shpulder support 190,1,eyewear
+346365,luxor silicon heel cups 606 / l,1,eyewear
+346366,luxor silicon heel cups 606/ m,1,eyewear
+346367,luxor silicon heel cups 606/s,1,eyewear
+346368,luxor silicone heel cups-l,1,eyewear
+346369,luxor silicone heel cups-m,1,eyewear
+346370,luxor silicone heel cups-s,1,eyewear
+346371,luxor thigh high 819/m,1,eyewear
+346372,luxor thumb assisted wrist 184,1,eyewear
+346373,luxor thumb assisted wrist support 184 one size,1,eyewear
+346374,luxor thumb assisted wrist support 184 - one size,1,eyewear
+346375,luxor velpeau bandage 409 adjus,1,eyewear
+346376,luxor wrist bandage 509 l left,1,eyewear
+346377,luxor wrist bandage 509 l right,1,eyewear
+346378,luxor wrist bandage 509 m left,1,eyewear
+346379,luxor wrist bandage 509 xl left,1,eyewear
+346380,luxor wrist bandage 509 xxl right,1,eyewear
+346381,luxor wrist splint 192 left,1,eyewear
+346382,luxor wrist splint 192 right,1,eyewear
+346383,luxor wrist splint 506 l left,1,eyewear
+346384,luxor wrist splint 506 l right,1,eyewear
+346385,luxor wrist splint 506 m left,1,eyewear
+346386,luxor wrist splint 506 m right,1,eyewear
+346387,luxor wrist splint 506 xl left,1,eyewear
+346388,luxor wrist splint 506 xl right,1,eyewear
+346389,luxor wrist splint 506 xxl left,1,eyewear
+346390,luxor wrist splint 507 l/xl left,1,eyewear
+346391,luxor wrist splint 507 l/xl right,1,eyewear
+346392,luxor wrist splint 507 s/m left,1,eyewear
+346393,luxor wrist splint 507 s/m right,1,eyewear
+346394,luxor wrist splint w-thumb 193 left,1,eyewear
+346395,luxor wrist splint w-thumb 193 right,1,eyewear
+346396,luxor wrist splintt 506 xxl right,1,eyewear
+346397,luxor ankle brace with air pad adjustable,1,eyewear
+346398,luxor cross strap ankle support 195-adjustable,1,lab_test
+346399,luxoticca 3102 04,1,other
+346400,luxottica 1047 53 857,1,other
+346401,luxottica 2172 54 t153,1,other
+346402,luxottica 2518 52 t-261,1,other
+346403,luxottica 410 52 517,1,other
+346404,luxottica 4332-b,1,other
+346405,luxottica 6502 49 t55,1,other
+346406,luxottica frm 1381/f203,1,eyewear
+346407,luxottica frm 1410t 52/4098,1,eyewear
+346408,luxottica frm 9543/50/1026,1,eyewear
+346411,luxury,1,other
+346412,"luxury , 5203 , 1 , 54",1,other
+346413,"luxury , 5209 , 1 , 50",1,other
+346414,"luxury , 5216 , 4 , 52",1,other
+346415,"luxury , 5217 , 1 , 51",1,other
+346416,"luxury , 6208 , 4 , 51",1,other
+346417,"luxury , 6213 , 1 , 52",1,other
+346418,"luxury , 9011 , 3 , 55",1,other

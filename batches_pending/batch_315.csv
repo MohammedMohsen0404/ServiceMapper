@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+517239,s. total protin,1,other
+517240,s. trigly cerides,1,other
+517241,s. trigly cerides-757,1,other
+517242,s. triglyceride,3,lab_test
+517244,s. tropinin,2,other
+517245,s. tsh,1,lab_test
+517246,s. tegritol,1,other
+517249,s. total protein ?????? ????? ???? 50,1,lab_test
+517250,s. total protein224,1,other
+517255,s. tryglecirides - ???? ?????? ???????? ?? ????,1,other
+517256,s. urea,4,lab_test
+517271,s. creatinin,1,lab_test
+517276,s. creatinine.497,1,lab_test
+517279,s. inorganic phosphorus.512,1,lab_test
+517283,s. sodium.499,1,lab_test
+517286,s. total cholesterol494,1,other
+517288,s. triglycerides504,1,other
+517290,s. uric acid221,1,lab_test
+517292,s./pregnacy test,1,lab_test
+517293,s.005 bupa.laceration tongue,1,insurance
+517294,s.006bupa.excision biopsy lesion tonguew histopat,1,procedure
+517295,s.009 bupa . i and d abscess deep,1,procedure
+517296,s.029 bup.pacappendicectomy ii,1,procedure
+517297,s.029 bupa. appendicectomy ii,1,insurance
+517298,s.029 zh.pacappendicectomy ii,1,procedure
+517299,s.032 taw.ranula excision,1,procedure
+517300,s.034 bupa. laparoscopic cholecystectomy,1,procedure
+517301,s.034 zh.pac laparoscopic cholecystectomy,1,procedure
+517302,s.041 bupa .soft tissue tumors small excision 1st,1,procedure
+517303,s.042bupa. softtissue tumor large levelexcision 1,1,other
+517304,s.043bupa.soft tissue tumor large level iiexcision,1,lab_test
+517305,s.044 bupa. inguinal hernia,1,procedure
+517306,s.048 zh.pac p.u.hernia 1st time,1,procedure
+517307,s.054 bupa.anal dilatation,1,procedure
+517308,s.056 bupa. fissurectomy,1,procedure
+517309,s.056 zh.pac fissurectomy,1,procedure
+517310,s.057 bupa. lateral sphenecterotomy,1,insurance
+517311,s.057 zh.pac lateral sphenecterotomy,1,procedure
+517312,s.058 bupa. haemorrhaidectomy,1,insurance
+517313,s.058zh.pac haemorrhaidectomy,1,procedure
+517314,s.060 bupa.fistulectomy perianal,1,insurance
+517315,s.060 zh.pac fistulectomyperianal,1,other
+517316,s.062 perianal abscess,1,procedure
+517317,s.062 zh.pac perianal abscess,1,procedure
+517318,s.062bupa perianal abscess,1,procedure
+517319,s.065 bupa.excision pilonidal sinus 1st time,1,procedure
+517320,s.065 zh.pac excision pilonidal sinus 1st time,1,procedure
+517321,s.065bupa. excision pilonidal sinus 1st time,1,procedure
+517322,s.067 bupa. wedge excision ingrowing toe nail,1,supplies
+517323,s.067 zh.pac wedge excision ingrowing toe nail,1,supplies
+517324,s.068 bupa. ganglion excision,1,procedure
+517325,s.068 zh.pac ganglion excision,1,procedure
+517326,s.082bupa . f.b extraction under g.a and scr deep,2,dental
+517328,s.083 bupa.laparoscopic appendectomy,2,procedure
+517330,s.083 zh.paclaparoscopic appendectomy,1,procedure
+517331,s.089 zh.pac laparoscopic sleeve gastrectomy,1,procedure
+517332,s.102 zh.paclaparoscopic inguinal hernia repair,1,procedure
+517334,s.alb,2,other
+517336,s.albumin (total,1,lab_test
+517337,s.alh phos,1,other
+517338,s.alk phosp,2,other
+517339,s.alk. phosp,3,other
+517341,s.amalyse,1,other
+517342,s.amylase,4,lab_test
+517347,s.alk. phosphatase,1,lab_test
+517348,s.alk.phosphatase,1,lab_test
+517349,s.alka.phosphatase,1,lab_test
+517350,s.alkaline phosphatase,2,lab_test
+517351,s.amylas,1,other
+517353,s.b-hcg,1,lab_test
+517355,s.bilirubin ( direct,2,lab_test
+517356,s.bilirubin ( total,2,lab_test
+517357,s.bilirubin direct,1,lab_test
+517358,s.bilirubin ind,1,lab_test
+517359,s.bilirubin indirect,1,lab_test
+517360,s.bilirubin total,1,lab_test
+517361,s.bilirubin(direct,1,lab_test
+517362,s.bilirubin(total) 734,1,lab_test
+517363,s.bilirubine total,1,other
+517364,s.brucella a&m,2,lab_test
+517365,s.bun (urea,1,lab_test
+517366,s.bun/urea,1,lab_test
+517367,s.bilirubin,1,lab_test
+517370,s.bilirubin (t+d,1,lab_test
+517371,s.bilirubin (total,1,lab_test
+517372,s.bilirubin-total,1,lab_test
+517373,s.billirubin (total,1,lab_test
+517374,s.brucella,1,lab_test
+517379,s.c skin test,1,lab_test
+517380,s.c stitch med wand,1,procedure
+517381,s.c. inject,1,lab_test
+517386,s.c. stitch large wan,1,procedure
+517387,s.c. stitch small wound,1,procedure
+517388,s.c. w/o medicine,1,lab_test
+517390,s.c.p.k,1,lab_test
+517393,s.ca,4,lab_test
+517395,s.calcicm,1,other
+517396,s.calcitonin,1,other
+517401,s.catecholamines,1,other
+517403,s.cholesterol,4,lab_test
+517404,s.cholesterol globemed,1,lab_test
+517405,s.cholesterol total,1,lab_test
+517406,s.cholesterolt,2,other
+517407,s.cholestrol,3,lab_test
+517409,s.class - 417-cc,1,other
+517410,s.composite filling,1,dental
+517411,s.cpk (ck,1,lab_test
+517412,s.crea,1,other
+517413,s.creatine,1,lab_test
+517414,s.creatinice,1,other
+517415,s.creatinine,4,lab_test
+517416,s.creatinine+sgot+rbs,1,lab_test
+517417,s.creatnine,1,other
+517423,s.cardiac enzymes,1,other
+517425,s.cholest,2,other
+517430,s.clolesterol total,1,other
+517431,s.cortisol a.m,1,lab_test
+517432,s.cortisol p.m,1,lab_test
+517433,s.creatine kinase mb( ck - mb,1,lab_test
+517434,s.creatinin,1,lab_test
+517436,s.d.bilirubin,1,lab_test
+517437,s.direct bilirubin,3,lab_test
+517438,s.dressing,1,supplies
+517440,s.ext. of impacted tooth,1,dental
+517441,s.ext. of remining root,1,other
+517442,s.ext.impacted tooth,1,dental
+517443,s.ext.of imapcted tooth,1,dental
+517444,s.extraction of completely impacted wisdom,1,dental
+517445,s.extraction of impacted tooth - comoletely sub-bony,1,dental
+517446,s.extraction of impacted/wisdom/too,1,dental
+517447,s.extraction of wisdom tooth,2,dental
+517448,s.estradiol,1,lab_test
+517449,s.ext.of toth/root ad,1,other
+517450,s.f cut wound medium (5 10) stitches,1,procedure
+517451,s.f cut wound small (3 5) stitches,1,procedure
+517452,s.f.a. stent (antegrade) (price is without stent,1,supplies
+517453,s.f.a. stent (antegrade) by interventional radiologist - 4 days pkg,1,supplies
+517454,s.f.a. stent (retrograde) (price is without stent,1,supplies
+517455,s.feritin,2,other
+517456,s.ferragamo fram,1,eyewear
+517457,s.ferretin,2,other
+517458,s.ferritin,4,lab_test
+517459,s.ferrtin,1,other
+517460,s.flex 1549,1,other
+517464,s.ferritine,1,other
+517465,s.fh,1,other
+517466,s.flex,1,other
+517467,s.g .p.t,1,lab_test
+517468,s.g p.t,1,lab_test
+517469,s.g p.t(alt,1,lab_test
+517470,s.g. ot,1,lab_test
+517471,s.g. pt,1,lab_test
+517472,s.g.g.t,2,lab_test
+517477,s.g.o.t ast,2,lab_test
+517478,s.g.o.t (a.s.t,2,lab_test
+517479,s.g.o.t (ast,1,lab_test
+517480,s.g.o.t (ast) (s,1,lab_test
+517481,s.g.o.t - lab test,1,lab_test
+517482,s.g.o.t 736,1,lab_test
+517483,s.g.o.t a.s.t,1,lab_test
+517485,s.g.o.t(ast,1,lab_test
+517487,s.g.o.t. ( a.s.t,2,lab_test
+517488,s.g.o.t. ( ast,3,lab_test
+517490,s.g.o.t. (a.s.t,1,lab_test
+517491,s.g.o.t. (ast,1,lab_test
+517492,s.g.o.t. - ????? ????? (s.g.o.t,1,other
+517493,s.g.o.t. ast,1,lab_test
+517494,s.g.o.t.(a.s.t,3,lab_test
+517498,s.g.o.t.--?? ?? ?? ?? 12.49,1,lab_test
+517500,s.g.o.t.a.s.t,1,lab_test
+517501,s.g.o.t/ast,2,lab_test
+517503,s.g.p.t alt,2,lab_test
+517504,s.g.p.t ( alt,4,lab_test
+517507,s.g.p.t (a.l.t,2,lab_test
+517508,s.g.p.t (alt ) (s,1,lab_test
+517509,s.g.p.t (alt,1,lab_test
+517510,s.g.p.t (alt) (s,1,lab_test
+517511,s.g.p.t - lab test,1,lab_test
+517512,s.g.p.t 737,1,lab_test
+517513,s.g.p.t a.l.t,1,lab_test
+517515,s.g.p.t(a.l.t,3,lab_test
+517519,s.g.p.t. ( a.l.t,5,lab_test
+517522,s.g.p.t. (alt,1,lab_test
+517523,s.g.p.t. (alt) (s,1,lab_test
+517524,s.g.p.t. - ????? ????? (s.g.p.t,1,other
+517525,s.g.p.t. --- duplicated,1,lab_test
+517526,s.g.p.t. alt,1,lab_test
+517528,s.g.p.t.--?? ?? ?? ?? 12.48,1,lab_test
+517529,s.g.p.t.a.l.t,1,lab_test
+517530,s.g.p.t/alt,2,lab_test
+517531,s.globulin,2,other
+517532,s.got,1,other
+517533,s.got (ast,2,lab_test
+517534,s.got(a.s.t,1,lab_test
+517535,s.got(ast,1,lab_test
+517536,s.gpt,1,other
+517537,s.gpt (alt,2,lab_test
+517538,s.gpt alt,1,lab_test
+517539,s.gpt(alt,1,lab_test
+517541,s.h - pylori abs,1,lab_test
+517542,s.h. pylori,2,lab_test
+517544,s.h. pylori abs,1,lab_test
+517545,s.h.b.g. (sex h. binding globulin,1,lab_test
+517546,s.h.d.l,1,lab_test
+517547,s.h.e-m(blkcrys,1,lab_test
+517548,s.h.pylori igg,1,lab_test
+517549,s.h.pylori igg ( quantitative,1,lab_test
+517550,s.h.pylori,7,lab_test
+517551,s.h.pylori bupa,1,lab_test
+517552,s.h.pylori medgulf,1,lab_test
+517553,s.h.pylori tcs,1,lab_test
+517560,s.hcg,1,lab_test
+517561,s.hcg (pregnancy test,1,lab_test
+517562,s.hdl,1,lab_test
+517563,s.hdl cholesterol,2,lab_test
+517565,s.hdl.ch,1,lab_test
+517573,s.k,1,lab_test
+517574,s.l d l,1,lab_test
+517575,s.l h,1,lab_test
+517576,s.l.a.p (superior labrum from anterior to posterior) tear repair,1,procedure
+517577,s.l.a.p (superior labrum from anterior to posterior) tear repair los 2 days,1,procedure
+517578,s.l.d.l-1295,1,lab_test
+517579,s.l.d.l,1,lab_test
+517580,s.laurent fram,1,eyewear
+517581,s.laurent opt 114 ful pls 55 blu u,1,eyewear
+517582,s.laurent opt 115 ful pls 52 blu m,1,eyewear
+517583,s.laurent opt 12 ful pls 52 009 van w,1,eyewear
+517584,s.laurent opt 152 ful mtl 55 001 blk m,1,eyewear
+517585,s.laurent opt 152 ful mtl 55 003 slv m,1,eyewear
+517586,s.laurent opt 194 ful mtl 56 001 slv m,1,eyewear
+517587,s.laurent opt 194 ful mtl 56 003 gld m,1,eyewear
+517588,s.laurent opt 195 ful mtl 55 001 slv m,1,eyewear
+517589,s.laurent opt 195 ful mtl 55 002 blk m,1,eyewear
+517590,s.laurent opt 25 ful pls 49 van/slv u,1,eyewear
+517591,s.laurent opt sl186-bslim ful pls 53 001 blk m,1,eyewear
+517592,s.laurent opt sl259 ful pls 53 006 twhi u,1,eyewear
+517593,s.laurent opt sl297 ful pls 51 009 t.whi m,1,eyewear
+517594,s.laurent opt sl313 ful mtl 50 002 slv/blk m,1,eyewear
+517595,s.laurent opt sl313 ful mtl 50 003 gld/blk m,1,eyewear
+517596,s.laurent opt sl344 ful pls 54 001 blk m,1,eyewear
+517597,s.laurent opt sl344 ful pls 54 005 t.slv m,1,eyewear
+517598,s.laurent opt sl351 ful mtl 55 002 blk u,1,eyewear
+517599,s.laurent opt sl351 ful mtl 55 003 gld u,1,eyewear
+517600,s.laurent opt sl352 ful mtl 52 002 blk u,1,eyewear
+517601,s.laurent opt sl352 ful mtl 52 003 gld u,1,eyewear
+517602,s.laurent opt sl362 ful mtl 48 003 gld/blk u,1,eyewear
+517603,s.laurent opt slm54 ful mtl 56 001 blk m,1,eyewear
+517604,s.laurent opt slm54 ful mtl 56 002 slv m,1,eyewear
+517605,s.laurent opt slm56 ful mtl 54 001 blk m,1,eyewear
+517606,s.laurent opt slm63 ful mtl 52 002 blk u,1,eyewear
+517607,s.laurent opt slm63 ful mtl 52 002 blk/slv m,1,eyewear
+517608,s.laurent opt slm63 ful mtl 52 003 gld/blk u,1,eyewear
+517609,s.ldh,2,lab_test
+517610,s.ldl cholesterol,2,lab_test
+517612,s.ldl.ch,1,lab_test
+517613,s.lipase,2,lab_test
+517614,s.lipid profile,1,lab_test
+517615,s.m.d,2,lab_test
+517616,s.m.d sub mucus dissectio,1,lab_test
+517618,s.m.d sub mucus dissection,1,lab_test
+517620,s.m.d. ( sub - mucus diathermy,1,lab_test
+517621,s.m.d. -a,1,lab_test
+517622,s.m.d. -b,1,lab_test
+517623,s.m.d. submucus dissection,1,lab_test
+517624,s.m.r,2,lab_test
+517625,s.m.r (submucous resection,1,procedure
+517626,s.m.r submucous resection,2,procedure
+517627,s.m.r submucus resection,1,procedure
+517628,s.m.r submucus resectionimcm,1,lab_test
+517631,s.m.r. (submucus resection,1,procedure
+517632,s.m.r. submucous resection,3,procedure
+517633,s.m.r. submucous resection -a,1,procedure
+517634,s.m.r. submucous resection -b,1,procedure
+517635,s.m.r. submucus resection,3,procedure
+517636,s.m.r. submucus resection. - pkg 1 day,1,procedure
+517641,s.m.r.(pkg,1,lab_test
+517642,s.m.r (submucus resection,1,procedure
+517644,s.mccartney opt sk00240 ful pls 47 009 blu/blk k,1,eyewear
+517645,s.mccartney opt sk00240 ful pls 47 010 blu/ylw k,1,eyewear
+517646,s.mccartney opt sk00250 ful pls 49 010 tblu k,1,eyewear
+517647,s.mccartney opt sk00510 ful pls 48 001 blk k,1,eyewear
+517648,s.mgnesium (mg,2,other
+517650,s.na,2,lab_test
+517653,s.oliver 2075 2,1,other
+517654,s.oliver93905 300,1,other
+517655,s.oliver94961 600=9/2012 (00.0,1,other
+517656,s.oliver94970 700=10/2012 (00,1,other
+517657,s.olivers1351 1,1,other
+517658,s.olvier93858 600=7/2012 (00.0,1,other
+517659,s.oestradiol,1,lab_test
+517660,s.osmolarity,1,other
+517661,s.p. cystostomy,1,procedure
+517662,s.phosphorous,5,lab_test
+517663,s.phosphorous-s.phosphorous,1,lab_test
+517665,s.phosphorus,4,lab_test
+517666,s.phsphorus,2,other
+517671,s.pregnancy,2,other
+517673,s.pregnancy test(qualitative hcg,1,lab_test
+517674,s.prolactine,2,other
+517678,s.potasium,1,other
+517681,s.pregnancy qualitative,1,other
+517682,s.pregnancy quantitative,1,other
+517685,s.prolactin,1,lab_test
+517686,s.s. crown - permanent tooth,1,dental
+517695,s.sodium,4,lab_test
+517697,s.stane ultra ud drops30vial,1,other
+517698,s.street - s518c7c5,1,other
+517699,s.surgical remv'l/impact.tooth,1,dental
+517701,s.t,1,lab_test
+517702,s.t dupont,1,lab_test
+517703,s.t g,2,lab_test
+517705,s.t.bilirubin,2,lab_test
+517707,s.t.c,1,lab_test
+517708,s.t.dupont,1,lab_test
+517710,s.t.dupont opt 8054 ful mtl 52 c1 gld m,1,eyewear
+517711,s.t.dupont opt 8094 hav tnm 57 gld m,1,eyewear
+517712,s.t.dupont opt 8104 ful tnm 56 gry m,1,eyewear
+517713,s.t.dupont opt dpg203 ful tnm 54 c1 gld m,1,eyewear
+517714,s.t.dupont opt dpg203 ful tnm 54 c2 slv m,1,eyewear
+517716,s.t.g,2,lab_test
+517717,s.t.test esterone,1,lab_test
+517718,s.t3,2,lab_test
+517719,s.t4,2,lab_test
+517720,s.t4 free,1,lab_test
+517721,s.tg,1,other
+517722,s.tg triglycerides,1,lab_test
+517723,s.tibc,1,lab_test
+517724,s.tissue impac lower 3rd molar,1,dental
+517725,s.total bilirubin,3,lab_test
+517726,s.total lipids,1,other
+517727,s.total proteins,2,other
+517728,s.trigl yceride,3,other
+517729,s.triglyceride,3,lab_test
+517730,s.triglycerides,3,lab_test
+517731,s.troglecride,1,other
+517732,s.tsh,2,lab_test
+517735,s.total protein,1,lab_test
+517737,s.trighlycrides,1,other
+517742,s.triglycerides t.g,1,lab_test
+517743,s.troponin,1,lab_test
+517744,s.troponin 1,1,lab_test
+517747,s.urea,4,lab_test
+517748,s.urea 726,1,lab_test
+517755,s.urea (bun,1,lab_test
+517764,s.zink,1,other
+517765,s.albumine,1,lab_test
+517767,s.c .injection1058,1,lab_test
+517770,s.extraction (operation,1,dental
+517780,s022 bupa. excision biopsy breast with hp,1,procedure
+517781,s024bupa.segmentectomy/lu mpectomy breast,1,procedure
+517782,s10 sterile dressing small,1,supplies
+517783,"s100 protein ivd, kit, enzyme immunohistochemistry",1,lab_test
+517784,s101 bupa .debridement and suturing major g,1,procedure
+517785,s11 dressing,2,supplies
+517786,s12 stitch,2,procedure
+517787,s195n/nvl/f,1,other
+517788,s1b35180-lockingscrew3.5*18ti,1,other
+517789,s2 1.5 - 6.00 : 2.00,1,other
+517790,s2 1.5 bifocal,1,eyewear
+517791,s2 1.5 bifocal transition,1,eyewear
+517792,s2 1.5 clear sv,1,eyewear
+517793,s2 1.5 mc tr,1,eyewear
+517794,s2 1.5 mc white,1,eyewear
+517795,s2 1.5 photosun,1,other
+517796,s2 1.5 prim blue,1,other
+517797,s2 1.5 prim drive,1,other
+517798,s2 1.5 transtion ssc,1,other
+517799,s2 1.50,1,other
+517800,s2 1.50 hcyl,1,other
+517801,s2 1.50 mirror (+6.00 to -6.00) cyl (0.0 to -2.00) scc,1,eyewear
+517802,s2 1.50 polarized sph (+6.00 to -9.00) cyl (0.0 to -6.00) hc,1,eyewear
+517803,s2 1.50 polarized sph (+6.00 to -9.00) cyl (0.0 to -6.00) p.plus,1,eyewear
+517804,s2 1.50 sph (+6.00 to -6.00) cyl (0.0 to -2.00) p.blue,1,eyewear
+517805,s2 1.50 sph (+6.00 to -6.00) cyl (0.0 to -2.00) p.plus,1,eyewear
+517806,s2 1.50 sph (+6.00 to -6.00) cyl (0.0 to -2.00) scc,1,eyewear
+517807,s2 1.50 sph (+9.00 to -9.00) cyl (-2.25 to -6.00) hc,1,eyewear
+517808,s2 1.50 sph (+9.00 to -9.00) cyl (-2.25 to -6.00) pblue,1,eyewear
+517809,s2 1.50 sph (+9.00 to -9.00) cyl (-2.25 to -6.00) pdrive,1,eyewear
+517810,s2 1.50 sph (+9.00 to -9.00) cyl (-2.25 to -6.00) pplus,1,eyewear
+517811,s2 1.50 sph (+9.00 to -9.00) cyl (-2.25 to -6.00) scc,1,eyewear
+517812,s2 1.50 transitions7 sph (+9.00 to -9.00) cyl (-2.25 to -6.00) p.plus,1,eyewear
+517813,s2 1.50 transitions7 sph (+9.00 to -9.00) cyl (-2.25 to -6.00) scc,1,eyewear
+517814,s2 1.53 trivex,1,other
+517815,s2 1.53 trivex sph (+4.00 to -4.00) cyl (0.0 to -2.00) p.plus,1,eyewear
+517816,s2 1.53 trivex sph (+4.00 to -4.00) cyl (0.0 to -2.00) scc,1,eyewear
+517817,s2 1.53 trivex sph (+8.00 to -6.00) cyl (-2.25 to -6.00) hc,1,eyewear
+517818,s2 1.53 trivex sph (+8.00 to -6.00) cyl (-2.25 to -6.00) p.blue,1,eyewear
+517819,s2 1.53 trivex sph (+8.00 to -6.00) cyl (-2.25 to -6.00) p.drive,1,eyewear
+517820,s2 1.53 trivex sph (+8.00 to -6.00) cyl (-2.25 to -6.00) p.plus,1,eyewear
+517821,s2 1.53 trivex sph (+8.00 to -6.00) cyl (-2.25 to -6.00) scc,1,eyewear
+517822,s2 1.53 trivex transitions7 sph (+8.00 to -6.00) cyl (-2.25 to -6.00) p.plus,1,eyewear
+517823,s2 1.6 clear sv,1,eyewear
+517824,s2 1.6 mc white,1,eyewear
+517825,s2 1.6 sequence digital ssc,1,other
+517826,s2 1.6 tb ppc,1,other
+517827,s2 1.6 tb sv ppc,1,eyewear
+517828,s2 1.60,1,other
+517829,s2 1.60 sph (+6.00 to -8.00) cyl (0.0 to -2.00) p.blue,1,eyewear
+517830,s2 1.60 sph (+6.00 to -8.00) cyl (0.0 to -2.00) scc,1,eyewear
+517831,s2 1.60 sph (+8.00 to -8.00) cyl (-2.25 to -4.00) hc,1,eyewear
+517832,s2 1.60 sph (+8.00 to -8.00) cyl (-2.25 to -4.00) p.drive,1,eyewear
+517833,s2 1.60 sph (+8.00 to -8.00) cyl (-2.25 to -4.00) p.plus,1,eyewear
+517834,s2 1.60 sph (+8.00 to -8.00) cyl (-2.25 to -4.00) scc,1,eyewear
+517835,s2 1.60 transitions7 sph (+8.00 to -8.00) cyl (-2.25 to -4.00) hc,1,eyewear
+517836,s2 1.60 transitions7 sph (+8.00 to -8.00) cyl (-2.25 to -4.00) p.blue,1,eyewear
+517837,s2 1.60 transitions7 sph (+8.00 to -8.00) cyl (-2.25 to -4.00) p.plus,1,eyewear
+517838,s2 1.67,1,other
+517839,s2 1.67 clear sv,1,eyewear
+517840,s2 1.67 hicyl,1,other
+517841,s2 1.67 mc white,1,eyewear
+517842,s2 1.67 sph (+12.00 to -12.00) cyl (-2.25 to -4.00) hc,1,eyewear
+517843,s2 1.67 sph (+12.00 to -12.00) cyl (-2.25 to -4.00) p.blue,1,eyewear
+517844,s2 1.67 sph (+12.00 to -12.00) cyl (-2.25 to -4.00) p.drive,1,eyewear
+517845,s2 1.67 sph (+12.00 to -12.00) cyl (-2.25 to -4.00) p.plus,1,eyewear
+517846,s2 1.67 sph (+12.00 to -12.00) cyl (-2.25 to -4.00) scc,1,eyewear
+517847,s2 1.67 sph (+15.00 to -15.00) cyl (-2.25 to -4.00) scc,1,eyewear
+517848,s2 1.67as sph (+0.00 to -10.00) cyl (0.0 to -2.00) scc,1,eyewear
+517849,s2 1.67as sph (+6.00 to -10.00) cyl (0.0 to -2.00) p.drive,1,eyewear
+517850,s2 1.67as sph (+6.00 to -10.00) cyl (0.0 to -2.00) p.plus,1,eyewear
+517851,s2 1.67as sph (+6.00 to -10.00) cyl (0.0 to -2.00) scc,1,eyewear
+517852,s2 1.74,1,other
+517853,s2 1.74 as sph (-3.00 to -10.00) cyl (0.0 to -2.00) p.plus,1,eyewear
+517854,s2 1.74 as sph (-3.00 to -10.00) cyl (0.0 to -2.00) scc,1,eyewear
+517855,s2 1.74 clear sv,1,eyewear
+517856,s2 1.74 hicyl,1,other
+517857,s2 1.74 mc white,1,eyewear
+517858,s2 1.74 sph (+18.00 to -18.00) cyl (-2.25 to -4.00) p.blue,1,eyewear
+517859,s2 1.74 sph (+18.00 to -18.00) cyl (-2.25 to -4.00) p.drive,1,eyewear
+517860,s2 1.74 sph (+18.00 to -18.00) cyl (-2.25 to -4.00) p.plus,1,eyewear
+517861,s2 1.74 sph (+18.00 to -18.00) cyl (-2.25 to -4.00) scc,1,eyewear
+517862,s2 advance 3d 1.5 ssc,1,other
+517863,s2 bi-focal 1.5 pdc,1,other
+517864,s2 bi-focal 1.5 ppc,1,other
+517865,s2 bifocal 1.50,1,eyewear
+517866,s2 convenient 1.5 pbc,1,other
+517867,s2 convenient 1.5 ppc,1,other
+517868,s2 convenient 1.5 ssc,1,other
+517869,s2 convenient 1.6 ssc,1,other
+517870,s2 dig sph (1.50) p.plus gr1,1,eyewear
+517871,s2 dig sph (1.50) p.plus gr2,1,eyewear
+517872,s2 dig sph (1.50) p.plus gr3,1,eyewear
+517873,s2 dig sph (1.50) polrizd rx p.plus gr1,1,eyewear
+517874,s2 dig sph (1.50) s.coat gr1,1,eyewear
+517875,s2 dig sph (1.50) s.coat gr2,1,eyewear
+517876,s2 dig sph (1.50) s.coat gr3,1,eyewear
+517877,s2 dig sph (1.50) s.coat gr4,1,eyewear
+517878,s2 dig sph (1.50) s.coat rx2,1,eyewear
+517879,s2 dig sph (1.50) s.coat stock,1,eyewear
+517880,s2 dig sph (1.60) s.coat gr1,1,eyewear
+517881,s2 dig sph (1.60) rx p.plus gr1,1,eyewear
+517882,s2 dig sph (1.60) rx p.plus gr2,1,eyewear
+517883,s2 dig sph (1.60) rx p.plus gr3,1,eyewear
+517884,s2 dig sph (1.60) rx s.coat gr1,1,eyewear
+517885,s2 dig sph (1.60) rx s.coat gr2,1,eyewear
+517886,s2 dig sph (1.60) rx s.coat gr3,1,eyewear
+517887,s2 dig sph (1.60) s.coat rx2,1,eyewear
+517888,s2 dig sph (1.67) s.coat gr1,1,eyewear
+517889,s2 dig sph (1.67) rx p.plus gr1,1,eyewear
+517890,s2 dig sph (1.67) rx p.plus gr2,1,eyewear
+517891,s2 dig sph (1.67) rx s.coat gr1,1,eyewear
+517892,s2 dig sph (1.67) rx s.coat gr2,1,eyewear
+517893,s2 dig sph (1.67) rx s.coat gr3,1,eyewear
+517894,s2 dig sph (1.67) rx s.coat gr4,1,eyewear
+517895,s2 dig sph (1.74) s.coat gr1,1,eyewear
+517896,s2 dig sph (1.74) rx p.plus gr2,1,eyewear
+517897,s2 dig sph (1.74) rx p.plus gr3,1,eyewear
+517898,s2 dig sph (1.74) rx s.coat gr1,1,eyewear
+517899,s2 dig sph (1.74) rx s.coat gr3,1,eyewear
+517900,s2 dig sph trivex (1.53) s.coat gr1,1,eyewear
+517901,s2 dig sph trivex (1.53) rx p.plus gr1,1,eyewear
+517902,s2 dig sph trivex (1.53) rx p.plus gr2,1,eyewear
+517903,s2 dig sph trivex (1.53) rx p.plus gr3,1,eyewear
+517904,s2 dig sph trivex (1.53) rx p.plus rx3,1,eyewear
+517905,s2 dig sph trivex (1.53) rx s.coat gr2,1,eyewear
+517906,s2 dig sph trivex (1.53) rx s.coat gr3,1,eyewear
+517907,s2 dental consultation,1,dental
+517908,s2 prime blue,1,other
+517909,s2 prime blue 1.60,1,other
+517910,s2 prime blue hicyl,1,other
+517911,s2 prime plus 1.74 as,1,other
+517912,s2 pro advance 1.5 tr pr plus,1,other
+517913,s2 pro advance ssc,1,other
+517914,s2 pro sequence 1.5 ssc,1,other
+517915,s2 pro sequence prim drive,1,other
+517916,s2 progresiv sequense 1.60,1,other
+517917,s2 progresive convenient,1,other
+517918,s2 sequence 1.50 pbc,1,other
+517919,s2 sequence 1.50 pdc,1,other
+517920,s2 sequence 1.50 ppc,1,other
+517921,s2 sequence 1.50 ssc,1,other
+517922,s2 sequence 1.57 pbc,1,other
+517923,s2 sequence 1.60 pbc,1,other
+517924,s2 sequence 1.60 pdc,1,other
+517925,s2 sequence 1.60 ppc,1,other
+517926,s2 sequence 1.60 ssc,1,other
+517927,s2 sequene trivex 1.53 ppc,1,other
+517928,s2 ser,1,other
+517929,s2 sph (1.50) primblue gr1,1,eyewear
+517930,s2 sph (1.50) primblue gr2,1,eyewear
+517931,s2 sph (1.50) primblue gr3,1,eyewear

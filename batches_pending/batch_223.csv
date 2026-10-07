@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+419684,olsynsvrx hdc1.67sbp.fusion col,1,eyewear
+419685,olsynsvrx hdc1.67sxclrclr,1,other
+419686,olsynsvrx hdc1.67sxp.fusion col,1,eyewear
+419687,olsynsvrx hdc1.6sbclrclr,1,other
+419688,olsynsvrx hdc1.6sbp.fusion col,1,eyewear
+419689,olsynsvrx hdc1.6sxclrclr,1,other
+419690,olsynsvrx hdc1.74sbclrclr,1,other
+419691,olsynsvrx hdc1.74sxclrclr,1,other
+419715,olympia hair cut & shave +,1,other
+419716,olympia shave,1,other
+419717,olympus balloon maj-213,1,supplies
+419718,olympus sd-230u-20 snare n4471,1,other
+419719,olympus splinting tube st-sb1,1,supplies
+419720,olzismfd light1.5bpclrclr,1,other
+419721,olzismfd light1.5slvrclrclr,1,other
+419722,olzismfd light1.67slvrclrclr,1,other
+419723,olzismfd light1.6slvrclrclr,1,other
+419724,olzismfdrivesafe individual1.74drvclrclr,1,eyewear
+419725,olzismfdrivesafe1.74drvclrclr,1,eyewear
+419726,olzismfoffice lens individual1.5bpclrclr,1,eyewear
+419727,olzismfoffice lens individual1.74bpclrclr,1,eyewear
+419728,olzismfoffice lens superb1.53bpclrclr,1,eyewear
+419729,olzismfoffice lens superb1.6bpclrclr,1,eyewear
+419730,olzismfprecision plus1.67bpclrclr,1,other
+419731,olzismfprecision plus1.74slvrclrclr,1,other
+419732,olzismfprecision pure1.53bpclrclr,1,other
+419733,olzismfprecision pure1.53slvrclrclr,1,other
+419734,olzismfprecision pure1.5slvrclrclr,1,other
+419735,olzismfprecision pure1.5slvrp.fusion col,1,eyewear
+419736,olzismfprecision superb1.67slvrclrclr,1,other
+419737,olzismfprecision superb1.74slvrclrclr,1,other
+419738,olzissvdigital individual1.53bpclrclr,1,other
+419739,olzissvdigital individual1.53slvrclrclr,1,other
+419740,olzissvdigital individual1.5bpclrclr,1,other
+419741,olzissvdigital individual1.5slvrclrclr,1,other
+419742,olzissvdigital individual1.67slvrclrclr,1,other
+419743,olzissvdigital individual1.6slvrclrclr,1,other
+419744,olzissvdigital1.53bpclrclr,1,other
+419745,olzissvdigital1.53slvrclrclr,1,other
+419746,olzissvdigital1.5bpclrclr,1,other
+419747,olzissvdigital1.5slvrclrclr,1,other
+419748,olzissvdigital1.5slvrplzcol,1,other
+419749,olzissvdigital1.67bpclrclr,1,other
+419750,olzissvdigital1.6slvrclrclr,1,other
+419751,olzissvdigital1.74bpclrclr,1,other
+419752,olzissvdigital1.74slvrclrclr,1,other
+419753,olzissvdrivesafe individual1.5drvclrclr,1,eyewear
+419754,olzissvdrivesafe1.53drvclrclr,1,eyewear
+419755,olzissvdrivesafe1.5drvclrclr,1,eyewear
+419756,olzissvfsv1.5bpclrclr,1,other
+419757,olzissvfsv1.5drvclrclr,1,eyewear
+419758,olzissvfsv1.5lotcclrclr,1,other
+419759,olzissvfsv1.5lotcp.fusion col,1,eyewear
+419760,olzissvfsv1.5slvrclrclr,1,other
+419761,olzissvfsv1.67lotcclrclr,1,other
+419762,olzissvfsv1.67slvrclrclr,1,other
+419763,olzissvfsv1.6bpclrclr,1,other
+419764,olzissvfsv1.6drvclrclr,1,eyewear
+419765,olzissvfsv1.6lotcclrclr,1,other
+419766,olzissvfsv1.6slvrclrclr,1,other
+419767,olzissvfsv1.74lotcclrclr,1,other
+419768,olzissvrx individual1.53bpclrclr,1,other
+419769,olzissvrx individual1.53slvrclrclr,1,other
+419770,olzissvrx individual1.5bpclrclr,1,other
+419771,olzissvrx individual1.5slvrclrclr,1,other
+419772,olzissvrx individual1.67bpclrclr,1,other
+419773,olzissvrx individual1.67slvrclrclr,1,other
+419774,olzissvrx individual1.6bpclrclr,1,other
+419775,olzissvrx individual1.6slvrclrclr,1,other
+419776,olzissvrx individual1.6slvrp.fusion col,1,eyewear
+419777,olzissvrx sph1.53bpclrclr,1,other
+419778,olzissvrx sph1.53bpplzcol,1,other
+419779,olzissvrx sph1.53slvrclrclr,1,other
+419780,olzissvrx sph1.53slvrplzcol,1,other
+419781,olzissvrx sph1.5bpclrclr,1,other
+419782,olzissvrx sph1.5bpp.fusion col,1,eyewear
+419783,olzissvrx sph1.5bpplzcol,1,other
+419784,olzissvrx sph1.5slvrclrclr,1,other
+419785,olzissvrx sph1.5slvrp.fusion col,1,eyewear
+419786,olzissvrx sph1.5slvrplzcol,1,other
+419787,olzissvrx sph1.6bpclrclr,1,other
+419788,olzissvrx sph1.6slvrclrclr,1,other
+419789,olzissvrx superb1.53bpclrclr,1,other
+419790,olzissvrx superb1.53bpplzcol,1,other
+419791,olzissvrx superb1.53slvrclrclr,1,other
+419792,olzissvrx superb1.5bpclrclr,1,other
+419793,olzissvrx superb1.5slvrclrclr,1,other
+419794,olzissvrx superb1.5slvrp.fusion col,1,eyewear
+419795,olzissvrx superb1.5slvrplzcol,1,other
+419796,olzissvrx superb1.67bpclrclr,1,other
+419797,olzissvrx superb1.67slvrclrclr,1,other
+419798,olzissvrx superb1.67slvrp.fusion col,1,eyewear
+419799,olzissvrx superb1.6bpclrclr,1,other
+419800,olzissvrx superb1.6slvrclrclr,1,other
+419801,olzissvrx superb1.6slvrp.fusion col,1,eyewear
+419802,olzissvrx superb1.74slvrclrclr,1,other
+419815,omacid chew 20tabs,1,other
+419870,omacip 500,1,other
+419932,omacor,2,other
+419961,omadox,2,other
+420026,omar ibrahimaljabour,1,other
+420027,omar m al-nozha,1,other
+420028,omar mahmoudalheyasat,1,other
+420030,omar saleh saad alsuhaimi,1,other
+420031,omar sameh darwish,1,other
+420032,omar sayed khalifa ali,1,other
+420033,omario frm 204,1,eyewear
+420036,omaymah yaqoubelameian,1,other
+420038,omcet,1,other
+420101,omecure,2,other
+420105,omecure 40,1,other
+420143,omega,3,other
+420145,omega - 3 fish oil,2,lab_test
+420147,omega - ar,1,other
+420170,omega 3 fish oil 60 capsul (jp omega-3,1,lab_test
+420171,omega 3 fort,1,other
+420173,omega 3 fort60cap/vidacare,1,other
+420174,omega 3 index - s.o,1,lab_test
+420178,omega 3-6-9 1300m g,1,other
+420186,omega disposable patient plate 20193-082,1,supplies
+420187,omega forte,1,other
+420188,omega fram,1,eyewear
+420192,omega light 30cap,1,other
+420193,omega light 30caps,1,other
+420194,omega light candies 60s - per box,1,other
+420199,omega light gelatin candies x 30,1,other
+420204,omega mama,1,other
+420205,omega opt om5006-h ful mtl 60 030 gld m,1,eyewear
+420206,omega opt om5007-h rml mtl 56 030 gld m,1,eyewear
+420207,omega plastic 12/2,1,eyewear
+420208,omega plastic 16/2,2,eyewear
+420209,omega plastic 8/2,1,eyewear
+420210,omega plus,1,other
+420213,omega-3,2,other
+420221,omega-3 fatty acids - stromega - 30capsules (r00158,1,other
+420226,omega-3 polyunsaturated fatty acids,1,other
+420227,omega-3 polyunsaturateted fatty acids,1,other
+420237,omegacod,1,other
+420241,omegalight gelatin candies bx/30 (omega 3/ fish oil,1,lab_test
+420307,omegavyte,1,other
+420315,omental mass excision by laparoscopy,1,procedure
+420316,omental patch spleric tear w/bleeding,1,lab_test
+420317,omentectomy,2,procedure
+420318,omentectomy - 3 days (2nd operation 50%,1,procedure
+420319,omentectomy - 3 days pkg,1,procedure
+420320,omentectomy additional to any hysterectomy procedure,1,procedure
+420321,omentectomy under g. a,1,procedure
+420322,"omentectomy, epiploectomy, resection, omentum (sep proc",1,procedure
+420323,omenttecttomy,1,other
+420324,"omentum, biopsy",2,procedure
+420325,omeorazole iv,1,supplies
+420328,omepragole,1,other
+420329,omeprazol,3,other
+420493,omeprazole20mg - gastrozole20mg,1,other
+420579,omeprex20mg 28cap,1,other
+420580,omer mohi eldeen abdalmotali,1,other
+420606,omezyn plus,3,other
+420614,omezyn plus 28cap,1,other
+420617,omezyn plus 40/1100,1,other
+420692,omicure solid ttdx2 ngs,1,other
+420708,omipure,1,other
+420776,omisec,4,other
+421036,omni strip 6.4 *76mm -woud closure strips -sutures adhesives,1,supplies
+421037,omni strip 6.4 *76mm woud closure strips sutures adhesives,1,supplies
+421555,omnifilm 2.5cmx9.2m p1 (transpore) cat# 900422,1,other
+421556,omnipaque,1,other
+421571,omnipod dash pdm device (pt-000019-qat,1,lab_test
+421572,omnipod dash 10 pods,1,other
+421575,omnipod dash pdm kit,2,other
+421577,omnipod dash pods 10s,1,other
+421578,omnipod dash pods (b/10,1,other
+421579,omnipod dash pods 10 /box by pack,1,supplies
+421580,omnipod dash pods 10's,1,other
+421581,omnipod manager kit 1s,1,other
+421582,omniscan,1,other
+421584,omnistrip 12x101mm p6x50 cat#540 685,1,other
+421651,omol extra,2,other
+421653,omol extra (20,1,other
+421654,omol extra (20)( tier1,1,insurance
+421661,omol extra 20tab,2,other
+421662,omol extra 20tab( tier1,1,insurance
+421663,omol extra 20tablet,1,other
+421664,omol extra 20tablets,1,other
+421665,omol extra 20tabs,2,other
+421698,omol extratabs-20,1,other
+421707,omperazole,1,other
+421708,omphalocel (simple primary repair,1,procedure
+421709,omphalocele repair - minor,1,procedure
+421710,omphlocele staged repair,1,procedure
+421712,omron compressor nebulizer ne- c 803,1,supplies
+421713,omron h comp air c801 ne-c 801-e,1,eyewear
+421714,omron - evolv wireless blood pressure monitor,1,lab_test
+421715,omron - c102 - 2*1 compressor nebulizer,1,supplies
+421716,omron - c28 - compressor nebulizer,1,supplies
+421717,omron - flexi-temp smart thermometer,1,supplies
+421718,omron - m3 blood pressure monitor (hem-7131-e,1,lab_test
+421719,omron - m4 blood pressure monitor (intelli it hem-7155t-ebk,1,lab_test
+421720,omron - m4 b.p.m machine,1,supplies
+421721,omron - m6 - upper arm comfort blood pressure monitor,1,lab_test
+421722,omron - m6 b.p.m machine,1,supplies
+421723,omron - micro-air ultrasonic nebulizer,1,eyewear
+421724,omron 0472-2286-6369-7922 c28e/c28p nebulizer,1,supplies
+421725,omron b.p monitor hem-7121 m-2,1,supplies
+421726,omron b.p monitor hem-7121 m-2 basic,1,supplies
+421727,omron b.p monitor m-2,1,supplies
+421728,omron b.p monitor m-3 hem-7154e,1,supplies
+421729,omron b.p monitor m-4 hem-7155t,1,supplies
+421730,omron b.p monitor m-6 hem-7360,1,supplies
+421731,omron b.p. monitor m6 comfort,1,supplies
+421732,omron b.pressure m-2 upper arm,1,supplies
+421733,omron b.pressure monitor,1,supplies
+421734,omron b.pressure rs-3 wrist,1,supplies
+421735,omron babyduo nebulizer,1,supplies
+421736,omron blood pressure evolv all in one wireless,1,lab_test
+421737,omron blood pressure hem-7155t-ebk m4 intelli it,1,lab_test
+421738,omron blood pressure m2 basic hem -7120 e,1,lab_test
+421739,omron blood pressure m2 intellsence,1,lab_test
+421740,omron blood pressure m3 bpm hem - 7131 - e,1,lab_test
+421741,omron blood pressure m7 intelli it (bt,1,lab_test
+421742,omron blood pressure monitor,2,lab_test
+421743,omron blood pressure monitor comfort hem-7360,1,lab_test
+421744,omron blood pressure monitor m6,1,lab_test
+421745,omron blood pressure monitor m6 comfort,2,lab_test
+421746,omron bpm arm m3 comfort,1,supplies
+421747,omron bpm arm m7 inteli it,1,supplies
+421748,"omron bpm evolv wireless, dummy manf",1,supplies
+421749,omron bpm m2 basic,1,supplies
+421750,omron bpm m2 intellisense,1,supplies
+421751,omron bpm m3,1,supplies
+421752,"omron bpm m3 device, box",1,supplies
+421753,omron bpm m6 comfort intellisense,1,supplies
+421754,omron bpm upper arm evolve evlovpsc,1,supplies
+421755,omron c 301 nebulizer duo baby,1,supplies
+421756,omron c102 (2x1) comp-nebulizer,1,supplies
+421757,omron c102 nebulizer,1,supplies
+421758,omron c102 total compressor nebulizer device,1,supplies
+421759,omron comp air nebulizer c801 ne-c801,1,eyewear
+421760,omron comp air nebulizer ne-c801 6604,1,eyewear
+421761,omron comp. air c801 ne-c/e neb. machine,1,eyewear
+421762,omron compair compressor nebuliser ne-c30-e,1,supplies
+421763,omron compair compressor nebuliser ne-c801,1,supplies
+421764,omron compair compressor nebulizer,1,supplies
+421765,omron compair compressor nebulizer c-28,3,supplies
+421767,omron compair compressor nebulizer c28,1,supplies
+421768,omron compair compressor nebulizer c28 out,1,supplies
+421769,omron compair compressor nebuuzer c-28,1,supplies
+421770,omron compair nebulizer c-28,1,supplies
+421771,omron compair nebulizer ne c-28-e,1,supplies
+421772,omron compressor c102 total nebulizer,1,supplies
+421774,omron compressor neb c-28-e 2780omron compressor neb c-28-e 2780inv-ph-secd-78398331440,1,supplies
+421775,omron compressor neb. with aspirator duo baby,1,supplies
+421776,omron compressor nebuliser c-105,1,supplies
+421777,omron compressor nebulizer,1,supplies
+421778,omron compressor nebulizer (ne-c803) 937,1,supplies
+421779,omron compressor nebulizer (ne-c803) 9377,1,supplies
+421780,omron compressor nebulizer (ne-c803)9377,1,supplies
+421781,omron compressor nebulizer c-28,1,supplies
+421782,omron compressor nebulizer c102,1,supplies
+421783,omron compressor nebulizer c102 1240,1,supplies
+421784,omron compressor nebulizer ne-c801,1,supplies
+421785,"omron compressor nebulizer, ne-c 801-s",1,supplies
+421786,omron digital blood pressure monitor basic m2,1,lab_test
+421787,omron digital blood pressure monitor m2,1,lab_test
+421788,omron digital blood pressure monitor m3,1,lab_test
+421789,omron digital thermometer basic mc-246-e,1,eyewear
+421790,omron digital thermometer eco temp ii,1,supplies
+421791,omron digital thermometers flex mc-343f-e,1,eyewear
+421792,omron digital tthermo eco temp smart mc-341 253124 gmdn: 14032,1,eyewear
+421793,omron duo baby neb,1,supplies
+421794,omron duo baby nebulizer,1,supplies
+421796,omron eco digital thermometer,1,supplies
+421797,omron eco temp basic mc-246-e,1,eyewear
+421798,omron eco temp basic thermometer (mc-246-e4,1,eyewear
+421799,omron eco thermometer basic mc 246 e,1,eyewear
+421800,omron evolv blood pressure monitor,1,lab_test
+421801,omron evolv bp 7600,1,eyewear
+421802,omron evolv hem-7600 bluetooth upper arm bp moitor 0465,1,eyewear
+421803,omron flex temp smart mc-343 ????? ?????,1,eyewear
+421804,omron flex temp smart thermometer (mc-343f-e4,1,eyewear
+421805,omron flex thermometer smart mc 343f e,1,eyewear
+421806,omron gentle temp 521 ear thermometer (mc-521-e,2,eyewear
+421808,omron gentle temp mc-521,1,eyewear
+421809,omron gt 720 thermometer,1,supplies
+421810,omron h comp air c801 ne_c 801-e,1,eyewear
+421811,omron h compressor nebulizer c801 ne_c_801,1,supplies
+421812,omron h hem 712 jaf m1 basic,1,supplies
+421813,omron h hem 7121 jaf m1 basic,1,supplies
+421814,omron h hem 7121 jaf m2 basic,1,supplies
+421815,omron h hem 7154-e m3,1,supplies
+421816,omron h hem 7360e bp monitor,1,eyewear
+421817,omron h hem_7121j_e m2 basic,1,supplies
+421818,omron h m2 basic,1,supplies
+421819,omron h ne-c303k-ldksa nami cat,1,supplies
+421820,omron h nebulizer c801 kids,1,supplies
+421821,omron kid comp nebulizer nc-c801 kd,1,supplies
+421822,omron kids nebulizer c801,1,supplies
+421823,omron m 1 basic bp apartus,1,eyewear
+421824,omron m 3 comfort blood pressure monitor,1,lab_test
+421825,omron m 6 confort bp monitor,1,eyewear
+421826,omron m1 basic bp monitor hem-7121j-af,1,eyewear
+421827,omron m2 #0197# basic blood pressure monitor,1,lab_test
+421828,omron m2 automatic blood pressere,1,lab_test
+421829,omron m2 basic,1,supplies
+421830,omron m2 basic intellisense,1,supplies
+421831,omron m2 blood pressure monitor 253223,1,lab_test
+421832,omron m2 bp monitor,1,eyewear
+421833,omron m2 ua bpm,1,supplies
+421834,omron m3 blood pressure monitor,1,lab_test
+421835,omron m3 blood pressure monitor -253159,1,lab_test
+421836,omron m3 bp monitor 1837,1,eyewear
+421837,omron m3 bp upper arm,1,eyewear
+421838,omron m3 comfort bp,1,eyewear
+421839,omron m3 comfort bp monitor,1,eyewear
+421840,omron m4 intelli it bp,1,eyewear
+421841,omron m4 intelli it bp monitor,1,eyewear
+421842,omron m4 intelli-it b.presr.monitor,1,supplies
+421843,omron m6 blood pressure monitor,2,lab_test
+421844,omron m6 bpm ac (pk-hem.7322 e,1,supplies
+421845,omron m6 comfort b.p monitor,1,supplies
+421846,omron m6 comfort bp upper arm,1,eyewear
+421847,omron m6 uper arm b.p set,1,supplies
+421848,omron m7 it bp,1,eyewear
+421849,omron mesh nebulizer nb-u100 0892,1,supplies
+421850,"omron mesh nebulizer, microair u 100",1,supplies
+421851,omron microair u100 portable nebulizer,2,supplies
+421853,omron neb c 30,1,supplies
+421854,omron neb c-102 total,1,supplies
+421855,omron neb c28,1,supplies
+421856,omron neb c801 kids,1,supplies
+421857,omron neb ultrasound pocket u100psc,1,imaging
+421858,omron neb.mach.ne-c28p,1,supplies
+421859,omron nebuliser c-28,1,supplies
+421860,omron nebuliser compair ne-c28-e,1,supplies
+421861,omron nebuliser compair ne-c28-p,1,supplies
+421862,omron nebuliser ne-c801kd kids,1,supplies
+421863,omron nebulizer,1,supplies
+421864,omron nebulizer ne-c28p,2,supplies
+421865,omron nebulizer a3,1,supplies
+421866,omron nebulizer c102,1,supplies
+421867,omron nebulizer c102 total,1,supplies
+421868,omron nebulizer c28,1,supplies
+421869,omron nebulizer c28 (220v,1,supplies
+421870,omron nebulizer c801,2,supplies
+421871,omron nebulizer compair compresor ne c-28-e 253161,1,supplies
+421872,omron nebulizer compressor ne-c28-e,1,supplies
+421873,omron nebulizer duobaby,1,supplies
+421874,omron nebulizer micro air u100 mesh,1,eyewear
+421875,omron nebulizer ne-c102 2x1 comp-neb,1,supplies
+421876,omron nebulizer ne-c102 tot,1,supplies
+421877,omron nebulizer ne-c105 ksa c28,1,supplies
+421879,omron nebulizer ne-c303k nami cat,1,supplies
+421880,"omron nebulizer, ne-c102 e",1,supplies
+421881,omron prob cover,1,supplies
+421882,omron rs7 intelli it bluetooth wrist bp monitor 1172,1,eyewear
+421883,omron therm eco basic,1,supplies
+421884,omron therm flex smart,1,supplies
+421885,omron thermometer (yasee,1,supplies
+421886,omron total compressor nebulizer device model (c102,1,supplies
+421887,omron u100 microair nebulizer,1,supplies
+421888,omron ua-bpm m2,1,supplies
+421889,omron upper arm blood pressure m2 basic,1,lab_test
+421890,omron upper arm bpm m4,1,supplies
+421891,omron wrist bpm rs4,1,supplies
+421893,on call any doctor,1,consultation
+421894,on call cardiac surgery team fee,1,procedure
+421895,on call specialist doctor,1,consultation
+421896,on call-specialist,1,consultation
+421898,on lien old,1,other
+421899,on root canal tooth with filling,1,dental
+421900,on-call,1,other
+421901,on-x mechanical aortic valve size 19#onxace-19,1,other
+421902,on-x mechanical aortic valve size21#onxace-21,1,other
+421903,on-x mechanical mitral valve size27-29#onxm27-29,1,other
+421906,oncodeep,1,other
+421907,oncodeep (customized gene panel,2,lab_test
+421908,oncodeep - s.o,1,lab_test
+421909,"oncodeep tissue/ ffpe (tumor-based cancer theranostic), oncodnas",1,other
+421910,oncology adult,1,other
+421911,oncology cons (co,1,consultation
+421912,oncology cons fee,1,consultation
+421913,oncology consultation,1,consultation
+421914,oncology consultation - specialist,1,consultation
+421915,oncology doctor supervision,2,consultation
+421916,oncology doctor supervision charges,2,consultation
+421918,oncology pap smear,1,lab_test
+421919,oncology peds surgical follow-up,1,procedure
+421920,oncology peds surgical new follow-up,1,procedure
+421921,oncology tissue of origin,1,other
+421922,oncology urgent add-on clinic follow-up,1,consultation
+421923,oncoplastic wide local excision of cancer with therapeutic reduction mammoplasty (grade ii) - 5 days pkg,1,procedure
+421924,oncoselect (liquid biopsy) - s.o,1,procedure
+421925,oncotype diagnosis ( so,1,other
+421926,oncotype dx,2,other
+421927,oncotype dx ( breast cancer recurrence markers,1,other
+421928,oncotype dx breast,1,other
+421929,"oncotype dx breast cancer assay - oncology breast, mrna gene expression profiling by real time rt-pcr of 21 genes utlizing formalin - fixed parrafin embedded tissue, algorithm reported as reccurence score",1,lab_test
+421930,oncotype dx breast-send out,1,other
+421931,oncotype dx sent to usa,1,other
+421932,oncotype dx test,2,lab_test
+421933,oncotype dx test - s.o,1,lab_test
+421934,oncotype dx-oncology tissue of origin,1,other
+421935,oncoxin,1,other
+421945,ondanion,2,other
+421959,ondanion2ml,1,other
+421960,ondanion4ml,1,other
+421961,ondans,3,other
+421976,ondansct non,1,other
+421979,ondansetran,1,other
+422211,ondansetron2mg/mlsolution for injection2ml,1,other
+422212,"ondansetron4mgtablet,10tablet/box",1,other
+422214,ondanstron,1,other
+422222,ondex,3,other
+422279,one - day chemotherapy course,1,supplies
+422282,one alpha .25 100tab,1,supplies
+422296,one alpha 0.25 mg30cap,1,supplies
+422368,one ankle 2 views,1,supplies
+422369,one ankle ap lat,1,imaging
+422370,one ankle ap -lat,1,imaging
+422371,one ankle ap / lat,1,imaging
+422372,one ankle ap /lat,1,imaging
+422373,one ankle complete minimum 3 views,1,supplies
+422374,one ankle complete minimum three views,1,supplies
+422375,one ankle four views,1,supplies
+422377,one ankle two views,1,supplies
+422378,one arch orthodontic tx,1,dental
+422379,one big biopsy,1,supplies
+422380,one biopsy,1,supplies
+422381,one breast,1,supplies
+422382,one breast removal of expander and insertion of prosthesis+capsulectomy/calpuloraphy+ fat grafting - 2 days pkg,1,supplies
+422383,one breast removal of expander skin and insertion of prosthesis (grade iii) - 2 days pkg,1,supplies
+422384,one breast ultrasound,2,imaging
+422386,one canal,2,dental
+422387,one canal ? retreatment without filling,1,dental
+422388,one canal rct,2,dental
+422389,"one canal rct(complex;curved,long,through crown",1,dental
+422390,one canal root filling,1,dental
+422391,one canal-rct (retreatment,1,dental
+422393,one canals-rct (retreatment,1,dental
+422394,one day admission,2,supplies
+422395,one day admission in icu without ventilator - cost estimation,1,supplies
+422396,one day admission in shared room - cost estimation,1,supplies
+422397,one day chemotherapy,2,supplies
+422398,one day chemotherapy on00423004,1,supplies
+422399,one day critical unit admission (this code for approval only,1,supplies
+422400,one day icu,1,supplies
+422401,one day icu (m.o.h,1,supplies
+422402,one day icu admission,1,supplies
+422403,one day icu/ccu/nicu admission,1,supplies
+422404,"one day icu/ccu/nicu admission (including accomodation, board, nursing fees, bed & consumables",1,supplies
+422405,"one day icu/ccu/nicu admission (including accomodation, board, nursing fees, bed",1,supplies
+422406,one day medical admission,1,supplies
+422407,one day set tubing cat # 284504,1,supplies
+422408,one day ward admission,1,supplies
+422409,one day ward admission (this code for approval only,1,supplies
+422412,one ear piercing,1,supplies
+422413,one ear section,2,supplies
+422414,one ear suction clearance,1,supplies
+422415,one ear suctioning and cleaning,1,supplies
+422416,one ear syring,2,supplies
+422418,one ear wash (suction,2,supplies
+422419,one ear wash -450,1,supplies
+422420,one elbow,1,supplies
+422421,one elbow ap lat,1,imaging
+422422,one elbow ap / lat,1,imaging
+422423,one elebow ap / lat,2,imaging
+422424,one electrical cautery,1,supplies
+422425,one facial space odontogenic infection surg. treatment (maxillo,1,supplies
+422426,one facial space odontogenic infection treatment - bedside or clinic,1,supplies
+422427,one femur ap lat,1,imaging
+422428,one femur ap - lat,1,imaging
+422429,one femur ap / lat,1,imaging
+422430,one femur ap /lat,1,imaging
+422431,one film,1,supplies
+422432,one finger 2 views,2,supplies
+422434,one finger minimum two views,1,supplies
+422435,one foot 2 views,1,supplies
+422436,one foot complete minimum 3 views,1,supplies
+422437,one foot complete minimum three views,1,supplies
+422438,one foot four views,1,supplies
+422439,one foot with two view,1,supplies
+422440,one forearm ap lat,1,imaging
+422441,one forearm ap - lat,1,imaging
+422442,one forearm ap / lat,2,imaging
+422443,one hand,1,supplies
+422444,one hand ap lat,1,imaging
+422445,one hand ap - lat,1,imaging
+422446,one hand ap / lat,2,imaging
+422447,one hand ap /lat,1,imaging
+422448,one heel ap lat,1,imaging
+422449,one heel ap / lat,1,imaging
+422450,one heel ap /lat,1,imaging
+422451,one hel ap / lat,1,imaging
+422452,one hip,1,supplies
+422456,one joint exercise,1,supplies
+422457,one joint u/s,2,supplies
+422458,one knee,1,supplies
+422459,one knee - 3 views,1,supplies
+422460,one knee 2 views,1,supplies
+422461,one knee ap lat,2,imaging
+422462,one knee ap - lat,1,imaging

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+587531,u/s doppler major vsls limited,2,imaging
+587532,u/s extermities,2,imaging
+587533,u/s soft tissue ? specify area,2,imaging
+587534,u/s soft tissue u specify area,2,imaging
+587535,u/s thyroid,4,imaging
+587536,u/s & doppler carotid bilateral,2,imaging
+587537,u/s & doppler any organ or vessel or artery unilateral,1,imaging
+587538,u/s & doppler art lower or upper extremity bilateral,1,imaging
+587539,u/s & doppler art lower or upper extremity unilateral,1,imaging
+587540,u/s & doppler art lwr or up ext. bilate,1,imaging
+587541,u/s & doppler art lwr or up ext. bilateral,1,imaging
+587542,u/s & doppler art lwr or up ext. unilat,1,imaging
+587543,u/s & doppler art lwr or up ext. unilateral,1,imaging
+587544,u/s & doppler breast (one,1,imaging
+587545,u/s & doppler breast (two,2,imaging
+587548,u/s & doppler carotid unilateral,1,imaging
+587549,u/s & doppler hip (one,1,imaging
+587550,u/s & doppler hip (two,1,imaging
+587551,u/s & doppler knee (one,1,imaging
+587552,u/s & doppler knee (two,1,imaging
+587553,u/s & doppler muscle (one,1,imaging
+587554,u/s & doppler muscle (two,1,imaging
+587555,u/s & doppler neck,2,imaging
+587556,u/s & doppler penile limited,1,imaging
+587557,u/s & doppler shoulder (two,1,imaging
+587558,u/s & doppler testicular,1,imaging
+587559,u/s & doppler trans cranial,1,imaging
+587560,u/s & doppler tvs,1,imaging
+587561,u/s & doppler vein extremity. bilateral,1,imaging
+587562,u/s & doppler vein extremity. unilatera,1,imaging
+587563,u/s & doppler vein extremity. unilateral,1,imaging
+587564,u/s & doppler wrist (one,1,imaging
+587565,u/s & doppler wrist (two,1,imaging
+587566,"u/s ( hip, thigh, knee, leg, foot, ankle",1,imaging
+587567,"u/s ( hip, thigh, knee, leg,foot, ankle",1,imaging
+587568,"u/s ( hip, thigh, knee, leg,foot, ankle,toe",1,imaging
+587569,"u/s ( shoulder, arm, forarm, elbow",1,imaging
+587570,"u/s ( shoulder, arm, forearm, elbow",1,imaging
+587571,"u/s ( wrist, hand, finger",1,imaging
+587572,"u/s (hip,thigh,knee,leg,foot,ankle,toes",1,imaging
+587573,"u/s (shoulder, arm, forearm, elbow",1,imaging
+587574,"u/s (wrist, hand, finger",1,imaging
+587575,"u/s , pelvic (nonobstetric), real time w/ image documentation; complete",1,imaging
+587576,u/s - scrotum,1,imaging
+587577,u/s - ( 1 area ) (service + disposables + kits,1,imaging
+587578,u/s - 4d ultrasound,1,imaging
+587579,u/s - 4d ultrasound - 062-15985,1,imaging
+587580,u/s - abdomen,1,imaging
+587581,u/s - abdomen complete,1,imaging
+587583,u/s - abdomen complete upper and pelvis,2,imaging
+587584,u/s - abdomen complete _upper and pelvis_,2,imaging
+587592,u/s - abdomen complete? (upper and pelvis,1,imaging
+587593,u/s - abdomen-upper,1,imaging
+587594,u/s - abdomen-upper (liver and gall bladder and pancreas and sp,1,imaging
+587595,u/s - abdomen-upper (liver gall bladder pancreas sp,2,imaging
+587597,"u/s - abdomen-upper (liver,gall bladder,pancreas,s",2,imaging
+587602,"u/s - abdomen-upper (liver,gall bladder,pancreas,spultrasound",1,imaging
+587603,u/s - abdomen-upper (livergalbladderl,1,imaging
+587604,u/s - abdomen-upper (livergall blad,1,imaging
+587609,"u/s - abdomen-upper liver,gall bladder,pancreas,sp",1,imaging
+587610,u/s - abdomen-upper livergall bladderpancreassp,1,imaging
+587611,"u/s - abdomen-upper _liver,gall bladder,pancreas,sp",1,imaging
+587612,u/s - abdomen-upper _livergall bladderpancreassp,1,imaging
+587613,"u/s - abdomen-upper(liver,gall bladder,pancreas,sp",1,imaging
+587614,u/s - abdominal,1,imaging
+587615,u/s - abdominal (062-15000,1,imaging
+587616,u/s - abdominal - 073-15000,1,imaging
+587617,u/s - amniocentesis,1,imaging
+587618,u/s - amniocentesis-complete procedure,1,imaging
+587619,u/s - any part of the body / organ,1,imaging
+587620,u/s - any part of the body or organ unilateral,1,imaging
+587625,u/s - biophysical profile,1,lab_test
+587626,u/s - biophysical profile & fetal morpho - detailed obstetric,1,lab_test
+587627,u/s - breast,1,imaging
+587628,u/s - breast (062-15009,1,imaging
+587631,u/s - breast (each,1,imaging
+587632,u/s - breast bilateral,1,imaging
+587633,u/s - breast u/s,1,imaging
+587634,u/s - breast u/s - 063-15009,1,imaging
+587635,u/s - by doc,1,imaging
+587636,u/s - carotid,1,imaging
+587637,u/s - cd abdominal vessesl,1,imaging
+587638,u/s - cd carotid or 4 vessesl,1,imaging
+587639,u/s - cd carotid or 4 vessesl #medgulf,1,imaging
+587640,u/s - cd carotid or 4 vessesl - 062-14929,1,imaging
+587641,u/s - cd lower limbs artery & vein bilateral,1,imaging
+587642,u/s - cd lower limbs artery & vein bilateral - 062-14928,1,imaging
+587643,u/s - cd lower limbs artery & vein unilateral,1,imaging
+587644,u/s - cd lower limbs artery & vein unilateral - 062-14927,1,imaging
+587645,u/s - cd lower limbs artery bilateral,1,imaging
+587646,u/s - cd lower limbs artery unilateral,1,imaging
+587647,u/s - cd lower limbs veins bilateral,1,imaging
+587648,u/s - cd lower limbs veins bilateral (062-14924,1,imaging
+587649,u/s - cd lower limbs veins bilateral - 062-14924,1,imaging
+587650,u/s - cd lower limbs veins unilateral,1,imaging
+587651,u/s - cd lower limbs veins unilateral - 062-14923,1,imaging
+587652,u/s - cd lower upper limbs veins bilateral,1,imaging
+587653,u/s - cd lower/upper limbs artery bilateral,1,imaging
+587654,u/s - cd lower/upper limbs artery & vein bilateral,1,imaging
+587655,u/s - cd lower/upper limbs artery & vien unilateral,1,imaging
+587656,u/s - cd lower/upper limbs artery unilateral,1,imaging
+587657,u/s - cd lower/upper limbs veins unilateral,1,imaging
+587658,u/s - cd renal including artery & vein,1,imaging
+587659,u/s - cd renal including artery & vein - 062-14932,1,imaging
+587660,u/s - chest,1,imaging
+587661,u/s - combined abdominal & pelvic u/s,1,imaging
+587662,u/s - combined abdominal & pelvic u/s # 062-15004,1,imaging
+587663,u/s - combined abdominal & pelvic u/s (062-15004,1,imaging
+587664,u/s - combined abdominal & pelvic u/s - 062-15004,1,imaging
+587665,u/s - confirmatory f/up,1,imaging
+587666,u/s - doppler (only for pregnancy,1,imaging
+587667,u/s - doppler (only for pregnancy) # 062-14933,1,imaging
+587668,u/s - doppler - carotid 1 side,1,imaging
+587669,u/s - doppler - extreme 2 sides - arterial,1,imaging
+587670,u/s - doppler - varicose veins extreme 1 side,1,imaging
+587671,u/s - doppler - varicose veins extreme 2 sides,1,imaging
+587672,u/s - doppler - visceral,1,imaging
+587673,u/s - doppler -dvt extreme 1 side - venous,1,imaging
+587674,u/s - doppler -dvt extreme 2 sides - venous,1,imaging
+587675,u/s - doppler / duplex scan,1,imaging
+587676,u/s - doppler / duplex scan - 062-14235,1,imaging
+587677,u/s - doppler carotid 2 sides,1,imaging
+587678,u/s - doppler extreme - 1 side - arterial,1,imaging
+587679,u/s - doppler jugular veins bilateral,1,imaging
+587680,u/s - doppler upper limp (left side) arterial & venous,1,imaging
+587681,u/s - doppler upper limp (right side) arterial & venous,1,imaging
+587682,u/s - doppler extremity - 1 side,1,imaging
+587683,u/s - doppler extremity - 2 side,1,imaging
+587684,u/s - doppler for knee,1,imaging
+587685,u/s - extremity(non-vascular,1,imaging
+587686,u/s - fetal biophysical profile,1,lab_test
+587687,u/s - fetal echocardiography,1,imaging
+587688,u/s - fine needle aspiration ( fna ) with disposable,1,supplies
+587689,u/s - folliculometry scan (one session,1,imaging
+587690,u/s - folliculometry scan (three sessions,1,imaging
+587691,u/s - genitalia (scrotum&contents,1,imaging
+587692,u/s - genitalia (scrotum&contents) ( testes,3,imaging
+587693,u/s - genitalia (scrotumandcontents)(testes,1,imaging
+587694,u/s - genitalia scrotum and contents testes,1,imaging
+587695,u/s - guided fine needle aspiration with true cut biopsy,1,supplies
+587696,u/s - guided true cut with biopsy,1,procedure
+587698,u/s - head neck soft tissue(thyroid-parth-parotid,1,imaging
+587699,u/s - head and neck soft tissuethyroid-parth-parotid,1,imaging
+587700,u/s - head&neck soft tissue(thyr-parth-parotid,1,imaging
+587701,u/s - head&neck soft tissue(thyroid-parth-parotid,4,imaging
+587703,u/s - head&neck soft tissue_thyroid-parth-parotid_,1,imaging
+587704,u/s - headandneck soft tissue(thyroid-parth-parotid,1,imaging
+587705,u/s - high risk ltd(ges.age-plac.loc-fetal pos,1,imaging
+587706,u/s - hip scan ultrasound,1,imaging
+587707,u/s - hip scan ultrasound - 062-14974,1,imaging
+587708,u/s - hips,1,imaging
+587709,u/s - head&neck soft tissue (thyroid-parth-parotid,1,imaging
+587711,u/s - infert. w/up(follicless) each visit,1,consultation
+587712,u/s - inguinal region,1,imaging
+587713,u/s - joint,1,imaging
+587714,u/s - joint u/s,1,imaging
+587715,u/s - joint ultrasound,1,imaging
+587716,u/s - joint ultrasound - 063-15007,1,imaging
+587717,u/s - kub+kidney and urinary bladder,1,imaging
+587718,u/s - miscellaneous u/s,1,imaging
+587719,u/s - miscellaneous u/s - 062-14954,1,imaging
+587720,u/s - neck,2,imaging
+587721,u/s - neck (062-15027,1,imaging
+587722,u/s - neck - 063-15027,1,imaging
+587723,u/s - neonatal brain,1,imaging
+587724,u/s - neonatal cerebral u/s,1,imaging
+587725,u/s - neonatal cerebral u/s # 062-15005,1,imaging
+587726,u/s - neonatal cerebral u/s - 063-15005,1,imaging
+587728,u/s - parotid gland,1,imaging
+587730,u/s - pelvic area (doppler,1,imaging
+587731,u/s - pelvic ultrasound,1,imaging
+587732,u/s - pelvic ultrasound # 062-15995,1,imaging
+587733,u/s - pelvic ultrasound (062-15995,1,imaging
+587734,u/s - pelvic ultrasound - 063-15995,1,imaging
+587738,u/s - pelvis doppler,1,imaging
+587741,u/s - portable,1,imaging
+587742,u/s - preg uterus / obestetrics,1,imaging
+587743,u/s - preg uterus / obestetrics (fetal&maternal ev,2,imaging
+587744,u/s - preg uterus / obestetrics (fetal&maternal evaluation,5,consultation
+587747,u/s - preg uterus / obestetrics (fetalandmaternal evaluation,1,consultation
+587748,u/s - preg uterus / obestetrics fetal and maternal evaluation,1,consultation
+587749,u/s - preg uterus /obestetrics,1,imaging
+587750,u/s - preg uterus/obstetrics,1,imaging
+587751,u/s - pregnancy + doppler,1,imaging
+587752,u/s - pregnancy + doppler # 062-14941,1,imaging
+587753,u/s - pregnancy + doppler - 062-14941,1,imaging
+587754,u/s - pregnant uterus (fetal&maternal evaluation,1,consultation
+587755,u/s - prostate-transrectal,1,imaging
+587756,u/s - parotid,1,imaging
+587759,u/s - renal ultrasonography,1,imaging
+587760,u/s - renal ultrasonography # 062-15008,1,imaging
+587761,u/s - renal ultrasonography - 062-15008,1,imaging
+587762,"u/s - retroperitioneal (ivc,oarta,nodes",1,imaging
+587763,u/s - retroperitoneal,1,imaging
+587764,u/s - scan of inguinal region,1,imaging
+587765,u/s - single organ or quadrant,1,imaging
+587766,u/s - submandibular u/s,1,imaging
+587767,u/s - submandibular u/s - 062-14947,1,imaging
+587768,u/s - soft tissue,1,imaging
+587769,u/s - tens - cold p. - ex,1,physiotherapy
+587770,u/s - testicular,1,imaging
+587771,u/s - testicular scrotum u/s,1,imaging
+587772,u/s - testicular scrotum u/s (062-14984,1,imaging
+587773,u/s - testicular scrotum u/s - 063-14984,1,imaging
+587774,u/s - thyroid,2,imaging
+587775,u/s - thyroid (062-15006,1,imaging
+587776,u/s - thyroid u/s,1,imaging
+587777,u/s - thyroid ultra sound,1,imaging
+587778,u/s - to check iucd ultrasound,1,imaging
+587779,u/s - to check iucd ultrasound - 062-14810,1,imaging
+587780,u/s - trans vaginal echography,1,imaging
+587781,u/s - trans vaginal scan,1,imaging
+587783,"u/s - ultrasound biopsy, fine needle aspiration (fna",1,imaging
+587784,u/s - ultrasound miscellaneous fine needle aspiration (fna,1,imaging
+587785,"u/s - ultrasound miscellaneous, fine needle aspiration (fna",1,imaging
+587786,"u/s - ultrasound penile artery, cd",1,imaging
+587788,u/s - ultrasound pregnancy (062-15992,1,imaging
+587789,u/s - ultrasound pregnancy - 063-15992,1,imaging
+587790,u/s - ultrasound prostate,1,imaging
+587791,u/s - ultrasound prostate - 062-15993,1,imaging
+587792,u/s - ultrasound testes,1,imaging
+587793,u/s - ultrasound testes - 062-14922,1,imaging
+587794,u/s - ultrasound transvaginal,1,imaging
+587795,u/s - ultrasound transvaginal - 072-15020,1,imaging
+587796,u/s - ultrasound twin pregnancy,1,imaging
+587797,u/s - unlisted-region of interest,1,other
+587798,u/s - urinary tract,1,imaging
+587799,u/s - urinary tract ultrasound,1,imaging
+587800,u/s - urinary tract ultrasound (062-15998,1,imaging
+587801,u/s - urinary tract ultrasound - 062-15998,1,imaging
+587802,u/s - urinary tract(kidneys and urinary blder,2,imaging
+587805,u/s - urinary tractkidneys and urinary blder sonogram us,1,imaging
+587806,u/s - urinary tract_kidneys and urinary blder _ sonogram us_,1,imaging
+587807,u/s -abdomen (kidneys,1,imaging
+587808,"u/s -abdomen -upper (liver, gall bladder,pancreas, sp",1,imaging
+587810,u/s -doppler extreme 1 side - venous dvt,1,imaging
+587811,u/s -preg uterus/obstetrics (fetal & maternal evaluation,1,consultation
+587813,u/s .breast,1,imaging
+587814,u/s 3d,1,imaging
+587815,u/s 3d 4d obstetric,1,consultation
+587817,u/s 4d by doctor,1,consultation
+587818,u/s 4d referral,1,imaging
+587819,u/s ??doppler ??for neck,1,imaging
+587820,u/s ??doppler ??major vsls complete,1,imaging
+587821,u/s ??doppler ??major vsls limited,1,imaging
+587823,u/s abd and pelvis,2,imaging
+587826,u/s abd. and pelvis,1,imaging
+587827,u/s abdoman,1,imaging
+587829,u/s abdomen & pelvis (male,1,imaging
+587830,u/s abdomen & pelvis combined,1,imaging
+587831,u/s abdomen (detailed,1,imaging
+587832,u/s abdomen (lower or upper,3,imaging
+587833,u/s abdomen (upper,2,imaging
+587834,u/s abdomen (whole,3,imaging
+587835,u/s abdomen + pelvis,2,imaging
+587836,u/s abdomen +pelvis,1,imaging
+587837,u/s abdomen and pelvis,5,imaging
+587838,u/s abdomen complete,1,imaging
+587839,u/s abdomen complete ( upperand pelvis,1,imaging
+587840,u/s abdomen complete (upper and pelvis,3,imaging
+587842,u/s abdomen complete upper and pelvic,1,imaging
+587843,u/s abdomen general,3,imaging
+587844,u/s abdomen kub,1,imaging
+587845,u/s abdomen scan,1,imaging
+587846,u/s abdomen upper,1,imaging
+587847,u/s abdomen upper livergall bldderpancreassp,1,imaging
+587849,u/s abdomenopelvic,1,imaging
+587850,u/s abdomenopelvis,1,imaging
+587851,u/s abdomenupper (livergall bladderpancreassp,2,imaging
+587852,u/s abdomin,2,imaging
+587853,u/s abdominal,1,imaging
+587854,u/s abdomino-pelvis,1,imaging
+587855,u/s abdomin\pelvis,1,imaging
+587856,u/s absccust drain or biopsy,1,procedure
+587857,u/s and doppler any organ,1,imaging
+587858,u/s and doppler breast (2,1,imaging
+587859,u/s and doppler carotid bilateral,2,imaging
+587860,u/s and doppler muscle (1,1,imaging
+587861,u/s and doppler of salivary glands (parotid and submandibular,1,imaging
+587862,u/s antenatal scan,1,imaging
+587863,u/s any organ,3,imaging
+587864,u/s any part of the body,2,imaging
+587865,u/s any part of the body / organ,1,imaging
+587866,u/s axilla,1,imaging
+587867,u/s abd & pelvis,1,imaging
+587868,u/s abd &pelvis,1,imaging
+587870,u/s abd&urinary & kub,1,imaging
+587871,u/s abd. & pelvis,3,imaging
+587874,u/s abdomem,2,imaging
+587884,u/s abdomen/any part of body,1,imaging
+587887,u/s abdominal-pelvic,1,imaging
+587888,u/s abdomino-pelvic,1,imaging
+587889,u/s and doppler breast or any organ,1,imaging
+587890,u/s anomaly scan,1,imaging
+587892,u/s any organ(neck-muscles-joins-axilla-groin-subcutaneous tissue,1,imaging
+587893,u/s any part of body,2,imaging
+587894,u/s biophysical profile(b.p.p,1,lab_test
+587895,u/s bladder,1,imaging
+587896,u/s both breast,1,imaging
+587897,u/s both breasts,1,imaging
+587898,u/s both kidnies,1,imaging
+587899,u/s both kidnies and bladder,1,imaging
+587900,u/s both kidnies / bladder,1,imaging
+587901,u/s both testis,1,imaging
+587902,u/s brain,1,imaging
+587903,u/s brain (transfontaneller) / cranial,1,imaging
+587904,u/s breaast bilateral,1,imaging
+587905,u/s breast,4,imaging
+587906,u/s breast - 1 side,1,imaging
+587907,u/s breast - 2 sides,1,imaging
+587908,u/s breast - one side,1,supplies
+587909,u/s breast - two sides,1,imaging
+587910,u/s breast and mamogram combined,1,imaging
+587911,u/s breast bilateral,2,imaging
+587912,u/s breast both sides,1,imaging
+587913,u/s breast one side,1,supplies
+587914,u/s breast two sides,1,imaging
+587916,u/s breast-u/s breast,2,imaging
+587917,u/s breasts,1,imaging
+587918,u/s body/organ/abdmn/pelvis,1,imaging
+587923,u/s brest and throyid,1,imaging
+587924,u/s carotid artery,1,imaging
+587925,u/s carotid doppler two sides,1,imaging
+587926,u/s carotid doppler two sides-u/s carotid doppler two sides,1,imaging
+587927,u/s carotid&tcd&vert.basic w/ dyna,1,imaging
+587928,u/s cranial,1,imaging
+587929,u/s diagonostic one organ,1,supplies
+587930,u/s dopler kidneys & renal vessels,1,imaging
+587931,u/s doppler - extreme 2 sides - arterial / venous,1,imaging
+587932,u/s doppler art lwr extremity bilateral,1,imaging
+587933,u/s doppler art lwr extremity unilateral,1,imaging
+587934,u/s doppler art up/lwr extremity unilateral,1,imaging
+587935,u/s doppler arterial both side,1,imaging
+587936,u/s doppler arterial one side,1,imaging
+587937,u/s doppler carotid,1,imaging
+587938,u/s doppler carotid 2 sides,1,imaging
+587939,u/s doppler carotid bilateral,1,imaging
+587941,u/s doppler for both mandible,1,imaging
+587942,u/s doppler for both shoulders or scapula,2,imaging
+587945,u/s doppler for mandible,1,imaging
+587948,u/s doppler for one vessel,1,imaging
+587951,u/s doppler for shoulder or scapula,4,imaging
+587955,u/s doppler pregnancy,1,imaging
+587956,u/s doppler scan any part of body 1 side,1,imaging
+587957,u/s doppler scrotum,2,imaging
+587958,u/s doppler vein extremity bilateral,1,imaging
+587959,u/s doppler vein extremity unilateral,1,imaging
+587960,u/s doppler vein extretmity unilat - t93971,1,imaging
+587961,u/s doppler venous both side,1,imaging
+587962,u/s doppler venous one side,1,imaging
+587964,u/s doppler vein extretmity bilat ( moh,1,imaging
+587965,u/s echocardiography doppler-u/s echocardiography doppler,1,imaging
+587966,u/s endovaginal,2,imaging
+587967,u/s examinaiton for appendicitis,1,imaging
+587968,u/s examinaiton for pyloric stenosis,1,imaging
+587969,u/s examinaiton for renal anomalies,1,imaging
+587970,u/s examination for abdominal mass,1,consultation
+587971,u/s examination for hernia,1,procedure
+587972,u/s examination for undescended testicles,1,consultation
+587974,u/s extremities (muscles-tendon-joints) bilateral,1,imaging
+587975,u/s extremity doppler (both sides)-u/s extremity doppler (both sides,1,imaging
+587976,u/s extremity doppler (one side)-u/s extremity doppler (one side,1,imaging
+587977,u/s extremity doppler artirial (both side,1,imaging
+587978,u/s extremity doppler artirial (one side,1,imaging
+587979,u/s extremity doppler both sides,1,imaging
+587980,u/s fetal growh measurment,1,imaging
+587981,u/s folliculometry,2,imaging
+587982,u/s folliculometry (1,1,imaging
+587983,u/s for abdomen,1,imaging
+587984,u/s for any superfacial organ,1,imaging
+587985,u/s for breast,1,imaging
+587986,u/s for follow up,1,consultation
+587987,u/s for follow up pregnancy,1,consultation
+587988,u/s for pelvis,1,imaging
+587989,u/s for pelvis and abdomen,1,imaging
+587990,u/s for pregnancy,1,imaging
+587991,u/s for pregrency,1,imaging
+587992,u/s for prostate & both kidneys,1,imaging
+587993,u/s for scrotum,1,imaging
+587994,u/s for thyroid gland,1,imaging
+587995,u/s fetal anomaly scan,1,imaging
+587996,u/s fetal biophysical profile,1,lab_test
+587998,u/s forign body,1,imaging
+587999,u/s guided aspiration cyst,1,procedure
+588000,u/s guided aspiration of renal cyst,1,procedure
+588001,u/s guided biopsy,2,procedure
+588002,u/s guided biopsy asp,1,procedure
+588003,u/s guided central ve?ous catheter insertion,1,supplies
+588004,u/s guided central veinous catheter insertion,1,supplies
+588005,u/s guided central venous catheter insertion,1,supplies
+588006,u/s guided core biopsy by interventional radiologist,1,dental
+588007,u/s guided drainage,3,procedure
+588008,u/s guided drainage (ir,1,procedure
+588011,u/s guided fine needle aspiration,1,supplies
+588013,u/s guided needle biopsy,1,supplies
+588014,u/s guided nephrostomy,1,procedure
+588015,u/s guided pleural/ascitic toping,1,imaging
+588016,u/s guided true cut needle biopsy,1,supplies
+588018,"u/s guided biopsy, breast, with insertion of tissue marker",1,procedure
+588019,u/s guided permanent catheter g.a. p/d,1,supplies
+588020,u/s hip joint one side u-s,1,supplies
+588021,u/s hips,1,imaging
+588022,u/s hip neonatal screening,1,lab_test
+588023,u/s joints and muscles,1,imaging
+588024,u/s joint,1,imaging
+588025,u/s kidney & ub,1,imaging
+588026,u/s kidney doppler-u/s kidney doppler,1,imaging
+588027,u/s kidney imaging,1,imaging
+588028,u/s kidneys,2,imaging
+588029,u/s kidneys & pelvis,1,imaging
+588030,u/s kidneys and pelvis,1,imaging
+588031,u/s kidneys and ub,2,imaging
+588032,u/s knee,2,imaging
+588033,u/s knee joint,1,imaging
+588034,u/s knee popliteal fossa,2,imaging
+588035,u/s kub,1,imaging
+588036,u/s kub & urinary,2,imaging
+588037,u/s kidney doppler,1,imaging
+588038,u/s kidney transplant doppler,1,imaging
+588041,u/s la abdomen or pelvis,1,imaging
+588042,u/s left foot,1,imaging
+588043,u/s left hand,1,imaging
+588044,u/s left hip joint,1,imaging
+588045,u/s left knee joint,1,imaging
+588046,u/s left wrist,1,imaging
+588047,u/s leg (dvt,1,imaging
+588048,u/s liver doppler-u/s liver doppler,1,imaging
+588049,u/s lower abdomen,1,imaging
+588050,u/s lymphnodes-u/s lymphnodes,1,imaging
+588051,u/s liver-u/s liver,1,imaging
+588052,u/s machine usage charges per hour,1,supplies
+588053,u/s msk,1,imaging
+588054,u/s muscles,1,imaging
+588055,u/s musculo-skeletal (any region)-u/s musculo-skeletal (any region,1,imaging
+588056,u/s musculoskeletal ( any region,1,imaging
+588058,u/s neck & thyroid,1,imaging
+588059,u/s neck soft tissue,1,imaging
+588060,u/s neck soft tissue-u/s neck soft tissue,1,imaging
+588061,u/s neck thyroid,1,imaging
+588062,u/s neck with doppler,1,imaging
+588063,u/s neonatal head,1,imaging
+588066,u/s neck(l.n,2,imaging
+588068,u/s ob/gyn clinical ultrasound,1,imaging
+588069,u/s obst,1,imaging
+588070,u/s obstetric,2,consultation
+588071,u/s obstetric doppler,1,imaging
+588072,u/s obstetric requested by,1,consultation
+588073,u/s obstetrics,1,imaging
+588074,u/s of a part of the body/organ/abdomen/pelvis,1,imaging
+588075,u/s of abdomen,2,imaging
+588076,u/s of an part of the bode/organ/abdomen/pelvis,1,imaging
+588077,u/s of an part of the body/organ/abdomen/pelvis,1,imaging
+588078,u/s of breast,1,imaging
+588079,u/s of foetus,1,imaging
+588080,u/s of kidneys with doppler,1,imaging
+588081,u/s of superficial structured,2,imaging
+588082,u/s of the part of the body/abdomen/organ/pelvis,1,imaging
+588083,u/s of thyroid,2,imaging
+588084,u/s of urinary system,1,imaging
+588085,u/s one organ,1,supplies
+588086,u/s orbit,1,imaging
+588087,u/s obstetric (20 - 25 weeks,1,consultation
+588088,u/s obstetric (pregnancy,1,consultation
+588089,u/s obstetric (pregnancy) / u/s abdo/pelvis for other pregnancy cond,1,consultation
+588090,u/s obstetric +doppler,1,imaging
+588091,u/s obstetric first trimester,1,consultation
+588092,u/s obstetric first trimester - موجات صوتية,1,imaging
+588093,u/s obstetric first trimester multiple pregnancy,1,consultation
+588094,u/s obstetric second trimester,1,consultation
+588095,u/s obstetric second trimester multiple pregnancy,1,consultation
+588096,u/s obstetric third trimester,1,consultation
+588097,u/s obstetric third trimester - موجات صوتية,1,imaging
+588098,u/s obstetric third trimester multiple pregnancy,1,consultation
+588100,u/s pelviabdominal,1,imaging
+588101,u/s pelvic,2,imaging
+588102,u/s pelvic (non- obstetric,1,consultation
+588103,u/s pelvic / pelvis,1,imaging
+588104,u/s pelvic complete,1,imaging
+588105,u/s pelvic/pelvis,2,imaging
+588107,u/s pelvis (female)-u/s pelvis (female,1,imaging
+588108,u/s pelvis (male)-u/s pelvis (male,1,imaging
+588109,u/s pelvis - 1235,1,imaging
+588110,u/s pelvis both hips,1,imaging
+588113,u/s preg,1,imaging
+588115,u/s pregnancy (2d,4,imaging
+588116,u/s pregnancy and abdomen,1,imaging
+588117,"u/s pregnant uterus; real time w/image documentation, fetal&maternal evaluation, 1st trimester, transabdominal approach;each add'l gestation",1,consultation
+588118,"u/s pregnant uterus;real time w/ image documentation, fetal&maternal evaluation, 1st trimester, transabdominal approach, single / first gestation",1,consultation
+588119,"u/s pregnant uterus;real time w/ image documentation, fetal&maternal evaluation, plus fetal anatomic exam, transabdominal approach; add'l gestation",1,consultation
+588120,"u/s pregnant uterus;real time w/ image documentation, fetal&maternal evaluation, plus fetal anatomic exam, transabdominal approach; single / first gestation",1,consultation
+588121,u/s prostate & both kidneys,2,imaging
+588123,u/s parotid & salivary gland,1,imaging
+588124,u/s parotid gland,1,imaging
+588125,u/s pelvi-abdominal,1,imaging
+588127,u/s plevis,2,imaging
+588131,u/s pregnancy - 4d,1,imaging
+588132,u/s prostate and bladder,1,imaging
+588133,u/s prostate transrectal,1,imaging
+588134,u/s right ankle joint,1,imaging
+588135,u/s right knee joind,1,imaging

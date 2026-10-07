@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+423676,"open treatment, carpal bone fracture (excluding carpal scaphoid (navicular)), each bone",1,imaging
+423677,"open treatment, carpal scaphoid (navicular) fracture,w/wo int/ext foxation",1,other
+423678,"open treatment, depressed malar fx, w/ zygomatic arch & malar tripod",1,dental
+423679,"open treatment, trimalleolar ankle fracture,w/wo int/ext fixation, medial/lateral malleolus, w/o fixation,posterior lip",1,procedure
+423680,"open treatment/repair of nonunion or malunion, fibula - tibia - patella with iliac or other graft",1,procedure
+423681,"open treatment/repair of nonunion or malunion, humerus, femure ,hip with iliac or other graft",1,procedure
+423682,open tubal pregnancy excision,1,procedure
+423683,open tx depressed zygomatic arch fracture,1,dental
+423685,open ureterolithotomy (including cystoscopy,1,procedure
+423686,open urethroplasty with buccal mucosal flap - 3 days pkg,1,procedure
+423687,open wound leg surgical surgical management -4 days pkg,1,procedure
+423688,open.reduc. w/ int/fix. frac. achronic clavicular joint,1,other
+423689,open/surgical extraction,1,dental
+423690,opened a large abscess-16005,1,procedure
+423691,opening a tray (disp,1,other
+423692,opening clean & excl.of a chalazion surg,2,other
+423694,opening of an abscess,1,procedure
+423695,opening of concha bullosa endoscopic (unilateral or bilateral,2,procedure
+423697,opening of cranial suture for cranio-facial synost->c02.01-b,1,supplies
+423698,opening of cranial suture for craniofacial synost,1,supplies
+423699,opening of large abcess,1,other
+423700,opening of pyogenic paropychia,1,other
+423701,opening of stye,2,procedure
+423702,oper mini (a) nail extra l.a,1,supplies
+423703,oper mini (b) surface lesions l.a,1,lab_test
+423704,oper. mini (b) suture l.a,1,supplies
+423705,oper. mini(a) biopsy l,1,procedure
+423706,oper. minor (a) nail extrac.l.a,1,supplies
+423707,oper. minor (b) suture l.a,1,supplies
+423708,oper.mini (a)incision- l.a,1,procedure
+423709,oper.mini (b) incision & drainage,1,procedure
+423710,oper.mini (b) suture-l.a,1,supplies
+423711,oper.mini(a) nail extr. l.a,1,supplies
+423712,oper.mini(b) incision drainage,1,procedure
+423713,operating room - fine major operation,1,procedure
+423714,operating room - major operation,1,procedure
+423715,operating room - medium operation,1,procedure
+423716,operating room - minor operation,1,procedure
+423717,operating room - ultra fine major operation,1,procedure
+423718,operating room 1 hour,1,consultation
+423719,operating room 15 minutes,1,consultation
+423720,operating room 25% of operation fee ( s.r. 150.00 min,1,procedure
+423721,operating room 30 minutes,1,consultation
+423722,operating room charge,1,consultation
+423723,operating room charge 30 mts,1,consultation
+423724,operating room charges,1,consultation
+423725,operating room charges thied hour,1,consultation
+423726,operating room fee (30% of procedure fee,1,consultation
+423727,operating room fee - minor,1,consultation
+423728,operating room fee - minor-11-26-2100,1,consultation
+423729,operating room fees,1,consultation
+423730,operating room fees ( 20% of surg fee,1,consultation
+423731,operating room per hour / 1st hour,1,consultation
+423732,operating room per hour / each subsequnt 1/2 an hour,1,consultation
+423733,operating room service,1,consultation
+423734,operation dressing,1,supplies
+423735,operation extracular 2 muscl horizantal,1,procedure
+423736,operation fine major - doctor fees,1,procedure
+423737,operation for carpal tunnel syndrome (one side,1,supplies
+423738,operation for carpal tunnel syndrome (one side) -a,1,supplies
+423739,operation for carpal tunnel syndrome one,1,supplies
+423740,operation for carpal tunnel syndrome one side,3,supplies
+423741,operation for carpal tunnel syndrome unilateral,1,procedure
+423742,operation for carpel tunnel syndrome one side,1,supplies
+423743,operation for carpel tunnel syndrome one side - pkg 1 day,1,supplies
+423744,operation for carpel tunnel syndrome one side1days,1,supplies
+423745,operation for chronic anal fissure,1,procedure
+423746,operation for ingrowing nail,2,supplies
+423747,operation for malignant tumor in ( e.n.t,1,procedure
+423748,operation for malignant tumour in ent,1,procedure
+423749,operation for reccurent dislocation of shoulder,2,procedure
+423751,operation for recurrent disloc shoulder,1,procedure
+423752,operation for recurrent dislocation of shoulder,2,procedure
+423753,operation for recurrent dislocation shoulder,2,procedure
+423754,operation for recurrent shoulder dislocation - 5 days pkg,1,procedure
+423755,operation foreign body,1,procedure
+423756,operation major - doctor fees,1,procedure
+423757,operation medium doctor fees,1,procedure
+423758,operation medium - doctor fees,1,procedure
+423759,operation minor - doctor fees,1,procedure
+423760,operation of carpal tunnel syndrome,2,procedure
+423761,operation of carpal tunnel syndrome (one side) - 1 day pkg,1,supplies
+423762,operation of mini (a) suture l.a,1,supplies
+423763,operation of recurrent dislocation shoulder,2,procedure
+423764,operation on 1 extraocular muscle,1,procedure
+423765,operation on 2 extraocluar muscle,2,procedure
+423766,operation on 2 extraocular muscle,2,procedure
+423767,operation on 2 or more extraocular muscles (1 or both eyes) - 1 day pkg,1,procedure
+423768,operation on extraocular muscles (1 or both eyes) - package,1,procedure
+423769,operation on horixontal & vertical muscles,1,procedure
+423770,operation on horizontal & oblique muscles,2,procedure
+423771,operation on horizontal & vertical muscles,1,procedure
+423772,operation on more than 2 ext. muscle,2,procedure
+423773,operation on vocal cordssnc,1,procedure
+423774,operation room,1,procedure
+423775,operation room 1st 1/2 hour,1,procedure
+423776,operation room charges (medium surgery,1,procedure
+423777,operation room charges (minor surgery,1,procedure
+423778,operation room charges fine major,1,procedure
+423779,operation room charges major,1,procedure
+423780,operation room charges medium,1,procedure
+423781,operation room charges minor,1,procedure
+423782,operation room charges minor/hour,1,procedure
+423783,operation room charges simple,1,procedure
+423784,operation room for major cases / hr,1,procedure
+423785,operation room for medium cases / hr,1,procedure
+423786,operation room for minor cases / hr,1,procedure
+423787,operation simple - doctor fees,1,procedure
+423788,operation trachoma conceretions,1,procedure
+423789,operation under ga,1,procedure
+423790,operation(s) on varicocele,1,procedure
+423791,"operations-carotid body, other vascular bodies",1,other
+423792,operative cystoscopy ( polypectomy - biopsy - diathermy,1,procedure
+423793,operative arthoscopy (other than knee) n,1,procedure
+423794,operative arthroscopy (ankle,1,procedure
+423795,operative arthroscopy (knee,1,procedure
+423796,operative arthroscopy (shoulder,1,procedure
+423797,operative arthroscopy (shoulder) (with implant,1,supplies
+423798,operative arthroscopy,1,procedure
+423799,operative correction of foot deformity with implants g.a.- (p.d,1,supplies
+423800,operative cystoscopy,1,procedure
+423801,operative endoscopy,1,procedure
+423802,operative hysteroscopy,1,procedure
+423803,"operative hysteroscopy ( ablation, polypectomy, myomectomy) - 1 day pkg",1,procedure
+423804,"operative hysteroscopy (ablation,polypectomy myomectomy",1,procedure
+423805,operative hysteroscopy maj,1,procedure
+423806,operative hysteroscopy min,1,procedure
+423807,operative laparoscopy,2,procedure
+423809,operative sheet,2,other
+423810,operative uretroscopy,1,procedure
+423811,operative uretroscopy including basket + laser,1,procedure
+423812,opercolectomy,2,procedure
+423813,operculectomy,3,procedure
+423814,operculectomy (around wis. t,1,procedure
+423815,operiodic oral examination,1,consultation
+423816,opersol2469v 48 1076,1,other
+423817,opevera,1,other
+423819,opg panorama panoramic,3,imaging
+423820,opg panoramapanoramic,1,imaging
+423821,opg ( panorama,1,imaging
+423822,opg ( panorama ) panoramic,4,imaging
+423825,opg - ??? ???? ????????,1,imaging
+423830,opg - panoramic x- ray,2,imaging
+423831,opg - panoramic xray,2,imaging
+423832,opg - panoramic x ray,1,imaging
+423834,opg - panoramic x-ray,2,imaging
+423835,opg - panoramic x-ray - bupa,1,imaging
+423837,opg - panoramic x-ray (if necessary & medivisa approval is obtained,1,imaging
+423839,opg - panoramic x.ray ( if necessary approval is obtained,1,imaging
+423840,opg -panoramic x-ray,1,imaging
+423841,opg -panoramic x-ray (if necessary medivisa approval is obtained,2,imaging
+423842,opg panoramic,1,imaging
+423843,opg panoramic x ray,2,imaging
+423844,opg panoramic x-ray,3,imaging
+423845,opg panoramic xray,1,imaging
+423848,opg panoramic x- ray ( if necessary approval is obtained,1,imaging
+423852,opg panoramic xray(medgulf,1,imaging
+423853,opg x ray,1,imaging
+423854,opg x- ray,1,imaging
+423855,opg x-ray,1,imaging
+423856,opg x-ray dcn-05,1,imaging
+423857,opg xray,1,imaging
+423858,opg _ panorama _ panoramic,1,imaging
+423859,opg- panoramic,1,imaging
+423860,opg- panoramic x-ray bupa,1,imaging
+423861,opg- panoramic x-ray(if necessary &medivisa approval is obtained,1,imaging
+423862,opg- panoramic x-ray,1,imaging
+423863,opg-panorama,1,imaging
+423864,opg-panoramic,1,imaging
+423866,opg-panoramic x-ray (dp,1,imaging
+423867,opg-panoramic x-ray (if necessary & medivisa approval is obt,1,imaging
+423868,opg-panoramic x-ray (if necessary & medivisa approval is obtained,3,imaging
+423869,opg-panorama x-ray,1,imaging
+423871,opg-panoramic x-ray (if necesgry approval is obtained,1,imaging
+423872,opg-panoramic x-ray (if necessar approval is obtained,1,imaging
+423874,opg-panoramic x-ray (if necessary & medivisa approval obtained,1,imaging
+423875,opg-panoramic x-ray (if necessary approval is obtained,1,imaging
+423876,opg-panoramic x-ray (if necessary and medivisa approval is o,1,imaging
+423877,opg-panoramic x-ray(if necessary & medivisa approval is obtained,1,imaging
+423881,opgx-ray(dcn-05,1,eyewear
+423882,opht consultation,1,consultation
+423883,ophth us b & quant a,1,lab_test
+423884,ophth.consoultion,1,other
+423886,ophthal. consultation,2,consultation
+423887,ophthal.with fundus examination,1,imaging
+423888,ophthalmic biometry,1,eyewear
+423889,"ophthalmic biometry by ul w iol power calc, bilateral",2,supplies
+423890,"ophthalmic biometry by ul w iol power calc, unilateral",2,supplies
+423891,"ophthalmic biometry by us, bilateral",2,eyewear
+423892,"ophthalmic biometry, intraocular lens power calculation",1,eyewear
+423893,"ophthalmic biometry, ultrasound echography, a-scan",1,imaging
+423894,"ophthalmic biometry, ultrasound echography, a-scan; w/ intraocular lens power c",1,imaging
+423895,"ophthalmic biometry, ultrasound echography, a-scan; w/ intraocular lens power ca",1,imaging
+423896,"ophthalmic biometry, ultrasound echography, a-scan; w/ intraocular lens power calculation",1,imaging
+423897,ophthalmic drape 214140,1,supplies
+423898,"ophthalmic echography, diagnostic: b-scan , orbit",1,imaging
+423899,ophthalmic examination,2,consultation
+423900,ophthalmic examination by consultant,2,consultation
+423901,ophthalmic fundus photograghy,2,imaging
+423904,ophthalmic pachymetry,1,eyewear
+423905,ophthalmic photography,4,eyewear
+423906,ophthalmic photography follow-up,1,eyewear
+423908,ophthalmic photograpy,1,eyewear
+423909,ophthalmic rop exam kit moria disposable - per pcs,1,supplies
+423910,ophthalmic slit knife angled 2.2mm,1,eyewear
+423911,ophthalmic ultrasound diagnosticcorneal pachymetry unilateral / bilateral,1,imaging
+423912,ophthalmic ultrasound diagnostic; quantitative a-scan only,1,imaging
+423913,"ophthalmic ultrasound, diagnostic, anterior segment u/s, b-scan/high resolutio",1,imaging
+423914,"ophthalmic ultrasound, diagnostic, anterior segment u/s, b-scan/high resolution",1,imaging
+423915,"ophthalmic ultrasound, diagnostic, anterior segment u/s, b-scan/high resolution biomicroscopy",1,imaging
+423916,"ophthalmic ultrasound, diagnostic,corneal pachymetry ,unilateral / bilateral",1,imaging
+423917,"ophthalmic ultrasound, diagnostic, bscan, unilateral",2,imaging
+423918,"ophthalmic ultrasound, diagnostic; b-scan(w/wo superimposed non-quantitative a",1,imaging
+423919,"ophthalmic ultrasound, diagnostic; corneal pachymetry, unilateral or bilateral, determination of corneal thickness",1,imaging
+423920,"ophthalmic ultrasound, diagnostic; quantitative a-scan only",1,imaging
+423921,"ophthalmic ultrasound,diagnostic;b-scan & quantitative a-scan ,same patient enc",1,imaging
+423922,"ophthalmic ultrasound,diagnostic;b-scan & quantitative a-scan ,same patient enco",1,imaging
+423923,ophthalmic ultrasounddiagnostic;b-scan & quantitative a-scan same patient enco,1,imaging
+423924,"ophthalmic us, diagnostic, bscan & quant ascan, bilateral",2,lab_test
+423925,"ophthalmic us, diagnostic, bscan & quant ascan, unilateral",2,lab_test
+423926,ophthalmic/fundus photography,1,imaging
+423927,ophthalmodynamometry,1,other
+423928,ophthalmogist consultant f/up,1,consultation
+423929,ophthalmogist consultant fee,1,consultation
+423930,ophthalmogist consultation,1,consultation
+423931,ophthalmogist specialist fee,1,consultation
+423932,ophthalmolgy consultation,1,consultation
+423933,"ophthalmological examination, bilateral",2,consultation
+423935,ophthalmologist,1,other
+423936,ophthalmologist concultant,1,other
+423937,ophthalmologist consultation,3,consultation
+423938,ophthalmologist registrar,1,other
+423939,ophthalmology cons. (co,1,consultation
+423940,ophthalmology cons. (s.sp,1,consultation
+423941,ophthalmology cons. (sp,1,consultation
+423942,ophthalmology consult,1,consultation
+423943,ophthalmology consultant,2,consultation
+423944,ophthalmology consultant consultation,2,consultation
+423945,ophthalmology consultant fee,2,consultation
+423946,ophthalmology consultant fee day,1,consultation
+423947,ophthalmology consultant fee-day,1,consultation
+423948,ophthalmology consultation,3,consultation
+423949,ophthalmology consultation (consultant,1,consultation
+423950,ophthalmology consultation(ip,1,consultation
+423951,ophthalmology consultation-specialist,2,consultation
+423952,ophthalmology consultations,1,other
+423953,ophthalmology consultations - consultant,1,consultation
+423954,ophthalmology exam iii,1,other
+423955,"ophthalmology exmination(auto refraction.iop.v.a,funds examination,slit lamp",1,eyewear
+423956,ophthalmology fee-consultant,1,consultation
+423957,ophthalmology fee-specialist 1st,1,consultation
+423958,ophthalmology laser therapy follow-up,1,physiotherapy
+423959,ophthalmology material cost used in o.r,1,lab_test
+423961,ophthalmology ocular plastic follow-up,1,eyewear
+423962,ophthalmology ocular plastic new follow-up,1,eyewear
+423963,ophthalmology ocular plastic post op visit,1,eyewear
+423964,ophthalmology peds follow-up,1,consultation
+423965,ophthalmology peds new follow-up,1,consultation
+423966,ophthalmology specialist,2,consultation
+423967,ophthalmology specialist 2,1,consultation
+423968,ophthalmology specialist consultation,1,consultation
+423969,ophthalmology specialist exam,1,consultation
+423970,ophthalmology specialist fee,2,consultation
+423971,ophthalmology specialist i exam,1,consultation
+423972,ophthalmology specialist on call,1,consultation
+423973,ophthalmology video consultations,1,other
+423974,ophthalmology walk-in follow-up,1,consultation
+423975,ophthalmology-1005-con,1,other
+423976,ophthalmoscopy,1,procedure
+423977,"ophthalmoscopy, extended, with retinal drawing (eg, for retinal detach",1,procedure
+423978,"ophthalmoscopy, extended, with retinal drawing (eg, for retinopathy of",1,procedure
+423979,ophthamology consultant on call,1,consultation
+423980,ophthamology consultant on duty,1,consultation
+423981,ophthamology specialist,2,consultation
+423982,ophthamology specialist on duty,1,consultation
+423984,opiates,2,other
+423985,opiates (urine,1,lab_test
+423986,opining personal file-axa,1,other
+423998,opizole 1% cream1%,1,other
+423999,opizole 1% cream1%cream15gtube1,1,other
+424000,opizole 1% cream1%cream20gtube1,1,other
+424006,opizole cr15g,1,other
+424019,"opizole-b cream1,0.05%",1,other
+424020,opizole-b cream20mg,1,other
+424021,opizole-b20g cr,1,other
+424022,opn 1 mini rite- level 1,1,lab_test
+424023,opn 2 mini rite- level 2,1,lab_test
+424024,"opn rdctn intrartclr fx calcaneum if, unilateral",1,procedure
+424025,opolo 2208495001,1,other
+424026,opolo 2209515001,1,other
+424027,oppo 1001 (l) ankle support,1,supplies
+424028,oppo 1001 (m) ankle support,1,supplies
+424029,oppo 1001 (xl) ankle support,1,supplies
+424030,oppo 1001 ankle support,1,supplies
+424031,oppo 1001 ankle support l/s,1,supplies
+424032,oppo 1001 ankle support m/s,1,supplies
+424033,oppo 1001 ankle support xl,1,supplies
+424034,oppo 1001 l ankle support 0032,1,supplies
+424035,oppo 1001 l ankle supt. 90032,1,supplies
+424036,oppo 1001 l/s ankel support,2,supplies
+424037,oppo 1001 m/s ankel support,1,supplies
+424038,oppo 1001 s/s ankel support,1,supplies
+424039,oppo 1001 xl/s ankel support,1,supplies
+424040,oppo 1003 ankle support m/s,1,supplies
+424041,oppo 1003 ankle support xl,1,supplies
+424042,oppo 1003 ankle support xl/s,1,supplies
+424043,oppo 1003 ankle support0100,1,supplies
+424044,oppo 1003 m/s ankle support,1,supplies
+424045,oppo 1003 xl/s ankle support,1,supplies
+424046,oppo 1004 (l) ankle support,1,supplies
+424047,oppo 1004 (m) ankle support,1,supplies
+424048,oppo 1004 (xl) ankle support,1,supplies
+424049,oppo 1004 ankle support,1,supplies
+424050,oppo 1004 ankle support l/s,1,supplies
+424051,oppo 1004 ankle support l0155,1,supplies
+424052,oppo 1004 ankle support m/s,1,supplies
+424053,oppo 1004 ankle support s/s,1,supplies
+424054,oppo 1004 ankle support xl,1,supplies
+424055,oppo 1004 ankle support0148,1,supplies
+424056,oppo 1004 l ankle supt. 90155,1,supplies
+424057,oppo 1004 l/s ankel support,1,supplies
+424059,oppo 1004 m ankle supt. 90148,1,supplies
+424060,oppo 1004 m/s ankel support,1,supplies
+424061,oppo 1004 s/s ankel support,1,supplies
+424062,oppo 1004 xl ankle support 0162,1,supplies
+424063,oppo 1004 xl ankle supt. 90162,1,supplies
+424064,oppo 1004 xl/s ankel support,1,supplies
+424065,oppo 1008 ankle support,1,supplies
+424066,oppo 1008 ankle support l/s,1,supplies
+424067,oppo 1008 ankle support m/s,1,supplies
+424068,oppo 1008 ankle support xl/s,1,supplies
+424069,oppo 1008 l/s ankle support,1,supplies
+424070,oppo 1008 m/s ankle support,1,supplies
+424071,oppo 1008 xl/s ankle support,1,supplies
+424072,oppo 1022 (l) knee support,1,supplies
+424073,oppo 1022 (m) knee support,1,supplies
+424074,oppo 1022 (xl) knee support,1,supplies
+424075,oppo 1022 knee support,1,supplies
+424076,oppo 1022 knee support l/s,1,supplies
+424077,oppo 1022 knee support m/s,1,supplies
+424078,oppo 1022 knee support s/s,1,supplies
+424079,oppo 1022 knee support xl/s,1,supplies
+424080,oppo 1022 l knee supt. 90278,1,supplies
+424082,oppo 1022 l/s knee support,1,supplies
+424083,oppo 1022 l/s knee support 501365,1,supplies
+424084,oppo 1022 m/s knee support,1,supplies
+424085,oppo 1022 s/s knee support,1,supplies
+424086,oppo 1022 xl knee supt. 90285,1,supplies
+424088,oppo 1022 xl/s knee support,1,supplies
+424089,oppo 1022 xl/s knee support 501368,1,supplies
+424090,oppo 1023 knee support,1,supplies
+424091,oppo 1030 knee stabilizer,1,supplies
+424092,oppo 1030 knee stabilizer l,1,supplies
+424093,oppo 1030 knee stabilizer l/s,1,supplies
+424094,oppo 1030 l/s knee stabilizer,1,supplies
+424095,oppo 1030 m/s knee stabilizer,1,supplies
+424096,oppo 1030 xl/s knee stabilizer,1,supplies
+424097,oppo 1030 xxl/s knee stabilize,1,supplies
+424098,oppo 1063 back support one siz,2,supplies
+424099,oppo 1063 back support one size,1,supplies
+424100,oppo 1063 one size back support 0605,1,supplies
+424101,oppo 1063 sacro lumber support,1,supplies
+424102,oppo 1064 (l) sacro lumb suprt,1,supplies
+424103,oppo 1064 (m) sacro lumb suprt,1,supplies
+424104,oppo 1064 (xl) sacro lumb suprt,1,supplies
+424105,oppo 1064 l sacro lumber support0636,1,supplies
+424106,oppo 1064 l/s sacro lmbr,1,supplies
+424107,oppo 1064 l/s sacro lumber sup,1,supplies
+424108,oppo 1064 m/s sacro lumber sup,1,supplies
+424109,oppo 1064 m/s sacro lumber support 501389,1,supplies
+424110,oppo 1064 sacro lumber support,1,supplies
+424111,oppo 1064 xl sacro lumber support0643,1,supplies
+424112,oppo 1064 xl/s sacro lumber,1,supplies
+424113,oppo 1082 (l) wrist splant,1,supplies
+424114,oppo 1082 (m) wrist splant,1,supplies
+424115,oppo 1082 (xl) wrist splant,1,supplies
+424116,oppo 1082 l wrist splint 0797,1,supplies
+424117,oppo 1082 l wrist splint 90797,1,supplies
+424118,oppo 1082 l/s wrist splint,1,supplies
+424119,oppo 1082 m wrist splint 0780,1,supplies
+424120,oppo 1082 m/s wrist splint,1,supplies
+424121,oppo 1082 s/s wrist splint,1,supplies
+424122,oppo 1082 wrist splint,1,supplies
+424123,oppo 1082 wrist splint l/s,1,supplies
+424124,oppo 1082 wrist splint m/s,1,supplies
+424125,oppo 1082 wrist splint s/s,1,supplies
+424126,oppo 1082 xl/s wrist splint,1,supplies
+424127,oppo 1083 wrist wrap,1,supplies
+424128,oppo 1083 wrist wrap one size,1,supplies
+424130,oppo 1084 (m) wrist/thumb support,1,supplies
+424132,oppo 1084 l wrist thump support0841,1,supplies
+424133,oppo 1084 l wrist/thumb supt 90841,1,supplies
+424135,oppo 1084 m wrist/thumb supt 90834,1,supplies
+424139,oppo 1084 wrist thumb support,1,supplies
+424140,oppo 1084 xl wrist thumb support 0858,1,supplies
+424141,oppo 1084 xl/s wrist thumb sup,1,supplies
+424143,oppo 1088 xl/s wrist thumb sup,1,supplies
+424147,oppo 1089 l wrist thumb support 0728,1,supplies
+424148,oppo 1089 l wrist/thumb supt 90728,1,supplies
+424151,oppo 1089 m wrist thumb support,1,supplies
+424152,oppo 1089 m wrist thumb support 0711,1,supplies
+424153,oppo 1089 m wrist/thumb 90711,1,supplies
+424155,oppo 1089 s wrist thumb support,1,supplies
+424160,oppo 1089 wrist thumb support,1,supplies
+424161,oppo 1089 wrist thumb support s,1,supplies
+424162,oppo 1089 wrist/thumb support,1,supplies
+424163,oppo 1089 xl wrist/thumb 93439,1,supplies
+424164,oppo 1089 xl/s wrist thumb sup,1,supplies
+424166,oppo 1486 ten.gol elbow strap,1,supplies
+424167,oppo 2001 (l) ankle support,1,supplies
+424168,oppo 2001 (m) ankle support,1,supplies
+424169,oppo 2001 (xl) ankle support,1,supplies
+424170,oppo 2001 ankle support,1,supplies
+424171,oppo 2001 l/s silicon ankle,1,supplies
+424172,oppo 2001 l/s sillicon ankle,1,supplies
+424173,oppo 2001 m/s silicon ankle,1,supplies
+424174,oppo 2001 s/s silicon ankle,1,supplies
+424175,oppo 2001 silicon ankle,1,supplies
+424176,oppo 2001 silicon ankle l/s,1,supplies
+424177,oppo 2001 silicon ankle m/s,1,supplies
+424178,oppo 2001 silicon ankle s/s,1,supplies
+424179,oppo 2001 silicon ankle xl/s,1,supplies
+424180,oppo 2001 silicone ankle l,1,supplies
+424181,oppo 2001 silicone ankle xl,1,supplies
+424182,oppo 2001 xl/s silicon ankle,1,supplies
+424183,oppo 2001 xl/s sillicon ankle,1,supplies
+424184,oppo 2003 l/s ankle brace,1,supplies
+424185,oppo 2003 m ankle brace 91145,1,supplies
+424186,oppo 2003 m/s ankle brace,1,supplies
+424187,oppo 2003 xl/s ankle brace,1,supplies
+424188,oppo 2021 (l) open ptla kne suprt,1,supplies
+424189,oppo 2021 (m) open ptla kne suprt,1,supplies
+424190,oppo 2021 (xl) open ptla kne suprt,1,supplies
+424191,oppo 2021 l patella knee supt 93606,1,supplies
+424192,oppo 2021 l/s open patella kne,1,supplies
+424193,oppo 2021 l/s open patella knee,1,supplies
+424194,oppo 2021 m patella knee supt 93590,1,supplies
+424195,oppo 2021 m/s open patella kne,1,supplies
+424196,oppo 2021 m/s open patella knee,1,supplies
+424197,oppo 2021 open patella knee,1,supplies
+424198,oppo 2021 open patella knee l,1,supplies
+424199,oppo 2021 open patella knee m,1,supplies
+424200,oppo 2021 open patella knee s,1,supplies
+424201,oppo 2021 open patella knee support,1,supplies
+424202,oppo 2021 open patella knee xl,1,supplies
+424203,oppo 2021 xl patella knee supt 93613,1,supplies
+424204,oppo 2021 xl/s open patella knee,1,supplies
+424205,oppo 2021xl/s open patella kne,1,supplies
+424206,oppo 2022 (l) knee support,1,supplies
+424207,oppo 2022 (m) knee support,1,supplies
+424208,oppo 2022 (s) knee support,1,supplies
+424209,oppo 2022 (xl) knee support,1,supplies
+424210,oppo 2022 knee suport,1,supplies
+424211,oppo 2022 knee support,1,supplies
+424212,oppo 2022 knee support l/s,1,supplies
+424213,oppo 2022 knee support m/s,1,supplies
+424214,oppo 2022 knee support s/s,1,supplies
+424215,oppo 2022 knee support xl,1,supplies
+424216,oppo 2022 l knee supt 91305,1,supplies
+424218,oppo 2022 l/s knee support,2,supplies
+424219,oppo 2022 m knee supt 91299,1,supplies
+424220,oppo 2022 m/s knee,1,supplies
+424222,oppo 2022 m/s knee support,1,supplies
+424223,oppo 2022 s/s knee support,2,supplies
+424224,oppo 2022 xl /s knee support,1,supplies
+424225,oppo 2022 xl knee supt 91312,1,supplies
+424227,oppo 2022 xl/s knee support,1,supplies
+424228,oppo 2029 (l) open knee brace,1,supplies
+424229,oppo 2029 (m) open knee brace,1,supplies
+424230,oppo 2029 (xl) open knee brace,1,supplies
+424231,oppo 2029 l/s open knee brace,1,supplies
+424232,oppo 2029 m/s open knee brace,1,supplies
+424233,oppo 2029 open knee brace,1,supplies
+424234,oppo 2029 open knee brace l/s,1,supplies
+424235,oppo 2029 open knee brace m/s,1,supplies
+424236,oppo 2029 open knee brace xl,1,supplies
+424237,oppo 2029 xl/s open knee brace,1,supplies
+424238,oppo 2031 l hinged knee support3682,1,supplies
+424240,oppo 2031 xl/s hinged knee sup,1,supplies
+424241,oppo 2040 (l) thigh support,1,supplies
+424242,oppo 2040 (m) thigh support,1,supplies
+424243,oppo 2040 m/s thigh support,1,supplies
+424244,oppo 2040 thigh support xl/s,1,supplies
+424245,oppo 2040 xl/s thigh support,1,supplies
+424246,oppo 2060 (l) abdominal binder,1,supplies
+424247,oppo 2060 (m) abdominal binder,1,supplies
+424248,oppo 2060 (xl) abdominal binder,1,supplies
+424249,oppo 2060 abdominal binder,1,supplies
+424250,oppo 2060 abdominal binder s/s,1,supplies
+424251,oppo 2060 abdominal binder xl,1,supplies
+424252,oppo 2060 abdominal binder xxl,1,supplies
+424253,oppo 2060 l/s abdominal binder,1,supplies
+424254,oppo 2060 m/s abdominal binder,1,supplies
+424255,oppo 2060 xl/s abdo.binder,1,supplies
+424256,oppo 2060 xl/s abdominal binde,1,supplies
+424257,oppo 2060 xxl/s abdominal bind,1,supplies
+424258,oppo 2064 xl/s lumbar sac sup,1,supplies
+424259,oppo 2072 (l) shoulder support,1,supplies
+424260,oppo 2072 (m) shoulder support,1,supplies
+424261,oppo 2072 (xl) shoulder support,1,supplies

@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+490102,"release of adherent jnt capsul ligament,cartilage-ankle",1,procedure
+490103,"release of adherent jnt capsul ligament,cartilage-foot & toe",1,procedure
+490104,"release of adherent jnt capsul ligament,cartilage-hand*finger",1,procedure
+490105,"release of adherent jnt capsul ligament,cartilage-hip",1,procedure
+490106,"release of adherent jnt capsul ligament,cartilage-knee",1,procedure
+490107,"release of adherent jnt capsul ligament,cartilage-shoulder",1,procedure
+490108,"release of adherent jnt capsul ligament,cartilage-wrist",1,procedure
+490109,release of adherent jnt capsul ligamentcartilage-shoulder,1,procedure
+490111,release of adhesion,1,procedure
+490112,release of carpal tunnel,1,procedure
+490113,release of carpal tunnel (or) de-quervain syndrome,1,procedure
+490114,release of carpal tunnel - 1 day pkg,1,procedure
+490115,release of carpal tunnel syndrome (l.a,1,procedure
+490116,release of carpal tunnel syndrome (one side,1,supplies
+490117,release of carpal tunnel syndrome local anesthesia - 2 days pkg,1,procedure
+490118,release of chordee (w/o hypospadias ) c64.42,1,procedure
+490119,release of chordee (w/o hypospadias,1,procedure
+490120,release of chordee (w/o hypospadias) - 1 day pkg,1,procedure
+490121,release of chordee (w/o hypospadias)->c64.42,1,procedure
+490122,release of clubfoot->c83.84,1,procedure
+490123,release of congenital tethered spinal cord,1,procedure
+490124,release of constriction of sheath of tendon (e.g. trigger finger,1,supplies
+490125,release of construction of sheath of tendon,1,supplies
+490126,release of contraction (z plasty) ga small,1,procedure
+490127,release of contracture of shoulder joint,1,procedure
+490128,release of contractures ii,1,procedure
+490129,release of cts - unilateral,1,procedure
+490130,release of cubital tunnel syndrome - 2 days pkg,1,procedure
+490131,release of de quervain,1,procedure
+490132,release of de quervain wrist,1,procedure
+490133,release of dupuytren's contracture(other fasciecto->c82.35,1,procedure
+490134,release of dupuytrens contracture,1,procedure
+490135,release of dupuytrens contracture (other fasciectomy of hand) - 1 day pkg,1,procedure
+490136,release of hyperextension deformity of toe,1,procedure
+490137,release of intestinal volvolous,1,procedure
+490138,release of intestinal volvolus,1,procedure
+490139,release of intestinal volvulus,1,procedure
+490140,release of labial adhesions - 1 day pkg,1,procedure
+490141,release of penile adhesion- 1 day pkg,1,procedure
+490142,release of penile web-2 days pkg,1,procedure
+490143,release of post-burn contracture,1,procedure
+490144,release of quadriceps + patellar adhesions,1,procedure
+490145,release of qurvan disease,1,procedure
+490146,release of scar contracture any site 1 day pkg,1,procedure
+490147,release of simple syndactyly,2,procedure
+490148,release of syndactyly,1,procedure
+490149,release of tarsal tunnel - 1 day pkg,1,procedure
+490150,release of tendon,2,procedure
+490151,release of tendon sheath of hand,1,supplies
+490152,release of tongue tie,2,procedure
+490153,release of tongue tie (frenostomy/frenectom/frenoplasty,1,procedure
+490154,release of tongue tie (g.a,1,procedure
+490155,release of tongue tie (opd,1,procedure
+490156,release of tongue tie in the o.r,1,procedure
+490157,release of tongue tie under ga(pkg,1,procedure
+490158,release of tongue tie under l.a,1,procedure
+490159,release of tongue tie under local anesthesia,1,procedure
+490160,"release of tongue tie, g.a",1,procedure
+490161,"release of tongue tie, ga",1,procedure
+490162,"release of tongue tie, l.a",1,procedure
+490163,release of tongue tied,1,procedure
+490164,release of tongue-tie(to 5 mon l-a,1,procedure
+490165,release of tounge tie,1,procedure
+490166,release of trigger finger,4,procedure
+490167,release of trigger finger - 1 day pkg,1,procedure
+490168,release of trigger finger l.a - pd,1,procedure
+490169,release of trigger finger los dpu,1,procedure
+490170,release of trigger finger minor,1,procedure
+490171,release of trigger finger minor (1h,1,procedure
+490172,release of trigger finger mtort-0009,1,procedure
+490173,release of trigger finger under l.a,2,procedure
+490175,release of trigger finger1,1,procedure
+490176,release of trigger thumb (or) finger,1,procedure
+490177,release of trriger finger or de-quervain syndrome,1,procedure
+490178,release of ulnar nerve entrapment at wrist,3,procedure
+490180,release of ulnar nerve entrapment at wrist - 1 day pkg,1,procedure
+490181,release of uvular adhesions,1,procedure
+490182,release of volkmanns contracture by fasciotomy,1,procedure
+490183,release one site (tend./mus.)- package,1,supplies
+490184,release scar contracture w/ skin graft /flaps/z- plasty - extremity /other-pkg,1,procedure
+490185,release six site (tend./mus.) - package,1,procedure
+490186,release synechia,1,procedure
+490187,release tarsal tunnel syndrome,1,procedure
+490188,release three site (tend./mus.) -package,1,procedure
+490189,release tongne tie la,1,procedure
+490190,release tongne tie under ga,1,procedure
+490191,release tongue frenulum - la,1,procedure
+490192,release trigger finger,1,procedure
+490193,release two site (tend./mus.) -package,1,procedure
+490194,"release, carpal tunnel",1,procedure
+490195,release-five sites .25->84.9-i,1,procedure
+490196,release-four sites .26->84.9-j,1,procedure
+490197,release-one site(tend./mus.)27->84.9-k,1,supplies
+490198,release-six sites .28->84.9-l,1,procedure
+490199,release-three sites .29->84.9-m,1,procedure
+490200,release-two sites .30->84.9-n,1,procedure
+490201,release/tonge tie,1,procedure
+490202,release of dupuytren's contracture(other fasciecto.) - plastic surgery,1,eyewear
+490224,relexib,4,other
+490300,relezin 4,1,other
+490389,relif200mg,1,other
+490392,"reline lock screw 5.5mm open tulip , 13550000 / p0701000647 nuvasive",1,supplies
+490393,"reline lock screw open tulip diff.size, nuvasive",1,supplies
+490394,"reline lock screw, 5.5mm open tulip , nuvasiv",1,supplies
+490395,"reline lock/set screw, closed tulip (nuvasive), #13000000 / 13550000",1,supplies
+490396,"reline mas screw 6.5x45mm 2c polyaxial , 16016545 / p0701000841 stryker",1,supplies
+490397,"reline mas ti rod , , reline mas ti rod 5.5x160mm lordotic (11355160",1,supplies
+490398,"reline mas ti rod , , reline mas ti rod, 7.5x45mm 2c polyaxial",1,supplies
+490399,reline rpd,1,other
+490400,"reline-o screw, 5.0x25mm 2s polyaxial (nuvasive) #13015025",1,supplies
+490401,"reline-o screw, 5.0x30mm 2s polyaxial ( nuvasive ), #13015030",1,supplies
+490402,"reline-o screw, 5.0x45mm 2s polyaxial (nuvasive), #13015045",1,supplies
+490403,"reline-o screw, 5.5x30mm 2s polyaxial ( nuvasive ), #13015530",1,supplies
+490404,"reline-o screw, 5.5x35mm 2s polyaxial (nuvasive) #13015535",1,supplies
+490405,"reline-o screw, 5.5x40mm 2s polyaxial (nuvasive) #13015540",1,supplies
+490406,"reline-o screw, 5.5x45mm 2s polyaxial (nuvasive) #13015545",1,supplies
+490407,"reline-o screw, 6.5x30mm 2s polyaxial (nuvasive) #13016530",1,supplies
+490408,"reline-o screw, 6.5x35mm 2s polyaxial ( nuvasive ), #13016535",1,supplies
+490409,"reline-o screw, 6.5x40mm 2s polyaxial ( nuvasive ), #13016540",1,supplies
+490410,"reline-o screw, 6.5x45mm 2s polyaxial (nuvasive) #13016545",1,supplies
+490411,relining ? complete denture ? processed,1,dental
+490412,relining complete denture processed,3,dental
+490413,relining of denture upper or lower,1,dental
+490414,relinnig of denture,1,dental
+490415,relipan,1,other
+490431,"reload , endo-gia , tan, 60mm vascular medium.,panther medical",1,other
+490432,reload cartridge 60mm - 3.8mm,1,other
+490433,reload cartridge 60mm - 3.8mm #gia 6038l - per pcs,1,other
+490434,reload cartridge 80mm - 3.8mm,1,other
+490435,reload cartridge 80mm - 4.8mm,1,other
+490436,reload selectable ntlc 55mm sr55,1,other
+490437,reload stapler extra thick black articulating 60mm sterile disposable,1,supplies
+490438,reload stapler green 60 per pcs,1,supplies
+490439,reload stapler medium thick purple articulating 45mm sterile disposable,1,supplies
+490440,reload stapler medium thick purple articulating 60mm sterile disposable,1,supplies
+490441,reload stapler vascular medium tan articulating 45mm sterile disposable,1,supplies
+490442,reload stapler vascular medium tan articulating 60mm sterile disposable,1,supplies
+490443,"reload, single stitch, 2-0, sofsilk, covidien, 170002",1,supplies
+490444,"reload, white, 2.6mm, echelon endopath, ethicon, gst60w",1,supplies
+490445,reloadable stapler 60mm - 4.8mm,1,supplies
+490446,reloadblu,1,other
+490566,relvar ellipta,2,other
+490567,relvar ellipta 100/25 diskus,1,other
+490568,relvar ellipta 200/25 diskus,1,other
+490576,relvar ellipta 100/25,1,other
+490577,relvar ellipta 100/25 30 doses,1,other
+490596,relvar ellipta 100x25mcg inhalar,1,other
+490608,relvar ellipta 200/ 25,1,other
+490609,relvar ellipta 200/25,1,other
+490610,relvar ellipta 200/25 30 doses,2,other
+490639,relvar ellipta 200x25mcg inhalar,1,other
+490655,relvar inhale rellipta 100 25 30 doses,1,other
+490656,relvar inhale rellipta 200 25 30 doses,1,other
+490657,relvarl ellipta 100/25 mc /inh,1,eyewear
+490659,relvis x ray 2 views,1,imaging
+490660,rem of ureteral catheter(dj stnt. rem.)uni. or bi->,1,supplies
+490661,rem forgn body (esophagus,1,procedure
+490662,rem of ectratubal ectopic preg(salpingrctomy,1,procedure
+490663,rem of f.b. w/o anaesthesia,1,procedure
+490664,rem of ov cysts < 10 cm small,1,procedure
+490665,rem of shirodkar suture (opd,1,supplies
+490666,rem of submandibular salivary,1,procedure
+490667,rem polyhesive disposable e7507,1,supplies
+490668,rem. of ureteral catheter(dj stnt. rem.)uni. or bi->,2,supplies
+490669,rem. f.b.nose,1,procedure
+490670,rem. fb ear,2,procedure
+490671,rem. fb nose (er,1,procedure
+490672,rem. fb nose,2,procedure
+490673,rem. implants/big bones,1,imaging
+490674,rem. ligature from ureter,1,procedure
+490675,rem. nail avulsion l.a,1,supplies
+490676,rem. of f.b under l anesthesia,1,procedure
+490677,rem. of f.b. from the body,1,procedure
+490678,rem. of f.b.from throat,1,procedure
+490679,rem. of foreign body - la,1,procedure
+490680,rem. of impacted tth-compl. bo,1,procedure
+490681,rem. of intraluminal f.b. from trachea & bronchus ->c98.15,1,procedure
+490682,rem. of multiple s.corneal f.b,1,procedure
+490683,rem. of multiple s.corneal f.b - clinic,2,procedure
+490685,rem. of stitch ( done outside ) per,1,procedure
+490686,rem. of stitches,1,procedure
+490687,rem. of ureteral catheter(dj stnt. rem,1,supplies
+490688,rem. of ureteral catheter(dj stnt. rem.)uni. or b,1,supplies
+490690,rem. of ureteral catheter(dj stnt. rem.)uni. or bi->c97.62,1,supplies
+490691,rem. of ureteral catheter(dj stnt. rem.)uni. or bil,2,supplies
+490692,rem. submandibu. salivary glan,1,procedure
+490693,rem./exc./disc. of les./f.b. of cornea/conj,1,procedure
+490694,rem.f.b. ear,1,procedure
+490695,rem.of f.b.from foot l.a,1,procedure
+490696,rem.of f.b.w/l.a,1,procedure
+490697,rem.of foot forearm cast,1,supplies
+490698,rem.of multiple conjuncti.f.b,1,procedure
+490699,rem.of multiple conjuncti.f.b. - clinic,1,procedure
+490700,rem.of p.warts l.a.grade-a,1,procedure
+490701,rem.of p.warts l.a.grade-b,1,procedure
+490702,rem.of pop forearm cast,1,supplies
+490703,rem.of retained roots (2 multi rooted,1,procedure
+490704,rem.of small swell conjunctiv,1,procedure
+490705,rem.of small swelling fr.lid,1,eyewear
+490706,rem.of ureteral catheter (djstnt.rem,1,supplies
+490707,rem.of ureteric stent by flexi,1,supplies
+490708,rem.sf. skin. growth (by cryosurgery,1,procedure
+490709,remaiinig root extraction,1,dental
+490710,remaing roots extraction,1,dental
+490711,remaining root tips surg,2,other
+490712,remaining root decidous tooth extraction,1,dental
+490713,remaining root deciduous tooth extraction,1,dental
+490714,remaining root extraction,4,dental
+490715,remaining root permanent extraction,1,dental
+490716,remaining root permanent tooth extraction,1,dental
+490717,remaining root tips smpl,1,other
+490719,remaining root tooth extraction,1,dental
+490720,remaining roots extraction,2,dental
+490736,remedi hair ampoules 5x10 ml,1,other
+490739,remedial exercise session,1,physiotherapy
+490740,remening root extraction,1,dental
+490794,remining roots normal extraction,1,dental
+490796,remium surgiclip iii 9.0 # 133650,1,other
+490799,remix 1 10's,1,other
+490802,remix 10sachets,1,other
+490809,remming roots surgical extraction,1,dental
+490811,remooval of cyst /la and suturing,1,procedure
+490812,"remote after loading, 1 channel",1,other
+490813,"remote after loading, 2-12 channels",1,other
+490814,"remov t w bone r, inc & mcflap",1,imaging
+490815,"remov t w br, inc&flap(sectn",1,lab_test
+490816,remov./foreign bodt f/nose,1,other
+490817,remov./foreign body f/ear,1,other
+490818,remov./foreign body f/nose,1,other
+490819,remov./super. foreign bod. 2,1,other
+490820,remov./superc. f.b. 1 s,1,lab_test
+490821,remov./superf.f.b+sut.+dr,1,lab_test
+490822,remov.deep.corn.foreign body,1,other
+490823,remov.displaced iucd,1,other
+490824,remov.foreign body+x ray,1,imaging
+490825,remov.of nail from fumr,1,supplies
+490826,remov.of stitch done inside the hospital,1,procedure
+490827,remov.of stitch. insdie,1,procedure
+490828,remov.pharyngeal pouch,1,supplies
+490829,remov.stitch. outside,1,procedure
+490830,remova of fb (hand / foot) under g.a,1,lab_test
+490831,removable appliance each arch ( retainer,1,dental
+490832,removable bridges,1,other
+490833,removable partial overdenture,1,other
+490834,removable retainer hawely appliance,1,supplies
+490835,removable retainer lower jaw,3,other
+490836,removable retainer upper jaw,3,other
+490837,removable retainer,1,other
+490838,removable space maintainer,1,other
+490839,removable space maintner,1,other
+490840,removal,3,procedure
+490841,removal fb,1,procedure
+490842,removal iud ( intra uterine device,1,procedure
+490844,removal of impacted tooth,4,dental
+490845,removal of fiber post,1,procedure
+490847,removal of impacted tooth complicated bony,1,dental
+490848,removal of impacted tooth softtissue,1,dental
+490849,removal of pop,5,supplies
+490850,removal (permacatheter)tunneled central venous catheter w/o subcutaneous port/pump,1,supplies
+490851,"removal , non-biodegradable drug delivery implant ( implanon",1,supplies
+490852,removal - csf shunt,1,procedure
+490853,removal - internal fixation devices - major joint /bone,1,imaging
+490854,"removal - spinal instrument, posterior",1,procedure
+490855,removal - stiches,1,procedure
+490856,removal - stiches per stitch,1,procedure
+490857,removal -inferior venacava-pkg,1,procedure
+490858,removal -thrombosed pile,1,procedure
+490859,"removal . of implants - inter lock nail, femur and tibia",1,supplies
+490860,removal . of plates and screw,1,supplies
+490861,removal . of platesscrew medn,1,procedure
+490862,removal / curttage / excision of molluscum,2,procedure
+490863,removal / excision of chalazion under la (multiple,1,procedure
+490864,removal / excision of chalazion under la (single,1,procedure
+490865,removal / excision of chalzion under la (multiple,1,procedure
+490866,removal / excision of chalzion under la (single,1,procedure
+490867,removal / fallopian tube,1,supplies
+490868,removal / marsupulization of bartholin cyst,1,procedure
+490869,removal 1 stitches with dressing,1,supplies
+490870,removal 2 stitches with dressing,1,supplies
+490871,removal 3 stitches with dressing,1,supplies
+490872,removal a cyst from the lid,1,procedure
+490873,removal and exchange of permacath by interventional radiologist,1,procedure
+490874,removal arteriovsenous shunt for renal dialysis,1,procedure
+490875,removal body of nose,1,procedure
+490876,removal bown's disease,1,procedure
+490877,removal by electric saw,1,procedure
+490878,removal calculas from salivary duct (maxillo,1,procedure
+490879,removal cast,5,supplies
+490880,"removal cbody, intranasal; under ga",1,procedure
+490881,removal cerculage,1,procedure
+490882,removal circulage,1,procedure
+490883,removal corneal f. body,1,procedure
+490884,removal corneal graft suture (ga,1,supplies
+490885,removal corneal graft suture under g.a,1,supplies
+490886,"removal crown / post (metal, mon - metal",1,dental
+490887,removal cyst/ lesion eyelid (la,1,procedure
+490888,removal deep corneal f.b,1,procedure
+490889,removal deep corneal f.b. with rust,1,procedure
+490890,removal deep corneal foreign body,1,procedure
+490891,"removal deep fb/ring ; eye, corneal, w/ microscope under anasthesia",1,procedure
+490892,"removal deep foreign body, hand or foot->82.09",1,procedure
+490893,removal deepl foreign body,1,procedure
+490894,removal embedded tooth,1,dental
+490895,removal encerclage suture g.a,1,supplies
+490896,removal f.b 1 ear,1,procedure
+490897,"removal f.b deep or in critical area (around vessel or joint, nerves",1,procedure
+490898,removal f.b subcutaneous of aurical,1,procedure
+490899,removal f.b-1d - 1 day(s,1,procedure
+490900,removal f.b. from ear,1,procedure
+490901,removal f.b.ear/nose/oropha,1,procedure
+490902,removal f.b.superficial,1,procedure
+490903,removal f.body nose/ear,1,procedure
+490904,removal fb from head/neck wo incision,1,procedure
+490905,removal fb impacted ear,1,procedure
+490906,removal fb oesophagus,1,procedure
+490907,removal fb oesophagus - pkg 1 day,1,procedure
+490908,"removal fb, ext auditory canal; w/ local anesthesia",1,dental
+490909,"removal fb, ext auditory canal; w/o anesthesia",1,dental
+490910,"removal fb, intranasal; grade 3",1,procedure
+490911,"removal fb, intranasal; grade 2",1,procedure
+490912,"removal fb, intranasal; office type proc (adult / u/a",1,procedure
+490913,"removal fb, intranasal; office type proc (pedia / u/a",1,procedure
+490914,removal foley catheter-er260,1,supplies
+490915,removal for surgical stitches by nurse,1,procedure
+490916,removal for warts by chemical,1,procedure
+490917,removal foreigen body(conrnea.conjuctiva,1,procedure
+490918,removal foreign body,2,procedure
+490919,removal foreign body ( ear ) -package,1,procedure
+490920,removal foreign body - mouth,1,procedure
+490921,removal foreign body deep fascia including local anesth in er,1,procedure
+490922,removal foreign body from ear in er,1,procedure
+490923,removal foreign body from external auditory canal; office procedure,1,dental
+490924,removal foreign body from external auditory canal;with general anesthe,1,dental
+490925,removal foreign body l.a,3,procedure
+490927,removal foreign body pharynx wo incision,2,procedure
+490928,removal foreign body requiring incision general anesthetic,1,procedure
+490929,removal foreign body superficial including local anesth in er,1,procedure
+490930,removal foreign body under ga -1day pkg,1,procedure
+490931,removal foreign body under loc.anaesthsa,1,procedure
+490932,"removal foreign body, intranasal; office type procedure",1,procedure
+490933,removal foreign body- external eye- conjuctivn cornea (la,1,procedure
+490934,removal foreign body->83.09,1,procedure
+490935,removal frome 4 to 6 stitches with dressing,1,supplies
+490936,removal frome 7 to 10 stitches with dressing,1,supplies
+490937,removal haematoma/seroma large-1 day pkg,1,procedure
+490938,removal haematoma/seroma small-1 day pkg,1,procedure
+490939,removal hematoma/seroma minor,1,procedure
+490940,removal hip or knee prosthesis (alone,1,supplies
+490941,removal i.u.c.d,1,procedure
+490942,removal if f.b from the eye,1,procedure
+490943,"removal impacted cerumen (ear wash), one/both ears",1,supplies
+490944,"removal impacted cerumen (separate procedure), one or both ears",2,supplies
+490945,removal implanon,2,procedure
+490946,removal implanon - clinic,1,procedure
+490947,removal implant - deep 1 hr,1,supplies
+490948,removal implant - superficial (wire,1,supplies
+490949,removal implant big bone,1,imaging
+490950,removal implant/big bone,1,imaging
+490951,removal ingrowing toe nail,1,supplies
+490952,removal ingrown nail,1,supplies
+490953,removal interlock nail tibia ga,2,supplies
+490954,removal interlocking device,1,procedure
+490955,removal intra-medullary nail or interlocking nail,1,supplies
+490956,removal intraluminal of f.b from esophagus,1,procedure
+490957,removal intraluminal of f.b. from esophagus (w/o incision) - 1 day pkg,1,procedure
+490958,removal intraluminal of f.b. from esophagus (w/o,1,procedure
+490959,removal intrauterine contraceptive device(ga,1,procedure
+490960,removal iud,1,procedure
+490961,removal k wire ga,2,supplies
+490962,removal k wire under general anaesthesia,2,supplies
+490964,removal k wire under local anaesthesia,2,supplies
+490965,removal k-wire,1,supplies
+490966,removal k-wire (percutanous,1,supplies
+490967,removal k-wire without incision u.g.a,1,supplies
+490968,removal k-wires without incision under g.a,2,procedure
+490969,removal k. wire plate from large bone,1,imaging
+490970,removal k. wire _ plate_screw from large bone,1,imaging
+490971,removal k. wire _ plate_screw from small bone,1,imaging
+490972,removal k. wire _plate from large bone,1,imaging
+490973,removal k. wire _plate from small bone,1,imaging
+490974,removal lipoma and limphnode under local anesthesia,1,procedure
+490975,removal loose nail,1,supplies
+490976,removal loose nail*code3087,1,supplies
+490977,removal metal / plate /screws /nails in upper or lower limb (unilateral) - 2 days pkg,1,supplies
+490978,removal nail wedge resection including local anesthesia in er,1,supplies
+490979,removal of cast,7,supplies
+490980,removal of fb from conjunctiva,2,procedure
+490981,removal of forign body under ga,1,procedure
+490982,removal of nail small,1,supplies
+490983,removal of sutures (or,2,supplies
+490984,removal of sutures under anesthesia - day case,1,supplies
+490985,removal of 'k' wire under l.a,1,supplies
+490986,removal of 1 root canal,1,dental
+490987,removal of 1 stitch,1,procedure
+490988,removal of 1 tooth or part(s) thereof,8,dental
+490989,removal of 1-3 sutures,2,supplies
+490990,removal of 3 stitchs,1,procedure
+490991,removal of 4-8 sutures,2,supplies
+490992,removal of 6 stitchs,1,procedure
+490993,removal of a bridge,1,dental
+490994,removal of a cast done out side,1,supplies
+490995,removal of a cemented root canal post or post crown,2,dental
+490996,removal of a crown,1,dental
+490997,removal of a cyst,1,procedure
+490998,removal of a fb (ga) nose and ear,1,procedure
+490999,removal of a foreign body from the eyes,1,procedure
+491000,removal of a superficial foreign body,1,procedure
+491001,removal of a tooth of part(s) thereof,1,dental
+491002,removal of a tooth or part (s) thereof,3,dental
+491003,removal of a tooth or part(s) there,1,dental
+491005,removal of a tooth or part(s) thereof (ncci,1,dental
+491006,removal of a tooth or part(s) therof,1,dental
+491007,removal of a tooth or parts thereof,2,dental
+491008,removal of a tooth or tooth fragment where an incision and the raising of a muco,2,dental
+491009,removal of a tooth or tooth fragment where an incision and the raising of a mucoperiosteal flap are,3,dental
+491010,removal of a tooth or tooth fragment where both removal of bone and sectioning o,2,imaging
+491011,removal of a tooth or tooth fragment where both removal of bone and sectioning of the tooth are requ,3,imaging
+491012,removal of a tooth or tooth fragment where removal of bone is required after an,2,imaging
+491013,removal of a tooth or tooth fragment where removal of bone is required after an incision and the rai,3,imaging
+491014,removal of abdominal wall sutures,1,supplies
+491015,removal of abdominal wall sutures (g.a.)->c97.83,1,supplies
+491016,removal of accumulated masses because of trachoma - إزالة الكتل المتراكمة بسبب تراكوما,1,procedure
+491017,removal of additional nail,2,supplies
+491018,removal of adhesion,1,procedure
+491019,removal of amalgum,1,procedure
+491020,removal of an aural f.b,2,procedure
+491021,removal of an aural foreign body under g.a. - (p.d,1,procedure
+491022,removal of an ingrowing nail under local anesthesia,1,supplies
+491023,removal of anal polyp - la,1,procedure
+491024,removal of anal seton,1,procedure
+491025,"removal of anal seton, other marker-pkg",1,procedure
+491027,removal of antral foreign body,1,procedure
+491028,removal of arch bar (one jaw,1,dental
+491029,removal of arch bar (two jaw) as agreed,1,dental
+491030,removal of arch bar and wires under ga,1,dental
+491031,removal of arch bars & wires,1,dental
+491032,removal of arch bars & wires (maxillofacial,1,dental
+491033,removal of arterial line,1,procedure
+491034,removal of arteriovenous shunt for renal dialysis->c39.43,1,procedure
+491035,"removal of assistive or adaptive device, aid or equipment",2,procedure
+491036,removal of aureteric stent,1,supplies
+491037,removal of avulsed finger nail-right/left,1,supplies
+491038,removal of avulsed nail,2,supplies
+491039,removal of avulsed nail(la,1,supplies
+491040,removal of band or staple,1,procedure
+491041,removal of banding - per arch,2,dental
+491042,removal of banding per arch,3,dental
+491043,removal of benign lesion on trunk or limbs less than 10 cm in diameter or on sca,1,procedure
+491044,removal of benign mass (large,1,procedure
+491045,removal of benign mass (small,1,procedure
+491046,removal of benign tumoer or polyp of the vocal cords,1,procedure
+491047,removal of benign tumors of skin -over 5cm,1,procedure
+491048,removal of benign tumors of the vocal cords,1,procedure
+491049,"removal of bezoar from stomach""gastrotomy""-1day pkg",1,procedure
+491050,removal of big calazion,1,procedure
+491051,removal of big lipoma - (2*2) cm,1,procedure
+491052,removal of big tumor(any location,1,procedure
+491053,removal of big wart larg size,1,procedure
+491054,removal of bilateral breast implants,1,supplies
+491055,removal of bilateral dj stents,1,procedure
+491056,removal of biliary stent + retrograde cholangiography,2,supplies
+491057,removal of black heads and milla,1,procedure
+491058,removal of bone implant.screws- spine,1,imaging
+491059,removal of bony spicules from spinal canal->c03.53-b,1,dental
+491060,removal of braces (u & l,1,procedure
+491061,removal of braces (u or l,1,procedure
+491062,removal of brain tumor,1,procedure
+491063,removal of breast implant->c85.94,1,supplies
+491064,removal of breast implantation (both sides)-1day pkg,1,procedure
+491065,removal of breast mass biopsy,1,procedure
+491066,removal of breast tissue expander->c85.96,1,procedure
+491067,removal of breast tumor,1,procedure
+491068,removal of bridge,1,dental
+491070,removal of broken files from root canals,1,procedure
+491071,removal of c.f body or conj,1,procedure
+491072,removal of c.f.body or conj,1,procedure
+491073,removal of caculus from surfaces of the teeth,1,dental
+491074,removal of calculas from salivary duct (clinic,1,procedure
+491075,removal of calculasor parts thereof,1,procedure
+491076,removal of calculs,1,procedure
+491077,removal of calculus,2,procedure
+491078,removal of calculus first appoint,1,procedure
+491082,removal of calculus - first appointmen,1,procedure
+491085,removal of calculus -first appointment,1,procedure
+491086,removal of calculus -subsequent appointment,1,procedure
+491087,removal of calculus ? first appointment,2,procedure
+491088,removal of calculus ? first appointment (ncci,1,procedure
+491089,removal of calculus ? subsequent appointment,2,procedure
+491090,removal of calculus ? subsequent appointment (ncci,1,procedure
+491091,removal of calculus ?? first appointment,1,procedure
+491093,removal of calculus from,1,procedure
+491095,removal of calculus from surface of the teeth,1,dental
+491096,removal of calculus from surfaces of teeth,3,dental
+491097,removal of calculus from the surface,1,procedure
+491098,removal of calculus from the surface of teeth or implants,1,dental
+491101,removal of calculus or implant,1,supplies
+491105,removal of calculus- first appointment,1,procedure
+491106,removal of calculus-first appointment,3,procedure
+491107,removal of calculus-subsequent appointment,2,procedure
+491108,removal of callosities,1,procedure

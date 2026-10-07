@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+198877,enforza,1,other
+198880,eng caloric,1,other
+198881,eng / vng,1,other
+198882,eng/vng,1,other
+198883,engerix,1,other
+198890,engerix b,1,other
+198893,engerix b 10 pediatric vail,1,other
+198895,engerix b 20,2,other
+198897,engerix b 20 pre-filled syringe,2,supplies
+198904,engerix b adult prefilled syringe,1,supplies
+198905,engerix b pead. vac,1,other
+198906,engerix b ped vaccin,1,other
+198908,engerix b pedia syringe,1,supplies
+198910,engerix b. (hepatitis b virus hbsag surface antigen,1,lab_test
+198911,engerix b. hepatitis b virus hbsag surface antigen,1,lab_test
+198913,engerix b10 mcg prefilled syringe # 1,1,supplies
+198915,engerix-b,1,other
+198935,engerix-b 20 pre-filled syringe,1,supplies
+198944,engerix-b pead,1,other
+198955,engerix-b10,2,other
+198956,engerix-b10 - hepatitis b pedia,1,lab_test
+198957,engerix-b10 mcg syringe,1,supplies
+198958,engerix-b10 mcg(hepa -b pedia) pfs 1s,1,other
+198959,engerix-b10 pre-filled syringe,2,supplies
+198960,engerix-b10 mcg prefilled syringe # 1 ( g,1,supplies
+198961,engerix-b10- hepatitis b pedia,1,lab_test
+198964,engerix-b20 mcg prefilled syringe # 1( g,1,supplies
+198965,engerixb,1,other
+198967,engrix-b,1,other
+198978,enjoy,1,other
+198979,enjoy condom 3pcs,1,other
+198980,enjoy for shaving facial body razor,1,other
+198981,enjoy k,1,other
+198983,enni marco,1,eyewear
+198984,enni marco fr-02-355-01,1,eyewear
+198985,enni marco fr-02-355-04,1,eyewear
+198986,enni marco fr-11-350-08p,1,eyewear
+198999,enoculation of peripheral garnuloma,1,other
+199003,enoscopic bladder distention,1,other
+199004,enox,2,other
+199006,enox enox bf10 52-18 501,1,other
+199007,enox enox679 401,1,other
+199008,enox fr mp17,1,eyewear
+199009,enox frm fa 05,1,eyewear
+199011,enox-m - enoxmg55c555,1,other
+199012,enox-m ly-6030,1,other
+199013,enoxa,1,other
+199039,enoxa 40mgenoxaparin sodium,1,lab_test
+199051,enoxa 60mgenoxaparin sodium,1,lab_test
+199055,enoxa 80,1,other
+199117,enoxaparin sodium,2,lab_test
+199174,enoxaparin(enoxa) 4000uni,1,other
+199180,enoxaparine sodium (er med,1,lab_test
+199187,enoxert,1,other
+199554,enoxirt1g,2,other
+199555,enoxirt1g im,1,other
+199556,enoxirt500 mg,1,other
+199557,enoxirtt,1,other
+199570,enrico covercc331 blk,1,other
+199571,enrico coveriec302n w,1,other
+199572,enrico coveriec303 blk,1,other
+199573,enrico coveriec303 rv,1,other
+199574,enrico coveriec306 blk,1,other
+199575,enrico coveriec307 wblk,1,other
+199576,enrico coveriec311 br,1,other
+199577,enrico coveriec311 g1,1,other
+199578,enrico coveriec311 w,1,other
+199579,enrico coveriec312 ha,1,other
+199580,enrico coveriec318 bl=07/2011,1,other
+199581,enrico coveriec320 w=07/2011,1,other
+199582,enrico coveriec329 blk,1,other
+199583,enrico coveriec346 gbl=11/2013,1,other
+199584,enrico coveriec356 blk,1,other
+199585,enrico coveriec358 blk,1,other
+199586,enrico coveriec362 blk=11/2013,1,other
+199587,enrico coveriec363 ha3,1,other
+199588,enrico coveriec369 bl,1,other
+199590,ensaf ahmad saeed musa,1,other
+199591,ension,1,other
+199592,ensite precision 3d mapping patch en0020-p abbott,2,supplies
+199604,enstilar cutaneous foam,1,other
+199611,"ensura mri dual chamber pacemaker,en1dr01",1,imaging
+199612,ensure,1,other
+199613,ensure plus (vanilla,1,nutrition
+199622,ensure hn vanilla 18x200 ml,1,nutrition
+199625,ensure liq.vanila 18x200ml,1,other
+199626,ensure liq.vanila plus 18x200ml,1,other
+199627,ensure liquid milk,1,nutrition
+199635,ensure max protein chocl 12's,1,lab_test
+199640,ensure max protein moc 12's,1,lab_test
+199643,ensure max protein vanilla 18's,1,lab_test
+199645,ensure milk,1,nutrition
+199653,ensure plus,2,other
+199656,ensure plus 18x200ml vanilla,1,nutrition
+199659,ensure plus 300 kcal (pharmacy,1,consultation
+199660,ensure plus advance,1,other
+199675,ensure plus liquid,1,other
+199677,ensure plus ng vanilla 18x200 ml,1,nutrition
+199701,ensure vanila flavour can,1,other
+199704,ensure vanilla milk,1,nutrition
+199708,ent consultant - fee,1,consultation
+199709,ent specialist,4,consultation
+199710,ent - audiogram - bone & conduction,1,imaging
+199711,ent - audiogram - bone & conduction - 071-11235,1,imaging
+199712,ent - audiometry,1,diagnostic
+199714,ent - cautery - nose,1,procedure
+199715,ent - diagnostic flexible fiberoptic naso pharyngeal laryngosopy,1,other
+199716,ent - diagnostic rigid endoscopy,1,procedure
+199717,ent - ear packing (major,1,procedure
+199718,ent - ear packing (minor,1,procedure
+199719,ent - ear syringing / washing,1,procedure
+199720,ent - ear syringing / washing - 070-11215,1,procedure
+199721,ent - ear syringing / washing - 086-11215,1,procedure
+199722,ent - ear wick insertion,1,procedure
+199723,ent - incision - drainage abcess under la,1,procedure
+199724,ent - incision - drainage abcess under la - 071-17100,1,procedure
+199725,ent - pre-op. laboratory,1,other
+199726,ent - removal of foreign body from ear,1,procedure
+199727,ent - removal of foreign body from nose,1,procedure
+199728,ent - removal of foreign body from nose - 086-13512,1,procedure
+199729,ent - tympanometry,1,diagnostic
+199730,ent - tympanometry (070-11205,1,diagnostic
+199731,ent - tympanometry - 071-11205,1,diagnostic
+199732,ent backing,1,other
+199733,ent check up,1,other
+199734,ent check up specialist,1,consultation
+199735,ent clinics - specialist,1,consultation
+199736,ent cons. (co,1,consultation
+199737,ent cons. (s.sp,1,consultation
+199738,ent cons. (sp,1,consultation
+199739,ent consultant consultation,2,consultation
+199740,ent consultant exam,1,consultation
+199741,ent consultant f/up,1,consultation
+199742,ent consultant fee,3,consultation
+199744,ent consultant on call,1,consultation
+199745,ent consultant saudi,1,consultation
+199746,ent consultation,4,consultation
+199747,ent consultation (consultant,1,consultation
+199748,ent consultation (saudi consultant,1,consultation
+199749,ent consultation (specialist) 1.22.4,1,consultation
+199750,ent consultation - consultant,1,consultation
+199751,ent consultation(in-patient,1,consultation
+199752,ent consultation000,1,other
+199753,ent consultations,1,other
+199754,ent consultion,1,other
+199755,ent clinics_consultant fee,1,consultation
+199756,ent clinics_specialist fee,1,consultation
+199757,ent cons. fee,1,consultation
+199758,ent consultant,1,consultation
+199762,ent consultation fee,2,consultation
+199764,ent consultation fee (4,1,consultation
+199765,"ent diagnostic , fibroptic direct laryngoscopy",1,procedure
+199766,"ent diagnostic naso pharyngial, fibroptic endoscopy",1,procedure
+199767,ent ear syringingwashing,1,other
+199768,ent ear wick insertion 07013325,1,procedure
+199769,ent examenation with endoscop op,1,other
+199770,ent fee- consultant,1,consultation
+199771,ent fee- consultant(10008,1,consultation
+199772,ent fee- specialist 1st,1,consultation
+199773,ent fee/ consultant(10008,1,consultation
+199774,ent follow up,2,consultation
+199775,ent material cost (additional,1,other
+199777,ent profile (below 40 years) - in -p,1,lab_test
+199778,ent removal of foreign body from nose (08613512,1,procedure
+199779,ent seci. consultation,1,consultation
+199780,ent seci. consultation/ كشف اخصائى أنف واذن,1,consultation
+199781,ent senior consultant fee,1,consultation
+199782,ent sp consultation,1,consultation
+199783,ent spec fee,1,consultation
+199785,ent specialist 2,1,consultation
+199786,ent specialist consoltation,1,consultation
+199787,ent specialist consultation,2,consultation
+199788,ent specialist f/up,1,consultation
+199789,ent specialist fee,3,consultation
+199790,ent specialist on duty,1,consultation
+199791,ent specialist's fee,2,consultation
+199792,ent suction coagulator 12fr hand control6 cann10ft,1,supplies
+199793,ent suction ear/nose (bilat,1,supplies
+199794,ent suction ear/nose (unilat,1,supplies
+199795,ent spec consaltation,1,other
+199799,ent video consultations,1,other
+199800,ent video consultations specialist,1,consultation
+199802,ent consultation outside the time,1,consultation
+199804,"ent probe, reusable",1,supplies
+199805,ent shaver system,1,other
+199806,ent shaver system handpiece,1,other
+199810,"ent surgical procedure kit, non-medicated, single-use",1,procedure
+199811,ent wire-cutting scissors,1,supplies
+199812,ent-000 consultation,1,consultation
+199813,ent-002 f.b.removal,1,procedure
+199814,ent-009 cautery of epistaxis,1,procedure
+199815,ent-012 wash of both ears,1,procedure
+199816,ent-016 sinuscopy,1,procedure
+199817,ent-cons,1,consultation
+199819,ent.con. specialist a,1,consultation
+199820,ent.con.consultant,1,consultation
+199822,entamoeb hist group ag,1,lab_test
+199823,entamoeba histolotica (amoebiasis) antibodies,1,lab_test
+199824,entamoeba histolytica ag (stool,1,lab_test
+199825,entamoeba histolytica antigen in stool,1,lab_test
+199941,entapro10mgtab(b/30,1,other
+199943,entecavir,1,other
+199961,entenox 1/2 or less/cylinder,1,other
+199962,entenox per cylinder,1,other
+199963,entensor tenolysis,1,procedure
+199965,enteral feeding bags 1l feed 1l flush sterile disposable,1,supplies
+199966,enteral feeding fr. (6 & 8,1,eyewear
+199968,"enteral feeding supply kit; pump fed, per day - use of feeding machne",1,supplies
+199969,enteral nutritional support,1,supplies
+199971,"enterectomy, resection of small intestine; single resection and anasto",1,procedure
+199972,"enterectomy, resection of small intestine;each additional resection an",1,procedure
+199974,enternal feeding set-per pcs,1,supplies
+199975,enternal feeding tube with stylet 8fr x 56cm - per pcs,1,supplies
+199976,entero virus (coxsackie,1,other
+199977,entero virus (coxsackie) abs,1,lab_test
+199978,entero virus (coxsackie)( so,1,other
+199979,entero virus abs in serum - s.o,1,lab_test
+199980,entero virus coxsackie,1,other
+199981,entero virus culture (csf,1,lab_test
+199982,enterocytes cell abs (iga & igg) - s.o,1,lab_test
+199983,"enteroenterostomy, anastomosis of intestine",1,procedure
+199984,enterogermina,2,other
+199991,enterogermina 12caps,1,other
+200003,enterogermina bottles,1,other
+200010,enterogermina oral sus -10s,1,other
+200011,enterogermina oral sus -20s,1,other
+200031,enterogermina oral suspention,1,other
+200040,enterolysis (freeing of intestinal adhesion) (separate procedure,2,procedure
+200041,enteroscopy,1,procedure
+200042,enteroscopy +/- biopsy transoral or trannsanal,1,procedure
+200044,enteroscopy / push (diagnostic / therapitic,1,procedure
+200045,enteroscopy single balloon,1,supplies
+200046,enterotomy or colotomy,1,procedure
+200047,enterovirus (coxsackie) antibodies - s.o,1,lab_test
+200048,enterovirus abs,1,lab_test
+200049,enterovirus pcr in csf - s.o,1,lab_test
+200050,enterovirus rna pcr (csf,1,lab_test
+200051,enterovirus rt-pcr,1,lab_test
+200052,entonox gases ( pain relief,1,other
+200053,entonox in dr. for hour,1,other
+200055,entressto 51.4 - 48.6,1,other
+200056,entresto,2,other
+200066,entresto 100,1,other
+200167,entresto 50,2,other
+200228,entresto mg,1,other
+200234,entropian correction for both eyes,1,other
+200235,entropian repair,1,procedure
+200236,entropion,2,other
+200237,entropion correction,1,other
+200238,entropion surgery (one eye) under ga,1,supplies
+200239,entropion surgery (one eye) under ga/dr. qusai mohammed,1,supplies
+200256,"enucl. of jaw cyst up to 3 cm, (la",1,other
+200257,enuclation of thyroid cyst,1,procedure
+200258,"enucle and orbital procs, majc",1,inpatient
+200259,"enucle and orbital procs, minc",1,inpatient
+200260,"enucle & orbital procs, majc",1,inpatient
+200261,enucleation of cystic lesion histopathology,1,lab_test
+200262,enucleation of cystic lesion + histopathology,1,lab_test
+200263,enucleation of cystic lesion + histopathology + bone graft,1,imaging
+200264,enucleation of cystic lesion + histpahtology,1,other
+200265,enucleation of cystic lesion 3-5 cm and reconstruction of bony defect under g.a (pd,1,procedure
+200266,enucleation of cystic lesion > 5 cm and reconstruction of bony defect under g.a (pd,1,procedure
+200267,enucleation of cystic lesion upto 2.5 cm and reconstruction of bony defect under g.a 3 days pkg,1,procedure
+200268,enucleation of cystic lesion with histopathology,1,lab_test
+200269,enucleation of cystic lesion with histopathology with bone graft,1,imaging
+200270,enucleation of large cyst,1,other
+200271,enucleation of moderate cyst,1,other
+200272,enucleation of mucocele,1,other
+200273,enucleation of small cyst,1,other
+200274,enucleation of small lipoma or seb,1,other
+200275,enucleation or evisceration - prosthesis implant,1,supplies
+200276,enucleation or evisceration of eye ball,1,other
+200277,enucleation or evisscretion ? prosthesis implant,1,supplies
+200278,enucleation with orbital implant,1,supplies
+200279,enucleation with implant,1,supplies
+200280,enuculation of max / mand. cyst up to 1 cm in diameter,1,other
+200281,enuculation of maxillary / mandibular cyst,1,other
+200282,enuculation of small cyst,1,other
+200283,environmental specimen culture,1,lab_test
+200286,envy blu,1,other
+200293,enzo,1,other
+200294,enzo blk,1,other
+200295,enzo loren,2,other
+200296,enzo loren 3201 m.blk.red 50,1,other
+200297,"enzo loren , 1677 , clear , 45",1,other
+200298,"enzo loren , 2742v , 2 , 54",1,other
+200299,"enzo loren , 2742v , 3 , 54",1,other
+200300,"enzo loren , 3201 , m.blk.red , 50",1,other
+200301,"enzo loren , 3201 , m.brn.sil , 50",1,other
+200302,"enzo loren , 3986/9st , w4 , 49",1,other
+200303,"enzo loren , 707 , brn , 51",1,other
+200304,"enzo loren , 707 , sil , 51",1,other
+200305,"enzo loren , a17426 , 3 , 50",1,other
+200306,"enzo loren , cx6279 , c5 , 49",1,eyewear
+200307,"enzo loren , el.04 , blu , 46",1,other
+200308,"enzo loren , el.06 , pink , 42",1,other
+200309,"enzo loren , ez.101 , c.2 , 50",1,other
+200310,"enzo loren , ez.101 , c.3 , 50",1,other
+200311,"enzo loren , h.02 , whit , 51",1,other
+200312,"enzo loren , h.910 , pink , 40",1,other
+200313,"enzo loren , m.42 , sky blu , 46",1,other
+200314,"enzo loren , mw16175 , 3 , 53",1,other
+200315,"enzo loren , mw18163 , 3 , 45",1,other
+200316,"enzo loren , wd.1084 , 2 , 52",1,other
+200317,enzo loren ez-52 44 purple,1,other
+200319,enzo loren frm mod el02,1,eyewear
+200320,enzo loren frm mod h14,1,eyewear
+200322,enzo loren2,1,other
+200323,enzy mrs,1,other
+200326,enzymatic cleaner for washer machine,1,supplies
+200328,enzymax fort 20cap,1,other
+200329,enzymax forte,1,other
+200342,enzymax forte capsulesx 20c,1,other
+200347,"enzyme activity in blood,cultured cells or tissue,radioactive substrate each specimen",1,lab_test
+200348,enzyme activity ra,2,lab_test
+200349,enzyme bilirubin updg transferase (genetic study,1,lab_test
+200350,enzyme electrophoresis (ldhck,1,lab_test
+200351,"enzyme electrophoresis(ldh,ck",2,lab_test
+200352,enzyme electrophoresis(ldh-ck,1,lab_test
+200353,enzyme electrophoresis(ldhck,1,lab_test
+200354,"enzyme electrophoresisldh,ck",1,lab_test
+200355,enzyme electrophoresisldhck,1,other
+200356,"enzyme immunoassay (eia) qualitative/semiquantitative, multiple step; hiv-1",1,lab_test
+200362,eo,1,other
+200364,eosinophil count,2,lab_test
+200365,eosinophilcount,1,other
+200366,eosinophilic count,2,lab_test
+200367,eosinophilic count total,1,lab_test
+200368,eosinophils count,1,lab_test
+200369,ep ablation therapeutic,1,procedure
+200370,ep pre-cath peds follow-up,1,supplies
+200371,ep study and ablation for atrial tachycardia or wpw,3,procedure
+200372,ep study and ablation for atrial flutter and/or svt (avnrt and avrt,1,procedure
+200374,ep5107/020/f,1,other
+200376,epanutin,2,other
+200416,epasterin,1,other
+200426,epdl infus other/cmb thrpc subs,1,other
+200427,epely manover,1,other
+200428,epf w/ 3d mapping abliation -procedure,1,other
+200429,epf with 3d mapping ablation -pkg,1,procedure
+200432,ephedrine (s,1,other
+200459,epic vas stent 6 x 41 x 120ea,1,supplies
+200461,epicectomy - إزالة جزء من جذر السن,1,procedure
+200462,epicectomy for one tooth,1,dental
+200464,epicocillin,3,other
+200545,epicocilling,1,other
+200549,epicogel,1,other
+200559,epicogel 125syp,1,other
+200603,epicogel sy,1,other
+200616,"epid. anal.,lumbar/caudal",1,other
+200617,epidermal abscess and biopsy ( including cyst,1,procedure
+200618,epidermal growth factor receptor (efgr,1,lab_test
+200619,epidermal mix e x 1,1,lab_test
+200620,epidermoid cyst excision,2,procedure
+200621,epidermoid cyst,1,other
+200622,epideural anaesthesia,1,procedure
+200623,epididmectomy,1,procedure
+200624,epididymal cyst excision (unilateral,1,procedure
+200625,epididymal cyst excision(unil,1,procedure
+200627,epididymectomy unilateral,3,procedure
+200628,epididymovasostomy,1,procedure
+200630,epidural,1,procedure
+200631,epidural anaesthesia,1,procedure
+200632,epidural anaesthesia - opd,1,procedure
+200633,epidural anaesthesia - opd (pain relief,1,procedure
+200634,epidural anaesthesia / analgesia,2,procedure
+200636,epidural anaesthesia asa i & ii,1,procedure
+200637,epidural anaesthesia for delivery,1,procedure
+200638,epidural anaesthesia for normal delivery,1,procedure
+200639,epidural anaesthesia for painless delivery,1,procedure
+200640,epidural anaesthesia included anaesthesiologist,1,procedure
+200641,epidural anaesthesia without anaesthesiologist,1,procedure
+200642,epidural anaesthetic,1,procedure
+200643,epidural anaesthetic - 103-10325,1,procedure
+200644,epidural anaesthetic - 104-10325,1,procedure
+200645,epidural analgesia,4,procedure
+200646,epidural analgesia (labour,2,procedure
+200647,epidural analgesia (labour - pain relief,2,procedure
+200650,epidural analgesia 24 hours,1,procedure
+200651,epidural analgesia for cesarean section,1,procedure
+200652,epidural analgesia for chronic low back,1,procedure
+200653,epidural analgesia for delivery (single,1,procedure
+200655,epidural analgesia+facet joint block,1,procedure
+200657,epidural analgesia/anesthesia,1,procedure
+200658,epidural analgesia/procedure w/o drugs a,1,procedure
+200659,epidural analgesic (labour pain relief,1,procedure
+200660,epidural anesthesia,4,procedure
+200661,epidural anesthesia for delivery,1,procedure
+200662,epidural anesthesia 1st hour,1,procedure
+200663,epidural anesthesia 2nd hour onwards,1,procedure
+200664,epidural anesthesia asa iii & iv consecutive hour,1,supplies
+200665,epidural anesthesia for pain treatment,1,procedure
+200666,epidural anesthesia for painless delivery,1,procedure
+200667,epidural anesthetia with medications,1,procedure
+200668,epidural block,2,procedure
+200669,epidural block (infiltration,1,procedure
+200670,epidural block (lumbar,1,procedure
+200672,epidural blood patch,1,lab_test
+200674,epidural catheter insertion for painless delivery,1,supplies
+200675,epidural caudal,1,procedure
+200677,epidural cervical,1,imaging
+200678,epidural cortisone sedation,1,procedure
+200679,"epidural cortisone sedation,x-ray guided,lumbar day case package(includes all levels,all procedures done with this procedure,meds, accomodation",1,imaging
+200682,epidural fee (for normal delivery or caesarian,1,procedure
+200683,epidural for cs with post op care,1,procedure
+200684,epidural for labour pain,1,procedure
+200685,epidural for post operative pain daily,1,procedure
+200687,epidural including anaesthesiologist fee,1,procedure
+200688,epidural including anesthesiologist fee,1,procedure
+200689,epidural infiltaration,1,procedure
+200690,epidural infiltration,1,procedure
+200691,epidural infiltration ne00378011,1,procedure
+200692,epidural infiltration py00378011,1,procedure
+200693,epidural infusion of opioid,2,supplies
+200694,epidural infusion of steroid,1,supplies
+200696,epidural injct for lysis of adhesions,1,procedure
+200709,epidural injetcion for pain treatment,2,procedure
+200714,epidural kit g16/g18,1,procedure
+200715,epidural kit g18-mini kit b braun # 4514513c,1,supplies
+200716,epidural labour pain relief,2,procedure
+200717,epidural lumbar,1,procedure
+200718,epidural maxipack 100/390/118,1,procedure
+200719,epidural minipack 100/391/118,1,procedure
+200721,"epidural minipack g18 #100/391/118, portex",2,procedure
+200724,epidural procedure (package,1,procedure
+200725,epidural set,2,procedure
+200726,epidural steroial - lumbar,1,procedure
+200729,epidural steroid injections (esi) interlaminar cervical or thoracic,1,imaging
+200730,epidural steroid injections (esi) interlaminar lumbar or sacral (caudal,1,procedure
+200731,epidural steroid lumbar - 1 day pkg,1,procedure
+200733,epidural steroids injection_cat7602,1,procedure
+200734,epidural with continuous catheter lumber/sacral/c,1,supplies
+200735,epidural-insertion,1,procedure
+200736,epidydemal cyst removal,1,procedure
+200781,epigastric hernia,2,procedure
+200782,epigastric hernia level i (2d,1,lab_test
+200783,epigastric hernia level ii (2d,1,lab_test
+200784,epigastric hernia repair,2,procedure
+200785,epigastric hernia repair - large,1,procedure
+200786,epigastric hernia repair / open,1,procedure
+200787,epigastric hernia repair w/mesh (pkg,1,supplies
+200793,epilaiton of the eyelashes,2,other
+200794,epilasik - one eye,1,supplies
+200795,epilasik one eye - (without lab test,1,lab_test
+200796,epilasik two eyes - (without lab test,1,lab_test
+200822,epilation,2,procedure
+200823,epilation + electrolysis,1,procedure
+200824,epilation - 1 (each eye,1,procedure
+200825,epilation - 2 (both eyes,1,procedure
+200826,epilation body in cornea deep,1,procedure
+200827,epilation of aberrant lashes,4,procedure
+200828,epilation of abberant lashes,1,procedure
+200830,epilation of aberrant lashes per session,1,physiotherapy
+200832,epilation of aberrant lushes,1,procedure
+200833,epilation of eye lachs,1,procedure
+200834,epilation of eye lash,2,procedure
+200835,epilation of eyelash,1,procedure
+200836,epilation of impeded hair,1,procedure
+200837,epilation of lashes,3,procedure
+200838,epilation of lashes one eye,1,supplies
+200839,epilation of rubbing eye lashes,1,procedure
+200840,epilation of rubbing eyelashes,2,procedure
+200841,epilation of rubbing lash,1,procedure
+200842,epilation of trichiasis,1,procedure
+200843,epilation tridiasis,2,procedure
+200845,epilepsy peds follow-up,1,consultation
+200846,epilepsy surgery follow-up,1,procedure
+200847,epilepsy surgery new follow-up,1,procedure
+200848,epilepsy surgery new patient,1,procedure
+200849,epillation of lash,2,other
+200850,epimag,2,other
+200864,epimag 10 sashet,1,other
+200866,epimag 10sachets eff. pow,1,other
+200869,epimag box 10 sashets,1,other
+200870,epimag eff,3,other
+200878,epimag eff 10sachets,2,other
+200879,epimag eff gran,1,other
+200908,epimag eff. 10sachets,1,other
+200924,epimag eff. pwder,1,other
+200928,epimag eff.powders,1,other
+200932,epimag effer,1,other
+201012,epimag gef sac 10s,1,other
+201021,epimag granuls 10's,1,other
+201022,epimag granuls 10--s,1,other
+201038,epimag sachts,1,other
+201041,epimage eff,1,other
+201044,epinastine hydrochloride,1,other
+201047,epinephrine,2,other
+201078,epinephrine nebulizer,1,supplies
+201112,epiphyseal fracture o/r k.wire fixation,1,supplies
+201113,epiphysiddeusis of the lateral proximal tibia (growth plate,1,supplies
+201114,epiphysiodesis (or hemiphysiodesis)-1day pkg,1,procedure
+201115,epiphysiodesis at two levels,1,lab_test
+201116,epiphysiodesis by 8 staples (implant not included,1,supplies
+201117,epiphysiodesis of femur and tibia and fibula,1,procedure
+201118,epiphysiodesis of left knee - 2 days pkg,1,procedure
+201119,epiphysiodesis of right knee - 2 days pkg,1,procedure
+201120,epipoint titan one sizeepipoint titan one size,1,supplies
+201132,epirazole 20,2,other
+201194,epiretinal membrane peeling,2,other

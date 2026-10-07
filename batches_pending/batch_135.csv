@@ -1,0 +1,501 @@
+canonical_id,service_normalized,occurrences,category
+324367,lab test - prothrombin time ( pt,1,lab_test
+324368,lab test - psa - prostate specific antigen,1,lab_test
+324369,lab test - pt,1,lab_test
+324370,lab test - ptt,1,lab_test
+324371,lab test - r.a factor,1,lab_test
+324372,lab test - r.p.r / v.d.r.l,1,lab_test
+324373,lab test - random blood sugar,1,lab_test
+324374,lab test - reticulocyte count,1,lab_test
+324375,lab test - rft (renal function test,1,lab_test
+324376,lab test - rotavirus,1,lab_test
+324377,lab test - s.g.o.t,1,lab_test
+324378,lab test - s.g.p.t,1,lab_test
+324379,lab test - semen analysis,1,lab_test
+324380,lab test - serium creatinine,1,lab_test
+324381,lab test - serum ferritin,1,lab_test
+324386,lab test - skin scrapping for fungus,1,lab_test
+324387,lab test - sodium,1,lab_test
+324388,lab test - sputum afb culture,1,lab_test
+324389,lab test - stool analysis,1,lab_test
+324390,lab test - stool occult blood,1,lab_test
+324391,lab test - t.p.h.a,1,lab_test
+324392,lab test - t3,1,lab_test
+324393,lab test - t3 (total,1,lab_test
+324394,lab test - t4,1,lab_test
+324395,lab test - t4 (total,1,lab_test
+324398,lab test - torch test,1,lab_test
+324399,lab test - total i.g.e,1,lab_test
+324400,lab test - total proteins,1,lab_test
+324401,lab test - toxoplasma i gm,1,lab_test
+324402,lab test - triglycerides,1,lab_test
+324403,lab test - troponin,1,lab_test
+324404,lab test - tsh,1,lab_test
+324405,lab test - tumor marker ca 125,1,lab_test
+324406,lab test - thyroid disoroders lab package(tsh + t3 + t4 + home service,1,lab_test
+324407,lab test - urea,1,lab_test
+324409,lab test - urine analysis,1,lab_test
+324410,lab test - urine culture,1,lab_test
+324411,lab test - urine for micro albumin,1,lab_test
+324412,lab test - urine ketones,1,lab_test
+324413,lab test - urine sugar,1,lab_test
+324417,lab test - widal,1,lab_test
+324418,lab test - z.n.stain,1,lab_test
+324420,lab test high sensitive troponin t,1,lab_test
+324421,lab test-h-pylori antigen(stool,1,lab_test
+324422,lab tokai f.top pl 1.60 white,1,eyewear
+324423,lab tokai plastic f.top white,2,eyewear
+324424,lab tokai plastic hi index 1.60,2,eyewear
+324425,lab tokai plastic hi index 1.67,2,eyewear
+324426,lab tokai plastic hi index 1.70,2,eyewear
+324427,lab tokai plastic sv,2,eyewear
+324433,lab troat culture,1,lab_test
+324434,lab troponin- t,1,lab_test
+324435,lab urine analysis,1,lab_test
+324436,lab urine culture,1,lab_test
+324437,lab v.lux hi-in 1.67 japan,1,eyewear
+324438,lab v.lux pl compact,1,eyewear
+324439,lab v.lux pl transition,1,eyewear
+324440,lab w.glass,1,eyewear
+324443,"lab- h pylori antigen, stool test",1,lab_test
+324444,lab-000 r.blood sugar,1,lab_test
+324445,lab-001 urine analysis,1,lab_test
+324446,lab-003 serum preg. test,1,lab_test
+324447,lab-006 s.triglyceride,1,lab_test
+324448,lab-007 s.cholesterol,1,lab_test
+324450,lab-009 s.creatinine,1,lab_test
+324451,lab-010 blood urea,1,lab_test
+324452,lab-011 total bilirubin,1,lab_test
+324453,lab-012 c.b.c,1,lab_test
+324454,lab-013 e.s.r,1,lab_test
+324455,lab-019 f.bl.sugar,1,other
+324456,lab-020 s.g.p.t,1,lab_test
+324457,lab-022 anti h. pylori,1,lab_test
+324458,lab-023 r.h.factor,1,lab_test
+324460,lab-030 c/s test,1,lab_test
+324461,lab-032 hbs.ag,1,lab_test
+324463,lab-035 h.d.l,1,lab_test
+324464,lab-036 l.d.l,1,lab_test
+324465,lab-038 ear swab c/s,1,lab_test
+324466,lab-042 semen fluid c/s,1,lab_test
+324467,lab-051 t3,1,lab_test
+324468,lab-052 t4,1,lab_test
+324469,lab-053 t.s.h,1,lab_test
+324470,lab-060 alk.phosphate,1,other
+324471,lab-063 a.s.l.o titer,1,lab_test
+324472,lab-064 vdrl (rpr,1,lab_test
+324473,lab-067 na+,1,lab_test
+324474,lab-068 k+,1,other
+324475,lab-072 c.r.p,1,lab_test
+324476,lab-081 free t4,1,lab_test
+324477,lab-2 hours p.p.b.s,1,lab_test
+324478,lab-204 hba 1c,1,lab_test
+324479,lab-amylase,1,lab_test
+324480,lab-anf,2,other
+324481,lab-aso titer,1,lab_test
+324482,lab-b-hcg/quali,1,lab_test
+324483,lab-b-hcg/quanti,1,lab_test
+324485,lab-bleeding time,1,lab_test
+324486,lab-bun,1,lab_test
+324488,lab-cbc,3,lab_test
+324489,lab-cholesterol,1,lab_test
+324490,lab-coltting time,1,other
+324491,lab-cpk,1,lab_test
+324492,lab-crp,1,lab_test
+324493,lab-esr,3,lab_test
+324494,lab-ferritin,3,lab_test
+324495,lab-fsh,1,lab_test
+324496,lab-gama g.t,1,lab_test
+324497,lab-glyco hb,1,lab_test
+324500,lab-preop,1,other
+324501,lab-prolactin,2,lab_test
+324502,lab-prothrombin time,1,lab_test
+324503,lab-ptt,1,lab_test
+324504,lab-ra,2,lab_test
+324505,lab-rbs,4,lab_test
+324506,lab-renal biopsy,1,procedure
+324507,lab-sgot,1,lab_test
+324508,lab-sgpt,1,lab_test
+324509,lab-smear/gram stain,1,lab_test
+324510,lab-sodium,1,lab_test
+324511,lab-throat culture,1,lab_test
+324512,lab-total bilirubin,1,lab_test
+324513,lab-total ige,1,lab_test
+324515,lab-triglycerides,2,lab_test
+324516,lab-tsh,3,lab_test
+324518,lab-widal titer,1,lab_test
+324519,lab. culture container,2,lab_test
+324520,lab. pre- op ( cbcd&creatinine&pt&ptt&blood group&rbs&or screen,1,lab_test
+324521,lab. pre- op ( cbcd&crp&esr&rbs&pt& or screen,1,lab_test
+324523,lab0022/ h.pylori (stool ag,1,lab_test
+324524,lab0022/ helicobacter ag,1,lab_test
+324526,lab0023 - h.pylori,1,lab_test
+324527,lab0023 - h.pylori total ab,1,lab_test
+324528,lab0036/ stool c &s,1,lab_test
+324529,lab0040/ throat swab c&s,1,lab_test
+324530,lab0043/ urine c & s,1,lab_test
+324531,lab0043/ urine culture& senstivity,1,lab_test
+324533,lab0045/ widal test for salmonella,1,lab_test
+324534,laban,1,other
+324535,label printed for sterilizer,1,other
+324536,labeled rbc g.i. bleeding scan,1,imaging
+324537,labello,1,other
+324538,labello blackberry shine,1,other
+324539,labello lip care men active 4,1,other
+324540,labello original lip balm,1,other
+324543,labello shine cherry,1,other
+324597,labia minor adhesion release,1,procedure
+324598,labial frenectomy,2,procedure
+324599,labial frenectomy (maxillo,1,procedure
+324600,labial lesion excision or abcess incision,1,procedure
+324601,labial separation,1,other
+324602,labial veneer (porcelain laminate) - laboratory,2,other
+324604,labor transducer belt ctg ams,1,diagnostic
+324605,laboratory,2,other
+324606,laboratory analysis for children,1,procedure
+324607,laboratory o.r screening,1,lab_test
+324608,laboratory o.r. screening,1,lab_test
+324609,laboratory sample collection by nurse ( blood/ urine/stool samples,1,lab_test
+324610,laboratory service kit,1,other
+324611,labour ward bed,1,supplies
+324612,labral debridement / repair with femoral neck ostoplasty,1,procedure
+324613,labs-fbs,1,lab_test
+324614,"labtek leg garment ex large, lbtk 502-xl",1,other
+324615,"labtek leg garment large, lbtk 500-l",1,other
+324616,lab_ pre op insurance (( adult,2,insurance
+324618,lab_ pre op insurance (( pedia,1,insurance
+324619,lab_ preoperative insurance,1,insurance
+324620,lab_ preoperative pedia,1,other
+324623,lacalut mouth wash,1,procedure
+324624,lacarimal puncta occlusion (one eye) under la,1,supplies
+324625,lacarimal puncta occlusion (one eye) under la/dr. 40 reem al-anazi,1,supplies
+324626,lacarimal puncta occlusion (one eye) under la/dr. mohanna al jindan,1,supplies
+324628,lacerated wound,1,other
+324629,lacerated wound / g.a - pkg 1 day,1,lab_test
+324630,lacerated wound repair,1,procedure
+324631,lacerated wound suture w/la (large,1,supplies
+324632,lacerated wound suture w/la (medium,1,supplies
+324633,lacerated wound suture w/la (small,1,supplies
+324634,laceration tongue,1,other
+324636,lacetic,1,other
+324637,lacimal duct prubing,1,other
+324662,lacmiral probe local anesthes,1,supplies
+324663,lacosamide,2,other
+324683,lacosamide spc,1,other
+324686,lacosta - lac2620c214,1,other
+324687,lacosta - lac3604c001,1,other
+324688,lacosta/l2102/001/f,1,other
+324689,lacosta/l2102/317/f,1,other
+324690,lacoste,2,eyewear
+324691,lacoste - la141,1,eyewear
+324692,lacoste - la2733,1,eyewear
+324695,lacoste 1,1,eyewear
+324696,lacoste 2,1,eyewear
+324697,lacoste 2661-210 52 c2 male,1,eyewear
+324698,lacoste 3,1,eyewear
+324699,lacoste 3804-51-16 51 c30 male,1,eyewear
+324700,lacoste c6717,1,eyewear
+324701,lacoste cdl-2103,1,eyewear
+324714,lacoste fram,1,eyewear
+324715,lacoste l1535,1,eyewear
+324716,lacoste l202spc45,1,eyewear
+324717,lacoste l2655,1,eyewear
+324718,lacoste l2700,1,eyewear
+324719,lacoste l2832 col 001 48-20 fr,1,eyewear
+324720,lacoste l2832 col 210 48-20 fr,1,eyewear
+324721,lacoste l2843 col 001 56-15 fr,1,eyewear
+324722,lacoste l2853pc col 001 52-19 fr,1,eyewear
+324723,lacoste l2887 col 01 54-17 fr,1,eyewear
+324724,lacoste l886s1,1,eyewear
+324725,lacoste lacoste12432 bk,1,eyewear
+324726,lacoste lacoste12438 bk,1,eyewear
+324728,lacoste o - l2793c424,1,eyewear
+324729,lacoste optical,1,eyewear
+324741,lacoste/l2102/424/f,1,eyewear
+324742,lacoste/l2102/714/f,1,eyewear
+324743,lacoste/l2104/714/f,1,eyewear
+324744,lacoste/l2110/424/f,1,eyewear
+324745,lacoste/l2118/001/f,1,eyewear
+324746,lacoste/l2119/210/f,1,eyewear
+324747,lacoste/l2122/001/f,1,eyewear
+324748,lacoste/l2122/210/f,1,eyewear
+324749,lacoste/l2122/317/f,1,eyewear
+324750,lacoste/l2122/424/f,1,eyewear
+324751,lacoste/l2126/001/f,1,eyewear
+324752,lacoste/l2126/210/f,1,eyewear
+324753,lacoste/l2126/424/f,1,eyewear
+324754,lacoste/l2131/317/f,1,eyewear
+324755,lacoste/l2136/033/f,1,eyewear
+324756,lacoste/l2138/033/f,1,eyewear
+324757,lacoste/l2138/045/f,1,eyewear
+324758,lacoste/l2138/210/f,1,eyewear
+324759,lacoste/l2138/714/f,1,eyewear
+324760,lacoste/l2139/210/f,1,eyewear
+324761,lacoste/l2139/317/f,1,eyewear
+324762,lacoste/l2140/315/f,1,eyewear
+324763,lacoste/l2140/317/f,1,eyewear
+324764,lacoste/l2140/704/f,1,eyewear
+324765,lacoste/l2142/704/f,1,eyewear
+324766,lacoste/l2159/045/f,1,eyewear
+324767,lacoste/l2159/714/f,1,eyewear
+324768,lacoste/l2164/035/f,1,eyewear
+324769,lacoste/l2172/424/f,1,eyewear
+324770,lacoste/l2175/210/f,1,eyewear
+324771,lacoste/l2181/714/f,1,eyewear
+324772,lacoste/l2182/033/f,1,eyewear
+324773,lacoste/l2501/316/f,1,eyewear
+324774,lacoste/l2603/210/f,1,eyewear
+324775,lacoste/l2603/971/f,1,eyewear
+324776,lacoste/l2608/315/f,1,eyewear
+324777,lacoste/l2616/001/f,1,eyewear
+324778,lacoste/l2638/001/f,1,eyewear
+324779,lacoste/l2638/210/f,1,eyewear
+324780,lacoste/l2642/001/f,1,eyewear
+324781,lacoste/l2645/001/f,1,eyewear
+324782,lacoste/l2645/045/f,1,eyewear
+324783,lacoste/l2645/210/f,1,eyewear
+324784,lacoste/l2645/214/f,1,eyewear
+324785,lacoste/l2646/001/f,1,eyewear
+324786,lacoste/l2646/317/f,1,eyewear
+324787,lacoste/l2655/214/f,1,eyewear
+324788,lacoste/l2655/971/f,1,eyewear
+324789,lacoste/l2658/315/f,1,eyewear
+324790,lacoste/l2659/318/f,1,eyewear
+324791,lacoste/l2660/214/f,1,eyewear
+324792,lacoste/l2679/001/f,1,eyewear
+324793,lacoste/l2679/214/f,1,eyewear
+324794,lacoste/l2680/001/f,1,eyewear
+324795,lacoste/l2688/210/f,1,eyewear
+324796,lacoste/l2688/318/f,1,eyewear
+324797,lacoste/l2708/466/f,1,eyewear
+324798,lacoste/l2708/615/f,1,eyewear
+324799,lacoste/l2709/317/f,1,eyewear
+324800,lacoste/l2709/424/f,1,eyewear
+324801,lacoste/l2709/514/f,1,eyewear
+324802,lacoste/l2721/424/f,1,eyewear
+324803,lacoste/l2725/214/f,1,eyewear
+324804,lacoste/l2725/424/f,1,eyewear
+324805,lacoste/l2728/214/f,1,eyewear
+324806,lacoste/l3605/214/f,1,eyewear
+324807,lacoste/l3607/971/f,1,eyewear
+324808,lacoste/l3801b/001/f,1,eyewear
+324809,lacoste/l3801b/971/f,1,eyewear
+324810,lacoste/l3802b/317/f,1,eyewear
+324811,lacoste/l3802b/466/f,1,eyewear
+324812,lacoste/l3802b/800/f,1,eyewear
+324813,lacoste2620 214,1,other
+324814,lacostel2217 001 = 05/2016,1,other
+324815,lacostel2645 210,1,other
+324816,lacostel2685 214 = 05/2016,1,other
+324817,lacostel2707 001 = 05/2016,1,other
+324818,lacostel2720 001=05/2015,1,other
+324819,lacostel2723 004 = 05/2016,1,other
+324820,lacostel2739 424=05/2015,1,other
+324821,lacoster cdl-2103,1,other
+324823,lacrifresh liquigel ocu-dry 0.30,1,other
+324824,lacriimal duct delatation g-a,1,other
+324825,lacriimal duct dilatation l-a,1,procedure
+324826,lacrimal duct. prob. under l.a one eye,1,supplies
+324827,lacrimal brroobing local,1,other
+324828,lacrimal canal irrigation (per eye,1,dental
+324829,lacrimal canal probing,1,dental
+324830,lacrimal canaliculum probing,2,procedure
+324831,lacrimal canaliculum probing - one eye - inp,1,supplies
+324832,lacrimal canaliculum probing with intubation(stenting) with stent one eye,1,supplies
+324833,lacrimal canaliculum probing with stent-ou,1,supplies
+324834,lacrimal canaliculum reconstruction,1,procedure
+324835,lacrimal canaliculum reconstruction glo,1,procedure
+324836,lacrimal canaliculus reconstruction,1,procedure
+324837,lacrimal canalliculum reconst,2,other
+324838,lacrimal dcuct probing o.r. l.a,1,procedure
+324839,lacrimal duct irrigation (one eye,1,supplies
+324840,lacrimal duct prob,1,other
+324841,lacrimal duct probing,1,procedure
+324842,lacrimal duct probing (both eyes,1,procedure
+324843,lacrimal duct probing (tdp) with syringing pedia - probing c,1,procedure
+324844,lacrimal duct probing 1,1,procedure
+324845,lacrimal duct probing o.r. l.a,1,procedure
+324846,lacrimal duct probing unilateral,2,procedure
+324848,lacrimal duct probins under ga,1,other
+324849,lacrimal duct scintigraphy(epiphora,1,imaging
+324850,lacrimal duct washing (bilateral,1,procedure
+324851,lacrimal gland tumor excision & biopsy - 1 day pkg,1,procedure
+324852,lacrimal intubation set with retrieval device and stainless steel probes olive shape tip sterile disposable (3s,1,supplies
+324853,lacrimal passage syringing & washout,1,procedure
+324854,lacrimal passage syringing and wash - bilateral,1,procedure
+324855,lacrimal plugs one eye,1,supplies
+324856,lacrimal plugs two eyes,1,supplies
+324857,lacrimal prob.under ga one eye,1,supplies
+324858,lacrimal probbing irrigation for adult right,1,procedure
+324859,lacrimal probing,1,procedure
+324860,lacrimal probing under gen,1,procedure
+324861,lacrimal procedures,2,other
+324862,lacrimal puncta occlusion (both eyes) under la,1,other
+324863,lacrimal puncta occlusion (both eyes) under la/dr. mohanna al jindan,1,other
+324864,lacrimal puncta occlusion (both eyes) under la/dr. muath alrushood,1,other
+324866,lacrimal puncta occlusion (both eyes) under la/dr. shaikha al-eid,1,other
+324867,lacrimal puncta occlusion (both eyes) under la/dr. walaa alderi,1,other
+324868,lacrimal puncta occlusion (one eye,1,supplies
+324869,lacrimal rpobbing irrigation for adult left,1,procedure
+324870,lacrimal system intubation,1,procedure
+324871,lacrimal system wash,1,procedure
+324872,lacrymal cystectomy,1,procedure
+324874,lactat(fluoride,1,other
+325001,lactated ringerssolution500ml,1,other
+325004,lacti-flora kid 10 saches,1,other
+325045,lacticare,2,other
+325046,lactida .food supplement,1,other
+325047,lactida 30-chew/pk,1,other
+325049,lactida food supplement,1,other
+325063,lactobacillus probiotics - biopro max- box of 7 (r0054,1,other
+325082,lactoferrin fecal quantitative,1,other
+325083,lactoferrin stool quantitative,1,lab_test
+325084,lactoflor fibers,1,other
+325085,lactoflor kids,1,other
+325092,lactoglobin,1,other
+325104,lactolind 30 sticks,1,other
+325129,lactonic ease to go 2 can,1,other
+325130,lactonic ease to go 3 powdered can,1,other
+325135,lactonic ease to go1can,1,other
+325137,lactonic gold 2 - 400,1,nutrition
+325141,lactonic ha 2 plus powdered can,1,other
+325143,lactonic ha plus 1 gold powderd can,1,nutrition
+325151,lactonic lf gold g powdered can,2,nutrition
+325161,lactosat,1,other
+325162,lactosat # 30 pack,1,supplies
+325165,lactosat (lactoferrin,1,other
+325185,lactosat 30 sticks,2,other
+325188,lactosat 30 sticks ( lactoferrin 100,1,other
+325195,lactosat sticks 30,1,other
+325196,lactose intolerance,1,other
+325197,lactose intolerance (lct gene) - s.o,1,lab_test
+325206,lactotic biotic 10vail,1,other
+325212,lactulose,2,other
+325228,lactulose (kulax syrp,1,other
+325246,lactulose 0.67 /g/ml,1,other
+325285,lactulose 667 /g/l,1,other
+325291,lactulose sy,1,other
+325338,ladies care,1,other
+325341,ladydioro2 086 55-16,1,other
+325342,ladydioro2 807 55-16,1,other
+325344,lag ap&lat,1,imaging
+325345,lag screw,1,supplies
+325346,"lag screw 110 diff. size, chm",1,supplies
+325347,lag screw different size,1,supplies
+325348,"lag screw, ti gamma3 10.5x75mm , 30600075s / p0700400933 stryker",1,supplies
+325349,lag screws 60mm dhs # 280.600,1,supplies
+325350,laga clap10mm endoscopic clip applier er320,1,supplies
+325359,laila mohamednoor elmhdi ali,1,other
+325360,laino (dermagor) atopicalm,1,other
+325361,laino alep soap - (602331,1,other
+325363,laino alphacedre,1,other
+325366,laino argile soap,1,other
+325368,laino argill soap,1,other
+325370,laino lamborghini/la122/cw/f,1,other
+325372,laino lip stick,1,supplies
+325373,laino marseille liquid soap,1,other
+325374,laino marseille soap,1,other
+325375,laino marseille soap liquid,1,other
+325377,"laino marselle soap /1container, 1container/container",1,other
+325378,laino marsille soap,1,other
+325384,"laino ultra nourishing+laino marseille soap kit, box",1,other
+325387,lal-cholestrol,1,lab_test
+325392,lam,1,other
+325393,lama mansour holdar,1,other
+325394,lamattarunway 2 (50.00,1,other
+325395,lambda light chains,2,other
+325396,lambda light chains frozen serum,1,lab_test
+325397,lambda free light chain,1,other
+325398,lambo sacral spine,1,other
+325399,lambo sacral spine ( one view,1,supplies
+325400,lambo sacral spine ( two view,3,imaging
+325409,lambosacral,1,other
+325410,lambosacral 4 view,1,imaging
+325411,lambosacral xray,1,imaging
+325412,lamellar keratoplasty (lkp 8250,1,procedure
+325413,lamellar keratoplasty (lkp,1,procedure
+325415,lamia sadek soliman,1,other
+325523,lamictal100mgtabletblister30,1,other
+325845,lamifen250mg 14tab,1,other
+325846,lamifen250mg.14tab,1,other
+325847,lamifen250mg.7tab,1,other
+325849,lamillar kertoplasty surgery (left eye)/dr. mohanna al jindan,1,procedure
+325850,lamillar kertoplasty surgery (right eye)/dr. mohanna al jindan,1,procedure
+325851,lamillar kertoplasty surgery (right eye)/dr. z mohanna or,1,procedure
+325852,laminate veneer,1,other
+325853,laminectom discetomy pedicular screw as 28,1,supplies
+325854,laminectomy,2,procedure
+325855,laminectomy and dissectomy,1,procedure
+325856,laminectomy & discectomy > 2 levels,1,lab_test
+325857,laminectomy & disectomy more than 1 lev,1,procedure
+325858,laminectomy & disectomy with pedicular screws & plate (1 level,1,lab_test
+325859,laminectomy & dissectomy,1,procedure
+325860,laminectomy ( one level,1,lab_test
+325861,laminectomy ( two different levels ) ( lumbar ) or recurrent inclusive,1,lab_test
+325862,laminectomy (1 level) conclu.lumbar,1,lab_test
+325863,laminectomy (2 diff. level) lumbar or recurrent -a,1,lab_test
+325864,laminectomy (lumbar) post( 1 level,1,lab_test
+325865,laminectomy (one level,2,lab_test
+325866,laminectomy (one level) conclusive (lumber,1,lab_test
+325867,laminectomy (two level,2,lab_test
+325868,laminectomy - facetectomy/ foraminotomy w/ decompression of spinal cord/ nerve roots - each additional vertebral segment,1,procedure
+325869,laminectomy - facetectomy/ foraminotomy w/ decompression of spinal cord/ nerve roots - single vertebral segment,1,procedure
+325870,laminectomy - lumber (one level,2,lab_test
+325871,laminectomy - one level,1,lab_test
+325872,laminectomy - two levels,2,lab_test
+325873,laminectomy 1 level package,1,lab_test
+325874,laminectomy and creation of syringosubarachnoid/syringopleural shunt - package,1,procedure
+325875,laminectomy and disc exision,1,procedure
+325876,laminectomy cervical,1,imaging
+325877,"laminectomy dorsal,lumbar or cervical (one level",1,imaging
+325878,"laminectomy dorsal,lumbar or cervical (one level) (2nd operation 50%",1,imaging
+325879,laminectomy for decompression diskectomy,1,procedure
+325880,laminectomy for stenosis,2,procedure
+325881,laminectomy lumbar,2,procedure
+325882,laminectomy lumbar (one level,2,lab_test
+325883,laminectomy lumbar (two levels,1,lab_test
+325884,laminectomy multiple level,1,lab_test
+325885,laminectomy one level conclusive lumber taw,1,lab_test
+325886,laminectomy or disectomy (one level,1,lab_test
+325887,laminectomy two different levels,2,lab_test
+325888,"laminectomy w/o facetectomy/foraminotomy/diskectomy, > 2 segments, cervical",1,imaging
+325889,"laminectomy w/o facetectomy/foraminotomy/diskectomy, > 2 segments, lumbar",1,procedure
+325890,laminectomy with discectomy ( one level,1,lab_test
+325891,laminectomy with disectomy with pedicular screw fixation 2 level,1,lab_test
+325892,laminectomy with exploration and/or decompression of spinal cord and/o,1,procedure
+325893,laminectomy with exploration w/without decompression 1 or 2 vertebral segments cervical lumbar or thoracic,1,imaging
+325894,laminectomy with exploration w/without decompression more tha n 2 vertebral segments cervical lumbar or thoracic,1,imaging
+325895,laminectomy(cx)post.(multiple,1,procedure
+325896,laminectomy(dorsal)post.(1 level,1,imaging
+325897,laminectomy(dorsal)post.(multiple,1,imaging
+325898,laminectomy(lumbar)post(multiple,1,procedure
+325899,laminectomy+decomp+foromnectomy+fixation w/o imp 2 level,1,lab_test
+325900,laminectomy+decomp+foromnectomy+fixation w/o imp 3 level (inclusive,1,lab_test
+325901,"laminectomy, bx/excision, intraspinal neoplasm, intradural, extramedullary, thoracic",1,procedure
+325902,"laminectomy, facetectomy & foraminotomy, 1 segment, cervical",1,imaging
+325903,"laminectomy, facetectomy & foraminotomy, add'l segment, cervical/thoracic/lumbar",1,imaging
+325904,"laminectomy. facetectomy & foraminotomy, 1 segment, lumbar",1,procedure
+325905,laminectormy & lumbar disectomy recurrent one level,2,lab_test
+326020,lamisil 1% cream1%,1,other
+326021,lamisil 1% cream15g,1,other
+326063,lamisil 1% spray1%,1,other
+326105,lamisil cr,2,other
+326120,lamisil cream1%,1,other
+326146,lamisil spry,1,other
+326147,lamisil t 14 s,1,other
+326151,lamotrigen,1,other
+326152,lamotrigin,2,other
+326153,lamotrigin (lamical,1,other
+326155,lamotrigin s -(send-out tests,1,lab_test
+326156,lamotrigine,2,other
+326157,lamotrigine / lomictal level,1,lab_test
+326186,lamotrigine assay,1,lab_test
+326192,lamotrigine( so,1,other
+326208,lamsev 800,1,other
+326213,lamya saidsulaiman,1,other
+326214,lance plus single use lancets,1,supplies
+326215,lancet,3,supplies
+326216,"lancet , with , puncturing needle- 020130040001700",1,supplies
+326217,"lancet , with , puncturing needle- 020130040001700,johnson & johnson , 021-140-15",1,supplies
+326218,lancet - 148-93354,1,supplies
+326219,lancet 200 peices,1,supplies
